@@ -1,8 +1,8 @@
 import axios from "axios";
-import dotenv from 'dotenv';
 import { v4 } from "uuid";
 
-dotenv.config({ path: '../.env'});
+import dotenv from 'dotenv';
+dotenv.config();
 
 const azureKey = process.env.AZURE_TRANSLATOR_KEY;
 const endpoint = "https://api.cognitive.microsofttranslator.com";
