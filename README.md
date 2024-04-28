@@ -1,3 +1,3 @@
 # GT Benchmarks
 
-Benchmarking large language models abilities in different languages.
+Benchmarking large language models' abilities in different languages.
