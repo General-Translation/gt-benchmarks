@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/General-Translation/gt-benchmarks#readme",
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.20.7",
     "axios": "^1.6.8",
     "csv-parser": "^3.0.0",
     "csv-writer": "^1.6.0",
