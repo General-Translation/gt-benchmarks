@@ -1,3 +1,3 @@
-# GT Benchmarks
+# Models
 
-Benchmarking large language models' abilities in different languages.
+Scripts to call various ML models, from OpenAI, Anthropic, Replicate etc.
