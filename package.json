@@ -17,8 +17,11 @@
   },
   "homepage": "https://github.com/General-Translation/gt-benchmarks#readme",
   "dependencies": {
+    "axios": "^1.6.8",
     "dotenv": "^16.4.5",
-    "openai": "^4.38.5"
+    "openai": "^4.38.5",
+    "uuid": "^9.0.1",
+    "v4": "^0.0.1"
   },
   "type": "module"
 }
