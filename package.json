@@ -1,0 +1,22 @@
+{
+  "name": "gt-benchmarks",
+  "version": "1.0.0",
+  "description": "Benchmarking large language models' abilities in different languages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/General-Translation/gt-benchmarks.git"
+  },
+  "author": "General Translation, Inc.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/General-Translation/gt-benchmarks/issues"
+  },
+  "homepage": "https://github.com/General-Translation/gt-benchmarks#readme",
+  "dependencies": {
+    "openai": "^4.38.5"
+  }
+}
