@@ -8,6 +8,9 @@ const azureKey = process.env.AZURE_TRANSLATOR_KEY;
 const endpoint = "https://api.cognitive.microsofttranslator.com";
 const location = "eastus"
 
+// Takes in a text to translate, it's original language, and either a single
+// language code string or an array of language code strings.
+// Returns an array of translations in the order toLangs array languages.
 export default async function azureTranslate(text, fromLang, toLangs) {
     let lang;
     if (Array.isArray(toLangs)) {
