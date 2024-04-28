@@ -18,3 +18,5 @@ You then get, for example:
 ```
 
 For this test, I'm using OpenAI's `text-embedding-3-small` model for embeddings.
+
+This test assumes that the model speaks English, so it can't be considered comprehensive. But it is a good indicator of whether a model is proficient in a given non-English language. It also assumes that Azure translator has a quality floor.
