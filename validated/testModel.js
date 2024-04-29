@@ -46,13 +46,11 @@ async function askQuestion(question) {
     return standardizeText(answer);
 }
 
-async function processCSV(filePath) {
+async function processCSV(filePath, csvWriter) {
     let questions = [];
     let correctCount = 0;
-    // How many questions are asked simultaneously
     const batchSize = 10;
-    // Time between batch processing, in milliseconds
-    const delayTime = 1000
+    const delayTime = 1000;
 
     return new Promise((resolve, reject) => {
         fs.createReadStream(filePath)
@@ -62,23 +60,27 @@ async function processCSV(filePath) {
             })
             .on('end', async () => {
                 try {
-                    // Process each batch of questions
                     for (let i = 0; i < questions.length; i += batchSize) {
                         const batch = questions.slice(i, i + batchSize);
                         await Promise.all(batch.map(async (row) => {
                             const question = `${row.Question}\nA.${row.A}\nB.${row.B}\nC.${row.C}\nD.${row.D}`;
-                            const correctAnswer = standardizeText(`${row['Correct Answer']}${row[row['Correct Answer']]}`);
+                            const correctAnswer = standardizeText(`${row.Answer}`);
                             const answer = await askQuestion(question);
-
-                            // gpt-3.5-turbo-0125 validates if answer is correct
                             const validation = await validate(question, correctAnswer, answer);
                             if (validation.correct) {
                                 correctCount++;
                             }
+
+                            // Write each question's result to the language-specific CSV file
+                            await csvWriter.writeRecords([{
+                                question: question,
+                                correctAnswer: correctAnswer,
+                                givenAnswer: answer,
+                                correct: validation.correct
+                            }]);
                         }));
 
                         if (i + batchSize < questions.length) {
-                            console.log(`Processed ${i + batchSize} questions, pausing for a moment...`);
                             await delay(delayTime);
                         }
                     }
@@ -97,20 +99,23 @@ async function processCSV(filePath) {
     });
 }
 
+
 async function testModel() {
     console.log("Running for:", model);
     const directoryPath = './mmlu/question_bank';
-    const resultsDirectoryPath = `./validated/results/${model}`;
+    const resultsDirectoryPath = `./validated/results`;
+    const modelDirectoryPath = `${resultsDirectoryPath}/models/${model}`;
     
     try {
         await fsPromises.mkdir(resultsDirectoryPath, { recursive: true });
+        await fsPromises.mkdir(modelDirectoryPath, { recursive: true });
     } catch (err) {
-        console.error('Error creating results directory:', err);
+        console.error('Error creating directories:', err);
         return;
     }
 
-    const csvWriter = createObjectCsvWriter({
-        path: `${resultsDirectoryPath}-results.csv`,
+    const globalCsvWriter = createObjectCsvWriter({
+        path: `${resultsDirectoryPath}/${model}-results.csv`,
         header: [
             {id: 'fileName', title: 'FileName'},
             {id: 'score', title: 'Score'}
@@ -121,16 +126,32 @@ async function testModel() {
     try {
         const files = await fsPromises.readdir(directoryPath);
         for (const file of files.filter(file => path.extname(file).toLowerCase() === '.csv')) {
+            const languageCode = file.match(/questions_(.+)\.csv/)[1];
+            if (!languageCode) continue;
+
+            const languageDirectoryPath = `${modelDirectoryPath}/${languageCode}`;
+            await fsPromises.mkdir(languageDirectoryPath, { recursive: true });
+
+            const languageCsvWriter = createObjectCsvWriter({
+                path: `${languageDirectoryPath}/${model}-responses.csv`,
+                header: [
+                    {id: 'question', title: 'Question'},
+                    {id: 'correctAnswer', title: 'CorrectAnswer'},
+                    {id: 'givenAnswer', title: 'GivenAnswer'},
+                    {id: 'correct', title: 'Correct'}
+                ]
+            });
+
             const filePath = path.join(directoryPath, file);
             console.log(`Processing ${file}...`);
-            const score = await processCSV(filePath);
+            const score = await processCSV(filePath, languageCsvWriter);
             results.push({
                 fileName: file,
                 score: score
             });
         }
 
-        await csvWriter.writeRecords(results);
+        await globalCsvWriter.writeRecords(results); // Write overall results
         console.log(`Results have been written to ${model}-results.csv`);
     } catch (err) {
         console.error('Error processing files:', err);

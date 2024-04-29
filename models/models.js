@@ -13,8 +13,8 @@ const models = {
         "claude-3-haiku-20240307"
     ],
     "meta": [
-        "meta/meta-llama-3-70b-instruct",
-        "meta/meta-llama-3-8b-instruct"
+        "meta-llama-3-70b-instruct",
+        "meta-llama-3-8b-instruct"
     ]
 }
 
