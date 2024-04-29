@@ -15,12 +15,14 @@ export default async function queryOpenAI(messages, model, {jsonMode = false}) {
             messages: messages,
             model: "gpt-3.5-turbo-0125",
             response_format: { type: "json_object" },
+            temperature: 0
         });
     }
     else {
         completion = await openai.chat.completions.create({
             messages: messages,
             model: model,
+            temperature: 0
         });
     }
 

@@ -11,7 +11,8 @@ export default async function queryAnthropic(messages, model) {
     const completion = await anthropic.messages.create({
         model: model,
         max_tokens: 1024,
-        messages: messages
+        messages: messages,
+        temperature: 0
     });
     const answer = completion.content[0].text
     return answer;
