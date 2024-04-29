@@ -50,7 +50,7 @@ async function processCSV(filePath) {
     let questions = [];
     let correctCount = 0;
     // How many questions are asked simultaneously
-    const batchSize = 50;
+    const batchSize = 10;
     // Time between batch processing, in milliseconds
     const delayTime = 1000
 
@@ -100,7 +100,7 @@ async function processCSV(filePath) {
 async function testModel() {
     console.log("Running for:", model);
     const directoryPath = './mmlu/question_bank';
-    const resultsDirectoryPath = `./validated/results`;
+    const resultsDirectoryPath = `./validated/results/${model}`;
     
     try {
         await fsPromises.mkdir(resultsDirectoryPath, { recursive: true });
