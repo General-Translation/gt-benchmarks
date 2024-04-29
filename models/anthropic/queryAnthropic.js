@@ -1,7 +1,7 @@
 import dotenv from 'dotenv';
 import Anthropic from '@anthropic-ai/sdk';
 
-dotenv.config({ path: '../../.env'});
+dotenv.config();
 
 const anthropic = new Anthropic({
     apiKey: process.envANTHROPIC_API_KEY, // This is the default and can be omitted
