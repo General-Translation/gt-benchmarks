@@ -17,6 +17,7 @@ export default async function queryOpenAI(messages, model, {jsonMode = false}) {
             response_format: { type: "json_object" },
             temperature: 0
         });
+        console.log(completion);
     }
     else {
         completion = await openai.chat.completions.create({
@@ -25,6 +26,6 @@ export default async function queryOpenAI(messages, model, {jsonMode = false}) {
             temperature: 0
         });
     }
-
+    console.log(completion.choices[0].message.content)
     return completion.choices[0].message.content;
 }
