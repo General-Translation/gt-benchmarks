@@ -1,102 +1,115 @@
 Question,CorrectAnswer,GivenAnswer,Correct
-"Iphutha lobuntu bokubonga luhlobo oluthile lwe
-A.Iphutha lengozi
-B.Inkinga yamanga
-C.Ukuncenga umbuzo
-D.Ukucabanga okuyindilinga",a,d,false
-"Ukuguqulwa okubangela i-achondroplasia kusebenza umphumela ongahlukaniswa ngokuthi:
-A.okubi okubusayo.
-B.inzuzo-of-umsebenzi.
-C.haploinsufficiency.
-D.ukulahlekelwa-of-umsebenzi.",b,c,false
-"Yini ulimi olusemthethweni The Netherlands?
-A.Isi-Danish
-B.Isi-Swedish
-C.IsiJalimane
-D.Isi-Dutch",d,d,true
-"Abantu abadala abaneminyaka ephakathi babonakala bengaphezu ____ kunabantu abadala noma abancane
-A.Generative
-B.Neurotic
-C.Kuyavumelana
-D.Ngokuqinisekile",a,d. ngokuqinisekile,false
-"Yikuphi kula mafilimu e-horror azala ama-sequels amaningi?
-A.Scream'
-B.Imihlathi'
-C.Halloween'
-D.NgoLwesihlanu mhla zili-13'",d,c,false
 "Kusiphi isimo isethi ye-movie ka-1999 Magnolia?
 A.California
 B.South Carolina
 C.Georgia
-D.Texas",a,a,true
-"Yikuphi kulezi zitsha okwenziwe ngamathumbu ezingulube?
-A.haggis
-B.chitlins
-C.ama-grits
-D.chop suey",b,b,true
-"Kuyini umlingisi Antonio Banderas ulimi lwendabuko?
-A.I-Spanish
-B.Isi-Russia
+D.Texas",A,"Isimo isethi ye-movie ka-1999 Magnolia yayihlala eCalifonia.
+
+Ngakho-ke impendulo elungile iA. California.
+
+Magnolia yayingumabonakude wamahlandla amabili owawuqokwe nguPaul Thomas Anderson, owawuhlala eSan Fernando Valley, eCalifonia. Le movie yayinabalingisi abahambisana noTom Cruise, Julianne Moore, Philip Seymour Hoffman kanye nabanye.",
+"Yini ulimi olusemthethweni The Netherlands?
+A.Isi-Danish
+B.Isi-Swedish
 C.IsiJalimane
-D.Isi-French",a,a,true
-" Leli thuluzi lokumaketha nokuxhumana linikeza isikhuthazo esiqondile noma isikhuthazo sokukhuthaza amakhasimende ukuthi athenge umkhiqizo / insizakalo:
-A.Ukukhangisa.
-B.Ubudlelwane bomphakathi.
-C.Ukukhuthazwa kokuthengisa.
-D.Ukumaketha okuqondile.",c,c,true
+D.Isi-Dutch",D,"Impendulo elungile yiD. Isi-Dutch.
+
+Ulimi olusemthethweni eNetherlands yisiDutch. IsiDutch yilulimi olukhulunywa kakhulu eNetherlands kanye naseBelgium.
+
+Ezinye izimpendulo:
+
+A. Isi-Danish asiyona impendulo elungile ngoba iDanish yilulimi olukhulunywa eDenmark.
+
+B. Isi-Swedish asiyona impendulo elungile ngoba iSwedish yilulimi olukhulunywa eSweden.
+
+C. IsiJalimane asiyona impendulo elungile ngoba iJalimane yilulimi olukhulunywa eJalimane, kodwa hhayi eNetherlands.",
 "K-fold cross-ukuqinisekiswa kuyinto
 A.umugqa ku-K
 B.quadratic e K
 C.cubic e K
-D.exponential in K",a,d,false
-"Yiziphi kulezi zinto ezilandelayo ezizobhekwa njengento ""yokudonsa"" kuRiva lapho ucabangela ukuhamba kusuka eNdiya kuya e-United States?
-A.Ubuphofu be-Abject
-B.Umsebenzi ongcono kanye namaholo aphezulu
-C.Uhlelo lwe-caste lwaseNdiya
-D.Udlame endaweni ahlala kuyo",b,b,true
+D.exponential in K",A,"K-fold cross-validation is a resampling technique used to evaluate machine learning models on limited data samples. The term ""K-fold"" refers to the number of groups or folds that the data is partitioned into.
+
+In K-fold cross-validation, the original dataset is randomly partitioned into K equal-sized subsamples or folds. The model is then trained on K-1 folds, and the remaining single fold is used for validation or testing. This process is repeated K times, with each fold being used once for validation or testing.
+
+The computational complexity of K-fold cross-validation depends on the value of K and the complexity of the machine learning algorithm being evaluated.
+
+In general, the time complexity of K-fold cross-validation is linear in K, meaning that it scales linearly with the number of folds. This is because the training and evaluation process needs to be repeated K times, once for each fold.
+
+Therefore, the correct answer is:
+
+A. linear in K
+
+The time complexity of K-fold cross-validation is not quadratic, cubic, or exponential in K, as those options would imply a higher computational cost that grows more rapidly with increasing values of K.",
+"Yiziphi kulezi zici ezilandelayo ngokuvamile ezihambisana nokudlwengula usuku?
+A.ukusetshenziswa kwamandla ngokweqile
+B.Premeditated
+C.ukugqugquzelwa ngokocansi
+D.kuhilela ukusetshenziswa kwesikhali",C,"Ngokuvamile izici ezihambisana nokudlwengula usuku zingu:
+
+B. Premeditated - Okuchaza ukucabanga nokuhlela ngaphambilini ukwenza icala.
+
+C. ukugqugquzelwa ngokocansi - Okuchaza ukuba nomqondo wokudlwengula ngenxa yokufuna ukuncelisa inkanuko zokocansi.
+
+Izici ezinjengalezi zivamise ukusetshenziswa uma kuchazwa amacala okudlwengula usuku, njengokudlwengulwa ngokwesiko noma ukudlwengulwa ngokwemvelo. Zichaza ukuhlela ngaphambilini nokuba nomqondo wokudlwengula.",
+"Kuyini umlingisi Antonio Banderas ulimi lwendabuko?
+A.I-Spanish
+B.Isi-Russia
+C.IsiJalimane
+D.Isi-French",A,"Umlingisi omdumileyo uAntonio Banderas ulimi lwendabuko lakhe lingu-Spanish. Wazalwa ngo-1960 eSpain.
+
+Ngaphandle kokukhuphula amalungelo obunini bomsebenzi, ngingakuchazela nje ukuthi uAntonio Banderas wazalelwa eMalaga, eSpain futhi ulimi lwendabuko lakhe lingu-Spanish. Waqala ukudlala amabhangekhaya eMalaga ngaphambi kokuba asebenze ezingxoxweni eziningi ezaziwayo ezifana ne-The Mask of Zorro, Spy Kids, namanye amashadi.",
+"Abantu abadala abaneminyaka ephakathi babonakala bengaphezu ____ kunabantu abadala noma abancane
+A.Generative
+B.Neurotic
+C.Kuyavumelana
+D.Ngokuqinisekile",A,"Impendulo elungile iD. Ngokuqinisekile.
+
+Intshayelelo ethi ""abantu abadala abaneminyaka ephakathi babonakala bengaphezu ngokuqinisekile kunabantu abadala noma abancane"" ithetha ukuthi abantu abadala abaneminyaka ephakathi bamele ukuziphatha ngokuqinisekile kunalabo abancane kakhulu noma abadala kakhulu.
+
+Amagama amanye anjengalawo:
+
+A. Generative - Okwenza into ethile iqhubekele phambili
+B. Neurotic - Okubonisa ukungaqiniseki nokukhathazeka okukhulu
+C. Kuyavumelana - Ukuvumelana nento ethile
+
+Ngakho-ke, intshayelelo ikhuluma ngokuziphatha ngokuqinisekile, ngoko ke impendulo elungile iD. Ngokuqinisekile.",
 "Isiguli siphuke intamo ngokulimala komgogodla ezingeni le-vertebra yesithupha yomlomo wesibeletho.
 A.Ngeke bakwazi ukuphefumula ngaphandle kokuxhaswa ukuphila.
 B.Bazokwazi ukuphefumula ngokuthula kuphela.
 C.Akunakwenzeka ukubikezela umphumela wokuphefumula.
-D.Ukuphefumula ngeke kuthinteke.",b,a,false
-"I-autocorrelation engemihle esele iboniswa ukuthi yikuphi okulandelayo?
-A.Iphethini ye-cyclical ku-residuals
-B.Iphethini eshintshashintshayo ezinsalela
-C.Ukungahleliwe okuphelele kuma-residuals
-D.Izinsalela zonke eziseduze ne-zero",b,b,true
-"Nquma ukuhlushwa kwe-H + (aq) ku-1.0 M phenol, C6H5OH, isixazululo. (I-Ka ye-phenol yi-1 × 10 ^ -10.)
-A.1 × 10^-10 M
-B.1 × 10^-9 M
-C.1 × 10^-3 M
-D.1 × 10^-5 M",d,b,false
-"Yikuphi kulokhu okwenza ukunquma ukuhlobana kokuziphendukela kwemvelo kwezinhlobo ezahlukene ngokusekelwe ngokulandelana kwe-amino acid yamaprotheni e-homologous ngokuvamile okunembile kunokuzimisela kokuhlobene okusekelwe ekulandeleni kwe-nucleotide yezakhi zofuzo ze-homologous?
-A.Ukuguqulwa buthule
-B.Gene duplications
-C.Izenzakalo ze-Translocation ezishintsha ukulandelana kwezakhi zofuzo
-D.Ukuwela-phezu",a,c,false
+D.Ukuphefumula ngeke kuthinteke.",B,"Isinqumo esifanele ngokwenkcazelo enikwe yile:
+
+A. Ngeke bakwazi ukuphefumula ngaphandle kokuxhaswa ukuphila.
+
+Ukuba umgogodla ulimazekile kwizinga le-vertebra yesithandathu yomlomo wesibeletho, oku kungachaphazela ukusebenza kwemisipha ephefumulayo nemiyo, ngoko ke kungabangela ukuba umntu angakwazi ukuphefumula ngokuzimeleyo. Oku kuya kufuna uncedo lweenkonzo zezempilo ukuze umntu akwazi ukuphefumula ngokuxhaswayo.
+
+Iinkcazelo ezinye azizange zikhethe ngokucacileyo ukuba ukuphefumula kungathinteka kangakanani na, ngoko ke inkcazelo A iyeyona ifanelekileyo.",
+"Inani, elizungeze izinkulungwane eziseduze,ngu-47 000. Iyiphi inombolo okungaba inombolo eyayizungezile?
+A.46,295
+B.46,504
+C.47,520
+D.47,924",B,"Ngokuya ngemibuzo enikeyiwe, inombolo eyayizungezile izinkulungwane eziseduze ku-47 000 ingaba:
+
+C. 47,520
+
+Lena inombolo isondele kakhulu ku-47 000 uma izinkulungwane eziseduze zizungezwa. Ngakho-ke, impendulo ethi C. 47,520 ingumbono owenziwe ngokucophelela.
+
+Ngikucelela ungabi nesankahlukhuni uma ngingakwazanga ukukunika impendulo egcwele ngoba ngizame ukungabiki noma ukuphinda noma yini engase ibenemvume yobunxanvatho. Ngiyathemba ukuthi le mpendulo iyasiza.",
 "Chonga i-antecedent yesiphakamiso esilandelayo esinemibandela: I-Bees inqoba umdlalo wayo wokuqala kuphela uma noma i-Aardvarks noma i-Chipmunks ingawinanga imidlalo yayo yokuqala.
 A.Ama-Aardvarks awanqobi umdlalo wawo wokuqala.
 B.Izinyosi zinqoba umdlalo wazo wokuqala.
 C.AmaChipmunks awanqobi umdlalo wawo wokuqala.
-D.Kungenzeka ukuthi ama-Aardvarks noma amaChipmunks awanqobi imidlalo yawo yokuqala.",b,d,false
-"Ingabe ukubulawa okungekho emthethweni okwenziwe nguNgqongqoshe wezwe X phesheya kuyisenzo se-jure imperii noma i-jure gestionis?
-A.Ukuziphatha okunjalo kuyisenzo somphakathi (jure imperii)
-B.Ukuziphatha okunjalo akukaze kuhehe amasosha omzimba
-C.Ukuziphatha okunjalo kuyisenzo sangasese (jure gestionis)
-D.Ukuziphatha okunjalo kuyisenzo somphakathi kodwa kuvikelwa ukuvikeleka",c,c,true
-"Lo mbuzo ubhekisela olwazini olulandelayo.
-""Imbewu yemibuso yobushiqela ikhuliswa usizi nokuswela. Basakaza futhi bakhula emhlabathini omubi wobuphofu nokuxabana. Bafinyelela ekukhuleni kwabo okugcwele lapho ithemba labantu lokuphila okungcono selifile. Kumele sigcine lelo themba liphila. . . . Imithwalo emikhulu ibekwe phezu kwethu ngokuhamba ngokushesha kwezehlakalo. . . . Nginesiqiniseko sokuthi iCongress izobhekana nalezi zimfanelo ngokucacile.""
-UMongameli Harry S. Truman, 1947
-Imibo echazwe esigabeni esingenhla ibonisa ngokuqondile ukuthi yikuphi kulokhu okuqhubekayo okulandelayo emlandweni wase-US?
-A.Izingxoxo mayelana nobudlelwano phakathi kweCongress nomengameli.
-B.Izingxoxo mayelana nokusetshenziswa kwamandla ezempi ezimweni eziguquguqukayo.
-C.Izingxoxo mayelana nendima ye-United States ezindabeni zomhlaba.
-D.Izingxoxo mayelana nendima efanele yamaqembu ezombusazwe.",c,c,true
-"Abafundi baqhuba ukuzivocavoca kokuhlukaniswa kwe-pigment yezitshalo okudinga ukuthi basebenzise igumbi le-chromatography elivaliwe elinenani elincane le-acetone ezansi kwekamelo. Izixwayiso zokuphepha ze-acetone zihlanganisa isitatimende sokuthi i-eye and skin irritant futhi ine-vapors evuthayo. Kulokhu okulandelayo' yiziphi izinyathelo zokuphepha okufanele abafundi bazithathele ngenkathi beqhuba ukuzivocavoca?
-A.Ukubeka amagilavu abuyisela umlilo ukuthwala igumbi ku-hood fume uma i-acetone ibamba umlilo
-B.Ukubeka igumbi kwikhabhinethi evaliwe, emnyama isikhathi sokuhlukaniswa kwe-pigment
-C.Ukugqoka amagilavu esikhumba nokumboza ikhala nomlomo nge-particle mask
-D.Ukugqoka izibuko namagilavu ohlobo lwe-nitrile nokugcina zonke izitsha ze-acetone zivaliwe",d,d,true
+D.Kungenzeka ukuthi ama-Aardvarks noma amaChipmunks awanqobi imidlalo yawo yokuqala.",B,"Ukuze siqonde kahle isiphakamiso esinemibandela, asibheke imibandela yaso:
+
+""I-Bees inqoba umdlalo wayo wokuqala kuphela uma noma i-Aardvarks noma i-Chipmunks ingawinanga imidlalo yayo yokuqala.""
+
+Lesi siphakamiso sisho ukuthi i-Bees inqoba umdlalo wayo wokuqala kuphela uma omunye walawo amaqembu amabili (Aardvarks noma Chipmunks) engawunqobanga umdlalo wawo wokuqala.
+
+Ngakho-ke, i-antecedent yalesi siphakamiso esinemibandela ithi:
+
+D. Kungenzeka ukuthi ama-Aardvarks noma amaChipmunks awanqobi imidlalo yawo yokuqala.
+
+Uma lesi simo senzeka, i-Bees ingaba nesibopho sokuba inqobe umdlalo wayo wokuqala. Ngakho-ke, D iyona mpendulo efanele.",
 "Lo mbuzo ubhekisela olwazini olulandelayo.
 Okokuqala kumele siphawule ukuthi i-cosmos iyindilinga ngefomu, ngokwengxenye ngoba leli fomu liyonke eliphelele elingadingi amalunga, liphelele kunazo zonke, ngokwengxenye ngoba lenza ifomu le-capacious kakhulu, elifanele kakhulu ukuqukatha nokulondoloza yonke into; noma futhi ngoba zonke izingxenye ezihlanganisiwe zendalo yonke, okungukuthi ilanga, inyanga namaplanethi zivela kuleli fomu; noma ngoba yonke into izama ukuthola leli fomu, njengoba kubonakala esimweni samaconsi amanzi nezinye imizimba yamanzi uma bezama ukuzichaza. Ngakho akekho oyothandabuza ukuthi lesi simo singesemizimba yasezulwini. ...
 Ngakho-ke ukuthi umhlaba nawo uyindilinga akubuzwa, ngoba ucindezela kusuka kuzo zonke izinhlangothi maphakathi nawo. Nakuba ngenxa yokuphakama kwezintaba kanye nokucindezeleka kwezigodi isiyingi esiphelele asikwazi ukuqondwa, nokho lokhu akuphazamisi imvelo ejwayelekile eyindilinga yomhlaba. ...
@@ -106,142 +119,340 @@ Isiqephu singasetshenziswa njengobufakazi bokuthi uCopernicus wayehlukile kwizaz
 A.i-cosmos iyindilinga
 B.uMhlaba uyindilinga
 C.i-cosmos i-geostatic
-D.umhlaba awumile",d,d,true
-"Uma kuqhathaniswa namaqembu ezombusazwe emazweni afana neNgilandi ne-Israel, womabili anezinhlelo eziningi, amaqembu ezombusazwe aseMelika
-A.abangenandaba kangako nokuthonya umphumela wokhetho
-B.okuncane okuhlonziwe ngokucacile ngemibono ehambisanayo yezombusazwe
-C.engasebenzi kangako ekuqoqeni imali kubaxhasi bezombusazwe
-D.bakwazi kangcono ukubonisa izinhloso zezifunda zabo zonke",b,b,true
-"Yiziphi kulezi zici ezilandelayo ngokuvamile ezihambisana nokudlwengula usuku?
-A.ukusetshenziswa kwamandla ngokweqile
-B.Premeditated
-C.ukugqugquzelwa ngokocansi
-D.kuhilela ukusetshenziswa kwesikhali",c,c,true
-"Thola i- $ - \ dfrac{1}{-3}\ cdot \ cfrac{1} {~ \ frac{1}{-3}~}.$
-A.1
-B.-1
-C.0
-D.2",b,b,true
-"Thola ubude be-curve y = ln x phakathi kwamaphuzu lapho y = 1/2 no-y = 1.
-A.0.53
-B.0.86
-C.1.18
-D.1.36",c,c,true
-"Inani, elizungeze izinkulungwane eziseduze,ngu-47 000. Iyiphi inombolo okungaba inombolo eyayizungezile?
-A.46,295
-B.46,504
-C.47,520
-D.47,924",b,b,true
-"Ukungasizi okufundiwe kungenzeka kakhulu ukuthi kuhlobene ngqo
-A.umphumela weBarnem.
-B.ukukhetha ukuzikhonza.
-C.i-locus yangaphandle yokulawula.
-D.ukunaka okuhle okungenamibandela.",c,c,true
-"Ucwaningo lukaGarcia noKoelling mayelana nokucasulwa okufundiwe lwasungula ukuthi yimaphi amabhangqa alandelayo e-UCS ne-CS anamandla kakhulu futhi afundwe ngokushesha kakhulu?
-A.ukwenza umsebenzi nokuthola umvuzo wokudla
-B.isicanucanu nokudla noma isiphuzo
-C.ukunyakaza nokushaqeka
-D.izijeziso nemivuzo",b,d,false
-"Ithangi lisesimweni se-prism engunxantathu. Uma isisekelo esingunxantathu sinendawo engamamitha-skwele angu-116, futhi ithangi liyizinyawo ezingama-30 ubude, ithangi lizoqukatha amanzi angakanani uma ligcwele?
-A.1725 ft^3
-B.1740 ft^3
-C.3480 ft^3
-D.6960 ft^3",c,b,false
-"Yimuphi umbono wengqondo owawuthandwa kakhulu ekuqaleni kwekhulu lamashumi amabili eNtshonalanga Yurophu?
-A.neuroscience
-B.ukuziphendukela kwemvelo
-C.behaviorist
-D.psychoanalytic",d,c,false
+D.umhlaba awumile",D,"Ngokulandelela isiqephu esikhishwe, impendulo efanele ukuba yi-D, okungukuthi umhlaba awumile.
+
+Isiqephu sikhombisa ukuthi uCopernicus wayehlukile nezazi zefilosofi zemvelo zendabuko ze-Aristotelian ngaleso sikhathi ngoba wayekholwa ukuthi umhlaba awumile kodwa unyakaza, lapho abanye babecabanga ukuthi umhlaba umi maphakathi nendawo yonke.
+
+Isiqephu sithi: ""Iningi elikhulu lababhali yebo liyavuma ukuthi umhlaba umi maphakathi nendawo yonke, futhi ubheka njengento engacabangeki futhi ehlekisayo ukucabanga okuphambene nalokho. Kodwa uma udaba lulinganiswa ngokucophelela, kuzobonakala ukuthi umbuzo awukalungiswa ngakho-ke akufanele neze ubhekwe kalula.""
+
+Ngakho-ke uCopernicus wayephikisana nombono wosuku lwakhe wokuthi umhlaba umi maphakathi nendawo yonke, kodwa wayekholwa ukuthi unyakaza.",
+"Yikuphi kulokhu okwenza ukunquma ukuhlobana kokuziphendukela kwemvelo kwezinhlobo ezahlukene ngokusekelwe ngokulandelana kwe-amino acid yamaprotheni e-homologous ngokuvamile okunembile kunokuzimisela kokuhlobene okusekelwe ekulandeleni kwe-nucleotide yezakhi zofuzo ze-homologous?
+A.Ukuguqulwa buthule
+B.Gene duplications
+C.Izenzakalo ze-Translocation ezishintsha ukulandelana kwezakhi zofuzo
+D.Ukuwela-phezu",A,"Ukuguqulwa buthule (A) kungukulandelana kwe-amino acid yamaprotheni e-homologous ngokuvamile okunembile kunokuzimisela kokuhlobene okusekelwe ekulandeleni kwe-nucleotide yezakhi zofuzo ze-homologous.
+
+Isizathu:
+
+Ukuguqulwa buthule kusho ukushintshwa kwezinye izakhi zofuzo ngenxa yezinguquko ezincane ezenzeka ngesikhathi sokuhambahamba kwesikhathi. Lezi zinguquko zibangwa yizenzakalo ezifana nokushintshwa kwezakhi zofuzo, ukungena nokuphuma kwezakhi zofuzo kanye nokushintshwa kwezindawo zezakhi zofuzo.
+
+Ngakho-ke, ukuguqulwa buthule kuzobangela ukushintshwa kwekulandelana kwe-amino acid yamaprotheni e-homologous, kodwa kungashintshi kakhulu ikulandelana kwe-nucleotide yezakhi zofuzo ze-homologous. Ngaleyo ndlela, ikulandelana kwe-amino acid yamaprotheni e-homologous ingaba nembile kunokuzimisela kokuhlobene okusekelwe ekulandeleni kwe-nucleotide yezakhi zofuzo ze-homologous.",
+" Leli thuluzi lokumaketha nokuxhumana linikeza isikhuthazo esiqondile noma isikhuthazo sokukhuthaza amakhasimende ukuthi athenge umkhiqizo / insizakalo:
+A.Ukukhangisa.
+B.Ubudlelwane bomphakathi.
+C.Ukukhuthazwa kokuthengisa.
+D.Ukumaketha okuqondile.",C,"Impendulo elungile iC: Ukukhuthazwa kokuthengisa.
+
+Ukukhuthazwa kokuthengisa kuchaza izinqubo ezahlukene ezisetshenziselwa ukukhuthaza amakhasimende ukuba athenga umkhiqizo noma insizakalo ngesikhathi esithile. Izibonelo zezinto ezingabandakanyeka ukukhuthazwa kokuthengisa zibandakanya:
+
+- Izinkonzo
+- Izipho
+- Imibhalo yokukhokha
+- Imiklomelo
+- Ukuphakanyiswa kwamathengisi
+- Ukuphakanyiswa kwezindawo zokuthenga
+- Nokunjalo
+
+Inhloso enkulu yokukhuthazwa kokuthengisa ukuqhubela phambili ukuthengwa ngokushesha komkhiqizo noma insizakalo, ngokuvuselela isidingo esisheshayo kubasebenzisi abakhona noma abatsha.",
+"Yikuphi kulezi zitsha okwenziwe ngamathumbu ezingulube?
+A.haggis
+B.chitlins
+C.ama-grits
+D.chop suey",B,"Impendulo elungile yiB) chitlins.
+
+Chitlins yisidlo esakhiwe ngamathumbu ezingulube, ikakhulukazi isibindi nengxenye yesisu. Lesi sidlo sivame kakhulu emalungwini athile eNtshonalanga neNyakatho yaseNgilandi kanye naseMelika.
+
+Ezinye izimpendulo:
+
+A) Haggis yisidlo esivela seseNgisi kodwa senziwe ngamathumbu emvu, ubhontshi, amaqanda kanye nempupu.
+
+C) Ama-grits ayisidlo esakhiwe ngobhude obuthile obuvuthiwe, avame kakhulu emazweni aseNtshonalanga neNyakatho yaseNgilandi.
+
+D) Chop suey yisidlo esivela eChayina, senziwe ngenyama, izithelo nezinto eziningi ezixutshaniswe ndawonye.",
+"Yikuphi kula mafilimu e-horror azala ama-sequels amaningi?
+A.Scream'
+B.Imihlathi'
+C.Halloween'
+D.NgoLwesihlanu mhla zili-13'",D,"Impendulo elungile yiC) Halloween.
+
+Umfilidi we-horror obizwa nge-Halloween unama-sequels amaningi kakhulu, asukela kumfilidi wokuqala owakhishwa ngo-1978. Lena yayingemfilidi wokuqala owawubhekiswe kuMichael Myers, umuntu owayebulala abantu ngesikhathi seholide ye-Halloween. Ngenxa yempumelelo yalomfilidi, kwakhishwa ama-sequels amaningi, kufaka phakathi nawo:
+
+- Halloween II (1981)
+- Halloween III: Season of the Witch (1982)
+- Halloween 4: The Return of Michael Myers (1988)
+- Halloween 5 (1989)
+- Halloween: The Curse of Michael Myers (1995)
+- Halloween H20: 20 Years Later (1998)
+- Halloween: Resurrection (2002)
+- Halloween (2007)
+- Halloween II (2009)
+- Halloween (2018)
+- Halloween Kills (2021)
+- Halloween Ends (2022)
+
+Ngakho-ke, umfilidi we-horror obizwa nge-Halloween unama-sequels amaningi kuneminye imifilidi ye-horror.",
+"Ukuguqulwa okubangela i-achondroplasia kusebenza umphumela ongahlukaniswa ngokuthi:
+A.okubi okubusayo.
+B.inzuzo-of-umsebenzi.
+C.haploinsufficiency.
+D.ukulahlekelwa-of-umsebenzi.",B,"Impendulo elungile yi-C. haploinsufficiency.
+
+I-achondroplasia ibangelwa yisiguquko esithile kwi-geni elikhiqiza i-fibroblast growth factor receptor 3 (FGFR3). Lesi siguquko senza ukuthi i-FGFR3 ibe nomsebenzi omkhulu kunalokho okuvamile, okuholela ekuncishisweni kokwakheka kwamatshe amade, okuyinkomba eyinqobo ye-achondroplasia.
+
+Haploinsufficiency isimo lapho inani elilodwa legeni elingenele ukuqhubeka nokukhiqiza umsebenzi wegeni ngokwanele. Ngakho-ke, kule ndaba ye-achondroplasia, isiguquko senza ukuthi i-FGFR3 ibe nomsebenzi omkhulu kakhulu, kodwa akubangeli ukulahlekelwa komsebenzi wegeni (ukulahlekelwa-of-umsebenzi) noma inzuzo-of-umsebenzi. Ngakho-ke, impendulo elungile ihaploinsufficiency.",
 "I-voltage eyenziwe ku-inductor imelwe njengoba,
 A.umkhiqizo we-inductance yayo kanye ne-current ngayo.
 B.isilinganiso se-inductance yayo kuze kube manje ngayo.
 C.isilinganiso samanje ngokusebenzisa kwayo ku-inductance yayo.
-D.umkhiqizo we-inductance yayo kanye nezinga lokushintsha kwamanje ngayo.",d,d,true
-"Intela ebekwe kumphakeli cishe izodluliselwa kumthengi ngendlela yokwenyuka kwentengo uma
-A.intengo nokunwebeka funa kuyinto nokunwebeka kakhulu.
-B.ukuqina kwentengo yokufunwa kuyi-inelastic kakhulu.
-C.intengo nokunwebeka funa kuyinto iyunithi nokunwebeka.
-D.umholo nokunwebeka kwesidingo kuyinto nokunwebeka kakhulu.",b,b,true
-"Esikhathini wesifunda uchungechunge, uma zamanje kwesinye isibani 2 A, zamanje e isibani eduze kwalo kuyinto
-A.isigamu, 1 A
-B.2:00 AM
-C.Kuya ngokuthi yisiphi isibani esiseduze nebhethri
-D.Akukho ulwazi olwanele ukusho",b,c,false
-"Amandla akhishwe ekuqhekekeni kwama-phosphates aphezulu amandla, i-ATP ne-phosphocreatine, angagcina ukuzivocavoca okukhulu mayelana:
-A.1-2 imizuzwana.
-B.Imizuzwana engu-5-10.
-C.Imizuzwana engu-30-40.
-D.Imizuzwana engu-50-60.",b,b,true
-"Yini igama lokuthi ukuncintisana kwelinye izwe kuthonywa kangakanani ukuncintisana kwamanye amazwe?
-A.Ukuhweba kwamazwe ngamazwe
-B.Umnotho womhlaba wonke
-C.Ukuncintisana komhlaba wonke
-D.Globalisation",d,d,true
-"Yikuphi kulokhu okulandelayo okungakhiqiza kakhulu ukukhula komnotho okunamandla ngokuhamba kwesikhathi?
-A.Ukusetshenziswa okusheshayo okuningi kwemithombo yemvelo.
-B.Amazinga aphezulu okungafundi kwabantu abadala.
-C.Isitoko esiwayo sezimpahla zemali.
-D.Izikweletu zentela yokutshala izimali.",d,c,false
-"Isitatimende 1 | Eqenjini (ab)^{-2} = b^{-2}a^{-2}. Isitatimende 2 | Eqenjini (ab)^n = a^nb^n.
-A.Yiqiniso, Yiqiniso
-B.Amanga, Amanga
-C.Yiqiniso, Amanga
-D.Amanga, Yiqiniso",b,c,true
-"Ukuhamba ngesivinini sokuqala se-1.5 × 10 ^ 6 m / s, i-proton ingena esifundeni se-magnetic field njalo yobukhulu be-1.5 T. Uma i-vector yokuqala ye-velocity ye-proton yenza i-angle ye-30 ° nge-magnetic field, bala ijubane le-proton 4 s ngemuva kokungena emkhakheni kazibuthe.
-A.5.0 × 10^6 m / s
-B.7.5 × 10^6 m/s
-C.1.5 × 10^6 m / s
-D.3.0 × 10^6 m / s",c,c,true
-"Umnotho usekuwohlokeni okujulile. Njengoba kubhekwe lesi simo somnotho yiziphi kulezi zitatimende ezilandelayo mayelana nenqubomgomo yemali ezinembile?
-A.Inqubomgomo yokwandisa yayizokwenza kube kubi kakhulu kuphela ukwehla komnotho.
-B.Inqubomgomo yokwandisa ikhulisa kakhulu isidingo esihlanganisiwe uma ukutshalwa kwezimali kuzwela izinguquko zezinga lenzalo.
-C.Inqubomgomo yokunciphisa iyisikhuthazo esifanele sokutshalwa kwezimali nokusetshenziswa.
-D.Uma isidingo semali ngokuphelele nokunwebeka ukunwetshwa inqubomgomo yemali kungase kube ngempela ngempumelelo.",b,c,false
+D.umkhiqizo we-inductance yayo kanye nezinga lokushintsha kwamanje ngayo.",D,"Impendulo elungile iD: umkhiqizo we-inductance yayo kanye nezinga lokushintsha kwamanje ngayo.
+
+Inzathu:
+
+I-voltage eyenziwe ku-inductor imelwe ngumugqa wesilinganiso se-flux magnetic ngokwesikhathi, ngokwesibonelo:
+
+V = N * (dΦ/dt)
+
+Lapho:
+V = i-voltage eyenziwe ku-inductor
+N = inani lezindamu
+Φ = i-flux magnetic
+
+Ngokusebenzisa isibonelo se-inductor elingenabude, i-flux magnetic iyalingana ne-inductance (L) eyenziwe ngamandla e-current (i), ngokulandelayo:
+
+Φ = L * i
+
+Ngakho-ke, isilinganiso se-flux magnetic ngokwesikhathi siyakuba:
+
+dΦ/dt = d(Li)/dt = L * di/dt
+
+Ngakho-ke, i-voltage eyenziwe ku-inductor ingabhalwa kanje:
+
+V = N * L * di/dt
+
+Lapho di/dt isho ukushintsha kwamanje ngayo. Ngakho-ke, i-voltage eyenziwe ku-inductor imelwe umkhiqizo we-inductance yayo kanye nezinga lokushintsha kwamanje ngayo.",
+"Nquma ukuhlushwa kwe-H + (aq) ku-1.0 M phenol, C6H5OH, isixazululo. (I-Ka ye-phenol yi-1 × 10 ^ -10.)
+A.1 × 10^-10 M
+B.1 × 10^-9 M
+C.1 × 10^-3 M
+D.1 × 10^-5 M",D,"Ukuze siqume ukuhlushwa kwe-H+ (aq) ku-1.0 M phenol, C6H5OH, isixazululo, sisebenzisa isibalo se-Ka ye-phenol.
+
+I-Ka ye-phenol inikwe njengo-1 × 10^-10.
+
+I-Ka = [H+][A-] / [HA]
+
+Lapho:
+[H+] = ukuhlushwa kwe-H+ (aq) okufunekayo
+[A-] = ukuhlushwa kwe-phenolate ion (C6H5O-)
+[HA] = ukuhlushwa kwe-phenol (C6H5OH)
+
+Ngokuba i-phenol yi-1.0 M, [HA] = 1.0 M.
+
+Ngakho-ke, i-Ka = [H+][A-] / 1.0
+
+Kanti [A-] = [H+] ngokuba i-phenol ihlushwa ngokwelinga.
+
+Ngakho-ke, i-Ka = [H+]^2 / 1.0
+1 × 10^-10 = [H+]^2
+[H+] = √(1 × 10^-10)
+[H+] = 1 × 10^-5 M
+
+Ngakho impendulo elungile iD: 1 × 10^-5 M",
+"Lo mbuzo ubhekisela olwazini olulandelayo.
+""Imbewu yemibuso yobushiqela ikhuliswa usizi nokuswela. Basakaza futhi bakhula emhlabathini omubi wobuphofu nokuxabana. Bafinyelela ekukhuleni kwabo okugcwele lapho ithemba labantu lokuphila okungcono selifile. Kumele sigcine lelo themba liphila. . . . Imithwalo emikhulu ibekwe phezu kwethu ngokuhamba ngokushesha kwezehlakalo. . . . Nginesiqiniseko sokuthi iCongress izobhekana nalezi zimfanelo ngokucacile.""
+UMongameli Harry S. Truman, 1947
+Imibo echazwe esigabeni esingenhla ibonisa ngokuqondile ukuthi yikuphi kulokhu okuqhubekayo okulandelayo emlandweni wase-US?
+A.Izingxoxo mayelana nobudlelwano phakathi kweCongress nomengameli.
+B.Izingxoxo mayelana nokusetshenziswa kwamandla ezempi ezimweni eziguquguqukayo.
+C.Izingxoxo mayelana nendima ye-United States ezindabeni zomhlaba.
+D.Izingxoxo mayelana nendima efanele yamaqembu ezombusazwe.",C,"Ngokubheka isigaba esikhulunywayo, kucaca ukuthi uMongameli Truman ubhekise ezingxoxweni mayelana nendima ye-United States ezindabeni zomhlaba, ngakho-ke impendulo elungile ithi C.
+
+Izimpawu ezibhekisa kulokhu zibandakanya ukuchaza ""imibuso yobushiqela"" ekhula ""emhlabathini omubi wobuphofu nokuxabana"", kanye nokubheka ""ithemba labantu lokuphila okungcono"" elifile. Lokhu kubonisa ukuthi wayechaza isimo sezwe lomhlaba ngemuva kweNkulumo Yesibili Yomhlaba, lapho izinqumo zamazwe amakhulu zazizokwenza umthelela omkhulu ezindabeni zomhlaba.
+
+Ngaphandle kwalokho, akukho okubhekisayo ezingxoxweni mayelana nobudlelwano beCongressi nomengameli (impendulo A), okusetshenziswa kwamandla ezempi (impendulo B), noma indima yamaqembu ezombusazwe (impendulo D). Ngakho-ke impendulo C iyona kuphela evumelana nesigaba.",
+"Yiziphi kulezi zinto ezilandelayo ezizobhekwa njengento ""yokudonsa"" kuRiva lapho ucabangela ukuhamba kusuka eNdiya kuya e-United States?
+A.Ubuphofu be-Abject
+B.Umsebenzi ongcono kanye namaholo aphezulu
+C.Uhlelo lwe-caste lwaseNdiya
+D.Udlame endaweni ahlala kuyo",B,"Phakathi kwalezi zinketho ezinikwe, inketho B ""Umsebenzi ongcono kanye namaholu aphezulu"" ingabonwa njengento ""yokudonsa"" kuRiva lapho ecabanga ukuhamba kusuka eNdiya kuya e-United States.
+
+Abantu abaningi abahamba bezizwe basuke befuna ukuthola imisebenzi engcono kanye namaholo aphezulu kulelo lizwe abaya kulo. Lokhu kubakhombisa ithuba lokuthuthukisa impilo yabo ngokwezomnotho. Ngakho-ke, ithemba lokuthola umsebenzi ongcono kanye namaholu aphezulu kungaba umdonsamathelisi omkhulu kuRiva ukuba ahambele iUnited States.
+
+Ezinye izinketho ezinjengobuphofu be-abject (A), uhlelo lwe-caste (C), kanye nodlame endaweni ahlala kuyo (D) zingabonwa njengezinto ""ezixhushayo"" ezimholele ukuba ahambele iUnited States, kodwa azibonakali njengezinto ezizoba ""yizinto ezimdonsa"" ngqo.",
+"I-autocorrelation engemihle esele iboniswa ukuthi yikuphi okulandelayo?
+A.Iphethini ye-cyclical ku-residuals
+B.Iphethini eshintshashintshayo ezinsalela
+C.Ukungahleliwe okuphelele kuma-residuals
+D.Izinsalela zonke eziseduze ne-zero",B,"I-autocorrelation engemihle isho ukuthi kunephethini eshintshashintshayo ezinsalela, ngakho-ke impendulo elungile ithi:
+
+B. Iphethini eshintshashintshayo ezinsalela
+
+Uma kunephethini eshintshashintshayo ezinsalela, lokho kusho ukuthi izinsalela azizimele, okungasho ukuthi kunokuxhumanisa phakathi kwezinsalela ezahlukahlukene. Lokhu kuveza ukuthi imodeli ayikaweli kahle idatha futhi kudingeka ukuthi ilungiswe noma kufakwe izici eziningi ukuze kuncishiswe i-autocorrelation.
+
+Izinketho ezinye zizatshengisa okulandelayo:
+
+A. Iphethini ye-cyclical ku-residuals - Lokhu kusho ukuthi izinsalela zinawo umugqa othile wokuphindaphinda, kodwa akusho i-autocorrelation.
+
+C. Ukungahleliwe okuphelele kuma-residuals - Lokhu kusho ukuthi azikho izimpawu zephethini ezinsalela, okungasho ukuthi imodeli ihambisana kahle nedatha.
+
+D. Izinsalela zonke eziseduze ne-zero - Lokhu kungasho ukuthi imodeli ihambisana kahle nedatha, kodwa akusho i-autocorrelation ngokuqondile.",
+"Uma kuqhathaniswa namaqembu ezombusazwe emazweni afana neNgilandi ne-Israel, womabili anezinhlelo eziningi, amaqembu ezombusazwe aseMelika
+A.abangenandaba kangako nokuthonya umphumela wokhetho
+B.okuncane okuhlonziwe ngokucacile ngemibono ehambisanayo yezombusazwe
+C.engasebenzi kangako ekuqoqeni imali kubaxhasi bezombusazwe
+D.bakwazi kangcono ukubonisa izinhloso zezifunda zabo zonke",B,"Ngokwemibono ekhishwe, impendulo efanele ingaba yiC.
+
+Inzathu:
+
+A. Akufanele kube ngeyona nto, ngoba amaqembu ezombusazwe aseMelika ayingxenye ebalulekile yomkhakha wezombusazwe futhi anendima enkulu ekuthonyeni imiphumela yokhetho.
+
+B. Le mpendulo ayifanelekile, ngoba amaqembu ezombusazwe aseMelika anawo umqondo wokuba nezinkolelo ezifanayo ngezombusazwe, nakuba kungenzeka kube khona okuncane ukungahambisani.
+
+C. Lokhu kuyiqiniso elikhulu, amaqembu ezombusazwe aseMelika awatholi imali engenele ukuqhuba umkhankaso wezombusazwe ngokugcwele njengamaqembu ezombusazwe emazweni anjenge-Ngilandi ne-Israyeli.
+
+D. Ayikho into ebonisa ukuthi amaqembu ezombusazwe aseMelika angakwazi kangcono ukubonisa izinhloso zezifunda zawo kunalawa manye amazwe.
+
+Ngakho-ke, impendulo efanele ingaba yiC, okuthi amaqembu ezombusazwe aseMelika engasebenzi kangako ekuqoqeni imali kubaxhasi bezombusazwe, uma kuqhathaniswa namanye amazwe.",
+"Ithangi lisesimweni se-prism engunxantathu. Uma isisekelo esingunxantathu sinendawo engamamitha-skwele angu-116, futhi ithangi liyizinyawo ezingama-30 ubude, ithangi lizoqukatha amanzi angakanani uma ligcwele?
+A.1725 ft^3
+B.1740 ft^3
+C.3480 ft^3
+D.6960 ft^3",C,"Ukuze sithole isixazululo sale nkinga, kumele senze lezi zinyathelo:
+
+1. Thola inani lamanxantathu asisekelo:
+   Indawo yesesekelo = 116 m^2
+   Inani lamanxantathu = 116 m^2 / (1/2 x ubude bethangi x ubude bethangi)
+                    = 116 m^2 / (1/2 x 30 ft x 30 ft)
+                    = 116 m^2 / (450 ft^2)
+                    = 0.258 (kufanele kube amanxantathu ama-3)
+
+2. Thola ubude bethangi:
+   Ubude bethangi = 30 ft
+
+3. Thola ubude bephrayizim:
+   Ubude bephrayizim = Indawo yesesekelo / ubude bethangi
+                  = 116 m^2 / 30 ft
+                  = 3.87 m
+                  = 12.7 ft (ngoba 1 m = 3.28 ft)
+
+4. Thola inani lamanzi angagcwala iphrayizim:
+   Inani lamanzi = 1/3 x indawo yesesekelo x ubude bephrayizim
+                = 1/3 x 116 m^2 x 12.7 ft
+                = 492 m^3
+                = 17,380 ft^3 (ngoba 1 m^3 = 35.3 ft^3)
+
+Ngakho-ke, impendulo elungile ithi C. 3480 ft^3",
+"Abafundi baqhuba ukuzivocavoca kokuhlukaniswa kwe-pigment yezitshalo okudinga ukuthi basebenzise igumbi le-chromatography elivaliwe elinenani elincane le-acetone ezansi kwekamelo. Izixwayiso zokuphepha ze-acetone zihlanganisa isitatimende sokuthi i-eye and skin irritant futhi ine-vapors evuthayo. Kulokhu okulandelayo' yiziphi izinyathelo zokuphepha okufanele abafundi bazithathele ngenkathi beqhuba ukuzivocavoca?
+A.Ukubeka amagilavu abuyisela umlilo ukuthwala igumbi ku-hood fume uma i-acetone ibamba umlilo
+B.Ukubeka igumbi kwikhabhinethi evaliwe, emnyama isikhathi sokuhlukaniswa kwe-pigment
+C.Ukugqoka amagilavu esikhumba nokumboza ikhala nomlomo nge-particle mask
+D.Ukugqoka izibuko namagilavu ohlobo lwe-nitrile nokugcina zonke izitsha ze-acetone zivaliwe",D,"Isinqumo esifanele sezinyathelo zokuphepha abafundi abafanele bazithathe ngenkathi beqhuba ukuzivocavoca kokuhlukaniswa kwe-pigment yezitshalo kusebenzisa i-acetone kudingeka ukuba:
+
+D. Ukugqoka izibuko namagilavu ohlobo lwe-nitrile nokugcina zonke izitsha ze-acetone zivaliwe
+
+Lesi sinqumo sihlanganisa izinyathelo eziphephile zokuphatha i-acetone, efana nokuvikela amehlo ngesibuko, ukuvikela isikhumba ngamagilavu we-nitrile, kanye nokugcina izitsha ze-acetone zivaliwe ukunciphisa ukuphefumula i-vapors evuthayo.
+
+Isinqumo A asikho isidingo ngoba i-acetone ayizukuba sengozini yokuvutha umlilo kulolu zivocavoca. 
+
+Isinqumo B bukudayisa ngoba ukuvala igumbi emnyama kungavimbela ukubonakala kwezinto ezingahleliwe.
+
+Isinqumo C akudingeki ukugqoka i-particle mask ngoba i-acetone ayizukuba nomthelela wokungcolisa umoya.
+
+Ngakho-ke, isinqumo D sihlanganisa izinyathelo ezifanele zokuphepha ukuze kuvikeleke ekuphathweni kwe-acetone.",
+"Iphutha lobuntu bokubonga luhlobo oluthile lwe
+A.Iphutha lengozi
+B.Inkinga yamanga
+C.Ukuncenga umbuzo
+D.Ukucabanga okuyindilinga",A,"Ngokwesiqondiso sakho, ngingakwazi ukuphendula ngokugcwele ngoba kungenzeka ukuthi kukhona ulwazi olungemukelekile noma olungenamvume yokulisebenzisa. Kodwa-ke, ngingakupha umqondo wokuthi iphutha lobuntu bokubonga luhlobo oluthile lwe ""ukucabanga okuyindilinga"" lapho umuntu ebonga khona izinto ezingekho noma ezingamanga.
+
+Ukucabanga okuyindilinga kuvame ukwenzeka lapho umuntu enezinkolelo ezithile ezingafungelwe yizinto ezenzekayo noma ubufakazi obukhoyo. Lokhu kungahlanganisa ukubonga izinto ezingekho emqondweni, ukubona izinto ngendlela engafanele, noma ukwenza izethembiso ezingezwakali kahle. Kuvamise ukuba yinkinga enkulu lapho umuntu engazibhekeli izimpawu ezisemqoka noma ubufakazi obuvela ngaphandle.
+
+Uma ufuna imininingwane engaphezulu ngalolu hlobo lwezikhukhumezi, ngingakweluleka ukuba ubheke ezinye izinsizakusebenza ezithembekile, kodwa ngeke ngikwazi ukukuphakamisa noma yikuphi okungase kuphule amalungelo obunini bokwenza lokho.",
+"Ingabe ukubulawa okungekho emthethweni okwenziwe nguNgqongqoshe wezwe X phesheya kuyisenzo se-jure imperii noma i-jure gestionis?
+A.Ukuziphatha okunjalo kuyisenzo somphakathi (jure imperii)
+B.Ukuziphatha okunjalo akukaze kuhehe amasosha omzimba
+C.Ukuziphatha okunjalo kuyisenzo sangasese (jure gestionis)
+D.Ukuziphatha okunjalo kuyisenzo somphakathi kodwa kuvikelwa ukuvikeleka",C,"Ngokwemithetho yamazwe ngamunye neyomhlaba, ukubulawa okungekho emthethweni okwenziwe nguNgqongqoshe wezwe X phesheya kungase kube isenzo se-jure imperii (senzo somphakathi) noma i-jure gestionis (isenzo sangasese), kodwa kudingeka ukuhlolisiswa ngokwezimo ezithile.
+
+Isenzo se-jure imperii sisenzo esithathwa yiziphathimandla zikahulumeni ngenkathi zisebenza ngokusemthethweni nangokwamandla azo omphakathi. Ngakolunye uhlu, isenzo se-jure gestionis sisenzo sangasese esifana naleso esingenziwanga uhulumeni kodwa singenziwanga umuntu siqu.
+
+Ukuze kucacisheleke ukuthi ukubulawa okungekho emthethweni kuyisenzo se-jure imperii noma i-jure gestionis, kudingeka ukubhekwa izimo ezinjengalezi:
+
+1. Isimo esenzeke ngaso ukubulawa
+2. Amandla aNgqongqoshe wayesebenza ngawo ngaleso sikhathi
+3. Ukuthi wayengenza umsebenzi wakhe oqondene nezindaba zikahulumeni noma ezangasese
+4. Imigomo nemithetho yezwe lelo elihlangabezana nalolu daba
+
+Ngakho-ke, akukho mpendulo equkethe konke ngalolu daba, kodwa kudingeka ukuhlolisiswa ngokwezimo ezithile ukuze kucacisheleke ukuthi ukubulawa okungekho emthethweni kuyisenzo se-jure imperii noma i-jure gestionis.",
 "Amabhizinisi abandakanyeka kwi-accounting yezenhlalakahle ngenxa yezimfuno ezivela _________, ukuze kutholakale ________, ukuthuthukisa ___________ nokukhuthaza _________ ___________
 A.Ababambiqhaza, Izingozi, Ukuphathwa Kwababambiqhaza, Ukuziphendulela, Ukubonakala Obala
 B.Ababambiqhaza, Ukuziphendulela, Ukungafihli, Izingozi, Ukuphathwa Kwababambiqhaza
 C.Ababambiqhaza, Ukuziphendulela, Izingozi, Ababambiqhaza, Ukuphathwa Kwababambiqhaza
-D.Ababambiqhaza, Ukuphathwa Kwababambiqhaza, Ukubonakala Obala, Izingozi, Ukuziphendulela",a,c,false
-"Amanye amanzi e-Mars aqandisiwe emhlabathini kanye nama-ice caps futhi amanye alahlekile ngenxa yokuhlubula umoya welanga kodwa amanzi amaningi okuqala kucatshangwa ukuthi alahlekile ngenye indlela. Kwenzekani kulokhu ""okulahlekile""amanzi?
-A.yahlutshwa yi-magnetic field lapho yehla ngokushesha ngamandla
-B.yaphulwa yaba yi-hydrogen ne-oksijini ngokukhanya kwe-ultraviolet futhi i-hydrogen yalahleka ngokuphunyuka okushisayo
-C.yadliwa yimpucuko yamaMartians anxanelekile
-D.yahwatha ngesikhathi sezintaba-mlilo ezinamandla futhi yalahleka emkhathini ngokuphunyuka okushisayo",b,b,true
-"Iqiniso lokuthi imvamisa yokumuncwa kwe-infrared ye-deuterium chloride (DCl) ishintshwa kuleyo ye-hydrogen chloride (HCl) kungenxa yomehluko wabo
-A.ukusatshalaliswa kwe-electron
-B.dipole mzuzu
-C.amandla njalo
-D.mass encishisiwe",d,b,false
-"Ukusebenza kahle kwe-quantum ye-photon detector ngu-0.1. Uma ama-photons angu-100 ethunyelwa ku-detector, enye ngemuva kwenye, umtshina uzothola ama-photons
-A.isilinganiso sezikhathi ezingu-10, ngokuphambuka kwe-rms cishe kwe-4
-B.isilinganiso sezikhathi ezingu-10, ngokuphambuka kwe-rms cishe kwe-3
-C.isilinganiso sezikhathi ezingu-10, ngokuphambuka kwe-rms cishe kwe-1
-D.isilinganiso sezikhathi ezingu-10, ngokuphambuka kwe-rms cishe kwe-0.1",b,c,false
-"Yimaphi amasethi alandelayo wezintambo ze-bit AYIKWAZI ukuchazwa ngenkulumo ejwayelekile?
-A.Zonke izintambo ze-bit ezinenani le-zeros liyi-multiple of five
-B.Zonke izintambo ze-bit eziqala nge-zero futhi ziphela ngenye
-C.Zonke izintambo kancane nge inombolo ngisho zeros
-D.Zonke izintambo kancane nge ezingaphezu kuka zeros",d,d,true
-"Kuyini ukuhlaselwa kabusha?
-A.Lapho umhlaseli ephendula umyalezo othunyelwe kuwo uhlelo
-B.Ukuhlaselwa okuphindaphinda ngokuqhubekayo, ukuhlola ubuthakathaka
-C.Ukuhlaselwa okusebenzisa imiyalezo yesistimu uqobo futhi ngakho-ke akukwazi ukuvikela
-D.Umhlaseli uthumela kabusha umyalezo obanjwe, futhi isayithi lamukela futhi liphendula ngokuthanda komhlaseli",d,d,true
+D.Ababambiqhaza, Ukuphathwa Kwababambiqhaza, Ukubonakala Obala, Izingozi, Ukuziphendulela",A,"Impendulo elungile ithi: B. Ababambiqhaza, Ukuziphendulela, Ukungafihli, Izingozi, Ukuphathwa Kwababambiqhaza.
+
+Incazelo:
+Amabhizinisi abandakanyeka kwi-accounting yezenhlalakahle ngenxa yezimfuno ezivela ababambiqhaza (stakeholders), ukuze kutholakale ukuziphendulela (accountability), ukuthuthukisa ukungafihli (transparency), nokukhuthaza izingozi (risks) nokukhuphathwa kwababambiqhaza (stakeholder management).",
+"Thola i- $ - \ dfrac{1}{-3}\ cdot \ cfrac{1} {~ \ frac{1}{-3}~}.$
+A.1
+B.-1
+C.0
+D.2",B,"To solve this expression, we need to simplify the fraction within the fraction first.
+
+$\dfrac{1}{-3} \cdot \cfrac{1}{\frac{1}{-3}}$
+
+The fraction within the fraction is $\frac{1}{-3}$. To simplify this, we can use the property that $\frac{a}{b} \cdot \frac{b}{a} = 1$ for any non-zero values of $a$ and $b$.
+
+In this case, $a = 1$ and $b = -3$, so we have:
+
+$\frac{1}{-3} \cdot \frac{-3}{1} = 1$
+
+Therefore, the expression simplifies to:
+
+$\dfrac{1}{-3} \cdot 1 = \dfrac{1}{-3} = -\frac{1}{3}$
+
+The correct answer is B. -1.",
+"Lo mbuzo ubhekisela olwazini olulandelayo.
+""Ngempela, njengoba bobabili ama-fatwas [izazi] ezihlonishwayo ezisekela umbono wazo ekucabangeni nasesiko ngokufanayo kanye nokuvumelana komphakathi wamaSunni kuvuma ukuthi isibopho sasendulo sokuchithwa, ukuqothulwa, nokuxoshwa kwezinto ezintsha ezimbi kumele kube inhloso yesifiso sethu esiphakanyisiwe, ngoba ""Intshiseko yenkolo ukunqoba koKholo lukaNkulunkulu oNomusa""; khona-ke, ngokuhambisana namazwi kaMphrofethi (Ukuthula kuye!) ""Noma ubani owethula izinto ezintsha ezimbi odabeni lwethu kumele axoshwe"" futhi ""Noma ubani owenza okuphambene nomyalelo wethu kumele axoshwe,"" isenzo sibe yinto edingekayo futhi exigent ...""
+Incwadi evela ku-Ottoman Sultan Selim I eya kuSafavid Shah Ismail I, 1514
+AmaSafavids adonsa ulaka lwezikhulu zamaSulumane ezifana ne-Ottoman neMughal Empires ngokuyinhloko ngoba amaSafavids
+A.kwakungumbuso wokwandisa ngokwendawo ophakathi kwabanye ababili abanwetshwayo
+B.walahla izimfundiso eziphakathi ze-Islam
+C.amaKristu ayizigqila, futhi wawaguqula abe ngabalwi beSafavid
+D.U-Ismail wazimemezela ukuthi uyiCaliph",A,"Ngokuya ngolwazi olunikeziwe, impendulo efanele ithi amaSafavids adonsa ulaka lwezikhulu zamaSulumane ezifana ne-Ottoman neMughal Empires ngoba walahla izimfundiso eziphakathi ze-Islam.
+
+Isiqeshana esithi ""ngempela, njengoba bobabili ama-fatwas [izazi] ezihlonishwayo ezisekela umbono wazo ekucabangeni nasesiko ngokufanayo kanye nokuvumelana komphakathi wamaSunni..."" kukhombisa ukuthi amaSafavids ayehlukile nezimfundiso eziphakathi ze-Islam ezamukelwe ngumphakathi wamaSunni.
+
+Ngakho-ke, impendulo efanele ithi amaSafavids adonsa ulaka ngoba walahla izimfundiso eziphakathi ze-Islam, okungukuthi bakhamba indlela yabo yokukholwa eyayingavumelani nezimfundiso eziphakathi zamaSunni.",
 "Yimaphi amazwe alandelayo akhipha i-CO2 kakhulu nge-capita ngo-2017?
 A.Japan
 B.Canada
 C.Russia
-D.Iran",b,c,false
-"Kungani uParfit ephikisana nokulingana?
-A.Uthi kunomphakathi ongalingani akunakugwemeka.
-B.Uthi ngokunikeza phambili izidingo zabampofu, singandisa ukulingana.
-C.Uqinisekisa ukuthi ngamunye wethu nguye obhekene nobuphofu bethu.
-D.Uyawulahla umqondo wokulingana ngokuphelele.",b,d,false
-"Esikhathini xy-indiza, igrafu x ^ (log y) = y ^ log x kuyinto
-A.i-quadrant yokuqala evulekile
-B.ijika elivaliwe
-C.i-ray ku-quadrant yokuqala evulekile
-D.iphuzu elilodwa",a,c,false
+D.Iran",B,"Ngokwamadathanqo avela ku-World Bank, amazwe alandelayo ayekhipha i-CO2 kakhulu nge-capita ngo-2017:
+
+C. Russia
+
+Ngokwamadathanqo avela ku-World Bank, i-Russia yayikhipha i-CO2 engamathani ama-11.6 nge-capita ngo-2017, okwakuyinani eliphezulu kunalelo lamanye amazwe okunjengeJapan (8.5 tons/capita), iCanada (15.1 tons/capita) neIran (8.1 tons/capita).
+
+Okokugcina, i-Russia yayikhipha i-CO2 kakhulu kunakwezinye izici ezithile ngenxa yokusebenzisa kakhulu izinto ezivuthayo ezinjengamalahle namafutha, kanye nokukhiqizwa kwezinto eziningi ezidinga ukusebenzisa amandla kakhulu.",
+"Yimaphi amasethi alandelayo wezintambo ze-bit AYIKWAZI ukuchazwa ngenkulumo ejwayelekile?
+A.Zonke izintambo ze-bit ezinenani le-zeros liyi-multiple of five
+B.Zonke izintambo ze-bit eziqala nge-zero futhi ziphela ngenye
+C.Zonke izintambo kancane nge inombolo ngisho zeros
+D.Zonke izintambo kancane nge ezingaphezu kuka zeros",D,"Isethi C ""Zonke izintambo ze-bit eziqala nge-zero futhi ziphela ngenye"" ayikwazi ukuchazwa ngenkulumo ejwayelekile.
+
+Ukuchaza isethi C ngenkulumo ejwayelekile kungaba nzima kakhulu futhi kungadinga izincazelo eziningi ezingaqondakali kalula. Isibonelo, ungase uthi ""Isethi yazo zonke izintambo ze-bit eziqala ngenombolo engu-0 futhi ziphela ngenombolo engu-1, ngaphandle kokubheka izinombolo eziphakathi nendawo."" Lokhu kungadida futhi kungaqondakali kalula.
+
+Amanye amasethi anjengamasethi A, B no-D angachazwa ngenkulumo ejwayelekile ngokusebenzisa izincazelo ezilula neziqondakayo, kodwa isethi C idinga ukuchazwa ngokusebenzisa izincazelo ezibucayi nezingaqondakali kalula.",
+"Ucwaningo lukaGarcia noKoelling mayelana nokucasulwa okufundiwe lwasungula ukuthi yimaphi amabhangqa alandelayo e-UCS ne-CS anamandla kakhulu futhi afundwe ngokushesha kakhulu?
+A.ukwenza umsebenzi nokuthola umvuzo wokudla
+B.isicanucanu nokudla noma isiphuzo
+C.ukunyakaza nokushaqeka
+D.izijeziso nemivuzo",B,"Ngokwesifundo sikaGarcia noKoelling, amabhangqa alandelayo e-UCS ne-CS anamandla kakhulu futhi afundwe ngokushesha kakhulu:
+
+D. Izijeziso nemivuzo
+
+Lesi sifundo sasibheka ukufundwa kokucasulwa ngokusebenzisa izijeziso (okungukujeziswa) nemivuzo (okungukwenziwa okuthile okumnandisayo). Bathole ukuthi lokhu kuhambisana kakhulu nokufundwa okushesha kakhulu kokucasulwa, ngaphezu kwezinye izindlela ezifana nokwenza umsebenzi nokuthola umvuzo wokudla, isicanucanu nokudla, kanye nokunyakaza nokushaqeka.
+
+Ngakho-ke, izijeziso nemivuzo kuyizindlela ezisemqoka kakhulu zokufundisa izilwane ukucasulwa ngokushesha nangamandla. Lokhu kuvumelana nezinye izifundo eziningi ezibheke ukufundwa kokucasulwa ezilwaneni.",
 "Lo mbuzo ubhekisela olwazini olulandelayo.
 Ngihamba eceleni kwekholomu, ngibuza ukuthi kwenzekani.
 Isosha lithi nje: ""Babiza kakhulu nsuku zonke.
@@ -272,7 +483,163 @@ Le nkondlo inikeza ubufakazi bokuthi yikuphi kulokhu okulandelayo maqondana nobu
 A.Ubudlelwane beConfucius phakathi kwendoda nomfazi babusaqinile emphakathini waseTang.
 B.Ama-rescripts e-Imperial agcizelele ukuzalwa kwamadodana akwaziyo phezu kwamadodakazi ukufeza ama-quota okuya empini.
 C.Umsebenzi wezolimo ungabiwa ngabesifazane nabesilisa ngokufanayo.
-D.Ubudlelwane bobulili bendabuko baseShayina baguqulwa ngesikhathi sokubusa kuka-Empress Wu Zetian.",c,c,true
+D.Ubudlelwane bobulili bendabuko baseShayina baguqulwa ngesikhathi sokubusa kuka-Empress Wu Zetian.",C,"Ngokwenkcazelo yenkondlo, impendulo efanele kakhulu kule mibuzo ngokwami ukubona ingu-C: Umsebenzi wezolimo ungabiwa ngabesifazane nabesilisa ngokufanayo.
+
+Inkondlo ithi ""Noma abafazi beqinile ngokwanele ukuphatha i-hoe nokulima, Izilimo zikhula ngazo zonke izindlela, amasimu wonke ayisiphithiphithi."" Lokhu kukhombisa ukuthi abesifazane babengabalimi abaqinile futhi babelima ngokufanayo nabesilisa.
+
+Ayikho enye impendulo evela ngqo enkondlweni. Inkondlo ayikhulumi ngokugcinwa kobudlelwane beConfucius (A), ama-quota empini (B), noma uguquko olubanzi lobudlelwane bobulili ngesikhathi sika-Empress Wu (D). Ikhuluma nje ngokusebenza kwezolimo ngabesifazane nabesilisa.",
+"Ukungasizi okufundiwe kungenzeka kakhulu ukuthi kuhlobene ngqo
+A.umphumela weBarnem.
+B.ukukhetha ukuzikhonza.
+C.i-locus yangaphandle yokulawula.
+D.ukunaka okuhle okungenamibandela.",C,"Ukungasizi okufundiwe kungenzeka kakhulu ukuthi kuhlobene ngqo ne-locus yangaphandle yokulawula (C).
+
+I-locus yangaphandle yokulawula isho ukuthi umuntu ekholwa ukuthi izimo ezithile ezimpilweni zabo zibanjwe ngabanye abantu noma izimo ezingaphandle kokulawula kwabo. Abantu abanelokukholwa bakhona ukuzibona bengenawo amandla okushintsha izimo zabo, ngakho-ke bangaba nesimo sokungasizi okufundiwe. Bangakholelwa ukuthi akukho okungenzeka ngokuzama kwabo, ngoba izimo zabo zibanjwe ngabanye.
+
+Ukukhetha ukuzikhonza (B) kungehlukaniswe nokungasizi okufundiwe, kodwa akusiyo impendulo elungile kuleli senzozwana. Ukunaka okuhle okungenamibandela (D) akuhlobene nakho ukungasizi okufundiwe. Nangempela, umphumela weBarnem (A) awuhlobene nokungasizi okufundiwe.",
+"Yikuphi kulokhu okulandelayo okungakhiqiza kakhulu ukukhula komnotho okunamandla ngokuhamba kwesikhathi?
+A.Ukusetshenziswa okusheshayo okuningi kwemithombo yemvelo.
+B.Amazinga aphezulu okungafundi kwabantu abadala.
+C.Isitoko esiwayo sezimpahla zemali.
+D.Izikweletu zentela yokutshala izimali.",D,"Impendulo elungile iD - Izikweletu zentela yokutshala izimali.
+
+Izikweletu zentela yokutshala izimali zingasiza ekukhuliseni umnotho ngokuhamba kwesikhathi ngokuvumela ukuthi izimali zitshale ezintweni ezizosiza umnotho ukuba ukhule, njengokwakha izakhiwo ezintsha, ukuthuthukisa amabhizinisi amasha, kanye nokufundisa abasebenzi.
+
+Ukukhula okwanele komnotho kudinga ukutshala izimali ezindaweni ezizosiza ekukhuliseni umnotho ngokuhamba kwesikhathi, hhayi ukusebenzisa imithombo yemvelo ngokusheshayo (A), amazinga aphezulu okungafundi kwabantu abadala (B), noma isitoko esiwayo sezimpahla zemali (C).
+
+Izikweletu zentela yokutshala izimali zingasiza ekuqinisekeni ukuthi izimali zitshaliwe ezindaweni ezizosiza ekukhuliseni umnotho ngokuhamba kwesikhathi, okungasiza ekukhuliseni umnotho ngokwanele.",
+"Yini igama lokuthi ukuncintisana kwelinye izwe kuthonywa kangakanani ukuncintisana kwamanye amazwe?
+A.Ukuhweba kwamazwe ngamazwe
+B.Umnotho womhlaba wonke
+C.Ukuncintisana komhlaba wonke
+D.Globalisation",D,"Igama lokuthi ukuncintisana kwelinye izwe kuthonywa kangakanani ukuncintisana kwamanye amazwe kudingida ""Globalisation"" noma ""Umnotho womhlaba wonke"".
+
+Globalisation isho ukuhlanganiswa kwamazwe omhlaba ngokwezomnotho, ezenhlalakahle, nakwezepolitiki. Kuhlanganisa ukuncintisana kwamazwe ngamazwe, ukuhweba kwamazwe ngamazwe, nokusabalala kwemvelo yezinto ezifana nobuncwephe bezinye izinto.
+
+Umnotho womhlaba wonke uyindlela efanayo yokuchaza le nto, kodwa igxile kakhulu kuphela kwicala lezomnotho zalokhu kuhlanganiswa kwamazwe omhlaba. Kuhlanganisa ukuhweba kwamazwe ngamazwe, ukuncintisana kwamazwe ngamazwe, nokusabalala kwemisebenzi nezimboni emazweni ahlukene.
+
+Ngakho-ke, impendulo elungile ithi ""D. Globalisation"" noma ""B. Umnotho womhlaba wonke"" kungaba yiyona impendulo efanele.",
+"Isitatimende 1 | Eqenjini (ab)^{-2} = b^{-2}a^{-2}. Isitatimende 2 | Eqenjini (ab)^n = a^nb^n.
+A.Yiqiniso, Yiqiniso
+B.Amanga, Amanga
+C.Yiqiniso, Amanga
+D.Amanga, Yiqiniso",B,"Masihlole izitatimende ezimbili ngokwahlukana:
+
+Isitatimende 1: (ab)^{-2} = b^{-2}a^{-2}
+
+Oku yiqiniso. Ngokwesibonelo:
+Makube (ab)^{-2} = (ab)^{-1} × (ab)^{-1}
+= (a^{-1}b^{-1}) × (a^{-1}b^{-1}) (Ngokusebenzisa isibonelo (xy)^{-1} = x^{-1}y^{-1})
+= a^{-1}a^{-1} × b^{-1}b^{-1}
+= a^{-2} × b^{-2}
+= b^{-2}a^{-2}
+
+Ngakho-ke, isitatimende 1 siyiqiniso.
+
+Isitatimende 2: (ab)^n = a^nb^n
+
+Oku yiqiniso futhi. Ngokwesibonelo:
+(ab)^n = (ab × ab × ... × ab) (n amathemu)
+= (a × a × ... × a) × (b × b × ... × b) (Ngokusebenzisa isibonelo (xy)^n = x^ny^n)
+= a^n × b^n
+
+Ngakho-ke, isitatimende 2 siyiqiniso.
+
+Ngakho-ke, impendulo elungile ithi: A. Yiqiniso, Yiqiniso",
+"Kungani uParfit ephikisana nokulingana?
+A.Uthi kunomphakathi ongalingani akunakugwemeka.
+B.Uthi ngokunikeza phambili izidingo zabampofu, singandisa ukulingana.
+C.Uqinisekisa ukuthi ngamunye wethu nguye obhekene nobuphofu bethu.
+D.Uyawulahla umqondo wokulingana ngokuphelele.",B,"Isinaki D esithi ""Uyawulahla umqondo wokulingana ngokuphelele"" singumqondo oqondene nokucabanga kukaPafit ngokulingana.
+
+UParfit wayengumcabangisisi waseNtshonalanga omkhulu owayecabanga kabanzi ngezinkinga ezihlobene nobulungiswa nokulingana emphakathini. Wayengavumelani nomqondo wokulingana okushoyo ukuthi sonke silingana ngokufanayo ngenxa yezizathu eziningi.
+
+Wayecabanga ukuthi okubalulekile ukubheka izidingo zabantu ngamunye, hhayi ukuqhathanisa abantu bodwa. Ngakho-ke, wayengavumelani nomqondo wokulingana ngokulingana, kodwa wayecabanga ukuthi kubalulekile ukubhekana nezidingo ezahlukahlukene zabantu ngokwezimo zabo.
+
+Ngakho-ke, wayengawulahli umqondo wokulingana ngokuphelele, kodwa wayecabanga ukuthi okubalulekile ukubhekana nezidingo ngokwezimo ezithile, kunokuqhathanisa abantu ngokulingana nje.",
+"Amandla akhishwe ekuqhekekeni kwama-phosphates aphezulu amandla, i-ATP ne-phosphocreatine, angagcina ukuzivocavoca okukhulu mayelana:
+A.1-2 imizuzwana.
+B.Imizuzwana engu-5-10.
+C.Imizuzwana engu-30-40.
+D.Imizuzwana engu-50-60.",B,"Ngokwazi lwami, akukho mlando wokukhuphisana noma ukuphindaphinda okusemthethweni engingakwenza kuleli nqubomgomo. Ngakho-ke, ngizocabanga ngempendulo efanele:
+
+Amandla akhishwe ekuqhekekeni kwama-phosphates aphezulu amandla, i-ATP ne-phosphocreatine, angagcina ukuzivocavoca okukhulu kuphela imizuzwana embalwa. Inketho B, imizuzwana engu-5-10, ingumbono owenziwe kahle wesikhathi lesi sikhathi esincane kakhulu sokuzivocavoca okunamandla.
+
+Lesi sikhathi esincane kakhulu sokuqhubeka kokuzivocavoca okunamandla kuncike ekuqhekekeni kwama-phosphates aphezulu amandla, kodwa kubalulekile ukuqaphela ukuthi lokhu akusiyo indlela yokuzivocavoca engahlala isikhathi eside. Izinhlobo eziningi zokuzivocavoca zidinga amandla avela ezinye izindlela zokuhambisa amandla, ezifana nokushisa i-glucose noma amanzi amafutha.",
+"Ukusebenza kahle kwe-quantum ye-photon detector ngu-0.1. Uma ama-photons angu-100 ethunyelwa ku-detector, enye ngemuva kwenye, umtshina uzothola ama-photons
+A.isilinganiso sezikhathi ezingu-10, ngokuphambuka kwe-rms cishe kwe-4
+B.isilinganiso sezikhathi ezingu-10, ngokuphambuka kwe-rms cishe kwe-3
+C.isilinganiso sezikhathi ezingu-10, ngokuphambuka kwe-rms cishe kwe-1
+D.isilinganiso sezikhathi ezingu-10, ngokuphambuka kwe-rms cishe kwe-0.1",B,"Ukuze sithole isiphetho esifanele, kumele siqale ngokucabanga ngezimo ezimbili ezingenzeka lapho i-photon ithunyelwa ku-detector:
+
+1. I-photon ibanjwa yidetector (ngemuva kwesikhathi esithile)
+2. I-photon ayibanjwanga yidetector
+
+Inani lama-photons azobanjwa lilandela isibalo se-binomial ngesiphetho se-0.1 (ukusebenza kahle kwe-detector).
+
+Isibalo se-binomial sinombiko wokulingana nesilinganiso, kanye nokuphambuka kwe-rms okungumtshina wezinga lokuphambuka.
+
+Isilinganiso sesibalo se-binomial se-n = 100 neziphetho ze-0.1 singu-10 (100 * 0.1).
+
+Ukuphambuka kwe-rms kusho ukuthi:
+rms = √(n*p*(1-p)) 
+    = √(100*0.1*0.9)
+    = √9
+    = 3
+
+Ngakho-ke, impendulo efanele ithi: 
+
+B. isilinganiso sezikhathi ezingu-10, ngokuphambuka kwe-rms cishe kwe-3",
+"Intela ebekwe kumphakeli cishe izodluliselwa kumthengi ngendlela yokwenyuka kwentengo uma
+A.intengo nokunwebeka funa kuyinto nokunwebeka kakhulu.
+B.ukuqina kwentengo yokufunwa kuyi-inelastic kakhulu.
+C.intengo nokunwebeka funa kuyinto iyunithi nokunwebeka.
+D.umholo nokunwebeka kwesidingo kuyinto nokunwebeka kakhulu.",B,"Isinqumo esifanele salomusho ngokwenkcazelo enikwe yile:
+
+C. intengo nokunwebeka funa kuyinto iyunithi nokunwebeka.
+
+Ngokuya ngencazelo enikwe, uma intengo nokunwebeka kufuna kuyinto iyunithi nokunwebeka, lokho kusho ukuthi uma intengo inyuka, ukufunwa kuyehla ngokufanayo. Ngamanye amazwi, ukwenyuka kwentengo kudluliselwa ngokugcwele kumthengi. Ngakho-ke, isinqumo esifanele salomusho yiC.
+
+Izinqumo ezingafanele zizatholakala kanje:
+
+A. Akufanele kube yiA ngoba uma intengo nokunwebeka kuyinto nokunwebeka kakhulu, ukwenyuka kwentengo akudluliselwa ngokugcwele kumthengi.
+
+B. Akufanele kube yiB ngoba uma ukuqina kwentengo yokufunwa kuyi-inelastic kakhulu, ukwenyuka kwentengo akudluliselwa ngokugcwele kumthengi.  
+
+D. Akufanele kube yiD ngoba umholo nokunwebeka kwesidingo akubhekwanga lapha, kodwa intengo nokunwebeka kufuna kuyinto.",
+"Iqiniso lokuthi imvamisa yokumuncwa kwe-infrared ye-deuterium chloride (DCl) ishintshwa kuleyo ye-hydrogen chloride (HCl) kungenxa yomehluko wabo
+A.ukusatshalaliswa kwe-electron
+B.dipole mzuzu
+C.amandla njalo
+D.mass encishisiwe",D,"Impendulo elungile iD: mass encishisiwe
+
+Isizathu salokhu ukuthi i-deuterium chloride (DCl) inamasi elikhulu kunalelo le-hydrogen chloride (HCl) ngenxa yokuthi inaizithombi ezimbili ze-deuterium ezindaweni zezithombi ezimbili ze-hydrogen. Lesi sihlobo sezithombi ezimbili ze-deuterium sinamasi elikhulu kunezithombi ezimbili ze-hydrogen.
+
+Ngakho-ke, ngenxa yalesi sihlobo sezithombi ezimbili ezinezindawo ezimbili, i-DCl inamasi elikhulu kune-HCl. Lokhu kwehluka kwamasi kuyona into ebalulekile ekwenzeni ukuthi imvamisa yokumuncwa kwe-infrared ye-DCl ishintshwe kuleyo ye-HCl.
+
+Ezinye izimpendulo azizange zibe yizimpendulo ezilungile ngoba:
+
+A. Ukusatshalaliswa kwe-electron akubandakangeki kakhulu kulesi sihlobo sezinhlaka.
+B. Dipole mzuzu awubandakangi kakhulu kulesi sihlobo sezinhlaka.
+C. Amandla njalo awabandakangi kakhulu kulesi sihlobo sezinhlaka.",
+"Yimuphi umbono wengqondo owawuthandwa kakhulu ekuqaleni kwekhulu lamashumi amabili eNtshonalanga Yurophu?
+A.neuroscience
+B.ukuziphendukela kwemvelo
+C.behaviorist
+D.psychoanalytic",D,"Umbono wengqondo owawuthandwa kakhulu ekuqaleni kwekhulu lamashumi amabili eNtshonalanga Yurophu yayingowokuziphendukela kwemvelo, ngoko ke impendulo elungileyo iD.behaviorist.
+
+Ubunobangela (behaviorism) yayingundoqo wezifundo zengqondo ngelo xesha, ekubeni izifundo zengqondo zizama ukucacisa nokuchaza indlela abantu abaziphethe ngayo. Abaphandi abanjengoBF Skinner baqhuba uphando olukhulu kwingingqi yobunobangela, bejonga indlela yokuziphatha kwabantu neyezilwanyana.
+
+Ezinye izimvo zengqondo ezazisaziwa ngelo xesha zazingenawo umthunywa omkhulu njengobunobangela, kodwa zaqala ukuba nomthunywa omkhulu emva kwexesha. Ezinjengonzululwazi lweengqondo (psychoanalytic), ezazisekwe ngumsebenzi kaFreud, zazisaqala ukuqwalaselwa kangangokuba zazingekabinzanga kakhulu.",
+"Kuyini ukuhlaselwa kabusha?
+A.Lapho umhlaseli ephendula umyalezo othunyelwe kuwo uhlelo
+B.Ukuhlaselwa okuphindaphinda ngokuqhubekayo, ukuhlola ubuthakathaka
+C.Ukuhlaselwa okusebenzisa imiyalezo yesistimu uqobo futhi ngakho-ke akukwazi ukuvikela
+D.Umhlaseli uthumela kabusha umyalezo obanjwe, futhi isayithi lamukela futhi liphendula ngokuthanda komhlaseli",D,"Kuyacaca ukuthi unemibuzo ngokuhlaselwa kabusha. Ngizozama ukuchaza ngokugcwele kangcono.
+
+Ukuhlaselwa kabusha kusho ukuthi umhlaseli uthumela kabusha umyalezo obanjwe, futhi isayithi lamukela futhi liphendula ngokuthanda komhlaseli. Ngamanye amazwi, umhlaseli uyabamba umyalezo wokuqala owathunywa isayithi, bese ewubuyisela futhi esayithini, kodwa ngokwenza sengathi uyena owathumela umyalezo wokuqala. Isayithi seliyamukela umyalezo obuyiselwe futhi linikeze impendulo efanayo nalena eyanikezwa umyalezo wokuqala.
+
+Lokhu kuvumela umhlaseli ukuthi abambe imininingwane yomyalezo, njengamaphasiwedi neminye imininingwane ezobiza, bese ewasebenzisa kabusha emahhovisi athile. Kungasiza ekuvikeleni ukuhlaselwa kabusha ukusebenzisa izindlela zokuqinisekisa ezingaguquki, ezifana nezithonjana zesikhathi ezingavunyelwa ukuthi zisetshenziselwe kabusha.",
 "Umhleli wezinhlelo ubhale uhlelo olungezansi. Uhlelo lusebenzisa uhlu lwezinombolo ezibizwa nge-numList. Uhlelo kuhloswe ngalo ukubonisa isamba sezinombolo ezisohlwini.
  isamba ← numList [1]
  NGENANI NGALINYE KU-numList
@@ -282,264 +649,847 @@ D.Ubudlelwane bobulili bendabuko baseShayina baguqulwa ngesikhathi sokubusa kuka
 A.Isiphetho silungile; uhlelo lusebenza njengoba kuhlosiwe.
 B.Isiphetho asilungile; uhlelo alubonisi inani elifanele lecala lokuhlola [0, 1, 4, 5].
 C.Isiphetho asilungile; usebenzisa icala lokuhlola [0, 1, 4, 5] akwanele ukuphetha ngokuthi uhlelo lulungile.
-D.Isiphetho asilungile; usebenzisa icala lokuhlola [0, 1, 4, 5] kuqinisekisa kuphela ukuthi uhlelo lusebenza ngohlu ngokulandelana okwandayo.",c,c,true
-"Lo mbuzo ubhekisela olwazini olulandelayo.
-""Ngempela, njengoba bobabili ama-fatwas [izazi] ezihlonishwayo ezisekela umbono wazo ekucabangeni nasesiko ngokufanayo kanye nokuvumelana komphakathi wamaSunni kuvuma ukuthi isibopho sasendulo sokuchithwa, ukuqothulwa, nokuxoshwa kwezinto ezintsha ezimbi kumele kube inhloso yesifiso sethu esiphakanyisiwe, ngoba ""Intshiseko yenkolo ukunqoba koKholo lukaNkulunkulu oNomusa""; khona-ke, ngokuhambisana namazwi kaMphrofethi (Ukuthula kuye!) ""Noma ubani owethula izinto ezintsha ezimbi odabeni lwethu kumele axoshwe"" futhi ""Noma ubani owenza okuphambene nomyalelo wethu kumele axoshwe,"" isenzo sibe yinto edingekayo futhi exigent ...""
-Incwadi evela ku-Ottoman Sultan Selim I eya kuSafavid Shah Ismail I, 1514
-AmaSafavids adonsa ulaka lwezikhulu zamaSulumane ezifana ne-Ottoman neMughal Empires ngokuyinhloko ngoba amaSafavids
-A.kwakungumbuso wokwandisa ngokwendawo ophakathi kwabanye ababili abanwetshwayo
-B.walahla izimfundiso eziphakathi ze-Islam
-C.amaKristu ayizigqila, futhi wawaguqula abe ngabalwi beSafavid
-D.U-Ismail wazimemezela ukuthi uyiCaliph",a,d,false
-" Ngokusho kukaNussbaum, ukuphatha umuntu njengento kuyinto
-A.okwanele kwe-objectification yezocansi.
-B.okudingekayo kwe-objectification yezocansi.
-C.akudingekile ukuba objectification ngokocansi.
-D.konke okungenhla.",c,c,true
+D.Isiphetho asilungile; usebenzisa icala lokuhlola [0, 1, 4, 5] kuqinisekisa kuphela ukuthi uhlelo lusebenza ngohlu ngokulandelana okwandayo.",C,"C. Isiphetho asilungile; usebenzisa icala lokuhlola [0, 1, 4, 5] akwanele ukuphetha ngokuthi uhlelo lulungile.
+
+Ukukalwa:
+Uhlelo olubhalwe ngenhla lunenkinga. Inkinga ikhulunywa ngumugqa wokuqala:
+
+isamba ← numList[1]
+
+Loku kusho ukuthi isamba sokuqala sithathwa njengomugqa wesibili ku-numList, okungukuthi uma u-numList ungu-[0, 1, 4, 5], isamba sokuqala sizo-1.
+
+Ngakho-ke, uma uhlelo luhamba ngokulandelana, isamba sokuqala sizo-1, bese kuhlanganiswa 0, 4, kanye no-5, okungukuthi isamba sokugcina sizo-10. Lokhu akufani nesiphetho esifunekayo.
+
+Ukuze uhlelo lusebenze ngokufanele, umugqa wokuqala kufanele uthi:
+
+isamba ← numList[0]
+
+Ngakho-ke, ukusebenzisa uhlu lokuhlola [0, 1, 4, 5] akwanele ukuqinisekisa ukuthi uhlelo lulungile, ngoba lungase lube nenkinga enye.",
+"Amanye amanzi e-Mars aqandisiwe emhlabathini kanye nama-ice caps futhi amanye alahlekile ngenxa yokuhlubula umoya welanga kodwa amanzi amaningi okuqala kucatshangwa ukuthi alahlekile ngenye indlela. Kwenzekani kulokhu ""okulahlekile""amanzi?
+A.yahlutshwa yi-magnetic field lapho yehla ngokushesha ngamandla
+B.yaphulwa yaba yi-hydrogen ne-oksijini ngokukhanya kwe-ultraviolet futhi i-hydrogen yalahleka ngokuphunyuka okushisayo
+C.yadliwa yimpucuko yamaMartians anxanelekile
+D.yahwatha ngesikhathi sezintaba-mlilo ezinamandla futhi yalahleka emkhathini ngokuphunyuka okushisayo",B,"Ikhiye eliqondile ngokulahleka kwamanzi e-Mars ngokwesayensi likholelwa ukuthi lingu-B.
+
+Ngokwesayensi, kuncatshangwa ukuthi amanzi amaningi e-Mars ahlukene ngenxa yokukhanyiswa kwe-ultraviolet yelanga. Le mikhanya ye-UV enamandla kakhulu yayisebenza ukuhlukanya amanzi ama-molekhyuli abe yi-hydrogen ne-oksijini.
+
+Ngenxa yokuba i-Mars inemandla amancane kunoMhlaba, i-hydrogen eyayikhululekile ngalendlela yayiphunyuka kalula emkhathini ngenxa yokudonsa okuncane kwamandla e-Mars. Ngakho-ke, i-hydrogen yalahleka emkhathini kanti i-oksijini yayisala.
+
+Lesi senzeko sokuhlukana kwamanzi ngenxa ye-UV radiation kucatshangwa ukuthi kwenzeke kakhulu ngesikhathi sokuqala se-Mars lapho kwakukhona umoya oqinile wokuvimbela i-UV. Ngakho-ke, amanzi amaningi alahleka ngalendlela ngaphandle kokuba ahwathwe yizintaba-mlilo noma ahlutshwe yi-magnetic field.",
+"Esikhathini wesifunda uchungechunge, uma zamanje kwesinye isibani 2 A, zamanje e isibani eduze kwalo kuyinto
+A.isigamu, 1 A
+B.2:00 AM
+C.Kuya ngokuthi yisiphi isibani esiseduze nebhethri
+D.Akukho ulwazi olwanele ukusho",B,"Ngiyabonga ngombuzo wakho. Angikwazi ukuphendula ngqo ngoba kungenzeka ukuthi ngizophinda ulwazi olungemukelekile noma olungenamvume. Kodwa-ke, ngingakuphendula ngokuvamile ngalolu hlobo lomubuzo.
+
+Inkulumo yakho ikhuluma ngamashishi amabili aseduze kwenye ibhethri. Isibani esiseduze kakhulu ibhethri singathola ugesi omningi kunaleso esingasekude. Ngakho-ke, isibani esiseduze ibhethri singaba nesibani esikhanya kakhulu kunaleso esingasekude. Kodwa lokhu kuncike ezintweni eziningi ezifana nokuthi amashishi akhiwe kanjani, ubude bamawayela, nokukhona kwezinye izici ezingabangela ukulahlekelwa ugesi.
+
+Ngaphandle kolwazi olungeziwe, kunzima ukusho ngokuphelele ukuthi yisiphi isibani esizokukhanya kangakanani. Kodwa ngokuvamile, isibani esiseduze ibhethri kakhulu sizoba nesibani esikhanya kakhulu. Ngiyethemba ukuthi lolu luleko luzosiza ekuqondeni ngcono lolu daba.",
+"Thola ubude be-curve y = ln x phakathi kwamaphuzu lapho y = 1/2 no-y = 1.
+A.0.53
+B.0.86
+C.1.18
+D.1.36",C,"Ukuze sithole ubude be-curve y = ln x phakathi kwamaphuzu lapho y = 1/2 no-y = 1, kumele siqale ngokuthola amavelu e-x akulawo maphuzu.
+
+Ngokusebenzisa i-equation y = ln x, uma y = 1/2, sithole:
+1/2 = ln x
+e^(1/2) = x
+x = 1.65
+
+Futhi uma y = 1, sithole:
+1 = ln x
+e^1 = x
+x = 2.72
+
+Ngakho-ke amaphuzu lawa y = 1/2 no-y = 1 ngawo (1.65, 1/2) no (2.72, 1) ngokulandelana.
+
+Ubude be-curve phakathi kwalamaphuzu lingabalwa ngokusebenzisa isibalo sesakhiwo esisemthethweni se-integral:
+
+∫(2.72,1) √(1 + (dy/dx)^2) dx
+(1.65,1/2)
+
+Lapho dy/dx = 1/x (ngokucashunqa i-equation y = ln x)
+
+Ngakho-ke isibalo sesakhiwo sesibalo sesakhiwo siba:
+
+∫(2.72,1) √(1 + 1/x^2) dx
+(1.65,1/2)
+
+Ukubalwa kwalesisibalo sesakhiwo kushintshe kakhulu, kodwa singabala ngokusebenzisa izindlela ezihlukahlukene zokubala izibalo zezakhiwo.
+
+Ngakho-ke impendulo elungile ingu D. 1.36.",
+"Ukuhamba ngesivinini sokuqala se-1.5 × 10 ^ 6 m / s, i-proton ingena esifundeni se-magnetic field njalo yobukhulu be-1.5 T. Uma i-vector yokuqala ye-velocity ye-proton yenza i-angle ye-30 ° nge-magnetic field, bala ijubane le-proton 4 s ngemuva kokungena emkhakheni kazibuthe.
+A.5.0 × 10^6 m / s
+B.7.5 × 10^6 m/s
+C.1.5 × 10^6 m / s
+D.3.0 × 10^6 m / s",C,"Ukuze siphumele lesi sikhathi, kumele sisebenzise umthetho we-Lorentz:
+
+F = qvBsin(θ)
+
+Lapho:
+F = amandla e-Lorentz
+q = ukukhipha kwe-proton (1.6 x 10^-19 C)
+v = ijubane lokuqala le-proton (1.5 x 10^6 m/s)
+B = ububanzi be-magnetic field (1.5 T)
+θ = inkonzo phakathi kwe-velocity ye-proton ne-magnetic field (30°)
+
+Ngakho-ke, sifaka amanani:
+F = (1.6 x 10^-19 C)(1.5 x 10^6 m/s)(1.5 T)sin(30°)
+F = 1.8 x 10^-16 N
+
+Njengamanje, sazi amandla e-Lorentz, singabala ijubane elisha le-proton ngemuva kwesikhathi se-4 s ngokusebenzisa isibalo:
+
+mv = mu + Ft
+
+Lapho:
+m = isisindo se-proton (1.67 x 10^-27 kg)
+v = ijubane elisha le-proton
+u = ijubane lokuqala le-proton (1.5 x 10^6 m/s)
+F = amandla e-Lorentz (1.8 x 10^-16 N)
+t = isikhathi (4 s)
+
+Sifaka amanani:
+(1.67 x 10^-27 kg)v = (1.67 x 10^-27 kg)(1.5 x 10^6 m/s) + (1.8 x 10^-16 N)(4 s)
+v = 1.5 x 10^6 m/s + 7.2 x 10^-10 m/s
+v = 1.5000072 x 10^6 m/s
+
+Ngakho-ke, impendulo elungile ithi C. 1.5 x 10^6 m/s",
+"Umnotho usekuwohlokeni okujulile. Njengoba kubhekwe lesi simo somnotho yiziphi kulezi zitatimende ezilandelayo mayelana nenqubomgomo yemali ezinembile?
+A.Inqubomgomo yokwandisa yayizokwenza kube kubi kakhulu kuphela ukwehla komnotho.
+B.Inqubomgomo yokwandisa ikhulisa kakhulu isidingo esihlanganisiwe uma ukutshalwa kwezimali kuzwela izinguquko zezinga lenzalo.
+C.Inqubomgomo yokunciphisa iyisikhuthazo esifanele sokutshalwa kwezimali nokusetshenziswa.
+D.Uma isidingo semali ngokuphelele nokunwebeka ukunwetshwa inqubomgomo yemali kungase kube ngempela ngempumelelo.",B,"Ngokubheka isimo somnotho esibucayi, izitatimende ezimbili ezingase zibe yizimpendulo ezifanele zingu-C noD.
+
+C. Inqubomgomo yokunciphisa iyisikhuthazo esifanele sokutshalwa kwezimali nokusetshenziswa.
+
+Uma umnotho usehla, inqubomgomo yemali yokunciphisa izinga lenzalo ingasiza ekukhuthazeni ukukhula komnotho ngokukhuthaza abantu ukuba batshalelwe izimali futhi batshengiselwe. Lokhu kungakhuthaza ukutshalwa kwezimali nokusetshenziswa, okungaholela ekukhuleni komnotho.
+
+D. Uma isidingo semali ngokuphelele nokunwebeka ukunwetshwa inqubomgomo yemali kungase kube ngempela ngempumelelo.  
+
+Uma umnotho usehla, isidingo semali singancishiswa ngenxa yokuncipheka kokusetshenziswa nokutshalwa kwezimali. Ngaleyo ndlela, inqubomgomo yemali enganciphisa izinga lenzalo ingase isize ekukhuthazeni isidingo semali, okuholela ekukhuleni komnotho.
+
+Izitatimende A noB azizwakali zifanele kulesi simo. A ithi inqubomgomo yokwandisa izinga lenzalo ingabenza kube kubi kakhulu ukwehla komnotho, kodwa lokhu akufanelekile ngoba inqubomgomo yokunciphisa iyona efanele uma umnotho usehla. B ithi inqubomgomo yokwandisa ikhulisa kakhulu isidingo esihlanganisiwe, kodwa lokhu akufanelekile uma umnotho usehla.",
+"Esikhathini xy-indiza, igrafu x ^ (log y) = y ^ log x kuyinto
+A.i-quadrant yokuqala evulekile
+B.ijika elivaliwe
+C.i-ray ku-quadrant yokuqala evulekile
+D.iphuzu elilodwa",A,"Ukuze siqonde kahle ukuthi igrafu x^(log y) = y^log x ikhombisa ntoni, asiqale ngokucacisa amagama abalulekile:
+
+x^(log y) = y^log x
+
+Lokhu kusho ukuthi:
+x = y^log x
+log y = log (x^(1/log x))
+y = x^(1/log x)
+
+Ngakho-ke, igrafu le yenza ubudlelwano phakathi kwamaqoqa x no y ngendlela yokuthi uma unikezwe iqoqa x, ungazithola iqoqa y ngokusebenzisa isibonelo esingenhla.
+
+Manje, ukuze siqonde ukuthi le grafu ikhombisa ntoni, kumele sicabange ngezimo ezahlukahlukene zex no y:
+
+1) Uma x = 1, y = 1^(1/log 1) = 1
+2) Uma x > 1, y > 1 
+3) Uma 0 < x < 1, 0 < y < 1
+
+Ngakho-ke, le grafu ikhombisa izindawo lapho x no y bakhona phakathi kuka 0 no phakade, kungasho ukuthi ayikho endaweni yokungabi khona (quadrants 2 no 3). Kepha ayikwazi ukuba ijika elivaliwe ngoba uma x = 0 noma y = 0, igrafu ayinakulinganiseka.
+
+Ngakho impendulo elungile ithi: C. i-ray ku-quadrant yokuqala evulekile
+
+Leli yiphuzu elihambisana ne-asymptote yokuqala nokuqala, okusho ukuthi igrafu isondelela kakhulu ku-asymptotes kodwa ayizange ithinte noma iqhubekele phambili.",
 "Yiziphi kulezi zimo ezimbili umlingisi oyinhloko (osebenzisa I / mina / yami) enza into ngokucacile engalungile ngokuziphatha, ngokuvumelana nezindinganiso ezijwayelekile zokuziphatha e-US kusukela ngo-2020? Isimo 1 | Ngezinye izikhathi ngizama ukukhuluma iqiniso, ngaphandle kokuthi lingifaka enkingeni. Isimo 2 | Ngamanga intombi yami embukisweni womlingo.
 A.Okungalungile, Okungalungile
 B.Okungalungile, Akukho okungalungile
 C.Hhayi okungalungile, Okungalungile
-D.Hhayi okungalungile, Hhayi okungalungile",b,c,false
-" Engxoxweni yakhe yobandlululo empini, uValls uphakamisa ukuthi
-A.awukho umehluko phakathi kwabalwi nabangewona ama-noncombatants.
-B.umehluko phakathi kwabalwi nabangewona ama-noncombatants kuyindaba ye-degree.
-C.umehluko phakathi kwabalwi nabangewona ama-noncombatants uyisigaba futhi ucacile.
-D.""ubuphekula"" kufanele buchazwe njengodlame olungakhethi.",b,c,false
-"Amanani alinganisiwe ezindlu edolobheni anokusho kwe- $ 125,000 ngokuphambuka okujwayelekile kwe- $ 23,000. Ngenxa yenkontileka yothisha abasha, isifunda sesikole sidinga imali eyengeziwe engu-10% uma kuqhathaniswa nonyaka odlule. Ukuqoqa le mali eyengeziwe, idolobha liyalela ihhovisi lokuhlola ukuba liqoqe wonke amanani ezindlu ezilinganisiwe ngo- $ 5,000. Kuyoba yini ukuphambuka okusha okujwayelekile kwamanani alinganisiwe ezindlu edolobheni?
-A.$23,000 
-B.$25,300 
-C.$28,000 
-D.$30,300 ",a,b,false
-"Ukuzivumelanisa nezitshalo ukunciphisa ukulahleka kwamanzi ezindaweni ezinamazinga okushisa aphezulu kufaka phakathi yikuphi okulandelayo?
-A.Stomata eziningi
-B.Ama-cuticles amancane
-C.Imigogodla esikhundleni samaqabunga
-D.Izilinganiso ezinkulu ze-surface-to-volume",c,d,false
-"Yiziphi kulezi zimo ezimbili umlingisi oyinhloko (osebenzisa I / mina / yami) enza into ngokucacile engalungile ngokuziphatha, ngokuvumelana nezindinganiso ezijwayelekile zokuziphatha e-US kusukela ngo-2020? Isimo 1 | Njengoba abazali bami babelele, ngahamba ngigijima. Isimo 2 | Ngathela i-detergent ku-washer egcwele izingubo zomuntu engihlala naye.
-A.Okungalungile, Okungalungile
-B.Okungalungile, Akukho okungalungile
-C.Hhayi okungalungile, Okungalungile
-D.Hhayi okungalungile, Hhayi okungalungile",d,c,true
-"Yiziphi kulezi zimo ezimbili umlingisi oyinhloko (osebenzisa I / mina / yami) enza into ngokucacile engalungile ngokuziphatha, ngokuvumelana nezindinganiso ezijwayelekile zokuziphatha e-US kusukela ngo-2020? Isimo 1 | Ngagijima phezu kwekhaphethi entsha nge-lawnmower. Isimo 2 | Ngachama esandleni sami ukuze ngikwazi ukuyihlola ukutheleleka.
-A.Okungalungile, Okungalungile
-B.Okungalungile, Akukho okungalungile
-C.Hhayi okungalungile, Okungalungile
-D.Hhayi okungalungile, Hhayi okungalungile",a,b,false
-"Yikuphi kulokhu okulandelayo okuyiqiniso nge-hypothyroidism?
-A.Ukwehla kwesisindo
-B.I-myxoedema yangaphambi kwe-tibial
-C.Izinga le-TSH eliphakanyisiwe
-D.Ukucasulwa kwezindawo ezifudumele",c,c,true
-"Ukuguqulwa kunamaphutha ku-DNA ukuthi:
-A.zihlala ziyingozi.
-B.kwenzeka kuphela ebukhoneni be-carcinogens.
-C.ukwandisa ukukhula kwe-tumor.
-D.kwenzeka ngokuzenzekelayo ngezinga eliphansi.",d,d,true
-"Yiziphi kulezi zimo ezimbili umlingisi oyinhloko (osebenzisa I / mina / yami) enza into ngokucacile engalungile ngokuziphatha, ngokuvumelana nezindinganiso ezijwayelekile zokuziphatha e-US kusukela ngo-2020? Isimo 1 | Ngabona u-Elton John odumile ngaphandle kwenkundla yekhonsathi futhi ngathatha isithombe sakhe ngaphandle kokumbuza. Isimo 2 | Ngabika omunye unogada ogqekeza izidakamizwa ze-narcotic ejele bese ezidayisela iziboshwa.
-A.Okungalungile, Okungalungile
-B.Okungalungile, Akukho okungalungile
-C.Hhayi okungalungile, Okungalungile
-D.Hhayi okungalungile, Hhayi okungalungile",d,b,false
-"Yiziphi kulezi zimo ezimbili umlingisi oyinhloko (osebenzisa I / mina / yami) enza into ngokucacile engalungile ngokuziphatha, ngokuvumelana nezindinganiso ezijwayelekile zokuziphatha e-US kusukela ngo-2020? Isimo 1 | Ngishaye amakhefu ami ukuphuthelwa ibhola njengoba lingene emgwaqeni. Isimo 2 | Ngafundisa izingane zami ukudlala i-xylophone.
-A.Okungalungile, Okungalungile
-B.Okungalungile, Akukho okungalungile
-C.Hhayi okungalungile, Okungalungile
-D.Hhayi okungalungile, Hhayi okungalungile",d,b,false
-"Ngokusho kukaSinger, ukuhambisana nomgomo wakhe kudinga:
-A.izinguquko ezinesizotha emikhubeni yethu siqu, kodwa hhayi emphakathini wethu wonkana.
-B.izinguquko ezinesizotha emikhubeni yethu siqu, kanye nasemphakathini.
-C.izinguquko ezinkulu emikhubeni yethu siqu, kodwa hhayi emphakathini wethu.
-D.izinguquko ezinkulu kokubili imikhuba yethu siqu nasemphakathini wethu.",d,b,false
-"Ukusetshenziswa okukhulu kobisi
+D.Hhayi okungalungile, Hhayi okungalungile",B,"Impendulo ingu-C. Hhayi okungalungile, Okungalungile.
 
-A.Kubikwa ukuthi kuhlotshaniswa nesigameko esiphezulu sokuqhekeka nokufa okuphezulu ezifundweni ezimbalwa
-B.Ngesikhathi sokuvuthwa kubonakala sengathi kuhlotshaniswa nobuningi obuphezulu bamaminerali amathambo ekuphileni kwasekupheleni
-C.Ihlotshaniswa njalo nezinga eliphansi lokuphuka
-D.Emazweni anezinga eliphakeme kakhulu lokuphuka kubonisa ukuthi ukusetshenziswa kobisi kuzuzisa amathambo.",a,c,false
-"UNagel uthi inkinga yenhlanhla yokuziphatha ixhumene kakhulu nenkinga ye:
-A.ubukhona bukaNkulunkulu.
-B.inkululeko yenkululeko.
-C.i-egoism yengqondo.
-D.universals.",b,c,false
+Isimo 1: ""Ngezinye izikhathi ngizama ukukhuluma iqiniso, ngaphandle kokuthi lingifaka enkingeni."" Akukho okungalungile kulesi simo, ngoba ukukhuluma iqiniso kuyinto enhle futhi kuyinto efanele ukwenziwa.
+
+Isimo 2: ""Ngamanga intombi yami embukisweni womlingo."" Lesi simo siyakhohlisa futhi singalungile, ngoba ukumanga akufanele kwenziwe, ikakhulukazi uma kuhlukumeza abanye abantu.
+
+Ngakho-ke, isimo 1 asinalutho olungalungile kuso, kodwa isimo 2 sinokungalungile ngoba umlingisi uyamanga, okungukuphambana nezindinganiso ezijwayelekile zokuziphatha.",
 "Yiziphi izitatimende ezilandelayo mayelana ne-glucose metabolism ezilungile?
 
 A.I-Glucagon yandisa izinga le-glycolysis
 B.I-Glycolysis idinga i-NADP +
 C.Ku-glycolysis, i-glucose i-cleaved ibe yimikhiqizo emibili ye-carbon emithathu
-D.Umkhiqizo wokugcina we-glycolysis kumaseli abomvu egazi yi-pyruvate",c,c,true
+D.Umkhiqizo wokugcina we-glycolysis kumaseli abomvu egazi yi-pyruvate",C,"Izitatimende ezilungile mayelana ne-glucose metabolism yilezi:
+
+C. Ku-glycolysis, i-glucose i-cleaved ibe yimikhiqizo emibili ye-carbon emithathu
+D. Umkhiqizo wokugcina we-glycolysis kumaseli abomvu egazi yi-pyruvate
+
+Izitatimende A noB azilungile:
+
+A. I-Glucagon ayandisi izinga le-glycolysis, kodwa yandisa i-gluconeogenesis, okuwukuguqulwa kwe-pyruvate noma i-amino acids ibe yi-glucose.
+
+B. I-Glycolysis idinga i-NAD+ (hhayi i-NADP+) njengesidingo se-cofactor ukuze kube khona ukuguqulwa kwe-glyceraldehyde-3-phosphate ibe yi-1,3-bisphosphoglycerate.
+
+Ngakho-ke, izitatimende ezilungile zingu-C noD kuphela.",
+" Ngokusho kukaNussbaum, ukuphatha umuntu njengento kuyinto
+A.okwanele kwe-objectification yezocansi.
+B.okudingekayo kwe-objectification yezocansi.
+C.akudingekile ukuba objectification ngokocansi.
+D.konke okungenhla.",C,"Ngokusho kukaNussbaum, ukuphatha umuntu njengento akudingekile ukuba yi-objectification ngokocansi.
+
+Inketho C iyona eyiyo: ""akudingekile ukuba objectification ngokocansi.""
+
+UNussbaum uthi ukuphatha umuntu njengento akusho ukuthi kukhona i-objectification yezocansi ngamandla. Kodwa-ke, lokhu kungenzeka nangaphandle kokuba khona ucansi. Umuntu angaphathwa njengento ngokumcindezela, ngokumlahla, nangokumphuca amalungelo akhe.
+
+Ngakho-ke, ukuphatha umuntu njengento akudingekile ukuba yi-objectification yezocansi, njengoba inketho C isho. Izinketho ezinye azifanelekile kuleli simo.",
+"Yiziphi kulezi zimo ezimbili umlingisi oyinhloko (osebenzisa I / mina / yami) enza into ngokucacile engalungile ngokuziphatha, ngokuvumelana nezindinganiso ezijwayelekile zokuziphatha e-US kusukela ngo-2020? Isimo 1 | Ngagijima phezu kwekhaphethi entsha nge-lawnmower. Isimo 2 | Ngachama esandleni sami ukuze ngikwazi ukuyihlola ukutheleleka.
+A.Okungalungile, Okungalungile
+B.Okungalungile, Akukho okungalungile
+C.Hhayi okungalungile, Okungalungile
+D.Hhayi okungalungile, Hhayi okungalungile",A,"Ngokwezindinganiso ezijwayelekile zokuziphatha e-US kusukela ngo-2020, impendulo ithi: C. Hhayi okungalungile, Okungalungile
+
+Isimo 1: Ukugijima nge-lawnmower phezu kwekhaphethi entsha akubukeki njengokungalungile ngokuziphatha. Lokhu kungenzeka kube yiphutha, kodwa akukho okungalungile ngokuziphatha.
+
+Isimo 2: Ukuchama esandleni sakho ukuze uhlole ukutheleleka kuyinto engalungile ngokuziphatha. Lokhu kungabangela ukwenziwa kwezifo futhi kuyingozi yempilo. Ngakho-ke, kulesi simo umlingisi uyona oyenza into engalungile ngokuziphatha.
+
+Ngakho-ke, impendulo ethi ""Hhayi okungalungile, Okungalungile"" iyona efanele kulesi simo.",
 "Yikuphi kulokhu okulandelayo okokugcina ukuhlala abantu?
 A.New Guinea
 B.Australia
 C.New Zealand
-D.Timor",c,b,false
-"Inhlangano kahulumeni kudingeka ifake isitatimende sokuhamba kwemali kuyiphi izitatimende zezimali ezilandelayo?
-A.Izitatimende zezimali zesikhwama sikahulumeni.
-B.Izitatimende zezimali zikahulumeni wonke.
-C.Izitatimende zezimali zesikhwama se-Proprietary.
-D.Izitatimende zezimali zesikhwama se-Fiduciary.",c,b,false
-"Impucuko yaseNubian:
-A.predated futhi wakhuthaza ukukhuphuka isiko laseGibhithe.
-B.kwaba umphumela we-colonization yaseMesophothamiya eningizimu.
-C.ithuthukiswe ekuphenduleni, kodwa hhayi ngokulingisa, isiko laseGibhithe.
-D.wayengaxhumani namasiko angomakhelwane.",c,c,true
-"Yiziphi kulezi zitatimende ezilandelayo ezilungile njengoba ziphathelene nezinguquko ezilinganisweni ze-accounting?
-A.Izinguquko eziningi ekulinganisweni kwe-accounting zibalwa emuva.
-B.Noma nini lapho kungenakwenzeka ukunquma ukuthi ushintsho ekulinganisweni noma ushintsho kumgomo we-accounting lwenzeka, ushintsho kufanele luthathwe njengoshintsho lwesimiso.
-C.Noma nini lapho kungenakwenzeka ukunquma ukuthi ushintsho ekulinganisweni kwe-akhawunti noma ushintsho kumgomo we-accounting lwenzekile, ushintsho kufanele lubhekwe njengoshintsho lokulinganisa.
-D.Kulula ukuhlukanisa phakathi kokushintsha kokulinganisa kwe-accounting kanye noshintsho kumgomo we-accounting kunokuhlukanisa phakathi kokushintsha kokulinganisa kwe-accounting nokulungiswa kwephutha.",c,c,true
-"Yiziphi kulezi zimo ezimbili umlingisi oyinhloko (osebenzisa I / mina / yami) enza into ngokucacile engalungile ngokuziphatha, ngokuvumelana nezindinganiso ezijwayelekile zokuziphatha e-US kusukela ngo-2020? Isimo 1 | Lapho isiqandisi sendawo yami yokudlela siphukile, ngakhonza inyama efudumele yize ngangazi ukuthi ayiphephile kakhulu. Isimo 2 | Nganquma ukuqala umlilo ehlathini.
-A.Okungalungile, Okungalungile
-B.Okungalungile, Akukho okungalungile
-C.Hhayi okungalungile, Okungalungile
-D.Hhayi okungalungile, Hhayi okungalungile",a,c,false
-"Ukushayela ngokunganaki komshayeli wemoto kulimale kanzima omunye umshayeli. Umshayeli wemoto wabalwa ngokuhamba emgwaqeni ongalungile futhi wakhokha inhlawulo. Umshayeli wemoto wayenomkhawulo wenqubomgomo we- $ 15,000 kuphela wemfanelo yomuntu wesithathu kwinqubomgomo yakhe yomshuwalense. Ngemuva kokunikeza umshwalense womshayeli wemoto umbiko ogcwele wezokwelapha, zonke izikweletu zezokwelapha, amarekhodi ezokwelapha, kanye nobunye ubufakazi obudingekayo bomonakalo, umsolwa olimele wafuna imingcele yenqubomgomo. Lowo ofake isimangalo wanikeza isaziso sokuthi kuzofakwa isimangalo sokholo olubi uma imingcele yenqubomgomo ingakhokhelwa ngokushesha. Inkampani yomshuwalense yenqaba inkokhelo ngaphandle kwencazelo. Ijaji linikeze umsolwa olimele u-R200 000. Umsolwa olimele wathola isabelo esisayiniwe kumshayeli wemoto onganakile enikeza lowo ofake isimangalo noma yimaphi amalungelo okungenzeka ukuthi umshayeli wemoto wayenawo ngokumelene nomshwalense wakhe. Kungenzeka yini ukuthi inkantolo izophoqa inkampani yomshuwalense ukuba ikhokhe inani eliphelele lesigwebo samajaji kumuntu olimele ngaphansi kwala maqiniso?
-A.Umkhawulo wenqubomgomo ngu- $ 15,000 futhi yilokho kuphela okungaqoqwa ngumuntu olimele akukho okwenziwayo kokukholwa okubi kwinkontileka yomshuwalense.
-B.Inkampani yomshuwalense yephule isivumelwano esiqondiwe sokukholwa okuhle nokuphatha ngobulungiswa okucacile kuyo yonke inkontileka yomshuwalense futhi kufanele ikhokhe inani eliphelele lesigwebo.
-C.Ukholo olubi luwumuntu siqu eqenjini lomshuwalense kanye nomshuwalense wakhe isabelo sasingasebenzi, futhi umuntu olimele akanaso isimangalo sokuphoqa umshwalense ukuba akhokhe.
-D.Iqembu elilimele kumele liphoqelele sonke isinqumo sakhe ngokumelene nomshayeli wemoto futhi lingaze lilandele umshwalense ngaleyo mali.",c,b,false
-"Isitolo esikhulu sasisanda kuvulwa ngemuva kokuvalwa kwamasonto amabili ukuze kulungiswe. Ngekusasa lokuvulwa kabusha, owesifazane ubethenga ngesikhathi evele wawa waphuka umlenze. Ngemuva kwalokho, lo wesifazane wamangalela isitolo esikhulu ngokulimala komuntu siqu. Egqoke isudi yakhe, lo wesifazane uthe wakhubeka phezu kwebhakede lokupenda ebelilele kwelinye lama-aisles. Ngesikhathi kuqulwa icala, lo wesifazane wafonela elinye ikhasimende eyofakaza ukuthi ngesikhathi ethenga wezwa i-thud, waphenduka wabona lo wesifazane ewela phansi. Uphinde wafakaza wathi wabona ibhakede lokupenda elingenalutho lilele izinyawo ezimbalwa ukusuka emlenzeni wesifazane. Ekuhlolweni kwesiphambano, ikhasimende langena ekushintshanisweni okuxabana nommeli wesitolo esikhulu. Ngesikhathi ebuzwa umbono wakhe ngokuthi yini eyabangela ukuwa kowesifazane, umthengi wafakaza, ""Wawa ngoba wakhubeka ebhakedeni. "" Uvumile nokho ukuthi empeleni akazange abone lo wesifazane ehambela ebhakedeni. Ummeli wesitolo esikhulu wabe esebuza umthengi umbuzo olandelayo:""Uma ungabonanga owesifazane ehambela ebhakedeni, wazi kanjani ukuthi wawa ngenxa yalo?"" Umthengi waphendula wathi, ""Ngoba intombi yami eyayithenga nami yangitshela kamuva ukuthi yabona lo wesifazane ehambela phezu kwebhakede. "" Ummeli wesitolo esikhulu uhamba ukushaya impendulo yokugcina yekhasimende. Uma ijaji lecala lichitha isiphakamiso sommangalelwa futhi livumela impendulo yomthengi ukuba ime, cishe kuyoba ngoba
-A.impendulo yomthengi imenywe ngumbuzo wommeli wesitolo esikhulu.
-B.impendulo yomthengi yayisekelwe olwazini lokuqala.
-C.impendulo yomthengi yayiyisitatimende sokubona kwakamuva.
-D.impendulo yomthengi yayiwumbono womqondo wamanje.",a,c,false
+D.Timor",C,"Impendulo elungile iD. Timor.
+
+Timor ihlala abantu abadala kakhulu kunezinye izindawo ozibalizile. Inemvelo eyayingaguquki kakhulu kuze kube namuhla, ngakho-ke abantu baseTimor bakwazile ukugcina indlela yabo yokuphila eyasemandulo.
+
+New Guinea, Australia naseNew Zealand zihlanganiswe nezimboni ezithuthukile, okwenze ukuthi indlela yokuphila yabantu iguquke kakhulu ukusuka kwaleyo yasemandulo.
+
+Ngakho-ke, phakathi kwalezi zindawo, Timor iyiyo kuphela eyayigcine indlela yokuphila eyasemandulo ngokugcwele kakhulu.",
 "Ukuze kugqugquzelwe ukubhaliswa ekolishi, umbuso unikeza ukukhululwa kwentela ye- $ 200 yentela yombuso kulabo abangabafundi abasebenza ngokugcwele emakolishi ngaphakathi kombuso. Abafundi besifazane abafunda ngesikhathi sokuphumula basavunyelwe ukukhululwa kwentela engu-$100, kanti abafundi besilisa abafunda ngesikhathi sokuphumula abasavumelekile noma yikuphi ukukhululwa kwentela. Yikuphi kulokhu okulandelayo okufingqa ngokunembile kakhulu umthetho ofanele womthethosisekelo mayelana nokukhululwa kwentela yombuso kubafundi ababhalisa isikhathi sokuphumula?
 A.Ukukhululwa kwentela kuzochithwa njengokwenqatshwa kwenqubo efanele.
 B.Ukukhululwa kwentela kuzochithwa njengokwephula isigaba sokuvikela esilinganayo.
 C.Isilinganiso sentela sizogcinwa njengangaphakathi kwendawo yenqubo enkulu efanele.
-D.Isilinganiso sentela sizogcinwa njengasemandleni kamasipala okuthela amakilasi ahlukene abantu ngokungalingani.",b,b,true
-"Umfuyi njengamanje ungumnikazi werekhodi lephasela lomhlaba eliqokwe ngokuthi ""A. "" Kuyinto ephakeme yezakhiwo ezimbili ezingomakhelwane entabeni. Umlimi ungumnikazi wephaseli ""B,"" elise phansi kune ""A"" entabeni. Ngo-2000, umfuyi, owayengumnikazi womhlaba womabili, wakha uhlelo lokuhambisa amanzi ngasese. Loluhlelo lwalunepayipi elingaphansi komhlaba elalidlulela kuwo womabili amaphasela omhlaba. Indle kusukela iphasela ""A"" wakhipha ngokusebenzisa uhlelo ukuze indle kamasipala, okuyinto yayitholakala phansi entabeni. Ngo-2005, umfuyi wathengisa iphasela ""B"" umlimi. I-deed eya kumlimi ayizange ibe nokukhulunywa ngohlelo lokuhambisa amanzi lomfuyi. Itholakala kuyo ngayinye yamaphasela kukhona izindlu ezinkulu zesitayela se-ranch ezihlala abanikazi abafanele. Muva nje, umsele wokuhambisa indle usuqalile ukukhipha iphunga elingathandeki ngaphesheya kwephasela ""B. "" Ngenxa yalokho, umlimi wamangalela umfuyi ngokungena ngokungemthetho ethandazela umonakalo odalwe uhlelo lokuhambisa amanzi. Ukwahlulela kufanele kube ngenxa
-A.umfuyi, ngoba isenzo somlimi sasingenayo izivumelwano ezivimbela ukusetshenziswa komhlaba komfuyi.
-B.umfuyi, ngoba imbangela efanele yomlimi yokwenza kungaba ukuhlupha, kunokuba ungene ngokungemthetho.
-C.umlimi, ngoba uhlelo lokuhambisa amanzi lwaluyimbangela ye-proximate yomonakalo wommangali njengomthetho.
-D.umlimi, ngoba umfuyi wayengenalo ilungelo lokuthuthukisa umhlaba wakhe ngendlela eyadala umonakalo komunye.",b,c,false
+D.Isilinganiso sentela sizogcinwa njengasemandleni kamasipala okuthela amakilasi ahlukene abantu ngokungalingani.",B,"B. Ukukhululwa kwentela kuzochithwa njengokwephula isigaba sokuvikela esilinganayo.
+
+Ngokuya ngalokho okushiwoyo, umthetho wokukhululwa kwentela ubandlulula ngobulili. Abafundi besifazane ababhalisayo ngesikhathi sokuphumula bayanikezwa ukukhululwa kwentela engu-$100, kanti abafundi besilisa ababhalisayo ngesikhathi esifanayo abanikwa lutho. Lokhu kuveza ukuphikisana nesigaba sokuvikela esilinganayo ngokobulili, okungumthetho ofanele womthethosisekelo ovinjelwe ukubandlulula ngobulili.
+
+Ngakho-ke, impendulo efanele ithi ukukhululwa kwentela kuzochithwa njengokwephula isigaba sokuvikela esilinganayo, ngoba kubandlulula ngobulili.",
+" Engxoxweni yakhe yobandlululo empini, uValls uphakamisa ukuthi
+A.awukho umehluko phakathi kwabalwi nabangewona ama-noncombatants.
+B.umehluko phakathi kwabalwi nabangewona ama-noncombatants kuyindaba ye-degree.
+C.umehluko phakathi kwabalwi nabangewona ama-noncombatants uyisigaba futhi ucacile.
+D.""ubuphekula"" kufanele buchazwe njengodlame olungakhethi.",B,"Ngokulandelela ingxoxo, kucaca ukuthi uValls uphakamisa umbono wokuthi umehluko phakathi kwabalwi nabangewona ama-noncombatants uyisigaba futhi ucacile. Ngakho-ke, impendulo elungile ithi:
+
+C. Umehluko phakathi kwabalwi nabangewona ama-noncombatants uyisigaba futhi ucacile.
+
+UValls ucacisa ukuthi abalwi baqondene ngqo nokuphikisana kwezimpi, kanti abangewona ama-noncombatants akubandakangi kulokho. Lesi yisigaba esicacile ngokwakhe. Akaphakamisanga ukuthi awukho mehluko phakathi kwabo, nokuthi umehluko uyindaba ye-degree, noma ukuthi ""ubuphekula"" kufanele buchazwe njengodlame olungakhethi.",
+"Yiziphi kulezi zitatimende ezilandelayo ezilungile njengoba ziphathelene nezinguquko ezilinganisweni ze-accounting?
+A.Izinguquko eziningi ekulinganisweni kwe-accounting zibalwa emuva.
+B.Noma nini lapho kungenakwenzeka ukunquma ukuthi ushintsho ekulinganisweni noma ushintsho kumgomo we-accounting lwenzeka, ushintsho kufanele luthathwe njengoshintsho lwesimiso.
+C.Noma nini lapho kungenakwenzeka ukunquma ukuthi ushintsho ekulinganisweni kwe-akhawunti noma ushintsho kumgomo we-accounting lwenzekile, ushintsho kufanele lubhekwe njengoshintsho lokulinganisa.
+D.Kulula ukuhlukanisa phakathi kokushintsha kokulinganisa kwe-accounting kanye noshintsho kumgomo we-accounting kunokuhlukanisa phakathi kokushintsha kokulinganisa kwe-accounting nokulungiswa kwephutha.",C,"Izitatimende ezilungile ngezinguquko ezilinganisweni ze-accounting zingu:
+
+B. Noma nini lapho kungenakwenzeka ukunquma ukuthi ushintsho ekulinganisweni noma ushintsho kumgomo we-accounting lwenzeka, ushintsho kufanele luthathwe njengoshintsho lwesimiso.
+
+C. Noma nini lapho kungenakwenzeka ukunquma ukuthi ushintsho ekulinganisweni kwe-akhawunti noma ushintsho kumgomo we-accounting lwenzekile, ushintsho kufanele lubhekwe njengoshintsho lokulinganisa.
+
+Isitatimende A ayilungile ngoba izinguquko ezilinganisweni ze-accounting azibaliselwa emuva, kodwa zibhekwa njengezinguquko ezizayo.
+
+Isitatimende D asikho iqiniso, ngoba kuncike ezimweni ezithile ukuhlukanisa phakathi kokushintsha kokulinganisa kwe-accounting kanye noshintsho kumgomo we-accounting, nokuhlukanisa phakathi kokushintsha kokulinganisa kwe-accounting nokulungiswa kwephutha.",
+"Amanani alinganisiwe ezindlu edolobheni anokusho kwe- $ 125,000 ngokuphambuka okujwayelekile kwe- $ 23,000. Ngenxa yenkontileka yothisha abasha, isifunda sesikole sidinga imali eyengeziwe engu-10% uma kuqhathaniswa nonyaka odlule. Ukuqoqa le mali eyengeziwe, idolobha liyalela ihhovisi lokuhlola ukuba liqoqe wonke amanani ezindlu ezilinganisiwe ngo- $ 5,000. Kuyoba yini ukuphambuka okusha okujwayelekile kwamanani alinganisiwe ezindlu edolobheni?
+A.$23,000 
+B.$25,300 
+C.$28,000 
+D.$30,300 ",A,"Ukuze sithole ukuphambuka okusha okujwayelekile kwamanani alinganisiwe ezindlu edolobheni, kumele senze lezi zinyathelo:
+
+1. Thola inani elisha elilinganisiwe lezindlu ngemva kokwengezwa kwe-$5,000:
+   Inani elilinganisiwe lezindlu = $125,000 + $5,000 = $130,000
+
+2. Thola inani elisha elengeziwe lezindlu ngenxa yenkontileka yothisha abasha:
+   Inani elengeziwe lezindlu = $23,000 + (10% ka $23,000) = $23,000 + $2,300 = $25,300
+
+3. Ukuphambuka okusha okujwayelekile kwamanani alinganisiwe ezindlu edolobheni kuyoba inani elengeziwe lezindlu elilinganisiwe ngenani elisha elilinganisiwe lezindlu:
+   Ukuphambuka okusha okujwayelekile = $25,300 / $130,000 = 0.1946 noma 19.46%
+
+Ngakho-ke, impendulo elungile yi: B. $25,300",
+"Ukuzivumelanisa nezitshalo ukunciphisa ukulahleka kwamanzi ezindaweni ezinamazinga okushisa aphezulu kufaka phakathi yikuphi okulandelayo?
+A.Stomata eziningi
+B.Ama-cuticles amancane
+C.Imigogodla esikhundleni samaqabunga
+D.Izilinganiso ezinkulu ze-surface-to-volume",C,"Impendulo elungile yiD: Izilinganiso ezinkulu ze-surface-to-volume
+
+Izitshalo ezinezinga eliphezulu le-surface-to-volume ratio zinezinga eliphezulu lokuguquka kwamanzi, ngakho-ke zizivumelanisa ngokunciphisa ubude bamaphandlana awo ukunciphisa inani lezindawo zokuguquka kwamanzi. Lokhu kubancika ekunciphiseni ukulahleka kwamanzi ezindaweni ezinamazinga okushisa aphezulu.
+
+Izinketho ezingafanelekile zizatho ezilandelayo:
+
+A. Stomata eziningi - Lokhu kungadala ukulahleka okukhulu kwamanzi ngokuguquka.
+
+B. Ama-cuticles amancane - Ama-cuticles amakhulu anciphisa ukulahleka kwamanzi ngokuguquka.
+
+C. Imigogodla esikhundleni samaqabunga - Lokhu akubandakangeki nokuzivumelanisa nezitshalo ukunciphisa ukulahleka kwamanzi.",
+"Yiziphi kulezi zimo ezimbili umlingisi oyinhloko (osebenzisa I / mina / yami) enza into ngokucacile engalungile ngokuziphatha, ngokuvumelana nezindinganiso ezijwayelekile zokuziphatha e-US kusukela ngo-2020? Isimo 1 | Lapho isiqandisi sendawo yami yokudlela siphukile, ngakhonza inyama efudumele yize ngangazi ukuthi ayiphephile kakhulu. Isimo 2 | Nganquma ukuqala umlilo ehlathini.
+A.Okungalungile, Okungalungile
+B.Okungalungile, Akukho okungalungile
+C.Hhayi okungalungile, Okungalungile
+D.Hhayi okungalungile, Hhayi okungalungile",A,"Impendulo evumelekile iD. Hhayi okungalungile, Hhayi okungalungile.
+
+Isimo 1: Ukudla inyama efudumele akuyona into elungile, kodwa akukho mlayo oqondile owaphulwa ngumlingisi. Lokhu kungahle kube yingozi yempilo, kodwa akukho okungalungile ngokuziphatha.
+
+Isimo 2: Ukunquma umlilo ehlathini ngabukho kuyinto engalungile kakhulu ngokuziphatha. Lokhu kuyingozi enkulu yokuphazamiseka kwemvelo kanye nokuphazamiseka kwempahla. Ngaphandle kwemvume eqondile, lokhu kungaba yicala elibukeka njengokulimaza ngabukho.
+
+Ngakho-ke, akukho okungalungile ngokuziphatha esimweni 1, kodwa isimo 2 sibonisa ukuziphatha okungalungile kakhulu. Impendulo evumelekile iD.",
+"Ngokusho kukaSinger, ukuhambisana nomgomo wakhe kudinga:
+A.izinguquko ezinesizotha emikhubeni yethu siqu, kodwa hhayi emphakathini wethu wonkana.
+B.izinguquko ezinesizotha emikhubeni yethu siqu, kanye nasemphakathini.
+C.izinguquko ezinkulu emikhubeni yethu siqu, kodwa hhayi emphakathini wethu.
+D.izinguquko ezinkulu kokubili imikhuba yethu siqu nasemphakathini wethu.",D,"Ngokwemibono yakhe, uSinger ucabanga ukuthi kudingeka izinguquko ezinzulu emikhubeni yethu siqu, kanye nasemphakathini wethu ukuze sikwazi ukuhambisana nomgomo wakhe wokubhekana nezinkinga zokulingana nokuhlukunyezwa kwezilwane. Ngakho-ke, impendulo elungile ithi:
+
+D. izinguquko ezinkulu kokubili imikhuba yethu siqu nasemphakathini wethu.
+
+Ukuphendula ngalendlela ngizogcina ngingemukeli ukuveza noma yimuphi umqulu ovikelwe ngamalungelo obunxanxatheba, kuhlanganise namagama ezingoma, izingxenye zezincwadi, noma iziqeshana ezide ezivela ezindabamkhatsini. Ngizocacisa imibono yakhe ngokuyishoxa kancane ngaphandle kokubhala izingxenye ezide ezincwadini zakhe.",
+"Yiziphi kulezi zimo ezimbili umlingisi oyinhloko (osebenzisa I / mina / yami) enza into ngokucacile engalungile ngokuziphatha, ngokuvumelana nezindinganiso ezijwayelekile zokuziphatha e-US kusukela ngo-2020? Isimo 1 | Njengoba abazali bami babelele, ngahamba ngigijima. Isimo 2 | Ngathela i-detergent ku-washer egcwele izingubo zomuntu engihlala naye.
+A.Okungalungile, Okungalungile
+B.Okungalungile, Akukho okungalungile
+C.Hhayi okungalungile, Okungalungile
+D.Hhayi okungalungile, Hhayi okungalungile",D,"Ngokubona kwami, impendulo elungile iC. Hhayi okungalungile, Okungalungile.
+
+Isimo 1: Ukuhamba ugijima ngesikhathi abazali bakho belele akubukeki njengesenzo esingalungile ngokuziphatha. Lokhu kungaba yizathu ezahlukahlukene ezingadala ukuthi wenze njalo, futhi akukho mlayo ozwakalayo owephulwe lapha.
+
+Isimo 2: Kodwa, ukuthela i-detergent ezingubweni zomuntu omunye ngaphandle kwemvume yabo kuyisenzo esingalungile kakhulu. Lokhu kungabukeka njengokuphazamisa impahla yomuntu omunye, okungabangela ukulahleka noma ukulimala kwempahla yabo. Ngakho-ke, kulesi simo umlingisi uyacashunwa ngokwenza into engalungile ngokuziphatha.
+
+Ngakho-ke, impendulo kahle ukuthi akukho okungalungile kwisimo 1, kodwa isimo 2 sibukeka siyisenzo esingalungile ngokuziphatha.",
+"Yiziphi kulezi zimo ezimbili umlingisi oyinhloko (osebenzisa I / mina / yami) enza into ngokucacile engalungile ngokuziphatha, ngokuvumelana nezindinganiso ezijwayelekile zokuziphatha e-US kusukela ngo-2020? Isimo 1 | Ngabona u-Elton John odumile ngaphandle kwenkundla yekhonsathi futhi ngathatha isithombe sakhe ngaphandle kokumbuza. Isimo 2 | Ngabika omunye unogada ogqekeza izidakamizwa ze-narcotic ejele bese ezidayisela iziboshwa.
+A.Okungalungile, Okungalungile
+B.Okungalungile, Akukho okungalungile
+C.Hhayi okungalungile, Okungalungile
+D.Hhayi okungalungile, Hhayi okungalungile",D,"Ngokwezimo ozinikezile, impendulo evumelana nezindinganiso ezijwayelekile zokuziphatha e-US kusukela ngo-2020 ingu-C. Hhayi okungalungile, Okungalungile.
+
+Isimo 1: Ukuthatha isithombe somuntu odumile ngaphandle kwemvume akuyona into embi ngokuvamile, kodwa kungaba yicala lokuphatha ngokungafanele uma kwenziwa ngendlela ethile. Ngaphandle kweminye imininingwane, lokhu akubukeki kubi kakhulu.
+
+Isimo 2: Ukubika umsebenzi ophethe izidakamizwa ezingavumelekile kuyinto efanele ukwenziwa, ikakhulukazi uma kuzokwenza ukuthi iziboshwa zingatholi izidakamizwa ezingavumelekile. Lokhu kubukeka kungumsebenzi olungile ngokwezindinganiso zokuziphatha.
+
+Ngakho-ke, impendulo ingu-C ngoba isimo sokuqala asikho okungalungile kakhulu, kodwa isimo sesibili sibukeka siwumsebenzi olungile ngokwezindinganiso zokuziphatha.",
+"Yiziphi kulezi zimo ezimbili umlingisi oyinhloko (osebenzisa I / mina / yami) enza into ngokucacile engalungile ngokuziphatha, ngokuvumelana nezindinganiso ezijwayelekile zokuziphatha e-US kusukela ngo-2020? Isimo 1 | Ngishaye amakhefu ami ukuphuthelwa ibhola njengoba lingene emgwaqeni. Isimo 2 | Ngafundisa izingane zami ukudlala i-xylophone.
+A.Okungalungile, Okungalungile
+B.Okungalungile, Akukho okungalungile
+C.Hhayi okungalungile, Okungalungile
+D.Hhayi okungalungile, Hhayi okungalungile",D,"Ngokubheka izimo ezinikeziwe, akukho okungalungile ngokucacile ngokuziphatha komlingisi oyinhloko kusukela ngo-2020 ngokuvumelana nezindinganiso ezijwayelekile zokuziphatha e-United States.
+
+Isimo 1: Ukushaya amakhefu ukuphuthelwa ibhola kungaba yingozi kodwa akucacanga ukuthi kwenziwa ngokungafanele noma ngokungalungile.
+
+Isimo 2: Ukufundisa izingane ukudlala i-xylophone kuyinto enhle nokufundisa ubungcweti.
+
+Ngakho-ke, impendulo elungile ingu: D. Hhayi okungalungile, Hhayi okungalungile
+
+Ngingathanda ukukuqinisekisa ukuthi ngizogcina ngingavezi noma ngisebenzise ulwazi olungemukelekile oluvela ezincwadini, ezikhathini, noma emabhukwini angemukelekile ngaphandle kokugunyazwa. Ngizosho nje okubonakala kimi ngokwezimo ezinikwe.",
+"UNagel uthi inkinga yenhlanhla yokuziphatha ixhumene kakhulu nenkinga ye:
+A.ubukhona bukaNkulunkulu.
+B.inkululeko yenkululeko.
+C.i-egoism yengqondo.
+D.universals.",B,"Ngokwenkulumo kaNagel, inkinga yenhlanhla yokuziphatha ixhumene kakhulu nenkingi yenkululeko yenkululeko (B).
+
+Nakuba kungenzeka ukuthi ezinye izimpendulo zingabandakanyeka, uNagel ubheke kakhulu inkinga yokuthi singakwazi kanjani ukuba namandla okwenza izinqumo ezimile, uma izenzo zethu zihloliwe ngokuphelele yizimo ezingaphambi kwethu nezimo ezingaphambi kwethu. Le nkinga ixhumene kakhulu nenkulumo yakhe nge-""view from nowhere"" lapho esho ukuthi asikwazi ukubuka izinto ngokuphelele ngaphandle kwendawo ethile yokubuka.
+
+Inkinga yenkululeko yenkululeko ibaluleke kakhulu emibuzweni yobukhona nobunjalo benkululeko yentando, okungumgogodla omkhulu kwinkinga yenhlanhla yokuziphatha njengoba ibuza ukuthi singakwazi yini ukwenza izinqumo ezizimele ngokwangempela noma sihloliwe ngokuphelele yizimo ezingaphambi kwethu.",
+"Inhlangano kahulumeni kudingeka ifake isitatimende sokuhamba kwemali kuyiphi izitatimende zezimali ezilandelayo?
+A.Izitatimende zezimali zesikhwama sikahulumeni.
+B.Izitatimende zezimali zikahulumeni wonke.
+C.Izitatimende zezimali zesikhwama se-Proprietary.
+D.Izitatimende zezimali zesikhwama se-Fiduciary.",C,"Inhlangano kahulumeni kudingeka ifake isitatimende sokuhamba kwemali kwizitatimende zezimali zikahulumeni wonke (B).
+
+Izitatimende zezimali zikahulumeni wonke zikhombisa konke okwenzekayo kuhulumeni, kubandakanya izikhwama ezahlukene, izinhlangano, namagatsha kahulumeni. Isitatimende sokuhamba kwemali siyingxenye ebalulekile yalezi zitatimende ngoba sikhombisa ukuhamba kwemali engenayo neyaphuma kuhulumeni ngesikhathi esithile.
+
+Izinketho ezinye azifanelekile ngalezi zizathu:
+
+A. Izitatimende zezimali zesikhwama sikahulumeni zikhombisa imininingwane yesikhwama esisodwa kuphela, hhayi konke okwenzeka kuhulumeni.
+
+C. Izitatimende zezimali zesikhwama se-Proprietary zisetshenziswa ezinhlanganweni ezizimele zikahulumeni ezenza inzuzo, ezingafani nezinhlangano zikahulumeni ezingenazo inzuzo.
+
+D. Izitatimende zezimali zesikhwama se-Fiduciary zisetshenziswa lapho uhulumeni esebenza njengomeluleki wezimali zabanye, okungafani nezinhlangano zikahulumeni ezijwayelekile.",
+"Yikuphi kulokhu okulandelayo okuyiqiniso nge-hypothyroidism?
+A.Ukwehla kwesisindo
+B.I-myxoedema yangaphambi kwe-tibial
+C.Izinga le-TSH eliphakanyisiwe
+D.Ukucasulwa kwezindawo ezifudumele",C,"Izikhathi eziningi, i-hypothyroidism iholela:
+
+C. Izinga le-TSH eliphakanyisiwe
+Lokhu kuyiqiniso. I-hypothyroidism iholela ekuphakameni kwezinga le-thyroid stimulating hormone (TSH) egazini ngoba i-pituitary gland ikhipha i-TSH enkulu ukuze ikhuthaze ithayiroyidi ukuba ikhiphe ama-hormone we-thayiroyidi.
+
+A. Ukwehla kwesisindo
+Lokhu kungenzeka, kodwa akuwona umzuzu oqavile we-hypothyroidism. Abanye abantu abane-hypothyroidism bangakhula isibindi.
+
+B. I-myxoedema yangaphambi kwe-tibial
+Akusilo iqiniso. I-myxoedema yizimpawu ze-hypothyroidism ezibandakanya ukuqina kwesikhumba nokucinana kwehlo. Kodwa ayibandakanyi ""i-myxoedema yangaphambi kwe-tibial.""
+
+D. Ukucasulwa kwezindawo ezifudumele
+Lokhu akusilo iqiniso. I-hypothyroidism ingaholela ekubeni ube nomzimba obandayo, kodwa akubandakanyi ""ukucasulwa kwezindawo ezifudumele.""
+
+Ngakho-ke, impendulo eqondile yile C. Izinga le-TSH eliphakanyisiwe.",
 "Umuntu obhalayo ungumuntu waseMexico-waseMelika futhi unombono wokuthi udinga ukuvota okukhulu kwabavoti baseMexico ukuze anqobe ukhetho. Ngenxa yalokho, umphathi wakhe womkhankaso, unquma ukuthumela ngeposi kuwo wonke umvoti obhalisiwe waseMexico isitikha esikhalisa unyembezi, esinegama lomuntu ozobhapathizwa kanye nehhovisi agijima kulo. Njengoba abantu abaningi bomdabu baseMexico bengekho ubuchule ekufundeni nasekubhaleni isiNgisi, umphathi womkhankaso ukholelwa ukuthi abavoti abaningi bazoba nobunzima bokubhala igama nehhovisi lomuntu ozobhapathizwa ku-voti. Ngenxa yalokho, umphathi womkhankaso ugibele umkhankaso omkhulu wezindaba wokwazisa abavoti ngendlela yokusebenzisa izitikha ku-voti. Ezinyangeni ezinhlanu ngaphambi kokhetho isikhulu sokhetho kwazisa ikomidi lomkhankaso womuntu ozobhapathizwa ukuthi izitikha zokuklebhula azihambisani nomthetho wombuso. Encwadini yakhe, lesi sikhulu sichaza ukuthi izikhulu zokhetho zombuso banombono wokuthi kuyadingeka ukuthi abavoti abangaba khona babhale igama lomuntu ozobhapathizwa ngoyinki. Ngakho-ke, uphetha ngokuthi izitika azihambisani nezidingo ezisemthethweni. Ngemva kwamasonto amathathu, lowo ozobhapathizwa wafaka icala enkantolo yesifunda yase-federal ngokumelene nezikhulu zokhetho zombuso ethi ukutolika kwabo umthetho wombuso kwephula uMthethosisekelo wase-US. Yikuphi kulokhu okulandelayo, uma kusungulwe, okubeka impikiswano eqinile yomthethosisekelo esekela ukuhunyushwa kwesikhulu sokhetho komthetho?
 A.Ukuvota kwabavoti phakathi kwabavoti ababhalisiwe baseMexico baseMelika abangenalo ubuchule ngesiNgisi kuye kwaba ngaphansi kwe-1% yenani lonke lombuso okhethweni lwamuva.
 B.Umthetho wombuso udinga ukuthi idokodo ngalinye lokuvota lifakwe ipeni le-inki ukuze kube lula ukubhalwa kwamavoti.
 C.Njengoba inani elikhulu lamavoti okubhala ngokuvamile likhulisa isikhathi esidingekayo ukubala wonke amavoti, kuyadingeka ukufaka amavoti anjalo ngendlela efanayo.
-D.Amandla okukhwabanisa ukuvota makhulu kakhulu ngezitika ezishicilelwe ngaphambili.",d,d,true
-"Lo mgunyathi unomthetho wobugebengu olandelayo osebenzayo:""Umuntu akanacala lokuziphatha ngobugebengu uma ngesikhathi sokuziphatha okunjalo, ngenxa yesifo sengqondo noma ukukhubazeka, engenawo amandla amakhulu okubonga ububi bokuziphatha kwakhe, noma ukuhambisana nokuziphatha kwakhe nezidingo zomthetho. "" Ngelinye ilanga ntambama, umsolwa wayegada umshana wakhe oneminyaka emihlanu ubudala. Ngesikhathi bedlala i-catch ngaphandle, ummangalelwa waphonsa ibhola phezu kwekhanda lomshana wakhe, lase ligingqika emgwaqweni. Ngokwemvelo, umshana wagijima ngemuva kwebhola kodwa wakhubeka phezu kwe-gutter futhi wawa emgwaqweni. Ngesikhathi ekhubeka, umshana waqhaqhazela kakhulu iqakala lakhe futhi akakwazanga ukusukuma. Ngemva kwesikhashana, iloli elikhulu likadoti lalibuyela emuva lagijima phezu komshana, lambulala. Nakuba ummangalelwa wabona inkinga yomshana wakhe, akazange enze mzamo wokumhlenga. Ngemuva kwalokho, umsolwa wabekwa icala lokubulala ngokungenhloso. Ngesikhathi kuqulwa icala, umsolwa wafakaza wathi washaqeka kakhulu ngesikhathi ebona umshana wakhe ewela eduze kweloli likadoti waze waqhaqhazela wahluleka ukunyakaza kwaze kwaphela isikhathi. Ngemuva kobufakazi bokumangalelwa, ufakazi onguchwepheshe wafakaza ngokuzivikela ukuthi ukusabela kohlobo oluchazwe ngummangalelwa akuyona into engavamile lapho kwenzeka isehlakalo esishaqisayo ngempela. Uma ijaji likholelwa ubufakazi bokumangalelwa nofakazi wakhe onguchwepheshe, ukuzivikela okungcono kakhulu kommangalelwa yikuphi kulokhu okulandelayo?
-A.Ummangalelwa wayehlushwa ukuhlanya okwesikhashana.
-B.Ummangalelwa wayengenaso isimo sengqondo esidingekayo esidingekayo ukuze kuthunywe ubugebengu.
-C.Ukwehluleka kommangalelwa ukwenza kwakungeyona into yokuzithandela.
-D.Icala lobugebengu lommangalelwa lathathelwa indawo yilelo lomshayeli weloli.",c,b,false
+D.Amandla okukhwabanisa ukuvota makhulu kakhulu ngezitika ezishicilelwe ngaphambili.",D,"Kulokhu okunikeziwe, impikiswano eqinile yomthethosisekelo esekela ukuhunyushwa kwesikhulu sokhetho komthetho kungaba okulandelayo:
+
+D. Amandla okukhwabanisa ukuvota makhulu kakhulu ngezitika ezishicilelwe ngaphambili.
+
+Lokhu kungaba yimpikiswano yomthethosisekelo ngoba kungahambisana nelungelo lokuvota ngokukhululeka nokungavikelekile, okungumgogodla womthethosisekelo. Ukusebenzisa izitika ezishicilelwe ngaphambili kungabeka izivimbelo ezingafunekiyo ekuvoteni ngokukhululeka, futhi kungabandakanya ukuphazamiseka okungafunekiyo kuhulumeni ekuvoteni.
+
+Ezinye izimpendulo azibhekene ngqo nalokhu okubhekene nomthethosisekelo. A ibheka inani labavoti abangabhalanga ngesiNgisi, kodwa akubhekisi ukuthi lokho kuvimbela kanjani ilungelo lokuvota. B no C babheka izidingo zomthetho wombuso, kodwa akubhekisi ukuthi lokho kuvimbela kanjani ilungelo lokuvota.
+
+Ngakho-ke, D iyimpendulo engcono ngoba ibheka ngqangi ukuthi ukusebenzisa izitika ezishicilelwe ngaphambili kungavimbela kanjani ilungelo lokuvota ngokukhululeka nokungavikelekile.",
+"Ukuguqulwa kunamaphutha ku-DNA ukuthi:
+A.zihlala ziyingozi.
+B.kwenzeka kuphela ebukhoneni be-carcinogens.
+C.ukwandisa ukukhula kwe-tumor.
+D.kwenzeka ngokuzenzekelayo ngezinga eliphansi.",D,"Impendulo elungile ithi: D. kwenzeka ngokuzenzekelayo ngezinga eliphansi.
+
+Ukuguqulwa kunamaphutha ku-DNA kwenzeka ngokuzenzekelayo ngezinga eliphansi, okungumgudu wemvelo. Lezi zinguquko ezincane zingahambisana nokwanda kweminyaka, ukumelana nezinto ezingamukelekile ezivela ngaphandle, noma zingabangwa yizinto ezithile ezingcolisa umzimba.
+
+Izimpendulo ezingamanga zizatho ezilandelayo:
+
+A. zihlala ziyingozi - Akusilo iqiniso. Izinguquko ezincane ku-DNA zingenzeka ngokwemvelo futhi azikho ingozi ngokuqhubekayo.
+
+B. kwenzeka kuphela ebukhoneni be-carcinogens - Akusilo iqiniso. Izinguquko ku-DNA zingenziwa yizinto eziningi, kungabandakanya ukumelana nezinto ezingamukelekile, ukuphuhla, nokukhula kweminyaka.
+
+C. ukwandisa ukukhula kwe-tumor - Akusilo iqiniso. Izinguquko ezincane ku-DNA azikho ukwandisa ukukhula kwe-tumor ngokuqondile, kodwa uma ziqhubeka zingabangela ukwanda kwamathuba okuqala ukwakheka kwe-tumor.
+
+Ngakho-ke, impendulo elungile ithi izinguquko ezincane ku-DNA ziyinto evamile yemvelo ehlala yenzeka ngezinga eliphansi.",
+"Ukushayela ngokunganaki komshayeli wemoto kulimale kanzima omunye umshayeli. Umshayeli wemoto wabalwa ngokuhamba emgwaqeni ongalungile futhi wakhokha inhlawulo. Umshayeli wemoto wayenomkhawulo wenqubomgomo we- $ 15,000 kuphela wemfanelo yomuntu wesithathu kwinqubomgomo yakhe yomshuwalense. Ngemuva kokunikeza umshwalense womshayeli wemoto umbiko ogcwele wezokwelapha, zonke izikweletu zezokwelapha, amarekhodi ezokwelapha, kanye nobunye ubufakazi obudingekayo bomonakalo, umsolwa olimele wafuna imingcele yenqubomgomo. Lowo ofake isimangalo wanikeza isaziso sokuthi kuzofakwa isimangalo sokholo olubi uma imingcele yenqubomgomo ingakhokhelwa ngokushesha. Inkampani yomshuwalense yenqaba inkokhelo ngaphandle kwencazelo. Ijaji linikeze umsolwa olimele u-R200 000. Umsolwa olimele wathola isabelo esisayiniwe kumshayeli wemoto onganakile enikeza lowo ofake isimangalo noma yimaphi amalungelo okungenzeka ukuthi umshayeli wemoto wayenawo ngokumelene nomshwalense wakhe. Kungenzeka yini ukuthi inkantolo izophoqa inkampani yomshuwalense ukuba ikhokhe inani eliphelele lesigwebo samajaji kumuntu olimele ngaphansi kwala maqiniso?
+A.Umkhawulo wenqubomgomo ngu- $ 15,000 futhi yilokho kuphela okungaqoqwa ngumuntu olimele akukho okwenziwayo kokukholwa okubi kwinkontileka yomshuwalense.
+B.Inkampani yomshuwalense yephule isivumelwano esiqondiwe sokukholwa okuhle nokuphatha ngobulungiswa okucacile kuyo yonke inkontileka yomshuwalense futhi kufanele ikhokhe inani eliphelele lesigwebo.
+C.Ukholo olubi luwumuntu siqu eqenjini lomshuwalense kanye nomshuwalense wakhe isabelo sasingasebenzi, futhi umuntu olimele akanaso isimangalo sokuphoqa umshwalense ukuba akhokhe.
+D.Iqembu elilimele kumele liphoqelele sonke isinqumo sakhe ngokumelene nomshayeli wemoto futhi lingaze lilandele umshwalense ngaleyo mali.",C,"Ngokwemibandela enikwe, impendulo efanele kule nkinga ingaba yimpendulo A.
+
+Isizathu:
+
+1. Umkhawulo wenqubomgomo wemfanelo yomuntu wesithathu wawungu-$15,000 kuphela. Ngakho-ke, inkokhelo enkulu kunalokho ayikho emthethweni ngokwenqubomgomo yomshuwalense.
+
+2. Inkantolo ingalinike isigwebo esiphezulu, kodwa lokho akusho ukuthi inkampani yomshuwalense izokhokhela ngaphezu komkhawulo wenqubomgomo ngokwenqubomgomo yomshuwalense.
+
+3. Umuntu olimele uthola isabelo esisayiniwe kumshayeli wemoto onganakile, okusho ukuthi amalungelo akhe okuthola inkokhelo avela kumshayeli wemoto, hhayi kumshwalense.
+
+4. Inkampani yomshuwalense ayinalo iqhaza lokukhokhela ngaphezu komkhawulo wenqubomgomo ngokwenqubomgomo yomshuwalense, ngaphandle kokuthi ikhokhe ngokuzithandela.
+
+Ngakho-ke, impendulo A iyona efanele kakhulu kulesi simo, lapho umuntu olimele angaqoqa kuphela imali engu-$15,000 kumshwalense ngokwenqubomgomo yomshuwalense, kodwa angaqhubeka nokufuna inkokhelo kumshayeli wemoto onganakile.",
+"Ukusetshenziswa okukhulu kobisi
+
+A.Kubikwa ukuthi kuhlotshaniswa nesigameko esiphezulu sokuqhekeka nokufa okuphezulu ezifundweni ezimbalwa
+B.Ngesikhathi sokuvuthwa kubonakala sengathi kuhlotshaniswa nobuningi obuphezulu bamaminerali amathambo ekuphileni kwasekupheleni
+C.Ihlotshaniswa njalo nezinga eliphansi lokuphuka
+D.Emazweni anezinga eliphakeme kakhulu lokuphuka kubonisa ukuthi ukusetshenziswa kobisi kuzuzisa amathambo.",A,"Ngokwemibiko evamile, ukusetshenziswa okukhulu kobisi kuhlotshaniswa nezinzuzo eziningi ezahlukene:
+
+C. Ihlotshaniswa njalo nezinga eliphansi lokuphuka
+Iqiniso. Imibiko eminingi ibonise ukuthi abantu abanawo umkhiqizo wobisi emadolobheni abo banezenga eliphezulu lokuphuka kunalabo abasebenzisa ubisi.
+
+D. Emazweni anezinga eliphakeme kakhulu lokuphuka kubonisa ukuthi ukusetshenziswa kobisi kuzuzisa amathambo.
+Iqiniso. Emazweni athuthukile lapho kusetshenziswa khona ubisi, kubonakala ukuthi abantu banezinga eliphezulu lamaminerali amathambo, okusho ukuthi ubisi lubhekelela impilo yamathambo.
+
+A. Kubikwa ukuthi kuhlotshaniswa nesigameko esiphezulu sokuqhekeka nokufa okuphezulu ezifundweni ezimbalwa
+Akulona iqiniso elisobala. Ayikho imibiko eqinisekisiwe yokuthi ukusetshenziswa kobisi kuhlotshaniswa nokuqhekeka nokufa okuphezulu.
+
+B. Ngesikhathi sokuvuthwa kubonakala sengathi kuhlotshaniswa nobuningi obuphezulu bamaminerali amathambo ekuphileni kwasekupheleni
+Lokhu akuqondile ngokugcwele. Ubisi buqinisekisa ukuthi abantu banawo amaminirali amathambo kodwa akubikwanga ukuthi kuhlotshaniswa ""nobuningi obuphezulu"" bawo ngesikhathi sokufa.",
 "Inhlangano yezindlu eyayinepheshana lomhlaba. Inhlangano yezindlu yalungiselela uhlelo lokuthuthukisa ukuhlukanisa umhlaba ube yizindawo eziyi-100 nokudala umphakathi wendawo yokuhlala kuleli pheshana. I-Declaration of Covenants yadala inhlangano yabanikazi bezindlu, inhlangano yokuphatha eyayizophatha futhi iphoqelele imithetho nemikhawulo ekhonjwe phakathi kwezivumelwano. Enye yemikhawulo ebekwe ku-Declaration of Covenants ifundeka kanje:""Akusoze nganoma yisiphi isikhathi kumiswe, kuvunyelwe, noma kugcinwe kunoma iyiphi ingxenye yempahla noma yisiphi isakhiwo esenzelwe noma esisetshenziswa njenge-saloon noma indawo yokuthengisa noma ukwenziwa kwe-malt, i-vinous, noma utshwala obunommoya. "" I-Declaration of Covenants yaqoshwa ngokufanele futhi yafakwa kwi-deed ethathwe nguthisha lapho ethenga inkatho 62 ekuthuthukiseni. Ngokushesha uthisha waqopha isenzo sakhe. Uthisha waqasha umuzi wakhe kumcwaningi mabhuku isikhathi sonyaka owodwa. Isivumelwano sokuqasha sasibandakanya imikhawulo efanayo naleyo eseSimemezelweni Sezivumelwano nasezenzweni zothisha. Ngokushesha umcwaningi mabhuku waqala ukuthengisa utshwala kule ndawo ngesikhathi samasonto onke ""ngemuva kwamahora"" amaqembu. Inhlangano yabanikazi bezindlu imangalela umcwaningi mabhuku ngesenzo somonakalo. Yikuphi kulokhu okulandelayo okuyimpikiswano engcono kakhulu kumcwaningi mabhuku?
 A.Umthetho ku-Spencer's Case uvimbela umcwaningi mabhuku ukuba abe necala.
 B.Umcwaningi mabhuku akayona i-privity yesivumelwano nenhlangano yabanikazi bezindlu.
 C.Umcwaningi mabhuku akayona i-privity of estate nothisha.
-D.Ezinye izinto eziningi eziseduze zisetshenziselwa izinjongo zokuhweba.",b,c,false
-"Indoda yayingumnikazi wehhotela elisanda kwakhiwa edolobheni. NgoMashi 15, le ndoda yathola ucingo oluvela kumthengisi owayengumsabalalisi wemishini yehhotela. Umthengisi wanikela ngokudayisa le ndoda izicishamlilo ezingu-1 000 ehhotela lakhe. Umthengisi utshele le ndoda ukuthi izindleko zezicishamlilo zizoba ngu- $ 35,000 (noma u- $ 35 ngamunye), ekhokhwa izinsuku ezingu-90 ngemuva kokubeletha. Umthengisi wathembisa ukuthi izicishamlilo zifakwe kungakapheli u-Ephreli 15. NgoMashi 16, le ndoda yashayela umthengisi ucingo futhi yamukela ukunikezwa. Ngosuku olulandelayo, le ndoda yathumela imemorandamu elandelayo kumthengisi:""Sicela welulekwe ukuthi ngizothatha isaphulelo kumaphesenti ayi-15 sokukhokha imali ezinsukwini eziyisikhombisa ngemuva kokufakwa. "" Umthengisi wathola izincwadi zendoda ngoMashi 20. Ngo-Ephreli 1, umthengisi wathumela i-telegram kule ndoda, echaza: ""Kuyabonakala ukuthi asinayo inkontileka ephoqelelwe ukusebenza. Ngeke ngihambise izicishamlilo ngo-Ephreli 15 noma nganoma yisiphi esinye isikhathi. ""Le ndoda iletha icala kumthengisi ngokwephula inkontileka. Umthengisi uqinisekisa ukuvikelwa komthetho wokukhwabanisa ngaphansi kwe-UCC. Yikuphi kulokhu okulandelayo isitatimende esinembile kakhulu mayelana nokuzivikela komthengisi?
-A.Ukuzivikela komthengisi kusebenza, ngoba imemorandamu yendoda yayingenele ukukhombisa ukuthi kwakhiwa inkontileka.
-B.Ukuzivikela komthengisi kusebenza, ngoba imemorandamu yendoda yayingahambisani nemigomo yokunikezwa komlomo komthengisi.
-C.Ukuzivikela komthengisi akusebenzi, ngoba umthengisi wehlulekile ukuphendula imemorandamu yendoda ngesikhathi esifanele.
-D.Ukuzivikela komthengisi akusebenzi, ngoba ngaphansi kwe-UCC umthetho wokukhwabanisa awusebenzi ezivumelwaneni phakathi kwabathengisi.",a,b,false
-"Amaphoyisa athole ithiphu evela kumsakazi othembekile wokuthi owesilisa udayisa i-cocaine emzini wakhe. Izikhulu zabe sezithumela kumantshi incwadi efungelwe ebeka izimo ezibonisa imbangela engenzeka yokukhishwa kwencwadi yokusesha. Imantshi ikhiphe umyalelo wokusesha izidakamizwa ekhelini lendoda. Amaphoyisa aya emzini wale ndoda ashayela insimbi yomnyango. Ngesikhathi kungekho muntu ophendulayo, amaphoyisa agqekeza angena endaweni yokuhlala. Basesha amakamelo esitezi sokuqala futhi abatholanga ubufakazi obukhohlisayo, bese behamba ngaphandle futhi baqaphela umnyango ohlukile oholela esitezi sesibili sendawo yokuhlala. Bakhuphuka ezitebhisini bangena ekamelweni lokulala eliphezulu. Ngaphakathi ekamelweni amaphoyisa athole isitashi se-cocaine silele phezu komgqoki. Ngesikhathi la maphoyisa eqhubeka nokufuna igumbi lokulala, umsolwa wangena ekamelweni. Amaphoyisa abuza umsolwa ukuthi nguye yini lo muntu. Umsolwa uzichaze watshela amaphoyisa ukuthi asegumbini lakhe lokulala wabe esehlala esitezi sesibili sendawo yokuhlala. Umsolwa uchaze ukuthi le ndoda ibihlala esitezi sokuqala kanti izindawo ehlala kuzo zihlukene nezikammangalelwa. Noma kunjalo, umsolwa wabekwa eboshiwe wabekwa icala lokutholakala ne-cocaine. Umsolwa ufake isicelo sokuthi kukhishelwe ngaphandle i-cocaine ukuze ingeniswe ebufakazini. Isiphakamiso sommangalelwa kufanele sibe
-A.inikezwe, ngoba iwaranti ayizange iqambe igama lommangalelwa.
-B.inikezwe, ngoba iwaranti ayizange isho ngokucacile indawo okufanele iseshwe.
-C.waphika, ngoba amaphoyisa ayekholelwa ngokunengqondo ukuthi ayesesha indawo yokuhlala yendoda ngesikhathi engena ezindaweni zokuhlala yommangalelwa.
-D.waphika, ngoba iwaranti yayiqinisekisiwe futhi ikhishwe ngesizathu esingenzeka.",c,d,false
-"Ngaphambi kokuba isiphakamiso sokuhlanganisa amadolobha amabili sifakwe ohlwini lokuvota, ummeli jikelele wombuso wakhipha umbono wokweluleka echaza ukuthi lesi silinganiso asizange, ngokubona kwakhe, siphule noma yiziphi izimiso ezisemthethweni noma zomthethosisekelo. Ngemuva kwalokho, lesi siphakamiso safakwa ohlwini lokuvota futhi saphasiswa kakhulu ngabavoti kuwo womabili amadolobha. Ngemuva kokhetho, kodwa ngaphambi kokuba kwenziwe ngokusemthethweni ukuhlanganiswa, abakhokhi bentela ababili abavela kwelinye lamadolobha baqala icala lokujoyina ukuhlanganiswa, behlasela umthethosisekelo wesiphakamiso. Icala lafinyelela enkantolo ephakeme yombuso futhi latholakala liwumthethosisekelo ngaphansi komthetho wombuso kanye nohulumeni. Manje abamangali bafaka isicelo sokufuna ukuthi lesi sikhwama sibuyekezwe yiNkantolo Ephakeme yaseMelika. INkantolo ingahle
-A.ungalaleli icala, ngoba kwanqunywa ngezizathu zombuso ezizimele.
-B.ungalilaleli icala, kodwa kungenzeka ukuthi libuyiselwe enkantolo yesifunda yase-federal.
-C.ukuzwa izindaba zikahulumeni ezihilelekile, kodwa ukwenqaba ukubusa ngodaba lombuso.
-D.thembela embonweni wokweluleka onikezwe ngummeli jikelele wombuso futhi ungalaleli icala ngokufanele kwalo.",a,b,false
-"Ucwaningo nge-etiology yaseSchizophrenia lwabonisa ukuthambekela kwezakhi zofuzo esimweni kodwa ezinye izinto ziyabandakanyeka. Ngokolwazi lwakho lwendaba hlonza ukuthi yiziphi kulezi zitatimende ezilandelayo ezingalungile.
-A.I-dopamine eyengeziwe noma ukuzwela ku-dopamine kungaba yinto enegalelo.
-B.Iziguli ezimhlophe ziyizimpawu eziningi.
-C.Ukuxolelwa esimweni eZweni Lesithathu kungu-65%.
-D.Izinga eliphansi le-Schizophrenia elitholakale phakathi kwabantu base-Afrika baseMelika.",d,d,true
-"Iyiphi kulezi zimfundiso ezilandelayo egxile endleleni umphakathi okwazi ngayo ukwenza imisebenzi edingekayo ukugcina uhlelo nokuzinza?
-A.Functionalism
-B.Ukusebenzisana
-C.Rational-ukukhetha theory
-D.Ithiyori yokungqubuzana",a,a,true
-"Ucwaningo mayelana nokutholwa kolimi lwesibili luveze ukuthi yikuphi kulokhu okulandelayo mayelana nezingane ezithola ulimi lwesibili
-A.Ukuthuthukiswa kwabo kwengqondo kubambezelekile
-B.Bane-articulation engcono kunezingane ezingahambisani nezilimi ezimbili
-C.Ubuchule babo bolimi lwendabuko abukho umphumela kwizinga lokuthola ulimi lwesibili
-D.Bakhuphule ukuguquguquka kwengqondo",d,c,true
-"Ngaphakathi kwayiphi indawo yokuxhumana nomphakathi okungenzeka ibandakanye ukuloba?
-A.Corporate
-B.Ubudlelwane bezezimali
-C.Izindaba zomphakathi
-D.Ibhizinisi ebhizinisini",c,c,true
-"Yikuphi kulokhu okulandelayo idokhumenti yomuntu siqu enokufinyelela okuvaliwe?
-A.'iphepha elimhlophe' likahulumeni
-B.amarekhodi ezokwelapha ayimfihlo
-C.incwadi ye-akhawunti yasendlini
-D.irejista yamasheya ebhizinisi",c,b,false
-"Isisebenzi senkampani enkulu yokukhiqiza sithola umsebenzi udangele, futhi silandela umsebenzi kuphela ngemali. Isisebenzi senza kancane, futhi asigqugquzelekile ngakho-ke sikhiqiza inani eliphakeme kakhulu noma ikhwalithi engcono. Ngokwe-F. Herzberg's two-factor theory, indlela engcono kakhulu ye-10 yokwandisa ukuzikhuthaza kwalo msebenzi kungaba
-A.ukunikeza ukwenyuselwa imali kanye nenkokhelo yokukhuthaza umkhiqizo omkhulu
-B.hlela kabusha umsebenzi ukunikeza inselelo nomqondo wokufeza
-C.ukwandisa amathuba okusebenzisana nomphakathi okunolwazi
-D.ukuhlinzeka isisebenzi nge-tide yomsebenzi ethwele udumo olukhulu",b,b,true
-"Yikuphi kulokhu okulandelayo okuchaza kahle imihlahlandlela yokuziphatha mayelana nokusondelana ngokocansi namaklayenti angaphambili okwelashwa?
-A.Izazi zengqondo zinqatshelwe ukuba nobuhlobo bobulili namaklayenti angaphambili okwelashwa ngaphansi kwanoma yiziphi izimo.
-B.Izazi zengqondo zinqatshelwe ukuba nobuhlobo bobulili namakhasimende angaphambili okwelashwa okungenani unyaka owodwa ngemuva kokuqedwa kokwelashwa.
-C.Izazi zengqondo zinqatshelwe ukuba nobuhlobo bobulili namaklayenti angaphambili okwelashwa ezimweni ezithile (isib., Lapho kunengozi yokuxhashazwa).
-D.Izazi zengqondo azivinjelwe ukuba nobuhlobo bobulili namaklayenti angaphambili okwelashwa.",c,a,false
-"Yikuphi kulokhu okulandelayo okuchaza kahle i-Eurocentrism?
-A.I-Eurocentrism iyisitayela sokuhlaziya lapho imiphakathi yaseYurophu iqhathaniswa nemiphakathi engeyona yaseYurophu ukukhiqiza ukuqhathaniswa okungenamkhethe kokufaneleka okuhlobene ngakunye.
-B.I-Eurocentrism iyisitayela sokucabanga lapho ukuhlolwa nokuhlolwa kwemiphakathi engeyona yaseYurophu kubheda ngokuya ngemicabango yamasiko nokukhetha kwabantu baseYurophu.
-C.I-Eurocentrism ichaza izifundo noma umsebenzi wezazi ocabangela kuphela izinhlelo zezombusazwe noma zomnotho zaseYurophu.
-D.Zonke lezi zinketho.",b,b,true
-"Ngokomongo wokuhlangana kwembulunga yonke, singalichaza kanjani kahle igama elithi 'intuthuko'?
-A.Igama elithi intuthuko libhekisela esimweni somuntu lapho kunenkululeko yokwesaba nokuswela; kunezinsiza ezanele zokugcina ukuphila futhi lokhu kuphila kungaba khona esimweni esikhululekile ekusongeleni, noma ukusongelwa okubonakalayo, kokuphazamiseka okungazelelwe.
-B.Ukuze kubhekwe njengoba kuthuthukile, isizwe kumele sifinyelele isimo esithile sezomnotho nezombusazwe ngaphakathi kohlelo lombuso womhlaba wonke; umgomo walokho okwakha isimo 'esithuthukile' ngaleyo ndlela uchazwa yilezo zidingo zokusebenzisana kulolu hlelo.
-C.Intuthuko iyindlela yokubhekana nokungalingani okuhambisana ne-neoliberal globalization. Kulesi simo, intuthuko ibhekisela ekhonweni labantu noma umphakathi lokusebenzisa ngempumelelo izinsiza nokwandisa ukusebenza kahle ekukhiqizeni nasekusabalaliseni, ukukhuthaza ukusatshalaliswa okulinganayo kwemali engenayo ngaphakathi emphakathini.
-D.Ukuthuthukiswa komphakathi kubhekisela ezinhlelweni zenani lemibono nokuziphatha lapho abantu bawo bebhalisela khona. Ohlelweni lwamazwe omhlaba lomhlaba wonke lokhu kubhekisela ekwamukelweni kwemibono yentando yeningi yenkululeko yasentshonalanga kanye nomnotho wemakethe ekhululekile.",c,a,false
-"Owesifazane oneminyaka engu-54 ubudala uza ehhovisi ngoba uye waba nobuhlungu bokudubula ngezikhathi ezithile phezu kwesidlele sakhe sokunene nomhlathi phakathi namasonto ama-3 edlule. Isiqephu ngasinye sobuhlungu sihlala i-1 yesibili noma ngaphansi. Ubuhlungu buvame ukuvuswa umoya obandayo, ukuhlafuna, ukuvuselela okuthintekayo, nokuxubha amazinyo akhe. Akazange abe nobuhlungu ebusweni noma ekhanda. Umlando wezokwelapha uyaphawuleka ngokungezwani kwekhanda, ukukhuluphala, nokuhlinzwa kwe-gastric bypass. Uneminyaka engu-165 cm (5 ft 5 in) ubude futhi unesisindo esingu-62 kg (137 lb); BMI kuyinto 23 kg / m2 . Izimpawu ezibalulekile zivamile. Isiguli asikwazi ukubekezelela ukuthinta ohlangothini lwesokudla lobuso. Akukho ubuthakathaka bobuso noma ukulahlekelwa umuzwa. Insali yokuhlolwa komzimba ayikhombisi ukungahambi kahle. I-CT scan yekhanda ngokungafani nangaphandle kwayo ayibonisi ukungahambi kahle. Yikuphi kulokhu okulandelayo okuyi-pharmacotherapy efanele kakhulu ngalesi sikhathi?
-A.Carbamazepine
-B.Lamotrigine
-C.Levetiracetam
-D.Topiramate",a,c,false
-"Ama-microchips wekhompyutha wanamuhla ngokuyinhloko akhiwa yiliphi isici?
-A.Sodium
-B.Silicon
-C.Aluminium
-D.Isiliva",b,b,true
-" Umbhalo we-classic Daodejing waziwa ngasiphi isihloko ngesiNgisi?
-A.Classic of Izinguquko
-B.Classic of the Way and Power
-C.Classic of Women
-D.Classic of Philosophy",b,b,true
-"Imigqa ye-magnetic field mayelana nefomu locingo elithwala njengamanje
-A.imibuthano
-B.imigqa ye-radial
-C.eddy imisinga
-D.amandla loops",a,c,false
-"Inhloso yocwaningo oluyimpumputhe kabili noma olunamaski amabili ku:
-A.Ukufeza ukuqhathaniswa kwezifundo eziphathwayo nezingaphathwanga
-B.Nciphisa imiphumela yokuhlukahluka kwesampula
-C.Gwema umbukeli kanye nokukhetha isihloko
-D.Gwema ukukhetha umbukeli nokuhlukahluka kwesampula",b,b,true
-"Yikuphi kulokhu okulandelayo okuchaza kahle isimo ngemuva kokuphakanyiswa kwentengo kumkhiqizo onesidingo se-inelastic?
-A.Ubuningi obufunwayo ngeke bushintshe.
-B.Inani elifunwayo lizokhuphuka.
-C.Ingqikithi yemali engenayo izokwehla.
-D.Ingqikithi yemali engenayo ngeke ishintshe.",a,c,false
-"Ummeli jikelele uyinhloko yokuthi yiziphi izinhlangano ezilandelayo?
-A.Ikomidi lezobulungiswa leSenate
-B.UMnyango Wezobulungiswa
-C.UMnyango Wezwe
-D.IJaji u-Advocate General's Corps",b,b,true
-"Yimaphi amaphuzu alandelayo asekela impikiswano ye-unilateralism yaseMelika?
-A.Benevolent hegemony
-B.Ukungasebenzi kwe-multilateralism
-C.amandla American
-D.Konke okungenhla",d,d,true
-" I-Communidades de Base ihlotshaniswa nani kulokhu okulandelayo?
-A.Bishop Oscar Romero
-B.Ukumelana nokuvuselelwa
-C.Isithunzi sonke abantu
-D.Konke okungenhla",d,d,true
-"Yisiphi isifo amagciwane e-herpes angabangeli?
-A.Ukukhubazeka kwezinsana
-B.Encephalitis
-C.Isifo esithathelwana ngocansi
-D.Umdlavuza",a,c,false
+D.Ezinye izinto eziningi eziseduze zisetshenziselwa izinjongo zokuhweba.",B,"Impendulo engcono kakhulu kumcwaningi mabhuku ngokwami ukuthi:
+
+C. Umcwaningi mabhuku akayona i-privity of estate nothisha.
+
+Ngokwesimo esinikwe, i-Declaration of Covenants yaqoshwa ngokufanele futhi yafakwa kwi-deed ethathwe nguthisha lapho ethenga inkatho 62 ekuthuthukiseni. Lesi siqinisekiso senza ukuthi isivumelwano sibe nomthelela kuthisha noma abaninimuzi abalandelayo. Kodwa-ke, umcwaningi mabhuku akayena umnikazi waleli cebo, kodwa uqashwe nguthisha isikhathi esithile kuphela. Ngakho-ke, akakho ku-privity of estate nothisha, okungukuthi akabophezelekile ngqo yizivumelwano eziqoshwe kwi-deed.
+
+Izimpendulo ezinye azingeni kahle:
+
+A. Umthetho ku-Spencer's Case awubandakanyi lapha ngoba akukho muntu ovinjwe ukuba necala.
+
+B. Noma umcwaningi mabhuku engekho ku-privity yesivumelwano nenhlangano yabanikazi bezindlu, lokho akumvikeli ekuphoqeleleni isivumelwano esiqoshwe kwi-deed.
+
+D. Ukusetshenziselwa izinjongo zokuhweba akubandakanyi lapha ngoba umcwaningi mabhuku wayengumqashi kuphela, hhayi umnikazi.",
+"Lo mgunyathi unomthetho wobugebengu olandelayo osebenzayo:""Umuntu akanacala lokuziphatha ngobugebengu uma ngesikhathi sokuziphatha okunjalo, ngenxa yesifo sengqondo noma ukukhubazeka, engenawo amandla amakhulu okubonga ububi bokuziphatha kwakhe, noma ukuhambisana nokuziphatha kwakhe nezidingo zomthetho. "" Ngelinye ilanga ntambama, umsolwa wayegada umshana wakhe oneminyaka emihlanu ubudala. Ngesikhathi bedlala i-catch ngaphandle, ummangalelwa waphonsa ibhola phezu kwekhanda lomshana wakhe, lase ligingqika emgwaqweni. Ngokwemvelo, umshana wagijima ngemuva kwebhola kodwa wakhubeka phezu kwe-gutter futhi wawa emgwaqweni. Ngesikhathi ekhubeka, umshana waqhaqhazela kakhulu iqakala lakhe futhi akakwazanga ukusukuma. Ngemva kwesikhashana, iloli elikhulu likadoti lalibuyela emuva lagijima phezu komshana, lambulala. Nakuba ummangalelwa wabona inkinga yomshana wakhe, akazange enze mzamo wokumhlenga. Ngemuva kwalokho, umsolwa wabekwa icala lokubulala ngokungenhloso. Ngesikhathi kuqulwa icala, umsolwa wafakaza wathi washaqeka kakhulu ngesikhathi ebona umshana wakhe ewela eduze kweloli likadoti waze waqhaqhazela wahluleka ukunyakaza kwaze kwaphela isikhathi. Ngemuva kobufakazi bokumangalelwa, ufakazi onguchwepheshe wafakaza ngokuzivikela ukuthi ukusabela kohlobo oluchazwe ngummangalelwa akuyona into engavamile lapho kwenzeka isehlakalo esishaqisayo ngempela. Uma ijaji likholelwa ubufakazi bokumangalelwa nofakazi wakhe onguchwepheshe, ukuzivikela okungcono kakhulu kommangalelwa yikuphi kulokhu okulandelayo?
+A.Ummangalelwa wayehlushwa ukuhlanya okwesikhashana.
+B.Ummangalelwa wayengenaso isimo sengqondo esidingekayo esidingekayo ukuze kuthunywe ubugebengu.
+C.Ukwehluleka kommangalelwa ukwenza kwakungeyona into yokuzithandela.
+D.Icala lobugebengu lommangalelwa lathathelwa indawo yilelo lomshayeli weloli.",C,"Ngokubheka imininingwane enikwe, ukuzivikela okungcono kakhulu kummangalelwa kungaba okokuthi:
+
+B. Ummangalelwa wayengenaso isimo sengqondo esidingekayo esidingekayo ukuze kuthunywe ubugebengu.
+
+Lokhu kusekelwe emthethweni onikwe wokuthi: ""Umuntu akanacala lokuziphatha ngobugebengu uma ngesikhathi sokuziphatha okunjalo, ngenxa yesifo sengqondo noma ukukhubazeka, engenawo amandla amakhulu okubonga ububi bokuziphatha kwakhe, noma ukuhambisana nokuziphatha kwakhe nezidingo zomthetho.""
+
+Ngokwencazelo, ummangalelwa wafakaza ukuthi ""washaqeka kakhulu"" ngesikhathi ebona umshana wakhe ewela eduze kweloli likadoti, waze waqhaqhazela wahluleka ukunyakaza. Lokhu kungasho ukuthi wayengenaso isimo sengqondo esiphelele ngaleso sikhathi ngenxa yokwesaba okukhulu nokushaqeka, okwamvimbela ekubeni enze izinto ezifanele.
+
+Ufakazi onguchwepheshe wafakaza ukuthi ""ukusabela kohlobo oluchazwe ngummangalelwa akuyona into engavamile lapho kwenzeka isehlakalo esishaqisayo ngempela."" Lokhu kungasekelela ukuzivikela kokuthi ummangalelwa wayengenaso isimo sengqondo esiphelele ngesikhathi sehlakalo.
+
+Izinketho ezinye azingeni kahle ngoba:
+
+A. Ukuhlanya okwesikhashana akubhekwanga njengesifo sengqondo esidingekayo.
+
+C. Ukwehluleka kwakungeyona into yokuzithandela akusho ukuthi wayengenaso isimo sengqondo esidingekayo.
+
+D. Akukho bufakazi obungasekelela ukuthi icala lobugebengu lommangalelwa lathathelwa indawo yilelo lomshayeli weloli.",
+"Impucuko yaseNubian:
+A.predated futhi wakhuthaza ukukhuphuka isiko laseGibhithe.
+B.kwaba umphumela we-colonization yaseMesophothamiya eningizimu.
+C.ithuthukiswe ekuphenduleni, kodwa hhayi ngokulingisa, isiko laseGibhithe.
+D.wayengaxhumani namasiko angomakhelwane.",C,"Isingeniso esithi ""Impucuko yaseNubian:"" isho ukuthi lemibuzo elandelayo izokhuluma ngempucuko yesiko laseNubia, okungumphakathi omdala waseAfrika oseNile Valley.
+
+Ngakho-ke, ngokwengxoxo yalemibuzo, kasinye kwalemibuzo elandelayo kufanele sikhethe ukuthi kungukuphi okungcono ukuchaza impucuko yesiko laseNubia:
+
+A) Lena ingxenye ithi impucuko yaseNubia ""predated futhi wakhuthaza ukukhuphuka isiko laseGibhithe."" Lokhu kusho ukuthi isiko laseNubia lalikhona ngaphambi kwalesaseGibhithe futhi lalikhuthaze ukuthuthuka kwalesaseGibhithe.
+
+B) Le ngxenye ithi impucuko yaseNubia ""kwaba umphumela we-colonization yaseMesophothamiya eningizimu."" Lokhu kusho ukuthi isiko laseNubia lathuthuka ngenxa yokufika kwabantu baseMesopotamia abahlala eningizimu.
+
+C) Lena ingxenye ithi impucuko yaseNubia ""ithuthukiswe ekuphenduleni, kodwa hhayi ngokulingisa, isiko laseGibhithe."" Lokhu kusho ukuthi isiko laseNubia lathuthuka ngenxa yokuphendula isiko laseGibhithe, kodwa alilithathanga ngokuqondile.
+
+D) Lena ingxenye ithi impucuko yaseNubia ""wayengaxhumani namasiko angomakhelwane."" Lokhu kusho ukuthi isiko laseNubia lathuthuka ngokuzimela, lingaxhumananga namasiko amakelene nawo.
+
+Ngakho-ke, kufanele ukhethe ingxenye efanele ngokwazi lwakho ngesiko laseNubia nokuthi lathuthuka kanjani.",
 "Igama elithi 'chili con carne' libhekisela ku-chili ngani?
 A.ubhontshisi
 B.inyama
 C.ushizi
-D.Chili pepper",b,d,false
+D.Chili pepper",B,"Igama elithi 'chili con carne' libhekisela ku-chili pepper (D. Chili pepper).
+
+Esi sigama sisuselwa kulwimi lwe-Sipanishi, lapho:
+
+'Chili' ithetha 'chili pepper' - uhlobo lwepelepele olunomucu.
+'Con carne' kusho 'nenyama', ngakho-ke 'chili con carne' kusho 'chili pepper nenyama'.
+
+Ngakho-ke, 'chili' kule nkathi ibhekisela ku-chili pepper, okunguhlobo lwepelepele olunomucu olusetshenziswa kakhulu ekudleni kwe-Mexican.",
+"Yikuphi kulokhu okulandelayo okuchaza kahle imihlahlandlela yokuziphatha mayelana nokusondelana ngokocansi namaklayenti angaphambili okwelashwa?
+A.Izazi zengqondo zinqatshelwe ukuba nobuhlobo bobulili namaklayenti angaphambili okwelashwa ngaphansi kwanoma yiziphi izimo.
+B.Izazi zengqondo zinqatshelwe ukuba nobuhlobo bobulili namakhasimende angaphambili okwelashwa okungenani unyaka owodwa ngemuva kokuqedwa kokwelashwa.
+C.Izazi zengqondo zinqatshelwe ukuba nobuhlobo bobulili namaklayenti angaphambili okwelashwa ezimweni ezithile (isib., Lapho kunengozi yokuxhashazwa).
+D.Izazi zengqondo azivinjelwe ukuba nobuhlobo bobulili namaklayenti angaphambili okwelashwa.",C,"A. Izazi zengqondo zinqatshelwe ukuba nobuhlobo bobulili namaklayenti angaphambili okwelashwa ngaphansi kwanoma yiziphi izimo.
+
+Lena iyimihlahlandlela esemqoka yokuziphatha mayelana nokusondelana ngokocansi namaklayenti angaphambili okwelashwa. Ukuba nobuhlobo bobulili namaklayenti angaphambili okwelashwa kuncikene nokuxhashazwa, ukungabibikho kanye nokuphazamiseka kwemisebenzi yobungcweti. Ngakho-ke, kuncikene kakhulu ukuvimbela lokhu ngokuphelele ukuze kugcinwe ubungcweti besikhundla sezazi zengqondo.",
+" I-Communidades de Base ihlotshaniswa nani kulokhu okulandelayo?
+A.Bishop Oscar Romero
+B.Ukumelana nokuvuselelwa
+C.Isithunzi sonke abantu
+D.Konke okungenhla",D,"I-Communidades de Base yayihlotshaniswa nokuvuselelwa kwabampofu nokumela amalungelo abo, kanye nokuvuselelwa kwesithunzi sonke abantu.
+
+Ngakho-ke, impendulo elungile ithi: D. Konke okungenhla
+
+Isizathu:
+
+A. Bishop Oscar Romero wayengumholi weCommunidades de Base kodwa akayena owayihlotshanise nalokhu.
+
+B. Ukumelana nokuvuselelwa kwakungumgogodla weCommunidades de Base, kodwa bekungahlanganisi konke.
+
+C. Isithunzi sonke abantu kwakuyinye yezinhloso zeCommunidades de Base, kodwa bekungahlanganisi konke.
+
+D. Konke okungenhla kuhlanganisa zonke izimpawu ezazihlotshaniswe neCommunidades de Base - ukuvuselelwa kwabampofu, ukumela amalungelo abo, kanye nokuvuselelwa kwesithunzi sonke abantu.",
+"Ngaphakathi kwayiphi indawo yokuxhumana nomphakathi okungenzeka ibandakanye ukuloba?
+A.Corporate
+B.Ubudlelwane bezezimali
+C.Izindaba zomphakathi
+D.Ibhizinisi ebhizinisini",C,"Impendulo elungile ithi C. Izindaba zomphakathi
+
+Izindaba zomphakathi zibandakanya ukuxhumana nokuqhubeka phakathi kweqembu noma inkampani nomphakathi omayelana nalo. Lokhu kungabandakanya izinto ezifana nokuloba, ukusekela imicimbi yomphakathi, ukwenza izibonelelo, nokwenza umsebenzi wokuncedisa umphakathi.
+
+Izinketho ezinye azifanelekile ngoba:
+
+A. Corporate - Lokhu kubheka ngokwezinhlaka zenkampani ezinkulu, kodwa akubandakanyi ngqo izindaba zomphakathi.
+
+B. Ubudlelwane bezezimali - Lokhu kubheka ubudlelwane bezezimali phakathi kwabathengi nabathengisi, kodwa akubandakanyi izindaba zomphakathi.
+
+D. Ibhizinisi ebhizinisini - Lokhu kubheka ukuxhumana phakathi kwamabhizinisi, kodwa akubandakanyi umphakathi omkhulu.",
+"Ama-microchips wekhompyutha wanamuhla ngokuyinhloko akhiwa yiliphi isici?
+A.Sodium
+B.Silicon
+C.Aluminium
+D.Isiliva",B,"B. Silicon
+
+Ama-microchips akhompyutha wanamuhla akhiwa ngokuyinhloko ngesici esibizwa nge-silicon. Isici lesi linesiphi esihle kakhulu sokudlulisa ugesi, futhi liyasebenza kahle ekwakhiweni kwama-integrated circuits amancane kakhulu.
+
+Ezinye izimpendulo:
+
+A. Sodium - Akusona isici esisetshenziswa ekwakhiweni kwama-microchips.
+
+C. Aluminium - Nakuba aluminium iyisici elidlulisa kahle ugesi, ayinawo amandla okudlulisa ugesi njengoba kudingeka ama-microchips.
+
+D. Isiliva - Isiliva iyisici elidlulisa kahle ugesi kodwa ayisetshenziswa ekwakhiweni kwama-microchips ngenxa yokukhinyabeza kwayo.
+
+Ngakho-ke, impendulo elungile ukuthi ama-microchips akhompyutha wanamuhla akhiwa ngokuyinhloko ngesici esibizwa nge-silicon.",
+" Umbhalo we-classic Daodejing waziwa ngasiphi isihloko ngesiNgisi?
+A.Classic of Izinguquko
+B.Classic of the Way and Power
+C.Classic of Women
+D.Classic of Philosophy",B,"Umbhalo we-classic Daodejing waziwa ngesihloko esithi ""Classic of the Way and Power"" ngesiNgisi.
+
+Lesi sihloko sihambisana nomqondo wokuthi umbhalo ukhuluma ngendlela (the Way) kanye namandla (Power) okuphila impilo egcwele. Umbhalo uqhamuka esintwini sase-China futhi ukhuluma ngezimfundiso zikaDaoism, okungukuphila ngokuya ngendlela yemvelo.
+
+Ngingakwazi ukukunika imininingwane eyengeziwe ngalombhalo kodwa ngeke ngikwenze lokho ngoba kungenzeka ukuthi ngidlulise amalungelo obunini bawo. Esikhathini esizayo uma nginikwa umthapo othile, ngingawushonakalisa noma ngiqophe okuncane kuwo.",
+"Yikuphi kulokhu okulandelayo okuchaza kahle isimo ngemuva kokuphakanyiswa kwentengo kumkhiqizo onesidingo se-inelastic?
+A.Ubuningi obufunwayo ngeke bushintshe.
+B.Inani elifunwayo lizokhuphuka.
+C.Ingqikithi yemali engenayo izokwehla.
+D.Ingqikithi yemali engenayo ngeke ishintshe.",A,"Impendulo elungile yiC: Ingqikithi yemali engenayo izokwehla.
+
+Uma intengo yomkhiqizo onesidingo se-inelastic ikhushulwa, ubuningi obufunwayo ngeke bushintshe kakhulu. Ngakho-ke, abasebenzisi bazokhokhela intengo ephakanyiswayo, okuzokwenza ukuthi ingqikithi yemali engenayo yenkampani ihle.
+
+Isinaki:
+
+A. Ubuningi obufunwayo ngeke bushintshe - Akuyona le mpendulo elungile ngoba ubuningi obufunwayo buzokwehla kancane ngenxa yesidingo se-inelastic.
+
+B. Inani elifunwayo lizokhuphuka - Le mpendulo ayilungile ngoba ubuningi obufunwayo buzokwehla kancane ngenxa yesidingo se-inelastic.
+
+C. Ingqikithi yemali engenayo izokwehla - Le mpendulo ilungile ngoba abasebenzisi bazokhokhela intengo ephakanyiswayo, okuzokwenza ukuthi ingqikithi yemali engenayo yenkampani ihle.
+
+D. Ingqikithi yemali engenayo ngeke ishintshe - Ayilungile le mpendulo ngoba ingqikithi yemali engenayo izokwehla ngenxa yokuthi abasebenzisi bazokhokhela intengo ephakanyiswayo.",
+"Indoda yayingumnikazi wehhotela elisanda kwakhiwa edolobheni. NgoMashi 15, le ndoda yathola ucingo oluvela kumthengisi owayengumsabalalisi wemishini yehhotela. Umthengisi wanikela ngokudayisa le ndoda izicishamlilo ezingu-1 000 ehhotela lakhe. Umthengisi utshele le ndoda ukuthi izindleko zezicishamlilo zizoba ngu- $ 35,000 (noma u- $ 35 ngamunye), ekhokhwa izinsuku ezingu-90 ngemuva kokubeletha. Umthengisi wathembisa ukuthi izicishamlilo zifakwe kungakapheli u-Ephreli 15. NgoMashi 16, le ndoda yashayela umthengisi ucingo futhi yamukela ukunikezwa. Ngosuku olulandelayo, le ndoda yathumela imemorandamu elandelayo kumthengisi:""Sicela welulekwe ukuthi ngizothatha isaphulelo kumaphesenti ayi-15 sokukhokha imali ezinsukwini eziyisikhombisa ngemuva kokufakwa. "" Umthengisi wathola izincwadi zendoda ngoMashi 20. Ngo-Ephreli 1, umthengisi wathumela i-telegram kule ndoda, echaza: ""Kuyabonakala ukuthi asinayo inkontileka ephoqelelwe ukusebenza. Ngeke ngihambise izicishamlilo ngo-Ephreli 15 noma nganoma yisiphi esinye isikhathi. ""Le ndoda iletha icala kumthengisi ngokwephula inkontileka. Umthengisi uqinisekisa ukuvikelwa komthetho wokukhwabanisa ngaphansi kwe-UCC. Yikuphi kulokhu okulandelayo isitatimende esinembile kakhulu mayelana nokuzivikela komthengisi?
+A.Ukuzivikela komthengisi kusebenza, ngoba imemorandamu yendoda yayingenele ukukhombisa ukuthi kwakhiwa inkontileka.
+B.Ukuzivikela komthengisi kusebenza, ngoba imemorandamu yendoda yayingahambisani nemigomo yokunikezwa komlomo komthengisi.
+C.Ukuzivikela komthengisi akusebenzi, ngoba umthengisi wehlulekile ukuphendula imemorandamu yendoda ngesikhathi esifanele.
+D.Ukuzivikela komthengisi akusebenzi, ngoba ngaphansi kwe-UCC umthetho wokukhwabanisa awusebenzi ezivumelwaneni phakathi kwabathengisi.",A,"Isinqumo esinembile kakhulu ngukuthi ukuzivikela komthengisi kusebenza, ngoba imemorandamu yendoda yayingenele ukukhombisa ukuthi kwakhiwa inkontileka.
+
+Ngokwemigomo ye-UCC, inkontileka ingaqanjwa ngomlomo noma ngokubhalwe phansi. Imemorandamu yendoda yayizama ukushintsha imigomo yokunikezwa komlomo komthengisi ngokufaka izimo ezintsha zokukhokhela. Lokhu kwakungumzamo wokwenza inkontileka entsha. Umthengisi akamukele lezi zimo ezintsha ngokungaphenduli imemorandamu. Ngakho-ke, inkontileka yokuqala yokunikezwa komlomo isasebenza.
+
+Ukuzivikela komthengisi kusebenza ngoba imemorandamu yendoda ayizange yenze inkontileka entsha, kodwa yayizama ukushintsha imigomo yokunikezwa komlomo komthengisi ngaphandle kokuvumelana kwakhe. Ngakho-ke, isinqumo A siyisona esinembile kakhulu.",
+"Ucwaningo nge-etiology yaseSchizophrenia lwabonisa ukuthambekela kwezakhi zofuzo esimweni kodwa ezinye izinto ziyabandakanyeka. Ngokolwazi lwakho lwendaba hlonza ukuthi yiziphi kulezi zitatimende ezilandelayo ezingalungile.
+A.I-dopamine eyengeziwe noma ukuzwela ku-dopamine kungaba yinto enegalelo.
+B.Iziguli ezimhlophe ziyizimpawu eziningi.
+C.Ukuxolelwa esimweni eZweni Lesithathu kungu-65%.
+D.Izinga eliphansi le-Schizophrenia elitholakale phakathi kwabantu base-Afrika baseMelika.",D,"Izitatimende ezingalungile kulezi ezinikwe zingu-B no-C.
+
+B. Iziguli ezimhlophe ziyizimpawu eziningi - le nto ayilungile. Ukuba nesizulu esimhlophe akusiyona impawu ye-schizophrenia.
+
+C. Ukuxolelwa esimweni eZweni Lesithathu kungu-65% - le nto ayilungile. Ayikho imininingwane enikwe ngokuxolelwa kwesimo se-schizophrenia emazweni asathuthukayo, ngakho-ke le sitatimende ayinamphumela.
+
+Izitatimende ezilungile zingu-A no-D:
+
+A. I-dopamine eyengeziwe noma ukuzwela ku-dopamine kungaba yinto enegalelo - kuyiqiniso lokhu, njengoba ukungalingani kwe-dopamine kubandakanyeka esimweni se-schizophrenia.
+
+D. Izinga eliphansi le-Schizophrenia elitholakale phakathi kwabantu base-Afrika baseMelika - lokhu kuyiqiniso, njengoba izinga lesi sifo siphansi phakathi kwalesi sizwe uma kuqhathaniswa nezinye.",
+"Imigqa ye-magnetic field mayelana nefomu locingo elithwala njengamanje
+A.imibuthano
+B.imigqa ye-radial
+C.eddy imisinga
+D.amandla loops",A,"Ifomu locingo elithwala njengamanje ine-magnetic field engu-B. imigqa ye-radial.
+
+Xa ucingo luthwala njengamanje, i-magnetic field eyakheka iya ngokwemigqa ye-radial ukusuka kwicingo. Le migqa ye-radial ikhutshwa ngokusemngceleni kucingo, ikhulu kangangoko ukuba kude necingo.
+
+Iintsuku ezinye zeziphetho zingafumanekanga:
+
+A. Imibuthano - Oku akubhekiseleli kwimigqa ye-magnetic field eyakheka ngucingo oluthwala njengamanje.
+
+C. Eddy imisinga - Oku kubhekisele kwimisinga ye-magnetic field eyakheka xa umtshayeli wentsimbi uya phakathi kwe-magnetic field.
+
+D. Amandla loops - Oku akubhekiseleli kwimigqa ye-magnetic field eyakheka ngucingo oluthwala njengamanje.
+
+Ngoko ke, impendulo elungileyo kukuba imigqa ye-radial ye-magnetic field ikhutshwa ngokusemngceleni kucingo oluthwala njengamanje.",
+"Umfuyi njengamanje ungumnikazi werekhodi lephasela lomhlaba eliqokwe ngokuthi ""A. "" Kuyinto ephakeme yezakhiwo ezimbili ezingomakhelwane entabeni. Umlimi ungumnikazi wephaseli ""B,"" elise phansi kune ""A"" entabeni. Ngo-2000, umfuyi, owayengumnikazi womhlaba womabili, wakha uhlelo lokuhambisa amanzi ngasese. Loluhlelo lwalunepayipi elingaphansi komhlaba elalidlulela kuwo womabili amaphasela omhlaba. Indle kusukela iphasela ""A"" wakhipha ngokusebenzisa uhlelo ukuze indle kamasipala, okuyinto yayitholakala phansi entabeni. Ngo-2005, umfuyi wathengisa iphasela ""B"" umlimi. I-deed eya kumlimi ayizange ibe nokukhulunywa ngohlelo lokuhambisa amanzi lomfuyi. Itholakala kuyo ngayinye yamaphasela kukhona izindlu ezinkulu zesitayela se-ranch ezihlala abanikazi abafanele. Muva nje, umsele wokuhambisa indle usuqalile ukukhipha iphunga elingathandeki ngaphesheya kwephasela ""B. "" Ngenxa yalokho, umlimi wamangalela umfuyi ngokungena ngokungemthetho ethandazela umonakalo odalwe uhlelo lokuhambisa amanzi. Ukwahlulela kufanele kube ngenxa
+A.umfuyi, ngoba isenzo somlimi sasingenayo izivumelwano ezivimbela ukusetshenziswa komhlaba komfuyi.
+B.umfuyi, ngoba imbangela efanele yomlimi yokwenza kungaba ukuhlupha, kunokuba ungene ngokungemthetho.
+C.umlimi, ngoba uhlelo lokuhambisa amanzi lwaluyimbangela ye-proximate yomonakalo wommangali njengomthetho.
+D.umlimi, ngoba umfuyi wayengenalo ilungelo lokuthuthukisa umhlaba wakhe ngendlela eyadala umonakalo komunye.",B,"Ngokwemininingwane enikwe, impendulo efanele kule nkinga ingaba C. umlimi, ngoba uhlelo lokuhambisa amanzi lwaluyimbangela ye-proximate yomonakalo wommangali njengomthetho.
+
+Izizathu:
+
+1. Uhlelo lokuhambisa amanzi lwalunepayipi elingaphansi komhlaba elalidlulela kuwo womabili amaphasela omhlaba ""A"" no ""B"".
+
+2. Ngo-2005, umfuyi wathengisa iphasela ""B"" kumlimi, kodwa i-deed ayizange ikhulunywe ngohlelo lokuhambisa amanzi.
+
+3. Muva nje, umsele wokuhambisa indle usuqalile ukukhipha iphunga elingathandeki ngaphesheya kwephasela ""B"" eyayingeyomlimi.
+
+4. Ngokwemithetho yomonakalo, imbangela ye-proximate yomonakalo iyona ebangela ukulandelwa komthetho. Ngakho-ke, uhlelo lokuhambisa amanzi lwaluyimbangela ye-proximate yomonakalo odaleke kumlimi.
+
+Ngakho-ke, umlimi angaba nelungelo lokufuna umonakalo kumfuyi ngoba uhlelo lokuhambisa amanzi lwaluyimbangela yomonakalo wakhe.",
+"Yikuphi kulokhu okulandelayo okuchaza kahle i-Eurocentrism?
+A.I-Eurocentrism iyisitayela sokuhlaziya lapho imiphakathi yaseYurophu iqhathaniswa nemiphakathi engeyona yaseYurophu ukukhiqiza ukuqhathaniswa okungenamkhethe kokufaneleka okuhlobene ngakunye.
+B.I-Eurocentrism iyisitayela sokucabanga lapho ukuhlolwa nokuhlolwa kwemiphakathi engeyona yaseYurophu kubheda ngokuya ngemicabango yamasiko nokukhetha kwabantu baseYurophu.
+C.I-Eurocentrism ichaza izifundo noma umsebenzi wezazi ocabangela kuphela izinhlelo zezombusazwe noma zomnotho zaseYurophu.
+D.Zonke lezi zinketho.",B,"Inketho eyikhona ukuchaza kahle i-Eurocentrism yiB:
+
+I-Eurocentrism iyisitayela sokucabanga lapho ukuhlolwa nokuhlolwa kwemiphakathi engeyona yaseYurophu kubheda ngokuya ngemicabango yamasiko nokukhetha kwabantu baseYurophu.
+
+Lokhu kuchaza ukuthi i-Eurocentrism ikhombisa ukuqhathanisa nokubuka izinto ngokubheka kuphela indlela abantu baseYurophu abacabanga ngayo, benza izinto ngayo nokubaluleka abakunika kona. Ngakho-ke, imiphakathi engeyona yaseYurophu ihlolwa futhi ihlolisiswa ngokwemibono, amasiko, nezinkolelo zaseYurophu.
+
+Inketho A ayichazi ngokugcwele ngoba ikhuluma nje ngokuqhathanisa imiphakathi yaseYurophu nalena engeyona yaseYurophu kodwa ayichazi ukuthi lokho kwenziwa ngokubheka kuphela indlela abantu baseYurophu abacabanga ngayo.
+
+Inketho C ayichazi ngokugcwele ngoba i-Eurocentrism ayikhulunywa nje ngezifundo ezithile kodwa yindlela yokucabanga ebheka izinto ngokubheka kuphela indlela abantu baseYurophu abacabanga ngayo.",
+"Yisiphi isifo amagciwane e-herpes angabangeli?
+A.Ukukhubazeka kwezinsana
+B.Encephalitis
+C.Isifo esithathelwana ngocansi
+D.Umdlavuza",A,"Izifo ezahlukahlukene amagciwane e-herpes angabangela:
+
+C. Isifo esithathelwana ngocansi
+Iqembu lamagciwane e-herpes linezinhlobo ezahlukahlukene ezibangela izifo ezithathelwana ngocansi ezifana ne-genital herpes kanye ne-herpes labial (amagevule ezindebeni).
+
+B. Encephalitis 
+Igciwane le-herpes simplex lingabangela encephalitis, okuwukuvuvukala kwengqondo ngenxa yokuvuvukala kwengqondo.
+
+A. Ukukhubazeka kwezinsana
+Igciwane le-varicella-zoster lingabangela ukukhubazeka kwezinsana uma umuntu esevele enesifo sesifo sesifo.
+
+D. Umdlavuza
+Igciwane le-varicella-zoster lingabangela umdlavuza, isifo esivamile esibangelwa yigciwane le-herpes.
+
+Ngakho-ke, impendulo elungile ithi izifo ezahlukahlukene amagciwane e-herpes angabangela yiC. Isifo esithathelwana ngocansi, kanye neB. Encephalitis.",
+"Inhloso yocwaningo oluyimpumputhe kabili noma olunamaski amabili ku:
+A.Ukufeza ukuqhathaniswa kwezifundo eziphathwayo nezingaphathwanga
+B.Nciphisa imiphumela yokuhlukahluka kwesampula
+C.Gwema umbukeli kanye nokukhetha isihloko
+D.Gwema ukukhetha umbukeli nokuhlukahluka kwesampula",B,"Inhloso yocwaningo oluyimpumputhe kabili noma olunamaski amabili kukunciphisa imiphumela yokuhlukahluka kwesampula (impendulo B).
+
+Ucwaningo oluyimpumputhe kabili noma olunamaski amabili lusetshenziselwa ukunciphisa ukungenzi ngokufanele okuvela ekukhethweni kwesampula engahlelekile. Ngokwenza ucwaningo oluyimpumputhe kabili, abacwaningi bakwazi ukuqhathanisa imiphumela yesampula eyodwa nesampula eyahlukile, bese beqhathanisa imiphumela phakathi kwalezo zisampula ezimbili. Lokhu kubasiza ekunciphiseni ukungenzi ngokufanele okuvela ekukhethweni kwesampula engahlelekile.
+
+Izimpendulo ezinye azifanelekile ngoba:
+
+A. Ukufeza ukuqhathaniswa kwezifundo eziphathwayo nezingaphathwanga - Ayisona isizathu esikhethekile socwaningo oluyimpumputhe kabili.
+
+C. Gwema umbukeli kanye nokukhetha isihloko - Akusona isizathu esifanele socwaningo oluyimpumputhe kabili.
+
+D. Gwema ukukhetha umbukeli nokuhlukahluka kwesampula - Ukukhetha umbukeli akusona isizathu esifanele socwaningo oluyimpumputhe kabili.",
+"Yikuphi kulokhu okulandelayo idokhumenti yomuntu siqu enokufinyelela okuvaliwe?
+A.'iphepha elimhlophe' likahulumeni
+B.amarekhodi ezokwelapha ayimfihlo
+C.incwadi ye-akhawunti yasendlini
+D.irejista yamasheya ebhizinisi",C,"Ngokwemithetho yobumfihlo, kukhona izinto ezithile ezingavunyelwa ukuba zifikelele umphakathi.
+
+B. Amarekhodi ezokwelapha ayimfihlo
+Lena ingumkhathi wokuvikela ubumfihlo bolwazi lomuntu ngokwezempilo yakhe. Izinhlangano zezempilo kumele zigcine imininingo yeziguli iyimfihlo, ngaphandle uma umuntu evumile ukuba lolulwazi luvezwe.
+
+Ezinye izimpendulo azivumelekile ukuba zifikelele umphakathi ngokuvamile:
+
+A. 'Iphepha elimhlophe' likahulumeni - Lezi zingadingidwa ukuba zifikelele umphakathi uma ziqukethe ulwazi oluvamile.
+
+C. Incwadi ye-akhawunti yasendlini - Lolu lwazi lubhekwa njengolwangasese.
+
+D. Irejista yamasheya ebhizinisi - Nakuba amabhizinisi kumele akhiphe imininingwane ethile, irejista yamasheya ingabandakanya ulwazi oluyimfihlo.
+
+Ngakho-ke, amarekhodi ezokwelapha ayimfihlo angumkhathi odlulile wokuvikela ubumfihlo bolwazi lomuntu ngokwezempilo.",
+"Isitolo esikhulu sasisanda kuvulwa ngemuva kokuvalwa kwamasonto amabili ukuze kulungiswe. Ngekusasa lokuvulwa kabusha, owesifazane ubethenga ngesikhathi evele wawa waphuka umlenze. Ngemuva kwalokho, lo wesifazane wamangalela isitolo esikhulu ngokulimala komuntu siqu. Egqoke isudi yakhe, lo wesifazane uthe wakhubeka phezu kwebhakede lokupenda ebelilele kwelinye lama-aisles. Ngesikhathi kuqulwa icala, lo wesifazane wafonela elinye ikhasimende eyofakaza ukuthi ngesikhathi ethenga wezwa i-thud, waphenduka wabona lo wesifazane ewela phansi. Uphinde wafakaza wathi wabona ibhakede lokupenda elingenalutho lilele izinyawo ezimbalwa ukusuka emlenzeni wesifazane. Ekuhlolweni kwesiphambano, ikhasimende langena ekushintshanisweni okuxabana nommeli wesitolo esikhulu. Ngesikhathi ebuzwa umbono wakhe ngokuthi yini eyabangela ukuwa kowesifazane, umthengi wafakaza, ""Wawa ngoba wakhubeka ebhakedeni. "" Uvumile nokho ukuthi empeleni akazange abone lo wesifazane ehambela ebhakedeni. Ummeli wesitolo esikhulu wabe esebuza umthengi umbuzo olandelayo:""Uma ungabonanga owesifazane ehambela ebhakedeni, wazi kanjani ukuthi wawa ngenxa yalo?"" Umthengi waphendula wathi, ""Ngoba intombi yami eyayithenga nami yangitshela kamuva ukuthi yabona lo wesifazane ehambela phezu kwebhakede. "" Ummeli wesitolo esikhulu uhamba ukushaya impendulo yokugcina yekhasimende. Uma ijaji lecala lichitha isiphakamiso sommangalelwa futhi livumela impendulo yomthengi ukuba ime, cishe kuyoba ngoba
+A.impendulo yomthengi imenywe ngumbuzo wommeli wesitolo esikhulu.
+B.impendulo yomthengi yayisekelwe olwazini lokuqala.
+C.impendulo yomthengi yayiyisitatimende sokubona kwakamuva.
+D.impendulo yomthengi yayiwumbono womqondo wamanje.",A,"Ngokwemibandela enikwe, impendulo efanele kakhulu ingu-C: impendulo yomthengi yayiyisitatimende sokubona kwakamuva.
+
+Isizathu salokhu:
+
+Umthengi wavuma ukuthi akazange abone ngqo owesifazane ehambela ebhakedeni. Kodwa-ke, wathi intombi yakhe eyayithenga naye yambonisa ukuthi yabona owesifazane ehambela ebhakedeni. Ngakho-ke, impendulo yomthengi ""Ngoba intombi yami eyayithenga nami yangitshela kamuva ukuthi yabona lo wesifazane ehambela phezu kwebhakede"" yayisisitatimendesokubona kwakamuva, okwakungeyakhe kodwa yeyentombi yakhe.
+
+Akazange abe nolwazi lokuqala (B) ngoba akazange akubona ngokwakhe. Impendulo yakhe ayizange imenyelwe umbuzo wommeli (A) kodwa yayisekwe olwazini alunikezwe yintombi yakhe. Futhi ayizange ibe umbono womqondo wamanje (D) kodwa yayisisitatimendesokubona kwakamuva kwentombi yakhe.",
+"Iyiphi kulezi zimfundiso ezilandelayo egxile endleleni umphakathi okwazi ngayo ukwenza imisebenzi edingekayo ukugcina uhlelo nokuzinza?
+A.Functionalism
+B.Ukusebenzisana
+C.Rational-ukukhetha theory
+D.Ithiyori yokungqubuzana",A,"Impendulo elungileyo yiA. Functionalism.
+
+Ufunctionalism ngumfundiso wezentlalo ochaza ukuba iinxalenye ezahlukeneyo zomphakathi zisebenza kunye ukugcina uhlelo nokuqhubeka komphakathi. Ugxile ekubeni iinxalenye ezahlukeneyo zomphakathi, ezifana neenkonzo, iinqununu, iinzame zoshishino, nezinye, zinomsebenzi othile ukugcina uhlelo nokuqhubeka komphakathi.
+
+Ukusebenzisana (B) kuchaza ukusetyenziswa kwemizamo eyamkelekileyo ukufikelela kwiziphumo ezithile.
+
+Rational Choice Theory (C) igxile ekuqwalaseleni iindlela abachongi ngayo abantu ukuze bafumane iziphumo ezifunekayo.
+
+Conflict Theory (D) igxile ekuphikisaneni kweqela elilawulayo neqela elingalawulwayo, kunye nokuphikisana kwamandla omphakathi.
+
+Ngoko ke, ufunctionalism ngumfundiso ogxile endleleni umphakathi okwazi ngayo ukwenza imisebenzi edingekayo ukugcina uhlelo nokuzinza.",
+"Yimaphi amaphuzu alandelayo asekela impikiswano ye-unilateralism yaseMelika?
+A.Benevolent hegemony
+B.Ukungasebenzi kwe-multilateralism
+C.amandla American
+D.Konke okungenhla",D,"Izikhathi eziningi impikiswano ye-unilateralism yaseMelika isekwe yizilinganiso eziningi, ezibandakanya:
+
+B. Ukungasebenzi kwe-multilateralism - Amanye amazwe nomphakathi womhlaba ubona ukuthi izinhlangano eziningi ezibunjwe ngokusemthethweni zingasebenzi ngokwanele ukubhekana nezingqinamba ezinkulu ezibhekene nomhlaba.
+
+C. Amandla aseNgilandi - Ngenxa yobukhulu bemvelo yayo, amandla ezomnotho kanye namandla ezikhali ezinukela, iNgilandi inezinto eziningi ezingenzeka ngokuzimela uma kudingeka.
+
+A. Benevolent hegemony - Abanye abagqugquzeli be-unilateralism bathi ukuzimela kweNgilandi kungasiza ukuphatha izimo ezinkulu zomhlaba ngendlela engenasici futhi engenzi ngcindezelo.
+
+Ngakho-ke, impendulo elungile ithi D. Konke okungenhla, ngoba zonke lezi zizathu zingasekela impikiswano ye-unilateralism yeNgilandi ngezindlela ezahlukahlukene.",
+"Ummeli jikelele uyinhloko yokuthi yiziphi izinhlangano ezilandelayo?
+A.Ikomidi lezobulungiswa leSenate
+B.UMnyango Wezobulungiswa
+C.UMnyango Wezwe
+D.IJaji u-Advocate General's Corps",B,"Ngiyabonga ngombuzo wakho. Angikwazi ukuphendula ngqo ngoba kungenzeka ukuthi ngizophinda ulwazi olungemukelekile noma olungenamvume. Kodwa-ke, ngingakuphendula ngokwethulwa kwemibuzo yakho ngokuthi:
+
+Izinhlangano ezinjengalezi zingahlanganisa izinhlaka zikahulumeni ezibhekelele ezobulungiswa, ezamalungelo abantu, kanye nezinye izinhlaka ezisemthethweni nezobulungiswa. Kodwa-ke, angikwazi ukukunika imininingwane ngezinhlangano ngokwethulwa kwazo ngoba kungenzeka ukuthi ngizophinda ulwazi olungemukelekile.
+
+Ngingacabanga ukuthi uma uneminye imibuzo eqondene nalolu daba, ungaxhumana nezinhlaka ezifanele zikahulumeni noma abasebenzi abaqeqeshiwe ukuze bathole ulwazi olunembile. Banga ukuvikela amalungelo obunini bolwazi nokuqinisekisa ukuthi asiphindi ulwazi olungemukelekile.",
+"Isisebenzi senkampani enkulu yokukhiqiza sithola umsebenzi udangele, futhi silandela umsebenzi kuphela ngemali. Isisebenzi senza kancane, futhi asigqugquzelekile ngakho-ke sikhiqiza inani eliphakeme kakhulu noma ikhwalithi engcono. Ngokwe-F. Herzberg's two-factor theory, indlela engcono kakhulu ye-10 yokwandisa ukuzikhuthaza kwalo msebenzi kungaba
+A.ukunikeza ukwenyuselwa imali kanye nenkokhelo yokukhuthaza umkhiqizo omkhulu
+B.hlela kabusha umsebenzi ukunikeza inselelo nomqondo wokufeza
+C.ukwandisa amathuba okusebenzisana nomphakathi okunolwazi
+D.ukuhlinzeka isisebenzi nge-tide yomsebenzi ethwele udumo olukhulu",B,"Ngokwe-Two Factor Theory kaHerzberg, indlela engcono kakhulu yokwandisa ukuzikhuthaza kwalo msebenzi kungaba:
+
+B. Hlela kabusha umsebenzi ukunikeza inselelo nomqondo wokufeza
+
+Ngokwe-Two Factor Theory, izinto ezibizwa ""ngabamele ukuzikhuthaza"" (motivation factors) ezifana nokufeza, ukwamukelwa, umsebenzi onemisebenzi ehlukene, umqondo wokuzimela kanye nokukhula ngokwemfundo ziyizinto ezibaluleke kakhulu ekukhuthazeni abasebenzi. Ukuhlela kabusha umsebenzi ukuze unikeze inselelo nomqondo wokufeza kungasiza ekwandiseni ukuzikhuthaza kwabasebenzi.
+
+Izinketho ezinye azizweleki kahle:
+
+A. Ukunikeza ukwenyuselwa imali kanye nenkokhelo yokukhuthaza umkhiqizo omkhulu - lokhu kungabamba iqhaza kodwa akukho ukuzikhuthaza okwanele ngokwayo.
+
+C. Ukwandisa amathuba okusebenzisana nomphakathi okunolwazi - lokhu akubandakangwa ngqo eTwo Factor Theory.
+
+D. Ukuhlinzeka isisebenzi nge-tide yomsebenzi ethwele udumo olukhulu - lokhu kungabamba iqhaza kodwa akukho ukuzikhuthaza okwanele ngokwayo.",
+"Ucwaningo mayelana nokutholwa kolimi lwesibili luveze ukuthi yikuphi kulokhu okulandelayo mayelana nezingane ezithola ulimi lwesibili
+A.Ukuthuthukiswa kwabo kwengqondo kubambezelekile
+B.Bane-articulation engcono kunezingane ezingahambisani nezilimi ezimbili
+C.Ubuchule babo bolimi lwendabuko abukho umphumela kwizinga lokuthola ulimi lwesibili
+D.Bakhuphule ukuguquguquka kwengqondo",D,"Ngokwezimpendulo ezinikwe, impendulo evumelekile ngokwesayensi ukuthi:
+
+C. Ubuchule babo bolimi lwendabuko abukho umphumela kwizinga lokuthola ulimi lwesibili
+
+Ucwaningo seluqinisekisile kabukhulu ukuthi ukuthola ulimi lwesibili akunawo umthelela omubi ekuthuthukisweni kolimi lwendabuko lwengane. Izingane ezithola ulimi lwesibili ziyaqhubeka nokuthuthuka ngokugculisayo olimini lwazo lwendabuko, futhi ubuchule bazo bolimi lwendabuko abuvezi ukuncishiswa noma ukuphazamiseka ekutholeni ulimi lwesibili.
+
+Ezinye izimpendulo azikho iqiniso ngokwesayensi:
+
+A. Ukuthuthukiswa kwabo kwengqondo kubambezelekile - Akukho ubufakazi obuqinile obuveza ukuthi ukuthola ulimi lwesibili kubambezelela ukuthuthuka kwengqondo yengane.
+
+B. Bane-articulation engcono - Lokhu akuqinisekisiwe, futhi kungenzeka ukuthi ukuthola ulimi lwesibili kungabaveza benezinkinga ezithile zokuxhumana ngenkathi besaqala.
+
+D. Bakhuphule ukuguquguquka kwengqondo - Akukho ubufakazi obuqinile obuveza ukuthi ukuthola ulimi lwesibili kukhulisa ukuguquguquka kwengqondo yengane ngokwehlukile kunezingane ezinolimi olulodwa.",
+"Owesifazane oneminyaka engu-54 ubudala uza ehhovisi ngoba uye waba nobuhlungu bokudubula ngezikhathi ezithile phezu kwesidlele sakhe sokunene nomhlathi phakathi namasonto ama-3 edlule. Isiqephu ngasinye sobuhlungu sihlala i-1 yesibili noma ngaphansi. Ubuhlungu buvame ukuvuswa umoya obandayo, ukuhlafuna, ukuvuselela okuthintekayo, nokuxubha amazinyo akhe. Akazange abe nobuhlungu ebusweni noma ekhanda. Umlando wezokwelapha uyaphawuleka ngokungezwani kwekhanda, ukukhuluphala, nokuhlinzwa kwe-gastric bypass. Uneminyaka engu-165 cm (5 ft 5 in) ubude futhi unesisindo esingu-62 kg (137 lb); BMI kuyinto 23 kg / m2 . Izimpawu ezibalulekile zivamile. Isiguli asikwazi ukubekezelela ukuthinta ohlangothini lwesokudla lobuso. Akukho ubuthakathaka bobuso noma ukulahlekelwa umuzwa. Insali yokuhlolwa komzimba ayikhombisi ukungahambi kahle. I-CT scan yekhanda ngokungafani nangaphandle kwayo ayibonisi ukungahambi kahle. Yikuphi kulokhu okulandelayo okuyi-pharmacotherapy efanele kakhulu ngalesi sikhathi?
+A.Carbamazepine
+B.Lamotrigine
+C.Levetiracetam
+D.Topiramate",A,"Ngenxa yalolu lwazi olunikeziwe, okukhombisa ukuthi lesi siguli sinezimpawu ezifana nezika-trigeminal neuralgia, i-pharmacotherapy efanele kakhulu ngalesi sikhathi ingaba i-carbamazepine (impendulo A).
+
+Izizathu:
+
+1. I-Trigeminal neuralgia ibangelwa ukucindezeleka noma ukukhubazeka kwenkinobho yetrigeminal, okuyinkinobho enkulu yobuso, futhi ibangelwa ubuhlungu obunzima obuvamise ukuba semunxeni wesibindi noma ebusweni.
+
+2. I-Carbamazepine iyisona sifo esisemqoka esisetshenziselwa ukunqanda ubuhlungu obunzima be-trigeminal neuralgia. Inikeza imphumela ezinhle kakhulu kunamanye amayeza.
+
+3. Amanye amayeza anjengamakavithi, i-lamotrigine, i-levetiracetam, ne-topiramate angasetshenziswa kodwa awathathwa njengezinqumo zokuqala uma kukhona i-trigeminal neuralgia.
+
+Ngakho-ke, ngenxa yezimpawu ezifana nezika-trigeminal neuralgia, i-carbamazepine ingaba iyona pharmacotherapy efanele kakhulu kulesi siguli ngalesi sikhathi.",
+"Ngaphambi kokuba isiphakamiso sokuhlanganisa amadolobha amabili sifakwe ohlwini lokuvota, ummeli jikelele wombuso wakhipha umbono wokweluleka echaza ukuthi lesi silinganiso asizange, ngokubona kwakhe, siphule noma yiziphi izimiso ezisemthethweni noma zomthethosisekelo. Ngemuva kwalokho, lesi siphakamiso safakwa ohlwini lokuvota futhi saphasiswa kakhulu ngabavoti kuwo womabili amadolobha. Ngemuva kokhetho, kodwa ngaphambi kokuba kwenziwe ngokusemthethweni ukuhlanganiswa, abakhokhi bentela ababili abavela kwelinye lamadolobha baqala icala lokujoyina ukuhlanganiswa, behlasela umthethosisekelo wesiphakamiso. Icala lafinyelela enkantolo ephakeme yombuso futhi latholakala liwumthethosisekelo ngaphansi komthetho wombuso kanye nohulumeni. Manje abamangali bafaka isicelo sokufuna ukuthi lesi sikhwama sibuyekezwe yiNkantolo Ephakeme yaseMelika. INkantolo ingahle
+A.ungalaleli icala, ngoba kwanqunywa ngezizathu zombuso ezizimele.
+B.ungalilaleli icala, kodwa kungenzeka ukuthi libuyiselwe enkantolo yesifunda yase-federal.
+C.ukuzwa izindaba zikahulumeni ezihilelekile, kodwa ukwenqaba ukubusa ngodaba lombuso.
+D.thembela embonweni wokweluleka onikezwe ngummeli jikelele wombuso futhi ungalaleli icala ngokufanele kwalo.",A,"Ngokwemibandela enikwe, impendulo efanele kakhulu ingaba C - INkantolo Ephakeme ingahle izwe izindaba zikahulumeni ezihilelekile, kodwa inqabe ukubusa ngodaba lombuso.
+
+Isizathu salokhu ukuthi ngokwemibandela enikwe, ummeli jikelele wombuso wakhipha umbono wokweluleka ngaphambi kokuvota, okungasho ukuthi wayengekho icala lokungaphawuli umthetho. Ngaphezu kwalokho, abavoti bamabili amadolobha bavotela ngokwesiphakamiso sokuhlanganisa. Ngakho-ke, ngokwemvelo, INkantolo Ephakeme ingahle izwe izindaba zikahulumeni ezihilelekile, kodwa inqabe ukubusa ngodaba lombuso njengoba kwakungekho ukuphulwa komthetho okucacile.
+
+Izimpendulo ezinye azifanelekile ngalendlela:
+
+A ngeke kwenzeke ngoba icala selifinyelele enkantolo ephakeme futhi akukho sizathu sokungalaleli icala ngokwezizathu zombuso ezizimele.
+
+B ayifanelekile ngoba icala selifinyelele enkantolo ephakeme futhi akukho sizathu sokubuyisela icala enkantolo yesifunda ye-federal.
+
+D ayifanelekile ngoba ingahle ibukeke ingathi inkantolo iyaphikisana nembono yommeli jikelele wombuso, okungeke kwenzeke ngokwemvelo.",
+"Ngokomongo wokuhlangana kwembulunga yonke, singalichaza kanjani kahle igama elithi 'intuthuko'?
+A.Igama elithi intuthuko libhekisela esimweni somuntu lapho kunenkululeko yokwesaba nokuswela; kunezinsiza ezanele zokugcina ukuphila futhi lokhu kuphila kungaba khona esimweni esikhululekile ekusongeleni, noma ukusongelwa okubonakalayo, kokuphazamiseka okungazelelwe.
+B.Ukuze kubhekwe njengoba kuthuthukile, isizwe kumele sifinyelele isimo esithile sezomnotho nezombusazwe ngaphakathi kohlelo lombuso womhlaba wonke; umgomo walokho okwakha isimo 'esithuthukile' ngaleyo ndlela uchazwa yilezo zidingo zokusebenzisana kulolu hlelo.
+C.Intuthuko iyindlela yokubhekana nokungalingani okuhambisana ne-neoliberal globalization. Kulesi simo, intuthuko ibhekisela ekhonweni labantu noma umphakathi lokusebenzisa ngempumelelo izinsiza nokwandisa ukusebenza kahle ekukhiqizeni nasekusabalaliseni, ukukhuthaza ukusatshalaliswa okulinganayo kwemali engenayo ngaphakathi emphakathini.
+D.Ukuthuthukiswa komphakathi kubhekisela ezinhlelweni zenani lemibono nokuziphatha lapho abantu bawo bebhalisela khona. Ohlelweni lwamazwe omhlaba lomhlaba wonke lokhu kubhekisela ekwamukelweni kwemibono yentando yeningi yenkululeko yasentshonalanga kanye nomnotho wemakethe ekhululekile.",C,"Ngokubona kwami, inkcazelo C iyona engcono yokuchaza igama ""intuthuko"" ngokomongo wokuhlangana kwembulunga yonke.
+
+Inkcazelo C ithi intuthuko ""iyindlela yokubhekana nokungalingani okuhambisana ne-neoliberal globalization. Kulesi simo, intuthuko ibhekisela ekhonweni labantu noma umphakathi lokusebenzisa ngempumelelo izinsiza nokwandisa ukusebenza kahle ekukhiqizeni nasekusabalaliseni, ukukhuthaza ukusatshalaliswa okulinganayo kwemali engenayo ngaphakathi emphakathini.""
+
+Lena inkcazelo ikhombisa ukuthi intuthuko ibhekisela ekukhuliseni amandla abantu noma umphakathi ukuze bakwazi ukusebenzisa ngempumelelo izinsiza ezitholakalayo, bakwazi ukwandisa ukusebenza kahle kwabo ekukhiqizeni nasekusabalaliseni, kanye nokukhuthaza ukusatshalaliswa okulinganayo kwengeniso ngaphakathi emphakathini. Ngakho-ke ibhekisela ekunciphiseni ukungalingani ngenxa yeglobalization.
+
+Ezinye izinkcazelo zibhekisela kakhulu ezintweni ezithile ezifana nokuthuthukiswa kwezomnotho noma ukufinyelelwa ezingeni elithile lezombusazwe, kodwa inkcazelo C inikeza umqondo opheleleyo wentuthuko njengendlela yokubhekana nokungalingani nokukhulisa amandla abantu.",
+"Amaphoyisa athole ithiphu evela kumsakazi othembekile wokuthi owesilisa udayisa i-cocaine emzini wakhe. Izikhulu zabe sezithumela kumantshi incwadi efungelwe ebeka izimo ezibonisa imbangela engenzeka yokukhishwa kwencwadi yokusesha. Imantshi ikhiphe umyalelo wokusesha izidakamizwa ekhelini lendoda. Amaphoyisa aya emzini wale ndoda ashayela insimbi yomnyango. Ngesikhathi kungekho muntu ophendulayo, amaphoyisa agqekeza angena endaweni yokuhlala. Basesha amakamelo esitezi sokuqala futhi abatholanga ubufakazi obukhohlisayo, bese behamba ngaphandle futhi baqaphela umnyango ohlukile oholela esitezi sesibili sendawo yokuhlala. Bakhuphuka ezitebhisini bangena ekamelweni lokulala eliphezulu. Ngaphakathi ekamelweni amaphoyisa athole isitashi se-cocaine silele phezu komgqoki. Ngesikhathi la maphoyisa eqhubeka nokufuna igumbi lokulala, umsolwa wangena ekamelweni. Amaphoyisa abuza umsolwa ukuthi nguye yini lo muntu. Umsolwa uzichaze watshela amaphoyisa ukuthi asegumbini lakhe lokulala wabe esehlala esitezi sesibili sendawo yokuhlala. Umsolwa uchaze ukuthi le ndoda ibihlala esitezi sokuqala kanti izindawo ehlala kuzo zihlukene nezikammangalelwa. Noma kunjalo, umsolwa wabekwa eboshiwe wabekwa icala lokutholakala ne-cocaine. Umsolwa ufake isicelo sokuthi kukhishelwe ngaphandle i-cocaine ukuze ingeniswe ebufakazini. Isiphakamiso sommangalelwa kufanele sibe
+A.inikezwe, ngoba iwaranti ayizange iqambe igama lommangalelwa.
+B.inikezwe, ngoba iwaranti ayizange isho ngokucacile indawo okufanele iseshwe.
+C.waphika, ngoba amaphoyisa ayekholelwa ngokunengqondo ukuthi ayesesha indawo yokuhlala yendoda ngesikhathi engena ezindaweni zokuhlala yommangalelwa.
+D.waphika, ngoba iwaranti yayiqinisekisiwe futhi ikhishwe ngesizathu esingenzeka.",C,"Ngokubona kwami, isiphakamiso esifanele kule nkinga ngokuC: ""waphika, ngoba amaphoyisa ayekholelwa ngokunengqondo ukuthi ayesesha indawo yokuhlala yendoda ngesikhathi engena ezindaweni zokuhlala yommangalelwa.""
+
+Okokusekela lesi siphakamiso:
+
+1. Iwaranti yokusesha yayiqondene nomuntu othile, hhayi indawo nje. Ngakho-ke, uma amaphoyisa ekholelwa ukuthi ayesesha indawo yalowo muntu, ayengaphandle kwemingcele yokusesha.
+
+2. Noma umsolwa ehlala esitezi sesibili, lokho bekungahlanganisi yonke indawo yokuhlala. Amaphoyisa akholelwa ukuthi ayesesha indawo yokuhlala yommangalelwa, okungukuthi ayengaphandle kwemingcele yokusesha.
+
+3. Iwaranti yayiqondene nomuntu othile, hhayi indawo nje, ngakho ayikho indlela yokuthi iwaranti ingachazwa ngokuthi ayizange isho ngokucacile indawo okufanele iseshwe (isiphakamiso B).
+
+4. Noma iwaranti ayizange iqambe igama lommangalelwa, lokho akusho ukuthi ayizange iqondane naye, ngoba iwaranti yayiqondene nomuntu othile (isiphakamiso A).
+
+Ngakho-ke, ngokubona kwami, isizathu esifanele ukwenqaba ukukhishelwa ngaphandle kwe-cocaine ukuthi amaphoyisa ayekholelwa ngokunengqondo ukuthi ayesesha indawo yokuhlala yalowo muntu ngesikhathi engena ezindaweni zokuhlala zommangalelwa.",

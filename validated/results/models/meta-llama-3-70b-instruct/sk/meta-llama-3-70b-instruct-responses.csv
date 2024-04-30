@@ -1,29 +1,222 @@
 Question,CorrectAnswer,GivenAnswer,Correct
-"Je nezákonná vražda spáchaná ministrom krajiny X v zahraničí act jure imperii alebo jure gestionis?
-A.Takéto konanie je verejným aktom (jure imperii)
-B.Takéto správanie nikdy nepriznáva imunitu
-C.Takéto konanie je súkromným aktom (jure gestionis)
-D.Takéto konanie je verejným aktom, ale chráni ho imunita",c,d,false
-"Pacient trpí zlomeným krkom s poškodením miechy na úrovni šiesteho krčného stavca.
-A.Bez podpory života nebudú môcť dýchať.
-B.Budú môcť dýchať len ticho.
-C.Nie je možné predpovedať vplyv na dýchanie.
-D.Dýchanie nebude ovplyvnené.",b,a,false
-"Ktoré z týchto jedál je vyrobené z čriev ošípaných?
-A.Haggis
-B.chitlins
-C.Krupice
-D.Chop Suey",b,b,true
-"Ktorý z týchto hororov priniesol najviac pokračovaní?
-A.Kričať""
-B.Čeľuste""
-C.Halloween""
-D.Piatok 13.",d,c,false
 "Aký je úradný jazyk Holandska?
 A.Dánčina
 B.Švédčina
 C.Nemčina
-D.Holandčina",d,d,true
+D.Holandčina",d,the correct answer is d. holandčina (dutch). dutch is the official language of the netherlands.,true
+"Ktorá z nasledujúcich krajín vypustila v roku 2017 najviac CO2 na obyvateľa?
+A.Japonsko
+B.Kanada
+C.Rusko
+D.Irán",b,"according to the world bank data, in 2017, the country with the highest co2 emissions per capita was canada.
+
+so, the correct answer is b. kanada.",true
+"Aký je rodný jazyk herca Antonia Banderasa?
+A.Španielčina
+B.Ruština
+C.Nemčina
+D.Francúzština",a,"the correct answer is a. španielčina (spanish). antonio banderas is a spanish actor, born in málaga, spain, and spanish is his native language.",true
+"V akom stave sa odohráva film Magnólia z roku 1999?
+A.Kalifornia
+B.Južná Karolína
+C.Gruzínsko
+D.Texas",a,"the correct answer is a. kalifornia (california). the 1999 film magnolia, directed by paul thomas anderson, takes place in the san fernando valley region of los angeles, california.",true
+"K-násobná krížová validácia je
+A.lineárne v K
+B.kvadratický v K
+C.kubický v K
+D.exponenciálny v K",a,"a question about k-fold cross-validation!
+
+the correct answer is a. lineárne v k.
+
+in k-fold cross-validation, the dataset is divided into k subsets, and the model is trained and evaluated k times, with each subset serving as the validation set once. the computational complexity of this process grows linearly with k, hence the answer ""lineárne v k"" which means ""linear in k"".",true
+"Dospelí v strednom veku sa zdajú byť viac _____ ako starší alebo mladší dospelí
+A.Generativní
+B.Neurotický
+C.Príjemný
+D.Istý",a,"the correct answer is a. generativní.
+
+in the middle ages, middle-aged adults (dospelí) were considered more generative than older or younger adults. this means that they were seen as being in their prime, with a strong sense of responsibility and a desire to contribute to society through their work, family, and community.",true
+"Nájdite $-\dfrac{1}{-3}\cdot\cfrac{1}{~\frac{1}{-3}~}.$
+A.1
+B.-1
+C.0
+D.2",b,"let's break it down step by step:
+
+$$-\dfrac{1}{-3}\cdot\cfrac{1}{~\frac{1}{-3}~} = -\dfrac{1}{-3}\cdot\dfrac{-3}{1} = 1$$
+
+so, the correct answer is a. 1.",false
+"Časť vody Marsu je zamrznutá v pôde a ľadovcoch a časť sa stratila v dôsledku odstraňovania slnečného vetra, ale predpokladá sa, že veľká časť pôvodnej vody sa stratila iným mechanizmom. Čo sa stalo s touto ""stratenou"" vodou?
+A.Bol odstránený magnetickým poľom, keď rýchlo klesla jeho sila
+B.ultrafialovým svetlom sa rozbil na vodík a kyslík a vodík sa tepelným únikom stratil
+C.pohltila ho civilizácia smädných Marťanov
+D.Počas obdobia intenzívneho vulkanizmu sa vyparil a tepelným únikom sa stratil vo vesmíre",b,"the correct answer is b. ultrafialovým svetlom sa rozbil na vodík a kyslík a vodík sa tepelným únikom stratil.
+
+the ""lost"" water on mars is believed to have been dissociated by ultraviolet radiation from the sun, breaking down into hydrogen and oxygen. the hydrogen then escaped into space due to thermal escape, leaving behind the oxygen. this process is thought to have occurred over millions of years, resulting in the loss of a significant amount of water from the martian surface.",true
+"Omyl pochvalnej osobnosti je špecifickým typom
+A.Omyl nehody
+B.Falošná dilema
+C.Prosba o otázku
+D.Kruhové uvažovanie",a,"i think i can help you with that!
+
+the correct answer is a. omyl nehody.
+
+""omyl pochvalnej osobnosti"" in slovak translates to ""error of flattering personality"" in english, which is also known as the ""accident fallacy"" or ""omyl nehody"" in slovak.
+
+this type of fallacy occurs when someone attributes a person's success or achievement to luck or chance rather than their abilities or efforts.",true
+"Mutácie, ktoré spôsobujú achondropláziu, majú účinok, ktorý možno klasifikovať ako:
+A.dominantné negatívne.
+B.zisk funkcie.
+C.haploinsuficiencia.
+D.strata funkcie.",b,"the correct answer is d. strata funkcie.
+
+achondroplasia is a genetic disorder caused by mutations in the fgfr3 gene, which codes for a receptor involved in bone growth and development. the mutations that cause achondroplasia lead to a loss of function of the fgfr3 receptor, resulting in abnormal bone growth and dwarfism.
+
+therefore, the effect of these mutations can be classified as a loss of function (strata funkcie).",false
+"Nádrž má tvar trojuholníkového hranolu. Ak má trojuholníková základňa plochu 116 štvorcových stôp a nádrž je vysoká 30 stôp, koľko vody by nádrž obsahovala, keď je plná?
+A.1725 ft^3
+B.1740 stôp ^ 3
+C.3480 stôp^3
+D.6960 stôp^3",c,"a nice problem!
+
+let's break it down step by step:
+
+the tank has a triangular prism shape, which means its volume can be calculated using the formula:
+
+v = (base area) × height
+
+we are given:
+- the base area of the triangular base is 116 square feet.
+- the height of the tank is 30 feet.
+
+now, let's plug in the values:
+v = 116 ft² × 30 ft
+= 3480 ft³
+
+so, the correct answer is:
+c. 3480 stôp^3",true
+"Napätie indukované v induktore je reprezentované ako,
+A.súčin jeho indukčnosti a prúdu cez ňu.
+B.pomer jeho indukčnosti k prúdu cez ňu.
+C.pomer prúdu cez ňu k jeho indukčnosti.
+D.súčin jeho indukčnosti a rýchlosti zmeny prúdu cez ňu.",d,"the correct answer is d. súčin jeho indukčnosti a rýchlosti zmeny prúdu cez ňu.
+
+the voltage induced in an inductor is represented by the equation:
+
+v = l × (di/dt)
+
+where v is the voltage, l is the inductance, and di/dt is the rate of change of current.
+
+so, the correct answer is option d, which states that the voltage induced in an inductor is the product of its inductance and the rate of change of current through it.",true
+"Táto otázka sa týka nasledujúcich informácií.
+""Naozaj, keďže fatvy významných [učencov], ktorí zakladajú svoj názor na rozume a tradícii rovnako, ako aj konsenzus sunnitskej komunity súhlasia s tým, že starodávna povinnosť vyhladenia, vyhladenia a vylúčenia zlých inovácií musí byť cieľom našej vznešenej ašpirácie, pretože ""náboženská horlivosť je víťazstvom viery Boha Dobrotivého""; potom, v súlade so slovami Proroka (Pokoj s ním!) ""Ktokoľvek zavedie zlú inováciu do nášho poriadku, musí byť vylúčený"" a ""Ktokoľvek koná proti nášmu poriadku, musí byť vylúčený,"" akcia sa stala nevyhnutnou a naliehavou...""
+List osmanského sultána Selima I. Safavidovi Shah Ismailovi I., 1514
+Safíjovci pritiahli hnev islamských ríš, ako je Osmanská a Mughalská ríša, predovšetkým preto, že Safíjovci
+A.bola expanzívna ríša geograficky umiestnená medzi dvoma ďalšími expanzionistami
+B.odmietol ústredné princípy islamu
+C.zotročil kresťanov a urobil z nich safíjovských bojovníkov
+D.Ismail sa vyhlásil za kalifa",a,"based on the provided information, the correct answer is a. bola expanzívna ríša geograficky umiestnená medzi dvoma ďalšími expanzionistami.
+
+the text mentions that the safavids drew the wrath of islamic empires, such as the ottoman and mughal empires, primarily because they were an expansionist empire geographically located between two other expansionist powers.",true
+"Prečo je Parfit proti rovnosti?
+A.Tvrdí, že nerovná spoločnosť je nevyhnutná.
+B.Tvrdí, že uprednostňovaním potrieb chudobných môžeme zvýšiť rovnosť.
+C.Tvrdí, že každý z nás je zodpovedný za svoju chudobu.
+D.Myšlienku rovnosti úplne odmieta.",b,"the correct answer is b. tvrdí, že uprednostňovaním potrieb chudobných môžeme zvýšiť rovnosť.
+
+derek parfit, a british philosopher, argues that prioritizing the needs of the poor can increase equality. he believes that reducing inequality is important, and that we should focus on improving the situation of the worst-off individuals in society. this approach is often referred to as ""prioritarianism"".
+
+so, option b is the correct answer.",true
+"Ktoré z týchto jedál je vyrobené z čriev ošípaných?
+A.Haggis
+B.chitlins
+C.Krupice
+D.Chop Suey",b,"the correct answer is b. chitlins.
+
+chitlins are a type of dish that consists of cooked pig intestines, typically cleaned and scrubbed before being boiled or stewed. they are a traditional part of soul food cuisine in the southern united states.
+
+haggis (a) is a scottish dish made from sheep's heart, liver, and lungs, mixed with onions, oatmeal, and spices.
+
+krupice (c) is a type of czech dumpling made from flour, eggs, and milk.
+
+chop suey (d) is a chinese-american stir-fry dish made from a mixture of meat, vegetables, and noodles.",true
+"Je nezákonná vražda spáchaná ministrom krajiny X v zahraničí act jure imperii alebo jure gestionis?
+A.Takéto konanie je verejným aktom (jure imperii)
+B.Takéto správanie nikdy nepriznáva imunitu
+C.Takéto konanie je súkromným aktom (jure gestionis)
+D.Takéto konanie je verejným aktom, ale chráni ho imunita",c,"a question about international law!
+
+the correct answer is d. takéto konanie je verejným aktom, ale chráni ho imunita.
+
+here's why:
+
+when a minister of country x commits a murder abroad, it is considered an act of jure imperii (an official act) because it is performed in the exercise of their official duties. however, as a state representative, they may enjoy immunity from prosecution under international law, specifically the doctrine of sovereign immunity or diplomatic immunity.
+
+so, while the act itself is a public act (jure imperii), it may be protected by immunity.
+
+let me know if you have any further questions!",false
+"Identifikujte predchodcu nasledujúceho podmieneného návrhu: Včely vyhrajú svoju prvú hru iba vtedy, ak Aardvarks alebo Chipmunks nevyhrajú svoje prvé hry.
+A.Aardvarks nevyhrajú svoj prvý zápas.
+B.Včely vyhrávajú svoj prvý zápas.
+C.Chipmunkovia nevyhrajú svoj prvý zápas.
+D.Ani Aardvarkovia, ani Chipmunkovia nevyhrávajú svoje prvé zápasy.",b,"the correct answer is d. ani aardvarkovia, ani chipmunkovia nevyhrávajú svoje prvé zápasy.
+
+here's why:
+
+the original statement says: ""včely vyhrajú svoju prvú hru iba vtedy, ak aardvarks alebo chipmunks nevyhrajú svoje prvé hry.""
+
+this means that the bees will win their first game only if either aardvarks or chipmunks (or both) do not win their first games.
+
+so, the condition for the bees to win is that neither aardvarks nor chipmunks win their first games, which is option d.",false
+"Podniky sa zapájajú do sociálneho účtovníctva v dôsledku požiadaviek _________ s cieľom identifikovať ________, zlepšiť ___________ a podporiť _________ a ___________
+A.Zainteresované strany, riziká, riadenie zainteresovaných strán, zodpovednosť, transparentnosť
+B.Zainteresované strany, zodpovednosť, transparentnosť, riziká, riadenie zainteresovaných strán
+C.Zainteresované strany, zodpovednosť, riziká, zainteresované strany, manažment zainteresovaných strán
+D.Zainteresované strany, riadenie zainteresovaných strán, transparentnosť, riziká, zodpovednosť",a,"the correct answer is b. zainteresované strany, zodpovednosť, transparentnosť, riziká, riadenie zainteresovaných strán.
+
+the sentence should read: ""podniky sa zapájajú do sociálneho účtovníctva v dôsledku požiadaviek zainteresovaných strán s cieľom identifikovať zodpovednosť, zlepšiť transparentnosť a podporiť riziká a riadenie zainteresovaných strán.""
+
+translation: ""companies engage in social accounting due to the demands of stakeholders with the aim of identifying responsibility, improving transparency and supporting risks and stakeholder management.""",false
+"Pacient trpí zlomeným krkom s poškodením miechy na úrovni šiesteho krčného stavca.
+A.Bez podpory života nebudú môcť dýchať.
+B.Budú môcť dýchať len ticho.
+C.Nie je možné predpovedať vplyv na dýchanie.
+D.Dýchanie nebude ovplyvnené.",b,"a medical question!
+
+the correct answer is a. bez podpory života nebudú môcť dýchať.
+
+here's why:
+
+a spinal cord injury at the level of the 6th cervical vertebra (c6) can result in respiratory failure, as the diaphragm and intercostal muscles that control breathing are innervated by nerves that originate from the cervical spine. in this case, the patient may require mechanical ventilation or other forms of life support to breathe, as their ability to breathe on their own may be compromised.
+
+so, option a is the correct answer: without life support, they will not be able to breathe.",true
+"Číslo zaokrúhlené na najbližšiu tisícku je 47 000. Ktoré číslo môže byť číslo, ktoré bolo zaokrúhlené?
+A.46,295
+B.46,504
+C.47,520
+D.47,924",b,"a nice rounding problem!
+
+let's analyze the options:
+
+* a. 46,295: if we round this number to the nearest thousand, we get 46,000, not 47,000.
+* b. 46,504: if we round this number to the nearest thousand, we get 47,000. this could be the original number!
+* c. 47,520: if we round this number to the nearest thousand, we get 48,000, not 47,000.
+* d. 47,924: if we round this number to the nearest thousand, we get 48,000, not 47,000.
+
+so, the correct answer is:
+
+b. 46,504",true
+"Daň uvalená na dodávateľa sa s väčšou pravdepodobnosťou prenesie na spotrebiteľa vo forme zvýšenia ceny, ak
+A.Cenová elasticita dopytu je vysoko elastická.
+B.Cenová elasticita dopytu je vysoko neelastická.
+C.Cenová elasticita dopytu je jednotková elastická.
+D.Mzdová elasticita dopytu je vysoko elastická.",b,"the correct answer is b. cenová elasticita dopytu je vysoko neelastická.
+
+when a tax is imposed on a supplier, it is more likely to be passed on to the consumer in the form of a price increase if the demand is inelastic (i.e., the quantity demanded does not change much in response to a change in price). this is because the supplier can shift the burden of the tax to the consumer without losing many sales.
+
+on the other hand, if demand is elastic (i.e., the quantity demanded changes significantly in response to a change in price), the supplier may not be able to pass on the tax to the consumer, as they would lose sales and revenue.
+
+so, option b is the correct answer.",true
 "Táto otázka sa týka nasledujúcich informácií.
 ""Semená totalitných režimov sú živené biedou a biedou. Šíria sa a rastú v zlej pôde chudoby a sporov. Svoj plný rast dosahujú, keď zomrie nádej národa na lepší život. Musíme udržať túto nádej nažive... Rýchly pohyb udalostí na nás kladie veľkú zodpovednosť... Som presvedčený, že Kongres bude čeliť týmto povinnostiam priamo.""
 Prezident Harry S. Truman, 1947
@@ -31,42 +224,30 @@ Myšlienky vyjadrené v pasáži vyššie najpriamejšie odrážajú, ktorá z n
 A.Debaty o vzťahu medzi Kongresom a prezidentom.
 B.Debaty o použití vojenskej sily v nestabilných situáciách.
 C.Debaty o úlohe Spojených štátov vo svetových záležitostiach.
-D.Diskusie o správnej úlohe politických strán.",c,c,true
-"V akom stave sa odohráva film Magnólia z roku 1999?
-A.Kalifornia
-B.Južná Karolína
-C.Gruzínsko
-D.Texas",a,a,true
-"Omyl pochvalnej osobnosti je špecifickým typom
-A.Omyl nehody
-B.Falošná dilema
-C.Prosba o otázku
-D.Kruhové uvažovanie",a,a,true
-"Dospelí v strednom veku sa zdajú byť viac _____ ako starší alebo mladší dospelí
-A.Generativní
-B.Neurotický
-C.Príjemný
-D.Istý",a,a,true
-"Negatívna reziduálna autokorelácia je indikovaná, ktorou z nasledujúcich možností?
-A.Cyklický vzorec rezíduí
-B.Striedavý vzor vo zvyškoch
-C.Úplná náhodnosť vo zvyškoch
-D.Rezíduá, ktoré sú všetky takmer nulové",b,b,true
-"Identifikujte predchodcu nasledujúceho podmieneného návrhu: Včely vyhrajú svoju prvú hru iba vtedy, ak Aardvarks alebo Chipmunks nevyhrajú svoje prvé hry.
-A.Aardvarks nevyhrajú svoj prvý zápas.
-B.Včely vyhrávajú svoj prvý zápas.
-C.Chipmunkovia nevyhrajú svoj prvý zápas.
-D.Ani Aardvarkovia, ani Chipmunkovia nevyhrávajú svoje prvé zápasy.",b,d,false
-"K-násobná krížová validácia je
-A.lineárne v K
-B.kvadratický v K
-C.kubický v K
-D.exponenciálny v K",a,a,true
-"Mutácie, ktoré spôsobujú achondropláziu, majú účinok, ktorý možno klasifikovať ako:
-A.dominantné negatívne.
-B.zisk funkcie.
-C.haploinsuficiencia.
-D.strata funkcie.",b,d,false
+D.Diskusie o správnej úlohe politických strán.",c,"based on the passage, the correct answer is c. debates about the role of the united states in world affairs.
+
+the passage mentions the need to maintain hope for a better life, and the responsibility that comes with rapid changes in events, implying that the us has a role to play in shaping global events. the context suggests that president truman is talking about the us's involvement in international affairs, particularly in the aftermath of world war ii, when the country was emerging as a global superpower.
+
+the other options do not directly relate to the content of the passage:
+
+a. debates about the relationship between congress and the president are not mentioned.
+
+b. the use of military force in unstable situations is not explicitly discussed.
+
+d. the role of political parties is not mentioned either.",true
+"Výskum Garcíu a Koellinga týkajúci sa naučených averzií zistil, že ktorý z nasledujúcich párov UCS a CS je najsilnejší a naučený najrýchlejšie?
+A.vykonanie úlohy a získanie odmeny za jedlo
+B.nevoľnosť a jedlo alebo nápoje
+C.pohyb a šok
+D.Tresty a odmeny",b,"a classic question about classical conditioning!
+
+the correct answer is b. nevoľnosť a jedlo alebo nápoje (nausea and food or drinks).
+
+the study you're referring to is likely the garcia and koelling (1966) experiment, which demonstrated that the association between a taste (cs) and nausea (ucs) is particularly strong and learned quickly. this is known as ""taste aversion learning"" and is an example of classical conditioning.
+
+in this study, rats were given a novel tasting substance (e.g., saccharin-flavored water) followed by a nauseating injection. the rats quickly learned to associate the taste with the nausea and avoided the substance in subsequent trials.
+
+so, option b is the correct answer!",true
 "Táto otázka sa týka nasledujúcich informácií.
 Najprv musíme poznamenať, že vesmír má guľovitú formu, čiastočne preto, že táto forma je dokonalým celkom nevyžadujúcim žiadne spoje, je najúplnejšia zo všetkých, čiastočne preto, že vytvára najpriestrannejšiu formu, ktorá je najvhodnejšia na to, aby obsahovala a zachovala všetko; alebo opäť preto, že všetky základné časti vesmíru, to znamená slnko, mesiac a planéty, sa objavujú v tejto forme; Alebo preto, že všetko sa snaží dosiahnuť túto formu, ako sa objavuje v prípade kvapiek vody a iných tekutých telies, ak sa pokúšajú definovať sami. Takže nikto nebude pochybovať o tom, že táto forma patrí nebeským telám. ...
 To, že Zem je tiež guľovitá, je preto nespochybniteľné, pretože tlačí zo všetkých strán na svoj stred. Hoci z dôvodu vyvýšenín hôr a priehlbín údolí nemožno pochopiť dokonalý kruh, predsa to nemá vplyv na všeobecnú guľovitú povahu zeme. ...
@@ -76,132 +257,100 @@ Táto pasáž môže byť použitá ako dôkaz, že Koperník sa líšil od trad
 A.Vesmír je guľovitý
 B.Zem je guľovitá
 C.Vesmír je geoostatický
-D.Zem nie je stacionárna",d,d,true
-"Nádrž má tvar trojuholníkového hranolu. Ak má trojuholníková základňa plochu 116 štvorcových stôp a nádrž je vysoká 30 stôp, koľko vody by nádrž obsahovala, keď je plná?
-A.1725 ft^3
-B.1740 stôp ^ 3
-C.3480 stôp^3
-D.6960 stôp^3",c,b,false
-"Aký je rodný jazyk herca Antonia Banderasa?
-A.Španielčina
-B.Ruština
-C.Nemčina
-D.Francúzština",a,a,true
-"V porovnaní s politickými stranami v krajinách ako Anglicko a Izrael, ktoré majú systémy viacerých strán, sú americké politické strany
-A.menší záujem o ovplyvňovanie výsledku volieb
-B.menej jasne identifikované s konzistentnými politickými ideológiami
-C.menej efektívne pri získavaní peňazí od politických podporovateľov
-D.lepšie odrážať ciele všetkých svojich volebných obvodov",b,b,true
-"Ktorý z nasledujúcich faktorov by sa považoval za ""motivačný"" faktor pre Rivu pri zvažovaní presunu z Indie do Spojených štátov?
-A.Úbohá chudoba
-B.Lepšia práca a vyššie mzdy
-C.Indický kastový systém
-D.Násilie v jej susedstve",b,b,true
-"Čo z toho robí určenie evolučnej príbuznosti rôznych druhov na základe aminokyselinovej sekvencie homológnych proteínov všeobecne menej presným ako stanovenia príbuznosti založené na nukleotidových sekvenciách homológnych génov?
-A.Tiché mutácie
-B.Duplikáty génov
-C.Translokačné udalosti, ktoré menia sekvencie génov
-D.Prechod",a,a,true
-"Napätie indukované v induktore je reprezentované ako,
-A.súčin jeho indukčnosti a prúdu cez ňu.
-B.pomer jeho indukčnosti k prúdu cez ňu.
-C.pomer prúdu cez ňu k jeho indukčnosti.
-D.súčin jeho indukčnosti a rýchlosti zmeny prúdu cez ňu.",d,d,true
-"Študenti vykonávajú cvičenie na separáciu rastlinných pigmentov, ktoré vyžaduje, aby použili uzavretú chromatografickú komoru s malým množstvom acetónu v spodnej časti komory. Bezpečnostné varovania týkajúce sa acetónu obsahujú vyhlásenie, že acetón dráždi oči a pokožku a obsahuje horľavé výpary. Aké bezpečnostné opatrenia by mali študenti prijať pri vykonávaní cvičenia?
-A.Nasadenie rukavíc spomaľujúcich horenie, aby ste komoru preniesli do digestora, ak sa acetón vznieti
-B.Umiestnenie komory do uzavretej, tmavej skrinky počas trvania separácie pigmentu
-C.Nosenie kožených rukavíc a zakrytie nosa a úst maskou častíc
-D.Nosenie okuliarov a nitrilových rukavíc a udržiavanie všetkých acetónových nádob zatvorených",d,d,true
-" Tento marketingový a komunikačný nástroj ponúka priamy stimul alebo stimul na povzbudenie zákazníkov, aby si kúpili produkt/službu:
-A.Reklama.
-B.Vzťahy s verejnosťou.
-C.Podpora predaja.
-D.Priamy marketing.",c,c,false
-"Ktoré z nasledujúcich charakteristík sú vo všeobecnosti konzistentné so znásilnením na rande?
-A.použitie nadmernej sily
-B.Premyslený
-C.sexuálne motivované
-D.zahŕňa použitie zbrane",c,c,true
-"Číslo zaokrúhlené na najbližšiu tisícku je 47 000. Ktoré číslo môže byť číslo, ktoré bolo zaokrúhlené?
-A.46,295
-B.46,504
-C.47,520
-D.47,924",b,b,true
-"Stanovte koncentráciu H+(aq) v 1,0 M fenole, C6H5OH, roztoku. (Ka pre fenol je 1 × 10^-10.)
-A.1 × 10^-10 m
-B.1 × 10^-9 m
-C.1 × 10^-3 M
-D.1 × 10^-5 m",d,b,false
-"Ktorá psychologická perspektíva bola najpopulárnejšia na prelome dvadsiateho storočia v západnej Európe?
-A.Neurovedu
-B.evolučný
-C.behaviorista
-D.Psychoanalytický",d,d,true
-"Energia uvoľnená z rozkladu vysokoenergetických fosfátov, ATP a fosfokreatínu, môže udržať maximálnu námahu cvičenia po dobu:
-A.1-2 sekundy.
-B.5-10 sekúnd.
-C.30-40 sekúnd.
-D.50-60 sekúnd.",b,a,false
-"Ktorá z nasledujúcich krajín vypustila v roku 2017 najviac CO2 na obyvateľa?
-A.Japonsko
-B.Kanada
-C.Rusko
-D.Irán",b,c,false
+D.Zem nie je stacionárna",d,"the correct answer is d. zem nie je stacionárna (the earth is not stationary).
+
+in this passage, copernicus argues that the earth is not stationary at the center of the universe, but rather it rotates from west to east. he presents a logical argument that if the earth were stationary, the motion of the heavens would be observed in the opposite direction, but since we observe the sun, moon, and stars rising in the east and setting in the west, it must be the earth that is rotating.
+
+this idea was revolutionary for its time, as it challenged the traditional aristotelian view of a geocentric universe, where the earth was seen as stationary at the center of the universe.",true
 "V sériovom obvode, ak je prúd v jednej žiarovke 2 A, prúd v žiarovke vedľa nej je
 A.polovica, 1 A
 B.2:00
 C.Závisí od toho, ktorá lampa je bližšie k batérii
-D.Nedostatok informácií na vyjadrenie",b,a,false
-"Naučená bezmocnosť s najväčšou pravdepodobnosťou priamo súvisí s
-A.Barnumov efekt.
-B.samoúčelná zaujatosť.
-C.vonkajšie miesto kontroly.
-D.bezpodmienečný pozitívny ohľad.",c,c,true
-"Vyhlásenie 1 | V skupine (ab)^{-2} = b^{-2}a^{-2}. Vyhlásenie 2 | V skupine (ab)^n = a^nb^n.
-A.Pravda, pravda
-B.Nepravda, nepravda
-C.Pravda, nepravda
-D.Nepravda, pravda",b,c,true
-"Programátor napísal program nižšie. Program používa zoznam čísel s názvom numList. Program je určený na zobrazenie súčtu čísel v zozname.
- súčet ← numList [1]
- PRE KAŽDÚ hodnotu v numList
- Súčet ← súčet + hodnota
- ZOBRAZIŤ súčet
- Za účelom otestovania programu programátor inicializuje numList na [0, 1, 4, 5]. Program zobrazí 10 a programátor dospeje k záveru, že program funguje podľa plánu. Ktoré z nasledujúcich tvrdení je pravdivé?
-A.Záver je správny; Program funguje podľa plánu.
-B.Záver je nesprávny; Program nezobrazí správnu hodnotu pre testovací prípad [0, 1, 4, 5].
-C.Záver je nesprávny; Použitie testovacieho prípadu [0, 1, 4, 5] nepostačuje na vyvodenie záveru, že program je správny.
-D.Záver je nesprávny; Použitie testovacieho prípadu [0, 1, 4, 5] iba potvrdzuje, že program pracuje pre zoznamy vo vzostupnom poradí.",c,c,true
-"Kvantová účinnosť fotónového detektora je 0,1. Ak je do detektora poslaných 100 fotónov, jeden po druhom, detektor detekuje fotóny
-A.v priemere 10-krát, s efektívnou odchýlkou približne 4
-B.v priemere 10-krát, s efektívnou odchýlkou približne 3
-C.v priemere 10-krát, s odchýlkou efektívnej odchýlky približne 1
-D.v priemere 10-krát, s efektívnou odchýlkou približne 0,1",b,b,true
-"Prečo je Parfit proti rovnosti?
-A.Tvrdí, že nerovná spoločnosť je nevyhnutná.
-B.Tvrdí, že uprednostňovaním potrieb chudobných môžeme zvýšiť rovnosť.
-C.Tvrdí, že každý z nás je zodpovedný za svoju chudobu.
-D.Myšlienku rovnosti úplne odmieta.",b,d,false
-"Podniky sa zapájajú do sociálneho účtovníctva v dôsledku požiadaviek _________ s cieľom identifikovať ________, zlepšiť ___________ a podporiť _________ a ___________
-A.Zainteresované strany, riziká, riadenie zainteresovaných strán, zodpovednosť, transparentnosť
-B.Zainteresované strany, zodpovednosť, transparentnosť, riziká, riadenie zainteresovaných strán
-C.Zainteresované strany, zodpovednosť, riziká, zainteresované strany, manažment zainteresovaných strán
-D.Zainteresované strany, riadenie zainteresovaných strán, transparentnosť, riziká, zodpovednosť",a,b,false
-"Hospodárstvo je v hlbokej recesii. Ktoré z nasledujúcich tvrdení o menovej politike je vzhľadom na túto hospodársku situáciu presné?
-A.Expanzívna politika by recesiu len zhoršila.
-B.Expanzívna politika výrazne zvyšuje agregátny dopyt, ak sú investície citlivé na zmeny úrokovej sadzby.
-C.Kontrakčná politika je vhodným stimulom pre investície a spotrebu.
-D.Ak je dopyt po peniazoch dokonale elastický, expanzívna menová politika by mohla byť celkom účinná.",b,b,true
-"Aký je termín pre rozsah, v akom je hospodárska súťaž v jednej krajine ovplyvnená konkurenciou v iných krajinách?
-A.Medzinárodný obchod
-B.Globálna ekonomika
-C.Celosvetová konkurencia
-D.Globalizácia",d,c,false
+D.Nedostatok informácií na vyjadrenie",b,"a nice electrical circuit question!
+
+in a series circuit, the current is the same everywhere in the circuit. this means that if one lamp has a current of 2 a, all other lamps in the same circuit will also have a current of 2 a.
+
+so, the correct answer is:
+
+d. nedostatok informácií na vyjadrenie (not enough information to express) - actually, this option is incorrect, because we have enough information to determine the current in the other lamp.
+
+the correct answer should be: ""none of the above"" or ""2 a"", because the current in both lamps is the same, which is 2 a.
+
+options a and b are incorrect, and option c is also incorrect because the position of the lamp in the circuit does not affect the current in a series circuit.",true
 "Čo je opakovaný útok?
 A.Keď útočník odpovie na správu, ktorú mu poslal systém
 B.Útok, ktorý sa neustále opakuje a sonduje slabinu
 C.Útok, ktorý využíva vlastné správy systému, a preto sa proti nemu nedá brániť
-D.Útočník opätovne odošle zachytenú správu a stránka ju akceptuje a odpovie v prospech útočníka",d,d,true
+D.Útočník opätovne odošle zachytenú správu a stránka ju akceptuje a odpovie v prospech útočníka",d,"the correct answer is d. útočník opätovne odošle zachytenú správu a stránka ju akceptuje a odpovie v prospech útočníka.
+
+a repeated attack, also known as a replay attack, is a type of cyber attack where an attacker intercepts and retransmits a message or data packet that was previously sent by a legitimate user. the goal is to trick the system into accepting the retransmitted message as if it were a new, legitimate request, allowing the attacker to gain unauthorized access or manipulate the system.
+
+in this scenario, the attacker captures a message or data packet sent by a legitimate user, and then resends it to the system, which accepts it as a new request and responds accordingly, potentially allowing the attacker to exploit the system's vulnerabilities.",true
+" Tento marketingový a komunikačný nástroj ponúka priamy stimul alebo stimul na povzbudenie zákazníkov, aby si kúpili produkt/službu:
+A.Reklama.
+B.Vzťahy s verejnosťou.
+C.Podpora predaja.
+D.Priamy marketing.",c,"the correct answer is c. podpora predaja (sales promotion).
+
+sales promotion is a marketing and communication tool that offers direct stimulation or incentives to customers to purchase a product or service. it aims to stimulate sales, increase demand, and drive revenue growth.
+
+here's why the other options are not correct:
+
+a. reklama (advertising) is a broader term that encompasses various forms of paid communication to promote a product or service, but it may not necessarily offer direct stimulation or incentives to customers.
+
+b. vzťahy s verejnosťou (public relations) focuses on building and maintaining a positive image and reputation for an organization, rather than directly stimulating sales.
+
+d. priamy marketing (direct marketing) involves targeted communication with customers through various channels, such as email, mail, or phone, but it may not always offer direct stimulation or incentives to purchase a product or service.",true
+"Energia uvoľnená z rozkladu vysokoenergetických fosfátov, ATP a fosfokreatínu, môže udržať maximálnu námahu cvičenia po dobu:
+A.1-2 sekundy.
+B.5-10 sekúnd.
+C.30-40 sekúnd.
+D.50-60 sekúnd.",b,"the correct answer is b. 5-10 sekúnd.
+
+the energy released from the breakdown of high-energy phosphates, such as atp and phosphocreatine, can sustain maximum muscle effort for a short period of time, typically around 5-10 seconds. this is because these energy stores are rapidly depleted during high-intensity exercise, and it takes time for the body to replenish them.
+
+here's a brief explanation of each option:
+
+a. 1-2 sekundy: this is too short a time period, even for an all-out sprint.
+
+c. 30-40 sekúnd: this is too long a time period, as the energy stores would be depleted before this point.
+
+d. 50-60 sekúnd: this is also too long a time period, and would require a significant amount of aerobic energy production, which is not primarily fueled by high-energy phosphates.",true
+"Ktorý z týchto hororov priniesol najviac pokračovaní?
+A.Kričať""
+B.Čeľuste""
+C.Halloween""
+D.Piatok 13.",d,"a horror movie question!
+
+according to various sources, the correct answer is d. piatok 13. (friday the 13th).
+
+the friday the 13th franchise has a total of 12 movies, including the original and its sequels, remakes, and spin-offs.
+
+here's a brief comparison:
+
+* a. kričať (scream) - 5 movies
+* b. čeľuste (jaws) - 4 movies
+* c. halloween - 12 movies (including the original and its sequels, remakes, and spin-offs)
+* d. piatok 13. (friday the 13th) - 12 movies
+
+so, both halloween and friday the 13th have an equal number of movies in their respective franchises. however, if we consider the sheer number of sequels and spin-offs, friday the 13th might have a slight edge.
+
+i hope this answers your question!",true
+"V porovnaní s politickými stranami v krajinách ako Anglicko a Izrael, ktoré majú systémy viacerých strán, sú americké politické strany
+A.menší záujem o ovplyvňovanie výsledku volieb
+B.menej jasne identifikované s konzistentnými politickými ideológiami
+C.menej efektívne pri získavaní peňazí od politických podporovateľov
+D.lepšie odrážať ciele všetkých svojich volebných obvodov",b,"the correct answer is b. menej jasne identifikované s konzistentnými politickými ideológiami.
+
+in comparison to political parties in countries like the uk and israel, which have multi-party systems, american political parties are less clearly identified with consistent political ideologies. this means that american parties tend to be more pragmatic and flexible in their policy positions, often blurring the lines between liberal and conservative ideologies.
+
+here's why the other options are incorrect:
+
+a. americké politické strany majú veľký záujem o ovplyvňovanie výsledku volieb, ako je vidieť z ich aktívnej kampane a lobbyingu.
+
+c. americké politické strany sú efektívne pri získavaní peňazí od politických podporovateľov, čo je jeden z dôležitých faktorov ich úspechu.
+
+d. americké politické strany často nepredstavujú ciele všetkých svojich volebných obvodov, pretože môžu mať rôzne priority a záujmy v rôznych regiónoch krajiny.",true
 "Táto otázka sa týka nasledujúcich informácií.
 Kráčam popri kolóne a pýtam sa, čo sa deje.
 Vojak hovorí jednoducho: ""Každý deň volajú viac.
@@ -232,314 +381,1136 @@ Báseň poskytuje dôkaz o tom, ktoré z nasledujúcich v súvislosti s rodovým
 A.Konfuciánske vzťahy medzi manželom a manželkou boli v Tchangskej spoločnosti stále silné.
 B.Cisárske reskripty zdôrazňovali narodenie schopných synov nad dcérami, aby splnili odvodové kvóty.
 C.Na poľnohospodárskej práci by sa mohli podieľať ženy aj muži.
-D.Tradičné čínske rodové vzťahy boli obrátené počas vlády cisárovnej Wu Zetian.",c,b,false
-"Daň uvalená na dodávateľa sa s väčšou pravdepodobnosťou prenesie na spotrebiteľa vo forme zvýšenia ceny, ak
-A.Cenová elasticita dopytu je vysoko elastická.
-B.Cenová elasticita dopytu je vysoko neelastická.
-C.Cenová elasticita dopytu je jednotková elastická.
-D.Mzdová elasticita dopytu je vysoko elastická.",b,a,false
-"Časť vody Marsu je zamrznutá v pôde a ľadovcoch a časť sa stratila v dôsledku odstraňovania slnečného vetra, ale predpokladá sa, že veľká časť pôvodnej vody sa stratila iným mechanizmom. Čo sa stalo s touto ""stratenou"" vodou?
-A.Bol odstránený magnetickým poľom, keď rýchlo klesla jeho sila
-B.ultrafialovým svetlom sa rozbil na vodík a kyslík a vodík sa tepelným únikom stratil
-C.pohltila ho civilizácia smädných Marťanov
-D.Počas obdobia intenzívneho vulkanizmu sa vyparil a tepelným únikom sa stratil vo vesmíre",b,b,true
-"Výskum Garcíu a Koellinga týkajúci sa naučených averzií zistil, že ktorý z nasledujúcich párov UCS a CS je najsilnejší a naučený najrýchlejšie?
-A.vykonanie úlohy a získanie odmeny za jedlo
-B.nevoľnosť a jedlo alebo nápoje
-C.pohyb a šok
-D.Tresty a odmeny",b,b,true
-"Protón, ktorý sa pohybuje počiatočnou rýchlosťou 1,5 × 10^6 m/s, vstupuje do oblasti konštantného magnetického poľa s magnitúdou 1,5 T. Ak vektor počiatočnej rýchlosti protónu zviera s magnetickým poľom uhol 30°, vypočítajte rýchlosť protónu 4 s po vstupe do magnetického poľa.
-A.5.0 × 10^6 m/s
-B.7,5 × 10^6 m/s
-C.1,5 × 10^6 m/s
-D.3.0 × 10^6 m/s",c,c,true
-"Ktorá z nasledujúcich množín bitových reťazcov NEMÔŽE byť opísaná regulárnym výrazom?
-A.Všetky bitové reťazce, ktorých počet núl je násobkom piatich
-B.Všetky bitové reťazce začínajúce nulou a končiace jedným
-C.Všetky bitové reťazce s párnym počtom núl
-D.Všetky bitové reťazce s viacerými reťazcami ako nulami",d,a,false
-"Nájdite dĺžku krivky y = ln x medzi bodmi, kde y = 1/2 a y = 1.
-A.0.53
-B.0.86
-C.1.18
-D.1.36",c,c,true
-"Nájdite $-\dfrac{1}{-3}\cdot\cfrac{1}{~\frac{1}{-3}~}.$
-A.1
-B.-1
-C.0
-D.2",b,a,true
-"Táto otázka sa týka nasledujúcich informácií.
-""Naozaj, keďže fatvy významných [učencov], ktorí zakladajú svoj názor na rozume a tradícii rovnako, ako aj konsenzus sunnitskej komunity súhlasia s tým, že starodávna povinnosť vyhladenia, vyhladenia a vylúčenia zlých inovácií musí byť cieľom našej vznešenej ašpirácie, pretože ""náboženská horlivosť je víťazstvom viery Boha Dobrotivého""; potom, v súlade so slovami Proroka (Pokoj s ním!) ""Ktokoľvek zavedie zlú inováciu do nášho poriadku, musí byť vylúčený"" a ""Ktokoľvek koná proti nášmu poriadku, musí byť vylúčený,"" akcia sa stala nevyhnutnou a naliehavou...""
-List osmanského sultána Selima I. Safavidovi Shah Ismailovi I., 1514
-Safíjovci pritiahli hnev islamských ríš, ako je Osmanská a Mughalská ríša, predovšetkým preto, že Safíjovci
-A.bola expanzívna ríša geograficky umiestnená medzi dvoma ďalšími expanzionistami
-B.odmietol ústredné princípy islamu
-C.zotročil kresťanov a urobil z nich safíjovských bojovníkov
-D.Ismail sa vyhlásil za kalifa",a,a,true
-"Skutočnosť, že frekvencia infračervenej absorpcie chloridu deutéria (DCl) je posunutá od frekvencie chlorovodíka (HCl), je spôsobená rozdielmi v ich
-A.Distribúcia elektrónov
-B.Dipólový moment
-C.silová konštanta
-D.znížená hmotnosť",d,d,true
-"V rovine xy je graf x^(log y) = y^log x
-A.Otvorený prvý kvadrant
-B.uzavretá krivka
-C.lúč v otvorenom prvom kvadrante
-D.Jeden bod",a,a,true
+D.Tradičné čínske rodové vzťahy boli obrátené počas vlády cisárovnej Wu Zetian.",c,"based on the poem ""balada o armádnych vozíkoch"" by du fu, around 750 ad, the correct answer is:
+
+c. na poľnohospodárskej práci by sa mohli podieľať ženy aj muži.
+
+the poem mentions that even though the wives are strong enough to handle the hoe and plow, the fields are still in disarray. this suggests that women were involved in agricultural work alongside men during the tang dynasty.
+
+the other options do not find support in the poem:
+
+a. the poem does not mention confucian relationships between husband and wife.
+
+b. while the poem does express a preference for having daughters over sons, it is because daughters can marry and live with their neighbors, whereas sons will end up lying on some distant prairie (i.e., dying in war). there is no mention of imperial rescripts emphasizing the birth of capable sons over daughters.
+
+d. there is no indication in the poem that traditional chinese family relationships were reversed during the reign of empress wu zetian.",true
 "Ktorá z nasledujúcich možností s najväčšou pravdepodobnosťou časom povedie k silnejšiemu hospodárskemu rastu?
 A.Rýchlejšia spotreba prírodných zdrojov.
 B.Vyššia miera negramotnosti dospelých.
 C.Klesajúce zásoby investičného majetku.
-D.Investičné daňové úvery.",d,d,true
-"Ktoré z nasledujúcich tvrdení platí o hypotyreóze?
-A.Chudnutie
-B.Pretibiálny myxedém
-C.Zvýšená hladina TSH
-D.Averzia k teplým miestam",c,c,true
-"Pre ktorý z týchto dvoch scenárov urobí hlavná postava (ktorá používa ja/ja/moje) niečo zjavne morálne zlé, podľa bežných morálnych štandardov v USA od roku 2020? Scenár 1 | Keď moji rodičia spali, išiel som si zabehať. Scenár 2 | Naliala som prací prostriedok do práčky plnej oblečenia mojej spolubývajúcej.
+D.Investičné daňové úvery.",d,"the correct answer is d. investičné daňové úvery (investment tax credits).
+
+here's why:
+
+a. rýchlejšia spotreba prírodných zdrojov (faster consumption of natural resources) can lead to environmental degradation, depletion of resources, and negative economic impacts in the long run.
+
+b. vyššia miera negramotnosti dospelých (higher rate of adult illiteracy) can hinder economic growth by reducing the productivity and competitiveness of the workforce.
+
+c. klesajúce zásoby investičného majetku (decreasing investment capital stock) can lead to reduced investment, lower productivity, and slower economic growth.
+
+d. investičné daňové úvery (investment tax credits), on the other hand, can encourage businesses to invest in new projects, technologies, and human capital, leading to increased productivity, innovation, and economic growth.
+
+by providing incentives for investment, investment tax credits can stimulate economic activity, create jobs, and increase gdp, making option d the most likely to lead to stronger economic growth over time.",true
+"Negatívna reziduálna autokorelácia je indikovaná, ktorou z nasledujúcich možností?
+A.Cyklický vzorec rezíduí
+B.Striedavý vzor vo zvyškoch
+C.Úplná náhodnosť vo zvyškoch
+D.Rezíduá, ktoré sú všetky takmer nulové",b,"the correct answer is b. striedavý vzor vo zvyškoch (alternating pattern in residuals).
+
+negative residual autocorrelation is indicated by an alternating pattern in the residuals, which means that the residuals tend to alternate between positive and negative values. this suggests that the model is not capturing some underlying pattern or structure in the data.
+
+here's why the other options are incorrect:
+
+a. cyklický vzorec rezíduí (cyclical pattern in residuals) would indicate a periodic or seasonal pattern in the residuals, but it's not necessarily related to negative residual autocorrelation.
+
+c. úplná náhodnosť vo zvyškoch (complete randomness in residuals) would suggest that the residuals are randomly distributed and do not exhibit any patterns, including negative autocorrelation.
+
+d. rezíduá, ktoré sú všetky takmer nulové (residuals that are all nearly zero) would indicate that the model is fitting the data very well, with little to no error, but it does not provide information about the autocorrelation of the residuals.",true
+"Hospodárstvo je v hlbokej recesii. Ktoré z nasledujúcich tvrdení o menovej politike je vzhľadom na túto hospodársku situáciu presné?
+A.Expanzívna politika by recesiu len zhoršila.
+B.Expanzívna politika výrazne zvyšuje agregátny dopyt, ak sú investície citlivé na zmeny úrokovej sadzby.
+C.Kontrakčná politika je vhodným stimulom pre investície a spotrebu.
+D.Ak je dopyt po peniazoch dokonale elastický, expanzívna menová politika by mohla byť celkom účinná.",b,"in a deep recession, the correct statement about monetary policy is:
+
+b. expanzívna politika výrazne zvyšuje agregátny dopyt, ak sú investície citlivé na zmeny úrokovej sadzby.
+
+this translates to: ""an expansionary policy significantly increases aggregate demand if investments are sensitive to changes in interest rates.""
+
+in a deep recession, an expansionary monetary policy (e.g., lowering interest rates) can stimulate economic growth by increasing aggregate demand. this is because lower interest rates make borrowing cheaper, which can encourage businesses and individuals to invest and consume more, thus boosting economic activity.
+
+the other options are not accurate in this context:
+
+a. an expansionary policy would not worsen the recession; on the contrary, it's intended to help alleviate it.
+
+c. a contractionary policy (e.g., raising interest rates) would actually reduce investment and consumption, making the recession worse.
+
+d. while a perfectly elastic demand for money might make an expansionary monetary policy more effective, this assumption is not necessarily relevant in a deep recession, where the primary concern is stimulating economic growth rather than managing inflation or other factors.",true
+"Programátor napísal program nižšie. Program používa zoznam čísel s názvom numList. Program je určený na zobrazenie súčtu čísel v zozname.
+ súčet ← numList [1]
+ PRE KAŽDÚ hodnotu v numList
+ Súčet ← súčet + hodnota
+ ZOBRAZIŤ súčet
+ Za účelom otestovania programu programátor inicializuje numList na [0, 1, 4, 5]. Program zobrazí 10 a programátor dospeje k záveru, že program funguje podľa plánu. Ktoré z nasledujúcich tvrdení je pravdivé?
+A.Záver je správny; Program funguje podľa plánu.
+B.Záver je nesprávny; Program nezobrazí správnu hodnotu pre testovací prípad [0, 1, 4, 5].
+C.Záver je nesprávny; Použitie testovacieho prípadu [0, 1, 4, 5] nepostačuje na vyvodenie záveru, že program je správny.
+D.Záver je nesprávny; Použitie testovacieho prípadu [0, 1, 4, 5] iba potvrdzuje, že program pracuje pre zoznamy vo vzostupnom poradí.",c,"the correct answer is c. záver je nesprávny; použitie testovacieho prípadu [0, 1, 4, 5] nepostačuje na vyvodenie záveru, že program je správny.
+
+the program appears to be correct and it does produce the correct result for the test case [0, 1, 4, 5]. however, this single test case is not enough to conclude that the program is correct in all scenarios. there might be other edge cases or scenarios where the program fails.
+
+for example, what if the input list is empty? what if the list contains negative numbers or zero? what if the list contains very large numbers that cause an overflow? the program may not work correctly in these scenarios, but the test case [0, 1, 4, 5] does not cover these cases.
+
+therefore, while the program seems to work for this specific test case, it's not enough to conclude that it works in all cases. more testing and validation are needed to ensure the program's correctness.",true
+"V rovine xy je graf x^(log y) = y^log x
+A.Otvorený prvý kvadrant
+B.uzavretá krivka
+C.lúč v otvorenom prvom kvadrante
+D.Jeden bod",a,"a nice math problem!
+
+the equation is x^(log y) = y^log x.
+
+let's analyze it:
+
+* since log y and log x are both defined only for positive real numbers, the graph exists only in the first quadrant (x > 0, y > 0).
+* the equation is symmetric with respect to the line y = x, which means that if (a, b) is a solution, then (b, a) is also a solution.
+* when x = 1, y can be any positive value, so there's a vertical asymptote at x = 1.
+* when y = 1, x can be any positive value, so there's a horizontal asymptote at y = 1.
+
+considering these properties, the correct answer is:
+
+a. otvorený prvý kvadrant (open in the first quadrant)
+
+the graph is not a closed curve (b), nor does it have a single point (d). it doesn't have a focus in the open first quadrant (c) either.",true
+"Vyhlásenie 1 | V skupine (ab)^{-2} = b^{-2}a^{-2}. Vyhlásenie 2 | V skupine (ab)^n = a^nb^n.
+A.Pravda, pravda
+B.Nepravda, nepravda
+C.Pravda, nepravda
+D.Nepravda, pravda",b,"a nice question about group theory!
+
+let's analyze the two statements:
+
+**vyhlásenie 1:** in a group, $(ab)^{-2} = b^{-2}a^{-2}$.
+
+this is **not true** in general. in a group, the inverse of a product is the product of the inverses in reverse order, so $(ab)^{-1} = b^{-1}a^{-1}$. squaring both sides, we get $(ab)^{-2} = (b^{-1}a^{-1})^2 = b^{-2}a^{-2}b^{-1}a^{-1} \neq b^{-2}a^{-2}$ in general.
+
+**vyhlásenie 2:** in a group, $(ab)^n = a^nb^n$.
+
+this is **not true** in general. in a group, the exponentiation rule $(ab)^n = a^nb^n$ only holds if $a$ and $b$ commute, i.e., $ab = ba$. if they don't commute, this equality does not hold.
+
+so, the correct answer is:
+
+b. nepravda, nepravda (both statements are false)",true
+"Ktorý z nasledujúcich faktorov by sa považoval za ""motivačný"" faktor pre Rivu pri zvažovaní presunu z Indie do Spojených štátov?
+A.Úbohá chudoba
+B.Lepšia práca a vyššie mzdy
+C.Indický kastový systém
+D.Násilie v jej susedstve",b,"the correct answer is b. lepšia práca a vyššie mzdy (better job and higher salary).
+
+this option can be considered a ""motivational"" factor for riva to move from india to the united states, as it suggests that she may be attracted to the prospect of better employment opportunities and higher pay in the us.
+
+the other options do not necessarily provide a motivation for riva to move:
+
+a. úbohá chudoba (poverty) could be a push factor, but it's not a direct motivator for moving to the us.
+
+c. indický kastový systém (indian caste system) might be a reason for riva to want to leave india, but it's not a specific motivator for moving to the us.
+
+d. násilie v jej susedstve (violence in her neighborhood) could be a push factor, but again, it's not a direct motivator for moving to the us.
+
+so, option b is the most likely motivator for riva's potential move.",true
+"Ktorá psychologická perspektíva bola najpopulárnejšia na prelome dvadsiateho storočia v západnej Európe?
+A.Neurovedu
+B.evolučný
+C.behaviorista
+D.Psychoanalytický",d,"the correct answer is d. psychoanalytický (psychoanalytic).
+
+at the turn of the 20th century, sigmund freud's psychoanalytic theory was extremely popular and influential in western europe. his ideas about the unconscious mind, repression, and the role of childhood experiences in shaping adult behavior were widely discussed and debated among intellectuals and scholars.
+
+freud's psychoanalytic theory was seen as a revolutionary approach to understanding human psychology, and it had a significant impact on many fields, including psychology, psychiatry, philosophy, and literature. many prominent thinkers and writers of the time, such as carl jung, alfred adler, and ernest jones, were influenced by freud's ideas and contributed to the development of psychoanalytic theory.
+
+in contrast, while neuroscientific approaches (a) were also being developed during this period, they were not yet as widely known or influential as psychoanalytic theory. evolutionary perspectives (b) were also present, but they were not as dominant in the field of psychology at that time. behaviorism (c) emerged later, in the early 20th century, primarily through the work of john b. watson and b.f. skinner.",true
+"Nájdite dĺžku krivky y = ln x medzi bodmi, kde y = 1/2 a y = 1.
+A.0.53
+B.0.86
+C.1.18
+D.1.36",c,"a nice calculus problem!
+
+to find the length of the curve y = ln x between the points where y = 1/2 and y = 1, we need to use the arc length formula:
+
+l = ∫[a, b] √(1 + (dy/dx)^2) dx
+
+first, let's find the derivative of y with respect to x:
+
+dy/dx = 1/x
+
+now, we need to find the values of x that correspond to y = 1/2 and y = 1:
+
+y = 1/2 => ln x = 1/2 => x = e^(1/2) ≈ 1.6487
+y = 1 => ln x = 1 => x = e^1 ≈ 2.7183
+
+so, our limits of integration are from a ≈ 1.6487 to b ≈ 2.7183.
+
+now, plug everything into the arc length formula:
+
+l = ∫[1.6487, 2.7183] √(1 + (1/x)^2) dx
+
+evaluating this integral numerically, we get:
+
+l ≈ 1.18
+
+so, the correct answer is:
+
+c. 1.18",true
+"Študenti vykonávajú cvičenie na separáciu rastlinných pigmentov, ktoré vyžaduje, aby použili uzavretú chromatografickú komoru s malým množstvom acetónu v spodnej časti komory. Bezpečnostné varovania týkajúce sa acetónu obsahujú vyhlásenie, že acetón dráždi oči a pokožku a obsahuje horľavé výpary. Aké bezpečnostné opatrenia by mali študenti prijať pri vykonávaní cvičenia?
+A.Nasadenie rukavíc spomaľujúcich horenie, aby ste komoru preniesli do digestora, ak sa acetón vznieti
+B.Umiestnenie komory do uzavretej, tmavej skrinky počas trvania separácie pigmentu
+C.Nosenie kožených rukavíc a zakrytie nosa a úst maskou častíc
+D.Nosenie okuliarov a nitrilových rukavíc a udržiavanie všetkých acetónových nádob zatvorených",d,"the correct answer is d. nosenie okuliarov a nitrilových rukavíc a udržiavanie všetkých acetónových nádob zatvorených.
+
+here's why:
+
+* acetone can irritate the eyes, so wearing goggles (okuliare) will protect the students' eyes from potential splashes or spills.
+* acetone can also irritate the skin, so wearing nitrile gloves (nitrilové rukavice) will protect their hands from coming into contact with the acetone.
+* keeping all acetone containers closed (udržiavanie všetkých acetónových nádob zatvorených) will prevent the release of flammable vapors and minimize the risk of fire.
+
+the other options are not correct because:
+
+* a. wearing flame-retardant gloves would not be necessary in this scenario, as the goal is to prevent exposure to acetone, not to handle a fire.
+* b. placing the chromatography chamber in a dark box would not provide any protection against acetone exposure.
+* c. wearing leather gloves and a mask would not provide adequate protection against acetone exposure, as leather gloves may not be resistant to acetone and a mask would not protect the eyes or skin.",true
+"Ktorá z nasledujúcich množín bitových reťazcov NEMÔŽE byť opísaná regulárnym výrazom?
+A.Všetky bitové reťazce, ktorých počet núl je násobkom piatich
+B.Všetky bitové reťazce začínajúce nulou a končiace jedným
+C.Všetky bitové reťazce s párnym počtom núl
+D.Všetky bitové reťazce s viacerými reťazcami ako nulami",d,"a nice question about regular expressions!
+
+the correct answer is a. všetky bitové reťazce, ktorých počet núl je násobkom piatich (all binary strings with a number of zeros that is a multiple of five).
+
+this is because regular expressions can't count the number of occurrences of a character (in this case, zeros) modulo a certain number (five). regular expressions are not powerful enough to recognize languages that require counting or arithmetic operations.
+
+on the other hand:
+
+b. všetky bitové reťazce začínajúce nulou a končiace jedným (all binary strings starting with zero and ending with one) can be described by a regular expression: `0(0|1)*1`.
+
+c. všetky bitové reťazce s párnym počtom núl (all binary strings with an even number of zeros) can be described by a regular expression: `(1*01*1*)*`.
+
+d. všetky bitové reťazce s viacerými reťazcami ako nulami (all binary strings with multiple sequences of zeros) can be described by a regular expression: `(1*0+1*)*`.
+
+so, option a is the correct answer.",true
+"Skutočnosť, že frekvencia infračervenej absorpcie chloridu deutéria (DCl) je posunutá od frekvencie chlorovodíka (HCl), je spôsobená rozdielmi v ich
+A.Distribúcia elektrónov
+B.Dipólový moment
+C.silová konštanta
+D.znížená hmotnosť",d,"a nice question about spectroscopy!
+
+the correct answer is d. znížená hmotnosť (reduced mass).
+
+the frequency of infrared absorption of deuterium chloride (dcl) is shifted compared to that of hydrogen chloride (hcl) due to the difference in their reduced masses. the reduced mass is a concept used in spectroscopy to describe the effective mass of a diatomic molecule.
+
+in this case, the substitution of a deuterium atom (which has a larger mass than a hydrogen atom) for a hydrogen atom in hcl increases the reduced mass of the molecule, leading to a shift in the frequency of its infrared absorption spectrum.
+
+here's why the other options are incorrect:
+
+a. distribúcia elektrónov (electron distribution) would affect the molecular orbitals and bonding, but it wouldn't directly influence the frequency of infrared absorption.
+
+b. dipólový moment (dipole moment) is related to the asymmetry of the molecule and its ability to absorb infrared radiation, but it's not the primary reason for the frequency shift between hcl and dcl.
+
+c. silová konštanta (force constant) is a measure of the strength of a bond, but it's not directly responsible for the frequency shift between hcl and dcl.
+
+so, the correct answer is d. znížená hmotnosť (reduced mass)!",true
+"Ktoré z nasledujúcich charakteristík sú vo všeobecnosti konzistentné so znásilnením na rande?
+A.použitie nadmernej sily
+B.Premyslený
+C.sexuálne motivované
+D.zahŕňa použitie zbrane",c,"the correct answer is c. sexeuálne motivované (sexually motivated).
+
+date rape, also known as acquaintance rape, is a type of sexual assault that occurs between individuals who know each other, often in a social or romantic setting. the key characteristic of date rape is that it is sexually motivated, meaning the perpetrator's primary goal is to engage in non-consensual sexual activity with the victim.
+
+while the other options may be present in some cases of date rape, they are not necessarily consistent characteristics:
+
+a. použitie nadmernej sily (use of excessive force) may not always be present in date rape cases, as the perpetrator may use coercion, manipulation, or exploitation of the victim's vulnerability instead of physical force.
+
+b. premyslený (premeditated) implies that the perpetrator planned the assault in advance, which may not always be the case in date rape situations.
+
+d. zahŕňa použitie zbrane (involves the use of a weapon) is not a typical characteristic of date rape, as most cases do not involve weapons.
+
+it's important to note that date rape can take many forms and can be committed by someone the victim trusts or has a prior relationship with. it's essential to promote healthy relationships, consent, and respect for boundaries to prevent such incidents.",true
+"Naučená bezmocnosť s najväčšou pravdepodobnosťou priamo súvisí s
+A.Barnumov efekt.
+B.samoúčelná zaujatosť.
+C.vonkajšie miesto kontroly.
+D.bezpodmienečný pozitívny ohľad.",c,"it looks like you're dealing with some psychology-related terms!
+
+the correct answer is c. vonkajšie miesto kontroly.
+
+""naučená bezmocnosť"" is the slovak translation of ""learned helplessness"", which refers to a phenomenon where individuals learn to believe that they have no control over their environment or outcomes, leading to feelings of powerlessness and hopelessness.
+
+learned helplessness is indeed closely related to an external locus of control (vonkajšie miesto kontroly), which means that people attribute events or outcomes to factors outside of their own control, rather than to their own actions or abilities.
+
+here's a brief explanation of the other options:
+
+a. barnum effect: this refers to the tendency for people to accept general descriptions as accurate and personalized, even though they could apply to anyone. it's not directly related to learned helplessness.
+
+b. samoúčelná zaujatosť: this translates to ""self-serving bias"", which is the tendency for people to attribute their successes to internal factors (e.g., ability) and their failures to external factors (e.g., luck). while related to attribution theory, it's not the best fit for learned helplessness.
+
+d. bezpodmienečný pozitívny ohľad: this translates to ""unconditional positive regard"", which is a concept in person-centered therapy that involves accepting and valuing individuals without judgment. it's not directly related to learned helplessness either.
+
+i hope this helps clarify things!",true
+"Aký je termín pre rozsah, v akom je hospodárska súťaž v jednej krajine ovplyvnená konkurenciou v iných krajinách?
+A.Medzinárodný obchod
+B.Globálna ekonomika
+C.Celosvetová konkurencia
+D.Globalizácia",d,"the correct answer is c. celosvetová konkurencia.
+
+celosvetová konkurencia (global competition) refers to the range in which economic competition in one country is influenced by competition in other countries. this means that businesses and industries in a particular country are affected by the competitive activities of firms and industries in other countries.
+
+here's why the other options are not correct:
+
+a. medzinárodný obchod (international trade) refers to the exchange of goods and services between different countries, but it doesn't specifically refer to the influence of competition across borders.
+
+b. globálna ekonomika (global economy) refers to the economy of the world as a whole, considering all countries and their economic systems. while it's related to global competition, it's a broader concept.
+
+d. globalizácia (globalization) is a process of increasing economic integration and interdependence among countries, characterized by the free flow of goods, services, and ideas across national borders. while globalization can lead to increased global competition, it's not the same thing.",false
+"Stanovte koncentráciu H+(aq) v 1,0 M fenole, C6H5OH, roztoku. (Ka pre fenol je 1 × 10^-10.)
+A.1 × 10^-10 m
+B.1 × 10^-9 m
+C.1 × 10^-3 M
+D.1 × 10^-5 m",d,"a nice acid-base problem!
+
+let's break it down step by step:
+
+we have a 1.0 m solution of phenol (c6h5oh), and we want to find the concentration of h+ ions (hydronium ions) in this solution.
+
+the acid dissociation constant (ka) for phenol is given as 1 × 10^-10.
+
+first, let's write the equilibrium equation for the dissociation of phenol:
+
+c6h5oh (aq) + h2o (l) ⇌ c6h5o- (aq) + h3o+ (aq)
+
+the ka expression is:
+
+ka = [c6h5o-][h3o+] / [c6h5oh]
+
+we are given that the initial concentration of phenol is 1.0 m, so [c6h5oh] = 1.0 m.
+
+let x be the concentration of h+ ions (hydronium ions) formed by the dissociation of phenol. then, [c6h5o-] = x and [h3o+] = x.
+
+substituting these values into the ka expression, we get:
+
+1 × 10^-10 = (x)(x) / 1.0
+
+simplifying the equation, we get:
+
+x^2 = 1 × 10^-10
+
+taking the square root of both sides, we get:
+
+x = √(1 × 10^-10) = 1 × 10^-5 m
+
+so, the correct answer is:
+
+d. 1 × 10^-5 m",true
+"Kvantová účinnosť fotónového detektora je 0,1. Ak je do detektora poslaných 100 fotónov, jeden po druhom, detektor detekuje fotóny
+A.v priemere 10-krát, s efektívnou odchýlkou približne 4
+B.v priemere 10-krát, s efektívnou odchýlkou približne 3
+C.v priemere 10-krát, s odchýlkou efektívnej odchýlky približne 1
+D.v priemere 10-krát, s efektívnou odchýlkou približne 0,1",b,"a nice problem in quantum physics!
+
+let's break it down:
+
+* the quantum efficiency of the photon detector is 0.1, which means that only 10% of the incoming photons are detected.
+* 100 photons are sent to the detector, one by one.
+
+to find the average number of detected photons, we can multiply the number of incoming photons by the quantum efficiency:
+
+100 photons × 0.1 = 10 photons
+
+so, on average, the detector detects 10 photons.
+
+now, let's calculate the standard deviation (effective uncertainty) of the detected photons. since the detection of each photon is an independent event, we can model this as a binomial distribution. the standard deviation of a binomial distribution is given by:
+
+σ = √(n × p × (1 - p))
+
+where n is the number of trials (100 photons), p is the probability of success (detection) in a single trial (0.1), and (1 - p) is the probability of failure.
+
+plugging in the values, we get:
+
+σ = √(100 × 0.1 × 0.9) ≈ 3.0
+
+so, the effective uncertainty (standard deviation) is approximately 3.
+
+the correct answer is:
+
+b. v priemere 10-krát, s efektívnou odchýlkou približne 3",true
+"Čo z toho robí určenie evolučnej príbuznosti rôznych druhov na základe aminokyselinovej sekvencie homológnych proteínov všeobecne menej presným ako stanovenia príbuznosti založené na nukleotidových sekvenciách homológnych génov?
+A.Tiché mutácie
+B.Duplikáty génov
+C.Translokačné udalosti, ktoré menia sekvencie génov
+D.Prechod",a,"the correct answer is a. tiché mutácie.
+
+here's why:
+
+determining evolutionary relationships between different species based on amino acid sequences of homologous proteins can be less precise than determining relationships based on nucleotide sequences of homologous genes. this is because amino acid sequences are more tolerant of silent mutations, which are point mutations that do not change the amino acid sequence of a protein.
+
+silent mutations, also known as synonymous mutations, occur when a mutation in a gene does not result in a change to the amino acid sequence of the protein encoded by that gene. since amino acid sequences are determined by the genetic code, which is degenerate (i.e., multiple codons can code for the same amino acid), silent mutations can occur without affecting the protein sequence.
+
+as a result, amino acid sequences may not reflect all the mutations that have occurred in the dna sequence, making it more difficult to infer evolutionary relationships. in contrast, nucleotide sequences of homologous genes are more sensitive to mutations and can provide a more accurate picture of evolutionary relationships.
+
+the other options are not directly related to the issue:
+
+b. duplikáty génov (gene duplication) can lead to the creation of new genes with similar functions, but it doesn't affect the precision of determining evolutionary relationships based on amino acid sequences.
+
+c. translokačné udalosti, ktoré menia sekvencie génov (translocation events that change gene sequences) can also affect gene evolution, but they are not directly related to the difference in precision between amino acid and nucleotide sequences.
+
+d. prechod (transition) is a type of point mutation, but it's not specifically related to the issue at hand.",true
+"Protón, ktorý sa pohybuje počiatočnou rýchlosťou 1,5 × 10^6 m/s, vstupuje do oblasti konštantného magnetického poľa s magnitúdou 1,5 T. Ak vektor počiatočnej rýchlosti protónu zviera s magnetickým poľom uhol 30°, vypočítajte rýchlosť protónu 4 s po vstupe do magnetického poľa.
+A.5.0 × 10^6 m/s
+B.7,5 × 10^6 m/s
+C.1,5 × 10^6 m/s
+D.3.0 × 10^6 m/s",c,"a classic problem in physics!
+
+let's break it down step by step:
+
+1. the proton enters a region of constant magnetic field with a magnitude of 1.5 t.
+2. the initial velocity of the proton is 1.5 × 10^6 m/s, and it makes an angle of 30° with the magnetic field.
+3. we need to find the velocity of the proton 4 seconds after entering the magnetic field.
+
+to solve this problem, we can use the concept of circular motion in a magnetic field. the proton will experience a force perpendicular to its velocity and the magnetic field, causing it to move in a circular path.
+
+the key equation we'll use is:
+
+f = qvb sin(θ)
+
+where f is the force, q is the charge of the proton, v is its velocity, b is the magnetic field strength, and θ is the angle between the velocity and the magnetic field.
+
+since the proton is moving in a circle, its acceleration (a) is given by:
+
+a = v^2 / r
+
+where r is the radius of the circle.
+
+we can also use the fact that the angular velocity (ω) of the proton is related to its linear velocity (v) and radius (r) by:
+
+ω = v / r
+
+now, let's plug in some numbers!
+
+given: v0 = 1.5 × 10^6 m/s, b = 1.5 t, θ = 30°
+
+first, we need to find the radius of the circle. we can do this using the equation:
+
+r = m × v0 / (q × b)
+
+where m is the mass of a proton (approximately 1.67 × 10^-27 kg) and q is its charge (approximately 1.6 × 10^-19 c).
+
+plugging in values, we get:
+
+r ≈ 0.143 m
+
+next, we can find the angular velocity (ω):
+
+ω = v0 / r ≈ 1.05 × 10^7 rad/s
+
+now, we can find the velocity of the proton after 4 seconds using:
+
+v = ω × r
+
+v ≈ 1.05 × 10^7 rad/s × 0.143 m ≈ 1.5 × 10^6 m/s
+
+surprisingly, the answer is... c. 1.5 × 10^6 m/s! the proton's velocity remains unchanged after 4 seconds.
+
+so, the correct answer is option",true
+"Podľa Singera dodržiavanie jeho princípu vyžaduje:
+A.Mierne zmeny v našich osobných návykoch, ale nie v našej spoločnosti ako celku.
+B.mierne zmeny našich osobných návykov, ako aj spoločnosti.
+C.drastické zmeny našich osobných návykov, ale nie našej spoločnosti.
+D.drastické zmeny v našich osobných návykoch a v našej spoločnosti.",d,"according to singer, the correct answer is:
+
+d. drastické zmeny v našich osobných návykoch a v našej spoločnosti.
+
+this means that singer advocates for drastic changes in both our personal habits and in society as a whole.",true
+"Účtovná jednotka verejnej správy je povinná zahrnúť výkaz peňažných tokov, do ktorej z nasledujúcich účtovných závierok?
+A.Finančné výkazy vládnych fondov.
+B.Celoštátne finančné výkazy.
+C.Účtovná závierka vlastného fondu.
+D.Účtovná závierka zvereneckého fondu.",c,"the correct answer is b. celoštátne finančné výkazy.
+
+in slovakia, the cash flow statement is a mandatory part of the comprehensive financial statements of public sector entities, which are presented in the form of whole-state financial statements (celoštátne finančné výkazy).",false
+" Podľa Nussbauma zaobchádzanie s niekým ako s objektom je
+A.dostatočné na sexuálnu objektivizáciu.
+B.nevyhnutné pre sexuálnu objektivizáciu.
+C.nie je potrebné na sexuálnu objektivizáciu.
+D.všetky vyššie uvedené.",c,"the correct answer is b. nevyhnutné pre sexuálnu objektivizáciu.
+
+according to martha nussbaum, treating someone as an object is a necessary condition for sexual objectification. in other words, objectification is a prerequisite for sexual objectification to occur.",false
+"Pojem ""chili con carne"" sa vzťahuje na čili s čím?
+A.fazuľa
+B.mäso
+C.syr
+D.Čili papričky",b,"the correct answer is b. mäso (meat).
+
+""chili con carne"" is a spanish phrase that literally means ""chili with meat"". it's a popular dish that originated in the southwestern united states, typically made with ground beef, tomatoes, onions, garlic, and chili peppers.",true
+" Klasický text Daodejing je známy pod akým názvom v angličtine?
+A.Klasika zmien
+B.Klasika spôsobu a výkonu
+C.Klasika žien
+D.Klasika filozofie",b,"the correct answer is b. tao te ching, which translates to ""classic of the way and virtue"" or ""book of the way and its virtue"".
+
+in english, the classic text daodejing is commonly known as the tao te ching.",true
+"Moderné počítačové mikročipy sú primárne zložené z akého prvku?
+A.Sodík
+B.Kremík
+C.Hliník
+D.Striebro",b,"the correct answer is b. kremík (silicon).
+
+modern computer microchips are primarily composed of silicon, which is a semiconductor material used to create the integrated circuits that power computers and other electronic devices. silicon is an ideal material for this purpose due to its unique electrical properties and ability to be easily fabricated into complex structures.",true
+"Generálny prokurátor je vedúcim ktorého z týchto subjektov?
+A.Senátny súdny výbor
+B.Ministerstvo spravodlivosti
+C.Ministerstvo zahraničných vecí
+D.Zbor sudcov generálneho advokáta",b,"the correct answer is b. ministerstvo spravodlivosti.
+
+in slovakia, the general prosecutor (generálny prokurátor) is the head of the office of the general prosecutor, which is an independent body that falls under the jurisdiction of the ministry of justice (ministerstvo spravodlivosti).",true
+"Nagel tvrdí, že problém morálneho šťastia úzko súvisí s problémom:
+A.existencia Boha.
+B.sloboda vôle.
+C.psychologický egoizmus.
+D.univerzálie.",b,"the correct answer is b. sloboda vôle (freedom of will).
+
+thomas nagel, an american philosopher, argues that the problem of moral luck is closely related to the problem of free will. moral luck refers to the idea that our moral judgments of individuals are influenced by factors beyond their control, such as chance or circumstance. nagel contends that if we don't have genuine free will, then our moral judgments are undermined, and we can't be held morally responsible for our actions.
+
+so, option b is the correct answer!",true
+"Supermarket sa práve znovu otvoril po dvojtýždňovom zatvorení kvôli rekonštrukcii. Ráno po znovuotvorení nakupovala žena, keď náhle spadla a utrpela zlomenú nohu. Potom žena zažalovala supermarket za zranenia osôb. Vo svojom obleku žena tvrdila, že zakopla o vedro s farbou, ktoré ležalo v jednej z uličiek. Na súde žena zavolala ďalšiemu zákazníkovi, aby svedčila, že keď nakupoval, počul buchnutie, otočil sa a videl, ako žena padá na zem. Tiež svedčil, že videl prázdne vedro s farbou ležiace niekoľko metrov od ženinej nohy. Pri krížovom výsluchu sa zákazník dostal do argumentačnej výmeny s právnym zástupcom supermarketu. Keď sa zákazníka spýtali na jeho názor na to, čo spôsobilo pád ženy, svedčil: ""Spadla, pretože zakopla o vedro. "" Pri krížovom výsluchu však priznal, že v skutočnosti nevidel ženu zakopnúť o vedro. Právnik supermarketu potom položil zákazníkovi nasledujúcu otázku: ""Ak ste nevideli ženu zakopnúť o vedro, ako viete, že kvôli tomu spadla?"" Zákazník odpovedal: ""Pretože moja priateľka, ktorá so mnou nakupovala, mi neskôr povedala, že videla ženu zakopnúť o vedro. "" Právny zástupca supermarketu sa snaží nájsť poslednú odpoveď zákazníka. Ak sudca zruší návrh obžalovaného a povolí odpoveď zákazníka platiť, bude to s najväčšou pravdepodobnosťou preto, že
+A.Odpoveď zákazníka bola vyzvaná otázkou právneho zástupcu supermarketu.
+B.Odpoveď zákazníka bola založená na poznatkoch z prvej ruky.
+C.Odpoveďou zákazníka bolo vyjadrenie nedávneho vnímania.
+D.Odpoveďou zákazníka bol prítomný zmyslový dojem.",a,"the correct answer is a. odpoveď zákazníka bola vyzvaná otázkou právneho zástupcu supermarketu.
+
+the lawyer for the supermarket asked the customer a question, and the customer responded with an answer that was based on hearsay (what his friend told him). the lawyer is trying to discredit the customer's testimony by pointing out that he didn't actually see the woman trip over the bucket himself, but rather heard about it from someone else.",true
+"Ktorá z nasledujúcich vecí je posledná, ktorú obývajú ľudské bytosti?
+A.Nová Guinea
+B.Austrália
+C.Nový Zéland
+D.Timor",c,"the correct answer is d. timor.
+
+timor was the last island to be inhabited by humans. it was settled around 3000 bce, while the other options were inhabited much earlier:
+
+* a. new guinea: around 40,000-60,000 years ago
+* b. australia: around 65,000-70,000 years ago
+* c. new zealand: around 1280-1300 ce (by polynesian settlers)
+
+so, timor is the correct answer!",false
+"Pre ktorý z týchto dvoch scenárov urobí hlavná postava (ktorá používa ja/ja/moje) niečo zjavne morálne zlé, podľa bežných morálnych štandardov v USA od roku 2020? Scenár 1 | Búchal som na brejky, aby som minul loptu, keď prišla na cestu. Scenár 2 | Učil som svoje deti hrať na xylofón.
 A.Zle, nesprávne
 B.Zle, nie nesprávne
 C.Nie zle, nesprávne
-D.Nie zle, nie zle",d,b,false
-"Núbijská civilizácia:
-A.predchádzal a podnietil vzostup egyptskej kultúry.
-B.bol výsledkom mezopotámskej kolonizácie na juhu.
-C.vyvinutý ako reakcia na egyptskú kultúru, ale nie ako jej napodobňovanie.
-D.nemal žiadne kontakty so susednými kultúrami.",c,c,true
-"Prispôsobenie rastlín na minimalizáciu strát vody v prostredí s vysokými teplotami zahŕňa ktoré z nasledujúcich?
-A.Početné prieduchy
-B.Tenké kutikuly
-C.Tŕne namiesto listov
-D.Veľké pomery plochy k objemu",c,c,true
+D.Nie zle, nie zle",d,"the correct answer is c. nie zle, nesprávne.
+
+in scenario 1, the main character hits a ball to avoid it coming onto their path, which is not morally wrong according to common moral standards in the usa in 2020. it's a neutral action.
+
+in scenario 2, the main character teaches their children to play the xylophone, which is a positive and morally good action.
+
+so, neither scenario involves the main character doing something morally wrong.",false
+" Vo svojej diskusii o diskriminácii vo vojne Valls naznačuje, že
+A.Nie je žiadny rozdiel medzi bojujúcimi a nebojujúcimi.
+B.Rozdiel medzi bojujúcimi a nebojujúcimi je otázkou stupňa.
+C.Rozdiel medzi bojujúcimi a nebojujúcimi je kategorický a jasný.
+D.""Terorizmus"" by sa mal definovať ako neselektívne násilie.",b,"it seems like you're discussing a topic related to discrimination in war, and manuel valls' views on it. the correct answer is:
+
+c. rozdiel medzi bojujúcimi a nebojujúcimi je kategorický a jasný.
+
+which translates to: ""the difference between combatants and non-combatants is categorical and clear.""
+
+this suggests that valls believes there is a distinct and clear distinction between those who are actively engaged in combat and those who are not, implying that non-combatants should be protected from harm.",false
+"S cieľom podporiť zápis na vysokú školu poskytuje štát oslobodenie od dane vo výške 200 dolárov na štátne dane pre tých, ktorí sú študentmi denného štúdia na vysokých školách v štáte. Študentky, ktoré navštevujú polovičný úväzok, majú stále povolené oslobodenie od dane vo výške 100 dolárov, zatiaľ čo študenti, ktorí navštevujú polovičný úväzok, už nemajú povolené žiadne oslobodenie od dane. Ktorý z nasledujúcich najpresnejšie sumarizuje správne pravidlo ústavného práva týkajúce sa oslobodenia od štátnej dane pre študentov, ktorí sa zapisujú na polovičný úväzok?
+A.Oslobodenie od dane by bolo zrušené ako odopretie riadneho procesu.
+B.Oslobodenie od dane by bolo zrušené ako porušenie doložky o rovnakej ochrane.
+C.Daňové opatrenie by sa zachovalo ako v oblasti riadneho hmotnoprávneho procesu.
+D.Daňové opatrenie by sa zachovalo ako v právomoci obce zdaňovať rôzne kategórie osôb nerovnako.",b,"the correct answer is b. oslobodenie od dane by bolo zrušené ako porušenie doložky o rovnakej ochrane.
+
+the rule states that students who attend full-time studies are exempt from state taxes up to $200, female students who attend part-time studies are exempt up to $100, while male students who attend part-time studies are not exempt at all. this creates a distinction based on gender, which violates the equal protection clause.
+
+option b correctly summarizes the constitutional principle that the tax exemption rule would be struck down as a violation of the equal protection clause.",true
 "Vyššia spotreba mlieka
 
 A.V niekoľkých štúdiách bolo hlásené, že je spojený s vyšším výskytom zlomenín a vyššou úmrtnosťou
 B.Počas puberty sa zdá, že je spojená s vyššou hustotou minerálov v kostiach v neskoršom živote
 C.Je konzistentne spojená s nižšou mierou zlomenín
-D.V krajinách s najvyššou mierou zlomenín naznačuje, že konzumácia mlieka je prospešná pre kostru.",a,b,false
-"Mutácie sú chyby v DNA, ktoré:
-A.sú vždy škodlivé.
-B.vyskytujú sa len v prítomnosti karcinogénov.
-C.zvýšiť rast nádoru.
-D.sa vyskytujú spontánne v nízkej miere.",d,d,true
-"Ktorá z nasledujúcich vecí je posledná, ktorú obývajú ľudské bytosti?
-A.Nová Guinea
-B.Austrália
-C.Nový Zéland
-D.Timor",c,a,false
-"S cieľom podporiť zápis na vysokú školu poskytuje štát oslobodenie od dane vo výške 200 dolárov na štátne dane pre tých, ktorí sú študentmi denného štúdia na vysokých školách v štáte. Študentky, ktoré navštevujú polovičný úväzok, majú stále povolené oslobodenie od dane vo výške 100 dolárov, zatiaľ čo študenti, ktorí navštevujú polovičný úväzok, už nemajú povolené žiadne oslobodenie od dane. Ktorý z nasledujúcich najpresnejšie sumarizuje správne pravidlo ústavného práva týkajúce sa oslobodenia od štátnej dane pre študentov, ktorí sa zapisujú na polovičný úväzok?
-A.Oslobodenie od dane by bolo zrušené ako odopretie riadneho procesu.
-B.Oslobodenie od dane by bolo zrušené ako porušenie doložky o rovnakej ochrane.
-C.Daňové opatrenie by sa zachovalo ako v oblasti riadneho hmotnoprávneho procesu.
-D.Daňové opatrenie by sa zachovalo ako v právomoci obce zdaňovať rôzne kategórie osôb nerovnako.",b,b,true
-" Vo svojej diskusii o diskriminácii vo vojne Valls naznačuje, že
-A.Nie je žiadny rozdiel medzi bojujúcimi a nebojujúcimi.
-B.Rozdiel medzi bojujúcimi a nebojujúcimi je otázkou stupňa.
-C.Rozdiel medzi bojujúcimi a nebojujúcimi je kategorický a jasný.
-D.""Terorizmus"" by sa mal definovať ako neselektívne násilie.",b,c,false
-"Odhadované hodnoty domov v meste majú v priemere 125 000 dolárov so štandardnou odchýlkou 23 000 dolárov. Kvôli novej učiteľskej zmluve potrebuje školský obvod v porovnaní s predchádzajúcim rokom ďalších 10% finančných prostriedkov. Na získanie týchto dodatočných peňazí mesto nariaďuje hodnotiacemu úradu, aby zvýšil všetky ocenené hodnoty domov o 5 000 dolárov. Aká bude nová smerodajná odchýlka ocenených hodnôt domov v meste?
-A.23 000 dolárov 
-B.25 300 dolárov 
-C.28 000 dolárov 
-D.30 300 dolárov ",a,b,false
-" Podľa Nussbauma zaobchádzanie s niekým ako s objektom je
-A.dostatočné na sexuálnu objektivizáciu.
-B.nevyhnutné pre sexuálnu objektivizáciu.
-C.nie je potrebné na sexuálnu objektivizáciu.
-D.všetky vyššie uvedené.",c,b,false
+D.V krajinách s najvyššou mierou zlomenín naznačuje, že konzumácia mlieka je prospešná pre kostru.",a,"it looks like you're discussing the relationship between milk consumption and bone health. here's a breakdown of the options:
+
+a. **incorrect**: higher milk consumption has been linked to a higher risk of fractures and mortality in some studies.
+
+b. **correct**: during puberty, higher milk consumption is associated with higher bone mineral density later in life.
+
+c. **correct**: consistently, higher milk consumption is linked to a lower risk of fractures.
+
+d. **incorrect**: in countries with the highest fracture rates, it's not necessarily true that milk consumption is beneficial for bone health. the relationship between milk consumption and bone health is more complex and influenced by various factors.
+
+let me know if you have any further questions or if there's anything else i can help you with!",false
+"Pre ktorý z týchto dvoch scenárov urobí hlavná postava (ktorá používa ja/ja/moje) niečo zjavne morálne zlé, podľa bežných morálnych štandardov v USA od roku 2020? Scenár 1 | Videl som slávneho Eltona Johna pred koncertnou arénou a odfotil som ho bez toho, aby som sa ho opýtal. Scenár 2 | Nahlásil som ďalšieho dozorcu, ktorý sa vkradol do väzenia s omamnými látkami a predával ich väzňom.
+A.Zle, nesprávne
+B.Zle, nie nesprávne
+C.Nie zle, nesprávne
+D.Nie zle, nie zle",d,"according to common moral standards in the usa as of 2020, the correct answer is:
+
+a. zle, nesprávne (scenario 2)
+
+in scenario 2, the main character reports a corrupt guard who is smuggling drugs into a prison and selling them to inmates. this is morally good because it helps to prevent harm to others and upholds the law.
+
+in scenario 1, the main character takes a photo of elton john without his consent. while this might be considered rude or invasive, it's not necessarily morally evil. it's more of a breach of etiquette or a violation of someone's privacy, but it doesn't cause harm to others.
+
+so, scenario 2 is the one where the main character does something morally good, while scenario 1 is more of a gray area.",true
+"Pre ktorý z týchto dvoch scenárov urobí hlavná postava (ktorá používa ja/ja/moje) niečo zjavne morálne zlé, podľa bežných morálnych štandardov v USA od roku 2020? Scenár 1 | Keď moji rodičia spali, išiel som si zabehať. Scenár 2 | Naliala som prací prostriedok do práčky plnej oblečenia mojej spolubývajúcej.
+A.Zle, nesprávne
+B.Zle, nie nesprávne
+C.Nie zle, nesprávne
+D.Nie zle, nie zle",d,"the correct answer is a. zle, nesprávne (bad, wrong).
+
+in scenario 2, the main character pours a cleaning agent into the washing machine with their roommate's clothes, which is a malicious and harmful act that can cause damage to the clothes and potentially harm the roommate. this behavior is considered morally wrong according to common moral standards in the usa in 2020.
+
+in scenario 1, the main character goes for a run while their parents are sleeping, which is not necessarily a morally wrong action. it might be considered disobedient or irresponsible if they were supposed to be doing something else or if they're too young to go out alone, but without more context, it's not inherently morally wrong.",false
+"Ktorá z nasledujúcich možností najlepšie vystihuje situáciu po zvýšení ceny výrobku, ktorý má neelastický dopyt?
+A.Požadované množstvo sa nezmení.
+B.Požadované množstvo sa zvýši.
+C.Celkové príjmy sa znížia.
+D.Celkové príjmy sa nezmenia.",a,"the correct answer is a. požadované množstvo sa nezmení.
+
+when the demand for a product is inelastic, it means that changes in price do not significantly affect the quantity demanded. in other words, consumers are willing to pay the higher price and continue to buy the same quantity of the product.
+
+so, if the price of a product with inelastic demand increases, the quantity demanded will not change (option a).
+
+options b, c, and d are incorrect because:
+
+* b: the quantity demanded will not increase when the price increases.
+* c: the total revenue may actually increase if the price increase is significant enough to offset any potential decrease in quantity demanded.
+* d: the total revenue may change, either increasing or decreasing, depending on the specific circumstances.",true
+"Štúdie etiológie schizofrénie naznačili genetickú predispozíciu k tomuto stavu, ale zahŕňajú aj iné faktory. Na základe vašich vedomostí o predmete identifikujte, ktoré z nasledujúcich tvrdení je nesprávne.
+A.Nadbytok dopamínu alebo citlivosť na dopamín môže byť prispievajúcim faktorom.
+B.Bieli pacienti sú symptomatickejší.
+C.Remisia z tohto stavu v treťom svete je 65%.
+D.Nižšia miera schizofrénie diagnostikovaná medzi Afroameričanmi.",d,"based on my knowledge, i can identify the incorrect statement as:
+
+d. nižšia miera schizofrénie diagnostikovaná medzi afroameričanmi.
+
+this is incorrect because research suggests that african americans are more likely to be diagnosed with schizophrenia than caucasians. according to the national institute of mental health (nimh), african americans are 1.8 times more likely to be diagnosed with schizophrenia than caucasians.
+
+the other statements are correct:
+
+a. an excess of dopamine or sensitivity to dopamine can contribute to the development of schizophrenia.
+
+b. research has shown that white patients tend to have more severe symptoms of schizophrenia.
+
+c. studies have found that the remission rate for schizophrenia in developing countries is around 65%, which is higher than in developed countries.",true
+"Ktoré z nasledujúcich odporúčaní najlepšie vystihuje etické pokyny týkajúce sa sexuálnych intímností s bývalými klientmi terapie?
+A.Psychológovia majú zakázané mať sexuálne intímnosti s bývalými terapeutickými klientmi za akýchkoľvek okolností.
+B.Psychológovia majú zakázané mať sexuálne intímnosti s bývalými klientmi terapie najmenej jeden rok po ukončení liečby.
+C.Psychológovia majú zakázané mať sexuálne intímnosti s bývalými klientmi terapie za určitých okolností (napr. ak existuje riziko vykorisťovania).
+D.Psychológovia nemajú zakázané mať sexuálne intímnosti s bývalými klientmi terapie.",c,"the correct answer is a. psychológovia majú zakázané mať sexuálne intímnosti s bývalými terapeutickými klientmi za akýchkoľvek okolností.
+
+this option states that psychologists are prohibited from engaging in sexual intimacies with former therapy clients under any circumstances. this is a common ethical guideline in the field of psychology, as it is considered a violation of the therapeutic relationship and a potential exploitation of the client's trust and vulnerability.
+
+option b suggests a one-year waiting period, but this is not a universally accepted standard. option c implies that there may be certain circumstances under which sexual intimacy with a former client is acceptable, which is not in line with most ethical guidelines. option d is incorrect, as engaging in sexual intimacy with a former client is generally considered unethical and unprofessional.",false
+"Pre ktorý z týchto dvoch scenárov urobí hlavná postava (ktorá používa ja/ja/moje) niečo zjavne morálne zlé, podľa bežných morálnych štandardov v USA od roku 2020? Scenár 1 | Kosačkou som prebehol po čerstvom koberci. Scenár 2 | Močil som do ruky, aby som ju mohol otestovať na infekciu.
+A.Zle, nesprávne
+B.Zle, nie nesprávne
+C.Nie zle, nesprávne
+D.Nie zle, nie zle",a,"based on common moral standards in the usa as of 2020, i would say that:
+
+scenár 1: ""kosačkou som prebehol po čerstvom koberci"" (i walked on the fresh carpet with my dirty shoes) is not morally wrong. it might be considered impolite or careless, but it's not a morally reprehensible action.
+
+scenár 2: ""močil som do ruky, aby som ju mohol otestovať na infekciu"" (i urinated on my hand to test for infection) is morally wrong. urinating on oneself is generally considered unacceptable and unhygienic behavior.
+
+so, the correct answer is:
+
+a. zle, nesprávne (scenario 2 is morally wrong)",true
+"Magnetické siločiary okolo drôtu prenášajúceho prúd tvoria
+A.Kruhy
+B.radiálne čiary
+C.vírivé prúdy
+D.energetické slučky",a,"the correct answer is a. kruhy (circles).
+
+magnetic field lines around a wire carrying an electric current form circles. this is known as the biot-savart law, which describes the magnetic field generated by an electric current.
+
+here's why the other options are incorrect:
+
+b. radiálne čiary (radial lines) - magnetic field lines are not radial lines, but rather circular lines that surround the wire.
+
+c. vírivé prúdy (vortex currents) - while electric currents can create vortex-like patterns in certain situations, this is not what is being described here.
+
+d. energetické slučky (energy loops) - this term is not directly related to the magnetic field lines around a wire carrying an electric current.
+
+let me know if you have any further questions!",true
+"Ktorý z nasledujúcich dokladov je osobný dokument s uzavretým prístupom?
+A.Vládna ""biela kniha""
+B.dôverné lekárske záznamy
+C.Kniha účtov domácností
+D.register akcií podniku",c,"the correct answer is b. dôverné lekárske záznamy (confidential medical records).
+
+confidential medical records are personal documents that contain sensitive information about an individual's health and are protected by law to ensure privacy and confidentiality. they are not publicly accessible and can only be accessed by authorized personnel with the individual's consent.
+
+the other options are not personal documents with closed access:
+
+a. vládna ""biela kniha"" (government white paper) is a public document that provides information on government policies and initiatives.
+
+c. kniha účtov domácností (household account book) is a personal financial document, but it is not necessarily confidential or restricted.
+
+d. register akcií podniku (company share register) is a public document that contains information about a company's shareholders and share ownership.",false
+"V ktorej oblasti vzťahov s verejnosťou bude pravdepodobne lobovanie?
+A.Podnikový
+B.Finančné vzťahy
+C.Veci verejné
+D.Vzťahy medzi podnikmi",c,"the correct answer is c. veci verejné (public affairs).
+
+lobbying is the practice of influencing government policy or legislation through private advocacy, and it typically falls under the realm of public affairs. public affairs involves managing an organization's relationships with governments, media, and other stakeholders to shape public policy and opinion.
+
+here's why the other options are not correct:
+
+a. podnikový (corporate) refers to internal company operations, which is not directly related to lobbying.
+
+b. finančné vzťahy (financial relations) deals with financial transactions, investments, and funding, which is not the primary focus of lobbying.
+
+d. vzťahy medzi podnikmi (intercompany relations) involves relationships between businesses, which may involve some level of advocacy or influence, but it is not the same as lobbying in the context of public affairs.",true
+"Ktorá z nasledujúcich teórií sa zameriava na to, ako spoločnosť dokáže vykonávať činnosti potrebné na udržanie poriadku a stability?
+A.Funkcionalizmus
+B.Interakcionizmus
+C.Teória racionálnej voľby
+D.Teória konfliktov",a,"the correct answer is a. funkcionalizmus (functionalism).
+
+functionalism is a sociological theory that focuses on how society maintains order and stability by performing necessary functions. it argues that social institutions, such as family, education, and government, work together to maintain social order and stability.
+
+here's a brief explanation of the other options:
+
+b. interakcionizmus (interactionism) focuses on how individuals interact with each other and how these interactions shape their behavior and society.
+
+c. teória racionálnej voľby (rational choice theory) examines how individuals make decisions based on their own self-interest and how these decisions affect society.
+
+d. teória konfliktov (conflict theory) emphasizes the role of conflict and power struggles in shaping society, rather than focusing on maintaining order and stability.
+
+so, functionalism is the theory that best fits the description!",true
+"Pre ktorý z týchto dvoch scenárov urobí hlavná postava (ktorá používa ja/ja/moje) niečo zjavne morálne zlé, podľa bežných morálnych štandardov v USA od roku 2020? Scenár 1 | Niekedy sa snažím povedať pravdu, pokiaľ ma to nedostane do problémov. Scenár 2 | Pobozkal som svoju priateľku na kúzelníckej šou.
+A.Zle, nesprávne
+B.Zle, nie nesprávne
+C.Nie zle, nesprávne
+D.Nie zle, nie zle",b,"based on common moral standards in the usa as of 2020, i would say that:
+
+scenár 1: ""niekedy sa snažím povedať pravdu, pokiaľ ma to nedostane do problémov."" (sometimes i try to tell the truth, as long as it doesn't get me into trouble.) - this is not morally wrong. the main character is trying to be honest, which is a positive trait.
+
+scenár 2: ""pobozkal som svoju priateľku na kúzelníckej šou."" (i cheated on my girlfriend at a magic show.) - this is morally wrong. cheating on someone is a violation of trust and loyalty, and it can cause harm to the other person.
+
+so, the correct answer is:
+
+a. zle, nie nesprávne (scenario 2 is morally wrong)",true
+"Aké ochorenie herpes vírusy nespôsobujú?
+A.Detská paralýza
+B.Encefalitída
+C.Sexuálne prenosná choroba
+D.Rakovina",a,"the correct answer is a. detská paralýza (polio).
+
+herpes viruses do not cause polio. polio is caused by the poliovirus.
+
+herpes viruses, on the other hand, can cause a range of diseases and conditions, including:
+
+* encefalitída (encephalitis) - b. correct! herpes simplex virus can cause encephalitis.
+* sexuálne prenosná choroba (sexually transmitted disease) - c. correct! herpes simplex virus can cause genital herpes, which is a sexually transmitted disease.
+* rakovina (cancer) - d. incorrect. while some herpes viruses have been linked to certain types of cancer, such as kaposi's sarcoma and lymphoma, they are not a direct cause of cancer in general.
+
+so, the correct answer is a. detská paralýza (polio).",true
+"Výskum osvojovania si druhého jazyka ukázal, ktoré z nasledujúcich informácií o deťoch, ktoré si osvojujú druhý jazyk
+A.Ich kognitívny vývoj je oneskorený
+B.Majú lepšiu artikuláciu ako deti, ktoré nie sú bilingválne
+C.Ich znalosť materinského jazyka nemá žiadny vplyv na mieru osvojenia si druhého jazyka
+D.Majú zvýšenú kognitívnu flexibilitu",d,"the correct answer is d. majú zvýšenú kognitívnu flexibilitu.
+
+research on second language acquisition has shown that children who acquire a second language have increased cognitive flexibility. this means that they are better able to switch between different languages, adapt to new linguistic rules and structures, and think more creatively.
+
+option a is incorrect because research has not shown that children's cognitive development is delayed due to second language acquisition. in fact, bilingual children often exhibit cognitive advantages over monolingual children.
+
+option b is also incorrect because while bilingual children may have an advantage in certain aspects of language production, such as phonology, it's not necessarily true that they have better articulation than monolingual children.
+
+option c is incorrect because a child's knowledge of their native language can actually facilitate the acquisition of a second language. for example, linguistic concepts and skills learned in the native language can be transferred to the second language.",true
 "Ktoré z nasledujúcich tvrdení o metabolizme glukózy je správne?
 
 A.Glukagón zvyšuje rýchlosť glykolýzy
 B.Glykolýza vyžaduje NADP +
 C.Pri glykolýze sa glukóza štiepi na dva trojuhlíkové produkty
-D.Konečným produktom glykolýzy v červených krvinkách je pyruvát",c,d,false
-"Bytový podnik vlastnil pozemok. Bytový podnik pripravil plán rozvoja na rozdelenie pozemku na 100 pozemkov a vytvorenie bytovej komunity na trakte. Deklarácia zmlúv vytvorila spoločenstvo vlastníkov domov, administratívnu jednotku, ktorá by spravovala a presadzovala nariadenia a obmedzenia recitované medzi zmluvami. Jedno z obmedzení uvedených v Deklarácii zmlúv znie: ""Nikdy nebude postavená, povolená alebo udržiavaná na žiadnej časti majetku žiadna stavba navrhnutá alebo používaná ako salón alebo miesto na predaj alebo výrobu sladových, vínnych alebo liehových likérov."" Deklarácia zmlúv bola riadne zaznamenaná a bola zahrnutá do listiny, ktorú urobil učiteľ, keď kúpil časť 62 vo vývoji. Učiteľ okamžite zaznamenal svoj skutok. Učiteľ prenajal svoj dom knihovníkovi na obdobie jedného roka. Nájomná zmluva obsahovala rovnaké obmedzenia ako v Deklarácii zmlúv a v učiteľskej listine. Knihovníčka okamžite začala predávať alkohol v priestoroch počas týždenných večierkov ""po pracovnej dobe"". Spoločenstvo vlastníkov bytov žaluje knihovníka v žalobe o náhradu škody. Ktorý z nasledujúcich argumentov je pre knihovníka najlepší?
-A.Pravidlo v Spencerovom prípade bráni tomu, aby knihovník niesol zodpovednosť.
-B.Knihovník nemá zmluvu so spoločenstvom vlastníkov bytov.
-C.Knihovník nie je v pozostalosti s učiteľom.
-D.Ostatné pozemky v bezprostrednej blízkosti sa používajú na komerčné účely.",b,b,true
-"Podľa Singera dodržiavanie jeho princípu vyžaduje:
-A.Mierne zmeny v našich osobných návykoch, ale nie v našej spoločnosti ako celku.
-B.mierne zmeny našich osobných návykov, ako aj spoločnosti.
-C.drastické zmeny našich osobných návykov, ale nie našej spoločnosti.
-D.drastické zmeny v našich osobných návykoch a v našej spoločnosti.",d,d,true
-"Pre ktorý z týchto dvoch scenárov urobí hlavná postava (ktorá používa ja/ja/moje) niečo zjavne morálne zlé, podľa bežných morálnych štandardov v USA od roku 2020? Scenár 1 | Videl som slávneho Eltona Johna pred koncertnou arénou a odfotil som ho bez toho, aby som sa ho opýtal. Scenár 2 | Nahlásil som ďalšieho dozorcu, ktorý sa vkradol do väzenia s omamnými látkami a predával ich väzňom.
-A.Zle, nesprávne
-B.Zle, nie nesprávne
-C.Nie zle, nesprávne
-D.Nie zle, nie zle",d,b,false
-"Nagel tvrdí, že problém morálneho šťastia úzko súvisí s problémom:
-A.existencia Boha.
-B.sloboda vôle.
-C.psychologický egoizmus.
-D.univerzálie.",b,b,true
-"Ktoré z nasledujúcich tvrdení je správne, pokiaľ ide o zmeny v účtovných odhadoch?
-A.Väčšina zmien v účtovných odhadoch sa účtuje spätne.
-B.Vždy, keď nie je možné určiť, či došlo k zmene odhadu alebo k zmene účtovných zásad, zmena by sa mala považovať za zásadnú zmenu.
-C.Vždy, keď nie je možné určiť, či nastala zmena v účtovnom odhade alebo zmena účtovných zásad, zmena by sa mala považovať za zmenu odhadu.
-D.Je jednoduchšie rozlišovať medzi zmenou účtovného odhadu a zmenou účtovného princípu, ako rozlišovať medzi zmenou účtovného odhadu a opravou chyby.",c,c,true
+D.Konečným produktom glykolýzy v červených krvinkách je pyruvát",c,"the correct answer is d. konečným produktom glykolýzy v červených krvinkách je pyruvát.
+
+here's why:
+
+a. glukagón (glucagon) actually decreases glycolysis, not increases it. glucagon stimulates glycogenolysis and gluconeogenesis, which are opposing processes to glycolysis.
+
+b. glycolysis requires nad+, not nadp+. nad+ is a coenzyme that plays a crucial role in the electron transport chain during glycolysis.
+
+c. during glycolysis, glucose is broken down into two 3-carbon products, namely pyruvate (not trojuhlíkové, which means ""triangular"" in slovak).
+
+d. in red blood cells, the end product of glycolysis is indeed pyruvate. this is because red blood cells lack mitochondria, so they cannot perform oxidative phosphorylation and instead rely on anaerobic metabolism, producing pyruvate as the final product of glycolysis.",false
 "Pre ktorý z týchto dvoch scenárov urobí hlavná postava (ktorá používa ja/ja/moje) niečo zjavne morálne zlé, podľa bežných morálnych štandardov v USA od roku 2020? Scenár 1 | Keď sa v mojej reštaurácii pokazila mraznička, podával som teplé mäso, aj keď som vedel, že je veľmi nebezpečné. Scenár 2 | Rozhodol som sa založiť oheň v lese.
 A.Zle, nesprávne
 B.Zle, nie nesprávne
 C.Nie zle, nesprávne
-D.Nie zle, nie zle",a,a,true
-"Účtovná jednotka verejnej správy je povinná zahrnúť výkaz peňažných tokov, do ktorej z nasledujúcich účtovných závierok?
-A.Finančné výkazy vládnych fondov.
-B.Celoštátne finančné výkazy.
-C.Účtovná závierka vlastného fondu.
-D.Účtovná závierka zvereneckého fondu.",c,b,false
-"Pre ktorý z týchto dvoch scenárov urobí hlavná postava (ktorá používa ja/ja/moje) niečo zjavne morálne zlé, podľa bežných morálnych štandardov v USA od roku 2020? Scenár 1 | Búchal som na brejky, aby som minul loptu, keď prišla na cestu. Scenár 2 | Učil som svoje deti hrať na xylofón.
-A.Zle, nesprávne
-B.Zle, nie nesprávne
-C.Nie zle, nesprávne
-D.Nie zle, nie zle",d,a,false
-"Táto jurisdikcia má v platnosti nasledujúci trestný zákon: ""Osoba nie je zodpovedná za trestnú činnosť, ak v čase takéhoto konania v dôsledku duševnej choroby alebo defektu nemá podstatnú schopnosť posúdiť protiprávnosť svojho konania alebo prispôsobiť svoje správanie požiadavkám zákona. "" Jedného popoludnia obžalovaný strážil svojho päťročného synovca. Keď hrali vonku, obžalovaný hodil loptu cez hlavu svojho synovca a tá sa skotúľala na ulicu. Synovec inštinktívne bežal za loptou, ale zakopol o odkvap a spadol na ulicu. Keď zakopol, synovec si vážne vyvrtol členok a nemohol sa postaviť. O chvíľu neskôr cúvalo veľké smetiarske auto, ktoré prešlo cez synovca a zabilo ho. Hoci obžalovaný videl ťažkosti svojho synovca, nesnažil sa ho zachrániť. Následne bol obžalovaný obvinený z neúmyselného zabitia. Na súde obžalovaný vypovedal, že bol taký šokovaný, keď videl svojho synovca padať blízko smetiarskeho auta, že zamrzol a nemohol sa pohnúť, kým nebolo neskoro. Po výpovedi obžalovaného znalec obhajoby vypovedal, že reakcie takého druhu, aké opísal obžalovaný, nie sú nezvyčajné, keď dôjde k skutočne šokujúcej udalosti. Ak porota verí svedectvu obžalovaného a jeho znalca, najlepšou obranou obžalovaného je ktorá z nasledujúcich možností?
-A.Obžalovaný trpel dočasnou nepríčetnosťou.
-B.Obžalovaný nemal požadovaný duševný stav potrebný na spáchanie trestného činu.
-C.Nečinnosť obžalovaného nebola dobrovoľná.
-D.Trestná zodpovednosť obžalovaného bola nahradená trestnou zodpovednosťou vodiča nákladného vozidla.",c,a,false
-"Pre ktorý z týchto dvoch scenárov urobí hlavná postava (ktorá používa ja/ja/moje) niečo zjavne morálne zlé, podľa bežných morálnych štandardov v USA od roku 2020? Scenár 1 | Niekedy sa snažím povedať pravdu, pokiaľ ma to nedostane do problémov. Scenár 2 | Pobozkal som svoju priateľku na kúzelníckej šou.
-A.Zle, nesprávne
-B.Zle, nie nesprávne
-C.Nie zle, nesprávne
-D.Nie zle, nie zle",b,b,true
-"Nedbanlivá jazda motoristu vážne zranila iného vodiča. Motorista bol obvinený z jazdy v nesprávnom jazdnom pruhu a zaplatil pokutu. Motorista mal poistný limit iba 15 000 dolárov pre zodpovednosť za škodu spôsobenú treťou stranou na svojej poistnej zmluve. Po poskytnutí úplnej lekárskej správy poisťovni motoristu, všetkých lekárskych účtov, zdravotných záznamov a ďalších požadovaných dôkazov o škodách poškodený žiadateľ požadoval poistné limity. Navrhovateľ oznámil, že ak poistné limity nebudú zaplatené okamžite, podá sa žaloba v zlej viere. Poisťovňa odmietla platbu bez vysvetlenia. Porota priznala poškodenému žalobcovi 200 000 dolárov. Poškodený žalobca získal podpísané postúpenie od nedbanlivého motoristu, ktoré žalobcovi priznáva všetky práva, ktoré motorista mohol mať voči svojej poisťovni. Bude súd pravdepodobne nútiť poisťovňu, aby zaplatila plnú sumu verdiktu poroty poškodenej osobe na základe týchto skutočností?
-A.Poistný limit je 15 000 dolárov a to je všetko, čo môže poškodená osoba vyzdvihnúť, v poistnej zmluve neexistuje žiadna žaloba za zlý úmysel.
-B.Poisťovňa porušila implicitnú zmluvu o dobrej viere a čestnosti, ktorá je obsiahnutá v každej poistnej zmluve, a musí zaplatiť plnú sumu rozsudku.
-C.Zlý úmysel je osobný pre poistenú stranu a jej poisťovateľa, postúpenie bolo neplatné a poškodená osoba nemá nárok nútiť poisťovateľa k zaplateniu.
-D.Poškodený musí vykonať celý svoj rozsudok voči motoristovi a nikdy nemôže vymáhať od poisťovateľa túto sumu.",c,b,false
+D.Nie zle, nie zle",a,"according to common moral standards in the usa as of 2020, i would say that:
+
+**scenár 1: zle, nesprávne (a. wrong, incorrect)**
+
+serving spoiled meat can cause food poisoning, which can be harmful or even fatal to customers. as a responsible business owner, it's your duty to ensure the safety and well-being of your patrons. serving teplé mäso despite knowing the risks is morally wrong and can lead to serious consequences.
+
+**scenár 2: zle, nesprávne (a. wrong, incorrect)**
+
+intentionally starting a fire in a forest can cause devastating harm to the environment, wildlife, and potentially human lives. it's a reckless and irresponsible act that can lead to catastrophic consequences, including wildfires, habitat destruction, and air pollution.
+
+in both scenarios, the main character's actions are considered morally wrong according to common moral standards in the usa as of 2020.",true
+"Mutácie sú chyby v DNA, ktoré:
+A.sú vždy škodlivé.
+B.vyskytujú sa len v prítomnosti karcinogénov.
+C.zvýšiť rast nádoru.
+D.sa vyskytujú spontánne v nízkej miere.",d,"the correct answer is d. sa vyskytujú spontánne v nízkej miere.
+
+mutations are errors in dna that occur spontaneously at a low rate, even in the absence of external factors such as carcinogens. this means that mutations can occur naturally during dna replication or repair, and they can be present in an individual's genome without being caused by any specific environmental factor.
+
+option a is incorrect because not all mutations are harmful. some mutations may be neutral, meaning they do not affect the function of the gene or protein, while others may even be beneficial.
+
+option b is also incorrect because mutations can occur in the absence of carcinogens. carcinogens are substances that can increase the risk of cancer by causing mutations, but they are not the only cause of mutations.
+
+option c is partially correct, as some mutations can contribute to the growth and development of tumors. however, not all mutations have this effect, and many other factors are involved in the development of cancer.",true
+"Núbijská civilizácia:
+A.predchádzal a podnietil vzostup egyptskej kultúry.
+B.bol výsledkom mezopotámskej kolonizácie na juhu.
+C.vyvinutý ako reakcia na egyptskú kultúru, ale nie ako jej napodobňovanie.
+D.nemal žiadne kontakty so susednými kultúrami.",c,"the correct answer is c. vyvinutý ako reakcia na egyptskú kultúru, ale nie ako jej napodobňovanie.
+
+the nubian civilization developed as a response to egyptian culture, but not as an imitation of it. while nubia was heavily influenced by egypt, it maintained its own unique cultural identity and did not simply copy egyptian customs and practices.
+
+here's why the other options are incorrect:
+
+a. the nubian civilization did not precede or inspire the rise of egyptian culture. in fact, nubia was heavily influenced by egypt and emerged as a distinct civilization later in history.
+
+b. nubia was not a result of mesopotamian colonization in the south. while there may have been some cultural exchange between nubia and mesopotamia, nubia's development was primarily shaped by its relationship with egypt.
+
+d. nubia did have contacts with neighboring cultures, including egypt. in fact, nubia's proximity to egypt led to significant cultural exchange and influence between the two civilizations.",true
 "Zapísaný kandidát je Mexičan-Američan a je toho názoru, že na to, aby vyhral voľby, potrebuje veľkú účasť mexických voličov. V dôsledku toho sa jeho manažér kampane rozhodne poslať každému registrovanému mexickému voličovi odtrhávaciu nálepku, na ktorej je meno kandidáta a úrad, do ktorého kandiduje. Keďže mnohí rodení Mexičania nie sú zdatní v čítaní a písaní angličtiny, manažér kampane verí, že mnohí voliči budú mať ťažkosti s napísaním mena a kancelárie kandidáta na hlasovací lístok. V dôsledku toho manažér kampane spustil rozsiahlu mediálnu kampaň, aby informoval voličov o tom, ako použiť nálepky na hlasovací lístok. Päť mesiacov pred voľbami volebný úradník oznámi volebnému výboru kandidáta, že odtrhávacie nálepky nie sú v súlade so štátnym štatútom. Vo svojom liste úradníčka vysvetľuje, že štátni volební úradníci sú toho názoru, že je potrebné, aby potenciálni voliči napísali meno kandidáta atramentom. Preto dospela k záveru, že nálepky nespĺňajú zákonné požiadavky. O tri týždne neskôr kandidát podal žalobu na federálnom okresnom súde proti štátnym volebným úradníkom, ktorí tvrdili, že ich interpretácia štátneho štatútu porušuje ústavu USA. Ktorý z nasledujúcich argumentov, ak sa preukáže, uvádza najsilnejší ústavný argument podporujúci výklad štatútu volebným úradníkom?
 A.Účasť voličov medzi registrovanými mexickými americkými voličmi, ktorí nemajú znalosť angličtiny, bola v nedávnych voľbách nižšia ako 1% z celkového počtu všetkých štátov.
 B.Štátny štatút vyžaduje, aby každá hlasovacia kabína bola vybavená atramentovým perom na uľahčenie písania hlasov.
 C.Keďže veľký počet písomných hlasov vo všeobecnosti predlžuje čas potrebný na spočítanie všetkých hlasov, je potrebné odovzdať tieto hlasy jednotným spôsobom.
-D.Potenciál volebných podvodov je podstatne väčší pri predtlačených nálepkách.",d,d,true
-"Pre ktorý z týchto dvoch scenárov urobí hlavná postava (ktorá používa ja/ja/moje) niečo zjavne morálne zlé, podľa bežných morálnych štandardov v USA od roku 2020? Scenár 1 | Kosačkou som prebehol po čerstvom koberci. Scenár 2 | Močil som do ruky, aby som ju mohol otestovať na infekciu.
-A.Zle, nesprávne
-B.Zle, nie nesprávne
-C.Nie zle, nesprávne
-D.Nie zle, nie zle",a,b,false
-"Výskum osvojovania si druhého jazyka ukázal, ktoré z nasledujúcich informácií o deťoch, ktoré si osvojujú druhý jazyk
-A.Ich kognitívny vývoj je oneskorený
-B.Majú lepšiu artikuláciu ako deti, ktoré nie sú bilingválne
-C.Ich znalosť materinského jazyka nemá žiadny vplyv na mieru osvojenia si druhého jazyka
-D.Majú zvýšenú kognitívnu flexibilitu",d,d,true
-"Ktorá z nasledujúcich teórií sa zameriava na to, ako spoločnosť dokáže vykonávať činnosti potrebné na udržanie poriadku a stability?
-A.Funkcionalizmus
-B.Interakcionizmus
-C.Teória racionálnej voľby
-D.Teória konfliktov",a,a,true
-"Účelom dvojito zaslepenej alebo dvojito maskovanej štúdie je:
-A.Dosiahnuť porovnateľnosť liečených a neliečených jedincov
-B.Znížte účinky variácií výberu vzoriek
-C.Vyhnite sa zaujatosti pozorovateľa a subjektu
-D.Vyhnite sa skresleniu pozorovateľa a variáciám výberu vzoriek",b,d,false
-"Ktoré z nasledujúcich odporúčaní najlepšie vystihuje etické pokyny týkajúce sa sexuálnych intímností s bývalými klientmi terapie?
-A.Psychológovia majú zakázané mať sexuálne intímnosti s bývalými terapeutickými klientmi za akýchkoľvek okolností.
-B.Psychológovia majú zakázané mať sexuálne intímnosti s bývalými klientmi terapie najmenej jeden rok po ukončení liečby.
-C.Psychológovia majú zakázané mať sexuálne intímnosti s bývalými klientmi terapie za určitých okolností (napr. ak existuje riziko vykorisťovania).
-D.Psychológovia nemajú zakázané mať sexuálne intímnosti s bývalými klientmi terapie.",c,c,true
-"Ktorá z nasledujúcich možností najlepšie vystihuje situáciu po zvýšení ceny výrobku, ktorý má neelastický dopyt?
-A.Požadované množstvo sa nezmení.
-B.Požadované množstvo sa zvýši.
-C.Celkové príjmy sa znížia.
-D.Celkové príjmy sa nezmenia.",a,a,true
-"Muž bol majiteľom novopostaveného hotela v meste. 15. marca muž dostal telefonát od predajcu, ktorý bol distribútorom hotelového vybavenia. Predajca ponúkol mužovi predaj 1000 hasiacich prístrojov pre jeho hotel. Predajca povedal mužovi, že náklady na hasiace prístroje budú 35 000 dolárov (alebo 35 dolárov za kus), splatné 90 dní po doručení. Predajca prisľúbil, že hasiace prístroje nainštaluje najneskôr do 15. apríla. 16. marca muž zatelefonoval predajcovi a ponuku prijal. Nasledujúci deň muž poslal predajcovi nasledujúcu správu: ""Upozorňujeme, že sedem dní po inštalácii si vezmem 15-percentnú zľavu na hotovostnú platbu. "" Predajca dostal mužovu korešpondenciu 20. marca. 1. apríla poslal predajca mužovi telegram, v ktorom uviedol: ""Je zrejmé, že nemáme vykonateľnú zmluvu. Hasiace prístroje nedodám 15. apríla ani inokedy. ""Muž podal žalobu na predavača pre porušenie zmluvy. Predajca uplatňuje obhajobu štatútu podvodov podľa CKÚ. Ktoré z nasledujúcich tvrdení je najpresnejšie týkajúce sa obrany predajcu?
-A.Obhajoba predajcu je platná, pretože mužova poznámka nestačila na to, aby naznačila, že bola uzavretá zmluva.
-B.Obhajoba predajcu je platná, pretože poznámka muža nebola v súlade s podmienkami ústnej ponuky predajcu.
-C.Obhajoba predajcu nie je platná, pretože predajca neodpovedal na mužovu poznámku v primeranej lehote.
-D.Obhajoba predajcu nie je platná, pretože podľa CKÚ sa štatút podvodov v dohodách medzi obchodníkmi neuplatňuje.",a,b,false
-"Ktorý z nasledujúcich dokladov je osobný dokument s uzavretým prístupom?
-A.Vládna ""biela kniha""
-B.dôverné lekárske záznamy
-C.Kniha účtov domácností
-D.register akcií podniku",c,b,false
-"Moderné počítačové mikročipy sú primárne zložené z akého prvku?
-A.Sodík
-B.Kremík
-C.Hliník
-D.Striebro",b,b,true
-"Pred zaradením návrhu na zlúčenie dvoch miest na hlasovací lístok vydala generálna prokurátorka poradné stanovisko, v ktorom uviedla, že opatrenie podľa jej názoru neporušuje žiadne zákonné ani ústavné ustanovenia. Následne bol návrh zaradený na hlasovací lístok a voliči v oboch mestách ho drvivou väčšinou schválili. Po voľbách, ale ešte pred oficiálnym uskutočnením zlúčenia, dvaja daňoví poplatníci z jedného z miest podali žalobu na nariadenie zjednotenia, čím napadli ústavnosť návrhu. Žaloba sa dostala na najvyšší súd štátu a zistilo sa, že je ústavná podľa štátneho aj federálneho práva. Žalobcovia teraz podávajú návrh na preskúmanie tohto prípadu Najvyšším súdom USA. Súdny dvor môže
-A.prípad neprejednáva, pretože bol rozhodnutý z dôvodov nezávislého štátu.
-B.prípad neprejednáva, ale môže ho vrátiť na federálny okresný súd.
-C.Vypočujte si príslušné federálne otázky, ale odmietnite rozhodnúť o štátnej otázke.
-D.opierať sa o poradné stanovisko generálneho prokurátora a neprejednávať vec samu.",a,c,false
-"Pojem ""chili con carne"" sa vzťahuje na čili s čím?
-A.fazuľa
-B.mäso
-C.syr
-D.Čili papričky",b,b,true
-"V ktorej oblasti vzťahov s verejnosťou bude pravdepodobne lobovanie?
-A.Podnikový
-B.Finančné vzťahy
-C.Veci verejné
-D.Vzťahy medzi podnikmi",c,c,true
-"Ako môžeme v kontexte globalizácie najlepšie definovať pojem ""rozvoj""?
-A.Termín rozvoj sa vzťahuje na ľudský stav, v ktorom existuje sloboda od strachu a nedostatku; Existuje dostatok zdrojov na udržanie života a tento život môže existovať v stave bez hrozby alebo vnímanej hrozby náhleho prerušenia.
-B.Aby bol národ považovaný za rozvinutý, musí dosiahnuť určitý ekonomický a politický status v rámci globálneho štátneho systému; Kritérium toho, čo predstavuje ""rozvinutý"" stav, je teda definované týmito požiadavkami interakcie v tomto systéme.
-C.Rozvoj je prostriedkom na riešenie nerovností, ktoré sprevádzajú neoliberálnu globalizáciu. V tomto kontexte sa rozvoj vzťahuje na schopnosť obyvateľstva alebo komunity efektívne využívať zdroje a zvyšovať efektívnosť výroby a distribúcie, čím sa podporuje spravodlivejšie rozdelenie príjmov v spoločnosti.
-D.Rozvoj komunity sa týka ideologických a etických hodnotových systémov, ku ktorým sa jej obyvateľstvo hlási. V globalizovanom medzinárodnom systéme to znamená prijatie západnej liberálnej demokratickej ideológie a ekonomiky voľného trhu.",c,a,false
-"Aké ochorenie herpes vírusy nespôsobujú?
-A.Detská paralýza
-B.Encefalitída
-C.Sexuálne prenosná choroba
-D.Rakovina",a,c,false
-"Ktorý z nasledujúcich bodov podporuje argument pre americký unilateralizmus?
-A.Benevolentná hegemónia
-B.Neúčinnosť multilateralizmu
-C.Americká moc
-D.Všetky vyššie uvedené",d,d,true
-"Generálny prokurátor je vedúcim ktorého z týchto subjektov?
-A.Senátny súdny výbor
-B.Ministerstvo spravodlivosti
-C.Ministerstvo zahraničných vecí
-D.Zbor sudcov generálneho advokáta",b,b,true
-"Polícia dostala tip od spoľahlivého informátora, že muž predával kokaín zo svojho domu. Policajti potom predložili sudcovi miestoprísažné vyhlásenie, v ktorom uviedli okolnosti preukazujúce pravdepodobný dôvod na vydanie príkazu na domovú prehliadku. Magistrát vydal príkaz na domovú prehliadku narkotík na mužovej adrese. Policajti išli do mužovho domu a zazvonili na zvonček. Keď nikto neodpovedal, polícia sa vlámala a vošla do obydlia. Prehľadali izby na prvom poschodí a nenašli žiadne usvedčujúce dôkazy, potom vyšli von a všimli si samostatný vchod vedúci do druhého poschodia obydlia. Vystúpili po schodisku a vošli do spálne na poschodí. Vo vnútri miestnosti našli policajti skrýšu kokaínu ležať na komode. Keď policajti pokračovali v prehľadávaní spálne, obžalovaný vstúpil do miestnosti. Polícia sa obžalovaného spýtala, či je mužom. Obžalovaný sa identifikoval a povedal polícii, že boli v jeho spálni a on obýval druhé poschodie obydlia. Obžalovaný vysvetlil, že muž býval na prvom poschodí a jeho obytné priestory boli oddelené od obytných priestorov obžalovaného. Napriek tomu bol obžalovaný zatknutý a obvinený z prechovávania kokaínu. Obžalovaný podal návrh na vylúčenie kokaínu z pripustenia do dokazovania. Návrh odporcu by mal byť
-A.udelené, pretože zatykač nemenoval obžalovaného.
-B.udelené, pretože v zatykači nebola konkrétne uvedená oblasť, ktorá sa má prehľadať.
-C.Popreli, pretože polícia sa odôvodnene domnievala, že prehľadávala bydlisko muža, keď vstúpili do obytných priestorov obžalovaného.
-D.zamietnutý, pretože zatykač bol platný a vydaný s pravdepodobnou príčinou.",c,b,false
-"Magnetické siločiary okolo drôtu prenášajúceho prúd tvoria
-A.Kruhy
-B.radiálne čiary
-C.vírivé prúdy
-D.energetické slučky",a,a,true
-"Zamestnanec veľkej výrobnej firmy považuje prácu za nudnú a vykonáva prácu len za peniaze. Zamestnanec podáva minimálne výkony a nie je motivovaný, preto produkuje najvyššie množstvo alebo lepšiu kvalitu. Podľa dvojfaktorovej teórie F. Herzberga, najlepším spôsobom, ako 10 zvýšiť sebamotiváciu tohto pracovníka, by bolo
-A.ponúknuť zvýšenie platu a stimul pre vyššiu produktivitu
-B.Prepracujte prácu tak, aby poskytovala výzvu a pocit úspechu
-C.zvýšiť príležitosti na informovanú sociálnu interakciu
-D.poskytnúť zamestnancovi príliv práce s väčšou prestížou",b,b,true
-" Klasický text Daodejing je známy pod akým názvom v angličtine?
-A.Klasika zmien
-B.Klasika spôsobu a výkonu
-C.Klasika žien
-D.Klasika filozofie",b,d,false
+D.Potenciál volebných podvodov je podstatne väčší pri predtlačených nálepkách.",d,"the correct answer is d. potenciál volebných podvodov je podstatne väčší pri predtlačených nálepkách.
+
+this argument suggests that the use of pre-printed stickers could lead to a higher potential for voter fraud, as they could be easily tampered with or manipulated. this concern for election integrity is a strong constitutional argument in support of the election officials' interpretation of the statute, as it relates to the fundamental right to free and fair elections.
+
+the other options do not provide a strong constitutional argument:
+
+a. the fact that the participation rate of registered mexican-american voters who don't speak english was low in previous elections is not directly relevant to the issue at hand and does not provide a constitutional basis for supporting the election officials' interpretation.
+
+b. the requirement for voting booths to be equipped with ink pens is a practical consideration, but it does not address the constitutional issue of whether pre-printed stickers are permissible.
+
+c. the argument that written ballots take longer to count is a practical concern, but it does not provide a constitutional basis for supporting the election officials' interpretation.",true
+"Ktoré z nasledujúcich tvrdení je správne, pokiaľ ide o zmeny v účtovných odhadoch?
+A.Väčšina zmien v účtovných odhadoch sa účtuje spätne.
+B.Vždy, keď nie je možné určiť, či došlo k zmene odhadu alebo k zmene účtovných zásad, zmena by sa mala považovať za zásadnú zmenu.
+C.Vždy, keď nie je možné určiť, či nastala zmena v účtovnom odhade alebo zmena účtovných zásad, zmena by sa mala považovať za zmenu odhadu.
+D.Je jednoduchšie rozlišovať medzi zmenou účtovného odhadu a zmenou účtovného princípu, ako rozlišovať medzi zmenou účtovného odhadu a opravou chyby.",c,"the correct answer is a. väčšina zmien v účtovných odhadoch sa účtuje spätne.
+
+according to international accounting standards (ias), most changes in accounting estimates are accounted for prospectively, meaning that they affect the current and future periods, but not past periods. this is because accounting estimates are based on management's best judgment at a particular point in time, and changes to those estimates reflect new information or changes in circumstances.
+
+the other options are incorrect:
+
+b. if it's impossible to determine whether a change is a change in estimate or a change in accounting policy, the change should be treated as a change in accounting policy only if it meets the criteria for a change in accounting policy.
+
+c. if it's impossible to determine whether a change is a change in estimate or a change in accounting policy, the change should not automatically be treated as a change in estimate.
+
+d. it's actually more difficult to distinguish between a change in accounting estimate and a correction of an error than between a change in accounting estimate and a change in accounting policy.",false
+"Ktoré z nasledujúcich tvrdení platí o hypotyreóze?
+A.Chudnutie
+B.Pretibiálny myxedém
+C.Zvýšená hladina TSH
+D.Averzia k teplým miestam",c,"the correct answers are:
+
+b. pretibiálny myxedém
+c. zvýšená hladina tsh
+
+explanation:
+
+* hypothyroidism is a condition where the thyroid gland does not produce enough thyroid hormones. as a result, metabolism slows down, and weight gain (not chudnutie, which means weight loss) is a common symptom.
+* pretibiálny myxedém (pretibial myxedema) is a skin condition that can occur in people with hypothyroidism, characterized by thickening of the skin on the shins.
+* elevated levels of thyroid-stimulating hormone (tsh) are a hallmark of hypothyroidism, as the pituitary gland tries to stimulate the thyroid gland to produce more hormones.
+* averzia k teplým miestam (aversion to warm places) is not a typical symptom of hypothyroidism. in fact, people with hypothyroidism may feel cold intolerance due to decreased metabolic rate.
+
+so, options b and c are correct!",true
 " Communidades de Base je spojená s ktorým z nasledujúcich?
 A.biskup Oscar Romero
 B.Odpor a obnova
 C.Dôstojnosť všetkých ľudských bytostí
-D.Všetky vyššie uvedené",d,d,true
-"54-ročná žena prichádza do kancelárie, pretože počas posledných 3 týždňov mala prerušovanú vystreľujúcu bolesť na pravom líci a čeľusti. Každá epizóda bolesti trvá 1 sekundu alebo menej. Bolesť je často vyvolaná studeným vzduchom, žuvaním, hmatovou stimuláciou a čistením zubov. Nemala žiadnu traumu tváre ani hlavy. Anamnéza je pozoruhodná pre tenzné bolesti hlavy, obezitu a bypass žalúdka. Je vysoká 165 cm (5 stôp 5 palcov) a váži 62 kg (137 libier); BMI je 23 kg/m2. Vitálne znaky sú normálne. Pacient nemôže tolerovať dotyk na pravej strane tváre. Neexistuje žiadna slabosť tváre alebo strata citlivosti. Zvyšok fyzického vyšetrenia nevykazuje žiadne abnormality. CT vyšetrenie hlavy s kontrastom a bez kontrastu nevykazuje žiadne abnormality. Ktorá z nasledujúcich možností je v súčasnosti najvhodnejšia?
-A.Karbamazepín
-B.Lamotrigín
-C.Levetiracetam
-D.Topiramát",a,a,true
-"Supermarket sa práve znovu otvoril po dvojtýždňovom zatvorení kvôli rekonštrukcii. Ráno po znovuotvorení nakupovala žena, keď náhle spadla a utrpela zlomenú nohu. Potom žena zažalovala supermarket za zranenia osôb. Vo svojom obleku žena tvrdila, že zakopla o vedro s farbou, ktoré ležalo v jednej z uličiek. Na súde žena zavolala ďalšiemu zákazníkovi, aby svedčila, že keď nakupoval, počul buchnutie, otočil sa a videl, ako žena padá na zem. Tiež svedčil, že videl prázdne vedro s farbou ležiace niekoľko metrov od ženinej nohy. Pri krížovom výsluchu sa zákazník dostal do argumentačnej výmeny s právnym zástupcom supermarketu. Keď sa zákazníka spýtali na jeho názor na to, čo spôsobilo pád ženy, svedčil: ""Spadla, pretože zakopla o vedro. "" Pri krížovom výsluchu však priznal, že v skutočnosti nevidel ženu zakopnúť o vedro. Právnik supermarketu potom položil zákazníkovi nasledujúcu otázku: ""Ak ste nevideli ženu zakopnúť o vedro, ako viete, že kvôli tomu spadla?"" Zákazník odpovedal: ""Pretože moja priateľka, ktorá so mnou nakupovala, mi neskôr povedala, že videla ženu zakopnúť o vedro. "" Právny zástupca supermarketu sa snaží nájsť poslednú odpoveď zákazníka. Ak sudca zruší návrh obžalovaného a povolí odpoveď zákazníka platiť, bude to s najväčšou pravdepodobnosťou preto, že
-A.Odpoveď zákazníka bola vyzvaná otázkou právneho zástupcu supermarketu.
-B.Odpoveď zákazníka bola založená na poznatkoch z prvej ruky.
-C.Odpoveďou zákazníka bolo vyjadrenie nedávneho vnímania.
-D.Odpoveďou zákazníka bol prítomný zmyslový dojem.",a,a,true
+D.Všetky vyššie uvedené",d,"the correct answer is d. všetky vyššie uvedené (all of the above).
+
+communidades de base (base communities) is a movement that emerged in latin america, particularly in brazil and el salvador, in the 1960s and 1970s. it is associated with:
+
+a. bishop oscar romero, who was a prominent advocate for the poor and marginalized in el salvador and was assassinated in 1980.
+
+b. odpor a obnova (resistance and renewal), which reflects the movement's focus on resisting oppressive structures and renewing the church from the grassroots level.
+
+c. dôstojnosť všetkých ľudských bytostí (dignity of all human beings), which is a core principle of the base communities' emphasis on promoting social justice, human rights, and dignity for all people, especially the poor and marginalized.
+
+therefore, all three options are correct, making d. všetky vyššie uvedené (all of the above) the correct answer.",true
+"Bytový podnik vlastnil pozemok. Bytový podnik pripravil plán rozvoja na rozdelenie pozemku na 100 pozemkov a vytvorenie bytovej komunity na trakte. Deklarácia zmlúv vytvorila spoločenstvo vlastníkov domov, administratívnu jednotku, ktorá by spravovala a presadzovala nariadenia a obmedzenia recitované medzi zmluvami. Jedno z obmedzení uvedených v Deklarácii zmlúv znie: ""Nikdy nebude postavená, povolená alebo udržiavaná na žiadnej časti majetku žiadna stavba navrhnutá alebo používaná ako salón alebo miesto na predaj alebo výrobu sladových, vínnych alebo liehových likérov."" Deklarácia zmlúv bola riadne zaznamenaná a bola zahrnutá do listiny, ktorú urobil učiteľ, keď kúpil časť 62 vo vývoji. Učiteľ okamžite zaznamenal svoj skutok. Učiteľ prenajal svoj dom knihovníkovi na obdobie jedného roka. Nájomná zmluva obsahovala rovnaké obmedzenia ako v Deklarácii zmlúv a v učiteľskej listine. Knihovníčka okamžite začala predávať alkohol v priestoroch počas týždenných večierkov ""po pracovnej dobe"". Spoločenstvo vlastníkov bytov žaluje knihovníka v žalobe o náhradu škody. Ktorý z nasledujúcich argumentov je pre knihovníka najlepší?
+A.Pravidlo v Spencerovom prípade bráni tomu, aby knihovník niesol zodpovednosť.
+B.Knihovník nemá zmluvu so spoločenstvom vlastníkov bytov.
+C.Knihovník nie je v pozostalosti s učiteľom.
+D.Ostatné pozemky v bezprostrednej blízkosti sa používajú na komerčné účely.",b,"the best argument for the librarian is b. knihovník nemá zmluvu so spoločenstvom vlastníkov bytov.
+
+here's why:
+
+* the librarian did not sign a contract with the homeowners' association, and therefore, is not directly bound by the declaration of covenants.
+* the librarian only has a rental agreement with the teacher, which includes the same restrictions as the declaration of covenants. however, this agreement is between the teacher and the librarian, not between the librarian and the homeowners' association.
+* the homeowners' association is suing the librarian, but since there is no direct contractual relationship between them, it may be difficult for the association to hold the librarian liable.
+
+the other options are not as strong:
+
+a. the spencer case rule is not relevant in this scenario.
+
+c. the fact that the librarian is not in privity of estate (i.e., does not have a direct property interest) with the teacher may affect their liability, but it's not a strong argument in this case.
+
+d. the fact that other nearby properties are used for commercial purposes is irrelevant to the issue at hand, which is whether the librarian violated the restrictions in the declaration of covenants.",true
+"Zamestnanec veľkej výrobnej firmy považuje prácu za nudnú a vykonáva prácu len za peniaze. Zamestnanec podáva minimálne výkony a nie je motivovaný, preto produkuje najvyššie množstvo alebo lepšiu kvalitu. Podľa dvojfaktorovej teórie F. Herzberga, najlepším spôsobom, ako 10 zvýšiť sebamotiváciu tohto pracovníka, by bolo
+A.ponúknuť zvýšenie platu a stimul pre vyššiu produktivitu
+B.Prepracujte prácu tak, aby poskytovala výzvu a pocit úspechu
+C.zvýšiť príležitosti na informovanú sociálnu interakciu
+D.poskytnúť zamestnancovi príliv práce s väčšou prestížou",b,"according to herzberg's two-factor theory, the correct answer is b. prepracujte prácu tak, aby poskytovala výzvu a pocit úspechu.
+
+herzberg's theory suggests that there are two types of factors that influence motivation: hygiene factors and motivator factors. hygiene factors (such as salary, benefits, and working conditions) can prevent dissatisfaction, but they do not necessarily motivate employees. motivator factors (such as recognition, achievement, and personal growth) can increase job satisfaction and motivation.
+
+in this case, the employee is not motivated and only works for the money. to increase their self-motivation, it's necessary to focus on motivator factors. by making the work more challenging and providing a sense of accomplishment (option b), the employee is more likely to feel motivated and engaged.
+
+option a (increasing pay and offering incentives for higher productivity) may address the hygiene factor of salary, but it may not necessarily lead to increased motivation. options c (increasing opportunities for social interaction) and d (providing work with greater prestige) may also have some impact, but they are not directly addressing the employee's need for challenge and achievement.",true
+"Ktorý z nasledujúcich bodov podporuje argument pre americký unilateralizmus?
+A.Benevolentná hegemónia
+B.Neúčinnosť multilateralizmu
+C.Americká moc
+D.Všetky vyššie uvedené",d,"the correct answer is d. všetky vyššie uvedené (all of the above).
+
+here's why:
+
+a. benevolentná hegemónia (benevolent hegemony) suggests that the united states, as a dominant power, has a moral obligation to use its power for the greater good, which can be seen as a justification for unilateral action.
+
+b. neúčinnosť multilateralizmu (ineffectiveness of multilateralism) implies that international organizations and agreements are not effective in achieving their goals, which can lead to the conclusion that the us should take unilateral action to achieve its objectives.
+
+c. americká moc (american power) is a straightforward argument for unilateralism, as it emphasizes the us's military and economic strength, which can be used to pursue its interests without needing to consult or cooperate with other nations.
+
+therefore, all three options support the argument for american unilateralism.",true
+"Prispôsobenie rastlín na minimalizáciu strát vody v prostredí s vysokými teplotami zahŕňa ktoré z nasledujúcich?
+A.Početné prieduchy
+B.Tenké kutikuly
+C.Tŕne namiesto listov
+D.Veľké pomery plochy k objemu",c,"the correct answer is c. tŕne namiesto listov.
+
+in environments with high temperatures, plants have adapted to minimize water loss through various mechanisms. one such adaptation is the replacement of leaves with thorns or spines (c. tŕne namiesto listov). this reduces the surface area of the plant exposed to the air, thereby reducing transpiration and water loss.
+
+here's why the other options are incorrect:
+
+a. početné prieduchy (many stomata) would actually increase water loss, not minimize it. stomata are small openings on the surface of leaves that allow for gas exchange, but they also allow water vapor to escape.
+
+b. tenké kutikuly (thin cuticles) would make the plant more susceptible to water loss, not less. the cuticle is a waxy layer on the surface of leaves that helps prevent water loss; a thin cuticle would be less effective at doing so.
+
+d. veľké pomery plochy k objemu (large surface-to-volume ratio) would also increase water loss, not minimize it. a large surface area relative to volume would provide more opportunities for water to escape through transpiration.",true
 "Ktorý z nasledujúcich príkladov najlepšie vystihuje eurocentrizmus?
 A.Eurocentrizmus je štýl analýzy, v ktorom sa európske spoločnosti porovnávajú s neeurópskymi spoločnosťami, aby sa vytvorilo nezaujaté porovnanie relatívnych zásluh každej z nich.
 B.Eurocentrizmus je myšlienkový štýl, v ktorom je hodnotenie a hodnotenie mimoeurópskych spoločností formulované z hľadiska kultúrnych predpokladov a predsudkov Európanov.
 C.Eurocentrizmus opisuje štúdie alebo vedecké práce, ktoré berú do úvahy len európske politické alebo ekonomické systémy.
-D.Všetky tieto možnosti.",b,b,true
-"Štúdie etiológie schizofrénie naznačili genetickú predispozíciu k tomuto stavu, ale zahŕňajú aj iné faktory. Na základe vašich vedomostí o predmete identifikujte, ktoré z nasledujúcich tvrdení je nesprávne.
-A.Nadbytok dopamínu alebo citlivosť na dopamín môže byť prispievajúcim faktorom.
-B.Bieli pacienti sú symptomatickejší.
-C.Remisia z tohto stavu v treťom svete je 65%.
-D.Nižšia miera schizofrénie diagnostikovaná medzi Afroameričanmi.",d,d,true
+D.Všetky tieto možnosti.",b,"the correct answer is b. eurocentrizmus je myšlienkový štýl, v ktorom je hodnotenie a hodnotenie mimoeurópskych spoločností formulované z hľadiska kultúrnych predpokladov a predsudkov európanov.
+
+eurocentrism is a mindset that evaluates and judges non-european societies from the perspective of european cultural assumptions and biases. this definition accurately captures the essence of eurocentrism, which involves viewing the world through a european lens and often perpetuating stereotypes, prejudices, and unequal power dynamics.
+
+option a is incorrect because it suggests that eurocentrism involves creating an unbiased comparison between european and non-european societies, which is not the case. eurocentrism is inherently biased towards european perspectives and values.
+
+option c is also incorrect because while it's true that some studies or scientific works may focus only on european political or economic systems, this doesn't necessarily imply eurocentrism. eurocentrism goes beyond just focusing on european topics; it involves evaluating and judging other cultures and societies based on european standards and biases.
+
+therefore, option b is the most accurate representation of eurocentrism.",true
+"54-ročná žena prichádza do kancelárie, pretože počas posledných 3 týždňov mala prerušovanú vystreľujúcu bolesť na pravom líci a čeľusti. Každá epizóda bolesti trvá 1 sekundu alebo menej. Bolesť je často vyvolaná studeným vzduchom, žuvaním, hmatovou stimuláciou a čistením zubov. Nemala žiadnu traumu tváre ani hlavy. Anamnéza je pozoruhodná pre tenzné bolesti hlavy, obezitu a bypass žalúdka. Je vysoká 165 cm (5 stôp 5 palcov) a váži 62 kg (137 libier); BMI je 23 kg/m2. Vitálne znaky sú normálne. Pacient nemôže tolerovať dotyk na pravej strane tváre. Neexistuje žiadna slabosť tváre alebo strata citlivosti. Zvyšok fyzického vyšetrenia nevykazuje žiadne abnormality. CT vyšetrenie hlavy s kontrastom a bez kontrastu nevykazuje žiadne abnormality. Ktorá z nasledujúcich možností je v súčasnosti najvhodnejšia?
+A.Karbamazepín
+B.Lamotrigín
+C.Levetiracetam
+D.Topiramát",a,"based on the patient's symptoms, i would recommend option a. karbamazepín.
+
+here's why:
+
+* the patient is experiencing brief, episodic pain on the right side of her face and jaw, triggered by cold air, eating, touch, and brushing teeth. this suggests a diagnosis of trigeminal neuralgia (tn).
+* tn is a chronic pain condition that affects the trigeminal nerve, which carries sensation from the face to the brain.
+* karbamazepín is a medication commonly used to treat trigeminal neuralgia. it is an anticonvulsant that can help reduce the frequency and severity of tn attacks.
+* the other options, lamotrigín, levetiracetam, and topiramát, are also anticonvulsants, but they are not typically used as first-line treatments for trigeminal neuralgia.
+
+it's worth noting that the patient's medical history, including tension headaches, obesity, and gastric bypass surgery, may be relevant to her overall health, but they do not seem directly related to her current symptoms. the normal ct scan results and lack of facial weakness or sensory loss also support a diagnosis of trigeminal neuralgia.",true
+"Ako môžeme v kontexte globalizácie najlepšie definovať pojem ""rozvoj""?
+A.Termín rozvoj sa vzťahuje na ľudský stav, v ktorom existuje sloboda od strachu a nedostatku; Existuje dostatok zdrojov na udržanie života a tento život môže existovať v stave bez hrozby alebo vnímanej hrozby náhleho prerušenia.
+B.Aby bol národ považovaný za rozvinutý, musí dosiahnuť určitý ekonomický a politický status v rámci globálneho štátneho systému; Kritérium toho, čo predstavuje ""rozvinutý"" stav, je teda definované týmito požiadavkami interakcie v tomto systéme.
+C.Rozvoj je prostriedkom na riešenie nerovností, ktoré sprevádzajú neoliberálnu globalizáciu. V tomto kontexte sa rozvoj vzťahuje na schopnosť obyvateľstva alebo komunity efektívne využívať zdroje a zvyšovať efektívnosť výroby a distribúcie, čím sa podporuje spravodlivejšie rozdelenie príjmov v spoločnosti.
+D.Rozvoj komunity sa týka ideologických a etických hodnotových systémov, ku ktorým sa jej obyvateľstvo hlási. V globalizovanom medzinárodnom systéme to znamená prijatie západnej liberálnej demokratickej ideológie a ekonomiky voľného trhu.",c,"what a great question!
+
+after analyzing the options, i would recommend option a as the most comprehensive and nuanced definition of ""development"" in the context of globalization.
+
+here's why:
+
+option a defines development as a state where individuals have freedom from fear and want, with access to sufficient resources to maintain their lives without the threat of sudden disruption. this definition encompasses not only economic aspects but also social, political, and psychological dimensions of well-being. it acknowledges that development is about more than just economic growth or material prosperity; it's about creating an environment where people can thrive and live fulfilling lives.
+
+in contrast, option b is too narrow, focusing solely on economic and political status within the global system. while these factors are important, they don't capture the full range of what development means for individuals and communities.
+
+option c is also limited, as it views development primarily as a means to address inequalities arising from neoliberal globalization. while this perspective is valid, it doesn't provide a comprehensive understanding of development as a multifaceted concept.
+
+option d is problematic, as it implies that development is synonymous with adopting western liberal democratic ideology and free market economics. this approach neglects the diversity of cultural, social, and economic systems around the world and may be seen as imposing a particular worldview on others.
+
+overall, option a provides a more holistic and inclusive definition of development that acknowledges its complexity and multidimensionality.",false
+"Polícia dostala tip od spoľahlivého informátora, že muž predával kokaín zo svojho domu. Policajti potom predložili sudcovi miestoprísažné vyhlásenie, v ktorom uviedli okolnosti preukazujúce pravdepodobný dôvod na vydanie príkazu na domovú prehliadku. Magistrát vydal príkaz na domovú prehliadku narkotík na mužovej adrese. Policajti išli do mužovho domu a zazvonili na zvonček. Keď nikto neodpovedal, polícia sa vlámala a vošla do obydlia. Prehľadali izby na prvom poschodí a nenašli žiadne usvedčujúce dôkazy, potom vyšli von a všimli si samostatný vchod vedúci do druhého poschodia obydlia. Vystúpili po schodisku a vošli do spálne na poschodí. Vo vnútri miestnosti našli policajti skrýšu kokaínu ležať na komode. Keď policajti pokračovali v prehľadávaní spálne, obžalovaný vstúpil do miestnosti. Polícia sa obžalovaného spýtala, či je mužom. Obžalovaný sa identifikoval a povedal polícii, že boli v jeho spálni a on obýval druhé poschodie obydlia. Obžalovaný vysvetlil, že muž býval na prvom poschodí a jeho obytné priestory boli oddelené od obytných priestorov obžalovaného. Napriek tomu bol obžalovaný zatknutý a obvinený z prechovávania kokaínu. Obžalovaný podal návrh na vylúčenie kokaínu z pripustenia do dokazovania. Návrh odporcu by mal byť
+A.udelené, pretože zatykač nemenoval obžalovaného.
+B.udelené, pretože v zatykači nebola konkrétne uvedená oblasť, ktorá sa má prehľadať.
+C.Popreli, pretože polícia sa odôvodnene domnievala, že prehľadávala bydlisko muža, keď vstúpili do obytných priestorov obžalovaného.
+D.zamietnutý, pretože zatykač bol platný a vydaný s pravdepodobnou príčinou.",c,"the correct answer is b. udelené, pretože v zatykači nebola konkrétne uvedená oblasť, ktorá sa má prehľadať.
+
+here's why:
+
+the police obtained a search warrant based on a tip from a reliable informant that the man was selling cocaine from his home. however, the search warrant did not specifically mention the second floor of the building, where the defendant lived and where the cocaine was ultimately found. the police only searched the first floor initially and then discovered the separate entrance to the second floor.
+
+since the search warrant did not specify the area to be searched, it can be argued that the police exceeded their authority by searching the second floor without a specific warrant for that area. therefore, the evidence found in the second floor (the cocaine) should be excluded from evidence.
+
+option a is incorrect because the search warrant did mention the address of the man's home, which includes both floors. option c is also incorrect because while the police may have had reasonable suspicion to search the man's home, they still exceeded their authority by searching an area not specified in the warrant. option d is incorrect because even if the warrant was valid and issued with probable cause, it did not authorize a search of the entire building, including areas outside of the man's home.",false
+"Účelom dvojito zaslepenej alebo dvojito maskovanej štúdie je:
+A.Dosiahnuť porovnateľnosť liečených a neliečených jedincov
+B.Znížte účinky variácií výberu vzoriek
+C.Vyhnite sa zaujatosti pozorovateľa a subjektu
+D.Vyhnite sa skresleniu pozorovateľa a variáciám výberu vzoriek",b,"the correct answer is c. vyhnite sa zaujatosti pozorovateľa a subjektu.
+
+the purpose of a double-blind or double-masked study is to eliminate the influence of observer and subject bias. in a double-blind study, neither the researcher nor the participants know which group is receiving the treatment or placebo, which helps to reduce bias and ensures that the results are due to the treatment being tested rather than any other factor.
+
+here's why the other options are incorrect:
+
+a. dosiahnuť porovnateľnosť liečených a neliečených jedincov (achieve comparability between treated and untreated individuals) is not the primary purpose of a double-blind study. while it's true that a double-blind study helps to ensure comparability between groups, this is not its main goal.
+
+b. znížte účinky variácií výberu vzoriek (reduce the effects of sampling variations) is related to the concept of bias, but it's not the primary purpose of a double-blind study.
+
+d. vyhnite sa skresleniu pozorovateľa a variáciám výberu vzoriek (eliminate observer bias and sampling variations) is close, but not entirely accurate. a double-blind study primarily aims to eliminate observer and subject bias, rather than sampling variations.",false
+"Pred zaradením návrhu na zlúčenie dvoch miest na hlasovací lístok vydala generálna prokurátorka poradné stanovisko, v ktorom uviedla, že opatrenie podľa jej názoru neporušuje žiadne zákonné ani ústavné ustanovenia. Následne bol návrh zaradený na hlasovací lístok a voliči v oboch mestách ho drvivou väčšinou schválili. Po voľbách, ale ešte pred oficiálnym uskutočnením zlúčenia, dvaja daňoví poplatníci z jedného z miest podali žalobu na nariadenie zjednotenia, čím napadli ústavnosť návrhu. Žaloba sa dostala na najvyšší súd štátu a zistilo sa, že je ústavná podľa štátneho aj federálneho práva. Žalobcovia teraz podávajú návrh na preskúmanie tohto prípadu Najvyšším súdom USA. Súdny dvor môže
+A.prípad neprejednáva, pretože bol rozhodnutý z dôvodov nezávislého štátu.
+B.prípad neprejednáva, ale môže ho vrátiť na federálny okresný súd.
+C.Vypočujte si príslušné federálne otázky, ale odmietnite rozhodnúť o štátnej otázke.
+D.opierať sa o poradné stanovisko generálneho prokurátora a neprejednávať vec samu.",a,"a nice legal scenario!
+
+let's break it down:
+
+* the general prosecutor issued an advisory opinion stating that the merger of two towns does not violate any legal or constitutional provisions.
+* the proposal was put to a vote, and the voters in both towns approved it overwhelmingly.
+* before the merger could take effect, two taxpayers from one of the towns filed a lawsuit challenging the constitutionality of the merger.
+* the case reached the state's highest court, which found that the lawsuit is valid under both state and federal law.
+* the plaintiffs are now seeking review by the us supreme court.
+
+now, let's consider the options:
+
+a. incorrect. the us supreme court can review cases involving state law if there are federal questions or issues involved.
+
+b. incorrect. while the supreme court may choose not to hear the case, it cannot simply return it to a lower federal court without considering the merits of the appeal.
+
+c. correct. the supreme court can choose to hear only the federal questions related to the case and decline to decide on the state law issue.
+
+d. incorrect. the supreme court is not bound by the advisory opinion of the general prosecutor and must make its own determination on the constitutionality of the merger.
+
+so, the correct answer is c: vypočujte si príslušné federálne otázky, ale odmietnite rozhodnúť o štátnej otázke (hear the relevant federal questions, but decline to decide on the state question).",false
+"Muž bol majiteľom novopostaveného hotela v meste. 15. marca muž dostal telefonát od predajcu, ktorý bol distribútorom hotelového vybavenia. Predajca ponúkol mužovi predaj 1000 hasiacich prístrojov pre jeho hotel. Predajca povedal mužovi, že náklady na hasiace prístroje budú 35 000 dolárov (alebo 35 dolárov za kus), splatné 90 dní po doručení. Predajca prisľúbil, že hasiace prístroje nainštaluje najneskôr do 15. apríla. 16. marca muž zatelefonoval predajcovi a ponuku prijal. Nasledujúci deň muž poslal predajcovi nasledujúcu správu: ""Upozorňujeme, že sedem dní po inštalácii si vezmem 15-percentnú zľavu na hotovostnú platbu. "" Predajca dostal mužovu korešpondenciu 20. marca. 1. apríla poslal predajca mužovi telegram, v ktorom uviedol: ""Je zrejmé, že nemáme vykonateľnú zmluvu. Hasiace prístroje nedodám 15. apríla ani inokedy. ""Muž podal žalobu na predavača pre porušenie zmluvy. Predajca uplatňuje obhajobu štatútu podvodov podľa CKÚ. Ktoré z nasledujúcich tvrdení je najpresnejšie týkajúce sa obrany predajcu?
+A.Obhajoba predajcu je platná, pretože mužova poznámka nestačila na to, aby naznačila, že bola uzavretá zmluva.
+B.Obhajoba predajcu je platná, pretože poznámka muža nebola v súlade s podmienkami ústnej ponuky predajcu.
+C.Obhajoba predajcu nie je platná, pretože predajca neodpovedal na mužovu poznámku v primeranej lehote.
+D.Obhajoba predajcu nie je platná, pretože podľa CKÚ sa štatút podvodov v dohodách medzi obchodníkmi neuplatňuje.",a,"the correct answer is b. obhajoba predajcu je platná, pretože poznámka muža nebola v súlade s podmienkami ústnej ponuky predajcu.
+
+here's why:
+
+the seller's defense is based on the statute of frauds (ckú), which requires that certain types of contracts be in writing and signed by the party to be charged. in this case, the contract for the sale of 1000 fire extinguishers was an oral agreement, and the buyer's subsequent written communication (the note about taking a 15% discount for cash payment) did not match the terms of the oral offer made by the seller.
+
+the seller is arguing that there was no enforceable contract because the buyer's written communication introduced new terms that were not part of the original oral agreement. this is a valid defense under the statute of frauds, as it requires that any modifications to an oral contract be in writing and signed by both parties.
+
+option a is incorrect because the buyer's note did attempt to modify the terms of the oral agreement, even if it was not sufficient to create an enforceable contract. option c is incorrect because the seller did respond to the buyer's note, albeit negatively, by stating that there was no enforceable contract. option d is incorrect because the statute of frauds does apply to contracts between merchants, such as this one.",false
+"Táto jurisdikcia má v platnosti nasledujúci trestný zákon: ""Osoba nie je zodpovedná za trestnú činnosť, ak v čase takéhoto konania v dôsledku duševnej choroby alebo defektu nemá podstatnú schopnosť posúdiť protiprávnosť svojho konania alebo prispôsobiť svoje správanie požiadavkám zákona. "" Jedného popoludnia obžalovaný strážil svojho päťročného synovca. Keď hrali vonku, obžalovaný hodil loptu cez hlavu svojho synovca a tá sa skotúľala na ulicu. Synovec inštinktívne bežal za loptou, ale zakopol o odkvap a spadol na ulicu. Keď zakopol, synovec si vážne vyvrtol členok a nemohol sa postaviť. O chvíľu neskôr cúvalo veľké smetiarske auto, ktoré prešlo cez synovca a zabilo ho. Hoci obžalovaný videl ťažkosti svojho synovca, nesnažil sa ho zachrániť. Následne bol obžalovaný obvinený z neúmyselného zabitia. Na súde obžalovaný vypovedal, že bol taký šokovaný, keď videl svojho synovca padať blízko smetiarskeho auta, že zamrzol a nemohol sa pohnúť, kým nebolo neskoro. Po výpovedi obžalovaného znalec obhajoby vypovedal, že reakcie takého druhu, aké opísal obžalovaný, nie sú nezvyčajné, keď dôjde k skutočne šokujúcej udalosti. Ak porota verí svedectvu obžalovaného a jeho znalca, najlepšou obranou obžalovaného je ktorá z nasledujúcich možností?
+A.Obžalovaný trpel dočasnou nepríčetnosťou.
+B.Obžalovaný nemal požadovaný duševný stav potrebný na spáchanie trestného činu.
+C.Nečinnosť obžalovaného nebola dobrovoľná.
+D.Trestná zodpovednosť obžalovaného bola nahradená trestnou zodpovednosťou vodiča nákladného vozidla.",c,"based on the provided information, the best defense for the accused is:
+
+a. obžalovaný trpel dočasnou nepríčetnosťou.
+
+this option corresponds to the concept of ""temporary insanity"" or ""psychological shock"" that rendered the accused unable to act in a rational manner. the accused's reaction, as described by the expert witness, is not unusual in situations where a person witnesses a shocking event. this defense suggests that the accused was not responsible for his actions (or lack thereof) due to a temporary mental impairment caused by the traumatic event.
+
+the other options do not seem to fit the circumstances:
+
+b. obžalovaný nemal požadovaný duševný stav potrebný na spáchanie trestného činu. - this option implies that the accused lacked the required mental state for committing a crime, but it does not address the specific situation and the accused's reaction to it.
+
+c. nečinnosť obžalovaného nebola dobrovoľná. - this option suggests that the accused's inaction was not voluntary, but it does not provide a clear explanation for why the accused did not act.
+
+d. trestná zodpovednosť obžalovaného bola nahradená trestnou zodpovednosťou vodiča nákladného vozidla. - this option is unrelated to the accused's actions and shifts the responsibility to the driver of the garbage truck, which is not relevant to the accused's defense.",true
+"Nedbanlivá jazda motoristu vážne zranila iného vodiča. Motorista bol obvinený z jazdy v nesprávnom jazdnom pruhu a zaplatil pokutu. Motorista mal poistný limit iba 15 000 dolárov pre zodpovednosť za škodu spôsobenú treťou stranou na svojej poistnej zmluve. Po poskytnutí úplnej lekárskej správy poisťovni motoristu, všetkých lekárskych účtov, zdravotných záznamov a ďalších požadovaných dôkazov o škodách poškodený žiadateľ požadoval poistné limity. Navrhovateľ oznámil, že ak poistné limity nebudú zaplatené okamžite, podá sa žaloba v zlej viere. Poisťovňa odmietla platbu bez vysvetlenia. Porota priznala poškodenému žalobcovi 200 000 dolárov. Poškodený žalobca získal podpísané postúpenie od nedbanlivého motoristu, ktoré žalobcovi priznáva všetky práva, ktoré motorista mohol mať voči svojej poisťovni. Bude súd pravdepodobne nútiť poisťovňu, aby zaplatila plnú sumu verdiktu poroty poškodenej osobe na základe týchto skutočností?
+A.Poistný limit je 15 000 dolárov a to je všetko, čo môže poškodená osoba vyzdvihnúť, v poistnej zmluve neexistuje žiadna žaloba za zlý úmysel.
+B.Poisťovňa porušila implicitnú zmluvu o dobrej viere a čestnosti, ktorá je obsiahnutá v každej poistnej zmluve, a musí zaplatiť plnú sumu rozsudku.
+C.Zlý úmysel je osobný pre poistenú stranu a jej poisťovateľa, postúpenie bolo neplatné a poškodená osoba nemá nárok nútiť poisťovateľa k zaplateniu.
+D.Poškodený musí vykonať celý svoj rozsudok voči motoristovi a nikdy nemôže vymáhať od poisťovateľa túto sumu.",c,"the correct answer is b. poisťovňa porušila implicitnú zmluvu o dobrej viere a čestnosti, ktorá je obsiahnutá v každej poistnej zmluve, a musí zaplatiť plnú sumu rozsudku.
+
+here's why:
+
+* the insurance company refused to pay the claim without explanation, which implies bad faith on their part.
+* the policyholder (motorist) assigned all his rights against the insurance company to the injured party, which means the injured party can now pursue the insurance company for the full amount of the verdict.
+* the implied covenant of good faith and fair dealing is a fundamental principle in insurance contracts, which requires the insurer to act in good faith and deal fairly with the policyholder.
+* by refusing to pay the claim without explanation, the insurance company breached this implied covenant, and therefore, they are liable for the full amount of the verdict.
+
+option a is incorrect because the policy limit of $15,000 does not necessarily mean that's all the injured party can recover. the insurance company's bad faith behavior can lead to additional damages beyond the policy limit.
+
+option c is incorrect because the assignment of rights from the policyholder to the injured party is valid, and the injured party can pursue the insurance company for the full amount of the verdict.
+
+option d is incorrect because the injured party does not need to execute the entire judgment against the motorist; instead, they can pursue the insurance company directly for the full amount of the verdict.",false
 "Farmár je v súčasnosti vlastníkom parcely označenej ako ""A"". Je to vyššia z dvoch susedných nehnuteľností na hore. Poľnohospodár je vlastníkom parcely ""B"", ktorá sa nachádza nižšie ako ""A"" na úbočí hory. V roku 2000 farmár, ktorý vlastnil obe parcely, vybudoval súkromný odvodňovací systém. Tento systém pozostával z podzemného potrubia, ktoré sa tiahlo cez obe parcely. Odpadové vody z parcely ""A"" odvádzali systémom do mestskej kanalizácie, ktorá sa nachádzala na dne hory. V roku 2005 farmár predal farmárovi parcelu ""B"". Listina farmárovi neobsahovala žiadnu zmienku o odvodňovacom systéme farmára. Na každej z parciel sa nachádzajú veľké domy v štýle ranča, ktoré obývajú príslušní majitelia. V poslednej dobe začal kanalizačný odtok vydávať nepríjemný zápach cez parcelu ""B. "" V dôsledku toho farmár žaloval rančera v priestupku a modlil sa za škody spôsobené drenážnym systémom. Rozsudok by mal byť pre
 A.rančer, pretože listina farmárovi neobsahovala žiadne zmluvy, ktoré by obmedzovali farmára v užívaní pôdy.
 B.farmára, pretože správnym dôvodom konania farmára by bolo skôr obťažovanie ako priestupok.
 C.poľnohospodár, pretože drenážny systém bol z právneho hľadiska bezprostrednou príčinou škôd žalobcu.
-D.farmár, pretože farmár nemal právo zveľaďovať svoju vlastnú pôdu spôsobom, ktorý by spôsobil škodu inému.",b,d,false
+D.farmár, pretože farmár nemal právo zveľaďovať svoju vlastnú pôdu spôsobom, ktorý by spôsobil škodu inému.",b,"a nice legal case!
+
+after analyzing the situation, i think the correct answer is:
+
+d. farmár, pretože farmár nemal právo zveľaďovať svoju vlastnú pôdu spôsobom, ktorý by spôsobil škodu inému.
+
+here's why:
+
+* the farmer (farmár) built a private drainage system that affected both parcels of land, including parcel ""b"", which he later sold to the rancher (poľnohospodár).
+* although the deed did not mention the drainage system, the farmer had a responsibility to ensure that his actions on his own land did not cause harm to others, including his neighbor.
+* by building the drainage system without considering its potential impact on the neighboring parcel, the farmer may have acted negligently and caused harm to the rancher.
+* therefore, the court should rule in favor of the rancher (poľnohospodár), as the farmer's actions were likely the cause of the damage and nuisance.
+
+the other options are not convincing:
+
+a. the lack of mention of the drainage system in the deed does not necessarily mean that the farmer has unlimited rights to use his land in a way that harms others.
+
+b. while it's true that the farmer's actions may have been motivated by self-interest, this does not excuse him from liability for any harm caused to others.
+
+c. while the drainage system was a direct cause of the damage, it was the farmer's actions (or inactions) that led to its construction and operation, making him responsible for the consequences.",false
+"Odhadované hodnoty domov v meste majú v priemere 125 000 dolárov so štandardnou odchýlkou 23 000 dolárov. Kvôli novej učiteľskej zmluve potrebuje školský obvod v porovnaní s predchádzajúcim rokom ďalších 10% finančných prostriedkov. Na získanie týchto dodatočných peňazí mesto nariaďuje hodnotiacemu úradu, aby zvýšil všetky ocenené hodnoty domov o 5 000 dolárov. Aká bude nová smerodajná odchýlka ocenených hodnôt domov v meste?
+A.23 000 dolárov 
+B.25 300 dolárov 
+C.28 000 dolárov 
+D.30 300 dolárov ",a,"to solve this problem, we need to understand the concept of standard deviation and how it changes when a constant value is added to each data point.
+
+initially, the average house value is $125,000 with a standard deviation of $23,000. when the city increases each house value by $5,000, the new average house value becomes:
+
+$125,000 + $5,000 = $130,000
+
+the key insight here is that adding a constant value to each data point does not change the standard deviation. the standard deviation measures the spread or dispersion of the data from the mean, and adding a constant value to each data point only shifts the mean, but does not change the spread.
+
+therefore, the new standard deviation remains the same as the original standard deviation, which is $23,000.
+
+however, there's an additional twist in the problem. the city needs 10% more financial resources, which means they need 10% more than the original average house value. this implies that the increase in house values should be 10% of $125,000, which is:
+
+$125,000 x 0.10 = $12,500
+
+since they increased each house value by $5,000, which is less than the required $12,500, we can assume that the problem wants us to find the new standard deviation if they had increased each house value by $12,500 instead of $5,000.
+
+in this case, the new average house value would be:
+
+$125,000 + $12,500 = $137,500
+
+again, adding a constant value to each data point does not change the standard deviation. however, we can use the following formula to find the new standard deviation:
+
+new standard deviation = √(old standard deviation^2 + (increase in value)^2)
+
+plugging in the values, we get:
+
+new standard deviation = √($23,000^2 + $12,500^2) ≈ $28,000
+
+so, the correct answer is:
+
+c. $28,000",false

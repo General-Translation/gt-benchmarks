@@ -3,87 +3,90 @@ Question,CorrectAnswer,GivenAnswer,Correct
 A.California
 B.Carolina ya Kusini
 C.Jojia
-D.Texas",a,d,false
-"Ni ipi kati ya sahani hizi zilizotengenezwa kutoka kwa utumbo wa nguruwe?
-A.haggis
-B.chitlins
-C.grits
-D.Suey ya Chop",b,b,true
-"Mutations ambayo husababisha achondroplasia ina athari ambayo inaweza kuainishwa kama:
-A.hasi kubwa.
-B.faida ya kazi.
-C.upungufu wa haploinsufficiency.
-D.hasara ya kazi.",b,c,false
-"Udanganyifu wa utu wa kusifu ni aina maalum ya
-A.Udanganyifu wa ajali
-B.Utata wa uwongo
-C.Uliza swali
-D.Hoja ya duara",a,b,false
-"K-fold msalaba-validation ni
-A.mstari katika K
-B.quadratic katika K
-C.cubic katika K
-D.Ufafanuzi katika K",a,a,true
-"Ni ipi kati ya filamu hizi za kutisha zilizozaa sequels zaidi?
-A.Scream'
-B.Jaws'
-C.Halloween'
-D.Ijumaa ya tarehe 13'",d,c,false
+D.Texas",A,Filamu ya Magnolia ya 1999 imewekwa katika hali ya Texas.,
 "Lugha ya asili ya mwigizaji Antonio Banderas ni nini?
 A.Kihispania
 B.Kirusi
 C.Kijerumani
-D.Kifaransa",a,a,true
-" Chombo hiki cha uuzaji na mawasiliano kinatoa msukumo wa moja kwa moja au motisha ya kuhamasisha wateja kununua bidhaa / huduma:
-A.Matangazo.
-B.Uhusiano wa Umma.
-C.Uendelezaji wa mauzo.
-D.Uuzaji wa moja kwa moja.",c,c,false
-"Watu wazima wenye umri wa kati wanaonekana kuwa zaidi ya ____ kuliko watu wazima wakubwa au wadogo
-A.Ya Generative
-B.Neurotic
-C.Inakubalika
-D.Fulani",a,c,false
+D.Kifaransa",A,"Jibu sahihi ni A. Kihispania.
+
+Antonio Banderas ni mwigizaji maarufu wa Kihispania. Yeye ni mzaliwa wa Malaga, Uhispania na lugha yake ya asili ni Kihispania (Kiespanola).",
 "Ni lugha gani rasmi ya Uholanzi?
 A.Kidanishi
 B.Kiswidi
 C.Kijerumani
-D.Kiholanzi",d,d. kiholanzi,true
-"Ni mambo gani kati ya yafuatayo ambayo yatachukuliwa kuwa sababu ya ""pull"" kwa Riva wakati wa kuzingatia kuhama kutoka India kwenda Merika?
-A.Umaskini wa kupindukia
-B.Kazi bora na mshahara wa juu
-C.Mfumo wa India wa tabaka
-D.Vurugu katika eneo lake",b,b,true
-"Mgonjwa anasumbuliwa na shingo iliyovunjika na uharibifu wa kamba ya uti wa mgongo katika kiwango cha vertebra ya sita ya kizazi.
-A.Hawataweza kupumua bila msaada wa maisha.
-B.Wataweza tu kupumua kwa utulivu.
-C.Haiwezekani kutabiri athari kwenye kupumua.
-D.Kupumua itakuwa bila kuathiriwa.",b,c,false
-"Ni ipi kati ya hizi hufanya kuamua uhusiano wa mabadiliko ya spishi tofauti kulingana na mlolongo wa amino asidi ya protini za homologous kwa ujumla sio sahihi kuliko uamuzi wa uhusiano kulingana na mlolongo wa nucleotide wa jeni za homologous?
-A.Mabadiliko ya kimya
-B.Urudiaji wa jeni
-C.Matukio ya uhamisho ambayo hubadilisha mlolongo wa jeni
-D.Kuvuka-juu",a,d,false
-"Urekebishaji mbaya wa mabaki unaonyeshwa na ambayo moja ya yafuatayo?
-A.Mfano wa baiskeli katika mabaki
-B.Muundo wa kubadilisha katika mabaki
-C.Ukamilifu wa randomness katika mabaki
-D.Mabaki ambayo yote ni karibu na sifuri",b,d,false
-"Tambua mkusanyiko wa H+(aq) katika 1.0 M phenol, C6H5OH, suluhisho. (Ka kwa phenol ni 1 × 10^-10.)
-A.1 × 10^-10 M
-B.1 × 10^-9 M
-C.1 × 10^-3 M
-D.1 × 10^-5 M",d,a,false
+D.Kiholanzi",D,"Jibu sahihi ni:
+
+D. Kiholanzi
+
+Uholanzi (Netherlands) rasmi hutumia lugha ya Kiholanzi (Dutch) kama lugha yake rasmi. Kiholanzi ni lugha ya Kijerumani ya Chini inayozungumzwa na wengi katika Uholanzi na sehemu za Ulaya.",
+"Watu wazima wenye umri wa kati wanaonekana kuwa zaidi ya ____ kuliko watu wazima wakubwa au wadogo
+A.Ya Generative
+B.Neurotic
+C.Inakubalika
+D.Fulani",A,"Jibu sahihi ni:
+
+A. Ya Generative
+
+Watu wazima wenye umri wa kati (middle-aged adults) wanaonekana kuwa zaidi ya ya generative kuliko watu wazima wakubwa au wadogo. Hii inamaanisha kwamba watu wa umri wa kati wanaonyesha zaidi ya tabia za kuchangia na kuendeleza jamii kuliko watu wazima wakubwa au wadogo.",
+"voltage iliyosababishwa katika inductor inawakilishwa kama,
+A.bidhaa ya inductance yake na sasa kupitia hiyo.
+B.uwiano wa inductance yake kwa sasa kupitia hiyo.
+C.uwiano wa sasa kupitia hiyo kwa inductance yake.
+D.bidhaa ya inductance yake na kiwango cha mabadiliko ya sasa kupitia hiyo.",D,"Jibu sahihi ni D. bidhaa ya inductance yake na kiwango cha mabadiliko ya sasa kupitia hiyo.
+
+Katika inductor, voltage iliyosababishwa inawakilishwa kama bidhaa ya inductance yake na kiwango cha mabadiliko ya sasa kupitia hiyo. Hii ni kwa sababu ya sheria ya Faraday, ambayo inasema kwamba voltage iliyosababishwa katika inductor ni sawa na bidhaa ya inductance na kiwango cha mabadiliko ya sasa kupitia hiyo.
+
+Kwa hiyo, jibu sahihi ni D.",
 "Tambua antecedent ya pendekezo la masharti yafuatayo: Nyuki kushinda mchezo wao wa kwanza tu kama ama Aardvarks au Chipmunks hawana kushinda michezo yao ya kwanza.
 A.Timu ya Aardvarks haitashinda mechi yake ya kwanza.
 B.Nyuki wanashinda mchezo wao wa kwanza.
 C.Chipmunks hawana kushinda mchezo wao wa kwanza.
-D.Ama Aardvarks au Chipmunks hawana kushinda michezo yao ya kwanza.",b,d,false
-"Je, mauaji haramu yaliyofanywa na Waziri wa nchi X nje ya nchi ni kitendo cha jure imperii au jure gestionis?
-A.Tabia kama hiyo ni kitendo cha umma (jure imperii)
-B.Tabia kama hiyo kamwe haivutii kinga
-C.Tabia kama hiyo ni kitendo cha kibinafsi (jure gestionis)
-D.Kitendo kama hicho ni kitendo cha umma lakini kinalindwa na kinga",c,c,true
+D.Ama Aardvarks au Chipmunks hawana kushinda michezo yao ya kwanza.",B,"Kutokana na masharti yaliyotolewa, tunaweza kufanya yafuatayo:
+
+A. Timu ya Aardvarks haitashinda mchezo wao wa kwanza.
+B. Nyuki wanashinda mchezo wao wa kwanza.
+C. Chipmunks hawana kushinda mchezo wao wa kwanza.
+D. Ama Aardvarks au Chipmunks hawana kushinda michezo yao ya kwanza.
+
+Kwa hivyo, pendekezo la masharti ni kwamba Nyuki wanashinda mchezo wao wa kwanza, lakini Aardvarks na Chipmunks hawana kushinda michezo yao ya kwanza.",
+"Tangi iko katika sura ya prism ya pembe tatu. Ikiwa msingi wa pembe tatu una eneo la futi za mraba 116, na tanki lina urefu wa futi 30, ni kiasi gani cha maji ambacho tank inaweza kuwa nayo wakati imejaa?
+A.1725 ft^3
+B.1740 ft^3
+C.3480 ft^3
+D.6960 ft^3",C,"Ili kutatua swali hili, tunahitaji kutumia formula ya ukubwa wa prism.
+
+Ukubwa wa prism = Eneo la msingi × Urefu
+
+Kutoka kwenye taarifa zilizotolewa:
+- Eneo la msingi wa pembe tatu = 116 ft^2
+- Urefu wa tanki = 30 ft
+
+Basi, ukubwa wa tanki = 116 ft^2 × 30 ft = 3,480 ft^3
+
+Hivyo, jibu sahihi ni C. 3,480 ft^3.",
+"Urekebishaji mbaya wa mabaki unaonyeshwa na ambayo moja ya yafuatayo?
+A.Mfano wa baiskeli katika mabaki
+B.Muundo wa kubadilisha katika mabaki
+C.Ukamilifu wa randomness katika mabaki
+D.Mabaki ambayo yote ni karibu na sifuri",B,"Jibu sahihi ni B. Muundo wa kubadilisha katika mabaki.
+
+Urekebishaji mbaya wa mabaki unaonyeshwa na muundo wa kubadilisha katika mabaki. Hii ni kwa sababu mabaki yenye muundo wa kubadilisha hutoa taarifa za udhaifu wa mfumo wa randomness, ambayo ni dalili ya urekebishaji mbaya.
+
+Mfano wa baiskeli katika mabaki (A) na mabaki ambayo yote ni karibu na sifuri (D) si dalili za urekebishaji mbaya wa mabaki. Ukamilifu wa randomness katika mabaki (C) ni dalili ya urekebishaji mzuri wa mabaki.",
+"Ni ipi kati ya sahani hizi zilizotengenezwa kutoka kwa utumbo wa nguruwe?
+A.haggis
+B.chitlins
+C.grits
+D.Suey ya Chop",B,"Jibu sahihi ni B. chitlins.
+
+Chitlins ni sehemu za utumbo wa nguruwe ambayo hutumika katika baadhi ya vyakula vya kijamii katika baadhi ya maeneo ya Marekani.
+
+Haggis ni chakula cha Kiuingereza kilichotengenezwa kutoka kwa utumbo wa kondoo.
+
+Grits ni chakula cha kukaanga kilichotengenezwa kutoka kwa nafaka ya mahindi.
+
+Suey ya Chop ni chakula cha Kichina kilichotengenezwa kutoka kwa nyama ya nguruwe.",
 "Swali hili linahusu taarifa ifuatayo.
 ""Mbegu za utawala wa kiimla zinakuzwa na taabu na mahitaji. Wanaenea na kukua katika udongo mbaya wa umaskini na ugomvi. Wanafikia ukuaji wao kamili wakati matumaini ya watu kwa maisha bora yamekufa. Lazima tuendelee kuwa na matumaini haya . . . Majukumu makubwa yamewekwa juu yetu na harakati za haraka za matukio. . . . Nina imani kuwa Bunge litatekeleza majukumu haya kwa njia ya haki.""
 Rais wa Marekani Harry S. Truman, 1947
@@ -91,12 +94,73 @@ Mawazo yaliyoonyeshwa katika kifungu hapo juu yanaonyesha moja kwa moja ni ipi k
 A.Mjadala kuhusu uhusiano kati ya Bunge na Rais.
 B.Mjadala kuhusu matumizi ya nguvu za kijeshi katika hali tete.
 C.Mjadala kuhusu jukumu la Marekani katika masuala ya dunia.
-D.Mjadala kuhusu nafasi sahihi ya vyama vya siasa.",c,c,true
-"Wanafunzi wanafanya zoezi la kutenganisha rangi ya mimea ambayo inahitaji kutumia chumba cha chromatography kilichofungwa na kiasi kidogo cha acetone chini ya chumba. Tahadhari za usalama kwa acetone ni pamoja na taarifa kwamba ni jicho na ngozi irritant na ina vapors flammable. Kati ya yafuatayo' ni tahadhari gani ya usalama ambayo wanafunzi wanapaswa kuchukua wakati wa kufanya zoezi?
-A.Kuweka glavu za moto kubeba chumba kwa kofia ya fume ikiwa acetone itashika moto
-B.Kuweka chumba katika baraza la mawaziri lililofungwa, lililotiwa giza kwa muda wa kujitenga kwa rangi
-C.Kuvaa glavu za ngozi na kufunika pua na mdomo kwa mask ya chembe
-D.Kuvaa goggles na glavu za aina ya nitrile na kuweka vyombo vyote vya acetone vimefungwa",d,d,true
+D.Mjadala kuhusu nafasi sahihi ya vyama vya siasa.",C,"Jibu sahihi ni C. Mjadala kuhusu jukumu la Marekani katika masuala ya dunia.
+
+Kifungu hiki inaonyesha kuwa Rais Truman anazungumzia jukumu la Marekani katika masuala ya kimataifa, hasa katika kusaidia nchi nyingine kupambana na umaskini, ugomvi na kutafuta matumaini ya maisha bora. Hii inaonyesha mjadala kuhusu jukumu la Marekani katika masuala ya dunia.
+
+Jibu A, B, na D hazijafungamana na maudhui ya kifungu hiki.",
+"Ni ipi kati ya sifa zifuatazo kwa ujumla zinaambatana na ubakaji wa tarehe?
+A.Matumizi ya nguvu kupita kiasi
+B.Imeandaliwa
+C.motisha ya ngono
+D.Inahusisha matumizi ya silaha",C,"Sifa zifuatazo kwa ujumla zinaambatana na ubakaji wa tarehe:
+
+A. Matumizi ya nguvu kupita kiasi
+D. Inahusisha matumizi ya silaha
+
+Ubakaji wa tarehe mara nyingi huambatana na matumizi ya nguvu kupita kiasi na hata silaha ili kulazimisha mtu kufanya ngono bila ridhaa yake. Hii ni kinyume cha sifa kama ""Imeandaliwa"" au ""Motisha ya ngono"" ambazo hazihusiani moja kwa moja na ubakaji wa tarehe.",
+"Nambari, iliyozungushwa kwa elfu iliyo karibu, ni 47,000. Ni nambari gani ambayo inaweza kuwa nambari iliyozungushwa?
+A.46,295
+B.46,504
+C.47,520
+D.47,924",B,"Ili kujibu swali hili, tunahitaji kutafuta nambari ambayo ni karibu na 47,000 na ambayo inaweza kuwa nambari iliyozungushwa.
+
+Kwa kuangalia chaguo zote, tunaweza kuona kwamba:
+A. 46,295 ni karibu sana na 47,000, lakini ni chini ya 47,000.
+B. 46,504 ni karibu sana na 47,000, lakini ni chini ya 47,000.
+C. 47,520 ni juu ya 47,000, lakini si karibu sana.
+D. 47,924 ni juu ya 47,000 na ni karibu sana.
+
+Kwa hivyo, jibu sahihi ni D. 47,924.",
+"Udanganyifu wa utu wa kusifu ni aina maalum ya
+A.Udanganyifu wa ajali
+B.Utata wa uwongo
+C.Uliza swali
+D.Hoja ya duara",A,"Jibu sahihi ni B. Utata wa uwongo.
+
+Udanganyifu wa utu wa kusifu ni aina maalum ya utata wa uwongo. Hii ni aina ya udanganyifu ambapo mtu anajaribu kujifanya kuwa mtu mwingine au kujipatia sifa na heshima kwa njia ya udanganyifu.
+
+Jibu A (Udanganyifu wa ajali) si sahihi, kwa kuwa udanganyifu wa utu wa kusifu si aina ya udanganyifu wa ajali.
+
+Jibu C (Uliza swali) na D (Hoja ya duara) pia si sahihi, kwa kuwa hizi si aina za udanganyifu wa utu wa kusifu.",
+"Je, mauaji haramu yaliyofanywa na Waziri wa nchi X nje ya nchi ni kitendo cha jure imperii au jure gestionis?
+A.Tabia kama hiyo ni kitendo cha umma (jure imperii)
+B.Tabia kama hiyo kamwe haivutii kinga
+C.Tabia kama hiyo ni kitendo cha kibinafsi (jure gestionis)
+D.Kitendo kama hicho ni kitendo cha umma lakini kinalindwa na kinga",C,"Jibu sahihi ni: D. Kitendo kama hicho ni kitendo cha umma lakini kinalindwa na kinga.
+
+Ufafanuzi:
+- Mauaji haramu yaliyofanywa na Waziri wa nchi X nje ya nchi yanaonekana kama kitendo cha umma (jure imperii) kwa sababu ni kitendo cha mtu aliye katika nafasi ya umma.
+- Hata hivyo, kwa mujibu wa kanuni za kinga ya kijamii (sovereign immunity), mauaji hayo yanaweza kuwa yanalindwa na kinga ya nchi ya Waziri, kama kitendo cha kibinafsi (jure gestionis).
+- Kwa hiyo, jibu sahihi ni D, kwamba kitendo kama hicho ni cha umma lakini kinalindwa na kinga.",
+"Ni ipi kati ya filamu hizi za kutisha zilizozaa sequels zaidi?
+A.Scream'
+B.Jaws'
+C.Halloween'
+D.Ijumaa ya tarehe 13'",D,"Kati ya filamu hizi za kutisha, filamu ya 'Friday the 13th' (Ijumaa ya tarehe 13) imeongoza kwa kuzaa sequels nyingi zaidi. Filamu hii ya hofu imeongoza kwa kuzaa jumla ya 12 sequels tangu filamu ya kwanza iliyotolewa mwaka 1980.
+
+Filamu nyingine kama 'Halloween', 'Scream' na 'Jaws' pia zimeongoza kwa kuzaa sequels nyingi, lakini si kama 'Friday the 13th'.
+
+Hivyo, jibu sahihi ni D. 'Ijumaa ya tarehe 13'.",
+"K-fold msalaba-validation ni
+A.mstari katika K
+B.quadratic katika K
+C.cubic katika K
+D.Ufafanuzi katika K",A,"Jibu sahihi ni D. Ufafanuzi katika K.
+
+K-fold cross-validation ni njia ya kufanya ufafanuzi wa mfumo wa kujifunza katika K sehemu tofauti. Katika njia hii, data inahawilishwa katika K sehemu sawa, ambapo K-1 sehemu hutumika kwa ajili ya mafunzo na sehemu moja hutumika kwa ajili ya ufanyaji wa majaribio. Huu ni mfumo wa kurudia-rudia, ambapo kila sehemu hutumika kwa ajili ya ufanyaji wa majaribio mara moja.
+
+Hivyo, jibu sahihi ni D. Ufafanuzi katika K.",
 "Swali hili linahusu taarifa ifuatayo.
 Kwanza lazima tuseme kwamba cosmos ni spherical katika fomu, kwa sababu fomu hii kuwa kamili nzima wanaohitaji viungo, ni kamili zaidi ya yote, kwa sababu inafanya fomu ya capacious zaidi, ambayo inafaa zaidi kuwa na na kuhifadhi kila kitu; au tena kwa sababu sehemu zote za ulimwengu, yaani jua, mwezi na sayari zinaonekana katika umbo hili; au kwa sababu kila kitu kinajitahidi kufikia fomu hii, kama inavyoonekana katika kesi ya matone ya maji na miili mingine ya maji ikiwa wanajaribu kujifafanua. Kwa hivyo hakuna mtu atakayetilia shaka kwamba fomu hii ni ya miili ya mbinguni. ...
 Kwamba dunia pia ni ya duara kwa hivyo ni zaidi ya swali, kwa sababu inasukuma kutoka pande zote juu ya kituo chake. Ingawa kwa sababu ya mwinuko wa milima na unyogovu wa mabonde mzunguko kamili hauwezi kueleweka, lakini hii haiathiri asili ya jumla ya dunia. ...
@@ -106,132 +170,237 @@ Kifungu hicho kinaweza kutumika kama ushahidi kwamba Litecoin alitofautiana na w
 A.Cosmos ni ya spherical
 B.Dunia ni ya spherical
 C.Cosmos ni geostatic
-D.Dunia si mahali pa kupangilia",d,a. cosmos ni ya spherical,false
-"Pata urefu wa curve y = ln x kati ya pointi ambapo y = 1/2 na y = 1.
-A.0.53
-B.0.86
-C.1.18
-D.1.36",c,c,true
+D.Dunia si mahali pa kupangilia",D,"Jibu sahihi ni B. Dunia ni ya spherical.
+
+Kifungu hiki kinaeleza kwamba Copernicus alikubaliana na mawazo ya wanafalsafa wa asili wa Aristotelian kwamba dunia ina umbo la spherical, ingawa wao walidhani kwamba dunia iko katikati ya ulimwengu. Copernicus alikataa mawazo haya na akapendekeza kwamba dunia ni ya spherical na pia inazunguka jua.
+
+Hivyo, kifungu kinaonyesha kwamba Copernicus alitofautiana na wanafalsafa wa asili wa Aristotelian kwa sababu alipendekeza kwamba dunia ni ya spherical, hata ingawa wao walidhani kwamba dunia iko katikati ya ulimwengu (C. Cosmos ni geostatic).",
+" Chombo hiki cha uuzaji na mawasiliano kinatoa msukumo wa moja kwa moja au motisha ya kuhamasisha wateja kununua bidhaa / huduma:
+A.Matangazo.
+B.Uhusiano wa Umma.
+C.Uendelezaji wa mauzo.
+D.Uuzaji wa moja kwa moja.",C,"Jibu sahihi ni:
+
+D. Uuzaji wa moja kwa moja.
+
+Uuzaji wa moja kwa moja (Direct Selling) ni njia ya uuzaji ambapo mwuzaji anawasiliana na mteja moja kwa moja, bila kuwa na maeneo ya uuzaji au maduka. Hii hutoa msukumo wa moja kwa moja kwa mteja kununua bidhaa au huduma.
+
+Matangazo, Uhusiano wa Umma, na Uendelezaji wa Mauzo ni njia nyingine za kukuza mauzo na kuhamasisha wateja, lakini hazitoi msukumo wa moja kwa moja kama uuzaji wa moja kwa moja.",
+"Mutations ambayo husababisha achondroplasia ina athari ambayo inaweza kuainishwa kama:
+A.hasi kubwa.
+B.faida ya kazi.
+C.upungufu wa haploinsufficiency.
+D.hasara ya kazi.",B,"Jibu sahihi ni:
+
+C. upungufu wa haploinsufficiency.
+
+Achondroplasia ni aina ya ukuaji mdogo wa mifupa, ambayo husababishwa na mutations katika gene FGFR3. Mutations hizi hupunguza kiwango cha protini FGFR3 inayohitajika kwa ukuaji wa mifupa, hali inayojulikana kama haploinsufficiency.
+
+Haploinsufficiency ni hali ambapo mtu ana kopi moja tu ya gene inayofanya kazi ipasavyo, na hiyo kopi moja haiwezi kuzalisha kiwango cha protini kinachohitajika, hivyo kusababisha athari.
+
+Hivyo, jibu sahihi ni C. upungufu wa haploinsufficiency.",
 "Ikilinganishwa na vyama vya kisiasa katika nchi kama Uingereza na Israeli, ambazo zote zina mifumo ya vyama vingi, vyama vya kisiasa vya Amerika ni
 A.Nia ya kutoridhishwa na matokeo ya uchaguzi
 B.chini ya kutambuliwa wazi na itikadi thabiti za kisiasa
 C.Kutokuwa na ufanisi katika kukusanya fedha kutoka kwa wafuasi wa kisiasa
-D.Awe na uwezo wa kuakisi malengo ya nchi yake yote",b,d,false
-"Nambari, iliyozungushwa kwa elfu iliyo karibu, ni 47,000. Ni nambari gani ambayo inaweza kuwa nambari iliyozungushwa?
-A.46,295
-B.46,504
-C.47,520
-D.47,924",b,b,true
-"voltage iliyosababishwa katika inductor inawakilishwa kama,
-A.bidhaa ya inductance yake na sasa kupitia hiyo.
-B.uwiano wa inductance yake kwa sasa kupitia hiyo.
-C.uwiano wa sasa kupitia hiyo kwa inductance yake.
-D.bidhaa ya inductance yake na kiwango cha mabadiliko ya sasa kupitia hiyo.",d,d,true
-"Kukosa msaada wa kujifunza kuna uwezekano mkubwa wa kuhusishwa moja kwa moja na
-A.Athari ya Barnum.
-B.upendeleo wa kujihudumia.
-C.locus ya nje ya udhibiti.
-D.mtazamo chanya usio na masharti.",c,c,true
-"Tangi iko katika sura ya prism ya pembe tatu. Ikiwa msingi wa pembe tatu una eneo la futi za mraba 116, na tanki lina urefu wa futi 30, ni kiasi gani cha maji ambacho tank inaweza kuwa nayo wakati imejaa?
-A.1725 ft^3
-B.1740 ft^3
-C.3480 ft^3
-D.6960 ft^3",c,b,false
-"Utafiti wa Garcia na Koelling kuhusu aversions kujifunza imara kwamba ambayo ya zifuatazo UCS na CS jozi ni nguvu zaidi na kujifunza haraka zaidi?
-A.Kufanya kazi na kupokea zawadi ya chakula
-B.kichefuchefu, chakula au kinywaji
-C.harakati na mshtuko
-D.Adhabu na Zawadi",b,b,true
-"Ni mtazamo gani wa kisaikolojia ulikuwa maarufu zaidi mwishoni mwa karne ya ishirini huko Ulaya Magharibi?
-A.neuroscience
-B.mabadiliko ya
-C.tabia ya tabia
-D.Psychoanalytic",d,d. psychoanalytic,true
-"Ni ipi kati ya sifa zifuatazo kwa ujumla zinaambatana na ubakaji wa tarehe?
-A.Matumizi ya nguvu kupita kiasi
-B.Imeandaliwa
-C.motisha ya ngono
-D.Inahusisha matumizi ya silaha",c,d,false
-"Find $-\dfrac{1}{-3}\cdot\cfrac{1}{~\frac{1}{-3}~}.$
-A.1
-B.-1
-C.0
-D.2",b,b,true
-"Taarifa ya 1 | Katika kikundi (ab)^{-2} = b^{-2}a^{-2}. Taarifa ya 2 | Katika kikundi (ab)^n = a^nb^n.
-A.Kweli, Kweli
-B.Uongo, wa uwongo
-C.Kweli, Uongo
-D.Uongo, Kweli",b,c,true
+D.Awe na uwezo wa kuakisi malengo ya nchi yake yote",B,"Jibu sahihi ni B. Vyama vya kisiasa vya Amerika ni chini ya kutambuliwa wazi na itikadi thabiti za kisiasa.
+
+Katika mifumo ya vyama vingi kama ilivyo katika Uingereza na Israeli, vyama vya kisiasa huwa na itikadi thabiti na wazi za kisiasa ambazo huwakilisha malengo na falsafa zao. Hii ni tofauti na mfumo wa chama kimoja katika nchi kama Amerika, ambapo vyama vya kisiasa huwa na itikadi na falsafa za kisiasa zinazobadilika zaidi.
+
+Hivyo, jibu B ni sahihi kwa kuwa vyama vya kisiasa vya Amerika huwa chini ya kutambuliwa wazi na itikadi thabiti za kisiasa, tofauti na mifumo ya vyama vingi kama ilivyo katika Uingereza na Israeli.",
+"Ni mambo gani kati ya yafuatayo ambayo yatachukuliwa kuwa sababu ya ""pull"" kwa Riva wakati wa kuzingatia kuhama kutoka India kwenda Merika?
+A.Umaskini wa kupindukia
+B.Kazi bora na mshahara wa juu
+C.Mfumo wa India wa tabaka
+D.Vurugu katika eneo lake",B,"Sababu ya ""pull"" kwa Riva wakati wa kuzingatia kuhama kutoka India kwenda Merika ni:
+
+B. Kazi bora na mshahara wa juu
+
+Wakati mtu anafikiri kuhamia nchi nyingine, moja ya sababu kuu za ""pull"" ni fursa ya kupata kazi bora na mshahara wa juu. Hivyo, katika orodha hii, sababu B, ""Kazi bora na mshahara wa juu"", ni jibu sahihi kwa sababu inaweza kuwa sababu muhimu ya Riva kuhama kutoka India kwenda Merika.
+
+Sababu nyingine kama vile umaskini wa kupindukia (A), mfumo wa India wa tabaka (C), na vurugu katika eneo lake (D) zinaweza kuwa sababu za ""push"" ambazo zinaweza kumfanya Riva kuamua kuondoka India, lakini sababu ya ""pull"" kuu ni fursa ya kupata kazi bora na mshahara wa juu katika Merika.",
+"Mgonjwa anasumbuliwa na shingo iliyovunjika na uharibifu wa kamba ya uti wa mgongo katika kiwango cha vertebra ya sita ya kizazi.
+A.Hawataweza kupumua bila msaada wa maisha.
+B.Wataweza tu kupumua kwa utulivu.
+C.Haiwezekani kutabiri athari kwenye kupumua.
+D.Kupumua itakuwa bila kuathiriwa.",B,"Jibu sahihi ni C. Haiwezekani kutabiri athari kwenye kupumua.
+
+Ufafanuzi:
+Mgonjwa aliyevunjika shingo na kuathiriwa kamba ya uti wa mgongo katika kiwango cha vertebra ya sita ya kizazi, anaweza kuwa na changamoto katika kupumua. Hata hivyo, athari za hali hii kwenye kupumua haziwezi kutabiriwa kwa uhakika. Hii ni kwa sababu athari zinategemea kiwango na ukubwa wa uharibifu wa kamba ya uti wa mgongo.
+
+Jibu A ni si sahihi, kwa kuwa mgonjwa huyu hawataweza kupumua bila msaada wa maisha. Jibu B pia si sahihi, kwa kuwa hawataweza tu kupumua kwa utulivu, bali athari zinaweza kuwa tofauti. Jibu D pia si sahihi, kwa kuwa kupumua itaweza kuathiriwa.
+
+Kwa hiyo, jibu sahihi ni C. Haiwezekani kutabiri athari kwenye kupumua.",
+"Wanafunzi wanafanya zoezi la kutenganisha rangi ya mimea ambayo inahitaji kutumia chumba cha chromatography kilichofungwa na kiasi kidogo cha acetone chini ya chumba. Tahadhari za usalama kwa acetone ni pamoja na taarifa kwamba ni jicho na ngozi irritant na ina vapors flammable. Kati ya yafuatayo' ni tahadhari gani ya usalama ambayo wanafunzi wanapaswa kuchukua wakati wa kufanya zoezi?
+A.Kuweka glavu za moto kubeba chumba kwa kofia ya fume ikiwa acetone itashika moto
+B.Kuweka chumba katika baraza la mawaziri lililofungwa, lililotiwa giza kwa muda wa kujitenga kwa rangi
+C.Kuvaa glavu za ngozi na kufunika pua na mdomo kwa mask ya chembe
+D.Kuvaa goggles na glavu za aina ya nitrile na kuweka vyombo vyote vya acetone vimefungwa",D,"Jibu sahihi ni D. Kuvaa goggles na glavu za aina ya nitrile na kuweka vyombo vyote vya acetone vimefungwa.
+
+Hii ni kwa sababu:
+- Acetone ni jicho na ngozi irritant, na ina vapors flammable. Hivyo, ni muhimu kuvaa vifaa vya usalama kama goggles na glavu za aina ya nitrile ili kulinda macho na ngozi.
+- Kuweka vyombo vyote vya acetone vimefungwa ni muhimu ili kuzuia vapors flammable kutoka kuenea.
+- Kufunika pua na mdomo kwa mask ya chembe pia inaweza kusaidia, lakini si muhimu kama kuvaa goggles na glavu za aina ya nitrile.
+- Kuweka chumba katika baraza la mawaziri lililofungwa, lililotiwa giza kwa muda wa kujitenga kwa rangi si tahadhari ya usalama inayohusiana na acetone.
+- Kuweka glavu za moto kubeba chumba ikiwa acetone itashika moto si tahadhari ya usalama inayohusiana na acetone.
+
+Kwa hiyo, jibu sahihi ni D.",
+"Ni ipi kati ya hizi hufanya kuamua uhusiano wa mabadiliko ya spishi tofauti kulingana na mlolongo wa amino asidi ya protini za homologous kwa ujumla sio sahihi kuliko uamuzi wa uhusiano kulingana na mlolongo wa nucleotide wa jeni za homologous?
+A.Mabadiliko ya kimya
+B.Urudiaji wa jeni
+C.Matukio ya uhamisho ambayo hubadilisha mlolongo wa jeni
+D.Kuvuka-juu",A,"Jibu sahihi ni: B. Urudiaji wa jeni
+
+Kwa jumla, uamuzi wa uhusiano wa mabadiliko ya spishi tofauti kulingana na mlolongo wa amino asidi ya protini za homologous ni sahihi kuliko uamuzi wa uhusiano kulingana na mlolongo wa nucleotide wa jeni za homologous. Hii ni kwa sababu mabadiliko ya amino asidi katika protini za homologous hutoa picha sahihi zaidi ya uhusiano wa kizazi cha spishi tofauti kuliko mabadiliko ya nucleotide katika jeni za homologous.
+
+Hii ni kwa sababu:
+- Mabadiliko ya amino asidi katika protini za homologous hutokana moja kwa moja na mabadiliko ya jeni.
+- Urudiaji wa jeni (B) ni moja ya sababu kuu za mabadiliko ya mlolongo wa amino asidi katika protini za homologous.
+- Matukio ya uhamisho (C) na kuvuka-juu (D) pia yanaweza kusababisha mabadiliko ya mlolongo wa nucleotide, lakini si kwa kiwango sawa na urudiaji wa jeni.
+- Mabadiliko ya kimya (A) peke yao hayawezi kusababisha mabadiliko ya mlolongo wa amino asidi au nucleotide.
+
+Kwa hiyo, urudiaji wa jeni (B) ni jibu sahihi kati ya hizo.",
+"Tambua mkusanyiko wa H+(aq) katika 1.0 M phenol, C6H5OH, suluhisho. (Ka kwa phenol ni 1 × 10^-10.)
+A.1 × 10^-10 M
+B.1 × 10^-9 M
+C.1 × 10^-3 M
+D.1 × 10^-5 M",D,"Ili kutatua mkusanyiko wa H+(aq) katika suluhisho la 1.0 M phenol, tutatumia mwongozo wa pH ya asidi dhaifu.
+
+Kwa phenol, mwongozo wa pH ni:
+pH = 1/2 (pKa + log[A-]/[HA])
+
+Ambapo:
+pKa = -log(Ka) = -log(1 × 10^-10) = 10
+[A-] = konsentrasi ya ion fenolati
+[HA] = konsentresi ya phenol = 1.0 M
+
+Kwa hiyo, pH = 1/2 (10 + log[A-]/1.0)
+
+Kwa kuwa phenol ni asidi dhaifu, [H+] ≈ [A-]. Hivyo, pH = 1/2 (10 + log[H+]/1.0)
+pH = 1/2 (10 + log[H+])
+[H+] = 10^-(pH - 1/2 (10)) = 10^-(pH - 5)
+
+Kwa hiyo, jibu sahihi ni:
+A. [H+] = 1 × 10^-10 M",
 "Biashara zinajihusisha na uhasibu wa kijamii kutokana na mahitaji kutoka kwa _________, ili kutambua ________, kuboresha ___________ na kuhamasisha _________ na ___________
 A.Wadau, Hatari, Usimamizi wa Wadau, Uwajibikaji, Uwazi
 B.Wadau, Uwajibikaji, Uwazi, Hatari, Usimamizi wa Wadau
 C.Wadau, Uwajibikaji, Hatari, Wadau, Usimamizi wa Wadau
-D.Wadau, Usimamizi wa Wadau, Uwazi, Hatari, Uwajibikaji",a,b,false
-"Uchumi uko katika hali mbaya ya uchumi. Kutokana na hali hii ya kiuchumi ni ipi kati ya kauli zifuatazo kuhusu sera ya fedha ni sahihi?
-A.Sera ya upanuzi itazidisha tu uchumi.
-B.Sera ya upanuzi huongeza sana mahitaji ya jumla ikiwa uwekezaji ni nyeti kwa mabadiliko katika kiwango cha riba.
-C.Sera ya mkataba ni kichocheo sahihi cha uwekezaji na matumizi.
-D.Ikiwa mahitaji ya pesa ni sera kamili ya upanuzi wa fedha inaweza kuwa na ufanisi kabisa.",b,b,true
-"Baadhi ya maji ya Mars yamehifadhiwa kwenye udongo na barafu na baadhi yalipotea kutokana na upepo wa jua lakini maji mengi ya asili yanadhaniwa kuwa yamepotea kupitia utaratibu mwingine. Ni nini kilichotokea kwa maji haya ""yaliyopotea""?
-A.ilivuliwa na uwanja wa sumaku wakati ilipungua haraka kwa nguvu
-B.ilivunjwa katika hidrojeni na oksijeni na mwanga wa ultraviolet na hidrojeni ilipotea kupitia kutoroka kwa mafuta
-C.ilitumiwa na ustaarabu wa Martians wenye kiu
-D.iliharibiwa wakati wa kipindi cha volkano kali na ilipotea kwa nafasi kupitia kutoroka kwa mafuta",b,d,false
-"Nishati iliyotolewa kutoka kwa kuvunjika kwa phosphates ya nishati ya juu, ATP na phosphocreatine, inaweza kuendeleza zoezi la nguvu kubwa kwa karibu:
-A.Sekunde ya 1-2.
-B.Sekunde 5-10.
-C.30-40 kwa sekunde.
-D.50-60 kwa sekunde.",b,c,false
-"Kusafiri kwa kasi ya awali ya 1.5 × 10 ^ 6 m / s, protoni inaingia eneo la uwanja wa sumaku wa mara kwa mara wa ukubwa wa 1.5 T. Ikiwa vector ya awali ya protoni hufanya pembe ya 30 ° na uwanja wa sumaku, hesabu kasi ya protoni 4 s baada ya kuingia kwenye uwanja wa sumaku.
-A.5.0 × 10^6 m/s
-B.7.5 × 10^6 m / s
-C.1.5 × 10^6 m/s
-D.3.0 × 10^6 m/s",c,b,false
-"Ni neno gani kwa kiwango ambacho ushindani katika nchi moja unaathiriwa na ushindani katika nchi zingine?
-A.Biashara ya Kimataifa
-B.Uchumi wa Dunia
-C.Ushindani wa kimataifa
-D.Utandawazi",d,c. ushindani wa kimataifa,true
-"Ushuru uliowekwa kwa muuzaji utapitishwa kwa watumiaji kwa njia ya ongezeko la bei ikiwa
-A.Bei ya mahitaji ya mahitaji ni ya juu sana.
-B.Bei ya mahitaji ya mahitaji ni ya inelastic sana.
-C.bei ya mahitaji ni kitengo cha Litecoin.
-D.Mshahara wa mahitaji ni sana ya elastic.",b,a,false
-"Ni ipi kati ya yafuatayo ambayo inaweza kuzalisha ukuaji mkubwa wa uchumi kwa muda?
-A.Matumizi ya haraka zaidi ya rasilimali za asili.
-B.Viwango vya juu vya watu wazima wasiojua kusoma na kuandika.
-C.Kushuka kwa hisa za bidhaa za mtaji.
-D.Mikopo ya kodi ya uwekezaji.",d,d,true
-"Katika mzunguko wa mfululizo, ikiwa sasa katika taa moja ni 2 A, sasa katika taa karibu nayo ni
-A.nusu ya 1 A
-B.2:00 asubuhi
-C.Inategemea ni taa gani iliyo karibu na betri
-D.Hakuna taarifa za kutosha kusema",b,c,false
-"Shambulio la marudiano ni nini?
-A.Wakati mshambuliaji anajibu ujumbe uliotumwa kwake na mfumo
-B.Shambulio ambalo linarudia kila wakati, likijaribu udhaifu
-C.Shambulio ambalo linatumia ujumbe wa mfumo wenyewe na hivyo haliwezi kutetewa dhidi ya
-D.Mshambuliaji hutuma ujumbe uliotekwa, na tovuti inakubali na kujibu kwa niaba ya mshambulizi",d,b,false
-"Ufanisi wa quantum wa detector ya photon ni 0.1. Ikiwa picha 100 zinatumwa kwenye detector, moja baada ya nyingine, detector itagundua photons
-A.Wastani wa mara 10, na kupotoka kwa RMS ya karibu 4
-B.Wastani wa mara 10, na kupotoka kwa RMS kwa karibu 3
-C.Wastani wa mara 10, na kupotoka kwa RMS ya karibu 1
-D.Wastani wa mara 10, na kupotoka kwa RMS ya karibu 0.1",b,c,false
+D.Wadau, Usimamizi wa Wadau, Uwazi, Hatari, Uwajibikaji",A,"Jibu sahihi ni B. Wadau, Uwajibikaji, Uwazi, Hatari, Usimamizi wa Wadau.
+
+Maelezo:
+Biashara zinajihusisha na uhasibu wa kijamii kutokana na mahitaji kutoka kwa wadau, ili kutambua uwajibikaji, kuboresha uwazi, hatari na usimamizi wa wadau.",
 "Ni seti gani kati ya zifuatazo za kamba kidogo ambazo haziwezi kuelezewa kwa usemi wa kawaida?
 A.Kamba zote ndogo ambazo idadi ya sifuri ni nyingi kati ya tano
 B.Kamba zote ndogo kuanzia na sifuri na kuishia na moja
 C.Kamba zote kidogo na idadi hata ya sifuri
-D.Kamba zote za biti zilizo na zaidi ya sifuri",d,d,true
-"Kwa nini Parfit inapinga usawa?
-A.Anadai kuwa jamii isiyo na usawa haiepukiki.
-B.Anadai kwamba kwa kutoa kipaumbele kwa mahitaji ya maskini, tunaweza kuongeza usawa.
-C.Anasisitiza kuwa kila mmoja wetu anawajibika kwa umaskini wetu.
-D.Anakataa wazo la usawa kabisa.",b,a,false
+D.Kamba zote za biti zilizo na zaidi ya sifuri",D,"Jibu sahihi ni:
+
+B. Kamba zote ndogo kuanzia na sifuri na kuishia na moja
+
+Hii ni kwa sababu kamba ndogo ambazo idadi yake inaanzia na sifuri na kuishia na moja ni zile pekee ambazo haziwezi kuelezewa kwa usemi wa kawaida. Kamba zingine zote zinaweza kuelezewa kwa usemi wa kawaida.",
+"Find $-\dfrac{1}{-3}\cdot\cfrac{1}{~\frac{1}{-3}~}.$
+A.1
+B.-1
+C.0
+D.2",B,"To solve this problem, we need to simplify the expression step by step.
+
+Given expression: $-\dfrac{1}{-3}\cdot\cfrac{1}{~\frac{1}{-3}~}$
+
+Step 1: Simplify the first fraction.
+$-\dfrac{1}{-3} = \dfrac{1}{3}$
+
+Step 2: Simplify the second fraction.
+$\cfrac{1}{~\frac{1}{-3}~} = -3$
+
+Step 3: Multiply the two fractions.
+$\dfrac{1}{3} \cdot (-3) = -1$
+
+Therefore, the answer is B. -1.",
 "Katika ndege ya xy, grafu ya x^(log y) = y^log x ni
 A.Quadrant ya kwanza ya wazi
 B.Mtao uliofungwa
 C.ray katika quadrant ya kwanza ya wazi
-D.Pointi moja",a,c,false
+D.Pointi moja",A,"Jibu sahihi ni C. ray katika quadrant ya kwanza ya wazi.
+
+Maelezo:
+Grafu ya x^(log y) = y^log x ni ray katika quadrant ya kwanza ya wazi.
+
+Hii ni kwa sababu:
+- Kwa x > 0 na y > 0, x^(log y) = y^log x ni mfumo wa moja kwa moja.
+- Hivyo, grafu yake ni ray inayotoka katika origin na kuenda katika quadrant ya kwanza ya wazi.
+
+Hivyo, jibu sahihi ni C. ray katika quadrant ya kwanza ya wazi.",
+"Ni nchi gani kati ya zifuatazo zilizotoa CO2 zaidi kwa kila mtu katika 2017?
+A.Japani
+B.Kanada
+C.Urusi
+D.Irani",B,"Ili kujibu swali hili, tunahitaji kuangalia takwimu za uzalishaji wa CO2 kwa kila mtu kwa nchi hizi katika mwaka 2017.
+
+Kutokana na takwimu zilizopo, nchi ambayo ilitoa CO2 zaidi kwa kila mtu katika mwaka 2017 ni:
+
+B. Kanada
+
+Kanada ilitoa wastani wa 15.3 tone za CO2 kwa kila mtu katika mwaka 2017, ambayo ni zaidi kuliko nchi nyingine zilizotajwa katika chaguo.
+
+Hivyo, jibu sahihi ni B. Kanada.",
+"Utafiti wa Garcia na Koelling kuhusu aversions kujifunza imara kwamba ambayo ya zifuatazo UCS na CS jozi ni nguvu zaidi na kujifunza haraka zaidi?
+A.Kufanya kazi na kupokea zawadi ya chakula
+B.kichefuchefu, chakula au kinywaji
+C.harakati na mshtuko
+D.Adhabu na Zawadi",B,"Jibu sahihi ni B. kichefuchefu, chakula au kinywaji.
+
+Utafiti wa Garcia na Koelling ulionyesha kwamba aversions (mawazo ya kuepuka) zinazohusiana na kichefuchefu, chakula au kinywaji hujifunzwa kwa haraka zaidi na ni imara kuliko aversions zinazohusiana na vitu vingine kama adhabu na zawadi (jibu D), harakati na mshtuko (jibu C), au kufanya kazi na kupokea zawadi ya chakula (jibu A).
+
+Hivyo, kichefuchefu, chakula au kinywaji (jibu B) ni UCS na CS jozi ambayo hujifunzwa kwa haraka zaidi na ni nguvu zaidi kulingana na utafiti huo.",
+"Ni neno gani kwa kiwango ambacho ushindani katika nchi moja unaathiriwa na ushindani katika nchi zingine?
+A.Biashara ya Kimataifa
+B.Uchumi wa Dunia
+C.Ushindani wa kimataifa
+D.Utandawazi",D,"Jibu sahihi ni C. Ushindani wa kimataifa.
+
+Ushindani wa kimataifa ni kiwango ambacho ushindani katika nchi moja unaathiriwa na ushindani katika nchi zingine. Hii ni kwa sababu katika uchumi wa sasa wa globalizuaji, biashara na ushindani hufanyika katika mazingira ya kimataifa, ambapo kampuni na nchi zinashindana kwa rasilimali, soko na teknolojia.
+
+Biashara ya kimataifa, uchumi wa dunia na utandawazi ni dhana zinazohusiana na ushindani wa kimataifa, lakini hazikuwa jibu sahihi kwa swali hili.",
+"Pata urefu wa curve y = ln x kati ya pointi ambapo y = 1/2 na y = 1.
+A.0.53
+B.0.86
+C.1.18
+D.1.36",C,"Ili kupata urefu wa curve y = ln x kati ya pointi ambapo y = 1/2 na y = 1, tutatumia mfumo wa integral.
+
+Urefu wa curve = ∫(dx) = ∫(1/x) dx
+
+Kuanzia y = 1/2 hadi y = 1:
+∫(1/x) dx = ln(x)
+
+Kuanzia x = e^(1/2) hadi x = e^1:
+ln(e^1) - ln(e^(1/2)) = 1 - 1/2 = 0.5
+
+Hivyo, urefu wa curve ni 0.5.
+
+Jibu sahihi ni A. 0.53.",
+"Ni ipi kati ya yafuatayo ambayo inaweza kuzalisha ukuaji mkubwa wa uchumi kwa muda?
+A.Matumizi ya haraka zaidi ya rasilimali za asili.
+B.Viwango vya juu vya watu wazima wasiojua kusoma na kuandika.
+C.Kushuka kwa hisa za bidhaa za mtaji.
+D.Mikopo ya kodi ya uwekezaji.",D,"Jibu sahihi ni:
+
+D. Mikopo ya kodi ya uwekezaji.
+
+Mikopo ya kodi ya uwekezaji yanaweza kuwa na athari chanya kwa ukuaji wa uchumi kwa muda. Hii ni kwa sababu mikopo hii inaweza kuhamasisha uwekezaji na kuongeza uwekezaji katika sekta mbalimbali za uchumi. Hii inaweza kusaidia kuongeza uzalishaji, kuongeza ajira, na kuongeza mapato ya jumla ya taifa.
+
+Kwa upande mwingine, matumizi ya haraka zaidi ya rasilimali za asili (A), viwango vya juu vya watu wazima wasiojua kusoma na kuandika (B), na kushuka kwa hisa za bidhaa za mtaji (C) si vitu ambavyo vinaweza kusababisha ukuaji mkubwa wa uchumi kwa muda.",
+"Uchumi uko katika hali mbaya ya uchumi. Kutokana na hali hii ya kiuchumi ni ipi kati ya kauli zifuatazo kuhusu sera ya fedha ni sahihi?
+A.Sera ya upanuzi itazidisha tu uchumi.
+B.Sera ya upanuzi huongeza sana mahitaji ya jumla ikiwa uwekezaji ni nyeti kwa mabadiliko katika kiwango cha riba.
+C.Sera ya mkataba ni kichocheo sahihi cha uwekezaji na matumizi.
+D.Ikiwa mahitaji ya pesa ni sera kamili ya upanuzi wa fedha inaweza kuwa na ufanisi kabisa.",B,"Kati ya kauli hizo, kauli B ni sahihi.
+
+Sera ya upanuzi (expansionary monetary policy) huongeza mahitaji ya jumla, lakini ikiwa uwekezaji ni nyeti kwa mabadiliko katika kiwango cha riba, basi sera hiyo itakuwa na athari kubwa zaidi katika kuongeza mahitaji ya jumla.
+
+Hii ni kwa sababu mabadiliko katika kiwango cha riba huathiri uamuzi wa uwekezaji, na hivyo kuathiri mahitaji ya jumla. Sera ya upanuzi inaweza kuongeza mahitaji ya jumla, lakini athari hizo zinaweza kuwa kubwa zaidi ikiwa uwekezaji ni nyeti kwa mabadiliko katika kiwango cha riba.
+
+Hivyo, kauli B ni sahihi katika muktadha wa uchumi ulioko katika hali mbaya ya kiuchumi.",
 "Swali hili linahusu taarifa ifuatayo.
 Mimi hutembea kando ya safu, uliza ni nini kinachoendelea.
 Askari anasema kwa urahisi: ""Wanaita zaidi kila siku.
@@ -262,12 +431,140 @@ Shairi hutoa ushahidi wa ni ipi kati ya yafuatayo kuhusiana na uhusiano wa kijin
 A.Uhusiano wa kisiri kati ya mume na mke ulikuwa bado imara katika jamii ya Tang.
 B.Maandishi ya Imperial yalisisitiza kuzaliwa kwa wana wenye uwezo juu ya mabinti kutimiza vigezo vya usajili.
 C.Kazi ya kilimo inaweza kugawanywa na wanawake na wanaume sawa.
-D.Uhusiano wa jadi wa kijinsia wa Kichina ulibadilishwa wakati wa utawala wa Malkia Wu Zetian.",c,c,true
-"Ni nchi gani kati ya zifuatazo zilizotoa CO2 zaidi kwa kila mtu katika 2017?
-A.Japani
-B.Kanada
-C.Urusi
-D.Irani",b,b,true
+D.Uhusiano wa jadi wa kijinsia wa Kichina ulibadilishwa wakati wa utawala wa Malkia Wu Zetian.",C,"Kutokana na taarifa iliyotolewa katika shairi, jibu sahihi ni:
+
+C. Kazi ya kilimo inaweza kugawanywa na wanawake na wanaume sawa.
+
+Shairi inaonyesha kuwa hata kama wake ni nguvu ya kutosha kushughulikia hoe na plow, mazao hukua kila njia na mashamba yote ni fujo. Hii inaonyesha kuwa kazi ya kilimo inaweza kugawanywa kati ya wanawake na wanaume katika jamii ya Tang.
+
+Majibu mengine hayaendani na taarifa iliyotolewa katika shairi. Shairi hailitaja uhusiano wa kisiri kati ya mume na mke, vigezo vya usajili, au mabadiliko ya uhusiano wa kijinsia wakati wa utawala wa Malkia Wu Zetian.",
+"Taarifa ya 1 | Katika kikundi (ab)^{-2} = b^{-2}a^{-2}. Taarifa ya 2 | Katika kikundi (ab)^n = a^nb^n.
+A.Kweli, Kweli
+B.Uongo, wa uwongo
+C.Kweli, Uongo
+D.Uongo, Kweli",B,"Jibu sahihi ni C. Kweli, Uongo.
+
+Maelezo:
+
+Taarifa ya 1: Kweli
+Katika kikundi, (ab)^{-2} = b^{-2}a^{-2} ni kweli. Hii ni kwa sababu katika kikundi, (ab)^{-1} = b^{-1}a^{-1}, na (ab)^{-2} = (ab)^{-1}(ab)^{-1} = (b^{-1}a^{-1})(b^{-1}a^{-1}) = b^{-2}a^{-2}.
+
+Taarifa ya 2: Uongo
+Katika kikundi, (ab)^n ≠ a^nb^n. Hii ni kwa sababu katika kikundi, (ab)^n = a^nb^n ni kweli, lakini (ab)^n ≠ a^nb^n.
+
+Kwa hiyo, jibu sahihi ni C. Kweli, Uongo.",
+"Katika mzunguko wa mfululizo, ikiwa sasa katika taa moja ni 2 A, sasa katika taa karibu nayo ni
+A.nusu ya 1 A
+B.2:00 asubuhi
+C.Inategemea ni taa gani iliyo karibu na betri
+D.Hakuna taarifa za kutosha kusema",B,"Jibu sahihi ni:
+
+A. nusu ya 1 A
+
+Katika mzunguko wa mfululizo, ikiwa sasa katika taa moja ni 2 A, sasa katika taa karibu nayo ni nusu ya 1 A.
+
+Hii ni kwa sababu katika mzunguko wa mfululizo, kila taa inakuwa na nusu ya taa iliyotangulia. Kwa hiyo, ikiwa taa moja ina 2 A, taa iliyoko karibu nayo itakuwa na nusu ya 1 A.
+
+Jibu B (2:00 asubuhi) na C (Inategemea ni taa gani iliyo karibu na betri) si sahihi kwa swali hili. Jibu D (Hakuna taarifa za kutosha kusema) pia si sahihi, kwa sababu tunayo taarifa za kutosha kujibu swali hili.",
+"Baadhi ya maji ya Mars yamehifadhiwa kwenye udongo na barafu na baadhi yalipotea kutokana na upepo wa jua lakini maji mengi ya asili yanadhaniwa kuwa yamepotea kupitia utaratibu mwingine. Ni nini kilichotokea kwa maji haya ""yaliyopotea""?
+A.ilivuliwa na uwanja wa sumaku wakati ilipungua haraka kwa nguvu
+B.ilivunjwa katika hidrojeni na oksijeni na mwanga wa ultraviolet na hidrojeni ilipotea kupitia kutoroka kwa mafuta
+C.ilitumiwa na ustaarabu wa Martians wenye kiu
+D.iliharibiwa wakati wa kipindi cha volkano kali na ilipotea kwa nafasi kupitia kutoroka kwa mafuta",B,"Jibu sahihi ni B. ilivunjwa katika hidrojeni na oksijeni na mwanga wa ultraviolet na hidrojeni ilipotea kupitia kutoroka kwa mafuta.
+
+Hii ni kwa sababu maji ya Mars yanaweza kuvunjwa katika hidrojeni na oksijeni kwa kutumia mwanga wa ultraviolet kutoka jua. Hii inasababisha hidrojeni kuachana na oksijeni na kuondoka katika anga kupitia kutoroka kwa mafuta, hivyo kusababisha upotevu wa maji.
+
+Chaguo A ni batili kwa sababu uwanja wa sumaku hauhusiki na upotevu wa maji ya Mars.
+
+Chaguo C ni batili kwa sababu hakuna ushahidi wa ustaarabu wa Martians au kuwa wanatumia maji.
+
+Chaguo D ni batili kwa sababu hakuna ushahidi wa kipindi cha volkano kali kuhusika na upotevu wa maji ya Mars.",
+"Nishati iliyotolewa kutoka kwa kuvunjika kwa phosphates ya nishati ya juu, ATP na phosphocreatine, inaweza kuendeleza zoezi la nguvu kubwa kwa karibu:
+A.Sekunde ya 1-2.
+B.Sekunde 5-10.
+C.30-40 kwa sekunde.
+D.50-60 kwa sekunde.",B,"Jibu sahihi ni:
+
+B. Sekunde 5-10.
+
+Ufafanuzi:
+
+Nishati iliyotolewa kutoka kwa kuvunjika kwa phosphates ya nishati ya juu, ATP na phosphocreatine, inaweza kuendeleza zoezi la nguvu kubwa kwa karibu sekunde 5-10.
+
+Hii ni kwa sababu:
+
+- ATP na phosphocreatine ni vyanzo vya haraka vya nishati kwa ajili ya kazi ya nguvu kubwa.
+- Hizi phosphates za nishati ya juu zinaweza kutoa nishati kwa muda mfupi tu, kama sekunde 5-10.
+- Baada ya hapo, mwili huanza kutumia njia nyingine za uzalishaji wa nishati, kama glikoli anaerobic, ambayo inaweza kuendeleza zoezi la nguvu kwa muda mrefu zaidi.
+
+Hivyo, jibu sahihi ni B. Sekunde 5-10.",
+"Ukweli kwamba mzunguko wa ngozi ya infrared ya kloridi ya deuterium (DCl) huhamishwa kutoka kwa ile ya kloridi ya hidrojeni (HCl) ni kwa sababu ya tofauti katika yao
+A.Usambazaji wa elektroni
+B.wakati wa dipole
+C.Nguvu ya mara kwa mara
+D.Misa iliyopunguzwa",D,"Jibu sahihi ni: B. wakati wa dipole
+
+Ukweli kwamba mzunguko wa ngozi ya infrared ya kloridi ya deuterium (DCl) huhamishwa kutoka kwa ile ya kloridi ya hidrojeni (HCl) ni kwa sababu ya tofauti katika wakati wa dipole baina ya hizo molekuli.
+
+Hii ni kwa sababu:
+- Kloridi ya hidrojeni (HCl) ina wakati wa dipole mkubwa kuliko kloridi ya deuterium (DCl) kwa sababu ya tofauti katika uzito wa molekuli.
+- Uzito wa molekuli ya DCl ni mkubwa kuliko HCl, hivyo wakati wa dipole wa DCl ni mdogo kuliko HCl.
+- Hii inasababisha tofauti katika mzunguko wa ngozi ya infrared baina ya HCl na DCl.
+
+Hivyo, jibu sahihi ni B. wakati wa dipole.",
+"Ushuru uliowekwa kwa muuzaji utapitishwa kwa watumiaji kwa njia ya ongezeko la bei ikiwa
+A.Bei ya mahitaji ya mahitaji ni ya juu sana.
+B.Bei ya mahitaji ya mahitaji ni ya inelastic sana.
+C.bei ya mahitaji ni kitengo cha Litecoin.
+D.Mshahara wa mahitaji ni sana ya elastic.",B,"Jibu sahihi ni B. Bei ya mahitaji ya mahitaji ni ya inelastic sana.
+
+Ushuru uliowekwa kwa muuzaji utapitishwa kwa watumiaji kwa njia ya ongezeko la bei ikiwa bei ya mahitaji ya mahitaji ni ya inelastic sana. Hii ni kwa sababu watumiaji hawana chaguo nyingi la kubadili mahitaji yao, kwa hiyo muuzaji anaweza kuongeza bei bila kupoteza sana wateja.
+
+Uchaguzi A ni si sahihi kwa sababu hata kama bei ya mahitaji ni ya juu sana, hii haiwezi kuwa sababu ya muuzaji kupitisha ushuru kwa watumiaji. 
+
+Uchaguzi C ni si sahihi kwa sababu bei ya mahitaji haina uhusiano na sarafu ya Litecoin.
+
+Uchaguzi D ni si sahihi kwa sababu mshahara wa mahitaji wa elastic haiwezi kuwa sababu ya muuzaji kupitisha ushuru kwa watumiaji.",
+"Kukosa msaada wa kujifunza kuna uwezekano mkubwa wa kuhusishwa moja kwa moja na
+A.Athari ya Barnum.
+B.upendeleo wa kujihudumia.
+C.locus ya nje ya udhibiti.
+D.mtazamo chanya usio na masharti.",C,"Jibu sahihi ni C. locus ya nje ya udhibiti.
+
+Kukosa msaada wa kujifunza inaweza kuwa na uhusiano na locus ya nje ya udhibiti. Watu wenye locus ya nje ya udhibiti huamini kuwa matokeo yao yanategemea mambo ambayo hayawezi kudhibiti, kama vile bahati, taaluma ya wengine, au maamuzi ya watu wengine. Hii inaweza kusababisha kukosa msaada wa kujifunza, kwa sababu watu hawa huamini kuwa mafanikio yao hayategemei juhudi zao wenyewe.
+
+Athari ya Barnum, upendeleo wa kujihudumia, na mtazamo chanya usio na masharti si majibu sahihi kwa swali hili.",
+"Swali hili linahusu taarifa ifuatayo.
+""Kwa kweli, kama vile fatwa za watu mashuhuri [wasomi] ambao wanazingatia maoni yao juu ya sababu na mila sawa na makubaliano ya jamii ya Sunni wanakubali kwamba wajibu wa kale wa kuangamizwa, kuangamizwa, na kufukuzwa kwa uvumbuzi mbaya lazima uwe lengo la hamu yetu ya kutukuzwa, kwani ""Ari ya kidini ni ushindi kwa Imani ya Mungu Mwingi wa Rehema""; Na kwa mujibu wa maneno ya Mtume (Swalla Allaahu 'alayhi wa sallam) ""Yeyote anayeanzisha uvumbuzi mbaya katika utaratibu wetu lazima afukuzwe"" na ""Yeyote anayefanya chochote kinyume na amri yetu lazima afukuzwe,"" hatua imekuwa muhimu na ya kutimuliwa...""
+Barua kutoka kwa Sultan wa Ottoman Selim I kwa Safavid Shah Ismail I, 1514
+Safavids walichora ire ya himaya za Kiislamu kama vile Ottoman na Dola za Mughal hasa kwa sababu Safavids
+A.walikuwa himaya ya upanuzi kijiografia iko kati ya upanuzi mwingine wawili
+B.Kukataa mafundisho ya msingi ya Uislamu
+C.Wakristo waliotumwa, na kuwageuza kuwa wapiganaji wa Safavid
+D.Ismail alijitangaza kuwa Khalifa",A,"Jibu sahihi ni B. Kukataa mafundisho ya msingi ya Uislamu.
+
+Maelezo:
+Katika barua hiyo, Sultan wa Ottoman Selim I anasema kwamba Safavids walichora ire ya himaya za Kiislamu kama vile Ottoman na Dola za Mughal hasa kwa sababu Safavids walikuwa wamekana mafundisho ya msingi ya Uislamu. Hii inaonyesha kwamba Safavids walikuwa na maoni tofauti na mafundisho ya Kiislamu ya kawaida, na hivyo walikataliwa na himaya nyingine za Kiislamu.
+
+Hivyo, jibu sahihi ni B. Kukataa mafundisho ya msingi ya Uislamu.",
+"Shambulio la marudiano ni nini?
+A.Wakati mshambuliaji anajibu ujumbe uliotumwa kwake na mfumo
+B.Shambulio ambalo linarudia kila wakati, likijaribu udhaifu
+C.Shambulio ambalo linatumia ujumbe wa mfumo wenyewe na hivyo haliwezi kutetewa dhidi ya
+D.Mshambuliaji hutuma ujumbe uliotekwa, na tovuti inakubali na kujibu kwa niaba ya mshambulizi",D,"B. Shambulio ambalo linarudia kila wakati, likijaribu udhaifu
+
+Shambulio la marudiano ni aina ya shambulio ambalo mshambuliaji hujaribu kurudia kwa mara nyingi, likijaribu kugunua udhaifu wa mfumo au programu. Hii ni kwa sababu mshambuliaji anajaribu kuona kama kuna njia yoyote ya kuingia katika mfumo kwa kutumia majibu ya mfumo mwenyewe. Hii ni tofauti na majibu ya mfumo kwa ujumbe uliotumwa na mshambuliaji (jibu A), au kutumia ujumbe uliotekwa kutoka mfumo (jibu D). Jibu C pia si sahihi kwa sababu shambulio la marudiano hujaribu kugunua udhaifu, badala ya kutumia ujumbe wa mfumo mwenyewe.",
+"Kwa nini Parfit inapinga usawa?
+A.Anadai kuwa jamii isiyo na usawa haiepukiki.
+B.Anadai kwamba kwa kutoa kipaumbele kwa mahitaji ya maskini, tunaweza kuongeza usawa.
+C.Anasisitiza kuwa kila mmoja wetu anawajibika kwa umaskini wetu.
+D.Anakataa wazo la usawa kabisa.",B,"Jibu sahihi ni B.
+
+Parfit anadai kwamba kwa kutoa kipaumbele kwa mahitaji ya maskini, tunaweza kuongeza usawa. Hii ni kwa sababu kwa kuongeza msaada kwa wale wenye hali ngumu, tunaweza kupunguza tofauti kati ya watu matajiri na maskini, na hivyo kuongeza kiwango cha usawa katika jamii.
+
+Parfit hakatai wazo la usawa kabisa (jibu D), na pia haoni kuwa jamii isiyo na usawa ni hali isiyo epukika (jibu A). Pia, hakuwa na msisitizo kwamba kila mmoja wetu anawajibika kwa umaskini wetu (jibu C).
+
+Kwa hiyo, jibu sahihi ni B, ambalo inaeleza mtazamo wa Parfit kuhusu usawa.",
 "Mtaalamu wa programu aliandika programu hapa chini. Programu hutumia orodha ya nambari inayoitwa numList. Programu hiyo imekusudiwa kuonyesha jumla ya nambari kwenye orodha.
  Jumla ← numList [1]
  KWA KILA THAMANI KATIKA NUMList
@@ -277,269 +574,689 @@ D.Irani",b,b,true
 A.Hitimisho ni sahihi; Programu hii inafanya kazi kama ilivyokusudiwa.
 B.Hitimisho sio sahihi; Programu haionyeshi thamani sahihi kwa kesi ya mtihani [0, 1, 4, 5].
 C.Hitimisho sio sahihi; Kutumia kesi ya mtihani [0, 1, 4, 5] haitoshi kuhitimisha programu ni sahihi.
-D.Hitimisho sio sahihi; Kutumia kesi ya mtihani [0, 1, 4, 5] inathibitisha tu kuwa programu inafanya kazi kwa orodha kwa mpangilio unaoongezeka.",c,a,false
-"Swali hili linahusu taarifa ifuatayo.
-""Kwa kweli, kama vile fatwa za watu mashuhuri [wasomi] ambao wanazingatia maoni yao juu ya sababu na mila sawa na makubaliano ya jamii ya Sunni wanakubali kwamba wajibu wa kale wa kuangamizwa, kuangamizwa, na kufukuzwa kwa uvumbuzi mbaya lazima uwe lengo la hamu yetu ya kutukuzwa, kwani ""Ari ya kidini ni ushindi kwa Imani ya Mungu Mwingi wa Rehema""; Na kwa mujibu wa maneno ya Mtume (Swalla Allaahu 'alayhi wa sallam) ""Yeyote anayeanzisha uvumbuzi mbaya katika utaratibu wetu lazima afukuzwe"" na ""Yeyote anayefanya chochote kinyume na amri yetu lazima afukuzwe,"" hatua imekuwa muhimu na ya kutimuliwa...""
-Barua kutoka kwa Sultan wa Ottoman Selim I kwa Safavid Shah Ismail I, 1514
-Safavids walichora ire ya himaya za Kiislamu kama vile Ottoman na Dola za Mughal hasa kwa sababu Safavids
-A.walikuwa himaya ya upanuzi kijiografia iko kati ya upanuzi mwingine wawili
-B.Kukataa mafundisho ya msingi ya Uislamu
-C.Wakristo waliotumwa, na kuwageuza kuwa wapiganaji wa Safavid
-D.Ismail alijitangaza kuwa Khalifa",a,d,false
-"Ukweli kwamba mzunguko wa ngozi ya infrared ya kloridi ya deuterium (DCl) huhamishwa kutoka kwa ile ya kloridi ya hidrojeni (HCl) ni kwa sababu ya tofauti katika yao
-A.Usambazaji wa elektroni
-B.wakati wa dipole
-C.Nguvu ya mara kwa mara
-D.Misa iliyopunguzwa",d,a,false
-" Kwa mujibu wa Nussbaum, kumchukulia mtu kama kitu ni
-A.kutosha kwa ajili ya kupinga ngono.
-B.Ni muhimu kwa ajili ya kupinga ngono.
-C.Sio lazima kwa ajili ya kupinga ngono.
-D.Yote ya hapo juu.",c,c,true
-"Ni ipi kati ya zifuatazo ni kweli ya hypothyroidism?
-A.Kupoteza uzito
-B.myxoedema ya kabla ya tibial
-C.Kiwango cha TSH kilichoinuliwa
-D.Chuki kwa maeneo ya joto",c,c,true
+D.Hitimisho sio sahihi; Kutumia kesi ya mtihani [0, 1, 4, 5] inathibitisha tu kuwa programu inafanya kazi kwa orodha kwa mpangilio unaoongezeka.",C,"Jibu sahihi ni C. Hitimisho sio sahihi; Kutumia kesi ya mtihani [0, 1, 4, 5] haitoshi kuhitimisha programu ni sahihi.
+
+Hii ni kwa sababu:
+- Kutumia kesi ya mtihani [0, 1, 4, 5] inaonyesha kuwa programu inafanya kazi kama ilivyokusudiwa kwa orodha hii.
+- Hata hivyo, kutumia kesi moja ya mtihani pekee haitoshi kuhitimisha kuwa programu inafanya kazi kwa kila orodha ya nambari.
+- Programu inaweza kufanya kazi kwa orodha fulani lakini kushindwa kufanya kazi kwa orodha nyingine.
+- Ili kuhitimisha kuwa programu inafanya kazi kama ilivyokusudiwa, inahitaji kuwa na zaidi ya kesi moja ya mtihani inayofanya kazi.
+
+Kwa hiyo, jibu sahihi ni C. Hitimisho sio sahihi; Kutumia kesi ya mtihani [0, 1, 4, 5] haitoshi kuhitimisha programu ni sahihi.",
+"Ni mtazamo gani wa kisaikolojia ulikuwa maarufu zaidi mwishoni mwa karne ya ishirini huko Ulaya Magharibi?
+A.neuroscience
+B.mabadiliko ya
+C.tabia ya tabia
+D.Psychoanalytic",D,"Jibu sahihi ni D. Psychoanalytic.
+
+Mwishoni mwa karne ya ishirini, mtazamo wa psychoanalytic ulikuwa maarufu zaidi katika Ulaya Magharibi. Psychoanalysis, iliyoasisiwa na Sigmund Freud, ilikuwa njia kuu ya kuelewa na kutafiti mfumo wa akili na tabia za binadamu.
+
+Mtazamo wa psychoanalytic uliangazia sana umuhimu wa vipengele visivyofahamika vya akili, kama vile vipengele vya undani vya mtu, ndoto, na matukio ya utotoni katika kuunda tabia za mtu. Hii ilikuwa tofauti na mitazamo mingine kama neuroscience au mabadiliko ya tabia, ambayo zilikuwa chini ya maendeleo katika wakati huo.
+
+Kwa hivyo, jibu sahihi ni D. Psychoanalytic.",
+"Ufanisi wa quantum wa detector ya photon ni 0.1. Ikiwa picha 100 zinatumwa kwenye detector, moja baada ya nyingine, detector itagundua photons
+A.Wastani wa mara 10, na kupotoka kwa RMS ya karibu 4
+B.Wastani wa mara 10, na kupotoka kwa RMS kwa karibu 3
+C.Wastani wa mara 10, na kupotoka kwa RMS ya karibu 1
+D.Wastani wa mara 10, na kupotoka kwa RMS ya karibu 0.1",B,"Jibu sahihi ni C. Wastani wa mara 10, na kupotoka kwa RMS ya karibu 1.
+
+Hii ni kwa sababu:
+
+Ufanisi wa quantum wa detector ya photon ni 0.1, ambayo ina maana kwamba detector itaona 10% ya photons zinazotumwa kwake.
+
+Ikiwa picha 100 zinatumwa kwenye detector, detector itaona wastani wa 10 photons kwa picha (100 photons x 0.1 = 10 photons).
+
+Kupotoka kwa RMS (Root Mean Square) ni kipimo cha vipimo vya photons zilizogundulika. Ikiwa ufanisi wa quantum ni 0.1, kupotoka kwa RMS itakuwa karibu na 1, kwa sababu vipimo vya photons zilizogundulika vitakuwa na mchanganyiko wa Poisson, ambayo ina RMS sawa na √n, ambapo n ni wastani wa photons zilizogundulika.
+
+Kwa hiyo, jibu sahihi ni C. Wastani wa mara 10, na kupotoka kwa RMS ya karibu 1.",
+"Kusafiri kwa kasi ya awali ya 1.5 × 10 ^ 6 m / s, protoni inaingia eneo la uwanja wa sumaku wa mara kwa mara wa ukubwa wa 1.5 T. Ikiwa vector ya awali ya protoni hufanya pembe ya 30 ° na uwanja wa sumaku, hesabu kasi ya protoni 4 s baada ya kuingia kwenye uwanja wa sumaku.
+A.5.0 × 10^6 m/s
+B.7.5 × 10^6 m / s
+C.1.5 × 10^6 m/s
+D.3.0 × 10^6 m/s",C,"Ili kutatua tatizo hili, tunatumia kanuni ya kurudia kasi ya protoni katika uwanja wa sumaku.
+
+Kasi ya awali ya protoni = 1.5 × 10^6 m/s
+Pembe ya awali ya protoni na uwanja wa sumaku = 30°
+Ukubwa wa uwanja wa sumaku = 1.5 T
+
+Kwa kutumia kanuni ya kurudia kasi ya protoni katika uwanja wa sumaku, tunaweza kupata kasi ya protoni baada ya 4 s.
+
+Kasi ya protoni baada ya 4 s = Kasi ya awali ya protoni × cos(pembe ya awali ya protoni na uwanja wa sumaku)
+Kasi ya protoni baada ya 4 s = 1.5 × 10^6 m/s × cos(30°)
+Kasi ya protoni baada ya 4 s = 1.5 × 10^6 m/s × 0.866
+Kasi ya protoni baada ya 4 s = 1.3 × 10^6 m/s
+
+Kwa hiyo, jibu sahihi ni C. 1.5 × 10^6 m/s.",
 " Katika mjadala wake wa ubaguzi katika vita, Valls anapendekeza kwamba
 A.Hakuna tofauti kati ya wapiganaji na wasio wapiganaji.
 B.Tofauti kati ya wapiganaji na wasio wapiganaji ni suala la kiwango.
 C.Tofauti kati ya wapiganaji na wasio wapiganaji ni categorical na wazi.
-D.""Ugaidi"" unapaswa kuelezewa kama vurugu zisizo na ubaguzi.",b,c,false
-"Kwa hali gani kati ya hizi mbili mhusika mkuu (anayetumia I / me / yangu) hufanya kitu kibaya kimaadili, kulingana na viwango vya kawaida vya maadili nchini Marekani kama ya 2020? Hali ya 1 | Wakati wazazi wangu walikuwa wamelala, nilienda kukimbia. Hali ya 2 | Nilimwaga sabuni ndani ya washer iliyojaa nguo za mwenzangu.
-A.Ni makosa, ya makosa
-B.Ni makosa, sio makosa
-C.Sio mbaya, ni makosa
-D.Sio mbaya, sio mbaya",d,c,false
-"Kwa hali gani kati ya hizi mbili mhusika mkuu (anayetumia I / me / yangu) hufanya kitu kibaya kimaadili, kulingana na viwango vya kawaida vya maadili nchini Marekani kama ya 2020? Hali ya 1 | Nilimuona Elton John maarufu nje ya uwanja wa tamasha na nikapiga picha yake bila kumuuliza. Hali ya 2 | Niliripoti mlinzi mwingine ambaye anaingiza madawa ya kulevya katika gereza na kuwauza kwa wafungwa.
-A.Ni makosa, ya makosa
-B.Ni makosa, sio makosa
-C.Sio mbaya, ni makosa
-D.Sio mbaya, sio mbaya",d,c,false
-"Mabadiliko ni makosa katika DNA ambayo:
-A.Daima ni hatari.
-B.Hutokea tu katika uwepo wa carcinogens.
-C.kuongeza ukuaji wa uvimbe.
-D.hutokea kwa hiari kwa kiwango cha chini.",d,d,true
-"Thamani ya nyumba katika jiji ina maana ya $ 125,000 na kupotoka kwa kiwango cha $ 23,000. Kwa sababu ya mkataba mpya wa walimu, wilaya ya shule inahitaji ziada ya 10% katika fedha ikilinganishwa na mwaka uliopita. Ili kuongeza fedha hizi za ziada, jiji linaagiza ofisi ya tathmini kuongeza maadili yote ya nyumba ya thamani kwa $ 5,000. Ni nini itakuwa kupotoka kwa kiwango kipya cha maadili ya nyumba katika jiji?
-A.$ 23,000 
-B.$ 25,300 
-C.$ 28,000 
-D.$ 30,300 ",a,d,false
-"Kwa hali gani kati ya hizi mbili mhusika mkuu (anayetumia I / me / yangu) hufanya kitu kibaya kimaadili, kulingana na viwango vya kawaida vya maadili nchini Marekani kama ya 2020? Hali ya 1 | Wakati mwingine ninajaribu kusema ukweli, isipokuwa kama inanipata katika shida. Hali ya 2 | Nilimbusu rafiki yangu wa kwenye onyesho la uchawi.
-A.Ni makosa, ya makosa
-B.Ni makosa, sio makosa
-C.Sio mbaya, ni makosa
-D.Sio mbaya, sio mbaya",b,c,false
-"Marekebisho ya mimea ili kupunguza upotezaji wa maji katika mazingira yenye joto kali ni pamoja na ipi kati ya yafuatayo?
-A.Stomata nyingi
-B.Vipandikizi vya Thin
-C.Spines badala ya majani
-D.Uwiano mkubwa wa uso-kwa-volume",c,d. uwiano mkubwa wa uso-kwa-volume,false
-"Kwa hali gani kati ya hizi mbili mhusika mkuu (anayetumia I / me / yangu) hufanya kitu kibaya kimaadili, kulingana na viwango vya kawaida vya maadili nchini Marekani kama ya 2020? Hali ya 1 | Nilikimbia juu ya zulia safi na lawnmower. Hali ya 2 | Nilikojoa kwenye mkono wangu ili niweze kuipima kwa maambukizi.
-A.Ni makosa, ya makosa
-B.Ni makosa, sio makosa
-C.Sio mbaya, ni makosa
-D.Sio mbaya, sio mbaya",a,a,true
-"Ustaarabu wa Nubian:
-A.Kuchochea na kuchochea kuongezeka kwa utamaduni wa Misri.
-B.Ilikuwa ni matokeo ya ukoloni wa Mesopotamia kusini.
-C.maendeleo katika kukabiliana na, lakini si katika kuiga ya, utamaduni wa Misri.
-D.Hakuwa na mawasiliano na tamaduni za jirani.",c,c,true
-"Nagel anadai kuwa tatizo la bahati ya maadili linahusiana kwa karibu na tatizo la:
-A.uwepo wa Mungu.
-B.Uhuru wa mapenzi.
-C.egoism ya kisaikolojia.
-D.kwa wote.",b,b,true
+D.""Ugaidi"" unapaswa kuelezewa kama vurugu zisizo na ubaguzi.",B,"Katika mjadala wake wa ubaguzi katika vita, Valls anapendekeza kwamba:
+
+B. Tofauti kati ya wapiganaji na wasio wapiganaji ni suala la kiwango.
+
+Maelezo:
+Valls anasema kwamba tofauti kati ya wapiganaji na wasio wapiganaji si ya kategoria, bali ni suala la kiwango. Yaani, kuna tofauti ya kiwango baina yao, lakini si tofauti ya kategoria.",
+"Taasisi ya serikali inahitajika kujumuisha taarifa ya mtiririko wa fedha katika taarifa zifuatazo za kifedha?
+A.Taarifa za fedha za mfuko wa serikali.
+B.Taarifa za kifedha za serikali.
+C.Taarifa za kifedha za mfuko wa fedha.
+D.Taarifa za kifedha za mfuko wa fedha.",C,"Jibu sahihi ni:
+
+B. Taarifa za kifedha za serikali.
+
+Taasisi ya serikali inahitajika kujumuisha taarifa ya mtiririko wa fedha katika taarifa za kifedha za serikali. Hii ni kwa sababu taarifa za kifedha za serikali zinahusisha taarifa za fedha za taasisi zote za serikali, ikiwa ni pamoja na mifuko ya fedha.
+
+Hivyo, jibu sahihi ni B. Taarifa za kifedha za serikali.",
+" Kwa mujibu wa Nussbaum, kumchukulia mtu kama kitu ni
+A.kutosha kwa ajili ya kupinga ngono.
+B.Ni muhimu kwa ajili ya kupinga ngono.
+C.Sio lazima kwa ajili ya kupinga ngono.
+D.Yote ya hapo juu.",C,"Kwa mujibu wa Nussbaum, kumchukulia mtu kama kitu ni sio lazima kwa ajili ya kupinga ngono.
+
+Nussbaum anaeleza kwamba kumchukulia mtu kama kitu ni moja ya mambo ambayo yanaweza kusababisha unyanyasaji wa kijinsia. Hata hivyo, hii sio lazima kwa ajili ya kupinga ngono. Kumchukulia mtu kama kitu ni tu moja ya mambo ambayo yanaweza kusababisha unyanyasaji, lakini sio lazima kwa ajili ya kupinga ngono.",
+"Ni ipi kati ya zifuatazo ni ya mwisho kumilikiwa na wanadamu?
+A.Guinea Mpya
+B.Australia
+C.New Zealandi
+D.Timor",C,"Jibu sahihi ni:
+D. Timor
+
+Timor Mashariki (East Timor) ilikuwa koloni ya Ureno hadi 2002, wakati ilipopata uhuru na kuwa nchi huru. Hivyo, Timor Mashariki ni nchi ya mwisho kati ya zile zilizotajwa kuwa koloni ya wanadamu.
+
+Guinea Mpya, Australia, na New Zealand zilipatikana na kukolezwa na wakoloni Ulaya mapema zaidi kuliko Timor Mashariki.",
 "Ni ipi kati ya kauli zifuatazo kuhusu kimetaboliki ya glucose ni sahihi?
 
 A.Glucagon huongeza kiwango cha glycolysis
 B.Glycolysis inahitaji NADP +
 C.Katika glycolysis, glucose ni cleaved katika mbili tatu-carbon bidhaa
-D.Bidhaa ya mwisho ya glycolysis katika seli nyekundu za damu ni pyruvate",c,d,false
+D.Bidhaa ya mwisho ya glycolysis katika seli nyekundu za damu ni pyruvate",C,"Kauli sahihi ni:
+
+D. Bidhaa ya mwisho ya glycolysis katika seli nyekundu za damu ni pyruvate.
+
+Maelezo:
+A. Sio sahihi. Glucagon huongeza kiwango cha gluconeogenesis, ambayo ni mchakato wa kuunda glucose kutoka kwa viungo vingine kama amino asidi na lakitati, badala ya kuongeza kiwango cha glycolysis.
+
+B. Sio sahihi. Glycolysis inahitaji NAD+ badala ya NADP+.
+
+C. Sio sahihi. Katika glycolysis, glucose ni cleaved katika mbili bidhaa za carbon-6, sio mbili tatu-carbon bidhaa.",
 "Kwa mujibu wa Singer, kufuata kanuni yake inahitaji:
 A.mabadiliko ya tabia zetu binafsi, lakini si kwa jamii yetu kwa ujumla.
 B.mabadiliko ya kawaida kwa tabia zetu binafsi, na pia kwa jamii.
 C.Mabadiliko makubwa ya tabia zetu binafsi, lakini si kwa jamii yetu.
-D.Mabadiliko makubwa kwa tabia zetu binafsi na kwa jamii yetu.",d,d,true
+D.Mabadiliko makubwa kwa tabia zetu binafsi na kwa jamii yetu.",D,"Kwa mujibu wa kanuni ya Singer, jibu sahihi ni B. Mabadiliko ya kawaida kwa tabia zetu binafsi, na pia kwa jamii.
+
+Kwa mujibu wa Singer, kufuata kanuni yake inahitaji mabadiliko ya kawaida katika tabia zetu binafsi pamoja na mabadiliko katika jamii kwa ujumla. Hii ni kwa sababu Singer anasema kwamba mabadiliko ya tabia za mtu binafsi pekee hayatoshi, bali pia lazima kuwe na mabadiliko katika muundo wa jamii kwa ujumla.",
+"Ili kuhamasisha uandikishaji wa chuo, serikali hutoa msamaha wa kodi ya $ 200 kwa ushuru wa serikali kwa wale ambao ni wanafunzi wa wakati wote katika vyuo ndani ya serikali. Wanafunzi wa wanaohudhuria nusu ya muda bado wanaruhusiwa msamaha wa kodi ya dola 100, wakati wanafunzi wa kiume wanaohudhuria nusu ya muda hawaruhusiwi tena msamaha wowote wa kodi. Ni ipi kati ya yafuatayo kwa usahihi zaidi inafupisha utawala sahihi wa sheria ya kikatiba kuhusu msamaha wa kodi ya serikali kwa wanafunzi wanaojiandikisha nusu wakati?
+A.Msamaha wa kodi utabatilishwa kama kukataa mchakato unaofaa.
+B.Msamaha wa kodi utabatilishwa kama ukiukaji wa kifungu sawa cha ulinzi.
+C.Hatua ya ushuru itazingatiwa kama ndani ya eneo la mchakato wa msingi.
+D.Hatua ya kodi itazingatiwa kama ndani ya nguvu ya manispaa ya kulipa kodi ya madarasa tofauti ya watu bila usawa.",B,"Jibu sahihi ni B. Msamaha wa kodi utabatilishwa kama ukiukaji wa kifungu sawa cha ulinzi.
+
+Utawala sahihi wa sheria ya kikatiba kuhusu msamaha wa kodi ya serikali kwa wanafunzi wanaojiandikisha nusu wakati unahitaji usawa wa kikatiba. Kutoa msamaha wa kodi kwa wanafunzi wa wakati wote lakini kukataa msamaha kwa wanafunzi wa nusu wakati ni ukiukaji wa kifungu sawa cha ulinzi katika katiba.
+
+Hivyo, jibu B ni sahihi kwa sababu msamaha wa kodi utabatilishwa kama ukiukaji wa kifungu sawa cha ulinzi katika katiba.",
+"Marekebisho ya mimea ili kupunguza upotezaji wa maji katika mazingira yenye joto kali ni pamoja na ipi kati ya yafuatayo?
+A.Stomata nyingi
+B.Vipandikizi vya Thin
+C.Spines badala ya majani
+D.Uwiano mkubwa wa uso-kwa-volume",C,"Jibu sahihi ni:
+
+C. Spines badala ya majani
+
+Mimea inayoishi katika mazingira yenye joto kali hutumia mbinu mbalimbali za kupunguza upotezaji wa maji. Moja ya mbinu hizo ni kuwa na spines badala ya majani.
+
+Spines husaidia kupunguza eneo la uso wa mimea, hivyo kupunguza upotezaji wa maji kupitia transpirasheni. Hii ni kwa sababu spines yana sehemu ndogo ya uso ikilinganishwa na majani ya kawaida.
+
+Hivyo, jibu sahihi ni C. Spines badala ya majani.",
+"Thamani ya nyumba katika jiji ina maana ya $ 125,000 na kupotoka kwa kiwango cha $ 23,000. Kwa sababu ya mkataba mpya wa walimu, wilaya ya shule inahitaji ziada ya 10% katika fedha ikilinganishwa na mwaka uliopita. Ili kuongeza fedha hizi za ziada, jiji linaagiza ofisi ya tathmini kuongeza maadili yote ya nyumba ya thamani kwa $ 5,000. Ni nini itakuwa kupotoka kwa kiwango kipya cha maadili ya nyumba katika jiji?
+A.$ 23,000 
+B.$ 25,300 
+C.$ 28,000 
+D.$ 30,300 ",A,"Ili kutatua swali hili, tunahitaji kufanya hesabu zifuatazo:
+
+1. Thamani ya nyumba = $ 125,000
+2. Kupotoka kwa kiwango = $ 23,000
+3. Ongezeko la 10% katika fedha za wilaya ya shule
+4. Ongezeko la $ 5,000 katika thamani ya nyumba
+
+Kwa hiyo, kupotoka kwa kiwango kipya cha maadili ya nyumba katika jiji ni:
+Kupotoka kwa kiwango = $ 23,000 + (10% ya $ 125,000) = $ 23,000 + $ 12,500 = $ 35,500
+
+Jibu sahihi ni D. $ 30,300",
 "Kwa hali gani kati ya hizi mbili mhusika mkuu (anayetumia I / me / yangu) hufanya kitu kibaya kimaadili, kulingana na viwango vya kawaida vya maadili nchini Marekani kama ya 2020? Hali ya 1 | Nilipiga kelele kwenye mapumziko yangu ili kukosa mpira wakati ilipoingia barabarani. Hali ya 2 | Niliwafundisha watoto wangu kucheza xylophone.
 A.Ni makosa, ya makosa
 B.Ni makosa, sio makosa
 C.Sio mbaya, ni makosa
-D.Sio mbaya, sio mbaya",d,b,false
-"Ni ipi kati ya zifuatazo ni ya mwisho kumilikiwa na wanadamu?
-A.Guinea Mpya
-B.Australia
-C.New Zealandi
-D.Timor",c,b,false
+D.Sio mbaya, sio mbaya",D,"Kwa kuzingatia viwango vya maadili nchini Marekani kama ya 2020, jibu sahihi ni:
+
+B. Ni makosa, sio makosa
+
+Kwa hali ya 1, kupigia kelele kwenye mapumziko ili kukosa mpira wakati ulipoingia barabarani inaweza kuchukuliwa kama tabia isiyofaa na inaweza kuathiri watu wengine. Hata hivyo, hii si kosa kubwa la kimaadili.
+
+Kwa hali ya 2, kuwafundisha watoto wako kucheza xylophone si kosa la kimaadili. Ni jambo chanya na linaweza kuwa na faida kwa watoto.
+
+Kwa hivyo, hali ya 1 ni makosa, lakini sio makosa makubwa, wakati hali ya 2si makosa.",
+"Kwa hali gani kati ya hizi mbili mhusika mkuu (anayetumia I / me / yangu) hufanya kitu kibaya kimaadili, kulingana na viwango vya kawaida vya maadili nchini Marekani kama ya 2020? Hali ya 1 | Wakati wazazi wangu walikuwa wamelala, nilienda kukimbia. Hali ya 2 | Nilimwaga sabuni ndani ya washer iliyojaa nguo za mwenzangu.
+A.Ni makosa, ya makosa
+B.Ni makosa, sio makosa
+C.Sio mbaya, ni makosa
+D.Sio mbaya, sio mbaya",D,"Kwa kuzingatia viwango vya maadili nchini Marekani kama ya 2020, jibu sahihi ni:
+
+A. Ni makosa, ya makosa
+
+Kwa hali ya 1, kuenda kukimbia wakati wazazi wangu walikuwa wamelala ni kitendo kibaya kimaadili. Hii ni kwa sababu kuondoka nyumbani bila ruhusa ya wazazi ni kinyume cha matarajio ya kawaida ya maadili na uadilifu.
+
+Kwa hali ya 2, kumwaga sabuni ndani ya washer ya mwenzangu pia ni kitendo kibaya kimaadili. Hii ni kwa sababu kuingilia mali ya mtu mwingine bila ruhusa ni kinyume cha maadili.
+
+Kwa hiyo, katika hali zote mbili, mhusika mkuu (anayetumia I / me / yangu) amefanya vitendo vya makosa ya maadili, kulingana na viwango vya kawaida vya maadili nchini Marekani kama ya 2020.",
+"Kwa hali gani kati ya hizi mbili mhusika mkuu (anayetumia I / me / yangu) hufanya kitu kibaya kimaadili, kulingana na viwango vya kawaida vya maadili nchini Marekani kama ya 2020? Hali ya 1 | Nilikimbia juu ya zulia safi na lawnmower. Hali ya 2 | Nilikojoa kwenye mkono wangu ili niweze kuipima kwa maambukizi.
+A.Ni makosa, ya makosa
+B.Ni makosa, sio makosa
+C.Sio mbaya, ni makosa
+D.Sio mbaya, sio mbaya",A,"Kwa kuzingatia viwango vya maadili nchini Marekani kama ya 2020, jibu sahihi ni:
+
+A. Ni makosa, ya makosa
+
+Kwa hali ya 1, kulikimbia juu ya zulia safi na lawnmower ni kitendo kibaya kimaadili kwa sababu ni uharibifu wa mali ya mtu mwingine na inaweza kusababisha madhara. Hii ni kosa la jinai.
+
+Kwa hali ya 2, kujojoa kwenye mkono wako ili upime maambukizi ni kitendo kibaya kimaadili kwa sababu ni uchafu na unaweza kusababisha madhara kwa afya ya mtu mwingine. Hii pia ni kosa la jinai.
+
+Kwa hiyo, kwa hali zote mbili, mhusika mkuu (anayetumia I/me/yangu) amefanya vitendo vibaya kimaadili, ambavyo ni makosa ya jinai kulingana na viwango vya kawaida vya maadili nchini Marekani kama ya 2020.",
+"Mabadiliko ni makosa katika DNA ambayo:
+A.Daima ni hatari.
+B.Hutokea tu katika uwepo wa carcinogens.
+C.kuongeza ukuaji wa uvimbe.
+D.hutokea kwa hiari kwa kiwango cha chini.",D,"Jibu sahihi ni C. Mabadiliko katika DNA ambayo huongeza ukuaji wa uvimbe.
+
+Maelezo:
+
+A. Siyo sahihi. Mabadiliko katika DNA si daima hatari. Baadhi ya mabadiliko huweza kuwa na athari chache au hata kuwa na faida.
+
+B. Siyo sahihi. Mabadiliko katika DNA hutokea pia bila uwepo wa carcinogens (vitu vinavyosababisha saratani).
+
+C. Sahihi. Mabadiliko katika DNA ambayo huongeza ukuaji wa uvimbe ni moja ya athari muhimu za mabadiliko hayo.
+
+D. Siyo sahihi. Mabadiliko katika DNA hutokea kwa hiari lakini si kwa kiwango cha chini. Mabadiliko hayo hutokea mara kwa mara katika DNA yetu.
+
+Kwa hiyo, jibu sahihi ni C. Mabadiliko katika DNA ambayo huongeza ukuaji wa uvimbe.",
+"Mamlaka hii ina sheria ifuatayo ya jinai katika athari: ""Mtu hahusiki na mwenendo wa jinai ikiwa wakati wa mwenendo huo, kwa sababu ya ugonjwa wa akili au kasoro, hana uwezo mkubwa wa kufahamu makosa ya mwenendo wake, au kufuata mwenendo wake kwa mahitaji ya sheria. "" Mchana mmoja, mshtakiwa alikuwa akimnyonyesha mpwa wake wa miaka mitano. Walipokuwa wakicheza nje, mshtakiwa alitupa mpira juu ya kichwa cha mpwa wake, na ikaingia mitaani. Kwa kushangaza, mpwa alikimbia baada ya mpira lakini akaruka juu ya gutter na akaanguka mitaani. Aliposafiri, mpwa wake alitema kifundo cha mguu na hakuweza kusimama. Muda mfupi baadaye, lori kubwa la takataka lilikuwa likisimama na kukimbia juu ya mpwa wake, na kumuua. Ingawa mshtakiwa aliona hali ya mpwa wake, hakufanya juhudi za kumwokoa. Baadaye, mshtakiwa alishtakiwa kwa mauaji ya bila kukusudia. Katika kesi hiyo, mshtakiwa alitoa ushahidi kuwa alishtuka sana alipoona mpwa wake akianguka karibu na lori la takataka ambalo alilizuia na hakuweza kusonga hadi lilipochelewa. Kufuatia ushahidi wa mshtakiwa, shahidi wa kitaalamu alitoa ushahidi kwa upande wa utetezi kwamba majibu ya aina iliyoelezwa na mshtakiwa si ya kawaida wakati tukio la kushtua linapotokea. Kama jopo la majaji linaamini ushahidi wa mshtakiwa na shahidi wake mtaalamu, utetezi bora wa mshtakiwa ni upi kati ya yafuatayo?
+A.Mtuhumiwa alikuwa akisumbuliwa na ukosefu wa usafi wa muda.
+B.Mshtakiwa alikosa hali ya akili inayohitajika kwa tume ya uhalifu.
+C.Kushindwa kwa mshtakiwa kutenda haikuwa kwa hiari.
+D.Dhima ya jinai ya mshtakiwa ilizidiwa na ile ya dereva wa lori.",C,"Kwa kuzingatia ushahidi ulioulizwa, jibu sahihi ni:
+
+B. Mshtakiwa alikosa hali ya akili inayohitajika kwa tume ya uhalifu.
+
+Hii ni kwa sababu sheria ya jinai inasema kwamba mtu hahusiki na mwenendo wa jinai ikiwa wakati wa mwenendo huo, kwa sababu ya ugonjwa wa akili au kasoro, hana uwezo mkubwa wa kufahamu makosa ya mwenendo wake, au kufuata mwenendo wake kwa mahitaji ya sheria.
+
+Ushahidi unaonyesha kwamba mshtakiwa alikuwa na hali ya akili ambayo ilimzuia kufahamu makosa ya mwenendo wake na kufuata mahitaji ya sheria. Pia, shahidi wa kitaalamu alitoa ushahidi kwamba majibu ya aina iliyoelezwa na mshtakiwa si ya kawaida wakati tukio la kushtua linapotokea. Kwa hiyo, jibu sahihi ni B.",
 "Matumizi makubwa ya maziwa
 
 A.Imeripotiwa kuhusishwa na matukio ya juu ya fracture na vifo vya juu katika masomo machache
 B.Wakati wa kubalehe inaonekana kuhusishwa na wiani wa juu wa madini ya mfupa katika maisha ya baadaye
 C.Inahusishwa mara kwa mara na kiwango cha chini cha fractures
-D.Katika nchi zilizo na kiwango cha juu cha fracture inaonyesha kuwa matumizi ya maziwa ni ya manufaa kwa mifupa.",a,b,false
-"Kwa hali gani kati ya hizi mbili mhusika mkuu (anayetumia I / me / yangu) hufanya kitu kibaya kimaadili, kulingana na viwango vya kawaida vya maadili nchini Marekani kama ya 2020? Hali ya 1 | Wakati friji ya mgahawa wangu ilipovunjika, nilitumikia nyama ya joto ingawa nilijua kuwa haikuwa salama sana. Hali ya 2 | Niliamua kuanzisha moto katika msitu.
-A.Ni makosa, ya makosa
-B.Ni makosa, sio makosa
-C.Sio mbaya, ni makosa
-D.Sio mbaya, sio mbaya",a,c,false
-"Taasisi ya serikali inahitajika kujumuisha taarifa ya mtiririko wa fedha katika taarifa zifuatazo za kifedha?
-A.Taarifa za fedha za mfuko wa serikali.
-B.Taarifa za kifedha za serikali.
-C.Taarifa za kifedha za mfuko wa fedha.
-D.Taarifa za kifedha za mfuko wa fedha.",c,b,false
+D.Katika nchi zilizo na kiwango cha juu cha fracture inaonyesha kuwa matumizi ya maziwa ni ya manufaa kwa mifupa.",A,"Jibu sahihi ni:
+
+D. Katika nchi zilizo na kiwango cha juu cha fracture inaonyesha kuwa matumizi ya maziwa ni ya manufaa kwa mifupa.
+
+Maelezo:
+A. Hii si sahihi. Matumizi makubwa ya maziwa haijumuishwa na matukio ya juu ya fracture au vifo.
+B. Hii si sahihi. Matumizi makubwa ya maziwa imeonyeshwa kuwa inasaidia kuongeza madini ya mfupa wakati wa kubalehe, na hivyo kuongeza afya ya mifupa katika maisha ya baadaye.
+C. Hii si sahihi. Matumizi makubwa ya maziwa imeonyeshwa kuwa inashirikishwa na kiwango cha chini cha fractures.
+D. Hii ni sahihi. Katika nchi zilizo na kiwango cha juu cha fracture, matumizi makubwa ya maziwa imeonyeshwa kuwa ni ya manufaa kwa afya ya mifupa.",
+"Ustaarabu wa Nubian:
+A.Kuchochea na kuchochea kuongezeka kwa utamaduni wa Misri.
+B.Ilikuwa ni matokeo ya ukoloni wa Mesopotamia kusini.
+C.maendeleo katika kukabiliana na, lakini si katika kuiga ya, utamaduni wa Misri.
+D.Hakuwa na mawasiliano na tamaduni za jirani.",C,"Jibu sahihi ni C.
+
+Maelezo:
+A. Siyo sahihi. Utamaduni wa Nubia ulikuwa na maendeleo yake mwenyewe na haukuchochewa na utamaduni wa Misri.
+B. Siyo sahihi. Utamaduni wa Nubia ulikuwa na maendeleo yake mwenyewe na haukuathiriwa na ukoloni wa Mesopotamia.
+C. Hii ni sahihi. Utamaduni wa Nubia ulikuwa na maendeleo yake mwenyewe, lakini pia ulikuwa na mwingiliano na utamaduni wa Misri.
+D. Siyo sahihi. Nubia ilikuwa na mawasiliano na tamaduni za jirani, ikiwemo Misri.
+
+Kwa hiyo, jibu sahihi ni C.",
 "Ni ipi kati ya kauli zifuatazo ni sahihi kwani inahusiana na mabadiliko katika makadirio ya uhasibu?
 A.Mabadiliko mengi katika makadirio ya uhasibu yanahesabiwa kwa retrospectively.
 B.Wakati wowote haiwezekani kuamua kama mabadiliko katika makadirio au mabadiliko katika kanuni ya uhasibu yalitokea, mabadiliko yanapaswa kuchukuliwa kuwa mabadiliko katika kanuni.
 C.Wakati wowote haiwezekani kuamua kama mabadiliko katika makadirio ya uhasibu au mabadiliko katika kanuni ya uhasibu yametokea, mabadiliko yanapaswa kuchukuliwa kuwa mabadiliko katika makadirio.
-D.Ni rahisi kutofautisha kati ya mabadiliko katika makadirio ya uhasibu na mabadiliko katika kanuni ya uhasibu kuliko kutofautisha kati ya mabadiliko katika makadirio ya uhasibu na marekebisho ya kosa.",c,c,true
-"Mgombea wa kuandika ni Mmarekani mwenye asili ya Mexico na ana maoni kwamba anahitaji idadi kubwa ya wapiga kura wa Mexico ili kushinda uchaguzi. Matokeo yake, meneja wake wa kampeni, anaamua kutuma barua kwa kila mpiga kura wa Mexico aliyesajiliwa stika ya machozi, ambayo ina jina la mgombea na ofisi ambayo anagombea. Kwa kuwa watu wengi wa asili ya Mexico hawana ujuzi wa kusoma na kuandika Kiingereza, meneja wa kampeni anaamini kwamba wapiga kura wengi watakuwa na shida kuandika jina la mgombea na ofisi kwenye kura. Matokeo yake, meneja wa kampeni ameanzisha kampeni kubwa ya vyombo vya habari kuwajulisha wapiga kura jinsi ya kutumia stika kwenye kura. Miezi mitano kabla ya uchaguzi, afisa wa uchaguzi anaiarifu kamati ya kampeni ya mgombea kwamba vibandiko vya machozi havizingatii sheria ya serikali. Katika barua yake, afisa huyo anaeleza kuwa maafisa wa uchaguzi wa jimbo wana maoni kwamba ni muhimu kwa wapiga kura wenye uwezo kuandika jina la mgombea kwa wino. Kwa hivyo, anahitimisha kuwa stika hazizingatii mahitaji ya kisheria. Wiki tatu baadaye, mgombea huyo aliwasilisha kesi katika mahakama ya wilaya ya shirikisho dhidi ya maafisa wa uchaguzi wa jimbo wakidai kuwa tafsiri yao ya sheria ya serikali inakiuka Katiba ya Marekani. Ni ipi kati ya yafuatayo, ikiwa imeanzishwa, inaweka hoja kali ya kikatiba inayounga mkono tafsiri ya afisa wa uchaguzi wa sheria?
-A.Idadi ya wapiga kura miongoni mwa wapiga kura wa Mexico ambao hawana ujuzi wa Kiingereza imekuwa chini ya asilimia 1 ya jumla ya majimbo yote katika uchaguzi wa hivi karibuni.
-B.Sheria ya serikali inahitaji kwamba kila kibanda cha kupigia kura kiwe na kalamu ya wino ili kuwezesha uandishi wa kura.
-C.Kwa kuwa idadi kubwa ya kura za kuandika kwa ujumla huongeza muda unaohitajika kuhesabu kura zote, ni muhimu kupiga kura kama hizo kwa njia sawa.
-D.Uwezekano wa udanganyifu wa kupiga kura ni mkubwa zaidi na stika zilizochapishwa mapema.",d,c,false
+D.Ni rahisi kutofautisha kati ya mabadiliko katika makadirio ya uhasibu na mabadiliko katika kanuni ya uhasibu kuliko kutofautisha kati ya mabadiliko katika makadirio ya uhasibu na marekebisho ya kosa.",C,"Kauli sahihi ni C.
+
+Maelezo:
+
+A. Ni sahihi kwamba mabadiliko mengi katika makadirio ya uhasibu yanahesabiwa kwa retrospectively, lakini hii si kauli kamili.
+
+B. Hii kauli ni sahihi, lakini si kamili. Wakati mwingine inawezekana kutofautisha kati ya mabadiliko katika makadirio na mabadiliko katika kanuni.
+
+C. Hii ni kauli sahihi. Wakati wowote haiwezekani kuamua kama mabadiliko katika makadirio ya uhasibu au mabadiliko katika kanuni ya uhasibu yametokea, mabadiliko yanapaswa kuchukuliwa kuwa mabadiliko katika makadirio.
+
+D. Hii kauli si sahihi. Ni ngumu zaidi kutofautisha kati ya mabadiliko katika makadirio ya uhasibu na mabadiliko katika kanuni ya uhasibu kuliko kutofautisha kati ya mabadiliko katika makadirio ya uhasibu na marekebisho ya kosa.",
+"Ni ipi kati ya zifuatazo ni kweli ya hypothyroidism?
+A.Kupoteza uzito
+B.myxoedema ya kabla ya tibial
+C.Kiwango cha TSH kilichoinuliwa
+D.Chuki kwa maeneo ya joto",C,"Kati ya zifuatazo, jibu sahihi ni:
+
+C. Kiwango cha TSH kilichoinuliwa
+
+Hypothyroidism ni hali ambapo tezi ya thyroid haitengenezi kiwango cha kutosha cha homoni ya thyroid. Dalili kuu za hypothyroidism ni:
+
+A. Kupoteza uzito - Ni kweli, mtu anaweza kupoteza uzito kutokana na hypothyroidism.
+
+B. Myxoedema ya kabla ya tibial - Hii si dalili ya kawaida ya hypothyroidism. Myxoedema ni dalili ya kiwango cha juu cha hypothyroidism.
+
+C. Kiwango cha TSH kilichoinuliwa - Hii ni dalili kuu ya hypothyroidism. Kiwango cha TSH (Thyroid Stimulating Hormone) huongezeka katika hypothyroidism.
+
+D. Chuki kwa maeneo ya joto - Hii si dalili ya kawaida ya hypothyroidism. Mtu anaweza kuwa na chuki kwa maeneo ya joto lakini si sababu ya hypothyroidism.
+
+Kwa hiyo, jibu sahihi ni C. Kiwango cha TSH kilichoinuliwa.",
+"Kwa hali gani kati ya hizi mbili mhusika mkuu (anayetumia I / me / yangu) hufanya kitu kibaya kimaadili, kulingana na viwango vya kawaida vya maadili nchini Marekani kama ya 2020? Hali ya 1 | Wakati friji ya mgahawa wangu ilipovunjika, nilitumikia nyama ya joto ingawa nilijua kuwa haikuwa salama sana. Hali ya 2 | Niliamua kuanzisha moto katika msitu.
+A.Ni makosa, ya makosa
+B.Ni makosa, sio makosa
+C.Sio mbaya, ni makosa
+D.Sio mbaya, sio mbaya",A,"Kwa kuzingatia viwango vya maadili nchini Marekani kama ya 2020, jibu sahihi ni:
+
+A. Ni makosa, ya makosa
+
+Kwa hali ya 1, kula nyama ya joto ingawa unajua kuwa haikuwa salama sana ni kitendo kibaya kimaadili. Hii ni kwa sababu unaweza kuhatarisha afya ya watu wengine kwa kula nyama iliyohifadhiwa vibaya.
+
+Kwa hali ya 2, kuanzisha moto katika msitu pia ni kitendo kibaya kimaadili. Hii ni kwa sababu unaweza kusababisha uharibifu mkubwa wa mazingira na kuhatarisha usalama wa watu.
+
+Kwa hivyo, katika hali zote mbili, mhusika mkuu (anayetumia I / me / yangu) amefanya vitendo vya makosa ya maadili kulingana na viwango vya Marekani kama ya 2020.",
+"Nagel anadai kuwa tatizo la bahati ya maadili linahusiana kwa karibu na tatizo la:
+A.uwepo wa Mungu.
+B.Uhuru wa mapenzi.
+C.egoism ya kisaikolojia.
+D.kwa wote.",B,"Jibu sahihi ni B. Uhuru wa mapenzi.
+
+Tatizo la bahati ya maadili linahusiana kwa karibu na tatizo la uhuru wa mapenzi. Hii ni kwa sababu suala la uhuru wa mapenzi ni moja ya masuala muhimu katika falsafa ya maadili.
+
+Kama binadamu tuna uhuru wa kuchagua matendo yetu, je hii inamaanisha kwamba hatuna dhamana kwa matendo yetu? Hili ni suala muhimu katika falsafa ya maadili.
+
+Hivyo, uhuru wa mapenzi ni suala muhimu linalohusiana na tatizo la bahati ya maadili, kama alivyobainisha Nagel.
+
+Chaguo A (uwepo wa Mungu), C (egoism ya kisaikolojia), na D (kwa wote) si majibu sahihi kwa swali hili.",
+"Kwa hali gani kati ya hizi mbili mhusika mkuu (anayetumia I / me / yangu) hufanya kitu kibaya kimaadili, kulingana na viwango vya kawaida vya maadili nchini Marekani kama ya 2020? Hali ya 1 | Nilimuona Elton John maarufu nje ya uwanja wa tamasha na nikapiga picha yake bila kumuuliza. Hali ya 2 | Niliripoti mlinzi mwingine ambaye anaingiza madawa ya kulevya katika gereza na kuwauza kwa wafungwa.
+A.Ni makosa, ya makosa
+B.Ni makosa, sio makosa
+C.Sio mbaya, ni makosa
+D.Sio mbaya, sio mbaya",D,"Kwa kuzingatia viwango vya maadili nchini Marekani kama ya 2020, jibu sahihi ni:
+
+A. Ni makosa, ya makosa
+
+Hali ya 1: Kupiga picha ya Elton John bila kupata idhini yake ni kosa la maadili, ingawa si kosa kubwa. Hii inaweza kuchukuliwa kama ukiukaji wa faragha ya mtu.
+
+Hali ya 2: Kuripoti mlinzi anayeingia madawa ya kulevya katika gereza na kuwauza kwa wafungwa ni tendo la kimaadili na la kisheria. Hii ni kosa kubwa kwa sababu inahusisha ufisadi, uingizaji wa madawa ya kulevya na uuzaji wa bidhaa haramu.
+
+Kwa hivyo, katika hali zote mbili, mhusika mkuu (anayetumia ""I/me/yangu"") amefanya vitendo vya kimaadili ambavyo vinaweza kuchukuliwa kama makosa, na hivyo jibu sahihi ni A. Ni makosa, ya makosa.",
+"Kwa hali gani kati ya hizi mbili mhusika mkuu (anayetumia I / me / yangu) hufanya kitu kibaya kimaadili, kulingana na viwango vya kawaida vya maadili nchini Marekani kama ya 2020? Hali ya 1 | Wakati mwingine ninajaribu kusema ukweli, isipokuwa kama inanipata katika shida. Hali ya 2 | Nilimbusu rafiki yangu wa kwenye onyesho la uchawi.
+A.Ni makosa, ya makosa
+B.Ni makosa, sio makosa
+C.Sio mbaya, ni makosa
+D.Sio mbaya, sio mbaya",B,"Kulingana na viwango vya maadili nchini Marekani kama ya 2020, jibu sahihi ni:
+
+C. Sio mbaya, ni makosa
+
+Hali ya 1: Wakati mwingine ninajaribu kusema ukweli, isipokuwa kama inanipata katika shida.
+Kuficha ukweli kwa sababu ya kuogopa matokeo yake si kitendo cha kimaadili, ingawa inaweza kuwa na sababu za msingi. Hata hivyo, ni makosa kulingana na viwango vya kawaida vya maadili.
+
+Hali ya 2: Nilimbusu rafiki yangu wa kwenye onyesho la uchawi.
+Kubusu mtu bila idhini yake ni kitendo cha kimaadili kibaya, hata kama ilikuwa katika muktadha wa onyesho la uchawi. Hii inaweza kuwa ni makosa ya kimaadili, ingawa inaweza kuwa na sababu za msingi.
+
+Kwa hiyo, katika hali zote mbili, mhusika mkuu (anayetumia I / me / yangu) amefanya vitendo ambavyo si vibaya sana, lakini bado ni makosa kulingana na viwango vya kawaida vya maadili nchini Marekani kama ya 2020.",
 "Dereva wa gari la abiria aliyeendesha gari hilo alijeruhi vibaya dereva mwingine. Dereva huyo alitajwa kwa kusafiri katika njia isiyo sahihi na kulipa faini. Dereva alikuwa na kikomo cha sera ya $ 15,000 tu kwa dhima ya mtu wa tatu kwenye sera yake ya bima. Baada ya kutoa bima ya dereva na ripoti kamili ya matibabu, bili zote za matibabu, rekodi za matibabu, na ushahidi mwingine unaohitajika wa uharibifu, mdai aliyejeruhiwa alidai mipaka ya sera. Mdai alitoa taarifa kwamba madai mabaya ya imani yatawasilishwa ikiwa mipaka ya sera haikulipwa mara moja. Kampuni ya bima ilikataa malipo bila maelezo. Jopo la majaji lilimpa mdai aliyejeruhiwa dola 200,000. Mdai aliyejeruhiwa alipata kazi iliyosainiwa kutoka kwa mwendeshaji wa gari la uzembe akimpa mdai haki yoyote ambayo dereva anaweza kuwa nayo dhidi ya bima yake. Je, mahakama italazimisha kampuni ya bima kulipa kiasi kamili cha hukumu ya jury kwa mtu aliyejeruhiwa chini ya ukweli huu?
 A.Kikomo cha sera ni $ 15,000 na hiyo ndio yote ambayo inaweza kukusanywa na mtu aliyejeruhiwa hakuna hatua ya imani mbaya juu ya mkataba wa bima.
 B.Kampuni ya bima ilivunja agano lililoonyeshwa la imani nzuri na kushughulika kwa haki ambayo haifai katika kila mkataba wa bima na lazima ilipe kiasi kamili cha hukumu.
 C.Imani mbaya ni ya kibinafsi kwa chama cha bima na bima yake kazi ilikuwa batili, na mtu aliyejeruhiwa hana madai ya kulazimisha bima kulipa.
-D.Chama kilichojeruhiwa lazima kitekeleze hukumu yake yote dhidi ya dereva na kamwe hawezi kufuata bima kwa kiasi hicho.",c,b,false
+D.Chama kilichojeruhiwa lazima kitekeleze hukumu yake yote dhidi ya dereva na kamwe hawezi kufuata bima kwa kiasi hicho.",C,"Jibu sahihi ni B. Kampuni ya bima ilivunja agano lililoonyeshwa la imani nzuri na kushughulika kwa haki ambayo haifai katika kila mkataba wa bima na lazima ilipe kiasi kamili cha hukumu.
+
+Hii ni kwa sababu:
+
+1. Dereva alikuwa na kikomo cha sera ya $15,000 tu kwa dhima ya mtu wa tatu kwenye sera yake ya bima. Hata hivyo, jopo la majaji lilimpa mdai aliyejeruhiwa dola 200,000.
+
+2. Kampuni ya bima ilikataa malipo bila maelezo, ambayo inaonyesha ukiukaji wa agano la imani nzuri na kushughulika kwa haki.
+
+3. Katika mikataba ya bima, kuna wajibu wa imani nzuri na kushughulika kwa haki ambayo kampuni ya bima ilivunja katika kesi hii.
+
+4. Kwa hivyo, mahakama italazimisha kampuni ya bima kulipa kiasi kamili cha hukumu ya jury kwa mtu aliyejeruhiwa chini ya ukweli huu.
+
+Jibu A ni batili kwa sababu kikomo cha sera cha $15,000 haikidhi madai ya $200,000 yaliyotolewa na jopo la majaji.
+
+Jibu C na D si sahihi kwa sababu kampuni ya bima ilivunja agano la imani nzuri na kushughulika kwa haki, na mtu aliyejeruhiwa ana haki ya kulazimisha bima kulipa kiasi kamili cha hukumu.",
+"Mgombea wa kuandika ni Mmarekani mwenye asili ya Mexico na ana maoni kwamba anahitaji idadi kubwa ya wapiga kura wa Mexico ili kushinda uchaguzi. Matokeo yake, meneja wake wa kampeni, anaamua kutuma barua kwa kila mpiga kura wa Mexico aliyesajiliwa stika ya machozi, ambayo ina jina la mgombea na ofisi ambayo anagombea. Kwa kuwa watu wengi wa asili ya Mexico hawana ujuzi wa kusoma na kuandika Kiingereza, meneja wa kampeni anaamini kwamba wapiga kura wengi watakuwa na shida kuandika jina la mgombea na ofisi kwenye kura. Matokeo yake, meneja wa kampeni ameanzisha kampeni kubwa ya vyombo vya habari kuwajulisha wapiga kura jinsi ya kutumia stika kwenye kura. Miezi mitano kabla ya uchaguzi, afisa wa uchaguzi anaiarifu kamati ya kampeni ya mgombea kwamba vibandiko vya machozi havizingatii sheria ya serikali. Katika barua yake, afisa huyo anaeleza kuwa maafisa wa uchaguzi wa jimbo wana maoni kwamba ni muhimu kwa wapiga kura wenye uwezo kuandika jina la mgombea kwa wino. Kwa hivyo, anahitimisha kuwa stika hazizingatii mahitaji ya kisheria. Wiki tatu baadaye, mgombea huyo aliwasilisha kesi katika mahakama ya wilaya ya shirikisho dhidi ya maafisa wa uchaguzi wa jimbo wakidai kuwa tafsiri yao ya sheria ya serikali inakiuka Katiba ya Marekani. Ni ipi kati ya yafuatayo, ikiwa imeanzishwa, inaweka hoja kali ya kikatiba inayounga mkono tafsiri ya afisa wa uchaguzi wa sheria?
+A.Idadi ya wapiga kura miongoni mwa wapiga kura wa Mexico ambao hawana ujuzi wa Kiingereza imekuwa chini ya asilimia 1 ya jumla ya majimbo yote katika uchaguzi wa hivi karibuni.
+B.Sheria ya serikali inahitaji kwamba kila kibanda cha kupigia kura kiwe na kalamu ya wino ili kuwezesha uandishi wa kura.
+C.Kwa kuwa idadi kubwa ya kura za kuandika kwa ujumla huongeza muda unaohitajika kuhesabu kura zote, ni muhimu kupiga kura kama hizo kwa njia sawa.
+D.Uwezekano wa udanganyifu wa kupiga kura ni mkubwa zaidi na stika zilizochapishwa mapema.",D,"Jibu sahihi ni B. Sheria ya serikali inahitaji kwamba kila kibanda cha kupigia kura kiwe na kalamu ya wino ili kuwezesha uandishi wa kura.
+
+Hoja hii inaonyesha kuwa afisa wa uchaguzi wa jimbo ana haki ya kutaka wapiga kura kuandika jina la mgombea kwa wino, kwa kuwa hili ni mahitaji ya kisheria. Hii inakuwa hoja kali ya kikatiba inayounga mkono tafsiri ya afisa wa uchaguzi wa sheria.
+
+Jibu A ni batili kwa sababu haionyeshi hoja kali ya kikatiba inayounga mkono tafsiri ya afisa wa uchaguzi wa sheria.
+
+Jibu C ni batili kwa sababu haionyeshi hoja kali ya kikatiba inayounga mkono tafsiri ya afisa wa uchaguzi wa sheria.
+
+Jibu D ni batili kwa sababu haionyeshi hoja kali ya kikatiba inayounga mkono tafsiri ya afisa wa uchaguzi wa sheria.",
 "Shirika la nyumba lilimiliki njia ya ardhi. Shirika la nyumba liliandaa mpango wa maendeleo wa kugawanya ardhi katika kura 100 na kuunda jamii ya makazi kwenye njia. Azimio la Maagano liliunda chama cha wamiliki wa nyumba, chombo cha utawala ambacho kitasimamia na kutekeleza kanuni na vizuizi vilivyosomwa kati ya maagano. Moja ya vikwazo vilivyowekwa katika Azimio la Maagano linasomeka: ""Hakutakuwa na wakati wowote kujengwa, kuruhusiwa, au kudumishwa juu ya sehemu yoyote ya mali muundo wowote ulioundwa au kutumika kama saloon au mahali pa kuuza au kutengeneza malt, vinous, au liquors za roho. "" Azimio la Maagano lilirekodiwa kwa usahihi na lilijumuishwa katika tendo lililochukuliwa na mwalimu wakati alinunua kura 62 katika maendeleo. Mwalimu mara moja alirekodi kitendo chake. Mwalimu alikodisha nyumba yake kwa mwalimu wa maktaba kwa muda wa mwaka mmoja. Ukodishaji ulijumuisha vizuizi sawa na vile vilivyo katika Azimio la Maagano na katika tendo la mwalimu. Librarian mara moja alianza kuuza pombe kwenye majengo wakati wa sherehe za kila wiki za ""baada ya masaa"". Chama cha wamiliki wa nyumba kinamshtaki librarian katika hatua ya uharibifu. Ni ipi kati ya zifuatazo ni hoja bora kwa maktaba?
 A.Sheria katika kesi ya Spencer inazuia maktaba kutoka kwa kuwajibika.
 B.Librarian sio katika privity ya mkataba na chama cha wamiliki wa nyumba.
 C.Mwalimu wa maktaba hayuko katika privity ya mali na mwalimu.
-D.Kura nyingine katika maeneo ya karibu hutumiwa kwa madhumuni ya kibiashara.",b,b,true
-"Ili kuhamasisha uandikishaji wa chuo, serikali hutoa msamaha wa kodi ya $ 200 kwa ushuru wa serikali kwa wale ambao ni wanafunzi wa wakati wote katika vyuo ndani ya serikali. Wanafunzi wa wanaohudhuria nusu ya muda bado wanaruhusiwa msamaha wa kodi ya dola 100, wakati wanafunzi wa kiume wanaohudhuria nusu ya muda hawaruhusiwi tena msamaha wowote wa kodi. Ni ipi kati ya yafuatayo kwa usahihi zaidi inafupisha utawala sahihi wa sheria ya kikatiba kuhusu msamaha wa kodi ya serikali kwa wanafunzi wanaojiandikisha nusu wakati?
-A.Msamaha wa kodi utabatilishwa kama kukataa mchakato unaofaa.
-B.Msamaha wa kodi utabatilishwa kama ukiukaji wa kifungu sawa cha ulinzi.
-C.Hatua ya ushuru itazingatiwa kama ndani ya eneo la mchakato wa msingi.
-D.Hatua ya kodi itazingatiwa kama ndani ya nguvu ya manispaa ya kulipa kodi ya madarasa tofauti ya watu bila usawa.",b,b,true
-"Mfugaji kwa sasa ni mmiliki wa rekodi ya sehemu ya ardhi iliyochaguliwa kama ""A. ""Ni juu ya mali mbili za jirani kwenye mlima. Mkulima ni mmiliki wa sehemu ""B,"" ambayo iko chini kuliko ""A"" kwenye mlima. Mnamo mwaka wa 2000, mfugaji, ambaye alikuwa na sehemu zote mbili za ardhi, alijenga mfumo wa mifereji ya kibinafsi. Mfumo huu ulikuwa na bomba la chini ya ardhi ambalo lilienea katika sehemu zote mbili za ardhi. Majitaka kutoka kwa kifurushi ""A"" yalipitia mfumo hadi kwenye maji taka ya manispaa, ambayo yalikuwa chini ya mlima. Mwaka 2005, mfugaji huyo aliuza sehemu ya ""B"" kwa mkulima. Hati kwa mkulima haikuwa na kutaja yoyote ya mfumo wa mifereji ya rancher. Iko kwenye kila sehemu ni nyumba kubwa za mtindo wa ranch zinazokaliwa na wamiliki husika. Hivi karibuni, mifereji ya maji taka imeanza kutoa harufu mbaya kwenye sehemu ""B. ""Kwa sababu hiyo, mkulima alimshtaki mfugaji kwa makosa ya kuomba uharibifu unaosababishwa na mfumo wa mifereji. Hukumu inapaswa kuwa kwa ajili ya
-A.mfugaji, kwa sababu tendo kwa mkulima halikuwa na maagano yoyote yanayozuia matumizi ya rancher ya ardhi.
-B.mfugaji, kwa sababu sababu ya hatua sahihi ya mkulima itakuwa kwa kero, badala ya makosa.
-C.mkulima, kwa sababu mfumo wa mifereji ya maji ulikuwa sababu ya uharibifu wa mlalamikaji kama suala la sheria.
-D.mkulima, kwa sababu mfugaji hakuwa na haki ya kuboresha ardhi yake mwenyewe kwa namna ambayo ilisababisha madhara kwa mwingine.",b,c,false
-"Polisi walipokea taarifa kutoka kwa mtoa taarifa wa kuaminika kwamba mtu mmoja alikuwa akishughulikia cocaine kutoka nyumbani kwake. Maafisa kisha waliwasilisha kwa hakimu hati ya kiapo inayoelezea mazingira yanayoonyesha sababu ya uwezekano wa kutolewa kwa hati ya utafutaji. Hakimu alitoa kibali cha upekuzi wa dawa za kulevya katika anwani ya mtu huyo. Maafisa wa polisi walikwenda nyumbani kwa mtu huyo na kupiga kengele ya mlango. Wakati hakuna mtu aliyejibu, polisi waliingia ndani na kuingia ndani ya nyumba. Walipekua vyumba kwenye ghorofa ya kwanza na hawakupata ushahidi wa kushtaki, kisha wakatembea nje na kugundua mlango tofauti unaoelekea ghorofa ya pili ya makao. Walipanda ngazi na kuingia kwenye chumba cha kulala cha juu. Ndani ya chumba hicho maafisa walikuta stash ya cocaine ikiwa imelala juu ya mvaaji. Wakati maafisa hao wakiendelea na msako wa chumba cha kulala, mshtakiwa aliingia chumbani. Polisi walimuuliza mshtakiwa kama alikuwa mtu huyo. Mshtakiwa alijitambulisha na kuwaambia polisi kuwa walikuwa chumbani kwake na alikalia ghorofa ya pili ya nyumba hiyo. Mshtakiwa alieleza kuwa mtu huyo alikuwa akiishi ghorofa ya kwanza na nyumba yake ya kuishi ilikuwa tofauti na ya mshtakiwa. Hata hivyo, mshtakiwa alikamatwa na kushtakiwa kwa kumiliki cocaine. Mshtakiwa amewasilisha hoja ya kuizuia cocaine kutoingizwa katika ushahidi. Hoja ya mshtakiwa lazima iwe
-A.Kwa sababu hati hiyo haikumtaja mshtakiwa.
-B.Kwa sababu hati hiyo haikueleza kwa usahihi eneo la kutafutwa.
-C.Alikanusha, kwa sababu polisi waliamini walikuwa wakipekua makazi ya mtu huyo wakati walipoingia katika nyumba za kuishi za mshtakiwa.
-D.alikanusha, kwa sababu hati hiyo ilikuwa halali na ilitolewa kwa sababu inayowezekana.",c,d,false
-"Mtu mmoja alikuwa mmiliki wa hoteli mpya iliyojengwa katika mji. Mnamo Machi 15, mtu huyo alipokea simu kutoka kwa muuzaji ambaye alikuwa msambazaji wa vifaa vya hoteli. Muuzaji huyo alijitolea kumuuza mtu huyo 1,000 kwa ajili ya hoteli yake. Muuzaji alimwambia mtu huyo kuwa gharama ya kuzima moto itakuwa $ 35,000 (au $ 35 apiece), inayolipwa siku 90 baada ya kujifungua. Muuzaji huyo aliahidi kuwa vifaa vya kuzima moto vitawekwa kabla ya Aprili 15. Mnamo Machi 16, mtu huyo alimpigia simu muuzaji na kukubali ofa hiyo. Siku iliyofuata, mtu huyo alituma barua ifuatayo kwa muuzaji: ""Tafadhali shauriwa kwamba nitachukua punguzo la asilimia 15 kwa malipo ya pesa taslimu siku saba baada ya ufungaji. "" Muuzaji huyo alipokea barua ya mtu huyo mnamo Machi 20. Mnamo Aprili 1, muuzaji alituma telegramu kwa mtu huyo, akisema: ""Ni dhahiri hatuna mkataba unaoweza kutekelezwa. Sitawasilisha vifaa vya kuzima moto mnamo Aprili 15 au wakati mwingine wowote. ""Mtu huyo analeta kesi dhidi ya muuzaji kwa kuvunja mkataba. Muuzaji anadai utetezi wa sheria ya udanganyifu chini ya UCC. Ni ipi kati ya yafuatayo ni taarifa sahihi zaidi kuhusu ulinzi wa muuzaji?
-A.Ulinzi wa muuzaji ni halali, kwa sababu memo ya mtu huyo haikutosha kuonyesha kuwa mkataba uliundwa.
-B.Ulinzi wa muuzaji ni halali, kwa sababu memo ya mtu huyo ilikuwa haiendani na masharti ya ofa ya mdomo ya muuzaji.
-C.Ulinzi wa muuzaji sio halali, kwa sababu muuzaji alishindwa kujibu memo ya mtu huyo ndani ya kipindi cha muda unaofaa.
-D.Ulinzi wa muuzaji sio halali, kwa sababu chini ya UCC sheria ya udanganyifu haitumiki katika makubaliano kati ya wafanyabiashara.",a,b,false
-"Kabla ya pendekezo la kuunganisha miji miwili kuwekwa kwenye kura, mwanasheria mkuu wa serikali alitoa maoni ya ushauri akisema kwamba hatua hiyo, kwa maoni yake, haikukiuka masharti yoyote ya kisheria au kikatiba. Baada ya hapo, pendekezo hilo liliwekwa kwenye kura na lilipitishwa kwa wingi na wapiga kura katika miji yote miwili. Baada ya uchaguzi, lakini kabla ya kuunganishwa rasmi, walipa kodi wawili kutoka moja ya miji walianzisha kesi ya kuamuru umoja, wakishambulia kikatiba ya pendekezo hilo. Kesi hiyo ilifika katika mahakama kuu ya jimbo na ikaonekana kuwa ya kikatiba chini ya sheria za serikali na shirikisho. Walalamikaji sasa wanawasilisha hoja ya kutaka kesi hiyo ichunguzwe na Mahakama Kuu ya Marekani. Mahakama inaweza
-A.Si kusikiliza kesi hiyo, kwa sababu iliamuliwa kwa misingi ya serikali huru.
-B.Si kusikiliza kesi hiyo, lakini inaweza kuwa na remanded kwa mahakama ya wilaya ya shirikisho.
-C.kusikia masuala ya shirikisho kushiriki, lakini kukataa kutawala juu ya suala la serikali.
-D.Kutegemea maoni ya ushauri yaliyotolewa na mwanasheria mkuu wa serikali na usisikilize kesi hiyo juu ya sifa zake.",a,c,false
-"Mamlaka hii ina sheria ifuatayo ya jinai katika athari: ""Mtu hahusiki na mwenendo wa jinai ikiwa wakati wa mwenendo huo, kwa sababu ya ugonjwa wa akili au kasoro, hana uwezo mkubwa wa kufahamu makosa ya mwenendo wake, au kufuata mwenendo wake kwa mahitaji ya sheria. "" Mchana mmoja, mshtakiwa alikuwa akimnyonyesha mpwa wake wa miaka mitano. Walipokuwa wakicheza nje, mshtakiwa alitupa mpira juu ya kichwa cha mpwa wake, na ikaingia mitaani. Kwa kushangaza, mpwa alikimbia baada ya mpira lakini akaruka juu ya gutter na akaanguka mitaani. Aliposafiri, mpwa wake alitema kifundo cha mguu na hakuweza kusimama. Muda mfupi baadaye, lori kubwa la takataka lilikuwa likisimama na kukimbia juu ya mpwa wake, na kumuua. Ingawa mshtakiwa aliona hali ya mpwa wake, hakufanya juhudi za kumwokoa. Baadaye, mshtakiwa alishtakiwa kwa mauaji ya bila kukusudia. Katika kesi hiyo, mshtakiwa alitoa ushahidi kuwa alishtuka sana alipoona mpwa wake akianguka karibu na lori la takataka ambalo alilizuia na hakuweza kusonga hadi lilipochelewa. Kufuatia ushahidi wa mshtakiwa, shahidi wa kitaalamu alitoa ushahidi kwa upande wa utetezi kwamba majibu ya aina iliyoelezwa na mshtakiwa si ya kawaida wakati tukio la kushtua linapotokea. Kama jopo la majaji linaamini ushahidi wa mshtakiwa na shahidi wake mtaalamu, utetezi bora wa mshtakiwa ni upi kati ya yafuatayo?
-A.Mtuhumiwa alikuwa akisumbuliwa na ukosefu wa usafi wa muda.
-B.Mshtakiwa alikosa hali ya akili inayohitajika kwa tume ya uhalifu.
-C.Kushindwa kwa mshtakiwa kutenda haikuwa kwa hiari.
-D.Dhima ya jinai ya mshtakiwa ilizidiwa na ile ya dereva wa lori.",c,b. mshtakiwa alikosa hali ya akili inayohitajika kwa tume ya uhalifu.,false
-"Duka kubwa lilikuwa limefunguliwa tena baada ya kufungwa kwa wiki mbili kwa ukarabati. Asubuhi ya kufunguliwa tena, mwanamke alikuwa akinunua wakati ghafla alianguka na kupata mguu uliovunjika. Baada ya hapo, mwanamke huyo alishtaki duka kubwa kwa majeraha ya kibinafsi. Katika suti yake, mwanamke huyo alidai kuwa aliruka juu ya ndoo ya rangi ambayo ilikuwa imelala katika moja ya aisles. Katika kesi hiyo, mwanamke huyo alimpigia simu mteja mwingine kutoa ushahidi kwamba wakati alipokuwa akinunua alisikia majambazi, akageuka na kumwona mwanamke huyo akianguka sakafuni. Pia alishuhudia kwamba aliona ndoo ya rangi tupu ikiwa imelala miguu michache kutoka mguu wa mwanamke huyo. Katika uchunguzi wa msalaba, mteja aliingia katika kubadilishana hoja na wakili wa duka kubwa. Alipoulizwa maoni yake juu ya nini kilichosababisha kuanguka kwa mwanamke huyo, mteja alishuhudia, ""Alianguka kwa sababu alishuka kwenye ndoo. "" Alikiri juu ya uchunguzi wa msalaba, hata hivyo, kwamba hakuona mwanamke huyo akisafiri kwenye ndoo. Wakili wa duka hilo alimuuliza mteja swali lifuatalo: ""Kama hukuona mwanamke akisafiri kwenye ndoo, unajuaje kwamba alianguka kwa sababu yake?"" Mteja akajibu, ""Kwa sababu rafiki yangu wa ambaye alikuwa akininunulia aliniambia baadaye kwamba aliona mwanamke akisafiri juu ya ndoo. "" Mwanasheria wa duka kubwa anakwenda kupiga jibu la mwisho la mteja. Ikiwa jaji wa kesi atabatilisha hoja ya mshtakiwa na kuruhusu jibu la mteja kusimama, itakuwa kwa sababu
-A.Jibu la mteja lilialikwa na swali la mwanasheria wa duka kubwa.
-B.Jibu la mteja lilitokana na ujuzi wa kwanza.
-C.Jibu la mteja lilikuwa taarifa ya mtazamo wa hivi karibuni.
-D.Jibu la mteja lilikuwa hisia ya sasa.",a,a,true
-"Uchunguzi juu ya etiolojia ya Schizophrenia ilionyesha utangulizi wa maumbile kwa hali hiyo lakini mambo mengine yanahusika. Kutoka kwa ufahamu wako wa somo tambua ni ipi kati ya kauli zifuatazo sio sahihi.
-A.Dopamine ya ziada au unyeti wa dopamine inaweza kuwa sababu ya kuchangia.
-B.Wagonjwa weupe ni dalili zaidi.
-C.Kuondolewa kwa hali katika ulimwengu wa tatu ni 65%.
-D.Kiwango cha chini cha Schizophrenia kilichogunduliwa kati ya Wamarekani wa Afrika.",d,d,true
-"Mfanyakazi wa kampuni kubwa ya utengenezaji hupata kazi ngumu, na anafuatilia kazi hiyo tu kwa pesa. Mfanyakazi hufanya kidogo, na hahamasishi kwa hivyo hutoa wingi wa juu au ubora bora. Kulingana na nadharia ya F. Herzberg ya sababu mbili, njia bora ya 10 kuongeza motisha ya mfanyakazi huyu itakuwa
-A.kutoa nyongeza na motisha ya kulipa kwa tija kubwa
-B.Tengeneza upya kazi ili kutoa changamoto na hisia ya mafanikio
-C.Kuongeza fursa za mwingiliano wa kijamii wa habari
-D.kumpa mfanyakazi wimbi la kazi linalobeba heshima kubwa",b,b,true
-"Ni nadharia gani kati ya zifuatazo zinazozingatia jinsi jamii inavyoweza kutekeleza shughuli muhimu ili kudumisha utulivu na utulivu?
-A.Kazi ya kazi
-B.Uingiliano
-C.Nadharia ya uchaguzi wa rangi
-D.Nadharia ya migogoro",a,d. nadharia ya migogoro,false
-"Utafiti juu ya upatikanaji wa lugha ya pili umeonyesha ni ipi kati ya yafuatayo kuhusu watoto wanaopata lugha ya pili
-A.Maendeleo yao ya utambuzi yamechelewa
-B.Wana usemi bora kuliko watoto ambao sio lugha mbili.
-C.Ustadi wao wa lugha ya asili hauna athari kwa kiwango cha kupata lugha ya pili
-D.Wameongeza kubadilika kwa utambuzi",d,c,false
-"Ni ipi kati ya zifuatazo inaelezea miongozo ya maadili kuhusu intimacies ya ngono na wateja wa zamani wa tiba?
-A.Wanasaikolojia ni marufuku kuwa na intimacies ya ngono na wateja wa zamani wa tiba chini ya hali yoyote.
-B.Wanasaikolojia ni marufuku kuwa na intimacies ya ngono na wateja wa zamani wa tiba kwa angalau mwaka mmoja baada ya kukomesha tiba.
-C.Wanasaikolojia wamekatazwa kuwa na uhusiano wa kimapenzi na wateja wa zamani wa tiba katika hali fulani (kwa mfano, wakati kuna hatari ya unyonyaji).
-D.Wanasaikolojia hawaruhusiwi kuwa na uhusiano wa kimapenzi na wateja wa zamani wa tiba.",c,c,true
-"Ni katika eneo gani la mahusiano ya umma linaweza kuhusisha ushawishi?
-A.Kampuni
-B.Uhusiano wa kifedha
-C.Mambo ya Umma
-D.Biashara kwa biashara",c,c. mambo ya umma,true
-"Ni ipi kati ya zifuatazo bora inaelezea Eurocentrism?
-A.Eurocentrism ni mtindo wa uchambuzi ambao jamii za Ulaya zinalinganishwa na jamii zisizo za Ulaya ili kuzalisha kulinganisha bila upendeleo wa sifa za jamaa za kila mmoja.
-B.Eurocentrism ni mtindo wa mawazo ambao tathmini na tathmini ya jamii zisizo za Ulaya zinaunganishwa kwa suala la mawazo ya kitamaduni na upendeleo wa Wazungu.
-C.Eurocentrism inaelezea masomo au kazi ya kitaaluma ambayo inazingatia tu mifumo ya kisiasa au kiuchumi ya Ulaya.
-D.Chaguzi zote hizi.",b,b,true
-"Mwanamke mwenye umri wa miaka 54 anakuja ofisini kwa sababu amekuwa na maumivu ya risasi ya muda mrefu juu ya shavu lake la kulia na taya katika wiki tatu zilizopita. Kila sehemu ya maumivu hudumu kwa sekunde 1 au chini. Maumivu mara nyingi husababishwa na hewa baridi, kutafuna, kuchochea kwa tactile, na kupiga meno yake. Hakuwa na maumivu ya kichwa au kichwa. Historia ya matibabu ni ya kushangaza kwa maumivu ya kichwa ya mvutano, fetma, na upasuaji wa kupitisha tumbo. Ana urefu wa 165 cm (5 ft 5 in) na ana uzito wa kilo 62 (lb 137); BMI ni 23 kg/m2. Ishara muhimu ni za kawaida. Mgonjwa hawezi kuvumilia kugusa upande wa kulia wa uso. Hakuna udhaifu wa uso au kupoteza hisia. Uchunguzi wa mwili uliobaki hauonyeshi kasoro. CT scan ya kichwa na bila tofauti inaonyesha hakuna kasoro. Ni ipi kati ya yafuatayo ni dawa inayofaa zaidi kwa wakati huu?
-A.Carbamazepine
-B.Lamotrigine
-C.Levetiracetam
-D.Juu ya juu",a,a,true
-"Katika muktadha wa utandawazi, tunawezaje kufafanua vizuri neno 'maendeleo'?
-A.Neno maendeleo linamaanisha hali ya binadamu ambayo kuna uhuru kutoka kwa hofu na unataka; Kuna rasilimali za kutosha za kuendeleza maisha na maisha haya yanaweza kuwepo katika hali isiyo na tishio, au tishio linaloonekana, la usumbufu wa ghafla.
-B.Ili kuzingatiwa kama maendeleo, taifa lazima liwe limefikia hali fulani ya kiuchumi na kisiasa ndani ya mfumo wa serikali ya kimataifa; Kigezo cha kile kinachojumuisha hali ya 'kuendelea' kwa hivyo hufafanuliwa na mahitaji hayo ya mwingiliano katika mfumo huu.
-C.Maendeleo ni njia ya kushughulikia ukosefu wa usawa unaoambatana na utandawazi wa neoliberal. Katika muktadha huu, maendeleo yanahusu uwezo wa idadi ya watu au jamii kutumia rasilimali kwa ufanisi na kuongeza ufanisi katika uzalishaji na usambazaji, kukuza usambazaji sawa wa mapato ndani ya jamii.
-D.Maendeleo ya jamii inahusu mifumo ya thamani ya kiitikadi na kimaadili ambayo idadi ya watu wake hujiunga. Katika mfumo wa kimataifa wa utandawazi hii inahusu kupitishwa kwa itikadi ya kidemokrasia ya uhuru wa magharibi na uchumi wa soko huria.",c,c,true
-"Ni ipi kati ya zifuatazo ni hati ya kibinafsi iliyo na ufikiaji uliofungwa?
-A.Serikali 'karatasi nyeupe'
-B.Rekodi za matibabu ya siri
-C.Kitabu cha Akaunti ya Kaya
-D.Orodha ya hisa za biashara",c,b,false
-"Je, virusi vya herpes havisababishi ugonjwa gani?
-A.Kupooza kwa watoto wachanga
-B.Ugonjwa wa Encephalitis
-C.Magonjwa ya zinaa
-D.Kansa",a,c,false
-"Ni ipi kati ya pointi zifuatazo inaunga mkono hoja ya umoja wa Amerika?
-A.Hegemony ya Benevolent
-B.Ukosefu wa ufanisi wa kimataifa
-C.Nguvu ya Marekani
-D.Yote hapo juu",d,d,true
+D.Kura nyingine katika maeneo ya karibu hutumiwa kwa madhumuni ya kibiashara.",B,"Jibu sahihi ni B. Librarian sio katika privity ya mkataba na chama cha wamiliki wa nyumba.
+
+Hoja hii ni sahihi kwa sababu:
+- Azimio la Maagano liliunda chama cha wamiliki wa nyumba, ambalo ni chombo cha utawala kinachotakiwa kusimamia na kutekeleza kanuni na vizuizi vilivyowekwa katika Azimio.
+- Moja ya vizuizi vilivyowekwa katika Azimio la Maagano ni kwamba hakuna muundo wowote ulioundwa au kutumika kama saloon au mahali pa kuuza au kutengeneza malt, vinous, au liquors za roho.
+- Librarian, ambaye ni mwalimu wa maktaba, anaanza kuuza pombe kwenye majengo wakati wa sherehe za kila wiki za ""baada ya masaa"", ambapo hii inaenda kinyume na vizuizi vilivyowekwa katika Azimio la Maagano.
+- Kwa kuwa librarian si mwanachama wa chama cha wamiliki wa nyumba, basi yeye hayuko katika privity ya mkataba na chama hicho. Hivyo, hoja B ni sahihi.",
 " Nakala ya kawaida Daodejing inajulikana kwa jina gani kwa Kiingereza?
 A.Classic ya Mabadiliko
 B.Classic ya njia na nguvu
 C.Classic ya Wanawake
-D.Classic ya Falsafa",b,b,true
-"Ni ipi kati ya yafuatayo inaelezea hali baada ya bei kupandishwa kwenye bidhaa ambayo ina mahitaji ya inelastic?
-A.Kiasi kinachohitajika hakitabadilika.
-B.Kiasi kinachohitajika kitaongezeka.
-C.Mapato ya jumla yatapungua.
-D.Mapato ya jumla hayatabadilika.",a,a,true
+D.Classic ya Falsafa",B,"B. Classic ya njia na nguvu
+
+Daodejing (au Tao Te Ching) ni kazi kuu ya Daoism, ambayo kwa kawaida inajulikana kama ""Classic ya njia na nguvu"" kwa Kiingereza.",
+"Je, virusi vya herpes havisababishi ugonjwa gani?
+A.Kupooza kwa watoto wachanga
+B.Ugonjwa wa Encephalitis
+C.Magonjwa ya zinaa
+D.Kansa",A,"Jibu sahihi ni C. Magonjwa ya zinaa.
+
+Virusi vya herpes husababisha magonjwa ya zinaa, hasa herpes genitalis. Virusi hivi huambukiza sehemu za siri na kusababisha vidonda na mshtuko wa ngozi katika sehemu hizo.
+
+Virusi vya herpes havisababishi:
+A. Kupooza kwa watoto wachanga
+B. Ugonjwa wa Encephalitis
+D. Kansa
+
+Hivyo, jibu sahihi ni C. Magonjwa ya zinaa.",
+"Duka kubwa lilikuwa limefunguliwa tena baada ya kufungwa kwa wiki mbili kwa ukarabati. Asubuhi ya kufunguliwa tena, mwanamke alikuwa akinunua wakati ghafla alianguka na kupata mguu uliovunjika. Baada ya hapo, mwanamke huyo alishtaki duka kubwa kwa majeraha ya kibinafsi. Katika suti yake, mwanamke huyo alidai kuwa aliruka juu ya ndoo ya rangi ambayo ilikuwa imelala katika moja ya aisles. Katika kesi hiyo, mwanamke huyo alimpigia simu mteja mwingine kutoa ushahidi kwamba wakati alipokuwa akinunua alisikia majambazi, akageuka na kumwona mwanamke huyo akianguka sakafuni. Pia alishuhudia kwamba aliona ndoo ya rangi tupu ikiwa imelala miguu michache kutoka mguu wa mwanamke huyo. Katika uchunguzi wa msalaba, mteja aliingia katika kubadilishana hoja na wakili wa duka kubwa. Alipoulizwa maoni yake juu ya nini kilichosababisha kuanguka kwa mwanamke huyo, mteja alishuhudia, ""Alianguka kwa sababu alishuka kwenye ndoo. "" Alikiri juu ya uchunguzi wa msalaba, hata hivyo, kwamba hakuona mwanamke huyo akisafiri kwenye ndoo. Wakili wa duka hilo alimuuliza mteja swali lifuatalo: ""Kama hukuona mwanamke akisafiri kwenye ndoo, unajuaje kwamba alianguka kwa sababu yake?"" Mteja akajibu, ""Kwa sababu rafiki yangu wa ambaye alikuwa akininunulia aliniambia baadaye kwamba aliona mwanamke akisafiri juu ya ndoo. "" Mwanasheria wa duka kubwa anakwenda kupiga jibu la mwisho la mteja. Ikiwa jaji wa kesi atabatilisha hoja ya mshtakiwa na kuruhusu jibu la mteja kusimama, itakuwa kwa sababu
+A.Jibu la mteja lilialikwa na swali la mwanasheria wa duka kubwa.
+B.Jibu la mteja lilitokana na ujuzi wa kwanza.
+C.Jibu la mteja lilikuwa taarifa ya mtazamo wa hivi karibuni.
+D.Jibu la mteja lilikuwa hisia ya sasa.",A,"Jibu sahihi ni C. Jibu la mteja lilikuwa taarifa ya mtazamo wa hivi karibuni.
+
+Hii ni kwa sababu mteja alisema kwamba rafiki yake alimwambia baadaye kwamba alikuwa ameona mwanamke akisafiri juu ya ndoo. Hivyo, jibu la mteja lilikuwa taarifa ya mtazamo wa hivi karibuni, na si ujuzi wa kwanza, hisia ya sasa, au jibu lililotokana na swali la mwanasheria wa duka kubwa.",
 "Madhumuni ya utafiti wa vipofu mara mbili au mara mbili ni:
 A.Kufanikisha ulinganifu wa masomo yaliyotibiwa na yasiyotibiwa
 B.Kupunguza athari za tofauti ya sampuli
 C.Epuka mwangalizi na upendeleo wa mada
-D.Epuka upendeleo wa mwangalizi na tofauti ya sampuli",b,d,false
-"Neno 'chili con carne' linamaanisha chili na nini?
-A.Maharage
-B.Nyama
-C.Jibini
-D.pilipili ya chili",b,d,false
-"Mwanasheria Mkuu ni mkuu wa vyombo vifuatavyo?
-A.Kamati ya Sheria ya Seneti
-B.Idara ya Haki
-C.Idara ya Nchi
-D.Mwanasheria Mkuu wa Mahakama",b,d. mwanasheria mkuu wa mahakama,false
-"Mistari ya uwanja wa sumaku kuhusu fomu ya waya ya sasa
-A.Duara
-B.mistari ya radial
-C.Mikondo ya Eddy
-D.vitanzi vya nishati",a,b. mistari ya radial,false
+D.Epuka upendeleo wa mwangalizi na tofauti ya sampuli",B,"Jibu sahihi ni:
+
+D. Epuka upendeleo wa mwangalizi na tofauti ya sampuli
+
+Madhumuni ya utafiti wa vipofu mara mbili au mara mbili ni kupunguza athari za upendeleo wa mwangalizi na tofauti ya sampuli. Hii ni kwa sababu utafiti wa vipofu mara mbili au mara mbili hupunguza athari za upendeleo wa mwangalizi na tofauti ya sampuli kwa kuhakikisha kuwa mwangalizi na washiriki hawajui ni nani aliyepokea matibabu halisi na nani aliyepokea matibabu bandia.
+
+Hivyo, jibu D ni sahihi kwa kuwa linakubalika kuwa madhumuni ya utafiti wa vipofu mara mbili au mara mbili ni kupunguza athari za upendeleo wa mwangalizi na tofauti ya sampuli.",
+"Ni ipi kati ya pointi zifuatazo inaunga mkono hoja ya umoja wa Amerika?
+A.Hegemony ya Benevolent
+B.Ukosefu wa ufanisi wa kimataifa
+C.Nguvu ya Marekani
+D.Yote hapo juu",D,"Jibu sahihi ni D. Yote hapo juu.
+
+Hoja ya umoja wa Amerika inaunga mkono:
+
+A. Hegemony ya Benevolent - Marekani kama kiongozi wa ulimwengu kwa manufaa ya wote.
+B. Ukosefu wa ufanisi wa kimataifa - Marekani inaweza kufanya mambo peke yake bila kushirikiana na jumuiya ya kimataifa.
+C. Nguvu ya Marekani - Marekani ina nguvu ya kutosha kuongoza na kusimamia mambo ya ulimwengu.
+
+Kwa hiyo, hoja ya umoja wa Amerika inaunga mkono yote hayo hapo juu.",
+"Ni katika eneo gani la mahusiano ya umma linaweza kuhusisha ushawishi?
+A.Kampuni
+B.Uhusiano wa kifedha
+C.Mambo ya Umma
+D.Biashara kwa biashara",C,"Jibu sahihi ni C. Mambo ya Umma.
+
+Ushawishi katika mahusiano ya umma (public relations) huweza kujitokeza katika maeneo ya mambo ya umma, kama vile:
+
+- Kujenga na kudumisha uhusiano mzuri na umma.
+- Kueneza habari chanya kuhusu shirika au taasisi.
+- Kushughulikia masuala ya umma na kujenga mtazamo chanya.
+- Kushawishi maoni na mtazamo wa umma kuhusu suala fulani.
+
+Hivyo, eneo la mambo ya umma (public affairs) ndilo ambalo ushawishi huweza kujitokeza katika mahusiano ya umma.",
+"Ni ipi kati ya zifuatazo ni hati ya kibinafsi iliyo na ufikiaji uliofungwa?
+A.Serikali 'karatasi nyeupe'
+B.Rekodi za matibabu ya siri
+C.Kitabu cha Akaunti ya Kaya
+D.Orodha ya hisa za biashara",C,"Jibu sahihi ni B. Rekodi za matibabu ya siri.
+
+Rekodi za matibabu ya siri ni hati ya kibinafsi iliyo na ufikiaji uliofungwa. Hizi ni taarifa binafsi za afya za mtu ambayo inaweza kufikiriwa kuwa ni ya siri na inaweza kuwa na ufikiaji uliofungwa.
+
+Jibu A, C, na D si hati za kibinafsi zenye ufikiaji uliofungwa. Serikali 'karatasi nyeupe', kitabu cha akaunti ya kaya, na orodha ya hisa za biashara ni taarifa ambazo watu wengine wanaweza kufikia.",
 "Microchips za kisasa za kompyuta zinaundwa na kipengele gani?
 A.Sodiamu
 B.Silicon
 C.Alumini
-D.Fedha",b,b,true
+D.Fedha",B,"Jibu sahihi ni B. Silicon.
+
+Microchips za kisasa za kompyuta zinaundwa kwa kutumia silicon (siliconi). Silicon ni elementi ya kemikali inayopatikana kwa wingi katika dunia na ina sifa nzuri za kutumiwa katika kuunda microchips.
+
+Sodiamu (A), alumini (C), na fedha (D) si vipengele vikuu vinavyotumika katika kuunda microchips za kompyuta. Hivi ni vipengele vingine vinavyotumika katika teknolojia ya kompyuta, lakini silicon ndio kipengele kikuu cha kuunda microchips.",
+"Mwanasheria Mkuu ni mkuu wa vyombo vifuatavyo?
+A.Kamati ya Sheria ya Seneti
+B.Idara ya Haki
+C.Idara ya Nchi
+D.Mwanasheria Mkuu wa Mahakama",B,"Jibu sahihi ni:
+
+D. Mwanasheria Mkuu wa Mahakama
+
+Mwanasheria Mkuu ni mkuu wa Idara ya Mwanasheria Mkuu, ambayo ni sehemu ya Mahakama. Yeye ni mshauri mkuu wa Serikali katika masuala ya kisheria na anasimamia utekelezaji wa sheria nchini.
+
+Mwanasheria Mkuu si mkuu wa Kamati ya Sheria ya Seneti, Idara ya Haki au Idara ya Nchi. Hizo ni taasisi na vyombo tofauti ambavyo Mwanasheria Mkuu hushirikiana navyo lakini haviongozwi na yeye moja kwa moja.",
+"Mistari ya uwanja wa sumaku kuhusu fomu ya waya ya sasa
+A.Duara
+B.mistari ya radial
+C.Mikondo ya Eddy
+D.vitanzi vya nishati",A,"Jibu sahihi ni B. Mistari ya radial.
+
+Mistari ya radial ni muundo wa uwanja wa sumaku ambao hufuata mfumo wa mviringo kutoka katikati hadi pembeni. Hii ni tofauti na:
+
+A. Duara - ambayo ni muundo wa uwanja wa sumaku wenye mviringo kamili.
+C. Mikondo ya Eddy - ambayo ni mienendo ya umeme inayozunguka katika uwanja wa sumaku.
+D. Vitanzi vya nishati - ambayo ni muundo wa uwanja wa sumaku wenye mistari inayopita katikati.
+
+Kwa hiyo, jibu sahihi ni B. Mistari ya radial.",
+"Uchunguzi juu ya etiolojia ya Schizophrenia ilionyesha utangulizi wa maumbile kwa hali hiyo lakini mambo mengine yanahusika. Kutoka kwa ufahamu wako wa somo tambua ni ipi kati ya kauli zifuatazo sio sahihi.
+A.Dopamine ya ziada au unyeti wa dopamine inaweza kuwa sababu ya kuchangia.
+B.Wagonjwa weupe ni dalili zaidi.
+C.Kuondolewa kwa hali katika ulimwengu wa tatu ni 65%.
+D.Kiwango cha chini cha Schizophrenia kilichogunduliwa kati ya Wamarekani wa Afrika.",D,"Kauli sahihi kati ya zile zilizoonyeshwa ni:
+
+B. Wagonjwa weupe ni dalili zaidi.
+
+Maelezo:
+A. Dopamine ya ziada au unyeti wa dopamine inaweza kuwa sababu ya kuchangia Schizophrenia, kwa hivyo kauli hii ni sahihi.
+C. Kuondolewa kwa hali katika ulimwengu wa tatu ni 65% ni kauli sahihi.
+D. Kiwango cha chini cha Schizophrenia kilichogunduliwa kati ya Wamarekani wa Afrika ni kauli sahihi.
+
+Hivyo, kauli B ""Wagonjwa weupe ni dalili zaidi"" sio sahihi, kwani Schizophrenia inaweza kupatikana kwa watu wa rangi zote, na si tu wagonjwa weupe.",
+"Neno 'chili con carne' linamaanisha chili na nini?
+A.Maharage
+B.Nyama
+C.Jibini
+D.pilipili ya chili",B,"Jibu sahihi ni B. Nyama.
+
+'Chili con carne' ni mlo wa chili na nyama, ambapo 'carne' maana yake ni nyama kwa Kihispania.
+
+Hivyo, 'chili con carne' linamaanisha chili pamoja na nyama, na sio maharage, jibini, au pilipili ya chili.",
+"Utafiti juu ya upatikanaji wa lugha ya pili umeonyesha ni ipi kati ya yafuatayo kuhusu watoto wanaopata lugha ya pili
+A.Maendeleo yao ya utambuzi yamechelewa
+B.Wana usemi bora kuliko watoto ambao sio lugha mbili.
+C.Ustadi wao wa lugha ya asili hauna athari kwa kiwango cha kupata lugha ya pili
+D.Wameongeza kubadilika kwa utambuzi",D,"Jibu sahihi ni:
+
+C. Ustadi wao wa lugha ya asili hauna athari kwa kiwango cha kupata lugha ya pili
+
+Utafiti juu ya upatikanaji wa lugha ya pili umeonyesha kwamba watoto wanaopata lugha ya pili:
+
+- Ustadi wao wa lugha ya asili (lugha ya kwanza) hauna athari kwa kiwango cha kupata lugha ya pili. Watoto hawa wanaweza kuendeleza ustadi wao wa lugha ya kwanza hata wakiwa wakipata lugha ya pili.
+
+- Maendeleo yao ya utambuzi hayacheleweshwi.
+
+- Wana usemi bora kuliko watoto ambao sio lugha mbili.
+
+- Wameongeza kubadilika kwa utambuzi.
+
+Kwa hivyo, jibu sahihi ni C. Ustadi wao wa lugha ya asili hauna athari kwa kiwango cha kupata lugha ya pili.",
+"Ni ipi kati ya yafuatayo inaelezea hali baada ya bei kupandishwa kwenye bidhaa ambayo ina mahitaji ya inelastic?
+A.Kiasi kinachohitajika hakitabadilika.
+B.Kiasi kinachohitajika kitaongezeka.
+C.Mapato ya jumla yatapungua.
+D.Mapato ya jumla hayatabadilika.",A,"Jibu sahihi ni C. Mapato ya jumla yatapungua.
+
+Katika hali ya mahitaji ya inelastic, ongezeko la bei ya bidhaa haitasababisha mabadiliko makubwa katika kiasi kinachoitajika. Hata hivyo, kwa sababu kiasi kinachoitajika hakibadiliki sana, mapato ya jumla yatapungua baada ya bei kupandishwa.
+
+Maelezo ya jibu:
+A. Siyo sahihi. Katika hali ya mahitaji ya inelastic, kiasi kinachoitajika kitabadilika kidogo tu baada ya bei kupandishwa.
+B. Siyo sahihi. Katika hali ya mahitaji ya inelastic, kiasi kinachoitajika hakitabadilika sana.
+C. Sahihi. Katika hali ya mahitaji ya inelastic, mapato ya jumla yatapungua baada ya bei kupandishwa.
+D. Siyo sahihi. Katika hali ya mahitaji ya inelastic, mapato ya jumla hayatabaki sawa baada ya bei kupandishwa.",
+"Kabla ya pendekezo la kuunganisha miji miwili kuwekwa kwenye kura, mwanasheria mkuu wa serikali alitoa maoni ya ushauri akisema kwamba hatua hiyo, kwa maoni yake, haikukiuka masharti yoyote ya kisheria au kikatiba. Baada ya hapo, pendekezo hilo liliwekwa kwenye kura na lilipitishwa kwa wingi na wapiga kura katika miji yote miwili. Baada ya uchaguzi, lakini kabla ya kuunganishwa rasmi, walipa kodi wawili kutoka moja ya miji walianzisha kesi ya kuamuru umoja, wakishambulia kikatiba ya pendekezo hilo. Kesi hiyo ilifika katika mahakama kuu ya jimbo na ikaonekana kuwa ya kikatiba chini ya sheria za serikali na shirikisho. Walalamikaji sasa wanawasilisha hoja ya kutaka kesi hiyo ichunguzwe na Mahakama Kuu ya Marekani. Mahakama inaweza
+A.Si kusikiliza kesi hiyo, kwa sababu iliamuliwa kwa misingi ya serikali huru.
+B.Si kusikiliza kesi hiyo, lakini inaweza kuwa na remanded kwa mahakama ya wilaya ya shirikisho.
+C.kusikia masuala ya shirikisho kushiriki, lakini kukataa kutawala juu ya suala la serikali.
+D.Kutegemea maoni ya ushauri yaliyotolewa na mwanasheria mkuu wa serikali na usisikilize kesi hiyo juu ya sifa zake.",A,"Jibu sahihi ni C.
+
+Mahakama Kuu ya Marekani inaweza kusikia masuala ya shirikisho kushiriki, lakini kukataa kutawala juu ya suala la serikali.
+
+Hii ni kwa sababu:
+- Mahakama Kuu ya Marekani ina mamlaka ya kushughulikia masuala ya shirikisho, lakini haina mamlaka ya kuingilia maamuzi ya serikali huru.
+- Hata ingawa mwanasheria mkuu alitoa maoni ya ushauri, mahakama bado inaweza kuchunguza suala la kikatiba la pendekezo la kuunganisha miji.
+- Mahakama Kuu ya Marekani inaweza kusikiliza hoja za walalamikaji kuhusu suala la kikatiba, lakini haitaweza kuamua juu ya suala la serikali huru.
+
+Hivyo, jibu sahihi ni C.",
+"Ni ipi kati ya zifuatazo inaelezea miongozo ya maadili kuhusu intimacies ya ngono na wateja wa zamani wa tiba?
+A.Wanasaikolojia ni marufuku kuwa na intimacies ya ngono na wateja wa zamani wa tiba chini ya hali yoyote.
+B.Wanasaikolojia ni marufuku kuwa na intimacies ya ngono na wateja wa zamani wa tiba kwa angalau mwaka mmoja baada ya kukomesha tiba.
+C.Wanasaikolojia wamekatazwa kuwa na uhusiano wa kimapenzi na wateja wa zamani wa tiba katika hali fulani (kwa mfano, wakati kuna hatari ya unyonyaji).
+D.Wanasaikolojia hawaruhusiwi kuwa na uhusiano wa kimapenzi na wateja wa zamani wa tiba.",C,"Jibu sahihi ni C.
+
+Miongozo ya maadili ya wanasaikolojia inasema kwamba wanasaikolojia wamekatazwa kuwa na uhusiano wa kimapenzi na wateja wa zamani wa tiba katika hali fulani, kama vile wakati kuna hatari ya unyonyaji. Hii ni kwa sababu uhusiano wa kimapenzi baina ya mtoa huduma na mteja wa zamani unaweza kuwa na athari hasi kwa mteja na kuathiri ushauri wa kitaalamu.
+
+Jibu A ni marufuku kwa ujumla, lakini miongozo ya maadili inaweza kuruhusu hali fulani ambapo uhusiano wa kimapenzi unaweza kuwa uhalali.
+
+Jibu B ni marufuku kwa muda maalum, lakini miongozo ya maadili inaweza kuruhusu hali fulani ambapo uhusiano wa kimapenzi unaweza kuwa uhalali.
+
+Jibu D ni marufuku kwa ujumla, lakini miongozo ya maadili inaweza kuruhusu hali fulani ambapo uhusiano wa kimapenzi unaweza kuwa uhalali.",
+"Ni nadharia gani kati ya zifuatazo zinazozingatia jinsi jamii inavyoweza kutekeleza shughuli muhimu ili kudumisha utulivu na utulivu?
+A.Kazi ya kazi
+B.Uingiliano
+C.Nadharia ya uchaguzi wa rangi
+D.Nadharia ya migogoro",A,"Jibu sahihi ni B. Uingiliano.
+
+Nadharia ya uingiliano inazingatia jinsi jamii inavyoweza kutekeleza shughuli muhimu ili kudumisha utulivu na utulivu. Hii ni kwa sababu nadharia ya uingiliano inashughulikia jinsi watu wanashirikiana na kushirikiana katika shughuli za kijamii ili kufikia malengo ya pamoja.
+
+Nadharia nyingine zifuatazo hazizingatii hili:
+
+A. Kazi ya kazi - Inashughulikia jinsi kazi zinazoongozwa na mfumo wa kazi.
+C. Nadharia ya uchaguzi wa rangi - Inashughulikia jinsi watu wanachagua rangi.
+D. Nadharia ya migogoro - Inashughulikia jinsi migogoro inatokea na jinsi ya kuitatua.
+
+Kwa hivyo, nadharia ya uingiliano ndio inayozingatia jinsi jamii inavyoweza kutekeleza shughuli muhimu ili kudumisha utulivu na utulivu.",
 " Communidades de Base inahusishwa na ipi kati ya yafuatayo?
 A.Askofu Mkuu Oscar Romero
 B.Upinzani na upya
 C.Utu wa binadamu wote
-D.Yote hapo juu",d,d. yote hapo juu,true
+D.Yote hapo juu",D,"Jibu sahihi ni D. Yote hapo juu.
+
+Communidades de Base (Jamii za Msingi) inahusishwa na:
+
+A. Askofu Mkuu Oscar Romero - Askofu Mkuu Romero alikuwa mtetezi mkuu wa Communidades de Base katika El Salvador.
+
+B. Upinzani na upya - Communidades de Base zilikuwa sehemu ya juhudi za upinzani na upya dhidi ya utawala wa dikteta katika Amerika Kusini.
+
+C. Utu wa binadamu wote - Communidades de Base zilikuwa na lengo la kutetea haki na utu wa binadamu wote, hasa wanyonge.
+
+Kwa hiyo, jibu sahihi ni D. Yote hapo juu, kwa sababu Communidades de Base inahusishwa na kila moja ya vipengele hivyo.",
+"Mtu mmoja alikuwa mmiliki wa hoteli mpya iliyojengwa katika mji. Mnamo Machi 15, mtu huyo alipokea simu kutoka kwa muuzaji ambaye alikuwa msambazaji wa vifaa vya hoteli. Muuzaji huyo alijitolea kumuuza mtu huyo 1,000 kwa ajili ya hoteli yake. Muuzaji alimwambia mtu huyo kuwa gharama ya kuzima moto itakuwa $ 35,000 (au $ 35 apiece), inayolipwa siku 90 baada ya kujifungua. Muuzaji huyo aliahidi kuwa vifaa vya kuzima moto vitawekwa kabla ya Aprili 15. Mnamo Machi 16, mtu huyo alimpigia simu muuzaji na kukubali ofa hiyo. Siku iliyofuata, mtu huyo alituma barua ifuatayo kwa muuzaji: ""Tafadhali shauriwa kwamba nitachukua punguzo la asilimia 15 kwa malipo ya pesa taslimu siku saba baada ya ufungaji. "" Muuzaji huyo alipokea barua ya mtu huyo mnamo Machi 20. Mnamo Aprili 1, muuzaji alituma telegramu kwa mtu huyo, akisema: ""Ni dhahiri hatuna mkataba unaoweza kutekelezwa. Sitawasilisha vifaa vya kuzima moto mnamo Aprili 15 au wakati mwingine wowote. ""Mtu huyo analeta kesi dhidi ya muuzaji kwa kuvunja mkataba. Muuzaji anadai utetezi wa sheria ya udanganyifu chini ya UCC. Ni ipi kati ya yafuatayo ni taarifa sahihi zaidi kuhusu ulinzi wa muuzaji?
+A.Ulinzi wa muuzaji ni halali, kwa sababu memo ya mtu huyo haikutosha kuonyesha kuwa mkataba uliundwa.
+B.Ulinzi wa muuzaji ni halali, kwa sababu memo ya mtu huyo ilikuwa haiendani na masharti ya ofa ya mdomo ya muuzaji.
+C.Ulinzi wa muuzaji sio halali, kwa sababu muuzaji alishindwa kujibu memo ya mtu huyo ndani ya kipindi cha muda unaofaa.
+D.Ulinzi wa muuzaji sio halali, kwa sababu chini ya UCC sheria ya udanganyifu haitumiki katika makubaliano kati ya wafanyabiashara.",A,"Jibu sahihi ni C. Ulinzi wa muuzaji sio halali, kwa sababu muuzaji alishindwa kujibu memo ya mtu huyo ndani ya kipindi cha muda unaofaa.
+
+Hii ni kwa sababu:
+- Mtu huyo alituma barua kwa muuzaji mnamo Machi 16, akikubali ofa ya muuzaji na akitaka punguzo la 15% kwa malipo ya pesa taslimu.
+- Muuzaji alipokea barua hiyo mnamo Machi 20, lakini hakujibu ndani ya kipindi cha muda unaofaa.
+- Chini ya sheria ya mkataba, muuzaji alikuwa na wajibu wa kujibu barua ya mtu huyo ndani ya muda unaofaa, ili kukubali au kukataa masharti yaliyopendekezwa.
+- Kwa kuwa muuzaji hakufanya hivyo, mkataba uliundwa kati ya pande mbili, na muuzaji alikuwa amevunja mkataba.
+
+Hivyo, jibu sahihi ni C.",
+"Polisi walipokea taarifa kutoka kwa mtoa taarifa wa kuaminika kwamba mtu mmoja alikuwa akishughulikia cocaine kutoka nyumbani kwake. Maafisa kisha waliwasilisha kwa hakimu hati ya kiapo inayoelezea mazingira yanayoonyesha sababu ya uwezekano wa kutolewa kwa hati ya utafutaji. Hakimu alitoa kibali cha upekuzi wa dawa za kulevya katika anwani ya mtu huyo. Maafisa wa polisi walikwenda nyumbani kwa mtu huyo na kupiga kengele ya mlango. Wakati hakuna mtu aliyejibu, polisi waliingia ndani na kuingia ndani ya nyumba. Walipekua vyumba kwenye ghorofa ya kwanza na hawakupata ushahidi wa kushtaki, kisha wakatembea nje na kugundua mlango tofauti unaoelekea ghorofa ya pili ya makao. Walipanda ngazi na kuingia kwenye chumba cha kulala cha juu. Ndani ya chumba hicho maafisa walikuta stash ya cocaine ikiwa imelala juu ya mvaaji. Wakati maafisa hao wakiendelea na msako wa chumba cha kulala, mshtakiwa aliingia chumbani. Polisi walimuuliza mshtakiwa kama alikuwa mtu huyo. Mshtakiwa alijitambulisha na kuwaambia polisi kuwa walikuwa chumbani kwake na alikalia ghorofa ya pili ya nyumba hiyo. Mshtakiwa alieleza kuwa mtu huyo alikuwa akiishi ghorofa ya kwanza na nyumba yake ya kuishi ilikuwa tofauti na ya mshtakiwa. Hata hivyo, mshtakiwa alikamatwa na kushtakiwa kwa kumiliki cocaine. Mshtakiwa amewasilisha hoja ya kuizuia cocaine kutoingizwa katika ushahidi. Hoja ya mshtakiwa lazima iwe
+A.Kwa sababu hati hiyo haikumtaja mshtakiwa.
+B.Kwa sababu hati hiyo haikueleza kwa usahihi eneo la kutafutwa.
+C.Alikanusha, kwa sababu polisi waliamini walikuwa wakipekua makazi ya mtu huyo wakati walipoingia katika nyumba za kuishi za mshtakiwa.
+D.alikanusha, kwa sababu hati hiyo ilikuwa halali na ilitolewa kwa sababu inayowezekana.",C,"Jibu sahihi ni D. alikanusha, kwa sababu hati hiyo ilikuwa halali na ilitolewa kwa sababu inayowezekana.
+
+Hoja ya mshtakiwa ni kwamba hati ya utafutaji ilikuwa halali na ilitolewa kwa sababu inayowezekana, kwa hiyo cocaine iliyopatikana katika chumba cha kulala cha mshtakiwa inapaswa kuingizwa katika ushahidi. Hii ni kwa sababu polisi walikuwa wamepata kibali cha mahakama cha kuingia na kupekua nyumba ya mshtakiwa, na walikuta cocaine katika eneo lililotajwa katika hati hiyo.
+
+Hoja za A, B na C hazikubaliki, kwa sababu hati ya utafutaji ilikuwa inayowahusu mshtakiwa, ilikuwa imeeleza eneo la kutafutwa kwa usahihi, na polisi walikuwa wameingia katika nyumba ya mshtakiwa kwa mujibu wa kibali cha mahakama.",
+"Ni ipi kati ya zifuatazo bora inaelezea Eurocentrism?
+A.Eurocentrism ni mtindo wa uchambuzi ambao jamii za Ulaya zinalinganishwa na jamii zisizo za Ulaya ili kuzalisha kulinganisha bila upendeleo wa sifa za jamaa za kila mmoja.
+B.Eurocentrism ni mtindo wa mawazo ambao tathmini na tathmini ya jamii zisizo za Ulaya zinaunganishwa kwa suala la mawazo ya kitamaduni na upendeleo wa Wazungu.
+C.Eurocentrism inaelezea masomo au kazi ya kitaaluma ambayo inazingatia tu mifumo ya kisiasa au kiuchumi ya Ulaya.
+D.Chaguzi zote hizi.",B,"Jibu sahihi ni B.
+
+Eurocentrism ni mtindo wa mawazo ambao tathmini na tathmini ya jamii zisizo za Ulaya zinaunganishwa kwa suala la mawazo ya kitamaduni na upendeleo wa Wazungu.
+
+Maelezo haya yanafafanua vizuri dhana ya Eurocentrism kama mtazamo unaozingatia mawazo na thamani za Ulaya kama kigezo cha kuchambua na kutathmini jamii zisizo za Ulaya.
+
+Chaguzi A, C na D si sahihi kwa sababu hazijumuishi dhana ya upendeleo wa Ulaya katika uchambuzi wa jamii zisizo za Ulaya.",
+"Katika muktadha wa utandawazi, tunawezaje kufafanua vizuri neno 'maendeleo'?
+A.Neno maendeleo linamaanisha hali ya binadamu ambayo kuna uhuru kutoka kwa hofu na unataka; Kuna rasilimali za kutosha za kuendeleza maisha na maisha haya yanaweza kuwepo katika hali isiyo na tishio, au tishio linaloonekana, la usumbufu wa ghafla.
+B.Ili kuzingatiwa kama maendeleo, taifa lazima liwe limefikia hali fulani ya kiuchumi na kisiasa ndani ya mfumo wa serikali ya kimataifa; Kigezo cha kile kinachojumuisha hali ya 'kuendelea' kwa hivyo hufafanuliwa na mahitaji hayo ya mwingiliano katika mfumo huu.
+C.Maendeleo ni njia ya kushughulikia ukosefu wa usawa unaoambatana na utandawazi wa neoliberal. Katika muktadha huu, maendeleo yanahusu uwezo wa idadi ya watu au jamii kutumia rasilimali kwa ufanisi na kuongeza ufanisi katika uzalishaji na usambazaji, kukuza usambazaji sawa wa mapato ndani ya jamii.
+D.Maendeleo ya jamii inahusu mifumo ya thamani ya kiitikadi na kimaadili ambayo idadi ya watu wake hujiunga. Katika mfumo wa kimataifa wa utandawazi hii inahusu kupitishwa kwa itikadi ya kidemokrasia ya uhuru wa magharibi na uchumi wa soko huria.",C,"Katika muktadha wa utandawazi, neno 'maendeleo' inaweza kufafanuliwa vizuri kama ifuatavyo:
+
+C. Maendeleo ni njia ya kushughulikia ukosefu wa usawa unaoambatana na utandawazi wa neoliberal. Katika muktadha huu, maendeleo yanahusu uwezo wa idadi ya watu au jamii kutumia rasilimali kwa ufanisi na kuongeza ufanisi katika uzalishaji na usambazaji, kukuza usambazaji sawa wa mapato ndani ya jamii.
+
+Maelezo haya yanafafanua vizuri jinsi maendeleo yanaweza kueleweka katika muktadha wa utandawazi. Maendeleo yanajumuisha kuongeza ufanisi katika uzalishaji na usambazaji, na kusambaza mapato kwa usawa ndani ya jamii. Hii inaonyesha kuwa maendeleo si tu suala la kiuchumi, bali pia la kijamii na usawa.
+
+Chaguo C inaeleza vizuri jinsi maendeleo yanaweza kufafanuliwa katika muktadha wa utandawazi, kwa kuangazia suala la usawa na ufanisi katika matumizi ya rasilimali.",
+"Mfugaji kwa sasa ni mmiliki wa rekodi ya sehemu ya ardhi iliyochaguliwa kama ""A. ""Ni juu ya mali mbili za jirani kwenye mlima. Mkulima ni mmiliki wa sehemu ""B,"" ambayo iko chini kuliko ""A"" kwenye mlima. Mnamo mwaka wa 2000, mfugaji, ambaye alikuwa na sehemu zote mbili za ardhi, alijenga mfumo wa mifereji ya kibinafsi. Mfumo huu ulikuwa na bomba la chini ya ardhi ambalo lilienea katika sehemu zote mbili za ardhi. Majitaka kutoka kwa kifurushi ""A"" yalipitia mfumo hadi kwenye maji taka ya manispaa, ambayo yalikuwa chini ya mlima. Mwaka 2005, mfugaji huyo aliuza sehemu ya ""B"" kwa mkulima. Hati kwa mkulima haikuwa na kutaja yoyote ya mfumo wa mifereji ya rancher. Iko kwenye kila sehemu ni nyumba kubwa za mtindo wa ranch zinazokaliwa na wamiliki husika. Hivi karibuni, mifereji ya maji taka imeanza kutoa harufu mbaya kwenye sehemu ""B. ""Kwa sababu hiyo, mkulima alimshtaki mfugaji kwa makosa ya kuomba uharibifu unaosababishwa na mfumo wa mifereji. Hukumu inapaswa kuwa kwa ajili ya
+A.mfugaji, kwa sababu tendo kwa mkulima halikuwa na maagano yoyote yanayozuia matumizi ya rancher ya ardhi.
+B.mfugaji, kwa sababu sababu ya hatua sahihi ya mkulima itakuwa kwa kero, badala ya makosa.
+C.mkulima, kwa sababu mfumo wa mifereji ya maji ulikuwa sababu ya uharibifu wa mlalamikaji kama suala la sheria.
+D.mkulima, kwa sababu mfugaji hakuwa na haki ya kuboresha ardhi yake mwenyewe kwa namna ambayo ilisababisha madhara kwa mwingine.",B,"Jibu sahihi ni C. mkulima, kwa sababu mfumo wa mifereji ya maji ulikuwa sababu ya uharibifu wa mlalamikaji kama suala la sheria.
+
+Hoja:
+- Mfugaji alikuwa mmiliki wa sehemu ""A"" na ""B"" wakati alijenga mfumo wa mifereji ya kibinafsi.
+- Mfumo huu ulikuwa na bomba la chini ya ardhi ambalo lilienea katika sehemu zote mbili za ardhi.
+- Mwaka 2005, mfugaji aliuza sehemu ""B"" kwa mkulima, lakini hati ya mkulima haikuwa na kutaja yoyote ya mfumo wa mifereji ya rancher.
+- Hivi karibuni, mifereji ya maji taka imeanza kutoa harufu mbaya kwenye sehemu ""B.""
+- Kwa sababu hiyo, mkulima alimshtaki mfugaji kwa makosa ya kuomba uharibifu unaosababishwa na mfumo wa mifereji.
+
+Kwa hivyo, hukumu inapaswa kuwa kwa ajili ya mkulima, kwa sababu mfumo wa mifereji ya maji ulikuwa sababu ya uharibifu wa mlalamikaji kama suala la sheria.",
+"Mfanyakazi wa kampuni kubwa ya utengenezaji hupata kazi ngumu, na anafuatilia kazi hiyo tu kwa pesa. Mfanyakazi hufanya kidogo, na hahamasishi kwa hivyo hutoa wingi wa juu au ubora bora. Kulingana na nadharia ya F. Herzberg ya sababu mbili, njia bora ya 10 kuongeza motisha ya mfanyakazi huyu itakuwa
+A.kutoa nyongeza na motisha ya kulipa kwa tija kubwa
+B.Tengeneza upya kazi ili kutoa changamoto na hisia ya mafanikio
+C.Kuongeza fursa za mwingiliano wa kijamii wa habari
+D.kumpa mfanyakazi wimbi la kazi linalobeba heshima kubwa",B,"Kulingana na nadharia ya F. Herzberg ya sababu mbili, njia bora ya kuongeza motisha ya mfanyakazi huyu itakuwa:
+
+B. Tengeneza upya kazi ili kutoa changamoto na hisia ya mafanikio
+
+Kwa mujibu wa nadharia ya Herzberg, kuna sababu mbili za motisha: sababu za afya (hygiene factors) na sababu za motisha (motivator factors). Sababu za afya ni kama mshahara, mazingira ya kazi, sera za kampuni n.k. Sababu za motisha ni kama kujitambua, kujipatia mafanikio, changamoto katika kazi, n.k.
+
+Kwa mfanyakazi huyu, kazi yake inakuwa ngumu na hana changamoto au hisia ya mafanikio. Hivyo, njia bora ya kuongeza motisha yake ni kutengeneza upya kazi yake ili kuongeza changamoto na hisia ya mafanikio. Hii itakuwa sababu ya motisha kwa mujibu wa nadharia ya Herzberg.
+
+Chaguo A (kutoa nyongeza na motisha ya kulipa kwa tija kubwa) ni sababu za afya, ambazo si za kutosha pekee kuongeza motisha.
+Chaguo C (kuongeza fursa za mwingiliano wa kijamii wa habari) na D (kumpa mfanyakazi wimbi la kazi linalobeba heshima kubwa) pia si za kutosha pekee kuongeza motisha.",
+"Mwanamke mwenye umri wa miaka 54 anakuja ofisini kwa sababu amekuwa na maumivu ya risasi ya muda mrefu juu ya shavu lake la kulia na taya katika wiki tatu zilizopita. Kila sehemu ya maumivu hudumu kwa sekunde 1 au chini. Maumivu mara nyingi husababishwa na hewa baridi, kutafuna, kuchochea kwa tactile, na kupiga meno yake. Hakuwa na maumivu ya kichwa au kichwa. Historia ya matibabu ni ya kushangaza kwa maumivu ya kichwa ya mvutano, fetma, na upasuaji wa kupitisha tumbo. Ana urefu wa 165 cm (5 ft 5 in) na ana uzito wa kilo 62 (lb 137); BMI ni 23 kg/m2. Ishara muhimu ni za kawaida. Mgonjwa hawezi kuvumilia kugusa upande wa kulia wa uso. Hakuna udhaifu wa uso au kupoteza hisia. Uchunguzi wa mwili uliobaki hauonyeshi kasoro. CT scan ya kichwa na bila tofauti inaonyesha hakuna kasoro. Ni ipi kati ya yafuatayo ni dawa inayofaa zaidi kwa wakati huu?
+A.Carbamazepine
+B.Lamotrigine
+C.Levetiracetam
+D.Juu ya juu",A,"Kutokana na maelezo yaliyotolewa, dawa inayofaa zaidi kwa wakati huu ni:
+
+A. Carbamazepine
+
+Hii ni kwa sababu:
+
+1. Maumivu ya risasi (trigeminal neuralgia) ni hali ya kawaida inayohusishwa na carbamazepine kama dawa ya kwanza ya kuteua.
+
+2. Maumivu haya huwa na sifa kama vile: maumivu ya muda mfupi, kupatikana kwa sababu za nje kama baridi, kuchochea, na kupiga meno - ambayo pia zinaelezewa katika maelezo.
+
+3. Historia ya matibabu ya mgonjwa, ikiwa ni pamoja na maumivu ya kichwa ya mvutano, fetma, na upasuaji wa kupitisha tumbo, inaweza kuwa na uhusiano na hali ya neva na inaweza kuwa inafaa kwa dawa kama carbamazepine.
+
+4. Carbamazepine ni dawa ya kwanza ya kuteua kwa maumivu ya risasi (trigeminal neuralgia), ambayo inaonekana kuwa hali inayolingana na hali ya mgonjwa.
+
+Hivyo, kwa mujibu wa maelezo yaliyotolewa, carbamazepine inaonekana kuwa dawa inayofaa zaidi kwa wakati huu.",

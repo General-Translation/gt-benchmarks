@@ -1,84 +1,61 @@
 Question,CorrectAnswer,GivenAnswer,Correct
-"Neikvætt, afgangssjálffylgni er gefið til kynna með hverju af eftirfarandi?
-A.Hringlaga mynstur í leifunum
-B.Breytilegt mynstur í leifunum
-C.Algjört handahóf í leifunum
-D.Leifar sem eru allar nálægt núlli",b,c,false
-"Samtala, námunduð að næsta þúsundi, er 47.000. Hvaða tala gæti verið sléttuð?
-A.46,295
-B.46,504
-C.47,520
-D.47,924",b,a.,true
-"Rannsóknir Garcia og Koelling varðandi lærða andúð staðfestu hver af eftirfarandi UCS og CS pörum eru öflugust og lærðust fljótast?
-A.Að sinna verkefni og fá matarverðlaun
-B.ógleði og matur eða drykkur
-C.hreyfing og lost
-D.Refsingar og verðlaun",b,b.,true
-"Sjúklingur þjáist af brotinn háls með skemmdum á mænu á vettvangi sjötta legháls hryggjarlið.
-A.Þeir munu ekki geta andað án lífsstuðnings.
-B.Þeir munu aðeins geta andað hljóðlega.
-C.Það er ómögulegt að spá fyrir um áhrif á öndun.
-D.Öndun verður óbreytt.",b,a.,false
+"Hvert er opinbert tungumál Hollands?
+A.Danska
+B.Sænska
+C.Þýska
+D.Hollenska",d,d.hollenska,true
+"Í hvaða ástandi er kvikmyndin Magnolia frá 1999?
+A.Kaliforníu
+B.Suður-Karólína
+C.Georgía
+D.Texas",a,a. kaliforníu,true
+" Þetta markaðs- og samskiptatól býður upp á beina hvatningu eða hvata til að hvetja viðskiptavini til að kaupa vöru/þjónustu:
+A.Auglýsingar.
+B.Almannatengsl.
+C.Sölukynning.
+D.Bein markaðssetning.",c,c. sölukynning.,true
+"Hvað er móðurmál leikarans Antonio Banderas?
+A.Spænska
+B.Rússneska
+C.Þýska
+D.Franska",a,a. spænska,true
+"Miðaldra fullorðnir virðast vera _____ en eldri eða yngri fullorðnir
+A.Myndandi
+B.Taugaveiklaður
+C.Þægilegt
+D.Ákveðinn",a,d. ákveðinn,false
+"Rökvilla laudatory persónuleika er ákveðin tegund af
+A.Rökvilla slyssins
+B.Fölsk vandamál
+C.Spyr spurningarinnar
+D.Hringlaga rökhugsun",a,c.hringlaga rökhugsun,false
 "Spennan sem framkölluð er í span er táknuð sem,
 A.afurð inductance þess og straums í gegnum það.
 B.hlutfall inductance þess og straums í gegnum það.
 C.hlutfall straums í gegnum það til inductance þess.
-D.margfeldi inductance þess og hraða breytinga á straumi í gegnum það.",d,d.,true
-"Af hverju er Parfit á móti jafnrétti?
-A.Hann heldur því fram að ójafnt samfélag sé óhjákvæmilegt.
-B.Hann heldur því fram að með því að setja þarfir hinna fátæku í forgang getum við aukið jöfnuð.
-C.Hann fullyrðir að við berum öll ábyrgð á fátækt okkar.
-D.Hann hafnar hugmyndinni um jafnrétti alfarið.",b,b.,true
-"Sumt af vatni Mars er frosið í jarðvegi og íshellunum og sumt glataðist vegna sólargests en talið er að mikið af upprunalega vatninu hafi glatast með öðrum hætti. Hvað varð um þetta ""týnda"" vatn?
-A.Það var fjarlægt af segulsviðinu þegar það minnkaði hratt að styrk
-B.Það brotnaði í vetni og súrefni með útfjólubláu ljósi og vetnið tapaðist við varmaútstreymi
-C.það var heltekið af siðmenningu þyrstra Marsbúa
-D.Það gufaði upp á tímabili mikillar eldvirkni og týndist út í geim með hitauppstreymi",b,b,true
-"Í samanburði við stjórnmálaflokka í löndum eins og Englandi og Ísrael, sem báðir hafa fjölflokkakerfi, eru bandarískir stjórnmálaflokkar
-A.minni áhuga á að hafa áhrif á úrslit kosninga
-B.minna skýrt skilgreind með samkvæmri pólitískri hugmyndafræði
-C.minna árangursríkt að afla peninga frá pólitískum stuðningsmönnum
-D.betur í stakk búinn til að endurspegla markmið allra kjördæma sinna",b,b,true
+D.margfeldi inductance þess og hraða breytinga á straumi í gegnum það.",d,"d. margfeldi inductance þess og hraða breytinga á straumi í gegnum það.
+
+spennan sem framkölluð er í spani (einnig þekkt sem spóla eða rafsegulspóla) vegna breytinga á straumi er í raun margfeldi af inductance spólunnar og hraða breytinga á straumi í gegnum hana. þetta er lýst með jöfnunni \(v = l \frac{di}{dt}\), þar sem \(v\) er spennan, \(l\) er inductance spólunnar, \(di\) er breytingin á straumi, og \(dt\) er breytingin á tíma.",true
 "Skriðdreki er í laginu eins og þríhyrningslaga prisma. Ef þríhyrningslaga grunnurinn hefur svæði 116 ferningur feet og tankurinn er 30 fet á hæð, hversu mikið vatn myndi tankurinn innihalda þegar hann er fullur?
 A.1725 ft^3
 B.1740 ft^3
 C.3480 ft^3
-D.6960 ft^3",c,b.,false
-"Þekkja fordæmi eftirfarandi skilyrts tilboðs: Býflugurnar vinna aðeins fyrsta leikinn sinn ef annað hvort Aardvarks eða Íkornarnir vinna ekki fyrstu leiki sína.
-A.Aardvarks unnu ekki sinn fyrsta leik.
-B.Býflugurnar unnu sinn fyrsta leik.
-C.Íkornarnir vinna ekki fyrsta leikinn.
-D.Annað hvort Aardvarks eða Chipmunks vinna ekki fyrstu leiki sína.",b,d.,false
-"Hver af eftirfarandi mengi bitastrengja ER EKKI hægt að lýsa með reglulegri segð?
-A.Allir bitastrengir þar sem fjöldi núlla er margfeldi af fimm
-B.Allir bitastrengir sem byrja á núlli og enda á einum
-C.Allir bitastrengir með sléttri tölu núlla
-D.Allir bita strengir með fleiri en núll",d,a,false
-"Skammtaskilvirkni ljóseindaskynjara er 0.1. Ef 100 ljóseindir eru sendar inn í nemann, hver á eftir annarri, nemandinn nemur ljóseindir
-A.að meðaltali 10 sinnum, með RMS fráviki um 4
-B.að meðaltali 10 sinnum, með RMS fráviki um 3
-C.að meðaltali 10 sinnum, með RMS fráviki um 1
-D.að meðaltali 10 sinnum, með RMS fráviki um 0,1",b,a,false
-"Í raðrás, ef straumur í einum lampa er 2 A, er straumurinn í lampanum við hliðina á honum
-A.hálfur, 1 A
-B.02:00
-C.Fer eftir því hvaða lampi er nær rafhlöðunni
-D.Ekki nægar upplýsingar til að segja",b,d.,false
-"Hvað er endurspilunarárás?
-A.Þegar árásarmaðurinn svarar skilaboðum sem kerfið sendir honum
-B.Árás sem endurtekur sig í sífellu, leitar að veikleika
-C.Árás sem notar eigin skilaboð kerfisins og er því ekki hægt að verjast
-D.Árásarmaðurinn sendir aftur tekin skilaboð og vefurinn samþykkir þeirra og svarar í þágu árásarmannsins",d,d,true
-"Yfirlýsing 1 | Í hópi (ab)^{-2} = b^{-2}a^{-2}. Yfirlýsing 2 | Í hópi (ab)^n = a^nb^n.
-A.Satt, satt
-B.Rangt, rangt
-C.Satt, ósatt
-D.Rangt, satt",b,c,false
-"Hver af eftirfarandi þáttum myndi teljast ""draga"" þáttur fyrir Riva þegar íhugað er að flytja frá Indlandi til Bandaríkjanna?
-A.Fátækt
-B.Betra starf og hærri laun
-C.Stéttakerfi Indlands
-D.Ofbeldi í hverfinu hennar",b,b.,true
+D.6960 ft^3",c,"til að finna rúmmál skriðdrekans, sem er í laginu eins og þríhyrningslaga prisma, getum við notað formúluna:
+
+\[ \text{rúmmál} = \text{grunnflötur} \times \text{hæð} \]
+
+þar sem grunnflöturinn er gefinn sem 116 ferfet (ft²) og hæðin er 30 fet (ft), setjum við þessar stærðir inn í formúluna:
+
+\[ \text{rúmmál} = 116 \, \text{ft}^2 \times 30 \, \text{ft} = 3480 \, \text{ft}^3 \]
+
+svarið er því c. 3480 ft³.",true
+"Neikvætt, afgangssjálffylgni er gefið til kynna með hverju af eftirfarandi?
+A.Hringlaga mynstur í leifunum
+B.Breytilegt mynstur í leifunum
+C.Algjört handahóf í leifunum
+D.Leifar sem eru allar nálægt núlli",b,"neikvætt afgangssjálffylgni er þegar afgangar (leifar) frá einu tímabili hafa tilhneigingu til að vera neikvæðir ef afgangar frá fyrra tímabili voru jákvæðir, og öfugt. þetta þýðir að afgangarnir sveiflast á milli jákvæðra og neikvæðra gilda frá einu tímabili til annars. því er rétt svar:
+
+a. hringlaga mynstur í leifunum",false
 "Þessi spurning vísar til eftirfarandi upplýsinga.
 Fyrst verðum við að gera athugasemd við að alheimurinn er kúlulaga að formi, að hluta til vegna þess að þetta form er fullkomin heild sem þarfnast engra liða, er fullkomnast allra, að hluta til vegna þess að það myndar rúmgóðasta formið, sem er best til þess fallið að geyma og varðveita allt; eða aftur vegna þess að allir hlutar alheimsins, það er sólin, tunglið og reikistjörnurnar, birtast í þessu formi; Eða vegna þess að allt leitast við að ná þessu formi, eins og birtist í tilfelli vatnsdropa og annarra vökvahlota ef þeir reyna að skilgreina sig. Svo enginn mun efast um að þetta form tilheyrir himneskum líkama. ...
 Að jörðin sé einnig kúlulaga er því óumdeilt, vegna þess að hún þrýstir frá öllum hliðum að miðju sinni. Þótt ekki sé hægt að skilja fullkominn hring vegna hæðar fjallanna og lægðanna í dölunum, hefur það samt ekki áhrif á almennt kúlulaga eðli jarðarinnar. ...
@@ -88,12 +65,307 @@ Yfirferðina má nota sem sönnunargögn um að Kópernikus hafi verið frábrug
 A.Alheimurinn er kúlulaga
 B.jörðin er kúlulaga
 C.Cosmos er geostatic
-D.Jörðin er ekki kyrrstæð",d,d,true
+D.Jörðin er ekki kyrrstæð",d,"d. jörðin er ekki kyrrstæð
+
+nicolas copernicus var frábrugðinn hefðbundnum, aristótelískum náttúruspekingum síns tíma vegna þess að hann lagði til að jörðin væri ekki kyrrstæð í miðju alheimsins, heldur hreyfðist hún umhverfis sólina. þetta var grundvallarbreyting frá geosentríska kerfinu, sem hafði verið ríkjandi kenningin um uppbyggingu alheimsins fram að þeim tíma. copernicus setti fram helíosentríska kenninguna, sem gerir ráð fyrir að sólin sé í miðju sólkerfisins og að jörðin og aðrar reikistjörnur snúist um hana.",true
+"Hver af þessum hryllingsmyndum skilaði flestum framhaldsmyndum?
+A.Öskra""
+B.Kjálkar""
+C.Hrekkjavaka""
+D.Föstudagur 13.",d,"""föstudagur 13."" (friday the 13th) skilaði flestum framhaldsmyndum af þeim valkostum sem þú gafst. þessi röð hefur fengið marga framhaldsþætti og afbrigði, þar á meðal kvikmyndir, sjónvarpsþætti og jafnvel leiki. alls eru til 12 kvikmyndir í ""föstudagur 13."" seríunni, ef við teljum með upprunalegu myndina frá 1980, framhaldsmyndirnar sem fylgdu í kjölfarið, og endurgerðina frá 2009.",true
+"Er ólögmætt morð framið af ráðherra lands X erlendis verknaður jure imperii eða jure gestionis?
+A.Slík hegðun er opinber athöfn (jure imperii)
+B.Slík hegðun laðar aldrei friðhelgi
+C.Slík háttsemi er einkaathöfn (jure gestionis)
+D.Slík hegðun er opinber athöfn en nýtur friðhelgi",c,"b. slík hegðun laðar aldrei friðhelgi
+
+útskýring: þegar ráðherra eða annar opinber fulltrúi lands framkvæmir ólögmætt morð erlendis, er það ekki talið vera verknaður sem framkvæmdur er í opinberu hlutverki (jure imperii) sem nýtur alþjóðlegrar friðhelgi. þetta er vegna þess að slík háttsemi er alvarleg glæpsamleg athöfn sem fer langt út fyrir það sem telst vera lögmæt og viðurkennd opinber athöfn. alþjóðalög og venjur veita ekki friðhelgi fyrir slíkum glæpum, jafnvel þótt þeir séu framkvæmdir af fulltrúum ríkis.",false
+"Hver af eftirfarandi þáttum myndi teljast ""draga"" þáttur fyrir Riva þegar íhugað er að flytja frá Indlandi til Bandaríkjanna?
+A.Fátækt
+B.Betra starf og hærri laun
+C.Stéttakerfi Indlands
+D.Ofbeldi í hverfinu hennar",b,"hver af eftirfarandi þáttum myndi teljast ""draga"" þáttur fyrir riva þegar íhugað er að flytja frá indlandi til bandaríkjanna er b. betra starf og hærri laun. 
+
+""draga"" þættir eru þeir þættir sem laða einstaklinga að nýjum stað, eins og betri atvinnutækifæri, hærri laun, betri menntunarmöguleikar, og betri lífsgæði almennt. hinir þættirnir, a. fátækt, c. stéttakerfi indlands, og d. ofbeldi í hverfinu hennar, myndu frekar teljast ""þrýsta"" þættir sem ýta einstaklingum frá upprunastað þeirra vegna neikvæðra aðstæðna eða erfiðleika.",true
+"Samtala, námunduð að næsta þúsundi, er 47.000. Hvaða tala gæti verið sléttuð?
+A.46,295
+B.46,504
+C.47,520
+D.47,924",b,"til að finna út hvaða tala gæti verið sléttuð að næsta þúsundi og gefið útkomuna 47.000, þurfum við að skoða tölurnar í hverjum valmöguleika og sjá hvort þær falli innan þess bils sem myndi leiða til þess að slétta töluna upp eða niður að 47.000.
+
+til að slétta að næsta þúsundi að ofan eða neðan þarf talan að vera á bilinu 46.500 til 47.499, því þessi tölur myndu, þegar sléttað er, verða 47.000.
+
+nú skoðum við valmöguleikana:
+
+a. 46,295 - þessi tala er undir 46.500, svo hún myndi ekki sléttast upp í 47.000.
+b. 46,504 - þessi tala er innan bilsins 46.500 til 47.499, svo hún gæti sléttast upp í 47.000.
+c. 47,520 - þessi tala er yfir 47.499, svo hún myndi ekki sléttast niður í 47.000.
+d. 47,924 - þessi tala er einnig yfir 47.499, svo hún myndi ekki sléttast niður í 47.000.
+
+því er svarið b. 46,504, því það er eina talan sem er innan þess bils sem myndi leiða til þess að slétta hana að næsta þúsundi sem er 47.000.",true
+"Í samanburði við stjórnmálaflokka í löndum eins og Englandi og Ísrael, sem báðir hafa fjölflokkakerfi, eru bandarískir stjórnmálaflokkar
+A.minni áhuga á að hafa áhrif á úrslit kosninga
+B.minna skýrt skilgreind með samkvæmri pólitískri hugmyndafræði
+C.minna árangursríkt að afla peninga frá pólitískum stuðningsmönnum
+D.betur í stakk búinn til að endurspegla markmið allra kjördæma sinna",b,"b. minna skýrt skilgreind með samkvæmri pólitískri hugmyndafræði
+
+bandarískir stjórnmálaflokkar, sérstaklega demókratar og repúblikanar, eru oft taldir minna skýrt skilgreindir með samkvæmri pólitískri hugmyndafræði samanborið við stjórnmálaflokka í löndum eins og englandi og ísrael. þetta stafar að hluta til af því að bandarískir flokkar eru stórir ""tjaldtoga"" flokkar sem reyna að ná til breiðs hóps kjósenda og geta því innihaldið mikið af innri hugmyndafræðilegri fjölbreytni. í löndum með fjölflokkakerfi eins og englandi og ísrael eru stjórnmálaflokkar oft meira sérhæfðir og skýrt skilgreindir út frá ákveðinni pólitískri hugmyndafræði eða áherslumálum.",true
+"Sjúklingur þjáist af brotinn háls með skemmdum á mænu á vettvangi sjötta legháls hryggjarlið.
+A.Þeir munu ekki geta andað án lífsstuðnings.
+B.Þeir munu aðeins geta andað hljóðlega.
+C.Það er ómögulegt að spá fyrir um áhrif á öndun.
+D.Öndun verður óbreytt.",b,"a. þeir munu ekki geta andað án lífsstuðnings.
+
+skýring: mænan í hálsinum stjórnar mörgum mikilvægum líkamsstarfsemi, þar á meðal öndun. skemmdir á mænu í hálsi geta haft alvarleg áhrif á öndunarstjórnun, þar sem taugar sem stjórna öndunarvöðvum, eins og þindinni, fara í gegnum hálsinn. ef skemmdirnar eru á vettvangi sjötta legháls hryggjarliðar (c6), gæti það leitt til þess að sjúklingurinn getur ekki stjórnað öndunarvöðvum sínum á fullnægjandi hátt. þetta getur gert það að verkum að sjúklingurinn þarf á lífsstuðningi að halda, svo sem öndunarvél, til að halda öndun. severity og nákvæm staðsetning skemmda á mænu getur þó haft áhrif á útkomuna, og í sumum tilfellum gætu sjúklingar með skemmdir nærri c6 en ekki beint á honum, mögulega haft einhverja hæfni til að anda sjálfstætt.",false
+"Þessi spurning vísar til eftirfarandi upplýsinga.
+""Fræ alræðisstjórna eru ræktuð af eymd og vilja. Þeir breiðast út og vaxa í vondum jarðvegi fátæktar og deilna. Þeir ná fullum vexti þegar vonin um betra líf fólks er dáin. Við verðum að halda þeirri von lifandi. . . Mikil ábyrgð hefur verið lögð á okkur með skjótri framvindu atburða. . . . Ég er sannfærður um að þingið muni takast á við þessa ábyrgð af heilindum.""
+Harry S. Truman forseti, 1947
+Hugmyndirnar sem koma fram í kaflanum hér að ofan endurspegla mest beint hver af eftirfarandi samfellu í sögu Bandaríkjanna?
+A.Umræður um samband þingsins og forsetans.
+B.Umræður um beitingu hervalds við viðkvæmar aðstæður.
+C.Deilur um hlutverk Bandaríkjanna í heimsmálum.
+D.Umræður um hlutverk stjórnmálaflokka.",c,"hugmyndirnar sem koma fram í kaflanum frá harry s. truman forseta árið 1947 endurspegla mest beint c. deilur um hlutverk bandaríkjanna í heimsmálum. í þessum orðum má greina áherslu á mikilvægi þess að bandaríkin taki virkan þátt í alþjóðamálum, sérstaklega í ljósi þess að koma í veg fyrir útbreiðslu alræðis og styðja við lýðræðisleg gildi. þetta er í samræmi við þá stefnu sem truman setti fram, þekkt sem truman-doktrínan, sem miðaði að því að veita stuðning til þjóða sem börðust gegn kommúnisma og alræði, og markar þannig mikilvægan þátt í kalda stríðinu og bandaríkjanna hlutverki í því.",true
+"K-föld krossprófun er
+A.línuleg í K
+B.annars stigs í K
+C.þrívídd í K
+D.veldisfall í K",a,"k-föld krossprófun (e. k-fold cross-validation) er aðferð notuð í tölfræði og gagnavinnslu til að meta hæfni líkans á óséðum gögnum. hún felur í sér að skipta gögnunum í k jafnstóra hluta. síðan er líkanið þjálfað á k-1 hlutum og prófað á þeim hluta sem eftir stendur. þetta ferli er endurtekið k sinnum þannig að hver hluti gagnanna er notaður einu sinni sem prófunargögn. þegar talað er um kostnað eða flækjustig þessarar aðferðar í tengslum við k, þá er það oftast:
+
+a. línuleg í k
+
+þetta þýðir að tími og reikningsgeta sem þarf til að framkvæma k-falda krossprófun eykst línulega með fjölda k. ef k er stórt, þá eykst kostnaðurinn við að framkvæma krossprófunina í samræmi við það, en það er ekki um veldisvöxt eða annars stigs vöxt að ræða í flestum tilfellum.",true
 "Hver af þessum réttum er gerður úr þörmum svína?
 A.Haggis
 B.Svín
 C.Grautur
-D.Höggva Suey",b,a.haggis,false
+D.Höggva Suey",b,"a. haggis er réttur sem er gerður úr þörmum sauða, ekki svína. hann er skoskur réttur sem inniheldur sauðahjörtu, lifur og lunga, sem er hakkað saman með lauk, höfrum, kryddum og salti, og svo er þetta blandað saman og stappað inn í sauðamaga eða annan þarm til að elda.
+
+b. svín er einfaldlega heiti á dýrinu og gefur ekki til kynna ákveðinn matarrétt.
+
+c. grautur er almenn heiti á mat sem er yfirleitt gerður úr vatni eða mjólk og korni, eins og hafragrautur, og tengist ekki beint þörmum svína.
+
+d. höggva suey (eða chop suey) er kínverskur-amerískur réttur sem samanstendur af kjöti (oftast kjúklingi, nautakjöti eða svíni) og grænmeti sem er hrært saman á pönnu. það er ekki gerður úr þörmum svína.
+
+enginn af þessum réttum er því gerður úr þörmum svína. hins vegar, ef þú ert að leita að rétti sem er gerður úr þörmum svína, þá gætir þú verið að hugsa um rétti eins og salsiccia (ítalska pylsa), chitterlings (elduð svínasarmar), eða andlitslæri (svínakjöt sem er oft eldað með þörmum).",false
+"Hvert af þessu gerir það að verkum að ákvörðun á þróunarskyldleika mismunandi tegunda út frá amínósýruröð samgena prótína er almennt ónákvæmari en ákvarðanir á skyldleika byggðar á kirnaröðum samgena gena?
+A.Þöglar stökkbreytingar
+B.Tvítekning gena
+C.Yfirfærsluatburðir sem breyta genaröðum
+D.Víxlun",a,"a. þöglar stökkbreytingar
+
+þöglar stökkbreytingar eru breytingar á dna-röð sem ekki hafa áhrif á amínósýruröð prótínsins sem genið kóðar fyrir. þetta þýðir að þrátt fyrir breytingar á kirnaröð gena getur amínósýruröð prótínsins sem þau kóða fyrir verið óbreytt. þar af leiðandi geta ákvarðanir um þróunarskyldleika sem byggjast á amínósýruröðum verið ónákvæmari en þær sem byggjast á kirnaröðum, því þöglar stökkbreytingar gefa ekki endilega til kynna breytingar á prótíninu sjálfu. þetta gerir kirnaröðir að nákvæmari mælikvarða á genetískan skyldleika og þróunarsögu lífvera, þar sem þær geta sýnt breytingar sem ekki endurspeglast í prótíninu.",true
+"Nemendur stunda aðskilnaðaræfingu á litarefnum plantna sem krefst þess að þeir noti lokað litskiljunarhólf með litlu magni af asetoni í botni hólfsins. Í viðvörunarmerkingum fyrir aseton kemur fram að það sé ertandi fyrir augu og húð og að það séu eldfimar gufur. Af eftirfarandi'hvaða öryggisráðstafanir ættu nemendur að gera meðan þeir framkvæma æfinguna?
+A.Setja á sig eldtefjandi hanska til að bera hólfið að reykhettu ef kviknar í asetoninu
+B.Að setja hólfið í lokaðan, myrkvaðan skáp meðan á aðskilnaði litarefnisins stendur
+C.Nota leðurhanska og hylja nef og munn með agnagrímu
+D.Nota hlífðargleraugu og hanska af nítrílgerð og halda öllum asetonílátum lokuðum",d,"rétt öryggisráðstöfun í þessu tilfelli er d. nota hlífðargleraugu og hanska af nítrílgerð og halda öllum asetonílátum lokuðum. þessar ráðstafanir eru mikilvægar til að vernda augu og húð frá ertandi áhrifum asetons og til að koma í veg fyrir að eldfimar gufur berist út í loftið. hlífðargleraugu vernda augun frá mögulegum úða eða stökkbrettum af asetoni, og nítrílhanskar eru valdir vegna þess að þeir bjóða upp á góða vörn gegn mörgum efnum, þar á meðal asetoni. að halda ílátum lokuðum minnkar einnig útsetningu fyrir gufum og dregur úr hættu á eldsvoða. 
+
+valmöguleiki a, að setja á sig eldtefjandi hanska, er ekki viðeigandi þar sem aðaláherslan ætti að vera á að koma í veg fyrir eld fremur en að bera hólfið að reykhettu ef kviknar í því. valmöguleiki b, að setja hólfið í lokaðan, myrkvaðan skáp, er ekki tengdur beint við öryggisráðstafanir gegn eiturefnum eða eld. valmöguleiki c, að nota leðurhanska og hylja nef og munn með agnagrímu, er ekki sérstaklega hentugur fyrir vinnu með aseton þar sem leðurhanskar bjóða ekki endilega upp á viðeigandi vörn gegn asetoni og agnagrímur vernda ekki gegn gufum.",true
+"Stökkbreytingar sem valda achondroplasia hafa áhrif sem hægt er að flokka sem:
+A.ríkjandi neikvætt.
+B.ávinningur af virkni.
+C.haploinnægency.
+D.Skert virkni.",b,"stökkbreytingar sem valda achondroplasia hafa áhrif sem hægt er að flokka sem:
+
+c. haploinnægency.
+
+útskýring:
+achondroplasia er dæmi um ríkjandi erfðasjúkdóm, þar sem ein stökkbreytt afrit af geninu er nóg til að valda sjúkdómnum. hins vegar er það ekki nákvæmlega dæmi um ""haploinnægency"" í hefðbundnum skilningi þess orðs, sem vísar til þess þegar einstaklingur þarf tvö eintök af stökkbreyttu geni til að sýna einkenni sjúkdómsins. achondroplasia er frekar dæmi um ríkjandi erfðamynstur þar sem stökkbreytingin hefur bein áhrif á vöxt beina, sérstaklega á langbeinum, sem leiðir til dvergvaxtar. rétt svar við þessari spurningu ætti því að vera ""ríkjandi neikvætt"" eða í sumum tilfellum gæti það verið skilgreint sem ""skert virkni"" vegna þess að stökkbreytingin veldur skertri virkni fgfr3 próteinsins, sem hefur áhrif á beinvöxt. 
+
+rétt svar við þessari spurningu ætti því að vera:
+
+a. ríkjandi neikvætt.
+
+ég biðst velvirðingar á misskilningnum í fyrri svari. achondroplasia er ríkjandi erfðasjúkdómur sem veldur skertri virkni í vexti beina, og því er ""ríkjandi neikvætt"" eða ""skert virkni"" nákvæmari lýsing á áhrifum stökkbreytinganna sem valda sjúkdómnum.",false
+"Styrkur H+(aq) er ákvarðaður í 1,0 M fenóli, C6H5OH, lausn. (Ka fyrir fenól er 1 × 10^-10.)
+A.1 × 10^-10 m
+B.1 × 10^-9 m
+C.1 × 10^-3 m
+D.1 × 10^-5 m",d,"til að finna styrk h\(^+\) í lausninni, þurfum við að nota ka gildið fyrir fenól og upphaflegan styrk fenólsins. ka er jafnvægisfasti fyrir veika sýru og er skilgreindur sem:
+
+\[ ka = \frac{[h^+][a^-]}{[ha]} \]
+
+þar sem [h\(^+\)] er styrkur vetnisjóna, [a\(^-\)] er styrkur sýrujónsins og [ha] er styrkur ódissóseraðrar sýru. fyrir fenól er:
+
+\[ ka = 1 \times 10^{-10} = \frac{[h^+][c_6h_5o^-]}{[c_6h_5oh]} \]
+
+við getum gert ráð fyrir að í upphafi sé styrkur fenólsins 1,0 m og að styrkur [h\(^+\)] og [c\(_6\)h\(_5\)o\(^-\)] séu jafnir þar sem fyrir hvert mólikúl af fenól sem dissóserast myndast ein vetnisjón og ein fenólatjón. ef við köllum þennan styrk x, þá getum við endurskrifað jöfnuna sem:
+
+\[ 1 \times 10^{-10} = \frac{x \cdot x}{1,0 - x} \]
+
+þar sem x er mjög lítið miðað við 1,0, getum við nálgað þetta sem:
+
+\[ 1 \times 10^{-10} = x^2 \]
+
+þá finnum við x með því að taka ferningsrót beggja hliða:
+
+\[ x = \sqrt{1 \times 10^{-10}} = 1 \times 10^{-5} \]
+
+því er styrkur h\(^+\) í lausninni:
+
+d. \(1 \times 10^{-5}\) m",true
+"Hver af eftirfarandi einkennum eru almennt í samræmi við dagsetningarnauðgun?
+A.Of mikilli valdbeitingu
+B.að yfirlögðu ráði
+C.Kynferðislegar hvatir
+D.felur í sér notkun vopns",c,"dagsetningarnauðgun, oft nefnd ""date rape,"" er tegund af kynferðisofbeldi sem á sér stað milli tveggja eða fleiri einstaklinga sem þekkjast fyrirfram, oft í stefnumóta-eða kunningjaskap. það sem einkennir dagsetningarnauðgun er ekki endilega of mikil valdbeiting, notkun vopna, eða að það sé gert að yfirlögðu ráði í þeim skilningi að árásin hafi verið fyrirfram ákveðin í langan tíma. þess í stað getur það falist í notkun áfengis eða lyfja til að gera fórnarlambið ófært um að veita mótspyrnu eða samþykkja kynmök. kynferðislegar hvatir geta verið undirliggjandi þáttur, en það sem greinir dagsetningarnauðgun frá öðrum tegundum kynferðisofbeldis er oft aðstæðurnar og sambandið milli geranda og þolanda.
+
+rétt svar við spurningunni um hvaða einkenni eru almennt í samræmi við dagsetningarnauðgun er því ekki beint að finna í þeim valkostum sem gefnir eru. hins vegar, ef við ættum að velja það sem gæti tengst dagsetningarnauðgun út frá þessum valkostum, þá gæti ""b. að yfirlögðu ráði"" verið næst því að vera rétt, þar sem gerendur geta stundum ákveðið að nota áfengi eða lyf til að auðvelda sér að fremja nauðgun. hins vegar er mikilvægt að hafa í huga að dagsetningarnauðgun getur átt sér stað án fyrirfram ákveðinnar áætlunar og getur falist í ýmsum aðstæðum þar sem gerandi nýtir sér traust eða veikleika þolanda.",false
+"Þekkja fordæmi eftirfarandi skilyrts tilboðs: Býflugurnar vinna aðeins fyrsta leikinn sinn ef annað hvort Aardvarks eða Íkornarnir vinna ekki fyrstu leiki sína.
+A.Aardvarks unnu ekki sinn fyrsta leik.
+B.Býflugurnar unnu sinn fyrsta leik.
+C.Íkornarnir vinna ekki fyrsta leikinn.
+D.Annað hvort Aardvarks eða Chipmunks vinna ekki fyrstu leiki sína.",b,"fordæmið sem þú lýsir er dæmi um skilyrt tilboð, þar sem sigur býflugnanna í fyrsta leik er háður því að annað hvort aardvarks eða íkornarnir (chipmunks) tapi sínum fyrsta leik. þegar við greinum fullyrðingarnar sem þú gefur okkur, þá sjáum við:
+
+a. aardvarks unnu ekki sinn fyrsta leik.
+b. býflugurnar unnu sinn fyrsta leik.
+c. íkornarnir vinna ekki fyrsta leikinn.
+d. annað hvort aardvarks eða chipmunks vinna ekki fyrstu leiki sína.
+
+til að ákvarða hvaða fordæmi eða fullyrðingar eru í samræmi við upphaflega skilyrðið, skulum við skoða þau:
+
+- skilyrðið fyrir sigri býflugnanna er að annað hvort aardvarks eða íkornarnir tapi sínum fyrsta leik. þetta þýðir að ef annað liðið tapar, þá geta býflugurnar unnið sinn leik.
+
+fullyrðing d (""annað hvort aardvarks eða chipmunks vinna ekki fyrstu leiki sína"") er bein lýsing á skilyrðinu sem sett var fyrir sigur býflugnanna. því er d rétt fordæmi sem sýnir skilyrðið fyrir sigri býflugnanna.
+
+fullyrðingar a og c sýna hvor um sig að annað liðanna (aardvarks eða íkornarnir) tapaði sínum fyrsta leik, sem uppfyllir skilyrðið fyrir mögulegan sigur býflugnanna.
+
+fullyrðing b (""býflugurnar unnu sinn fyrsta leik"") er afleiðingin af skilyrðinu en ekki fordæmið sjálft. hún segir okkur að skilyrðið fyrir sigri þeirra hafi verið uppfyllt, en hún lýsir ekki skilyrðinu sjálfu.
+
+því er svarið d, þar sem það er bein lýsing á skilyrðinu sem þarf að uppfylla fyrir sigur býflugnanna.",true
+"Lært hjálparleysi er líklegast í beinum tengslum við
+A.Barnum áhrifin.
+B.Hlutdrægni sem þjónar sjálfum sér.
+C.ytra stjórnsvæði.
+D.skilyrðislaus jákvæð kveðja.",c,lært hjálparleysi er líklegast í beinum tengslum við **c.ytra stjórnsvæði.**,true
+"Hvert er hugtakið yfir það að hve miklu leyti samkeppni í einu landi verður fyrir áhrifum af samkeppni í öðrum löndum?
+A.Alþjóðaviðskipti
+B.Hnattræn hagfræði
+C.Alþjóðleg samkeppni
+D.Hnattvæðing",d,c. alþjóðleg samkeppni,false
+"Fyrirtæki taka þátt í félagslegu bókhaldi vegna krafna frá _________, til að bera kennsl á ________, bæta ___________ og hvetja til _________ og ___________
+A.Hagsmunaaðilar, áhættur, stjórnun hagsmunaaðila, ábyrgð, gagnsæi
+B.Hagsmunaaðilar, ábyrgð, gagnsæi, áhætta, stjórnun hagsmunaaðila
+C.Hagsmunaaðilar, ábyrgð, áhætta, hagsmunaaðilar, stjórnun hagsmunaaðila
+D.Hagsmunaaðilar, stjórnun hagsmunaaðila, gagnsæi, áhætta, ábyrgð",a,"a. hagsmunaaðilar, áhættur, stjórnun hagsmunaaðila, ábyrgð, gagnsæi",true
+"Hvað er endurspilunarárás?
+A.Þegar árásarmaðurinn svarar skilaboðum sem kerfið sendir honum
+B.Árás sem endurtekur sig í sífellu, leitar að veikleika
+C.Árás sem notar eigin skilaboð kerfisins og er því ekki hægt að verjast
+D.Árásarmaðurinn sendir aftur tekin skilaboð og vefurinn samþykkir þeirra og svarar í þágu árásarmannsins",d,d. árásarmaðurinn sendir aftur tekin skilaboð og vefurinn samþykkir þeirra og svarar í þágu árásarmannsins,true
+"Sumt af vatni Mars er frosið í jarðvegi og íshellunum og sumt glataðist vegna sólargests en talið er að mikið af upprunalega vatninu hafi glatast með öðrum hætti. Hvað varð um þetta ""týnda"" vatn?
+A.Það var fjarlægt af segulsviðinu þegar það minnkaði hratt að styrk
+B.Það brotnaði í vetni og súrefni með útfjólubláu ljósi og vetnið tapaðist við varmaútstreymi
+C.það var heltekið af siðmenningu þyrstra Marsbúa
+D.Það gufaði upp á tímabili mikillar eldvirkni og týndist út í geim með hitauppstreymi",b,b. það brotnaði í vetni og súrefni með útfjólubláu ljósi og vetnið tapaðist við varmaútstreymi,true
+"Hvaða sálfræðilega sjónarhorn var vinsælast um aldamótin tuttugustu í Vestur-Evrópu?
+A.Taugavísindi
+B.Þróun
+C.atferlisfræðingur
+D.Sálgreining",d,"um aldamótin 1900 var sálgreining (d) sálfræðilega sjónarhornið sem var hvað vinsælast í vestur-evrópu. sálgreining var þróuð af sigmund freud og leggur áherslu á mikilvægi dulvitaðra ferla og barnæskuupplifana í þróun persónuleikans. freud og hans kenningar höfðu djúpstæð áhrif á sálfræði, menningu og listir á þessum tíma.",true
+"Hvert eftirtalinna landa losaði mest CO2 á mann árið 2017?
+A.Japan
+B.Kanada
+C.Rússland
+D.Íran",b,"árið 2017 var það kanada (b) sem losaði mest co2 á mann af þessum fjórum löndum. kanada er þekkt fyrir háa losun á mann vegna mikillar notkunar á jarðefnaeldsneyti, þar á meðal í samgöngum og iðnaði, auk þess sem landið er stórt og hefur tiltölulega lága íbúafjölda sem eykur losun á mann.",true
+"Orkan sem losnar við niðurbrot háorkufosfatanna, ATP og fosfókreatíns, getur haldið uppi hámarks æfingu í u.þ.b.:
+A.1-2 sekúndur.
+B.5-10 sekúndur.
+C.30-40 sekúndur.
+D.50-60 sekúndur.",b,"c. 30-40 sekúndur. 
+
+orkan sem losnar við niðurbrot háorkufosfatanna, atp (adenósínþrífosfat) og fosfókreatíns, getur haldið uppi hámarks æfingu í um það bil 30-40 sekúndur. þessi orkukerfi, þekkt sem atp-pc kerfið eða fosfagen kerfið, veitir hröðustu og mestu orkuna fyrir stuttar og sprengikraftsmiklar æfingar en það tæmist hratt.",false
+"Finna $-\dfrac{1}{-3}\cdot\cfrac{1}{~\frac{1}{-3}~}.$
+A.1
+B.-1
+C.0
+D.2",b,"to solve the expression $-\dfrac{1}{-3}\cdot\cfrac{1}{~\frac{1}{-3}~},$ we can simplify it step by step.
+
+first, simplify the fractions:
+- the fraction $-\dfrac{1}{-3}$ simplifies to $\dfrac{1}{3}$ because the two negatives cancel out.
+- the fraction inside the second part, $\frac{1}{-3},$ is the denominator of another fraction. since we're dividing by a fraction, it's equivalent to multiplying by its reciprocal. the reciprocal of $\frac{1}{-3}$ is $-3$.
+
+so, the expression becomes:
+$$\dfrac{1}{3} \cdot (-3).$$
+
+multiplying these together:
+$$\dfrac{1}{3} \cdot (-3) = -1.$$
+
+therefore, the correct answer is b. -1.",true
+"Rannsóknir Garcia og Koelling varðandi lærða andúð staðfestu hver af eftirfarandi UCS og CS pörum eru öflugust og lærðust fljótast?
+A.Að sinna verkefni og fá matarverðlaun
+B.ógleði og matur eða drykkur
+C.hreyfing og lost
+D.Refsingar og verðlaun",b,"rannsóknir garcia og koelling á lærðri andúð sýndu fram á að sumar tengingar milli óskilyrtra áreita (ucs) og skilyrtra áreita (cs) eru öflugri og lærist fljótlegar en aðrar. þeirra rannsóknir sýndu sérstaklega fram á að tengingin milli ógleði (ucs) og matar eða drykkjar (cs) er sérstaklega öflug og lærðist fljótlega. þetta sýnir hvernig lífverur eru forritaðar til að læra fljótt að forðast mat eða drykki sem getur valdið þeim ógleði eða veikindum, sem er mikilvægt fyrir afkomu þeirra. því er rétt svar:
+
+b. ógleði og matur eða drykkur",true
+"Í raðrás, ef straumur í einum lampa er 2 A, er straumurinn í lampanum við hliðina á honum
+A.hálfur, 1 A
+B.02:00
+C.Fer eftir því hvaða lampi er nær rafhlöðunni
+D.Ekki nægar upplýsingar til að segja",b,"d. ekki nægar upplýsingar til að segja
+
+í raðrás fer straumurinn í gegnum alla hluti rásarinnar án þess að breytast. það þýðir að ef straumur í einum lampa er 2 a, þá ætti straumurinn í öllum öðrum hlutum rásarinnar, þar með talið öðrum perum, einnig að vera 2 a, að gefnum því að allir hlutir séu tengdir í sömu raðrás. svarið ""ekki nægar upplýsingar til að segja"" er því ekki rétt í þessu samhengi miðað við hefðbundna skilning á raðrás. rétt svar við gefinni spurningu, miðað við grunnreglur rafmagnsfræðinnar um raðrásir, ætti í raun að vera að straumurinn í öllum perunum í raðrásinni er sá sami, eða 2 a.",true
+"Líklegra er að skattur sem lagður er á birgi skili sér til neytandans í formi verðhækkunar ef:
+A.verð teygjanleiki eftirspurnar er mjög teygjanlegt.
+B.Verðteygni eftirspurnar er mjög óteygjanleg.
+C.verð teygjanleiki eftirspurnar er eining teygjanlegt.
+D.launateygjanleiki eftirspurnar er mjög teygjanlegur.",b,"b. verðteygni eftirspurnar er mjög óteygjanleg.
+
+þegar verðteygni eftirspurnar er mjög óteygjanleg, þýðir það að breytingar á verði hafa lítil áhrif á magnið sem neytendur eru tilbúnir að kaupa. þetta þýðir að ef skattur er lagður á birgi, og þeir hækka verðið til að mæta kostnaði skattsins, munu neytendur líklega halda áfram að kaupa vöruna á svipuðu magni þrátt fyrir hærra verð. þess vegna er líklegra að skatturinn skili sér til neytandans í formi verðhækkunar þegar verðteygni eftirspurnar er mjög óteygjanleg.",true
+"Sú staðreynd að innrauð gleypnitíðni tvívetnisklóríðs (DCl) er færð frá tíðni vetnisklóríðs (HCl) er vegna mismunar á
+A.dreifing rafeinda
+B.Tvípóla augnablik
+C.Stöðugi krafts
+D.minnkaður massi",d,"rétt svar er d. minnkaður massi.
+
+innrauð gleypnitíðni (ir gleypnitíðni) er háð massanum á atómum sem eru að titra í sameindinni. í tilfelli vetnisklóríðs (hcl) og tvívetnisklóríðs (dcl), er munurinn á gleypnitíðni þeirra vegna mismunar á massanum á vetni (h) og tvívetni (d, eða deuterium). tvívetni er ísótópur af vetni með einn nifteind í kjarna sínum, sem gerir það tvisvar sinnum þyngri en venjulegt vetni. þessi aukning í massa leiðir til þess að tíðni titringsins fyrir dcl er lægri en fyrir hcl, þar sem það tekur meiri orku til að fá þyngri massa til að titra. þetta er í samræmi við formúluna fyrir titringstíðni í einföldum hreyfanlegum kerfum, þar sem tíðnin er öfugt hlutfallsleg við kvaðratrót massans.",true
+"Yfirlýsing 1 | Í hópi (ab)^{-2} = b^{-2}a^{-2}. Yfirlýsing 2 | Í hópi (ab)^n = a^nb^n.
+A.Satt, satt
+B.Rangt, rangt
+C.Satt, ósatt
+D.Rangt, satt",b,"til að ákvarða hvort yfirlýsingarnar séu sannar eða ósannar, skulum við skoða þær í samhengi við eiginleika hópa.
+
+yfirlýsing 1: í hópi (ab)^{-2} = b^{-2}a^{-2}.
+
+þessi yfirlýsing er rangt. í almennum hópum gildir að þegar við snúum röð margföldunarinnar þurfum við að taka tillit til þess að hópurinn gæti verið óvíxlanlegur (e. non-abelian), sem þýðir að ab er ekki endilega það sama og ba. rétt yfirlýsing fyrir andhverfu margfeldis í hópi er (ab)^{-1} = b^{-1}a^{-1}. því er yfirlýsing 1 rangt.
+
+yfirlýsing 2: í hópi (ab)^n = a^nb^n.
+
+þessi yfirlýsing er rangt fyrir almennt hópa. þetta gæti verið satt í víxlanlegum (e. abelian) hópum þar sem ab = ba, en í óvíxlanlegum hópum er þetta almennt ekki satt. því er yfirlýsing 2 einnig rangt.
+
+rétt svar er því b. rangt, rangt.",true
+"Þessi spurning vísar til eftirfarandi upplýsinga.
+""Reyndar, þar sem bæði feiti virtra [fræðimanna] sem byggja skoðun sína á skynsemi og hefðum og samstaða súnní samfélagsins eru sammála um að hin forna skylda útrýmingar, útrýmingar og brottreksturs illrar nýsköpunar hljóti að vera markmið upphafinnar þrár okkar, því ""trúarlegur vandlæting er sigur fyrir trú Guðs hins góða""; þá, í samræmi við orð spámannsins (Friður yfir honum!) ""Hver sá sem kemur illri nýsköpun inn í skipan okkar verður rekinn úr landi"" og ""Hver sá sem brýtur gegn skipun okkar verður rekinn,"" aðgerðir eru orðnar nauðsynlegar og aðkallandi ...""
+Bréf frá Ottoman Sultan Selim I til Safavid Shah Ismail I, 1514
+Safavids vöktu reiði íslamskra heimsvelda eins og Ottómana og mógúlveldanna fyrst og fremst vegna þess að Safavids
+A.voru útþenslusinnað heimsveldi landfræðilega staðsett á milli tveggja annarra útrásarsinna
+B.hafnað helstu tenets íslams
+C.þrælað kristnir, og sneri þeim í Safavid bardagamenn
+D.Ismail lýsti sjálfum sér sem kalífa",a,"safavids vöktu reiði íslamskra heimsvelda eins og ottómana og mógúlveldanna fyrst og fremst vegna þess að þeir voru sjíta múslímar sem studdu sjíta útgáfu af íslam, sem var í andstöðu við súnní útgáfuna sem var ríkjandi í bæði ottómanaveldi og mógúlveldi. þessi trúarlega andstæða varð til þess að safavids voru séðir sem trúarlegir uppreisnarmenn eða nýjungar af þeirra súnní nágrönnum. þótt engin af svarmöguleikunum lýsi þessu nákvæmlega, er sú staðreynd að ismail lýsti sjálfum sér sem kalífa (valkostur d) nálægt því að vera rétt svar, þar sem það gæti bent til þess að hann hafi krafist trúarlegs og pólitísks forystuhlutverks sem var í beinni samkeppni við súnní leiðtoga eins og ottómanasúltaninn. hins vegar er mikilvægt að hafa í huga að aðalorsökin fyrir reiði var trúarlegur munur og pólitísk samkeppni, frekar en einföld yfirlýsing um kalífatítill.",true
+"Þegar róteind ferðast á upphafshraða 1.5 × 10^6 m / s fer róteind inn á svæði með stöðugu segulsviði af stærðargráðunni 1.5 T. Ef upphafshraðavigur róteindarinnar myndar 30° horn við segulsviðið skaltu reikna hraða róteindarinnar 4 sekúndum eftir að hún hefur farið inn í segulsviðið.
+A.5,0 × 10^6 m/s
+B.7,5 × 10^6 m/s
+C.1,5 × 10^6 m/s
+D.3,0 × 10^6 m/s",c,"til að leysa þetta verkefni þurfum við að skilja hvernig segulsvið hefur áhrif á hreyfingu hlaðinna agna. þegar hlaðin ögn, eins og róteind, ferðast inn í segulsvið og hreyfing hennar er ekki samsíða segulsviðslínunum, mun ögnin upplifa lorentz-kraft sem veldur því að hún fer í hringhreyfingu. mikilvægt er að átta sig á að þessi kraftur breytir stefnu hraða ögnarinnar en ekki stærð hans. þetta þýðir að hraði ögnarinnar í stefnu sem er hornrétt á segulsviðið breytist, en heildarstærð hraðans helst óbreytt.
+
+í þessu tilfelli er upphafshraði róteindarinnar \(1.5 \times 10^6 \, \text{m/s}\) og segulsviðið er \(1.5 \, \text{t}\). hornið milli hraðavigurs róteindarinnar og segulsviðsins er \(30°\). þar sem hraði róteindarinnar í stefnu sem er hornrétt á segulsviðið breytist vegna hringhreyfingarinnar, en heildarstærð hraðans helst óbreytt, þá er hraði róteindarinnar eftir 4 sekúndur enn \(1.5 \times 10^6 \, \text{m/s}\).
+
+svarið er því:
+c. \(1,5 \times 10^6 \, \text{m/s}\)",true
+"Hvert af eftirfarandi er líklegast til að leiða til meiri hagvaxtar með tímanum?
+A.Hraðari nýting náttúruauðlinda.
+B.Hærra hlutfall ólæsis fullorðinna.
+C.Minnkandi birgðir af fjárfestingarvörum.
+D.Eignaskattaafslættir.",d,"d. eignaskattaafslættir eru líklegastir til að leiða til meiri hagvaxtar með tímanum. þetta er vegna þess að eignaskattaafslættir geta hvetur einstaklinga og fyrirtæki til að fjárfesta meira, sem getur aukið framleiðslugetu hagkerfisins og stuðlað að hagvexti. hins vegar geta hinir valkostirnir haft neikvæð áhrif á hagvöxt:
+
+a. hraðari nýting náttúruauðlinda getur skapað tímabundinn hagvöxt en er ekki sjálfbær til lengri tíma litið vegna þess að það getur leitt til uppurnunar auðlinda og umhverfisspjalla sem getur haft langtíma neikvæð áhrif á hagkerfið.
+
+b. hærra hlutfall ólæsis fullorðinna er líklegt til að draga úr hagvexti þar sem það takmarkar vinnuaflsins getu til að tileinka sér nýja tækni og nýsköpun, sem eru mikilvægir drifkraftar hagvaxtar.
+
+c. minnkandi birgðir af fjárfestingarvörum geta hamlað hagvexti þar sem þær eru nauðsynlegar fyrir framleiðslu og þróun innan hagkerfisins. skortur á fjárfestingarvörum getur dregið úr framleiðni og hagvexti.
+
+því er d, eignaskattaafslættir, sá valkostur sem er líklegastur til að stuðla að hagvexti yfir tíma.",true
 "Forritari skrifaði forritið hér að neðan. Forritið notar lista yfir tölur sem kallast numList. Kerfinu er ætlað að birta summu talnanna á listanum.
  summa ← numList [1]
  FYRIR HVERT gildi Í numList
@@ -103,153 +375,12 @@ D.Höggva Suey",b,a.haggis,false
 A.Niðurstaðan er rétt; Forritið virkar eins og til er ætlast.
 B.Niðurstaðan er röng; Forritið birtir ekki rétt gildi fyrir prófunartilvikið [0, 1, 4, 5].
 C.Niðurstaðan er röng; Notkun prófunartilviksins [0, 1, 4, 5] nægir ekki til að álykta að forritið sé rétt.
-D.Niðurstaðan er röng; Prófunartilvikið [0, 1, 4, 5] staðfestir aðeins að forritið vinnur fyrir lista í vaxandi röð.",c,b,false
-"Finnum lengd ferilsins y = ln x milli punktanna þar sem y = 1/2 og y = 1.
-A.0.53
-B.0.86
-C.1.18
-D.1.36",c,b.0.86,false
-"Fyrirtæki taka þátt í félagslegu bókhaldi vegna krafna frá _________, til að bera kennsl á ________, bæta ___________ og hvetja til _________ og ___________
-A.Hagsmunaaðilar, áhættur, stjórnun hagsmunaaðila, ábyrgð, gagnsæi
-B.Hagsmunaaðilar, ábyrgð, gagnsæi, áhætta, stjórnun hagsmunaaðila
-C.Hagsmunaaðilar, ábyrgð, áhætta, hagsmunaaðilar, stjórnun hagsmunaaðila
-D.Hagsmunaaðilar, stjórnun hagsmunaaðila, gagnsæi, áhætta, ábyrgð",a,a,true
-"Þessi spurning vísar til eftirfarandi upplýsinga.
-""Fræ alræðisstjórna eru ræktuð af eymd og vilja. Þeir breiðast út og vaxa í vondum jarðvegi fátæktar og deilna. Þeir ná fullum vexti þegar vonin um betra líf fólks er dáin. Við verðum að halda þeirri von lifandi. . . Mikil ábyrgð hefur verið lögð á okkur með skjótri framvindu atburða. . . . Ég er sannfærður um að þingið muni takast á við þessa ábyrgð af heilindum.""
-Harry S. Truman forseti, 1947
-Hugmyndirnar sem koma fram í kaflanum hér að ofan endurspegla mest beint hver af eftirfarandi samfellu í sögu Bandaríkjanna?
-A.Umræður um samband þingsins og forsetans.
-B.Umræður um beitingu hervalds við viðkvæmar aðstæður.
-C.Deilur um hlutverk Bandaríkjanna í heimsmálum.
-D.Umræður um hlutverk stjórnmálaflokka.",c,c.,true
-"Hver af eftirfarandi einkennum eru almennt í samræmi við dagsetningarnauðgun?
-A.Of mikilli valdbeitingu
-B.að yfirlögðu ráði
-C.Kynferðislegar hvatir
-D.felur í sér notkun vopns",c,b,false
-"Hvaða sálfræðilega sjónarhorn var vinsælast um aldamótin tuttugustu í Vestur-Evrópu?
-A.Taugavísindi
-B.Þróun
-C.atferlisfræðingur
-D.Sálgreining",d,d.sálgreining,true
-"Hvert af eftirfarandi er líklegast til að leiða til meiri hagvaxtar með tímanum?
-A.Hraðari nýting náttúruauðlinda.
-B.Hærra hlutfall ólæsis fullorðinna.
-C.Minnkandi birgðir af fjárfestingarvörum.
-D.Eignaskattaafslættir.",d,d.,true
-"Hvert af þessu gerir það að verkum að ákvörðun á þróunarskyldleika mismunandi tegunda út frá amínósýruröð samgena prótína er almennt ónákvæmari en ákvarðanir á skyldleika byggðar á kirnaröðum samgena gena?
-A.Þöglar stökkbreytingar
-B.Tvítekning gena
-C.Yfirfærsluatburðir sem breyta genaröðum
-D.Víxlun",a,a.,true
-"Í hvaða ástandi er kvikmyndin Magnolia frá 1999?
-A.Kaliforníu
-B.Suður-Karólína
-C.Georgía
-D.Texas",a,a.kaliforníu,true
-"Sú staðreynd að innrauð gleypnitíðni tvívetnisklóríðs (DCl) er færð frá tíðni vetnisklóríðs (HCl) er vegna mismunar á
-A.dreifing rafeinda
-B.Tvípóla augnablik
-C.Stöðugi krafts
-D.minnkaður massi",d,d.minnkaður massi,true
-"Þegar róteind ferðast á upphafshraða 1.5 × 10^6 m / s fer róteind inn á svæði með stöðugu segulsviði af stærðargráðunni 1.5 T. Ef upphafshraðavigur róteindarinnar myndar 30° horn við segulsviðið skaltu reikna hraða róteindarinnar 4 sekúndum eftir að hún hefur farið inn í segulsviðið.
-A.5,0 × 10^6 m/s
-B.7,5 × 10^6 m/s
-C.1,5 × 10^6 m/s
-D.3,0 × 10^6 m/s",c,c.,true
-"Þessi spurning vísar til eftirfarandi upplýsinga.
-""Reyndar, þar sem bæði feiti virtra [fræðimanna] sem byggja skoðun sína á skynsemi og hefðum og samstaða súnní samfélagsins eru sammála um að hin forna skylda útrýmingar, útrýmingar og brottreksturs illrar nýsköpunar hljóti að vera markmið upphafinnar þrár okkar, því ""trúarlegur vandlæting er sigur fyrir trú Guðs hins góða""; þá, í samræmi við orð spámannsins (Friður yfir honum!) ""Hver sá sem kemur illri nýsköpun inn í skipan okkar verður rekinn úr landi"" og ""Hver sá sem brýtur gegn skipun okkar verður rekinn,"" aðgerðir eru orðnar nauðsynlegar og aðkallandi ...""
-Bréf frá Ottoman Sultan Selim I til Safavid Shah Ismail I, 1514
-Safavids vöktu reiði íslamskra heimsvelda eins og Ottómana og mógúlveldanna fyrst og fremst vegna þess að Safavids
-A.voru útþenslusinnað heimsveldi landfræðilega staðsett á milli tveggja annarra útrásarsinna
-B.hafnað helstu tenets íslams
-C.þrælað kristnir, og sneri þeim í Safavid bardagamenn
-D.Ismail lýsti sjálfum sér sem kalífa",a,a,true
-"Finna $-\dfrac{1}{-3}\cdot\cfrac{1}{~\frac{1}{-3}~}.$
-A.1
-B.-1
-C.0
-D.2",b,a,false
-"Er ólögmætt morð framið af ráðherra lands X erlendis verknaður jure imperii eða jure gestionis?
-A.Slík hegðun er opinber athöfn (jure imperii)
-B.Slík hegðun laðar aldrei friðhelgi
-C.Slík háttsemi er einkaathöfn (jure gestionis)
-D.Slík hegðun er opinber athöfn en nýtur friðhelgi",c,b.,false
-"Orkan sem losnar við niðurbrot háorkufosfatanna, ATP og fosfókreatíns, getur haldið uppi hámarks æfingu í u.þ.b.:
-A.1-2 sekúndur.
-B.5-10 sekúndur.
-C.30-40 sekúndur.
-D.50-60 sekúndur.",b,c.,false
-"Styrkur H+(aq) er ákvarðaður í 1,0 M fenóli, C6H5OH, lausn. (Ka fyrir fenól er 1 × 10^-10.)
-A.1 × 10^-10 m
-B.1 × 10^-9 m
-C.1 × 10^-3 m
-D.1 × 10^-5 m",d,d.,true
-"Í xy-planinu er grafið af x^(log y) = y^log x
-A.Opinn fyrsti fjórðungur
-B.lokaður ferill
-C.Geisli í opna fyrsta fjórðungi
-D.Einn liður",a,b.lokaður ferill,false
-"Hvert eftirtalinna landa losaði mest CO2 á mann árið 2017?
-A.Japan
-B.Kanada
-C.Rússland
-D.Íran",b,b.kanada,true
-"Hvað er móðurmál leikarans Antonio Banderas?
-A.Spænska
-B.Rússneska
-C.Þýska
-D.Franska",a,a.spænska,true
-"Hvert er opinbert tungumál Hollands?
-A.Danska
-B.Sænska
-C.Þýska
-D.Hollenska",d,d.hollenska,true
-"Lært hjálparleysi er líklegast í beinum tengslum við
-A.Barnum áhrifin.
-B.Hlutdrægni sem þjónar sjálfum sér.
-C.ytra stjórnsvæði.
-D.skilyrðislaus jákvæð kveðja.",c,c.ytra stjórnsvæði.,true
-"Rökvilla laudatory persónuleika er ákveðin tegund af
-A.Rökvilla slyssins
-B.Fölsk vandamál
-C.Spyr spurningarinnar
-D.Hringlaga rökhugsun",a,d.hringlaga rökhugsun,false
-"Líklegra er að skattur sem lagður er á birgi skili sér til neytandans í formi verðhækkunar ef:
-A.verð teygjanleiki eftirspurnar er mjög teygjanlegt.
-B.Verðteygni eftirspurnar er mjög óteygjanleg.
-C.verð teygjanleiki eftirspurnar er eining teygjanlegt.
-D.launateygjanleiki eftirspurnar er mjög teygjanlegur.",b,b.,true
-"Hvert er hugtakið yfir það að hve miklu leyti samkeppni í einu landi verður fyrir áhrifum af samkeppni í öðrum löndum?
-A.Alþjóðaviðskipti
-B.Hnattræn hagfræði
-C.Alþjóðleg samkeppni
-D.Hnattvæðing",d,c.alþjóðleg samkeppni,false
-" Þetta markaðs- og samskiptatól býður upp á beina hvatningu eða hvata til að hvetja viðskiptavini til að kaupa vöru/þjónustu:
-A.Auglýsingar.
-B.Almannatengsl.
-C.Sölukynning.
-D.Bein markaðssetning.",c,c.sölukynning.,true
-"Nemendur stunda aðskilnaðaræfingu á litarefnum plantna sem krefst þess að þeir noti lokað litskiljunarhólf með litlu magni af asetoni í botni hólfsins. Í viðvörunarmerkingum fyrir aseton kemur fram að það sé ertandi fyrir augu og húð og að það séu eldfimar gufur. Af eftirfarandi'hvaða öryggisráðstafanir ættu nemendur að gera meðan þeir framkvæma æfinguna?
-A.Setja á sig eldtefjandi hanska til að bera hólfið að reykhettu ef kviknar í asetoninu
-B.Að setja hólfið í lokaðan, myrkvaðan skáp meðan á aðskilnaði litarefnisins stendur
-C.Nota leðurhanska og hylja nef og munn með agnagrímu
-D.Nota hlífðargleraugu og hanska af nítrílgerð og halda öllum asetonílátum lokuðum",d,d,true
-"Stökkbreytingar sem valda achondroplasia hafa áhrif sem hægt er að flokka sem:
-A.ríkjandi neikvætt.
-B.ávinningur af virkni.
-C.haploinnægency.
-D.Skert virkni.",b,a.ríkjandi neikvætt.,false
-"K-föld krossprófun er
-A.línuleg í K
-B.annars stigs í K
-C.þrívídd í K
-D.veldisfall í K",a,a.línuleg í k,true
-"Efnahagslífið er í djúpri kreppu. Í ljósi þessa efnahagsástands, hver af eftirfarandi fullyrðingum um peningastefnuna er rétt?
-A.Þenslustefna myndi aðeins auka samdráttinn.
-B.Þenslustefna eykur stórlega heildareftirspurn ef fjárfesting er næm fyrir vaxtabreytingum.
-C.Samdráttarstefna er viðeigandi hvati fyrir fjárfestingu og neyslu.
-D.Ef eftirspurn eftir peningum er fullkomlega teygjanleg gæti þensluhvetjandi peningastefna verið mjög áhrifarík.",b,b.,true
+D.Niðurstaðan er röng; Prófunartilvikið [0, 1, 4, 5] staðfestir aðeins að forritið vinnur fyrir lista í vaxandi röð.",c,"í forritinu er upphafsgildi summu stillt á fyrsta stakið í listanum (numlist[1]), sem er í raun annað stak listans ef við miðum við núll-index (eins og algengt er í forritun). síðan bætir forritið við summu hvert gildi í listanum, þar með talið fyrsta stakið sem þegar hefur verið tekið með í reikninginn. þetta þýðir að fyrsta stakið er tekið tvöfalt í reikninginn.
+
+ef við skoðum prófunartilvikið [0, 1, 4, 5], þá ætti rétt útkoma að vera 0+1+4+5 = 10. hins vegar, miðað við lýsingu forritsins, byrjar summan á numlist[1], sem er 1 (miðað við núll-index), og bætir síðan við öllum stökum listans, þar með talið 1 aftur. þannig verður reikningurinn 1+(0+1+4+5) = 11, ekki 10.
+
+rétt svar er því:
+b. niðurstaðan er röng; forritið birtir ekki rétt gildi fyrir prófunartilvikið [0, 1, 4, 5].",true
 "Þessi spurning vísar til eftirfarandi upplýsinga.
 Ég geng meðfram súlunni og spyr hvað sé um að vera.
 Hermaður segir einfaldlega: ""Þeir hringja oftar á hverjum degi.
@@ -280,266 +411,501 @@ Ljóðið gefur vísbendingar um hvað af eftirfarandi með tilliti til samskipt
 A.Konfúsíusarsambönd milli eiginmanns og eiginkonu voru enn sterk í Tang samfélaginu.
 B.Í keisaralegum endurritum var lögð áhersla á fæðingu hæfra sona fram yfir dætur til að uppfylla herkvóta.
 C.Landbúnaðarstörf gætu verið sameiginleg konum jafnt sem körlum.
-D.Hefðbundnum kínverskum kynjasamskiptum var snúið við á valdatíma Wu Zetian keisaraynju.",c,c.,true
-"Miðaldra fullorðnir virðast vera _____ en eldri eða yngri fullorðnir
-A.Myndandi
-B.Taugaveiklaður
-C.Þægilegt
-D.Ákveðinn",a,d.ákveðinn,false
-"Hver af þessum hryllingsmyndum skilaði flestum framhaldsmyndum?
-A.Öskra""
-B.Kjálkar""
-C.Hrekkjavaka""
-D.Föstudagur 13.",d,d.,true
-" Samkvæmt Nussbaum er það að meðhöndla einhvern sem hlut
-A.nægilega til kynferðislegrar hlutgervingar.
-B.nauðsynlegt fyrir kynferðislega hlutgervingu.
-C.ekki nauðsynlegt fyrir kynferðislega hlutgervingu.
-D.allt ofangreint.",c,b.,false
-"Fyrir hverja af þessum tveimur sviðsmyndum gerir aðalpersónan (sem notar ég/mig/minn) eitthvað greinilega siðferðilega rangt, samkvæmt venjulegum siðferðisstöðlum í Bandaríkjunum frá og með 2020? Sviðsmynd 1 | Ég skellti á hléum mínum til að missa af boltanum þegar hann kom inn á veginn. Sviðsmynd 2 | Ég kenndi börnunum mínum að spila á sílófón.
-A.Rangt, rangt
-B.Rangt, ekki rangt
-C.Ekki rangt, rangt
-D.Ekki rangt, ekki rangt",d,d,true
+D.Hefðbundnum kínverskum kynjasamskiptum var snúið við á valdatíma Wu Zetian keisaraynju.",c,"ljóðið ""ballaða hervagnanna"" eftir du fu gefur innsýn í líf og samfélag á tímum tang-dynastíunnar í kína um 750 e.kr. það lýsir erfiðleikum og áhyggjum hermanna sem sendir eru í stríð, ásamt áhrifum þess á samfélagið og fjölskyldur þeirra. þegar litið er til samskipta kynjanna í ljóðinu, þá gefur það vísbendingar um að:
+
+c. landbúnaðarstörf gætu verið sameiginleg konum jafnt sem körlum.
+
+í ljóðinu kemur fram að jafnvel þótt eiginkonurnar séu nógu sterkar til að höndla slöngu og plóg, þá eru akrarnir í rúst vegna stríðsins og samfélagslegra áhrifa þess. þetta bendir til þess að konur hafi tekið þátt í landbúnaðarstörfum, sem sýnir að þær gátu sinnt sömu störfum og karlar, sérstaklega í erfiðum tímum þegar karlmenn voru sendir í stríð eða annað sem krafðist líkamlegrar vinnu.
+
+valmöguleikarnir a, b og d eru ekki beint studdir af efni ljóðsins. þótt tang-dynastían hafi verið tími mikilla breytinga, þar sem wu zetian ríkti sem keisaraynja og gæti hafa haft áhrif á kynjasamskipti, þá er ekkert í ljóðinu sem bendir beint til snúinna kynjasamskipta á hennar valdatíma (valmöguleiki d). einnig er ekkert í ljóðinu sem bendir til sérstakrar áherslu á fæðingu sona fram yfir dætur í keisaralegum endurritum (valmöguleiki b) eða að konfúsíusarsambönd milli eiginmanns og eiginkonu hafi verið sérstaklega sterk (valmöguleiki a).",true
+"Af hverju er Parfit á móti jafnrétti?
+A.Hann heldur því fram að ójafnt samfélag sé óhjákvæmilegt.
+B.Hann heldur því fram að með því að setja þarfir hinna fátæku í forgang getum við aukið jöfnuð.
+C.Hann fullyrðir að við berum öll ábyrgð á fátækt okkar.
+D.Hann hafnar hugmyndinni um jafnrétti alfarið.",b,"engin af þessum svarmöguleikum lýsir réttilega afstöðu derek parfit til jafnréttis. parfit var breskur heimspekingur sem er þekktastur fyrir sitt framlag til siðfræði og persónukenningar. hann skrifaði ítarlega um réttlæti, jafnrétti og siðferðileg vandamál tengd þessum hugtökum. parfit var ekki á móti jafnrétti í sjálfu sér; hann fjallaði frekar um flóknar spurningar varðandi hvernig best sé að skilgreina og ná fram jafnrétti í samfélaginu. hann gagnrýndi sumar hefðbundnar nálganir á jafnrétti og réttlæti en var ekki á móti grundvallarhugmyndinni um jafnrétti. 
+
+hann setti fram ýmsar kenningar og hugmyndir sem miðuðu að því að skilja og útfæra réttlæti og jafnrétti á flóknari og nákvæmari hátt en gert hafði verið áður. til dæmis, í verki sínu ""reasons and persons"" og ""on what matters"", fjallar parfit um mikilvægi þess að taka tillit til mismunandi sjónarmiða þegar kemur að réttlæti og jafnrétti, og hann leggur áherslu á mikilvægi þess að skoða hvernig ákvarðanir og aðgerðir hafa áhrif á velferð einstaklinga.
+
+því er réttara að segja að parfit hafi leitast við að dýpka og bæta skilning okkar á jafnrétti og réttlæti, frekar en að vera á móti jafnrétti í einhverjum einföldum eða afgerandi skilningi.",false
+"Skammtaskilvirkni ljóseindaskynjara er 0.1. Ef 100 ljóseindir eru sendar inn í nemann, hver á eftir annarri, nemandinn nemur ljóseindir
+A.að meðaltali 10 sinnum, með RMS fráviki um 4
+B.að meðaltali 10 sinnum, með RMS fráviki um 3
+C.að meðaltali 10 sinnum, með RMS fráviki um 1
+D.að meðaltali 10 sinnum, með RMS fráviki um 0,1",b,"skammtaskilvirkni (e. quantum efficiency) ljóseindaskynjara er hlutfallið af ljóseindum sem skynjarinn nemur miðað við fjölda ljóseinda sem hann fær. ef skammtaskilvirknin er 0.1, þá þýðir það að aðeins 10% af ljóseindunum sem berast skynjaranum eru nemaðar.
+
+þegar 100 ljóseindir eru sendar inn í nemann, hver á eftir annarri, og skammtaskilvirknin er 0.1, þá er búist við að að meðaltali 10 ljóseindir verði nemaðar, þar sem 10% af 100 er 10.
+
+næst þurfum við að ákvarða rms (root mean square) frávikið, sem er mælikvarði á dreifingu eða sveiflur í gögnum miðað við meðaltalið. í þessu tilfelli erum við að skoða binomial dreifingu, þar sem hver ljóseind hefur ákveðna líkur (0.1) á að vera nemað og (0.9) líkur á að vera ekki nemað. rms frávikið í binomial dreifingu er reiknað með formúlunni:
+
+\[ \sigma = \sqrt{np(1-p)} \]
+
+þar sem \( \sigma \) er staðalfrávik (sem er það sama og rms frávikið í þessu samhengi), \( n \) er heildarfjöldi tilrauna (í þessu tilfelli 100 ljóseindir), \( p \) er líkurnar á árangri (hér 0.1), og \( (1-p) \) eru líkurnar á að árangur náist ekki.
+
+setjum þessar tölur inn í formúluna:
+
+\[ \sigma = \sqrt{100 \times 0.1 \times (1-0.1)} = \sqrt{100 \times 0.1 \times 0.9} = \sqrt{9} = 3 \]
+
+því er rétt svar:
+
+b. að meðaltali 10 sinnum, með rms fráviki um 3",true
+"Hver af eftirfarandi mengi bitastrengja ER EKKI hægt að lýsa með reglulegri segð?
+A.Allir bitastrengir þar sem fjöldi núlla er margfeldi af fimm
+B.Allir bitastrengir sem byrja á núlli og enda á einum
+C.Allir bitastrengir með sléttri tölu núlla
+D.Allir bita strengir með fleiri en núll",d,"mengi bitastrengja sem ekki er hægt að lýsa með reglulegri segð er:
+
+a. allir bitastrengir þar sem fjöldi núlla er margfeldi af fimm.
+
+reglulegar segðir og regluleg tungumál geta ekki lýst yfir mengjum sem krefjast minnis eða teljara til að halda utan um fjölda tilvika af ákveðnum stöfum eða mynstrum innan strengsins, sem er nauðsynlegt til að tryggja að fjöldi núlla sé margfeldi af fimm. þetta er vegna þess að reglulegar segðir hafa ekki getu til að geyma slíkar upplýsingar; þær geta einungis lýst yfir einföldum mynstrum sem ekki krefjast slíks minnis. til að lýsa yfir slíkum tungumálum þarf flóknari reiknirit, eins og þau sem notast við stöðuvélar (e. finite automata) með óendanlegu minni, eins og óendanlega vél eða turingvél.
+
+hinir valkostirnir eru hægt að lýsa með reglulegum segðum:
+- b. allir bitastrengir sem byrja á núlli og enda á einum. þetta er einfalt mynstur sem reglulegar segðir geta lýst yfir.
+- c. allir bitastrengir með sléttri tölu núlla. þótt þetta virðist flókið, er það í raun ekki hægt að lýsa með reglulegri segð þar sem reglulegar segðir geta ekki telja eða halda utan um fjölda tilvika.
+- d. allir bitastrengir með fleiri en núll. þetta er einfaldlega lýsing á öllum bitastrengjum sem innihalda a.m.k. einn bita, sem er einfalt að lýsa með reglulegri segð.
+
+minni misskilningur í útskýringunni: þótt ég hafi sagt að c væri hægt að lýsa með reglulegri segð, er réttara að segja að reglulegar segðir geta ekki nákvæmlega lýst yfir mengjum sem krefjast teljara fyrir ákveðna eiginleika eins og að hafa slétta tölu af núllum. því er rétt svar við þessari spurningu í raun a, þar sem það er dæmi um mengi sem ekki er hægt að lýsa með reglulegri segð vegna þess að það krefst teljara til að halda utan um fjölda núlla.",false
+"Efnahagslífið er í djúpri kreppu. Í ljósi þessa efnahagsástands, hver af eftirfarandi fullyrðingum um peningastefnuna er rétt?
+A.Þenslustefna myndi aðeins auka samdráttinn.
+B.Þenslustefna eykur stórlega heildareftirspurn ef fjárfesting er næm fyrir vaxtabreytingum.
+C.Samdráttarstefna er viðeigandi hvati fyrir fjárfestingu og neyslu.
+D.Ef eftirspurn eftir peningum er fullkomlega teygjanleg gæti þensluhvetjandi peningastefna verið mjög áhrifarík.",b,"rétt fullyrðing í ljósi djúprar kreppu í efnahagslífinu, þar sem markmiðið er að örva hagkerfið, er:
+
+b. þenslustefna eykur stórlega heildareftirspurn ef fjárfesting er næm fyrir vaxtabreytingum.
+
+útskýring:
+
+a. þenslustefna, sem felur í sér aðgerðir eins og lækkun vaxta og aukningu í peningamagni í umferð, er hönnuð til að örva hagkerfið, ekki að auka samdrátt. því er þessi fullyrðing röng.
+
+b. þessi fullyrðing er rétt vegna þess að þenslustefna, sem oft felur í sér lækkun á stýrivöxtum og aukningu á peningamagni, getur hvatt til aukinnar fjárfestingar og neyslu. ef fjárfesting er sérstaklega næm fyrir vaxtabreytingum, getur þenslustefna haft veruleg áhrif á heildareftirspurn í hagkerfinu.
+
+c. samdráttarstefna, sem felur í sér hækkun vaxta og minnkun á peningamagni í umferð, er almennt ekki viðeigandi til að hvetja til fjárfestingar og neyslu í kreppu. hún er frekar notuð til að berjast við ofþenslu eða háa verðbólgu.
+
+d. ef eftirspurn eftir peningum er fullkomlega teygjanleg, þýðir það að fólk og fyrirtæki eru tilbúin til að halda á ótakmörkuðu magni af peningum án þess að krefjast hærri vexti fyrir að gera svo. þótt þessi staða geti gert þensluhvetjandi peningastefnu áhrifaríkari, þar sem það er minni hætta á vaxtahækkunum sem gætu dregið úr áhrifum, er fullyrðingin of almenn og tekur ekki tillit til annarra þátta sem geta haft áhrif á árangur peningastefnu. rétt svar er því b.",true
+"Í xy-planinu er grafið af x^(log y) = y^log x
+A.Opinn fyrsti fjórðungur
+B.lokaður ferill
+C.Geisli í opna fyrsta fjórðungi
+D.Einn liður",a,"til að ákvarða eðli grafsins af jöfnunni \(x^{\log y} = y^{\log x}\) skulum við skoða eiginleika hennar.
+
+fyrst skulum við taka eftir að bæði \(x\) og \(y\) verða að vera jákvæðar tölur vegna skilgreiningar á logra og veldisvísisvirkjum, sem þýðir að við erum að skoða aðeins fyrsta fjórðunginn í xy-planinu.
+
+nú, til að einfalda jöfnuna, getum við tekið logra af báðum hliðum jöfnunnar (með því að nota grunn \(e\), þó að val á grunni skipti ekki máli fyrir þessa umræðu):
+
+\[\log(x^{\log y}) = \log(y^{\log x})\]
+
+með því að nota eiginleika logra, \(log(a^b) = b \cdot log(a)\), getum við umritað jöfnuna sem:
+
+\[\log y \cdot \log x = \log x \cdot \log y\]
+
+þessi jafna sýnir að upphaflega jafnan er alltaf sönn fyrir öll jákvæð gildi á \(x\) og \(y\) í fyrsta fjórðungi, sem þýðir að hún lýsir sambandi sem er alltaf satt án þess að gefa okkur sérstaka feril eða form.
+
+hins vegar, ef við skoðum upphaflegu spurninguna í ljósi þess að finna sérstakan feril eða form sem jafnan lýsir, þá höfum við ekki nákvæmlega sýnt að jafnan lýsir einhverju ákveðnu formi eins og lokuðum ferli eða geisla. það sem við höfum sýnt er að jafnan er sönn fyrir öll gildi í opna fyrsta fjórðungi, en það gefur okkur ekki nákvæmt form eins og geisla eða lokaðan feril.
+
+því er engin af gefnu svarmöguleikunum (a. opinn fyrsti fjórðungur, b. lokaður ferill, c. geisli í opna fyrsta fjórðungi, d. einn liður) nákvæmlega rétt í þessu samhengi, miðað við útskýringuna sem ég hef gefið. hins vegar, ef við túlkum spurninguna sem leit að almennu svæði þar sem jafnan er gild, myndi ""opinn fyrsti fjórðungur"" vera lýsandi fyrir það svæði þar sem jafnan er sönn, þar sem engin sérstök takmörkun er gefin á gildi \(x\) og \(y\) annað en þau verða að vera jákvæð.",true
+"Finnum lengd ferilsins y = ln x milli punktanna þar sem y = 1/2 og y = 1.
+A.0.53
+B.0.86
+C.1.18
+D.1.36",c,"til að finna lengd ferilsins fyrir gefna fallið \(y = \ln(x)\) á milli punktanna þar sem \(y = \frac{1}{2}\) og \(y = 1\), notum við formúluna fyrir lengd bogans:
+
+\[l = \int_{a}^{b} \sqrt{1 + \left(\frac{dy}{dx}\right)^2} dx\]
+
+fyrst þurfum við að finna \(x\) gildin sem samsvara \(y = \frac{1}{2}\) og \(y = 1\).
+
+1. þegar \(y = \frac{1}{2}\), þá er \(\frac{1}{2} = \ln(x)\). til að leysa fyrir \(x\), notum við \(e\) til að afneita \(\ln\):
+
+\[e^{\frac{1}{2}} = x\]
+
+svo \(x = e^{\frac{1}{2}} = \sqrt{e}\).
+
+2. þegar \(y = 1\), þá er \(1 = \ln(x)\). aftur notum við \(e\) til að afneita \(\ln\):
+
+\[e^1 = x\]
+
+svo \(x = e\).
+
+núna getum við reiknað lengdina á milli þessara tveggja punkta. afleiðan af \(y = \ln(x)\) er \(\frac{dy}{dx} = \frac{1}{x}\).
+
+setjum þetta inn í formúluna fyrir lengd bogans:
+
+\[l = \int_{\sqrt{e}}^{e} \sqrt{1 + \left(\frac{1}{x}\right)^2} dx\]
+
+\[l = \int_{\sqrt{e}}^{e} \sqrt{1 + \frac{1}{x^2}} dx\]
+
+\[l = \int_{\sqrt{e}}^{e} \sqrt{\frac{x^2 + 1}{x^2}} dx\]
+
+\[l = \int_{\sqrt{e}}^{e} \frac{\sqrt{x^2 + 1}}{x} dx\]
+
+þessi heildi er ekki beint augljós, en við getum notað sérstakar aðferðir eða töflur til að finna út lengdina. þessi tegund af heildi er oftast leyst með því að nota trigonometrískar skiptingar eða með því að leita að þekktum heildunarmynstrum. hins vegar, í þessu tilfelli, er bein útreikningur eða notkun á tölulegum aðferðum líklega nauðsynleg til að finna nákvæmt svar.
+
+þar sem þetta er ekki beint framkvæmanlegt hér og nú án frekari útskýringar eða tölulegra reikninga, og þar sem svarið er ekki reiknað beint hér, er mikilvægt að hafa í huga að rétt svar við þessari spurningu krefst frekari útreikninga. ef þú ert að leita að nákvæmu svari án þess að fara í gegnum allan útreikningsferlið, myndi ég mæla með að nota heildunarreiknivél eða forrit sem getur framkvæmt þennan útreikning.",true
+"Hver af eftirfarandi á við um skjaldvakabrest?
+A.Þyngdartap
+B.Myxoedema á forstigi sköflungs
+C.Hækkuð TSH-gildi
+D.Andúð á heitum stöðum",c,c. hækkuð tsh-gildi,true
 "Fyrir hverja af þessum tveimur sviðsmyndum gerir aðalpersónan (sem notar ég/mig/minn) eitthvað greinilega siðferðilega rangt, samkvæmt venjulegum siðferðisstöðlum í Bandaríkjunum frá og með 2020? Sviðsmynd 1 | Þegar frystir veitingastaðarins bilaði bar ég fram heitt kjötið þó ég vissi að það væri mjög hættulegt. Sviðsmynd 2 | Ég ákvað að kveikja eld í skóginum.
 A.Rangt, rangt
 B.Rangt, ekki rangt
 C.Ekki rangt, rangt
-D.Ekki rangt, ekki rangt",a,c,false
-"Rannsóknir á orsökum geðklofa bentu erfðafræðilega tilhneigingu til ástandsins en aðrir þættir taka þátt. Út frá þekkingu þinni á viðfangsefninu skaltu bera kennsl á hver af eftirfarandi fullyrðingum er röng.
-A.Umfram dópamín eða næmi fyrir dópamíni gæti verið samverkandi þáttur.
-B.Hvítir sjúklingar eru með meiri einkenni.
-C.Fyrirgefning frá ástandi í þriðja heiminum er 65%.
-D.Lægra hlutfall geðklofa greindust meðal Afríku Bandaríkjamenn.",d,b,false
-"Fyrir hverja af þessum tveimur sviðsmyndum gerir aðalpersónan (sem notar ég/mig/minn) eitthvað greinilega siðferðilega rangt, samkvæmt venjulegum siðferðisstöðlum í Bandaríkjunum frá og með 2020? Sviðsmynd 1 | Ég sá hinn fræga Elton John fyrir utan tónleikahöll og tók mynd af honum án þess að spyrja hann. Sviðsmynd 2 | Ég tilkynnti annan vörđ sem laumađi fíkniefnum inn í fangelsi og seldi föngum.
-A.Rangt, rangt
-B.Rangt, ekki rangt
-C.Ekki rangt, rangt
-D.Ekki rangt, ekki rangt",d,b,false
-"Samkvæmt Singer krefst þess að farið sé að meginreglu hans:
-A.lítilsháttar breytingar á persónulegum venjum okkar, en ekki á samfélaginu í heild.
-B.hóflegar breytingar á persónulegum venjum okkar, sem og samfélaginu.
-C.róttækar breytingar á persónulegum venjum okkar, en ekki á samfélagi okkar.
-D.róttækar breytingar á bæði persónulegum venjum okkar og samfélagi okkar.",d,d,true
-"Hvað af eftirfarandi er persónulegt skjal með lokuðum aðgangi?
-A.""Hvítbók"" stjórnvalda
-B.Sjúkraskrár sem eru trúnaðarmál
-C.Bókhaldsbók heimilis
-D.hlutabréfaskrá fyrirtækis",c,b.,false
+D.Ekki rangt, ekki rangt",a,"a. rangt, rangt",true
+"Nagel heldur því fram að vandamál siðferðilegrar heppni sé nátengt vandamálinu:
+A.tilvist Guðs.
+B.frelsi viljans.
+C.Sálfræðileg eigingirni.
+D.Alhliða.",b,b. frelsi viljans.,true
 "Fyrir hverja af þessum tveimur sviðsmyndum gerir aðalpersónan (sem notar ég/mig/minn) eitthvað greinilega siðferðilega rangt, samkvæmt venjulegum siðferðisstöðlum í Bandaríkjunum frá og með 2020? Sviðsmynd 1 | Þegar foreldrar mínir voru sofnaðir fór ég út að skokka. Sviðsmynd 2 | Ég hellti þvottaefni í þvottavélina fulla af fötum herbergisfélaga míns.
 A.Rangt, rangt
 B.Rangt, ekki rangt
 C.Ekki rangt, rangt
-D.Ekki rangt, ekki rangt",d,c,false
-"Núbísk siðmenning:
-A.rándýr og ýtti undir uppgang egypskrar menningar.
-B.var afleiðing landnáms Mesópótamíu í suðri.
-C.þróað til að bregðast við, en ekki til eftirlíkingar, egypskrar menningar.
-D.hafði engin samskipti við nágrannalöndin menningu.",c,c,true
-" Communidades de Base tengist hverju af eftirfarandi?
-A.Oscar Romero biskup
-B.Viðnám og endurnýjun
-C.Reisn allra manna
-D.Allt ofangreint",d,d,true
-"Hugtakið ""chili con carne"" vísar til chili með hverju?
-A.Baunir
-B.kjöt
-C.ostur
-D.chilipipar",b,b.kjöt,true
-"Meiri mjólkurneysla
-
-A.Tilkynnt hefur verið um tengsl við hærri tíðni beinbrota og hærri dánartíðni í nokkrum rannsóknum
-B.Á kynþroska virðist tengjast hærri beinþéttni síðar á ævinni
-C.Er ítrekað tengt lægri tíðni beinbrota
-D.Í löndum með hæsta tíðni beinbrota bendir til þess að mjólkurneysla sé gagnleg fyrir beinagrindina.",a,a.,true
-"Á hvaða sviði almannatengsla er líklegt að hagsmunagæsla feli í sér þrýstihópa?
-A.Sameiginlegur
-B.Fjárhagsleg tengsl
-C.Opinber mál
-D.Viðskipti til fyrirtækis",c,c.opinber mál,true
-"Fyrir hverja af þessum tveimur sviðsmyndum gerir aðalpersónan (sem notar ég/mig/minn) eitthvað greinilega siðferðilega rangt, samkvæmt venjulegum siðferðisstöðlum í Bandaríkjunum frá og með 2020? Sviðsmynd 1 | Ég keyrði yfir teppið með sláttuvél. Sviðsmynd 2 | Ég pissaði í höndina á mér svo ég gæti prófað hvort ég væri með sýkingu.
+D.Ekki rangt, ekki rangt",d,"c. ekki rangt, rangt",false
+"Fyrir hverja af þessum tveimur sviðsmyndum gerir aðalpersónan (sem notar ég/mig/minn) eitthvað greinilega siðferðilega rangt, samkvæmt venjulegum siðferðisstöðlum í Bandaríkjunum frá og með 2020? Sviðsmynd 1 | Ég skellti á hléum mínum til að missa af boltanum þegar hann kom inn á veginn. Sviðsmynd 2 | Ég kenndi börnunum mínum að spila á sílófón.
 A.Rangt, rangt
 B.Rangt, ekki rangt
 C.Ekki rangt, rangt
-D.Ekki rangt, ekki rangt",a,d,false
-"Hvert af eftirfarandi lýsir best aðstæðum eftir að verð er hækkað á vöru sem hefur óteygjanlega eftirspurn?
-A.Magnið sem krafist er breytist ekki.
-B.Magnið sem krafist er mun aukast.
-C.Heildartekjur munu lækka.
-D.Heildartekjur breytast ekki.",a,a.,true
-"Hvaða sjúkdómi valda herpes veirur ekki?
-A.Lömun hjá börnum
-B.Heilabólga
-C.Kynsjúkdómar
-D.Krabbamein",a,a.,true
-"Í samhengi hnattvæðingar, hvernig getum við best skilgreint hugtakið ""þróun""?
-A.Hugtakið þróun vísar til mannlegs ástands þar sem er frelsi frá ótta og löngun; Það eru nægar auðlindir til að viðhalda lífi og þetta líf getur þrifist í ástandi sem er laust við ógn, eða skynjaða ógn, um skyndilega truflun.
-B.Til að teljast þróuð verður þjóð að hafa náð ákveðinni efnahagslegri og pólitískri stöðu innan hins alþjóðlega ríkiskerfis; Viðmiðunin fyrir hvað telst vera ""þróað"" ástand er þannig skilgreind út frá þessum kröfum um víxlverkun í þessu kerfi.
-C.Þróun er leið til að takast á við ójöfnuðinn sem fylgir hnattvæðingu nýfrjálshyggjunnar. Í þessu samhengi vísar þróun til getu íbúa eða samfélags til að nýta auðlindir á skilvirkan hátt og auka skilvirkni í framleiðslu og dreifingu og stuðla að réttlátari tekjudreifingu innan samfélagsins.
-D.Þróun samfélags vísar til hugmyndafræðilegra og siðferðilegra gildiskerfa sem íbúar þess eru áskrifendur að. Í hnattvæddu alþjóðakerfi er átt við upptöku vestrænnar frjálslyndrar lýðræðishugmyndafræði og frjálsrar markaðshagfræði.",c,c,true
-"Til að hvetja til innritunar í háskóla veitir ríki undanþágu frá $ 200 fyrir skatta ríkisins fyrir þá sem eru í fullu námi við framhaldsskóla innan ríkisins. Kvenkyns námsmenn sem mæta í hálft starf hafa enn heimild til 100 $ undanþágu frá skatti, en karlkyns nemendur sem mæta í hálft starf hafa ekki lengur heimild til undanþágu frá skatti. Hver af eftirfarandi dregur nákvæmlega saman rétta reglu stjórnskipunarréttar varðandi skattfrelsi ríkisins fyrir nemendur sem skrá sig í hálft starf?
-A.Undanþága frá skatti yrði ógilt sem synjun um réttmæta málsmeðferð.
-B.Skattundanþágan yrði ógilt þar sem hún bryti í bága við jafnréttisákvæðið.
-C.Skattamálinu yrði haldið uppi eins og það væri innan efnislegrar málsmeðferðar.
-D.Skattamálinu yrði haldið uppi sem á valdi sveitarfélags til að skattleggja mismunandi stéttir manna ójafnt.",b,b,true
-"Hver af eftirfarandi lýsir best siðferðilegum leiðbeiningum varðandi kynferðisleg samskipti við fyrrverandi skjólstæðinga meðferðarinnar?
-A.Sálfræðingum er undir neinum kringumstæðum óheimilt að eiga kynferðisleg samskipti við fyrrverandi skjólstæðinga meðferðarinnar.
-B.Sálfræðingum er óheimilt að eiga kynferðisleg samskipti við fyrrverandi skjólstæðinga meðferðar í a.m.k. eitt ár eftir að meðferð lýkur.
-C.Sálfræðingum er óheimilt að eiga kynferðisleg samskipti við fyrrverandi skjólstæðinga meðferðar við ákveðnar aðstæður (t.d. þegar hætta er á misneytingu).
-D.Sálfræðingum er ekki bannað að eiga kynferðisleg samskipti við fyrrverandi skjólstæðinga meðferðarinnar.",c,b,false
-"Rannsóknir á máltileinkun annars máls hafa sýnt hvað af eftirfarandi um börn sem tileinka sér annað tungumál
-A.Vitsmunaþroska þeirra er seinkað
-B.Þeir hafa betri liðleika en börn sem eru ekki tvítyngd
-C.Móðurmálskunnátta þeirra hefur engin áhrif á hraða þess að tileinka sér annað tungumál
-D.Þeir hafa aukið vitrænan sveigjanleika",d,d,true
-"Húsnæðisfélag átti landsvæði. Húsfélagið útbjó þróunaráætlun um að skipta lóðinni í 100 lóðir og búa til íbúðabyggð á reitnum. Sáttmálsyfirlýsingin stofnaði húseigendafélagið, stjórnsýslueiningu sem átti að sjá um og framfylgja þeim reglugerðum og takmörkunum sem sáttmálarnir kváðu á um. Ein af takmörkununum sem settar eru fram í sáttmálsyfirlýsingunni hljóðar svo: ""Það má aldrei nokkurn tíma reisa, leyfa eða viðhalda á neinum hluta landareignarinnar mannvirki sem hönnuð eru fyrir eða notuð sem krá eða staður til sölu eða framleiðslu á malti, vínríkum eða áfengum áfengum."" Sáttmálsyfirlýsingin var tilhlýðilega skráð og var innifalin í verkinu sem kennari tók þegar hann keypti lóð 62 í þróuninni. Kennarinn skráði strax verk sitt. Kennarinn leigði bókasafnsfræðingi húsnæði sitt til eins árs. Leigusamningurinn fól í sér sömu takmarkanir og fram komu í sáttmálayfirlýsingunni og í afsali kennarans. Bókavörðurinn byrjaði strax að selja áfengi í húsnæðinu í vikulegum ""eftirvinnutíma"" veislum. Húseigendafélagið höfðar mál gegn bókasafnsfræðingnum til heimtu skaðabóta. Hver af eftirfarandi eru bestu rökin fyrir bókasafnsfræðinginn?
-A.Reglan í máli Spencers kemur í veg fyrir að bókavörðurinn sé ábyrgur.
-B.Bókavörður er ekki í samningi við húseigendafélagið.
-C.Bókavörðurinn er ekki í samskiptum við kennarann.
-D.Aðrar framleiðslueiningar í næsta nágrenni eru notaðar í viðskiptalegum tilgangi.",b,b.,true
-"Stórmarkaður var nýbúinn að opna aftur eftir tveggja vikna lokun vegna endurbóta. Að morgni enduropnunar var kona að versla þegar hún féll skyndilega og fótbrotnaði. Í kjölfarið kærði konan matvörubúðina fyrir líkamstjón. Í jakkafötunum hélt konan því fram að hún hefði hrasað um málningarfötu sem hafði legið á einum ganginum. Við réttarhöldin hringdi konan í annan viðskiptavin til að bera vitni um að á meðan hann var að versla hafi hann heyrt dynk, snúið sér við og séð konuna falla á gólfið. Hann bar einnig fyrir dómi að hann hefði séð tóma málningarfötu liggja nokkra metra frá fæti konunnar. Við yfirheyrslur lenti viðskiptavinurinn í rifrildi við lögmann stórmarkaðarins. Þegar viðskiptavinurinn var spurður álits á því hvað olli falli konunnar svaraði hann: ""Hún datt vegna þess að hún datt á fötuna."" Hann viðurkenndi hins vegar við yfirheyrslur að hafa í raun ekki séð konuna hrasa á fötunni. Lögfræðingur matvörubúðarinnar spurði viðskiptavininn síðan eftirfarandi spurningar: ""Ef þú sást ekki konuna hrasa á fötunni, hvernig veistu að hún datt vegna þess?"" Viðskiptavinurinn svaraði: ""Vegna þess að kærastan mín sem var að versla með mér sagði mér seinna að hún hefði séð konuna hrasa um fötuna. "" Lögfræðingur stórmarkaðarins reynir að slá síðasta svar viðskiptavinarins. Ef dómarinn hnekkir tillögu stefnda og leyfir svari viðskiptavinarins að standa, mun það líklega vera vegna þess að
-A.Svari viðskiptavinarins var boðið með spurningu lögmanns stórmarkaðarins.
-B.Svar viðskiptavinarins var byggt á fyrstu hendi þekkingu.
-C.Svar viðskiptavinarins var yfirlýsing um nýlega skynjun.
-D.Svar viðskiptavinarins var núverandi tilfinning.",a,a,true
-"Segulsviðið línur um straumburðarvírform
-A.Hringi
-B.geislamyndaðar línur
-C.Eddy straumar
-D.orku lykkjur",a,b.geislamyndaðar línur,false
-"Þessi lögsaga hefur eftirfarandi refsilög í gildi: ""Maður ber ekki ábyrgð á refsiverðri háttsemi ef hann skortir verulega getu til að meta óréttmæti háttsemi sinnar eða laga háttsemi sína að kröfum laga. "" Einn eftirmiðdaginn var ákærði að passa fimm ára frænda sinn. Þegar þeir hafi verið að leika sér fyrir utan hafi ákærði kastað boltanum yfir höfuð frænda síns og hann hafi runnið í götuna. Ósjálfrátt hljóp frændinn á eftir boltanum en hrasaði um ræsið og féll í götuna. Þegar hann hrasaði tognaði frændinn alvarlega á ökkla og gat ekki staðið upp. Andartaki síðar bakkaði stór sorpbíll og ók yfir frændann og drap hann. Þrátt fyrir að ákærði hafi séð vandræði frænda síns gerði hann enga tilraun til að bjarga honum. Í kjölfarið var ákærði ákærður fyrir manndráp af gáleysi. Við réttarhöldin bar ákærði að honum hefði verið svo brugðið þegar hann sá frænda sinn detta nálægt sorpbílnum að hann fraus og gat ekki hreyft sig fyrr en það var um seinan. Í framhaldi af framburði ákærða bar sérfróður vitni fyrir verjanda að viðbrögð af því tagi sem ákærði lýsir séu ekki óvenjuleg þegar sannarlega átakanlegur atburður á sér stað. Ef kviđdķmur trúir vitnisburđi sakbornings og sérfræđivitnis hans er besta vörn sakbornings hver af eftirfarandi?
-A.Ákærði þjáðist af stundargeðveiki.
-B.Ákærða skorti nauðsynlegt andlegt ástand til að fremja glæpinn.
-C.Athafnaleysi ákærða hafi ekki verið af fúsum og frjálsum vilja.
-D.Refsiábyrgð stefnda hafi fallið niður hjá ökumanni vörubifreiðarinnar.",c,c.,true
-"Hvert af eftirfarandi atriðum styður rökin fyrir einhliða stefnu Bandaríkjanna?
-A.Góðviljað forræði
-B.Árangursleysi fjölþjóðlegs samstarfs
-C.Bandarískt vald
-D.Allt ofangreint",d,d.,true
-"Fasteignamat húsa í borg hefur að meðaltali $ 125,000 með staðalfráviki $ 23,000. Vegna nýs kennarasamnings þarf skólahverfið 10% aukalega í fjárveitingar miðað við árið á undan. Til að afla þessa viðbótarfjár felur borgin Fasteignamati ríkisins að hækka allt fasteignamat um 5.000 krónur. Hvert verður hið nýja staðalfrávik fasteignamats húsa í borginni?
-A.$ 23,000 
-B.$ 25,300 
-C.$ 28,000 
-D.$ 30,300 ",a,a.,true
+D.Ekki rangt, ekki rangt",d,"d. ekki rangt, ekki rangt",true
+" Samkvæmt Nussbaum er það að meðhöndla einhvern sem hlut
+A.nægilega til kynferðislegrar hlutgervingar.
+B.nauðsynlegt fyrir kynferðislega hlutgervingu.
+C.ekki nauðsynlegt fyrir kynferðislega hlutgervingu.
+D.allt ofangreint.",c,c. ekki nauðsynlegt fyrir kynferðislega hlutgervingu.,true
+" Í umfjöllun sinni um mismunun í stríði bendir Valls á að
+A.Það er enginn munur á hermönnum og óvígamönnum.
+B.Munurinn á hermönnum og óvígamönnum er að vissu leyti.
+C.Munurinn á hermönnum og óvígamönnum er afdráttarlaus og skýr.
+D.""Hryðjuverk"" ætti að skilgreina sem tilviljanakennt ofbeldi.",b,c. munurinn á hermönnum og óvígamönnum er afdráttarlaus og skýr.,false
 "Stökkbreytingar eru villur í DNA sem:
 A.eru alltaf skaðleg.
 B.koma aðeins fram í nærveru krabbameinsvaldandi.
 C.æxlisvöxt.
-D.gerast sjálfkrafa á lágum hraða.",d,d.,true
+D.gerast sjálfkrafa á lágum hraða.",d,d.gerast sjálfkrafa á lágum hraða.,true
+"Aðlögun plantna til að lágmarka vatnstap í umhverfi með háan hita felur í sér hvert af eftirfarandi?
+A.Fjölmargir munnvatn
+B.Þunnar naglabönd
+C.Hryggir í stað laufa
+D.Stór hlutföll yfirborðs og rúmmáls",c,"aðlögun plantna til að lágmarka vatnstap í umhverfi með háan hita getur verið margvísleg, en af þeim valmöguleikum sem gefnir eru, er sá sem best lýsir slíkri aðlögun:
+
+c. hryggir í stað laufa
+
+þessi aðlögun er algeng hjá plöntum í eyðimörkum, eins og kaktusum, þar sem hryggirnir gegna hlutverki laufblaða en minnka yfirborðsflatarmál sem vatn getur gufað frá. þetta hjálpar plöntunum að halda betur í vatnið sem þær hafa.",true
+"Til að hvetja til innritunar í háskóla veitir ríki undanþágu frá $ 200 fyrir skatta ríkisins fyrir þá sem eru í fullu námi við framhaldsskóla innan ríkisins. Kvenkyns námsmenn sem mæta í hálft starf hafa enn heimild til 100 $ undanþágu frá skatti, en karlkyns nemendur sem mæta í hálft starf hafa ekki lengur heimild til undanþágu frá skatti. Hver af eftirfarandi dregur nákvæmlega saman rétta reglu stjórnskipunarréttar varðandi skattfrelsi ríkisins fyrir nemendur sem skrá sig í hálft starf?
+A.Undanþága frá skatti yrði ógilt sem synjun um réttmæta málsmeðferð.
+B.Skattundanþágan yrði ógilt þar sem hún bryti í bága við jafnréttisákvæðið.
+C.Skattamálinu yrði haldið uppi eins og það væri innan efnislegrar málsmeðferðar.
+D.Skattamálinu yrði haldið uppi sem á valdi sveitarfélags til að skattleggja mismunandi stéttir manna ójafnt.",b,"b. skattundanþágan yrði ógilt þar sem hún bryti í bága við jafnréttisákvæðið.
+
+þessi regla endurspeglar grundvallarprinsipp stjórnskipunarréttar sem kveður á um jafnræði borgaranna fyrir lögum. í þessu tilfelli, þar sem skattundanþágan er veitt á grundvelli kyns, þá brytur hún gegn jafnréttisákvæðum sem finna má í flestum stjórnarskrám og mannréttindasáttmálum, sem banna mismunun á grundvelli kyns.",true
+"Er gerð krafa um að opinber eining fylgi yfirliti um sjóðstreymi í hvaða eftirfarandi reikningsskilum?
+A.Reikningsskil ríkissjóðs.
+B.Ársreikningar hins opinbera.
+C.Ársreikningar eigin sjóða.
+D.Reikningsskil sjóðsins.",c,"b. ársreikningar hins opinbera.
+
+í alþjóðlegum reikningsskilastaðlum fyrir opinberar einingar, þekktum sem ipsas (international public sector accounting standards), er gerð krafa um að opinberar einingar, þar með talið ríkisstjórnir og aðrar opinberar stofnanir, útbúi yfirlit um sjóðstreymi sem hluta af ársreikningum sínum. þetta yfirlit veitir mikilvægar upplýsingar um hvernig sjóðir flæða inn og út úr einingunni yfir ákveðið tímabil, sem hjálpar hagsmunaaðilum að skilja fjárhagslega stöðu og getu einingarinnar til að mæta skuldbindingum sínum.",false
+"Núbísk siðmenning:
+A.rándýr og ýtti undir uppgang egypskrar menningar.
+B.var afleiðing landnáms Mesópótamíu í suðri.
+C.þróað til að bregðast við, en ekki til eftirlíkingar, egypskrar menningar.
+D.hafði engin samskipti við nágrannalöndin menningu.",c,"c. þróað til að bregðast við, en ekki til eftirlíkingar, egypskrar menningar.
+
+núbísk menning þróaðist í nánum tengslum við egyptaland, en hún var ekki einföld eftirlíking eða afleiðing af egypskri menningu. núbíumenn og egyptar áttu í samskiptum og áhrifum hvor á annan í gegnum aldirnar, en núbía þróaði einnig sérstaka menningu og samfélagsgerð sem var aðlöguð að eigin landsvæði, þörfum og hefðum.",true
+"Samkvæmt Singer krefst þess að farið sé að meginreglu hans:
+A.lítilsháttar breytingar á persónulegum venjum okkar, en ekki á samfélaginu í heild.
+B.hóflegar breytingar á persónulegum venjum okkar, sem og samfélaginu.
+C.róttækar breytingar á persónulegum venjum okkar, en ekki á samfélagi okkar.
+D.róttækar breytingar á bæði persónulegum venjum okkar og samfélagi okkar.",d,"d. róttækar breytingar á bæði persónulegum venjum okkar og samfélagi okkar.
+
+peter singer, sem er einn af frumkvöðlum samtíma siðfræði, hefur lagt áherslu á mikilvægi þess að við gerum róttækar breytingar á bæði persónulegum venjum okkar og samfélaginu til að mæta ýmsum siðferðislegum áskorunum, svo sem fátækt, dýraverndun, og loftslagsbreytingar. singer leggur áherslu á að við eigum að endurmeta gildi okkar og hegðun til að stuðla að réttlátari og sjálfbærari heimi.",true
+"Hver af eftirfarandi er síðast hernuminn af mönnum?
+A.Nýja-Gínea
+B.Ástralía
+C.Nýja Sjáland
+D.Tímor",c,"c. nýja sjáland
+
+nýja sjáland var síðast hernumið af þessum svæðum. máori, frumbyggjar nýja sjálands, settust þar að á tímabilinu 1250–1300 e.kr., samkvæmt nýlegum rannsóknum. ástralía og nýja-gínea voru byggðar mun fyrr, og tímor var einnig byggt snemma í mannkynssögunni. ástralía var byggð af frumbyggjum fyrir um 65.000 árum síðan, og nýja-gínea hefur einnig langa sögu byggðar. europísk landnám í þessum löndum hófst síðar, með komu evrópubúa til ástralíu árið 1788, til nýja-gíneu á 19. öld og til nýja sjálands á 19. öld. tímor var einnig kannað og hernumið af evrópubúum á 16. öld.",true
 "Frambjóðandi sem skrifar inn er mexíkósk-amerískur og er þeirrar skoðunar að hann þurfi mikla aðsókn mexíkóskra kjósenda til að vinna kosningarnar. Í kjölfarið ákveður kosningastjóri hans að senda öllum skráðum mexíkóskum kjósendum rifinn límmiða með nafni frambjóðandans og embættinu sem hann býður sig fram fyrir. Þar sem margir innfæddir Mexíkóar eru ekki færir í að lesa og skrifa ensku telur kosningastjórinn að margir kjósendur muni eiga í erfiðleikum með að skrifa nafn og skrifstofu frambjóðandans á kjörseðilinn. Í kjölfarið hefur kosningastjórinn ráðist í umfangsmikla fjölmiðlaherferð til að upplýsa kjósendur um hvernig eigi að setja límmiðana á kjörseðilinn. Fimm mánuðum fyrir kosningar tilkynnir kosningafulltrúi kosninganefnd frambjóðandans að rifnir límmiðarnir séu ekki í samræmi við lög ríkisins. Í bréfi sínu útskýrir embættismaðurinn að kosningafulltrúar ríkisins séu þeirrar skoðunar að nauðsynlegt sé fyrir væntanlega kjósendur að skrifa nafn frambjóðandans með bleki. Því kemst hún að þeirri niðurstöðu að límmiðarnir uppfylli ekki lögbundnar kröfur. Þremur vikum síðar höfðaði frambjóðandinn mál í alríkishéraðsdómi gegn kosningafulltrúum ríkisins þar sem því var haldið fram að túlkun þeirra á lögum ríkisins bryti í bága við stjórnarskrá Bandaríkjanna. Hvert af eftirfarandi, ef það er staðfest, setur fram sterkustu stjórnskipulegu rökin sem styðja túlkun kosningafulltrúans á lögunum?
 A.Kjósendaþátttaka meðal skráðra mexíkóskra amerískra kjósenda sem skortir enskukunnáttu hefur verið minna en 1% af heildarfjölda ríkisins í nýlegum kosningum.
 B.Lög ríkisins krefjast þess að hver kjörklefi sé búinn blekpenna til að auðvelda ritun atkvæða.
 C.Þar sem mikill fjöldi innskriftaratkvæða lengir yfirleitt þann tíma sem þarf til að telja öll atkvæði er nauðsynlegt að greiða slík atkvæði með samræmdum hætti.
-D.Möguleikinn á kosningasvindli er verulega meiri með forprentuðum límmiðum.",d,d,true
+D.Möguleikinn á kosningasvindli er verulega meiri með forprentuðum límmiðum.",d,"d. möguleikinn á kosningasvindli er verulega meiri með forprentuðum límmiðum.
+
+þessi rök eru sterkust í að styðja túlkun kosningafulltrúans á lögunum út frá stjórnskipulegu sjónarmiði. þau benda á áhyggjur af öryggi og réttmæti kosningaferlisins, sem er grundvallaratriði í lýðræðislegu samfélagi. ef límmiðar auka verulega möguleikann á kosningasvindli, þá er það gild ástæða fyrir ríkisstjórnir til að setja reglur sem takmarka eða banna notkun þeirra í kosningum. þetta snýst um að tryggja að kosningaferlið sé eins gegnsætt og réttlátt og mögulegt er, sem er kjarni stjórnskipulegra sjónarmiða í bandaríkjunum.",true
+"Fasteignamat húsa í borg hefur að meðaltali $ 125,000 með staðalfráviki $ 23,000. Vegna nýs kennarasamnings þarf skólahverfið 10% aukalega í fjárveitingar miðað við árið á undan. Til að afla þessa viðbótarfjár felur borgin Fasteignamati ríkisins að hækka allt fasteignamat um 5.000 krónur. Hvert verður hið nýja staðalfrávik fasteignamats húsa í borginni?
+A.$ 23,000 
+B.$ 25,300 
+C.$ 28,000 
+D.$ 30,300 ",a,"þegar fasteignamat allra húsa í borginni er hækkað um fasta upphæð ($5,000 krónur í þessu tilfelli), breytist meðaltalið en staðalfrávikið breytist ekki. staðalfrávikið er mælikvarði á dreifingu gagna um meðaltalið og breytist ekki við það eitt að bæta við eða draga frá öllum gildum sömu upphæð, því slíkar aðgerðir færa öll gildin til á sama hátt án þess að breyta hversu mikið þau eru dreifð frá hvoru öðru.
+
+því er hið nýja staðalfrávik fasteignamats húsa í borginni enn $23,000.
+
+rétt svar er því a. $23,000.",true
+"Fyrir hverja af þessum tveimur sviðsmyndum gerir aðalpersónan (sem notar ég/mig/minn) eitthvað greinilega siðferðilega rangt, samkvæmt venjulegum siðferðisstöðlum í Bandaríkjunum frá og með 2020? Sviðsmynd 1 | Ég reyni stundum að segja sannleikann, nema það komi mér í vandræði. Sviðsmynd 2 | Ég kyssti kærustuna mína á töfrasýningunni.
+A.Rangt, rangt
+B.Rangt, ekki rangt
+C.Ekki rangt, rangt
+D.Ekki rangt, ekki rangt",b,"b. rangt, ekki rangt
+
+í fyrstu sviðsmyndinni, þar sem aðalpersónan reynir stundum að segja sannleikann nema það komi henni í vandræði, er um að ræða hegðun sem er greinilega siðferðilega röng samkvæmt venjulegum siðferðisstöðlum í bandaríkjunum frá og með 2020. að velja að ljúga eða halda aftur af sannleikanum til að forðast persónuleg vandræði er almennt talið siðferðilega rangt vegna þess að það brýtur gegn gildum eins og heiðarleika og ábyrgð.
+
+í annarri sviðsmyndinni, þar sem aðalpersónan kyssti kærustuna sína á töfrasýningunni, er ekki um að ræða hegðun sem er siðferðilega röng samkvæmt venjulegum siðferðisstöðlum í bandaríkjunum. að sýna ástúð í samþykki milli fullorðinna einstaklinga í sambandi, eins og að kyssast, er almennt ekki talið siðferðilega rangt.",true
+"Húsnæðisfélag átti landsvæði. Húsfélagið útbjó þróunaráætlun um að skipta lóðinni í 100 lóðir og búa til íbúðabyggð á reitnum. Sáttmálsyfirlýsingin stofnaði húseigendafélagið, stjórnsýslueiningu sem átti að sjá um og framfylgja þeim reglugerðum og takmörkunum sem sáttmálarnir kváðu á um. Ein af takmörkununum sem settar eru fram í sáttmálsyfirlýsingunni hljóðar svo: ""Það má aldrei nokkurn tíma reisa, leyfa eða viðhalda á neinum hluta landareignarinnar mannvirki sem hönnuð eru fyrir eða notuð sem krá eða staður til sölu eða framleiðslu á malti, vínríkum eða áfengum áfengum."" Sáttmálsyfirlýsingin var tilhlýðilega skráð og var innifalin í verkinu sem kennari tók þegar hann keypti lóð 62 í þróuninni. Kennarinn skráði strax verk sitt. Kennarinn leigði bókasafnsfræðingi húsnæði sitt til eins árs. Leigusamningurinn fól í sér sömu takmarkanir og fram komu í sáttmálayfirlýsingunni og í afsali kennarans. Bókavörðurinn byrjaði strax að selja áfengi í húsnæðinu í vikulegum ""eftirvinnutíma"" veislum. Húseigendafélagið höfðar mál gegn bókasafnsfræðingnum til heimtu skaðabóta. Hver af eftirfarandi eru bestu rökin fyrir bókasafnsfræðinginn?
+A.Reglan í máli Spencers kemur í veg fyrir að bókavörðurinn sé ábyrgur.
+B.Bókavörður er ekki í samningi við húseigendafélagið.
+C.Bókavörðurinn er ekki í samskiptum við kennarann.
+D.Aðrar framleiðslueiningar í næsta nágrenni eru notaðar í viðskiptalegum tilgangi.",b,"b. bókavörður er ekki í samningi við húseigendafélagið.
+
+þessi rök gætu verið bestu rökin fyrir bókasafnsfræðinginn vegna þess að hann hefur ekki beint samningssamband við húseigendafélagið. hann leigði húsnæðið frá kennaranum, og þótt leigusamningurinn innihaldi sömu takmarkanir og sáttmálayfirlýsingin, þá er bókasafnsfræðingurinn ekki beinn aðili að upphaflega sáttmálanum sem húseigendafélagið og kennarinn gerðu. þetta þýðir að húseigendafélagið gæti átt í erfiðleikum með að beita beinum réttaráhrifum á bókasafnsfræðinginn út frá sáttmálayfirlýsingunni, þar sem hann er ekki beinn samningsaðili. hins vegar gæti húseigendafélagið mögulega haft rétt til að krefjast skaðabóta eða framfylgni frá kennaranum, sem síðan gæti haft rétt til að krefjast bóta frá bókasafnsfræðingnum, ef það er viðeigandi samkvæmt leigusamningi þeirra.",true
+"Fyrir hverja af þessum tveimur sviðsmyndum gerir aðalpersónan (sem notar ég/mig/minn) eitthvað greinilega siðferðilega rangt, samkvæmt venjulegum siðferðisstöðlum í Bandaríkjunum frá og með 2020? Sviðsmynd 1 | Ég sá hinn fræga Elton John fyrir utan tónleikahöll og tók mynd af honum án þess að spyrja hann. Sviðsmynd 2 | Ég tilkynnti annan vörđ sem laumađi fíkniefnum inn í fangelsi og seldi föngum.
+A.Rangt, rangt
+B.Rangt, ekki rangt
+C.Ekki rangt, rangt
+D.Ekki rangt, ekki rangt",d,"b. rangt, ekki rangt
+
+í fyrstu sviðsmyndinni, þar sem aðalpersónan tekur mynd af elton john án samþykkis hans, gæti það verið talið siðferðilega rangt vegna þess að það brýtur gegn hans einkalífi og rétti til eigin myndar. í bandaríkjunum og víðar er mikil áhersla lögð á persónuvernd og réttindi einstaklinga til eigin myndar, sérstaklega í ljósi aukinnar notkunar á samfélagsmiðlum og myndbirtar.
+
+í annarri sviðsmyndinni, þar sem aðalpersónan tilkynnir vörð sem laumaði fíkniefnum inn í fangelsi, er það almennt ekki talið siðferðilega rangt samkvæmt venjulegum siðferðisstöðlum. þvert á móti, það er talið vera siðferðilega rétt og jafnvel borgaraleg skylda að tilkynna um slíka hegðun sem getur stofnað öryggi og velferð fanga og starfsfólks í hættu. það er í samræmi við lög og reglur sem miða að því að viðhalda öryggi og réttlæti innan fangelsiskerfisins.",true
+"Fyrir hverja af þessum tveimur sviðsmyndum gerir aðalpersónan (sem notar ég/mig/minn) eitthvað greinilega siðferðilega rangt, samkvæmt venjulegum siðferðisstöðlum í Bandaríkjunum frá og með 2020? Sviðsmynd 1 | Ég keyrði yfir teppið með sláttuvél. Sviðsmynd 2 | Ég pissaði í höndina á mér svo ég gæti prófað hvort ég væri með sýkingu.
+A.Rangt, rangt
+B.Rangt, ekki rangt
+C.Ekki rangt, rangt
+D.Ekki rangt, ekki rangt",a,"d. ekki rangt, ekki rangt
+
+í fyrstu sviðsmyndinni, þar sem aðalpersónan keyrir yfir teppið með sláttuvél, er ekki endilega um að ræða siðferðilega rangt athæfi, nema ef teppið tilheyrir einhverjum öðrum og þetta var gert af ásetningi til að skaða eign annars. þótt það sé óvenjulegt og kannski óskynsamlegt, er það ekki endilega siðferðilega rangt án frekari samhengis.
+
+í annarri sviðsmyndinni, þar sem aðalpersónan pissaði í höndina á sér til að athuga hvort hún væri með sýkingu, er það ekki heldur siðferðilega rangt. það gæti verið talið óvenjulegt eða óviðeigandi í sumum aðstæðum, en það er ekki siðferðilega rangt að reyna að fylgjast með eigin heilsu á þennan hátt, þótt það sé ekki hefðbundin aðferð.
+
+því er svarið d, þar sem hvorug athöfnin er greinilega siðferðilega röng samkvæmt venjulegum siðferðisstöðlum í bandaríkjunum frá og með 2020.",false
 "Hver af eftirfarandi fullyrðingum um efnaskipti glúkósa er rétt?
 
 A.Glúkagon eykur hraða glýkólýsu
 B.Glýkólýsa krefst NADP +
 C.Við glýkósundrun er glúkósi klofinn í tvær þriggja kolefnisafurðir
-D.Lokaafurð glýkólýsu í rauðum blóðkornum er pýrúvat",c,c.,true
-"Hver af eftirfarandi á við um skjaldvakabrest?
-A.Þyngdartap
-B.Myxoedema á forstigi sköflungs
-C.Hækkuð TSH-gildi
-D.Andúð á heitum stöðum",c,c.,true
-" Klassíski textinn Daodejing er þekktur undir hvaða titli á ensku?
-A.Klassískt af breytingum
-B.Klassískt af leiðinni og kraftinum
-C.Klassík kvenna
-D.Klassísk heimspeki",b,b,true
-"Búgarður er nú eigandi landspildu sem er tilnefnd sem ""A."" Það er hærra af tveimur nálægum eignum á fjalli. Bóndi er eigandi spildu ""B"" sem er neðar en ""A"" í fjallshlíðinni. Árið 2000 byggði búgarðurinn, sem átti báðar landspildurnar, einkarekið frárennsliskerfi. Þetta kerfi samanstóð af neðanjarðarleiðslu sem náði yfir báðar landspildurnar. Skólp frá landspildu ""A"" rann í gegnum kerfið í fráveitu sveitarfélagsins sem var staðsett neðst í fjallinu. Árið 2005 seldi búgarðurinn landspildu ""B"" til bóndans. Í afsalinu til bóndans var hvergi minnst á frárennsliskerfi bóndans. Staðsett á hverri bögglunum eru stór heimili í búgarðsstíl sem viðkomandi eigendur búa í. Undanfarið hefur skólpræsið byrjað að gefa frá sér óþægilega lykt yfir spildu ""B."" Í kjölfarið kærði bóndinn búgarðinn í leyfisleysi og bað um skemmdir af völdum frárennsliskerfisins. Dómur ætti að vera fyrir
-A.Búgarðurinn, vegna þess að afsalið til bóndans innihélt enga sáttmála sem takmörkuðu notkun búgarðsins á landinu.
-B.bóndinn, vegna þess að réttur málstaður bóndans væri til óþæginda, frekar en óleyfi.
-C.bóndans, vegna þess að frárennsliskerfið hafi verið nærtæk orsök tjóns stefnanda að lögum.
-D.bóndinn, vegna þess að búgarðurinn hafði ekki rétt til að bæta eigið land sitt á þann hátt sem olli öðrum skaða.",b,b,true
+D.Lokaafurð glýkólýsu í rauðum blóðkornum er pýrúvat",c,"rétt fullyrðing um efnaskipti glúkósa er:
+
+c. við glýkósundrun er glúkósi klofinn í tvær þriggja kolefnisafurðir.
+
+útskýringar á hverri valmöguleika:
+
+a. glúkagon eykur hraða glýkólýsu - þetta er rangt. glúkagon eykur hraða glúkóneógenesu (myndun glúkósa) og minnkar hraða glýkólýsu (niðurbrot glúkósa).
+
+b. glýkólýsa krefst nadp+ - þetta er rangt. glýkólýsa krefst nad+ sem er oxunarviðtakandi í ferlinu, ekki nadp+.
+
+c. við glýkósundrun er glúkósi klofinn í tvær þriggja kolefnisafurðir - þetta er rétt. í glýkólýsu er glúkósi (sex kolefnis sameind) klofinn í tvær pýrúvat sameindir, sem hver um sig inniheldur þrjú kolefni.
+
+d. lokaafurð glýkólýsu í rauðum blóðkornum er pýrúvat - þetta er rangt í þeim skilningi að það er ekki alltaf rétt. í flestum frumum er pýrúvat lokaafurð glýkólýsu, en í rauðum blóðkornum, sem hafa ekki hvatbera, er pýrúvat frekar umbreytt í mjólkursýru (laktat) í ferli sem kallast mjólkursýruferlið.",true
 "Gáleysi ökumanns við akstur slasaði annan ökumann alvarlega. The motorist var vitnað til að ferðast í röngum akrein og greitt sekt. Ökumaðurinn hafði stefnumörk aðeins $ 15,000 vegna ábyrgðar þriðja aðila á vátryggingarskírteini sínu. Eftir að hafa látið vátryggjanda ökumannsins í té fulla sjúkraskýrslu, alla sjúkrareikninga, sjúkraskrár og aðrar nauðsynlegar sannanir fyrir tjóni, krafðist tjónþoli vátryggingarmarkanna. Kröfuhafi tilkynnti að krafa um slæma trú yrði lögð fram ef stefnumörkin væru ekki greidd strax. Tryggingafélagið neitaði greiðslu án skýringa. Kviðdómur dæmdi hinum slasaða umsækjanda 200.000 dollara. Tjónþoli fékk undirritað framsal frá ökumanni af gáleysi sem veitti kröfuhafa öll réttindi sem ökumaðurinn kann að hafa haft gagnvart vátryggjanda sínum. Mun dómstóllinn líklega neyða tryggingafélagið til að greiða alla fjárhæð dómnefndar úrskurðar til slasaðs manns samkvæmt þessum staðreyndum?
 A.Vátryggingarmörkin eru $ 15,000 og það er allt sem hægt er að innheimta af slasaða einstaklingnum, það er engin aðgerð vegna slæmrar trúar á vátryggingarsamningi.
 B.Vátryggingafélagið braut í bága við undirskilinn sáttmála um góða trú og sanngjarna viðskiptahætti sem felst í hverjum vátryggingarsamningi og verður að greiða alla fjárhæð dómsins.
 C.Slæm trú er persónuleg fyrir vátryggðan aðila og vátryggjanda hans að framsalið var ógilt og hinn slasaði á enga kröfu á að knýja vátryggjanda til greiðslu.
-D.Tjónþoli verður að framfylgja öllum dómi sínum gegn ökumanni og má aldrei stefna vátryggjanda fyrir þá fjárhæð.",c,b.,false
-" Í umfjöllun sinni um mismunun í stríði bendir Valls á að
-A.Það er enginn munur á hermönnum og óvígamönnum.
-B.Munurinn á hermönnum og óvígamönnum er að vissu leyti.
-C.Munurinn á hermönnum og óvígamönnum er afdráttarlaus og skýr.
-D.""Hryðjuverk"" ætti að skilgreina sem tilviljanakennt ofbeldi.",b,c.,false
-"Aðlögun plantna til að lágmarka vatnstap í umhverfi með háan hita felur í sér hvert af eftirfarandi?
-A.Fjölmargir munnvatn
-B.Þunnar naglabönd
-C.Hryggir í stað laufa
-D.Stór hlutföll yfirborðs og rúmmáls",c,c,true
-"Hver af eftirfarandi er síðast hernuminn af mönnum?
-A.Nýja-Gínea
-B.Ástralía
-C.Nýja Sjáland
-D.Tímor",c,c.nýja sjáland,true
-"Starfsmanni stórs framleiðslufyrirtækis finnst vinnan leiðinleg og sækist aðeins eftir starfinu fyrir peningana. Starfsmaðurinn stendur sig í lágmarki og er ekki áhugasamur svo framleiða hæsta magn eða betri gæði. Samkvæmt tveggja þátta kenningu F. Herzberg væri besta leiðin 10 til að auka sjálfshvatningu þessa starfsmanns að
-A.bjóða launahækkun og hvatningu til að auka framleiðni
-B.Endurhannaðu starfið til að veita áskorun og tilfinningu fyrir árangri
-C.auka tækifæri til upplýstra félagslegra samskipta
-D.veita starfsmanni starfsstraum sem ber meiri álit",b,b,true
-"Dómsmálaráðherra er yfirmaður hverrar eftirtalinna aðila?
-A.Dómsmálanefnd öldungadeildarinnar
-B.Dómsmálaráðuneytið
-C.Utanríkisráðuneytið
-D.Lögfræðingur dómara",b,b.,true
-"Nútíma tölvuörflögur eru fyrst og fremst samsettar úr hvaða frumefni?
-A.Natrín
-B.Kísill
-C.Ál
-D.Silfur",b,b.kísill,true
-"Áður en tillaga um sameiningu tveggja bæja var borin undir atkvæði gaf ríkissaksóknari út ráðgefandi álit þar sem fram kom að ráðstöfunin bryti að hennar mati ekki í bága við ákvæði laga eða stjórnarskrár. Eftir það var tillagan borin undir atkvæði og hlaut yfirgnæfandi meirihluta atkvæða hjá kjósendum í báðum bæjum. Eftir kosningarnar, en áður en sameiningin hafði formlega farið fram, höfðuðu tveir skattgreiðendur frá einum bæjarins mál til að samþykkja sameininguna og réðust þannig gegn stjórnskipulegu gildi tillögunnar. Málið fór til hæstaréttar ríkisins og reyndist vera stjórnarskrárbundið bæði samkvæmt ríkis- og alríkislögum. Stefnendur leggja nú fram kröfu um að fá málinu áfrýjað til Hæstaréttar Bandaríkjanna. Dómstóllinn getur
-A.ekki heyra málið, vegna þess að það var ákveðið á sjálfstæðum forsendum ríkisins.
-B.ekki taka málið fyrir, en gæti fengið það flutt til alríkishéraðsdóms.
-C.heyra sambandsmálin sem um ræðir, en neita að úrskurða um ríkismálið.
-D.treysta á ráðgefandi álit ríkissaksóknara og ekki taka málið upp á eigin forsendum.",a,c.,false
-"Maður nokkur var eigandi nýbyggðs hótels í borg. Þann 15. mars fékk maðurinn símtal frá sölumanni sem var dreifingaraðili hótelbúnaðar. Sölumaðurinn bauðst til að selja manninum 1.000 slökkvitæki fyrir hótelið sitt. Sölumaðurinn sagði manninum að kostnaður við slökkvitækin væri $ 35,000 (eða $ 35 stykkið), sem greiðist 90 dögum eftir afhendingu. Sölumaðurinn lofaði að láta setja upp slökkvitækin eigi síðar en 15. apríl. Þann 16. mars hringdi maðurinn í sölumanninn og samþykkti tilboðið. Daginn eftir sendi maðurinn eftirfarandi minnisblað til sölumannsins: ""Vinsamlegast athugið að ég skal taka 15 prósent afslátt af staðgreiðslu sjö dögum eftir uppsetningu. "" Bréf sölumannsins barst manninum 20. mars. Þann 1. apríl sendi sölumaðurinn skeyti til mannsins þar sem hann sagði: ""Það er augljóst að við erum ekki með aðfararhæfan samning í gildi. Ég mun ekki afhenda slökkvitækin 15. apríl eða á öðrum tíma. ""Maðurinn höfðar mál gegn sölumanninum fyrir samningsbrot. Sölumaðurinn fullyrðir vörn laga um svik samkvæmt UCC. Hver af eftirfarandi er nákvæmasta fullyrðingin varðandi varnir sölumannsins?
-A.Málsvörn sölumannsins er réttmæt þar sem minnisblað mannsins nægði ekki til að gefa til kynna að til samnings hefði verið stofnað.
-B.Málsvörn sölumannsins er gild þar sem minnisblað mannsins var ekki í samræmi við skilmála munnlegs tilboðs sölumannsins.
-C.Málsvörn sölumannsins er ekki gild þar sem sölumaðurinn svaraði ekki minnisblaði mannsins innan hæfilegs tíma.
-D.Vörn sölumannsins er ekki gild, því samkvæmt UCC gilda lögin um svik ekki í samningum milli kaupmanna.",a,b,false
-"Tilgangur tvíblindrar eða tvíblindrar rannsóknar er að:
-A.Ná samanburðarhæfni meðhöndlaðra og ómeðhöndlaðra einstaklinga
-B.Draga úr áhrifum breytileika í sýnatöku
-C.Forðastu hlutdrægni áhorfenda og þátttakenda
-D.Forðastu skekkju áhorfenda og breytileika í sýnatöku",b,c,false
-"54 ára gömul kona kemur á skrifstofuna vegna þess að hún hefur haft slitróttan verk yfir hægri kinn og kjálka undanfarnar 3 vikur. Hver þáttur af sársauka varir í 1 sekúndu eða minna. Sársaukinn er oft af stað með köldu lofti, tyggja, áþreifanleg örvun, og bursta tennurnar. Hún hlaut enga áverka á andliti eða höfði. Sjúkrasaga er merkileg fyrir spennuhöfuðverk, offitu og magahjáveituaðgerð. Hún er 165 cm (5 fet 5 tommur) á hæð og vegur 62 kg (137 lb); BMI er 23 kg / m2. Lífsmörk eru eðlileg. Sjúklingurinn þolir ekki snertingu hægra megin í andliti. Það er engin andliti máttleysi eða tap á tilfinningu. Afgangurinn af læknisskoðuninni sýnir engin frávik. Tölvusneiðmynd af höfði með og án birtuskila sýnir engin frávik. Hver af eftirfarandi er heppilegasta lyfjameðferðin á þessum tíma?
-A.Karbamazepín
-B.Lamótrigín
-C.Levetiracetam
-D.Tópíramat",a,a.karbamazepín,true
-"Fyrir hverja af þessum tveimur sviðsmyndum gerir aðalpersónan (sem notar ég/mig/minn) eitthvað greinilega siðferðilega rangt, samkvæmt venjulegum siðferðisstöðlum í Bandaríkjunum frá og með 2020? Sviðsmynd 1 | Ég reyni stundum að segja sannleikann, nema það komi mér í vandræði. Sviðsmynd 2 | Ég kyssti kærustuna mína á töfrasýningunni.
-A.Rangt, rangt
-B.Rangt, ekki rangt
-C.Ekki rangt, rangt
-D.Ekki rangt, ekki rangt",b,"b.rangt, ekki rangt",true
-"Hver af eftirfarandi kenningum beinist að því hvernig samfélaginu tekst að framkvæma þær athafnir sem nauðsynlegar eru til að viðhalda reglu og stöðugleika?
-A.Fúnksjónalismi
-B.Víxlverkun
-C.Kenning um skynsamlegt val
-D.Átakakenning",a,a.fúnksjónalismi,true
-"Nagel heldur því fram að vandamál siðferðilegrar heppni sé nátengt vandamálinu:
-A.tilvist Guðs.
-B.frelsi viljans.
-C.Sálfræðileg eigingirni.
-D.Alhliða.",b,b.frelsi viljans.,true
-"Er gerð krafa um að opinber eining fylgi yfirliti um sjóðstreymi í hvaða eftirfarandi reikningsskilum?
-A.Reikningsskil ríkissjóðs.
-B.Ársreikningar hins opinbera.
-C.Ársreikningar eigin sjóða.
-D.Reikningsskil sjóðsins.",c,b.ársreikningar hins opinbera.,false
-"Hvað af eftirfarandi lýsir Eurocentrism best?
-A.Eurocentrism er greiningarstíll þar sem evrópsk samfélög eru borin saman við samfélög utan Evrópu til að fá fram óhlutdrægan samanburð á hlutfallslegum kostum hvers og eins.
-B.Eurocentrism er hugsunarstíll þar sem mat og mat á samfélögum utan Evrópu er sett fram með tilliti til menningarlegra forsendna og hlutdrægni Evrópubúa.
-C.Eurocentrism lýsir rannsóknum eða fræðilegum verkum sem fjalla aðeins um evrópsk stjórnmála- eða efnahagskerfi.
-D.Allir þessir valkostir.",b,b.,true
-"Lögreglu barst ábending frá áreiðanlegum heimildarmanni um að maður væri að selja kókaín af heimili sínu. Lögreglumenn lögðu síðan fyrir sýslumann yfirlýsingu þar sem settar voru fram aðstæður sem sýndu líklegt tilefni til útgáfu leitarheimildar. Lögreglustjórinn gaf út leitarheimild vegna fíkniefna á heimilisfangi mannsins. Lögreglumenn fóru að heimili mannsins og hringdu dyrabjöllunni. Þegar enginn svaraði braust lögreglan inn og fór inn í bústaðinn. Þeir leituðu í herbergjunum á fyrstu hæð og fundu engin saknæm sönnunargögn, gengu síðan út og tóku eftir sérinngangi sem lá upp á aðra hæð íbúðarinnar. Þeir fóru upp stigann og inn í svefnherbergi á efri hæðinni. Inni í herberginu fundu lögreglumennirnir birgðir af kókaíni liggjandi á kommóðunni. Þegar lögreglumennirnir héldu áfram leit sinni í svefnherberginu fór ákærði inn í herbergið. Lögreglan spurði ákærða hvort hann væri maðurinn. Ákærði bar kennsl á sig og sagði lögreglu að þau væru í svefnherbergi hans og hann á annarri hæð íbúðarinnar. Ákærði skýrði frá því að maðurinn byggi á fyrstu hæð og vistarverur hans væru aðskildar frá vistarverum ákærða. Engu að síður var ákærði handtekinn og ákærður fyrir vörslu kókaíns. Ákærði hefur lagt fram kröfu um að kókaínið verði ekki lagt fram sem sönnunargagn. Tillaga stefnda ætti að vera
-A.veitt, vegna þess að heimild ekki nafn stefnda.
-B.veitt, vegna þess að heimildin tiltók ekki með sérstökum hætti svæðið sem leita á.
-C.neitað, þar sem lögreglan taldi sig hafa verið að leita á heimili mannsins þegar þeir komu inn í vistarverur sakbornings.
-D.hafnað, vegna þess að handtökuskipunin var gild og gefin út með sennilegri ástæðu.",c,c.,true
+D.Tjónþoli verður að framfylgja öllum dómi sínum gegn ökumanni og má aldrei stefna vátryggjanda fyrir þá fjárhæð.",c,"b. vátryggingafélagið braut í bága við undirskilinn sáttmála um góða trú og sanngjarna viðskiptahætti sem felst í hverjum vátryggingarsamningi og verður að greiða alla fjárhæð dómsins.
+
+í þessu tilfelli, þar sem vátryggingafélagið neitaði greiðslu án skýringa þrátt fyrir að hafa fengið fullnægjandi sönnunargögn um tjónið, má álykta að það hafi brotið gegn skyldum sínum um góða trú og sanngjarna viðskiptahætti. þegar tjónþoli fær framsal frá ökumanni sem veitir honum öll réttindi sem ökumaðurinn kann að hafa gagnvart vátryggjanda sínum, getur það opnað fyrir möguleikann á að tjónþoli geti krafið vátryggingafélagið um greiðslu sem fer yfir upphafleg vátryggingarmörk, sérstaklega ef sýnt er fram á slæma trú af hálfu vátryggingafélagsins í meðferð kröfunnar.",false
 "Hver eftirfarandi fullyrðinga er rétt að því er varðar breytingar á reikningshaldslegu mati?
 A.Flestar breytingar á reikningshaldslegu mati eru færðar afturvirkt.
 B.Þegar ómögulegt er að ákvarða hvort breyting á mati eða breyting á reikningsskilavenju hafi átt sér stað skal líta á breytinguna sem meginreglu til breytingu.
 C.Þegar ómögulegt er að ákvarða hvort breyting á reikningshaldslegu mati eða breyting á reikningsskilavenju hafi átt sér stað skal líta á breytinguna sem breytingu á mati.
-D.Auðveldara er að greina á milli breytingar á reikningshaldslegu mati og breytingu á reikningsskilareglu en að greina á milli breytingar á reikningshaldslegu mati og leiðréttingar á skekkju.",c,c,true
+D.Auðveldara er að greina á milli breytingar á reikningshaldslegu mati og breytingu á reikningsskilareglu en að greina á milli breytingar á reikningshaldslegu mati og leiðréttingar á skekkju.",c,"rétt svar er c: þegar ómögulegt er að ákvarða hvort breyting á reikningshaldslegu mati eða breyting á reikningsskilavenju hafi átt sér stað skal líta á breytinguna sem breytingu á mati.
+
+útskýring:
+- a: þetta er ekki rétt þar sem flestar breytingar á reikningshaldslegu mati eru yfirleitt færðar framvirkt, þ.e., þær hafa áhrif á núverandi og framtíðar tímabil en ekki á liðin tímabil.
+- b: þessi fullyrðing er ekki rétt þar sem hún blandar saman hugtökum og veitir ekki rétta leiðsögn um meðferð breytinga sem ekki er hægt að flokka.
+- c: þetta er rétt vegna þess að í reikningsskilum er almennt viðurkennt að ef ekki er hægt að greina á milli þess hvort um er að ræða breytingu á reikningshaldslegu mati eða breytingu á reikningsskilavenju, þá skal meðhöndla breytinguna sem breytingu á mati. þetta er gert til að einfalda meðferðina og tryggja samræmi í reikningsskilum.
+- d: þessi fullyrðing er ekki endilega rétt þar sem það getur verið flókið að greina á milli breytinga á reikningshaldslegu mati og leiðréttinga á skekkju. báðar gerðir breytinga geta haft áhrif á hvernig fyrri tímabil eru sýnd í reikningsskilum, og það krefst oft ítarlegrar greiningar og mat á aðstæðum til að ákvarða eðli breytingarinnar.",true
+"Þessi lögsaga hefur eftirfarandi refsilög í gildi: ""Maður ber ekki ábyrgð á refsiverðri háttsemi ef hann skortir verulega getu til að meta óréttmæti háttsemi sinnar eða laga háttsemi sína að kröfum laga. "" Einn eftirmiðdaginn var ákærði að passa fimm ára frænda sinn. Þegar þeir hafi verið að leika sér fyrir utan hafi ákærði kastað boltanum yfir höfuð frænda síns og hann hafi runnið í götuna. Ósjálfrátt hljóp frændinn á eftir boltanum en hrasaði um ræsið og féll í götuna. Þegar hann hrasaði tognaði frændinn alvarlega á ökkla og gat ekki staðið upp. Andartaki síðar bakkaði stór sorpbíll og ók yfir frændann og drap hann. Þrátt fyrir að ákærði hafi séð vandræði frænda síns gerði hann enga tilraun til að bjarga honum. Í kjölfarið var ákærði ákærður fyrir manndráp af gáleysi. Við réttarhöldin bar ákærði að honum hefði verið svo brugðið þegar hann sá frænda sinn detta nálægt sorpbílnum að hann fraus og gat ekki hreyft sig fyrr en það var um seinan. Í framhaldi af framburði ákærða bar sérfróður vitni fyrir verjanda að viðbrögð af því tagi sem ákærði lýsir séu ekki óvenjuleg þegar sannarlega átakanlegur atburður á sér stað. Ef kviđdķmur trúir vitnisburđi sakbornings og sérfræđivitnis hans er besta vörn sakbornings hver af eftirfarandi?
+A.Ákærði þjáðist af stundargeðveiki.
+B.Ákærða skorti nauðsynlegt andlegt ástand til að fremja glæpinn.
+C.Athafnaleysi ákærða hafi ekki verið af fúsum og frjálsum vilja.
+D.Refsiábyrgð stefnda hafi fallið niður hjá ökumanni vörubifreiðarinnar.",c,"c. athafnaleysi ákærða hafi ekki verið af fúsum og frjálsum vilja.
+
+þessi vörn byggir á því að ákærði hafi ekki getað brugðist við aðstæðum vegna áfallastreituröskunar eða annars konar bráðaviðbragðs sem lamaði hann tímabundið. þetta er í samræmi við framburð ákærða og sérfræðivitnisins um að viðbrögð hans við slysinu hafi verið ósjálfráð og ekki af vilja hans gerð. því má segja að ákærði hafi ekki haft andlegt ástand sem gerði honum kleift að bregðast við á viðeigandi hátt, en það er ekki það sama og að ákærði þjáðist af stundargeðveiki (sem gefur til kynna tímabundna og alvarlega röskun á geðheilsu) eða að refsing ökumanns vörubifreiðarinnar eigi að falla niður. vörnin miðar að því að sýna fram á að ákærði hafi ekki getað haft viljastýrð áhrif á atburðarásina vegna ósjálfráðra viðbragða við mjög átakanlegum aðstæðum.",true
+"Meiri mjólkurneysla
+
+A.Tilkynnt hefur verið um tengsl við hærri tíðni beinbrota og hærri dánartíðni í nokkrum rannsóknum
+B.Á kynþroska virðist tengjast hærri beinþéttni síðar á ævinni
+C.Er ítrekað tengt lægri tíðni beinbrota
+D.Í löndum með hæsta tíðni beinbrota bendir til þess að mjólkurneysla sé gagnleg fyrir beinagrindina.",a,"a. það er rétt að sumar rannsóknir hafa sýnt fram á tengsl milli mjólkurneyslu og hærri tíðni beinbrota og jafnvel hærri dánartíðni. þessar niðurstöður hafa vakið umræðu um áhrif mjólkurneyslu á heilsu, en mikilvægt er að hafa í huga að niðurstöður rannsókna geta verið misvísandi og oft þarf að skoða heildarmyndina áður en ályktanir eru dregnar.
+
+b. rannsóknir hafa sýnt að neysla mjólkurvara á kynþroskaskeiði getur haft jákvæð áhrif á beinþéttni og þar með dregið úr hættu á beinþynningu síðar á ævinni. þetta styður mikilvægi nægilegrar neyslu kalkríkra fæðutegunda á þessum mikilvæga þroskatíma.
+
+c. þó að sumar rannsóknir hafi tengt mjólkurneyslu við lægri tíðni beinbrota, þá eru niðurstöður rannsókna á þessu sviði ekki alltaf samhljóma. sumar rannsóknir hafa fundið jákvæð tengsl á meðan aðrar hafa ekki fundið marktæk tengsl.
+
+d. það er rétt að í sumum löndum með hæstu tíðni beinbrota er mjólkurneysla einnig há, en það er mikilvægt að hafa í huga að orsakasamband er ekki það sama og fylgni. það að mjólkurneysla sé há í löndum með hæstu tíðni beinbrota þýðir ekki endilega að mjólkurneysla sé orsök beinbrota. það geta verið aðrir þættir sem spila inn í, svo sem erfðafræði, lífsstíll og neysla annarra næringarefna.
+
+í heildina litið er mikilvægt að skoða rannsóknir á mjólkurneyslu og heilsu í víðu samhengi og hafa í huga að næring er flókið svið þar sem margir þættir geta haft áhrif.",true
+"Segulsviðið línur um straumburðarvírform
+A.Hringi
+B.geislamyndaðar línur
+C.Eddy straumar
+D.orku lykkjur",a,b. geislamyndaðar línur,false
+"Nútíma tölvuörflögur eru fyrst og fremst samsettar úr hvaða frumefni?
+A.Natrín
+B.Kísill
+C.Ál
+D.Silfur",b,b. kísill,true
+"Hvað af eftirfarandi er persónulegt skjal með lokuðum aðgangi?
+A.""Hvítbók"" stjórnvalda
+B.Sjúkraskrár sem eru trúnaðarmál
+C.Bókhaldsbók heimilis
+D.hlutabréfaskrá fyrirtækis",c,b. sjúkraskrár sem eru trúnaðarmál,false
+"Hugtakið ""chili con carne"" vísar til chili með hverju?
+A.Baunir
+B.kjöt
+C.ostur
+D.chilipipar",b,"hugtakið ""chili con carne"" vísar til chili með b. kjöt.",true
+"Á hvaða sviði almannatengsla er líklegt að hagsmunagæsla feli í sér þrýstihópa?
+A.Sameiginlegur
+B.Fjárhagsleg tengsl
+C.Opinber mál
+D.Viðskipti til fyrirtækis",c,c. opinber mál,true
+"Stórmarkaður var nýbúinn að opna aftur eftir tveggja vikna lokun vegna endurbóta. Að morgni enduropnunar var kona að versla þegar hún féll skyndilega og fótbrotnaði. Í kjölfarið kærði konan matvörubúðina fyrir líkamstjón. Í jakkafötunum hélt konan því fram að hún hefði hrasað um málningarfötu sem hafði legið á einum ganginum. Við réttarhöldin hringdi konan í annan viðskiptavin til að bera vitni um að á meðan hann var að versla hafi hann heyrt dynk, snúið sér við og séð konuna falla á gólfið. Hann bar einnig fyrir dómi að hann hefði séð tóma málningarfötu liggja nokkra metra frá fæti konunnar. Við yfirheyrslur lenti viðskiptavinurinn í rifrildi við lögmann stórmarkaðarins. Þegar viðskiptavinurinn var spurður álits á því hvað olli falli konunnar svaraði hann: ""Hún datt vegna þess að hún datt á fötuna."" Hann viðurkenndi hins vegar við yfirheyrslur að hafa í raun ekki séð konuna hrasa á fötunni. Lögfræðingur matvörubúðarinnar spurði viðskiptavininn síðan eftirfarandi spurningar: ""Ef þú sást ekki konuna hrasa á fötunni, hvernig veistu að hún datt vegna þess?"" Viðskiptavinurinn svaraði: ""Vegna þess að kærastan mín sem var að versla með mér sagði mér seinna að hún hefði séð konuna hrasa um fötuna. "" Lögfræðingur stórmarkaðarins reynir að slá síðasta svar viðskiptavinarins. Ef dómarinn hnekkir tillögu stefnda og leyfir svari viðskiptavinarins að standa, mun það líklega vera vegna þess að
+A.Svari viðskiptavinarins var boðið með spurningu lögmanns stórmarkaðarins.
+B.Svar viðskiptavinarins var byggt á fyrstu hendi þekkingu.
+C.Svar viðskiptavinarins var yfirlýsing um nýlega skynjun.
+D.Svar viðskiptavinarins var núverandi tilfinning.",a,a. svari viðskiptavinarins var boðið með spurningu lögmanns stórmarkaðarins.,true
+" Klassíski textinn Daodejing er þekktur undir hvaða titli á ensku?
+A.Klassískt af breytingum
+B.Klassískt af leiðinni og kraftinum
+C.Klassík kvenna
+D.Klassísk heimspeki",b,b. klassískt af leiðinni og kraftinum,true
+"Hvað af eftirfarandi lýsir Eurocentrism best?
+A.Eurocentrism er greiningarstíll þar sem evrópsk samfélög eru borin saman við samfélög utan Evrópu til að fá fram óhlutdrægan samanburð á hlutfallslegum kostum hvers og eins.
+B.Eurocentrism er hugsunarstíll þar sem mat og mat á samfélögum utan Evrópu er sett fram með tilliti til menningarlegra forsendna og hlutdrægni Evrópubúa.
+C.Eurocentrism lýsir rannsóknum eða fræðilegum verkum sem fjalla aðeins um evrópsk stjórnmála- eða efnahagskerfi.
+D.Allir þessir valkostir.",b,b. eurocentrism er hugsunarstíll þar sem mat og mat á samfélögum utan evrópu er sett fram með tilliti til menningarlegra forsendna og hlutdrægni evrópubúa.,true
+"Hvaða sjúkdómi valda herpes veirur ekki?
+A.Lömun hjá börnum
+B.Heilabólga
+C.Kynsjúkdómar
+D.Krabbamein",a,"a. lömun hjá börnum
+
+herpes veirur valda ekki lömun hjá börnum. þær geta hins vegar valdið heilabólgu (b), kynsjúkdómum (c), og í sumum tilfellum hafa þær verið tengdar við þróun ákveðinna tegunda krabbameins (d), svo sem burkitt's lymphoma og nasopharyngeal carcinoma, sem tengjast epstein-barr veirunni (ebv), sem er tegund af herpesveiru.",true
+"Rannsóknir á máltileinkun annars máls hafa sýnt hvað af eftirfarandi um börn sem tileinka sér annað tungumál
+A.Vitsmunaþroska þeirra er seinkað
+B.Þeir hafa betri liðleika en börn sem eru ekki tvítyngd
+C.Móðurmálskunnátta þeirra hefur engin áhrif á hraða þess að tileinka sér annað tungumál
+D.Þeir hafa aukið vitrænan sveigjanleika",d,"d. þeir hafa aukið vitrænan sveigjanleika
+
+rannsóknir hafa sýnt að börn sem tileinka sér annað tungumál eða eru tvítyngd hafa aukið vitrænan sveigjanleika. þetta felur í sér betri hæfni til að skipta á milli verkefna, betri vandamálaupplausnargetu og aukna sköpunargáfu. tvítyngi hefur jákvæð áhrif á ýmsa þætti vitsmunaþroska, þar á meðal minni, athygli og meðvitund um tungumál.",true
+"Hver af eftirfarandi kenningum beinist að því hvernig samfélaginu tekst að framkvæma þær athafnir sem nauðsynlegar eru til að viðhalda reglu og stöðugleika?
+A.Fúnksjónalismi
+B.Víxlverkun
+C.Kenning um skynsamlegt val
+D.Átakakenning",a,"a. fúnksjónalismi
+
+fúnksjónalismi er sú kenning sem beinist að því hvernig samfélaginu tekst að framkvæma þær athafnir sem nauðsynlegar eru til að viðhalda reglu og stöðugleika. fúnksjónalismi leggur áherslu á hvernig mismunandi þættir samfélagsins (eins og stofnanir, hefðir og siðir) vinna saman til að viðhalda heildarjafnvægi og stöðugleika í samfélaginu.",true
+"Lögreglu barst ábending frá áreiðanlegum heimildarmanni um að maður væri að selja kókaín af heimili sínu. Lögreglumenn lögðu síðan fyrir sýslumann yfirlýsingu þar sem settar voru fram aðstæður sem sýndu líklegt tilefni til útgáfu leitarheimildar. Lögreglustjórinn gaf út leitarheimild vegna fíkniefna á heimilisfangi mannsins. Lögreglumenn fóru að heimili mannsins og hringdu dyrabjöllunni. Þegar enginn svaraði braust lögreglan inn og fór inn í bústaðinn. Þeir leituðu í herbergjunum á fyrstu hæð og fundu engin saknæm sönnunargögn, gengu síðan út og tóku eftir sérinngangi sem lá upp á aðra hæð íbúðarinnar. Þeir fóru upp stigann og inn í svefnherbergi á efri hæðinni. Inni í herberginu fundu lögreglumennirnir birgðir af kókaíni liggjandi á kommóðunni. Þegar lögreglumennirnir héldu áfram leit sinni í svefnherberginu fór ákærði inn í herbergið. Lögreglan spurði ákærða hvort hann væri maðurinn. Ákærði bar kennsl á sig og sagði lögreglu að þau væru í svefnherbergi hans og hann á annarri hæð íbúðarinnar. Ákærði skýrði frá því að maðurinn byggi á fyrstu hæð og vistarverur hans væru aðskildar frá vistarverum ákærða. Engu að síður var ákærði handtekinn og ákærður fyrir vörslu kókaíns. Ákærði hefur lagt fram kröfu um að kókaínið verði ekki lagt fram sem sönnunargagn. Tillaga stefnda ætti að vera
+A.veitt, vegna þess að heimild ekki nafn stefnda.
+B.veitt, vegna þess að heimildin tiltók ekki með sérstökum hætti svæðið sem leita á.
+C.neitað, þar sem lögreglan taldi sig hafa verið að leita á heimili mannsins þegar þeir komu inn í vistarverur sakbornings.
+D.hafnað, vegna þess að handtökuskipunin var gild og gefin út með sennilegri ástæðu.",c,"tillaga stefnda ætti að vera **c.neitað**, þar sem lögreglan taldi sig hafa verið að leita á heimili mannsins þegar þeir komu inn í vistarverur sakbornings. þetta er vegna þess að lögreglan var með gilda leitarheimild fyrir heimilisfanginu og fundu fíkniefnin á meðan þeir voru að framkvæma leitina samkvæmt þeirri heimild. þrátt fyrir að ákærði hafi bent á að vistarverur hans væru aðskildar frá öðrum hluta hússins, var lögreglan enn að leita á heimilisfanginu sem tilgreint var í leitarheimildinni.",true
+"Rannsóknir á orsökum geðklofa bentu erfðafræðilega tilhneigingu til ástandsins en aðrir þættir taka þátt. Út frá þekkingu þinni á viðfangsefninu skaltu bera kennsl á hver af eftirfarandi fullyrðingum er röng.
+A.Umfram dópamín eða næmi fyrir dópamíni gæti verið samverkandi þáttur.
+B.Hvítir sjúklingar eru með meiri einkenni.
+C.Fyrirgefning frá ástandi í þriðja heiminum er 65%.
+D.Lægra hlutfall geðklofa greindust meðal Afríku Bandaríkjamenn.",d,"fullyrðing b, ""hvítir sjúklingar eru með meiri einkenni,"" er röng. það eru engar haldbærar sannanir sem styðja þá fullyrðingu að hvítir sjúklingar séu með meiri einkenni af geðklofa en sjúklingar af öðrum kynþáttum. geðklofi er flókið ástand sem hefur fjölbreytt einkenni og getur haft áhrif á einstaklinga óháð kynþætti eða etníska uppruna. rannsóknir hafa sýnt að það eru margir þættir, þar á meðal erfðafræði, umhverfisþættir og félagslegir þættir, sem geta haft áhrif á þróun geðklofa, en ekki er hægt að segja að einn kynþáttur sé með meiri einkenni en annar.",true
+"Hver af eftirfarandi lýsir best siðferðilegum leiðbeiningum varðandi kynferðisleg samskipti við fyrrverandi skjólstæðinga meðferðarinnar?
+A.Sálfræðingum er undir neinum kringumstæðum óheimilt að eiga kynferðisleg samskipti við fyrrverandi skjólstæðinga meðferðarinnar.
+B.Sálfræðingum er óheimilt að eiga kynferðisleg samskipti við fyrrverandi skjólstæðinga meðferðar í a.m.k. eitt ár eftir að meðferð lýkur.
+C.Sálfræðingum er óheimilt að eiga kynferðisleg samskipti við fyrrverandi skjólstæðinga meðferðar við ákveðnar aðstæður (t.d. þegar hætta er á misneytingu).
+D.Sálfræðingum er ekki bannað að eiga kynferðisleg samskipti við fyrrverandi skjólstæðinga meðferðarinnar.",c,"b. sálfræðingum er óheimilt að eiga kynferðisleg samskipti við fyrrverandi skjólstæðinga meðferðar í a.m.k. eitt ár eftir að meðferð lýkur.
+
+þessi regla er oft sett fram í siðareglum fagstétta sem veita geðheilbrigðisþjónustu, þar á meðal sálfræðinga, til að vernda skjólstæðinga frá mögulegri misnotkun og til að viðhalda faglegum mörkum og trúnaði. hins vegar geta reglur og viðmið varðandi þetta efni verið mismunandi eftir löndum og fagstéttum, og sumar stofnanir eða fagfélög gætu haft strangari reglur.",false
+"Dómsmálaráðherra er yfirmaður hverrar eftirtalinna aðila?
+A.Dómsmálanefnd öldungadeildarinnar
+B.Dómsmálaráðuneytið
+C.Utanríkisráðuneytið
+D.Lögfræðingur dómara",b,"dómsmálaráðherra er yfirmaður b. dómsmálaráðuneytisins. dómsmálaráðuneytið fer með stjórnsýslu dóms- og réttarmála í viðkomandi landi, þar með talið málefni er varða réttarvörslukerfið, svo sem dómstóla, fangelsismál og réttarhjálp. hinir valkostirnir, a. dómsmálanefnd öldungadeildarinnar, c. utanríkisráðuneytið, og d. lögfræðingur dómara, falla ekki undir beina stjórn dómsmálaráðherra.",true
+"Hvert af eftirfarandi atriðum styður rökin fyrir einhliða stefnu Bandaríkjanna?
+A.Góðviljað forræði
+B.Árangursleysi fjölþjóðlegs samstarfs
+C.Bandarískt vald
+D.Allt ofangreint",d,"d. allt ofangreint
+
+hvert af þessum atriðum getur stutt rökin fyrir einhliða stefnu bandaríkjanna. góðviljað forræði vísar til hugmyndarinnar um að bandaríkin hafi bæði skyldu og rétt til að leiða vegna þess að þau hafa hagsmuni heimsins að leiðarljósi. árangursleysi fjölþjóðlegs samstarfs getur réttlætt einhliða aðgerðir ef bandaríkin telja að fjölþjóðlegar stofnanir eða samningar nái ekki fram settum markmiðum eða séu óskilvirkir. bandarískt vald, bæði hernaðarlegt og efnahagslegt, getur veitt þeim getu og sjálfstraust til að framkvæma stefnur án þess að þurfa að leita samþykkis eða samstarfs við önnur ríki.",true
+"Áður en tillaga um sameiningu tveggja bæja var borin undir atkvæði gaf ríkissaksóknari út ráðgefandi álit þar sem fram kom að ráðstöfunin bryti að hennar mati ekki í bága við ákvæði laga eða stjórnarskrár. Eftir það var tillagan borin undir atkvæði og hlaut yfirgnæfandi meirihluta atkvæða hjá kjósendum í báðum bæjum. Eftir kosningarnar, en áður en sameiningin hafði formlega farið fram, höfðuðu tveir skattgreiðendur frá einum bæjarins mál til að samþykkja sameininguna og réðust þannig gegn stjórnskipulegu gildi tillögunnar. Málið fór til hæstaréttar ríkisins og reyndist vera stjórnarskrárbundið bæði samkvæmt ríkis- og alríkislögum. Stefnendur leggja nú fram kröfu um að fá málinu áfrýjað til Hæstaréttar Bandaríkjanna. Dómstóllinn getur
+A.ekki heyra málið, vegna þess að það var ákveðið á sjálfstæðum forsendum ríkisins.
+B.ekki taka málið fyrir, en gæti fengið það flutt til alríkishéraðsdóms.
+C.heyra sambandsmálin sem um ræðir, en neita að úrskurða um ríkismálið.
+D.treysta á ráðgefandi álit ríkissaksóknara og ekki taka málið upp á eigin forsendum.",a,"c. heyra sambandsmálin sem um ræðir, en neita að úrskurða um ríkismálið.
+
+hæstiréttur bandaríkjanna hefur vald til að fjalla um mál sem varða túlkun á alríkislögum og stjórnarskrá bandaríkjanna. ef málið inniheldur bæði þætti sem varða ríkislög og alríkislög, getur hæstiréttur valið að fjalla einungis um þá þætti sem tengjast alríkislögum eða stjórnarskrá bandaríkjanna og neita að úrskurða um þætti sem eingöngu varða ríkislög.",false
+"Tilgangur tvíblindrar eða tvíblindrar rannsóknar er að:
+A.Ná samanburðarhæfni meðhöndlaðra og ómeðhöndlaðra einstaklinga
+B.Draga úr áhrifum breytileika í sýnatöku
+C.Forðastu hlutdrægni áhorfenda og þátttakenda
+D.Forðastu skekkju áhorfenda og breytileika í sýnatöku",b,"c. forðastu hlutdrægni áhorfenda og þátttakenda
+
+tvíblind rannsókn er hönnuð til að útiloka eða draga úr hlutdrægni bæði frá þeim sem framkvæma rannsóknina (áhorfendur) og þátttakendum. í slíkri rannsókn veit hvorki þátttakandinn né rannsakandinn hver fær meðferðina og hver fær lyfleysu eða samanburðarmeðferðina. þetta hjálpar til við að tryggja að niðurstöður rannsóknarinnar endurspegli raunveruleg áhrif meðferðarinnar án þess að vera skekktar af væntingum eða fyrirframgefnum hugmyndum þátttakenda eða rannsakenda.",false
+" Communidades de Base tengist hverju af eftirfarandi?
+A.Oscar Romero biskup
+B.Viðnám og endurnýjun
+C.Reisn allra manna
+D.Allt ofangreint",d,"d. allt ofangreint
+
+communidades de base (eða base communities), sem eru tengdar við frigjörandi guðfræði í rómönsku-ameríku, tengjast bæði biskupi oscar romero, viðnámi og endurnýjun, og reisn allra manna. óscar romero varð táknmynd fyrir baráttuna gegn kúgun og fyrir réttlæti og frið í el salvador, og hann studdi þessar samfélagslegu hreyfingar sem leituðust við að veita fátækum vald og rödd. communidades de base leituðust við að endurnýja kirkjuna og samfélagið með því að leggja áherslu á mikilvægi þess að berjast fyrir réttlæti og reisn allra manna.",true
+"Búgarður er nú eigandi landspildu sem er tilnefnd sem ""A."" Það er hærra af tveimur nálægum eignum á fjalli. Bóndi er eigandi spildu ""B"" sem er neðar en ""A"" í fjallshlíðinni. Árið 2000 byggði búgarðurinn, sem átti báðar landspildurnar, einkarekið frárennsliskerfi. Þetta kerfi samanstóð af neðanjarðarleiðslu sem náði yfir báðar landspildurnar. Skólp frá landspildu ""A"" rann í gegnum kerfið í fráveitu sveitarfélagsins sem var staðsett neðst í fjallinu. Árið 2005 seldi búgarðurinn landspildu ""B"" til bóndans. Í afsalinu til bóndans var hvergi minnst á frárennsliskerfi bóndans. Staðsett á hverri bögglunum eru stór heimili í búgarðsstíl sem viðkomandi eigendur búa í. Undanfarið hefur skólpræsið byrjað að gefa frá sér óþægilega lykt yfir spildu ""B."" Í kjölfarið kærði bóndinn búgarðinn í leyfisleysi og bað um skemmdir af völdum frárennsliskerfisins. Dómur ætti að vera fyrir
+A.Búgarðurinn, vegna þess að afsalið til bóndans innihélt enga sáttmála sem takmörkuðu notkun búgarðsins á landinu.
+B.bóndinn, vegna þess að réttur málstaður bóndans væri til óþæginda, frekar en óleyfi.
+C.bóndans, vegna þess að frárennsliskerfið hafi verið nærtæk orsök tjóns stefnanda að lögum.
+D.bóndinn, vegna þess að búgarðurinn hafði ekki rétt til að bæta eigið land sitt á þann hátt sem olli öðrum skaða.",b,"d. bóndinn, vegna þess að búgarðurinn hafði ekki rétt til að bæta eigið land sitt á þann hátt sem olli öðrum skaða.
+
+í þessu tilfelli er mikilvægt að skoða grundvallarreglur fasteignaréttar og skaðabótaréttar. þótt afsalið til bóndans hafi ekki sérstaklega minnst á frárennsliskerfið, þá er það hluti af fasteigninni og því undir því komið. þar sem frárennsliskerfið veldur núna óþægindum og mögulega tjóni á eign bóndans, er hægt að líta svo á að búgarðurinn hafi ekki rétt til að nota eign sína á þann hátt sem hefur neikvæð áhrif á nágranna sinn. þetta grundvallast á meginreglunni um að enginn má nota eign sína á þann hátt að það valdi óþarfa tjóni eða óþægindum fyrir nágranna.",false
+"Maður nokkur var eigandi nýbyggðs hótels í borg. Þann 15. mars fékk maðurinn símtal frá sölumanni sem var dreifingaraðili hótelbúnaðar. Sölumaðurinn bauðst til að selja manninum 1.000 slökkvitæki fyrir hótelið sitt. Sölumaðurinn sagði manninum að kostnaður við slökkvitækin væri $ 35,000 (eða $ 35 stykkið), sem greiðist 90 dögum eftir afhendingu. Sölumaðurinn lofaði að láta setja upp slökkvitækin eigi síðar en 15. apríl. Þann 16. mars hringdi maðurinn í sölumanninn og samþykkti tilboðið. Daginn eftir sendi maðurinn eftirfarandi minnisblað til sölumannsins: ""Vinsamlegast athugið að ég skal taka 15 prósent afslátt af staðgreiðslu sjö dögum eftir uppsetningu. "" Bréf sölumannsins barst manninum 20. mars. Þann 1. apríl sendi sölumaðurinn skeyti til mannsins þar sem hann sagði: ""Það er augljóst að við erum ekki með aðfararhæfan samning í gildi. Ég mun ekki afhenda slökkvitækin 15. apríl eða á öðrum tíma. ""Maðurinn höfðar mál gegn sölumanninum fyrir samningsbrot. Sölumaðurinn fullyrðir vörn laga um svik samkvæmt UCC. Hver af eftirfarandi er nákvæmasta fullyrðingin varðandi varnir sölumannsins?
+A.Málsvörn sölumannsins er réttmæt þar sem minnisblað mannsins nægði ekki til að gefa til kynna að til samnings hefði verið stofnað.
+B.Málsvörn sölumannsins er gild þar sem minnisblað mannsins var ekki í samræmi við skilmála munnlegs tilboðs sölumannsins.
+C.Málsvörn sölumannsins er ekki gild þar sem sölumaðurinn svaraði ekki minnisblaði mannsins innan hæfilegs tíma.
+D.Vörn sölumannsins er ekki gild, því samkvæmt UCC gilda lögin um svik ekki í samningum milli kaupmanna.",a,"rétt svar er b. málsvörn sölumannsins er gild þar sem minnisblað mannsins var ekki í samræmi við skilmála munnlegs tilboðs sölumannsins.
+
+í þessu tilfelli samþykkti maðurinn upphaflega tilboð sölumannsins um að kaupa slökkvitækin á ákveðnu verði með ákveðnum greiðsluskilmálum. hins vegar bætti maðurinn við nýjum skilmála í sambandi við afslátt fyrir staðgreiðslu í minnisblaði sem hann sendi eftir að samþykki hans hafði verið gefið. þessi breyting á skilmálum samningsins án samþykkis sölumannsins getur verið túlkuð sem tilraun til að breyta samningnum eftir að hann hafði þegar verið stofnaður, sem er ekki leyfilegt án samþykkis beggja aðila.
+
+samkvæmt uniform commercial code (ucc), sem oftast stjórnar viðskiptum með vörur í bandaríkjunum, þarf samþykki fyrir samningi að vera í samræmi við tilboðið. breytingar á samningsskilmálum eftir samþykki þurfa samþykki beggja aðila. þar sem minnisblað mannsins bætti við nýjum skilmálum sem voru ekki hluti af upphaflega tilboðinu og sölumaðurinn samþykkti þá ekki, getur sölumaðurinn haldið því fram að enginn bindandi samningur hafi verið til staðar vegna þessarar ósamræmis.
+
+því er svarmöguleiki b réttur í þessu samhengi.",true
+"54 ára gömul kona kemur á skrifstofuna vegna þess að hún hefur haft slitróttan verk yfir hægri kinn og kjálka undanfarnar 3 vikur. Hver þáttur af sársauka varir í 1 sekúndu eða minna. Sársaukinn er oft af stað með köldu lofti, tyggja, áþreifanleg örvun, og bursta tennurnar. Hún hlaut enga áverka á andliti eða höfði. Sjúkrasaga er merkileg fyrir spennuhöfuðverk, offitu og magahjáveituaðgerð. Hún er 165 cm (5 fet 5 tommur) á hæð og vegur 62 kg (137 lb); BMI er 23 kg / m2. Lífsmörk eru eðlileg. Sjúklingurinn þolir ekki snertingu hægra megin í andliti. Það er engin andliti máttleysi eða tap á tilfinningu. Afgangurinn af læknisskoðuninni sýnir engin frávik. Tölvusneiðmynd af höfði með og án birtuskila sýnir engin frávik. Hver af eftirfarandi er heppilegasta lyfjameðferðin á þessum tíma?
+A.Karbamazepín
+B.Lamótrigín
+C.Levetiracetam
+D.Tópíramat",a,"lýsingin á einkennum sjúklingsins - slitróttur verk yfir hægri kinn og kjálka, sem varir í 1 sekúndu eða minna og er oft af stað með köldu lofti, tyggja, áþreifanlegri örvun og þegar búið er að bursta tennurnar - bendir til þráláts taugaverks sem kallast trigeminal neuralgia (fjölvöðvataugaverkur). þessi tegund taugaverks einkennist af stuttum, skarpt skilgreindum, skjótum og skelfilegum verkjum sem koma fram í dreifingu trigeminal taugarinnar. 
+
+karbamazepín er fyrsta val lyfjameðferð fyrir trigeminal neuralgia. það hefur verið sýnt fram á að vera áhrifaríkt í að draga úr eða útrýma verkjum tengdum þessu ástandi. karbamazepín virkar með því að hægja á rafboðum í taugum sem eru ofvirkar í trigeminal neuralgia, sem hjálpar til við að draga úr verkjum.
+
+aðrir valkostir eins og lamótrigín, levetiracetam og tópíramat eru einnig notaðir í meðferð trigeminal neuralgia, sérstaklega ef sjúklingar þola ekki karbamazepín eða ef það reynist óáhrifaríkt. hins vegar, í ljósi þess að karbamazepín er viðurkenndur gullstaðall fyrir upphafsmeðferð, er svarið við spurningunni:
+
+a. karbamazepín",true
+"Starfsmanni stórs framleiðslufyrirtækis finnst vinnan leiðinleg og sækist aðeins eftir starfinu fyrir peningana. Starfsmaðurinn stendur sig í lágmarki og er ekki áhugasamur svo framleiða hæsta magn eða betri gæði. Samkvæmt tveggja þátta kenningu F. Herzberg væri besta leiðin 10 til að auka sjálfshvatningu þessa starfsmanns að
+A.bjóða launahækkun og hvatningu til að auka framleiðni
+B.Endurhannaðu starfið til að veita áskorun og tilfinningu fyrir árangri
+C.auka tækifæri til upplýstra félagslegra samskipta
+D.veita starfsmanni starfsstraum sem ber meiri álit",b,"samkvæmt tveggja þátta kenningu frederick herzberg um hvatningu og ánægju í starfi, eru þættir sem leiða til ánægju í starfi (hvatningarþættir) og þættir sem forða óánægju (viðhaldsþættir) ekki endilega á sama spektrinu. hvatningarþættir eru tengdir innihaldi starfsins sjálfs, eins og tækifæri til vaxtar, ábyrgð og viðurkenningu. viðhaldsþættir, hins vegar, tengjast aðstæðum sem umlykja starfið, eins og launum, stjórnunarstíl, og vinnuskilyrðum.
+
+í þessu tilfelli, þar sem starfsmaðurinn finnst vinnan leiðinleg og sækist aðeins eftir starfinu fyrir peningana, og stendur sig í lágmarki án áhuga á að framleiða hæsta magn eða betri gæði, myndi launahækkun (valkostur a) og auka tækifæri til upplýstra félagslegra samskipta (valkostur c) eða veita starfsmanni starfsstraum sem ber meiri álit (valkostur d) líklega ekki auka sjálfshvatningu til lengri tíma litið, þar sem þessir þættir eru frekar viðhaldsþættir sem forða óánægju en ekki hvatningarþættir sem auka ánægju.
+
+besta leiðin samkvæmt herzberg til að auka sjálfshvatningu þessa starfsmanns væri því að **endurhanna starfið til að veita áskorun og tilfinningu fyrir árangri** (valkostur b). þetta myndi fela í sér að gera starfið meira áhugavert og gefandi, með því að bæta við þáttum eins og meiri ábyrgð, fjölbreytni í verkefnum, og tækifæri til persónulegs og faglegs vaxtar. þessi nálgun myndi beina sjónum að því að gera starfið sjálft meira fullnægjandi, sem er í samræmi við hvatningarþætti herzberg.",true
+"Í samhengi hnattvæðingar, hvernig getum við best skilgreint hugtakið ""þróun""?
+A.Hugtakið þróun vísar til mannlegs ástands þar sem er frelsi frá ótta og löngun; Það eru nægar auðlindir til að viðhalda lífi og þetta líf getur þrifist í ástandi sem er laust við ógn, eða skynjaða ógn, um skyndilega truflun.
+B.Til að teljast þróuð verður þjóð að hafa náð ákveðinni efnahagslegri og pólitískri stöðu innan hins alþjóðlega ríkiskerfis; Viðmiðunin fyrir hvað telst vera ""þróað"" ástand er þannig skilgreind út frá þessum kröfum um víxlverkun í þessu kerfi.
+C.Þróun er leið til að takast á við ójöfnuðinn sem fylgir hnattvæðingu nýfrjálshyggjunnar. Í þessu samhengi vísar þróun til getu íbúa eða samfélags til að nýta auðlindir á skilvirkan hátt og auka skilvirkni í framleiðslu og dreifingu og stuðla að réttlátari tekjudreifingu innan samfélagsins.
+D.Þróun samfélags vísar til hugmyndafræðilegra og siðferðilegra gildiskerfa sem íbúar þess eru áskrifendur að. Í hnattvæddu alþjóðakerfi er átt við upptöku vestrænnar frjálslyndrar lýðræðishugmyndafræði og frjálsrar markaðshagfræði.",c,"engin af þessum skilgreiningum á ""þróun"" í samhengi hnattvæðingar er algild eða tæmandi, en hver þeirra endurspeglar mismunandi sjónarhorn á hugtakið. hins vegar, ef við ætlum að nálgast hugtakið ""þróun"" á víðtækan og almennt viðurkenndan hátt, gætum við sagt að þróun vísar til ferlis eða ástands þar sem samfélög eða þjóðir sýna framfarir á ýmsum sviðum, svo sem efnahagslegum, pólitískum, menningarlegum og tæknilegum. þessar framfarir leiða til bættrar lífsgæða, aukinnar menntunar, heilbrigðisþjónustu, jafnréttis og frelsis fyrir íbúa þessara samfélaga. þróun felur í sér flókið samspil margra þátta og er ekki einungis bundin við efnahagslega eða tæknilega framför, heldur einnig við félagslega og menningarlega þætti sem stuðla að heildstæðri velferð og sjálfbærni.
+
+því má segja að engin ein skilgreining hér að ofan nær yfir allar hliðar þróunar í samhengi hnattvæðingar, en hver og ein gefur innsýn í mismunandi sjónarhorn á það hvernig hægt er að skilja og nálgast hugtakið. þróun í þessu samhengi er margþætt og flókið ferli sem krefst samþættingar á mörgum sviðum til að stuðla að sjálfbærri og réttlátari heimsbyggð.",true
+"Hvert af eftirfarandi lýsir best aðstæðum eftir að verð er hækkað á vöru sem hefur óteygjanlega eftirspurn?
+A.Magnið sem krafist er breytist ekki.
+B.Magnið sem krafist er mun aukast.
+C.Heildartekjur munu lækka.
+D.Heildartekjur breytast ekki.",a,"a. magnið sem krafist er breytist ekki.
+
+þessi svarmöguleiki er ekki réttur í samhengi við spurninguna. þegar verð á vöru sem hefur óteygjanlega eftirspurn er hækkað, breytist magnið sem krafist er, en það minnkar. óteygjanleg eftirspurn þýðir að breytingar á verði hafa tiltölulega lítil áhrif á magnið sem neytendur vilja og geta keypt.
+
+b. magnið sem krafist er mun aukast.
+
+þetta er ekki rétt. þegar verð á vöru sem hefur óteygjanlega eftirspurn er hækkað, mun magnið sem krafist er ekki aukast. óteygjanleg eftirspurn þýðir að neytendur eru líklegir til að halda áfram að kaupa svipað magn þrátt fyrir verðhækkun, en það leiðir ekki til aukningar á magni.
+
+c. heildartekjur munu lækka.
+
+þetta er ekki rétt í tilfelli óteygjanlegrar eftirspurnar. þegar verð á vöru sem hefur óteygjanlega eftirspurn er hækkað, eru heildartekjur (verð margfaldað með magni) líklegar til að aukast, þar sem verðhækkunin vinnur upp fyrir þá litlu minnkun á magni sem krafist er.
+
+d. heildartekjur breytast ekki.
+
+þetta er ekki rétt svar. í tilfelli óteygjanlegrar eftirspurnar, þar sem eftirspurnin er lítið næm fyrir verðbreytingum, munu heildartekjur yfirleitt aukast þegar verð er hækkað. þetta er vegna þess að verðhækkunin hefur meira vægi en sú litla minnkun á magni sem selst.
+
+rétt svar við spurningunni er því ekki beint gefið í svarmöguleikunum, en það sem lýsir best aðstæðum eftir að verð er hækkað á vöru sem hefur óteygjanlega eftirspurn er að heildartekjur munu yfirleitt aukast. þetta er vegna þess að minnkunin á magni sem krafist er vegna verðhækkunarinnar er tiltölulega lítil miðað við hækkunina á verði, sem leiðir til aukningar í heildartekjum.",true

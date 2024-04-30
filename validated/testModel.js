@@ -6,7 +6,6 @@ import { createObjectCsvWriter } from 'csv-writer';
 import { argv } from 'process';
 
 import findProvider from '../models/findProvider.js';
-import standardizeText from './standardizeText.js';
 import validate from './validate.js';
 import delay from '../misc/delay.js';
 
@@ -25,31 +24,29 @@ async function askQuestion(question) {
     // For Anthropic models
     if (provider == "anthropic") {
         messages = [
-            {"role": "user", "content": `Answer only with the letter of the option corresponding to your answer.\n${question}`}
+            {"role": "user", "content": question}
         ],
         answer = await queryAnthropic(messages, model);
     }
     // For Meta models
     else if (provider == "meta") {
-        const systemPrompt = "You are a helpful assistant. Answer only with the letter corresponding to your answer."
+        const systemPrompt = "You are a helpful assistant."
         answer = await queryMeta(question, systemPrompt, model);
     }
     // For OpenAI models
     else if (provider == "openai") {
         messages = [
-            {"role": "system", "content": "You are an intelligent AI designed to answer multiple choice questions. Answer only with the letter of the option corresponding to your answer."},
             {"role": "user", "content": question},
         ],
         answer = await queryOpenAI(messages, model, {jsonMode: false});
     }
-
-    return standardizeText(answer);
+    return answer;
 }
 
 async function processCSV(filePath, csvWriter) {
     let questions = [];
     let correctCount = 0;
-    const batchSize = 50;
+    const batchSize = 25;
     const delayTime = 1000;
 
     return new Promise((resolve, reject) => {
@@ -64,10 +61,10 @@ async function processCSV(filePath, csvWriter) {
                         const batch = questions.slice(i, i + batchSize);
                         await Promise.all(batch.map(async (row) => {
                             const question = `${row.Question}\nA.${row.A}\nB.${row.B}\nC.${row.C}\nD.${row.D}`;
-                            const correctAnswer = standardizeText(`${row.Answer}`);
+                            const correctAnswer = `${row.Answer}`;
                             const answer = await askQuestion(question);
                             const validation = await validate(question, correctAnswer, answer);
-                            if (validation.correct) {
+                            if (validation.answer == correctAnswer) {
                                 correctCount++;
                             }
 
@@ -76,11 +73,12 @@ async function processCSV(filePath, csvWriter) {
                                 question: question,
                                 correctAnswer: correctAnswer,
                                 givenAnswer: answer,
-                                correct: validation.correct
+                                correct: validation.answer
                             }]);
                         }));
 
                         if (i + batchSize < questions.length) {
+                            console.log("Processed batch")
                             await delay(delayTime);
                         }
                     }
@@ -122,7 +120,7 @@ async function testModel() {
         ]
     });
 
-    const results = [];
+    const results = [];  
     try {
         const files = await fsPromises.readdir(directoryPath);
         for (const file of files.filter(file => path.extname(file).toLowerCase() === '.csv')) {

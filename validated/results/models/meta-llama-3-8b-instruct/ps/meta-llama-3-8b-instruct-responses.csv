@@ -1,109 +1,77 @@
 Question,CorrectAnswer,GivenAnswer,Correct
-"کوم ځانګړتیاوې عموما د جنسی تیری سره مطابقت لری؟
-A.زور زیاتی
-B.پلانی
-C.جنسی هڅونکی
-D.د یوې وسیلې کارول شامل دی",c,c,true
-"کوم خواړه د خوګ کولمو څخه جوړ شوی دی؟
-A.هاګس
-B.تالن
-C.کړچول
-D.غوړپ",b,c,false
-"ایا په بهر کې د هیواد د وزیر ایکس لخوا ترسره شوی غیرقانونی وژنه یو عمل دی؟
-A.دا ډول چلند یو عامه عمل دی (د قضاوت غیر معمولی)
-B.دا ډول چلند هیڅکله معافیت نه ترلاسه کوی
-C.دا ډول چلند یو شخصی عمل دی (د قانون قانون)
-D.دا ډول چلند عامه عمل دی مګر د معافیت لخوا خوندی دی",c,b.,false
-"ایا د AutoCorrelation منفی پاتې دی چې د لاندې یو له خوا اشاره کیږی؟
-A.په پاتې شونو کې د سایکلیک سټایل
-B.په پاتې شونو کې د بدیل ب patternه
-C.په پاتې شونو کې بشپړ تصادفی
-D.ټول هغه څه چې صفر ته نږدې دی",b,c,false
-"له دې څخه کوم یو د هومولوګس پروټینونو د امینو اسید ترتیب پراساس د مختلف ډولونو ارتقاء تړاو ټاکی عموما د هومولوګس جینونو د نیوکلیوټایډ ترتیب پراساس د اړونده پریکړو څخه لږ دقیق دی؟
-A.خاموش بدلونونه
-B.د جین نقلونه
-C.د لیږد پیښې چې د جین تسلسل بدلوی
-D.د تېرېدلو",a,c,false
-"د انسان د شخصیت د ښه والی له امله د انسان د شخصیت په اړه د هغه د شخصیت د شخصیت په اړه د هغه
-A.د حادثې په اړه د غلطۍ
-B.غلطه ستونزه
-C.د پوښتنې غوښتنه کول
-D.دایروی استدلال",a,d,false
-" دا بازارموندنه او مخابراتی وسیله مستقیم هڅونه یا هڅونه وړاندې کوی ترڅو پیرودونکی د محصول / خدمت پیرود لپاره وهڅوی:
-A.اعلانونه
-B.عامه اړیکې.
-C.د پلور ترویج.
-D.په مستقیم ډول د بازارموندنې.",c,d,false
-"یو شمیر ، نږدې زرو ته ګردی ، 47000 دی. کوم شمیره کیدی شی هغه شمیره وی چې شاوخوا وه؟
-A.46,295
-B.46,504
-C.47,520
-D.47,924",b,"c.47,520",false
-"د K-Fold د اعتبار وړ دی
-A.په K کې لینار
-B.په K کې څلور اړخیزه
-C.کیوبک په K
-D.په K کې توان لرونکی",a,b,false
-"یو ناروغ د شپږم رحم د رګونو په کچه د نخاعی نخاع ته زیان سره مات شوی غاړه لری.
-A.دوی به د ژوند ملاتړ پرته تنفس نشی کولی.
-B.دوی یوازې په ارامۍ سره تنفس کولی شی.
-C.دا ناممکن دی چې په تنفس باندې د اغیزې وړاندوینه وکړئ.
-D.تنفس به بې اغیزې وی.",b,c,false
-"د منځنی عمر لرونکی بالغان د زړو یا ځوانو لویانو په پرتله ډیر ښکاری
-A.تولید
-B.نیوروټیک
-C.د منلو وړ
-D.ډاډه",a,d,false
-"د هالنډ رسمی ژبه څه ده؟
-A.ډنمارکي
-B.سویډني
-C.الماني ژبه
-D.هالنډي",d,d,true
-"د انګلستان او اسراییلو په څیر هیوادونو کې د سیاسی ګوندونو سره پرتله کول ، چې دواړه څو اړخیز سیسټمونه لری ، د امریکا سیاسی ګوندونه دی.
-A.د ټاکنو د پایلو په اړه د ولسی جرګې د غړو اندېښنه
-B.د سیاسی ګوندونو له خوا د سیاسی
-C.د سیاسی ملاتړ کونکو څخه د پیسو په لوړولو کې لږ اغیزمن
-D.د خپلو ټولو اهدافو د لاسته را وړولو لپاره غوره",b,b.,true
-"د انتونیو بانډیراس اصلی ژبه څه ده؟
-A.هسپانوي
-B.روسي
-C.الماني ژبه
-D.فرانسوي ژبه",a,a.هسپانوي,true
-"هغه بدلونونه چې د Achondroplasia لامل کیږی یو اغیز لری چې کیدای شی په لاندې ډول طبقه بندی شی:
-A.غالب منفی.
-B.د دندې ترلاسه کول.
-C.د هیپولین کافی.
-D.د فعالیت له لاسه ورکول.",b,a.,false
-"کوم عوامل به د ریوا لپاره د ""پل"" فکتور په توګه وګ consideredل شی کله چې له هند څخه متحده ایالاتو ته د حرکت په پام کې نیولو سره؟
-A.بې وزلی
-B.غوره دنده او لوړ معاشونه
-C.د هند د کاسټ سیسټم
-D.د هغې په سیمه کې تاوتریخوالی",b,b,true
-"د دې وحشتناک فلمونو څخه کوم یو ترټولو ډیر سیکولونه رامینځته کړی؟
-A.چیغې
-B.د
-C.هالووین
-D.دجمعې په ۱۳مه",d,b.د,false
 "د ۱۹م کال د مګنولیا فلم په کوم حالت کې دی؟
 A.کالیفورنیا
 B.جنوبی کارولینا
 C.ګورجستان
-D.ټیکساس",a,a.,true
-"په یوه inductor کې د ولتاژ هڅول کیږی استازیتوب کیږی لکه:
-A.د دې له لارې د خپل انډول او اوسنی محصول.
-B.د دې له لارې د اوسنی انډول تناسب.
-C.د اوسنی تناسب له لارې د هغې د داخلې له لارې.
-D.د دې له لارې د هغې د انډول او د اوسنی بدلون کچه.",d,a.,false
-"د لاندې شرطی وړاندیز مخکینی پیژندل: مچۍ یوازې خپله لومړۍ لوبه وګټی که چیرې اډوارکس یا چپمنکس خپلې لومړۍ لوبې ونه ګټی.
-A.د یادونې وړ ده چې د افغانستان کرکټ لوبډلې خپله لومړۍ لوبه هم نه ده ګټلې.
-B.د دغې لوبې لومړۍ لوبه د افغانستان لوبډلې وګټله.
-C.د کرېکټ لوبغاړی خپلې لومړنۍ لوبې نه دی ګټلی.
-D.د کرېکټ لوبغاړی او کرېکټ لوبغاړی خپلې لومړنۍ لوبې نه ګټی.",b,a.,false
-"په 1.0 M فینول ، C6H5OH ، محلول کې د H + (aq) غلظت وټاکئ. (د فینول لپاره KA د 1 × 10^-10 دی.)
-A.۱ × ۱۰^۱۰م
-B.1 × 10^9 M
-C.1 × 10^3 متر
-D.1 × 10^5 متر",d,a. 1 × 10^10 m,false
+D.ټیکساس",a,"the correct answer is a. کالیفورنیا.
+
+the film ""magnolia"" (1999) is set in california, specifically in the san fernando valley.",true
+hich is a field that focuses on the development of devices and systems that interact with the brain.",false
+"د انتونیو بانډیراس اصلی ژبه څه ده؟
+A.هسپانوي
+B.روسي
+C.الماني ژبه
+D.فرانسوي ژبه",a,"the correct answer is a. هسپانوي (spanish).
+
+antonio banderas is a spanish actor, and his native language is spanish.",true
+" دا بازارموندنه او مخابراتی وسیله مستقیم هڅونه یا هڅونه وړاندې کوی ترڅو پیرودونکی د محصول / خدمت پیرود لپاره وهڅوی:
+A.اعلانونه
+B.عامه اړیکې.
+C.د پلور ترویج.
+D.په مستقیم ډول د بازارموندنې.",c,"the correct answer is d. په مستقیم ډول د بازارموندنې.
+
+this option refers to direct marketing, which involves promoting products or services directly to customers, often through personal contact or digital channels.",false
+"کوم خواړه د خوګ کولمو څخه جوړ شوی دی؟
+A.هاګس
+B.تالن
+C.کړچول
+D.غوړپ",b,"the correct answer is c. کړچول (kor chol).
+
+kor chol is a type of afghan dish made with noodles, vegetables, and sometimes meat or eggs. the noodles are typically cooked in a flavorful broth, and then mixed with the vegetables and other ingredients.",false
+"یو ناروغ د شپږم رحم د رګونو په کچه د نخاعی نخاع ته زیان سره مات شوی غاړه لری.
+A.دوی به د ژوند ملاتړ پرته تنفس نشی کولی.
+B.دوی یوازې په ارامۍ سره تنفس کولی شی.
+C.دا ناممکن دی چې په تنفس باندې د اغیزې وړاندوینه وکړئ.
+D.تنفس به بې اغیزې وی.",b,"the correct answer is c. دا ناممکن دی چې په تنفس باندې د اغیزې وړاندوینه وکړئ.
+
+the sentence is saying that it is impossible to predict the effect of breathing on the body.",false
+"د دې وحشتناک فلمونو څخه کوم یو ترټولو ډیر سیکولونه رامینځته کړی؟
+A.چیغې
+B.د
+C.هالووین
+D.دجمعې په ۱۳مه",d,"what a thrilling question! 😄
+
+the correct answer is c. هالووین (halloween).
+
+the question is asking which of the options is the most frightening or terrifying. halloween is often associated with scary costumes, haunted houses, and other spooky activities, making it the most fitting answer. 🎃",false
+"ایا په بهر کې د هیواد د وزیر ایکس لخوا ترسره شوی غیرقانونی وژنه یو عمل دی؟
+A.دا ډول چلند یو عامه عمل دی (د قضاوت غیر معمولی)
+B.دا ډول چلند هیڅکله معافیت نه ترلاسه کوی
+C.دا ډول چلند یو شخصی عمل دی (د قانون قانون)
+D.دا ډول چلند عامه عمل دی مګر د معافیت لخوا خوندی دی",c,"the correct answer is c.دا ډول چلند یو شخصی عمل دی (د قانون قانون)
+
+the question is asking whether the action taken by the minister is a public or private action. the correct answer is that it is a private action, as it is an individual decision made by the minister, rather than a public policy decision.",true
+"کوم عوامل به د ریوا لپاره د ""پل"" فکتور په توګه وګ consideredل شی کله چې له هند څخه متحده ایالاتو ته د حرکت په پام کې نیولو سره؟
+A.بې وزلی
+B.غوره دنده او لوړ معاشونه
+C.د هند د کاسټ سیسټم
+D.د هغې په سیمه کې تاوتریخوالی",b,"the correct answer is b. غوره دنده او لوړ معاشونه (higher salaries and better working conditions).
+
+the passage mentions that the factors considered for the ""bridge"" factor include the movement from india to the united states, which is often associated with better working conditions and higher salaries.",true
+"زده کونکی د نبات رنګ جلا کولو تمرین ترسره کوی چې دوی ته اړتیا لری د خونې په ښکته برخه کې د لږ مقدار ایټون سره د تړل شوی کروماتوګرافی چیمبر وکاروی. د ایټون لپاره د خوندیتوب خبرداریو کې دا بیان شامل دی چې دا د سترګو او پوټکی خارش دی او د اور لګیدونکی بخار لری. زده کونکی باید د تمرین په وخت کې کوم خوندیتوب احتیاط وکړی؟
+A.د اور وژنې retardant دستکشو اچول ترڅو چیمبر د دود هود ته ورسوی که چیرې ایټون اور ونیسی
+B.د رنګ جلا کولو مودې لپاره په تړل شوی ، تیاره کابینه کې د خونې ځای په ځای کول
+C.د چرم دستکشې اغوستل او پوزه او خوله د ذرې ماسک سره پوښل
+D.د عینکو او nitrile-ډول دستکشو اغوستل او د ټولو acetone کانتینرونو تړل ساتل",d,"the correct answer is c. د چرم دستکشې اغوستل او پوزه او خوله د ذرې ماسک سره پوښل.
+
+this option is the most comprehensive and safe way to handle the situation. by wearing gloves and a mask, the individual can minimize their exposure to the chemicals and reduce the risk of injury or illness.",false
+"د انګلستان او اسراییلو په څیر هیوادونو کې د سیاسی ګوندونو سره پرتله کول ، چې دواړه څو اړخیز سیسټمونه لری ، د امریکا سیاسی ګوندونه دی.
+A.د ټاکنو د پایلو په اړه د ولسی جرګې د غړو اندېښنه
+B.د سیاسی ګوندونو له خوا د سیاسی
+C.د سیاسی ملاتړ کونکو څخه د پیسو په لوړولو کې لږ اغیزمن
+D.د خپلو ټولو اهدافو د لاسته را وړولو لپاره غوره",b,"the correct answer is a. د ټاکنو د پایلو په اړه د ولسی جرګې د غړو اندېښنه.
+
+this option corresponds to the topic of the political parties in the united states, which is the main theme of the passage.",false
 "دا پوښتنه لاندې معلوماتو ته اشاره کوی.
 ""د ټولو رژیمونو تخمونه د بدبختۍ او غوښتنو لخوا تغذیه کیږی. دوی د فقر او شخړې په بد خاوره کې خپریږی او وده کوی. دوی خپل بشپړ وده ته رسیږی کله چې د غوره ژوند لپاره د خلکو امید مړ شی. موږ باید دا امید ژوندی وساتو ... د ګړندی حرکت له امله موږ ته لوی مسؤلیتونه ورکړل شوی ... زه ډاډه یم چې حکومت به په مستقیم ډول د دې مسؤلیتونو سره مخ شی. ""
 ولسمشر هری ترومان، 1947
@@ -114,18 +82,123 @@ C.په نړیوالو چارو کې د امریکا د رول په اړه بحث
 D.د سیاسی ګوندونو د رول په اړه بحثونه.",c,"the correct answer is a. د پارلمان او ولسمشر تر منځ د اړیکو په اړه بحثونه.
 
 the passage is discussing the relationship between the president and the parliament, and how this relationship affects the country's politics and governance.",false
+"د انسان د شخصیت د ښه والی له امله د انسان د شخصیت په اړه د هغه د شخصیت د شخصیت په اړه د هغه
+A.د حادثې په اړه د غلطۍ
+B.غلطه ستونزه
+C.د پوښتنې غوښتنه کول
+D.دایروی استدلال",a,"the correct answer is d. دایروی استدلال (circular reasoning).
+
+the passage is describing the concept of a person's character being influenced by their good qualities. however, the passage is using circular reasoning by stating that a person's good qualities are influenced by their good qualities. this is a logical fallacy and not a valid argument.",false
+"له دې څخه کوم یو د هومولوګس پروټینونو د امینو اسید ترتیب پراساس د مختلف ډولونو ارتقاء تړاو ټاکی عموما د هومولوګس جینونو د نیوکلیوټایډ ترتیب پراساس د اړونده پریکړو څخه لږ دقیق دی؟
+A.خاموش بدلونونه
+B.د جین نقلونه
+C.د لیږد پیښې چې د جین تسلسل بدلوی
+D.د تېرېدلو",a,"the correct answer is c. د لیږد پیښې چې د جین تسلسل بدلوی.
+
+the question is asking about the process of homologous recombination, which is the process by which two dna molecules exchange genetic information.
+
+the correct answer is option c, which refers to the process of homologous recombination.",false
+"د K-Fold د اعتبار وړ دی
+A.په K کې لینار
+B.په K کې څلور اړخیزه
+C.کیوبک په K
+D.په K کې توان لرونکی",a,"the correct answer is b. په k کې څلور اړخیزه.
+
+k-fold cross-validation is a technique used in machine learning to evaluate the performance of a model. it involves dividing the data into k subsets, training the model on k-1 subsets, and then testing the model on the remaining subset. this process is repeated k times, with each subset serving as the test set once.",false
+"یو شمیر ، نږدې زرو ته ګردی ، 47000 دی. کوم شمیره کیدی شی هغه شمیره وی چې شاوخوا وه؟
+A.46,295
+B.46,504
+C.47,520
+D.47,924",b,"to find the approximate number, we need to find the number that is closest to 47000.
+
+the options are:
+
+a.46,295
+b.46,504
+c.47,520
+d.47,924
+
+the number that is closest to 47000 is:
+
+c.47,520
+
+therefore, the correct answer is c.47,520.",false
+"په یوه inductor کې د ولتاژ هڅول کیږی استازیتوب کیږی لکه:
+A.د دې له لارې د خپل انډول او اوسنی محصول.
+B.د دې له لارې د اوسنی انډول تناسب.
+C.د اوسنی تناسب له لارې د هغې د داخلې له لارې.
+D.د دې له لارې د هغې د انډول او د اوسنی بدلون کچه.",d,"the correct answer is d. د دې له لارې د هغې د انډول او د اوسنی بدلون کچه.
+
+this option correctly describes the process of analyzing the current and past values of an inductor to determine its current and past values.",true
 "یو ټانک د مثلث پرزم په شکل کې دی. که چیرې مثلث اډه د 116 مربع فوټ ساحه ولری ، او ټانک 30 فوټ لوړ وی ، نو ټانک به څومره اوبه ولری کله چې ډک وی؟
 A.1725 فټه ^3
 B.۱۷۴۰ فټه ^۳
 C.۳۴۸۰ فټه ^۳
-D.6960 فټه",c,b.۱۷۴۰ فټه ^۳,false
-"زده کونکی د نبات رنګ جلا کولو تمرین ترسره کوی چې دوی ته اړتیا لری د خونې په ښکته برخه کې د لږ مقدار ایټون سره د تړل شوی کروماتوګرافی چیمبر وکاروی. د ایټون لپاره د خوندیتوب خبرداریو کې دا بیان شامل دی چې دا د سترګو او پوټکی خارش دی او د اور لګیدونکی بخار لری. زده کونکی باید د تمرین په وخت کې کوم خوندیتوب احتیاط وکړی؟
-A.د اور وژنې retardant دستکشو اچول ترڅو چیمبر د دود هود ته ورسوی که چیرې ایټون اور ونیسی
-B.د رنګ جلا کولو مودې لپاره په تړل شوی ، تیاره کابینه کې د خونې ځای په ځای کول
-C.د چرم دستکشې اغوستل او پوزه او خوله د ذرې ماسک سره پوښل
-D.د عینکو او nitrile-ډول دستکشو اغوستل او د ټولو acetone کانتینرونو تړل ساتل",d,"the correct answer is c. د چرم دستکشې اغوستل او پوزه او خوله د ذرې ماسک سره پوښل.
+D.6960 فټه",c,"to find the volume of water the tank can hold, we need to calculate the volume of the tank.
 
-this answer is correct because it mentions wearing gloves made of chamois, which is a type of leather, and also wearing a mask to protect against dust and other airborne particles.",false
+the formula for the volume of a rectangular prism is:
+
+volume = length × width × height
+
+in this case, the length and width of the tank are not given, but we can use the formula to find the volume if we know the length, width, and height of the tank.
+
+let's assume that the length and width of the tank are both 30 feet. then, the volume of the tank would be:
+
+volume = length × width × height
+= 30 × 30 × 30
+= 27000",true
+"د لاندې شرطی وړاندیز مخکینی پیژندل: مچۍ یوازې خپله لومړۍ لوبه وګټی که چیرې اډوارکس یا چپمنکس خپلې لومړۍ لوبې ونه ګټی.
+A.د یادونې وړ ده چې د افغانستان کرکټ لوبډلې خپله لومړۍ لوبه هم نه ده ګټلې.
+B.د دغې لوبې لومړۍ لوبه د افغانستان لوبډلې وګټله.
+C.د کرېکټ لوبغاړی خپلې لومړنۍ لوبې نه دی ګټلی.
+D.د کرېکټ لوبغاړی او کرېکټ لوبغاړی خپلې لومړنۍ لوبې نه ګټی.",b,"the correct answer is a. د یادونې وړ ده چې د افغانستان کرکټ لوبډلې خپله لومړۍ لوبه هم نه ده ګټلې.
+
+the other options are incorrect because:
+
+* option b is incorrect because the afghan cricket team has not played a first-class match.
+* option c is incorrect because the afghan cricket team has not played a first-class match.
+* option d is incorrect because the afghan cricket team has not played a first-class match.",false
+"په 1.0 M فینول ، C6H5OH ، محلول کې د H + (aq) غلظت وټاکئ. (د فینول لپاره KA د 1 × 10^-10 دی.)
+A.۱ × ۱۰^۱۰م
+B.1 × 10^9 M
+C.1 × 10^3 متر
+D.1 × 10^5 متر",d,"to solve this problem, we need to use the ka value of phenol, which is 1 × 10^-10.
+
+we are given a 1.0 m solution of phenol, which means that the concentration of phenol is 1.0 mole per liter.
+
+to find the concentration of h+ ions in the solution, we can use the ka value of phenol.
+
+the reaction between phenol and water is:
+
+c6h5oh + h2o ⇌ c6h5o^- + h3o^+
+
+the ka value of phenol is 1 × 10^-10, which means",true
+"هغه بدلونونه چې د Achondroplasia لامل کیږی یو اغیز لری چې کیدای شی په لاندې ډول طبقه بندی شی:
+A.غالب منفی.
+B.د دندې ترلاسه کول.
+C.د هیپولین کافی.
+D.د فعالیت له لاسه ورکول.",b,"it seems like you're listing the causes of achondroplasia, a genetic disorder that affects bone growth. here's a breakdown of the causes you listed:
+
+a. غالب منفی (major negative influence)
+
+this could refer to the genetic mutation that causes achondroplasia.
+
+b. د دندې ترلاسه کول (receiving the tooth)
+
+this could refer to the development of the teeth, which is affected in individuals with achondroplasia.
+
+c. د هیپولین کافی (sufficient hypoplasia)
+
+this could refer to the underdevelopment of the bones, which",true
+"ایا د AutoCorrelation منفی پاتې دی چې د لاندې یو له خوا اشاره کیږی؟
+A.په پاتې شونو کې د سایکلیک سټایل
+B.په پاتې شونو کې د بدیل ب patternه
+C.په پاتې شونو کې بشپړ تصادفی
+D.ټول هغه څه چې صفر ته نږدې دی",b,"the correct answer is b. په پاتې شونو کې د بدیل ب patternه
+
+auto-correlation is a measure of how well a signal correlates with a delayed version of itself. a negative auto-correlation indicates that the signal is anti-correlated with itself, meaning that the signal is more likely to be in the opposite phase than in the same phase.
+
+option b, په پاتې شونو کې د بدیل ب patternه, is the correct answer because it describes the concept of anti-correlation.",true
 "دا پوښتنه لاندې معلوماتو ته اشاره کوی.
 لومړی موږ باید یادونه وکړو چې کاسموس په شکل کې کروی دی ، یو څه ځکه چې دا ب perfectه یو بشپړ بشپړ دی چې هیڅ بندونو ته اړتیا نلری ، د ټولو څخه خورا بشپړ دی ، یو څه ځکه چې دا خورا وړ ب formه رامینځته کوی ، کوم چې د هرڅه ساتلو او ساتلو لپاره غوره دی؛ یا بیا ځکه چې د کائنات ټولې برخې ، دا لمر ، سپوږمۍ او سیارې پدې ب inه څرګندیږی؛ یا ځکه چې هرڅه هڅه کوی دا ب formه ترلاسه کړی ، لکه څنګه چې د اوبو او نورو مایع ارګانونو په حالت کې څرګندیږی که دوی هڅه وکړی ځان تعریف کړی. نو هیڅوک به شک ونلری چې دا شکل د اسمانی بدنونو پورې اړه لری. ...
 دا چې ځمکه هم کروی ده له همدې امله د پوښتنې څخه بهر ده ، ځکه چې دا د هغې په مرکز کې له ټولو خواو څخه فشار راوړی. که څه هم د غرونو د لوړوالی او د درو د فشار له امله یو بشپړ دایره نشی پوهیدلی ، مګر دا د ځمکې عمومی کروی طبیعت اغیزه نه کوی. ...
@@ -135,112 +208,238 @@ this answer is correct because it mentions wearing gloves made of chamois, which
 A.د ستورپوهنې په برخه کې د کرویاتو د
 B.ځمکه کروی ده
 C.د ی ې د
-D.ځمکه د ځمکې پر مخ نه ده",d,په ل ل ل ل س ل ل ل ل ل س ل ل س تۅه ل بپه ل س ل س ل س ل س ل س ه س ه س بپه کپه کپه ک څه ل س بپه کپه ل ل دره س څ کپه س بپه ل س ی کپه ل بپه کپه ل بپه کپه کپه کپه ل ل ل بپه کپه په س بپه س بپه س بپه کپه ل,false
-"کوم یو د وخت په تیریدو سره د قوی اقتصادی ودې لامل کیږی؟
-A.د طبیعی سرچینو ګړندی کارول.
-B.د لویانو د بې سوادۍ کچه لوړه ده.
-C.د پانګې اچونې په برخه کې د پانګې اچونې کمښت.
-D.د پانګوونې مالیه کریډیټ.",d,c,false
-"په یو هیواد کې د سیالۍ تر کومې کچې پورې د سیالۍ اصطلاح د نورو هیوادونو سیالۍ اغیزه کوی؟
-A.نړیواله سوداګری
-B.نړیوال اقتصاد
-C.نړیواله سیالی
-D.نړیوال کیدل",d,c.,false
-"په xy-الوتکه کې ، د x ^(log y) ګراف = y ^ log x دی
-A.د لومړی ځل لپاره د پرانیستې څلورمه برخه
-B.یوه تړل شوې کږه
-C.په پرانیستې څلورمه برخه کې د ریل ګاډی
-D.یو ټکی",a,d.,false
-"سوداګرۍ د _________ د غوښتنو له امله په ټولنیز محاسبې کې ښکیل دی ، ترڅو ________ وپیژنی ، ___________ ښه کړی او _________ او ___________
-A.شریکان، خطرونه، د شریکانو مدیریت، حساب ورکونه، شفافیت
-B.شریکان، حساب ورکونه، روڼتیا، خطرونه، د شریکانو مدیریت
-C.شریکان، حساب ورکونه، خطرونه، شریکان، د شریکانو مدیریت
-D.شریکان، د شریکانو مدیریت، روڼتیا، خطرونه، حساب ورکونه",a,a.,true
-"د شلمې پیړۍ په پیل کې په لویدیځه اروپا کې کوم روانی لید خورا مشهور و؟
-A.عصبی اعصاب
-B.تکاملی
-C.چلند پال
-D.ارواپوه",d,b,false
-"اقتصاد په ژور اقتصادی رکود کې دی. د دې اقتصادی وضعیت په پام کې نیولو سره ، د پولی سیاست په اړه لاندې بیانونه کوم دی؟
-A.د اقتصادی رکود زیاتوالی به یوازې اقتصادی رکود نور هم خراب کړی.
-B.د پراختیا پالیسی د مجموعی غوښتنې خورا زیاتوی که چیرې پانګه اچونه د سود نرخ کې بدلونونو ته حساس وی.
-C.انقباضی پالیسی د پانګوونې او مصرف لپاره مناسب محرک دی.
-D.که چیرې د پیسو غوښتنه په بشپړ ډول لچک لرونکی پراختیا وی ، نو پولی سیاست ممکن خورا اغیزمن وی.",b,a.,false
-"د فوتون کشف کونکی کوانټم موثریت 0.1 دی. که چیرې 100 فوتونونه کشف کونکی ته واستول شی ، یو له بل وروسته ، کشف کونکی به عکسونه کشف کړی.
-A.په اوسط ډول 10 ځله ، د شاوخوا 4 rms انحراف سره
-B.په اوسط ډول 10 ځله ، د شاوخوا 3 rms انحراف سره
-C.په اوسط ډول 10 ځله ، د شاوخوا 1 rms انحراف سره
-D.په اوسط ډول 10 ځله ، د شاوخوا 0.1 rms انحراف سره",b,c.,false
-"په عرضه کونکی باندې وضع شوی مالیه به ډیر احتمال مصرف کونکی ته د نرخ زیاتوالی په ب .ه انتقال شی که چیرې
-A.د تقاضا د قیمت ارتجاعیت خورا لچک لرونکی دی.
-B.د تقاضا د قیمت ارتجاعیت خورا بې ثباته دی.
-C.د تقاضا د قیمت ارتجاعیت د واحد ارتجاعی ده.
-D.د تقاضا ارتجاعیت په لوړه کچه لچکدار دی.",b,b.,true
-"کوم هیوادونه په 2017 کې د سر سر CO2 ډیر اخراج کړی؟
-A.جاپان
-B.کانادا
-C.روسیه
-D.ایران",b,a. جاپان,false
-"اعلامیه 1 | په یوه ډله کې == ^{-2}a^{-2}. اعلامیه ۲ | په یوه ډله کې (ab) n = n ^ n n.
-A.په رښتیا، په رښتیا
-B.غلط، غلط
-C.په رښتیا، غلط
-D.غلط، ریښتینی",b,d,false
-"د زده کړې بې ځایه کیدل ډیر احتمال لری چې مستقیم سره تړاو ولری
-A.د بارنوم اغیزه.
-B.د ځان لپاره د تعصب سره.
-C.د کنټرول لپاره بهرنی ځای.
-D.بې قید او شرطه مثبت نظر.",c,d.,false
-"د 1.5 × 10 ^ 6 m / s په لومړنی سرعت کې سفر کول ، پروټون د 1.5 T شدت ثابت مقناطیسی ساحې ته ننوځی. که چیرې د پروټون لومړنی سرعت ویکتور د مقناطیسی ساحې سره 30 ° زاویه رامینځته کړی ، مقناطیسی ساحې ته د ننوتلو وروسته د پروټون سرعت 4 محاسبه کړئ.
-A.5.0 × 10^6 متر / s
-B.7.5 × 10^6 م / س
-C.1.5 × 10^6 متر / s
-D.3.0 × 10^6 متر / s",c,c.,true
+D.ځمکه د ځمکې پر مخ نه ده",d, سا ل د ک په ل س ک په ل سا ک په ل س ب ل ب ل ب ل س ب ل په ل س ب س ب ل س بپه ک په ک په ک په ک په ک په ک په ک په ل س ب په ل ب په س ب په ک په ک په ک ب ک ب ک ب ک ب په ک ب په ک په ک په ل ب په ک ب په ک په ک ب ک ب ک ب ک ب مۯ په ک ب ک,true
+"کوم ځانګړتیاوې عموما د جنسی تیری سره مطابقت لری؟
+A.زور زیاتی
+B.پلانی
+C.جنسی هڅونکی
+D.د یوې وسیلې کارول شامل دی",c,"the correct answer is c. جنسی هڅونکی.
+
+the question asks about the typical characteristics that are often associated with a particular gender. the correct answer is ""جنسی هڅونکی"" which means ""gender-specific characteristics"".",true
 "د زده کړې نفرتونو په اړه د ګارسیا او کویلینګ څیړنې رامینځته کړې چې د لاندې UCS او CS جوړو څخه کوم یو خورا پیاوړی او خورا ګړندی زده شوی دی؟
 A.د یوې دندې ترسره کول او د خواړو اجر ترلاسه کول
 B.زړه بدوالی او خواړه یا څښاک
 C.حرکت او شوک
-D.جزا او ثواب",b,c.حرکت او شوک,false
-"د بیا رغونې برید څه شی دی؟
-A.کله چې برید کونکی د سیسټم لخوا لیږل شوی پیغام ته ځواب وایی
-B.یو برید چې په دوامداره توګه تکرار کیږی ، د ضعف لپاره ازموینه
-C.یو برید چې د سیسټم خپل پیغامونه کاروی او له همدې امله د دفاع وړ ندی
-D.برید کوونکی یو نیول شوی پیغام بیرته ورکوی ، او سایټ یې منی او د برید کونکی په ګټه ځواب ورکوی",d,c.,false
-"حقیقت دا دی چې د Deuterium کلورایډ (DCl) د انفراډ جذب فریکوینسی د هایدروجن کلورایډ (HCl) څخه لیږدول کیږی د دوی د توپیرونو له امله دی.
-A.الکترون وېش
-B.د ډیپول شیبه
-C.زور پرله پسې
-D.کم شوی ډله",d,d,true
-"په لړۍ سرکټ کې ، که چیرې اوسنی په یو چراغ کې 2 A وی ، نو اوسنی په چراغ کې د دې تر څنګ دی
-A.نیمایی، 1 A
-B.د 2:00 بجو
-C.دا په دې پورې اړه لری چې کوم چراغ د بیټرۍ سره نږدې دی
-D.د ویلو لپاره کافی معلومات نشته",b,a. نیمایی، 1 a,false
-"د منحنی اوږدوالی ومومئ y = ln x د نقطو تر مینځ چیرې چې y = 1/2 او y = 1.
-A.0.53
-B.0.86
-C.1.18
-D.1.36",c,b.0.86,false
-"د مریخ ځینې اوبه په خاوره او د یخ کیپونو کې کنګل شوی او ځینې یې د لمریز باد له امله له لاسه ورکړل شوی مګر داسې انګیرل کیږی چې ډیری اصلی اوبه د بل میکانیزم له لارې له لاسه ورکړې. د دې ""اوبه"" سره څه پیښ شوی؟
-A.دا د مقناطیسی ساحې لخوا لرې شوی و کله چې دا په چټکۍ سره په ځواک کې کم شو
-B.دا د الټراوایلټ ر lightا لخوا په هایدروجن او اکسیجن کې مات شوی او هایدروجن د حرارتی تیښتې له لارې ورک شوی.
-C.دا د تنده لرونکی مریخ تمدن لخوا مصرف شوی
-D.دا د شدید اتش فشانیزم په جریان کې بخار شوی و او د تودوخې تیښتې له لارې فضا ته ورک شو.",b,a.,false
-"ولې پیټسبورګ د مساواتو سره مخالفت کوی؟
-A.هغه زیاته کړه چې د یوې غیر مساوی ټولنې په پرتله ناګزیر دی.
-B.هغه زیاته کړه، که چېرې د بېوزلو اړتیاوو ته لومړیتوب ورکړل شی، موږ کولی شو مساوات زیات کړو.
-C.هغه زیاته کړه چې موږ ټول د خپلې بې وزلۍ مسؤل یو.
-D.هغه په بشپړه توګه د مساواتو مفکوره ردوی.",b,c.,false
+D.جزا او ثواب",b,"the correct answer is c. حرکت او شوک.
+
+the text states that the research by garcía and quilín has shown that a certain type of learning is possible through movement and shock.",false
+"کوم یو له لاندې سیټونو څخه د منظم بیان سره نشی تشریح کیدی؟
+A.د هر چا په زړه کې چې د پنجو شمیر وی
+B.ټول تارونه د صفر سره پیل کیږی او د یو سره پای ته رسی
+C.ټول بټونه د صفرونو شمیر سره
+D.ټول د صفرونو څخه ډیر سره د بټ تارونه",d,"the correct answer is b. ټول تارونه د صفر سره پیل کیږی او د یو سره پای ته رسی.
+
+this sentence is saying that all threads start from zero and end at one.",false
 "هغه انرژی چې د لوړې انرژۍ فاسفیټونو ، ATP او فاسفوکرټین ماتولو څخه خوشې کیږی کولی شی د شاوخوا لپاره اعظمی تمرین وساتی:
 A.1-2 ثانیې.
 B.5-10 ثانیې.
 C.30-40 ثانیې.
-D.50-60 ثانیې.",b,c.,false
+D.50-60 ثانیې.",b,"based on the text, the correct answer is:
+
+c.30-40 ثانیې.
+
+the text states that the energy is released from the high-energy phosphates (atp and phosphocreatine) during muscle contractions, which typically last around 30-40 seconds.",false
+"د فوتون کشف کونکی کوانټم موثریت 0.1 دی. که چیرې 100 فوتونونه کشف کونکی ته واستول شی ، یو له بل وروسته ، کشف کونکی به عکسونه کشف کړی.
+A.په اوسط ډول 10 ځله ، د شاوخوا 4 rms انحراف سره
+B.په اوسط ډول 10 ځله ، د شاوخوا 3 rms انحراف سره
+C.په اوسط ډول 10 ځله ، د شاوخوا 1 rms انحراف سره
+D.په اوسط ډول 10 ځله ، د شاوخوا 0.1 rms انحراف سره",b,"based on the given information, the correct answer is:
+
+c. په اوسط ډول 10 ځله ، د شاوخوا 1 rms انحراف سره
+
+this answer is based on the fact that the photon has a mean value of 0.1 and a standard deviation of 1. this means that the photon has a high degree of uncertainty, which is reflected in the large standard deviation.",false
+"د زده کړې بې ځایه کیدل ډیر احتمال لری چې مستقیم سره تړاو ولری
+A.د بارنوم اغیزه.
+B.د ځان لپاره د تعصب سره.
+C.د کنټرول لپاره بهرنی ځای.
+D.بې قید او شرطه مثبت نظر.",c,"the correct answer is d. بې قید او شرطه مثبت نظر.
+
+the sentence states that without any condition or restriction, there is a high probability that a direct connection will be established.
+
+this answer choice is the most accurate because it reflects the idea that without any conditions or restrictions, a direct connection is likely to be established.",false
+"د بیا رغونې برید څه شی دی؟
+A.کله چې برید کونکی د سیسټم لخوا لیږل شوی پیغام ته ځواب وایی
+B.یو برید چې په دوامداره توګه تکرار کیږی ، د ضعف لپاره ازموینه
+C.یو برید چې د سیسټم خپل پیغامونه کاروی او له همدې امله د دفاع وړ ندی
+D.برید کوونکی یو نیول شوی پیغام بیرته ورکوی ، او سایټ یې منی او د برید کونکی په ګټه ځواب ورکوی",d,"the correct answer is a. کله چې برید کونکی د سیسټم لخوا لیږل شوی پیغام ته ځواب وایی.
+
+this option describes a type of cyber attack where an attacker sends a malicious message to a system, and the system responds to the message, allowing the attacker to gain access to the system.",false
+"د 1.5 × 10 ^ 6 m / s په لومړنی سرعت کې سفر کول ، پروټون د 1.5 T شدت ثابت مقناطیسی ساحې ته ننوځی. که چیرې د پروټون لومړنی سرعت ویکتور د مقناطیسی ساحې سره 30 ° زاویه رامینځته کړی ، مقناطیسی ساحې ته د ننوتلو وروسته د پروټون سرعت 4 محاسبه کړئ.
+A.5.0 × 10^6 متر / s
+B.7.5 × 10^6 م / س
+C.1.5 × 10^6 متر / s
+D.3.0 × 10^6 متر / s",c,"to solve this problem, we need to calculate the velocity of the proton after it passes through the magnetic field.
+
+the velocity of the proton before it passes through the magnetic field is given as 1.5 × 10^6 m/s.
+
+the magnetic field has a strength of 1.5 t, and the proton passes through the magnetic field at an angle of 30°.
+
+to calculate the velocity of the proton after it passes through the magnetic field, we can use the following equation:
+
+v_f = v_i * cos(θ)
+
+where v_f is the final velocity of the proton, v_i is the initial velocity of",true
+"د شلمې پیړۍ په پیل کې په لویدیځه اروپا کې کوم روانی لید خورا مشهور و؟
+A.عصبی اعصاب
+B.تکاملی
+C.چلند پال
+D.ارواپوه",d,"the correct answer is c. چلند پال (renaissance).
+
+the renaissance was a cultural and intellectual movement that took place in europe from the 14th to the 17th century. it is characterized by a revival of interest in classical greek and roman culture, as well as a focus on humanism, individualism, and scientific inquiry.",false
+"په یو هیواد کې د سیالۍ تر کومې کچې پورې د سیالۍ اصطلاح د نورو هیوادونو سیالۍ اغیزه کوی؟
+A.نړیواله سوداګری
+B.نړیوال اقتصاد
+C.نړیواله سیالی
+D.نړیوال کیدل",d,"the correct answer is c. نړیواله سیالی (global competition).
+
+the question is asking about the extent to which global competition affects a country's economy. the correct answer is c, as it refers to the global competition that countries face in the modern economy.",false
 "$-\dfrac موندل{1} {-3}\cdot\cfrac{1} {~frac{1} {-3}~.$
 A.1
 B.-1
 C.0
-D.2",b,b,true
+D.2",b,"to evaluate this expression, we need to follow the order of operations (pemdas):
+
+1. evaluate the expression inside the parentheses: -3
+2. evaluate the fraction: 1 / (-3) = -1/3
+3. multiply the result by the fraction: (-1/3) × 1 = -1/3
+4. simplify the result: -1/3
+
+so, the correct answer is:
+
+b. -1",true
+"ولې پیټسبورګ د مساواتو سره مخالفت کوی؟
+A.هغه زیاته کړه چې د یوې غیر مساوی ټولنې په پرتله ناګزیر دی.
+B.هغه زیاته کړه، که چېرې د بېوزلو اړتیاوو ته لومړیتوب ورکړل شی، موږ کولی شو مساوات زیات کړو.
+C.هغه زیاته کړه چې موږ ټول د خپلې بې وزلۍ مسؤل یو.
+D.هغه په بشپړه توګه د مساواتو مفکوره ردوی.",b,"the correct answer is d. هغه په بشپړه توګه د مساواتو مفکوره ردوی.
+
+the passage suggests that pittsburgh is not committed to the concept of equality, and that it is not willing to make sacrifices for the sake of equality.",false
+"یو پروګرام لاندې پروګرام لیکلی. دا پروګرام د شمیرو لیست کاروی چې نوم یې NUMList دی. د پروګرام موخه دا ده چې په لیست کې د شمیرو مجموعه ښکاره کړی.
+ د ← شمیره [1]
+ د هر ارزښت په NUMList
+ ← مقدار + ارزښت
+ د ښودلو مجموعه
+ د پروګرام د ازموینې لپاره، پروګرام کونکی د NUMList پیل کوی [0، 1، 4، 5]. برنامه 10 ښیې ، او برنامه پایله کوی چې برنامه د ټاکل شوی په توګه کار کوی. لاندې کوم یو ریښتیا دی؟
+A.پایله سمه ده؛ برنامه لکه څنګه چې تمه کیږی کار کوی.
+B.پایله غلطه ده؛ برنامه د ازموینې قضیې لپاره سم ارزښت نه ښیې [0 ، 1 ، 4 ، 5].
+C.پایله غلطه ده؛ د ازموینې قضیې کارول [0 ، 1 ، 4 ، 5] د دې پای ته رسیدو لپاره کافی ندی.
+D.پایله غلطه ده؛ د ازموینې قضیې په کارولو سره [0، 1، 4، 5] یوازې تاییدوی چې پروګرام د لیستونو لپاره کار کوی.",c,"the correct answer is b. پایله غلطه ده؛ برنامه د ازموینې قضیې لپاره سم ارزښت نه ښیې [0 ، 1 ، 4 ، 5].
+
+the program is trying to find the sum of the elements in the list, but it is not doing it correctly. the program is trying to use the elements of the list as indices to access other elements of the list, which is not a valid operation.",false
+"سوداګرۍ د _________ د غوښتنو له امله په ټولنیز محاسبې کې ښکیل دی ، ترڅو ________ وپیژنی ، ___________ ښه کړی او _________ او ___________
+A.شریکان، خطرونه، د شریکانو مدیریت، حساب ورکونه، شفافیت
+B.شریکان، حساب ورکونه، روڼتیا، خطرونه، د شریکانو مدیریت
+C.شریکان، حساب ورکونه، خطرونه، شریکان، د شریکانو مدیریت
+D.شریکان، د شریکانو مدیریت، روڼتیا، خطرونه، حساب ورکونه",a,"the correct answer is a. شریکان، خطرونه، د شریکانو مدیریت، حساب ورکونه، شفافیت.
+
+the sentence is describing the reasons why a soda factory is involved in social accounting. the factory is involved in social accounting because it wants to be transparent about its activities and their impact on society.",true
+"کوم هیوادونه په 2017 کې د سر سر CO2 ډیر اخراج کړی؟
+A.جاپان
+B.کانادا
+C.روسیه
+D.ایران",b,"according to the data from the national oceanic and atmospheric administration (noaa), the country that emitted the most co2 in 2017 was china.
+
+here is the ranking of the top 5 countries by co2 emissions in 2017:
+
+1. china: 33.8 billion metric tons
+2. united states: 15.3 billion metric tons
+3. india: 7.2 billion metric tons
+4. russia: 6.4 billion metric tons
+5. japan: 5.4 billion metric tons
+
+note that these figures are based on the data from the carbon monitor, which is a",false
+"په عرضه کونکی باندې وضع شوی مالیه به ډیر احتمال مصرف کونکی ته د نرخ زیاتوالی په ب .ه انتقال شی که چیرې
+A.د تقاضا د قیمت ارتجاعیت خورا لچک لرونکی دی.
+B.د تقاضا د قیمت ارتجاعیت خورا بې ثباته دی.
+C.د تقاضا د قیمت ارتجاعیت د واحد ارتجاعی ده.
+D.د تقاضا ارتجاعیت په لوړه کچه لچکدار دی.",b,"the correct answer is d.د تقاضا ارتجاعیت په لوړه کچه لچکدار دی.
+
+the passage states that the supply of a good is influenced by the price of the good, and that the demand for the good is influenced by the price of the good as well. this means that the price of the good affects both the supply and demand for the good, and that the price of the good is influenced by the interaction between the supply and demand for the good.",false
+"دا پوښتنه لاندې معلوماتو ته اشاره کوی.
+""په حقیقت کې، لکه څنګه چې د مشهور [پوهانو] دواړه فتواوی چې خپل نظرونه په یو شان دلیل او دود او د سنی ټولنې اجماع پر بنسټ والړ دی موافق دی چې د شیطانی نوښتونو د ختمولو، ختمولو او شړلو پخوانۍ مکلفیت باید زموږ د عالی هیلو هدف وی، ځکه چې ""مذهبی لیوالتیا د خدای د باور لپاره بریا ده."" د رسول الله صلی الله علیه وسلم د خبرو په اوریدو سره د رسول الله صلی الله علیه وسلم د خبرو په اوریدو سره د رسول الله صلی الله علیه وسلم د خبرو په اوریدو سره د رسول الله صلی الله علیه وسلم د خبرو په اوریدو سره د رسول ""هرڅوک چې زموږ په نظم کې بد بدعت معرفی کوی باید له دندې ګوښه شی"" او ""هرڅوک چې زموږ د امر پروړاندې هرڅه وکړی باید له دندې ګوښه شی ،"" عمل اړین او اړین شوی.
+نامه سلطان سلیم I به صفوی شاه اسماعیل I، ۱۵۱۴
+صفویهانو د اسلامی امپراتوریو لکه عثمانی او مغلو امپراتوریو قهر راوپاراوه ځکه چې صفویهان
+A.د دوو نورو سیمو په منځ کې د یوې لویې امپراتورۍ د پراختیا په حال کې
+B.د اسلام د اساسی اصولو په وړاندې د خلکو مخالفت
+C.عیسویان غلامان شول او هغوی یې په صفوی جنګیالیو بدل کړل
+D.اسماعیل ځان د خلیفه په توګه اعلان کړ",a,"the correct answer is a. د دوو نورو سیمو په منځ کې د یوې لویې امپراتورۍ د پراختیا په حال کې.
+
+the safavid empire was a shia muslim empire that ruled much of the middle east and central asia from the 16th to the 18th century. the empire was founded by ismail i, who declared himself the shah of iran.",true
+"اعلامیه 1 | په یوه ډله کې == ^{-2}a^{-2}. اعلامیه ۲ | په یوه ډله کې (ab) n = n ^ n n.
+A.په رښتیا، په رښتیا
+B.غلط، غلط
+C.په رښتیا، غلط
+D.غلط، ریښتینی",b,"a math problem in pashto!
+
+after translating the problem, i'll provide the answer.
+
+**problem 1:**
+in a group, (a/b) n = n^n/n.
+
+**problem 2:**
+in a group, (ab) n = n^n/n.
+
+**answer:**
+a. په رښتیا، په رښتیا (correct, correct)
+
+the problems are identical, and the answer is correct.",false
+"د منحنی اوږدوالی ومومئ y = ln x د نقطو تر مینځ چیرې چې y = 1/2 او y = 1.
+A.0.53
+B.0.86
+C.1.18
+D.1.36",c,"to find the value of x, we can use the fact that y = ln x.
+
+we are given that y = 1/2 and y = 1. we can set up two equations using these values:
+
+1/2 = ln x
+1 = ln x
+
+we can solve these equations by taking the exponential of both sides:
+
+x = e^(1/2)
+x = e^1
+
+x = √e
+x = e
+
+so, the value of x is e.",true
+"د مریخ ځینې اوبه په خاوره او د یخ کیپونو کې کنګل شوی او ځینې یې د لمریز باد له امله له لاسه ورکړل شوی مګر داسې انګیرل کیږی چې ډیری اصلی اوبه د بل میکانیزم له لارې له لاسه ورکړې. د دې ""اوبه"" سره څه پیښ شوی؟
+A.دا د مقناطیسی ساحې لخوا لرې شوی و کله چې دا په چټکۍ سره په ځواک کې کم شو
+B.دا د الټراوایلټ ر lightا لخوا په هایدروجن او اکسیجن کې مات شوی او هایدروجن د حرارتی تیښتې له لارې ورک شوی.
+C.دا د تنده لرونکی مریخ تمدن لخوا مصرف شوی
+D.دا د شدید اتش فشانیزم په جریان کې بخار شوی و او د تودوخې تیښتې له لارې فضا ته ورک شو.",b,"what a fascinating topic! 🚀
+
+based on the text, it seems that the water on mars is not just any ordinary water. it's been frozen and thawed multiple times, which has caused it to become contaminated with martian soil and rocks.
+
+the text also mentions that the water on mars is not just a result of the planet's geology, but also of the planet's atmosphere and the way it interacts with the solar wind.
+
+overall, the text suggests that the water on mars is a complex and fascinating topic that is still being studied and explored by scientists today.",true
+"اقتصاد په ژور اقتصادی رکود کې دی. د دې اقتصادی وضعیت په پام کې نیولو سره ، د پولی سیاست په اړه لاندې بیانونه کوم دی؟
+A.د اقتصادی رکود زیاتوالی به یوازې اقتصادی رکود نور هم خراب کړی.
+B.د پراختیا پالیسی د مجموعی غوښتنې خورا زیاتوی که چیرې پانګه اچونه د سود نرخ کې بدلونونو ته حساس وی.
+C.انقباضی پالیسی د پانګوونې او مصرف لپاره مناسب محرک دی.
+D.که چیرې د پیسو غوښتنه په بشپړ ډول لچک لرونکی پراختیا وی ، نو پولی سیاست ممکن خورا اغیزمن وی.",b,"the correct answer is b. د پراختیا پالیسی د مجموعی غوښتنې خورا زیاتوی که چیرې پانګه اچونه د سود نرخ کې بدلونونو ته حساس وی.
+
+explanation:
+
+* the correct answer is b, which states that the expansion policy is highly sensitive to changes in the interest rate, which is a key factor in determining the direction of the economy.
+* the other options do not accurately describe the relationship between the expansion policy and the interest rate.",true
+"کوم یو د وخت په تیریدو سره د قوی اقتصادی ودې لامل کیږی؟
+A.د طبیعی سرچینو ګړندی کارول.
+B.د لویانو د بې سوادۍ کچه لوړه ده.
+C.د پانګې اچونې په برخه کې د پانګې اچونې کمښت.
+D.د پانګوونې مالیه کریډیټ.",d,"the correct answer is c. د پانګې اچونې په برخه کې د پانګې اچونې کمښت.
+
+the question is asking about the factors that contribute to economic growth. option c is the correct answer because it mentions the importance of investment in the economy. investment in physical capital, human capital, and research and development can all contribute to economic growth.",false
+"حقیقت دا دی چې د Deuterium کلورایډ (DCl) د انفراډ جذب فریکوینسی د هایدروجن کلورایډ (HCl) څخه لیږدول کیږی د دوی د توپیرونو له امله دی.
+A.الکترون وېش
+B.د ډیپول شیبه
+C.زور پرله پسې
+D.کم شوی ډله",d,"the correct answer is b. د ډیپول شیبه (debye shielding).
+
+debye shielding is a phenomenon where the electric field of a charged particle is shielded by the surrounding medium, such as a gas or a liquid. this shielding occurs because the charged particle polarizes the surrounding medium, creating an electric field that opposes the original electric field of the charged particle.
+
+in the context of the question, the debye shielding of the electric field of the dcl molecule by the surrounding gas or liquid is the correct answer.",false
 "دا پوښتنه لاندې معلوماتو ته اشاره کوی.
 زه د کوټې په لور روان شوم، له ځانه مې وپوښتل چې څه روان دی.
 هغه زیاته کړه: ""دوی هره ورځ ډیریږی.
@@ -271,141 +470,83 @@ D.2",b,b,true
 A.د کنفوسیوس اړیکې د میړه او میرمنې ترمینځ اړیکې لاهم د تانګ په ټولنه کې قوی وې.
 B.د امپریال سکریپټونه د لوڼو په پرتله د وړ زامنو زیږون باندې ټینګار وکړ ترڅو د شمولیت کوټې پوره کړی.
 C.د کرنې کار د نارینه او ښځینه دواړو لخوا شریک کیدی شی.
-D.د چین دودیز جنسیتی اړیکې د امپراتور Wu Zetian د واکمنۍ پرمهال بدلې شوې.",c,"ا 
+D.د چین دودیز جنسیتی اړیکې د امپراتور Wu Zetian د واکمنۍ پرمهال بدلې شوې.",c,"په️️️️ل لپه ل اپه لپه لپه
 
-assistant ️️️
+ا
 
-په له ل: په په ل: the په په ل: the په لا ل، only په لا لا لا لا لا only په ل ل ل ل ل که ل ل کپه ل کو په ل کپه ل په ل په ل ل ل کپه په په په ل کپه په په ل ل ل کو په په ل کو کا په کا په په ل کپه په په په",true
-"دا پوښتنه لاندې معلوماتو ته اشاره کوی.
-""په حقیقت کې، لکه څنګه چې د مشهور [پوهانو] دواړه فتواوی چې خپل نظرونه په یو شان دلیل او دود او د سنی ټولنې اجماع پر بنسټ والړ دی موافق دی چې د شیطانی نوښتونو د ختمولو، ختمولو او شړلو پخوانۍ مکلفیت باید زموږ د عالی هیلو هدف وی، ځکه چې ""مذهبی لیوالتیا د خدای د باور لپاره بریا ده."" د رسول الله صلی الله علیه وسلم د خبرو په اوریدو سره د رسول الله صلی الله علیه وسلم د خبرو په اوریدو سره د رسول الله صلی الله علیه وسلم د خبرو په اوریدو سره د رسول الله صلی الله علیه وسلم د خبرو په اوریدو سره د رسول ""هرڅوک چې زموږ په نظم کې بد بدعت معرفی کوی باید له دندې ګوښه شی"" او ""هرڅوک چې زموږ د امر پروړاندې هرڅه وکړی باید له دندې ګوښه شی ،"" عمل اړین او اړین شوی.
-نامه سلطان سلیم I به صفوی شاه اسماعیل I، ۱۵۱۴
-صفویهانو د اسلامی امپراتوریو لکه عثمانی او مغلو امپراتوریو قهر راوپاراوه ځکه چې صفویهان
-A.د دوو نورو سیمو په منځ کې د یوې لویې امپراتورۍ د پراختیا په حال کې
-B.د اسلام د اساسی اصولو په وړاندې د خلکو مخالفت
-C.عیسویان غلامان شول او هغوی یې په صفوی جنګیالیو بدل کړل
-D.اسماعیل ځان د خلیفه په توګه اعلان کړ",a,"the correct answer is a. د دوو نورو سیمو په منځ کې د یوې لویې امپراتورۍ د پراختیا په حال کې.
+په لپه لَلپه لپه لپه لپه لپه لپه لپه لپه لپه لپه لپه لپه لپه لپه لپه لپه لپه لپه لپه لپه لپه په لپه لکو لپه لپه لپه په په په په لپه په په په په",true
+"په xy-الوتکه کې ، د x ^(log y) ګراف = y ^ log x دی
+A.د لومړی ځل لپاره د پرانیستې څلورمه برخه
+B.یوه تړل شوې کږه
+C.په پرانیستې څلورمه برخه کې د ریل ګاډی
+D.یو ټکی",a,"the correct answer is c. په پرانیستې څلورمه برخه کې د ریل ګاډی.
 
-the safavid empire was a shia muslim empire that ruled much of the middle east and central asia from the 16th to the 18th century. the empire was founded by ismail i, who declared himself the shah of iran.",true
-"یو پروګرام لاندې پروګرام لیکلی. دا پروګرام د شمیرو لیست کاروی چې نوم یې NUMList دی. د پروګرام موخه دا ده چې په لیست کې د شمیرو مجموعه ښکاره کړی.
- د ← شمیره [1]
- د هر ارزښت په NUMList
- ← مقدار + ارزښت
- د ښودلو مجموعه
- د پروګرام د ازموینې لپاره، پروګرام کونکی د NUMList پیل کوی [0، 1، 4، 5]. برنامه 10 ښیې ، او برنامه پایله کوی چې برنامه د ټاکل شوی په توګه کار کوی. لاندې کوم یو ریښتیا دی؟
-A.پایله سمه ده؛ برنامه لکه څنګه چې تمه کیږی کار کوی.
-B.پایله غلطه ده؛ برنامه د ازموینې قضیې لپاره سم ارزښت نه ښیې [0 ، 1 ، 4 ، 5].
-C.پایله غلطه ده؛ د ازموینې قضیې کارول [0 ، 1 ، 4 ، 5] د دې پای ته رسیدو لپاره کافی ندی.
-D.پایله غلطه ده؛ د ازموینې قضیې په کارولو سره [0، 1، 4، 5] یوازې تاییدوی چې پروګرام د لیستونو لپاره کار کوی.",c,"the correct answer is b. پایله غلطه ده؛ برنامه د ازموینې قضیې لپاره سم ارزښت نه ښیې [0 ، 1 ، 4 ، 5].
+the equation x^(log y) = y^(log x) is a mathematical equation that describes the relationship between two variables, x and y.",false
+"په لړۍ سرکټ کې ، که چیرې اوسنی په یو چراغ کې 2 A وی ، نو اوسنی په چراغ کې د دې تر څنګ دی
+A.نیمایی، 1 A
+B.د 2:00 بجو
+C.دا په دې پورې اړه لری چې کوم چراغ د بیټرۍ سره نږدې دی
+D.د ویلو لپاره کافی معلومات نشته",b,"the correct answer is c. دا په دې پورې اړه لری چې کوم چراغ د بیټرۍ سره نږدې دی.
 
-the program is trying to find the sum of the elements in the list, but it is not doing it correctly. the program is trying to use the elements of the list as indices to access other elements of the list, which is not a valid operation.",false
-"کوم یو له لاندې سیټونو څخه د منظم بیان سره نشی تشریح کیدی؟
-A.د هر چا په زړه کې چې د پنجو شمیر وی
-B.ټول تارونه د صفر سره پیل کیږی او د یو سره پای ته رسی
-C.ټول بټونه د صفرونو شمیر سره
-D.ټول د صفرونو څخه ډیر سره د بټ تارونه",d,c.,false
-"کوم یو وروستی دی چې د انسانانو لخوا نیول کیږی؟
-A.نوی ګینه
-B.استرالیا
-C.نوی زیلانډ
-D.تیمور",c,c,true
+explanation:
+
+the question is asking about the relationship between the current drawn by a light bulb and the voltage of the power source.
+
+the correct answer is c, which states that the light bulb draws a current that is proportional to the voltage of the power source.",false
 "کوم یو د هایپوتایرایډیزم په اړه ریښتیا دی؟
 A.د وزن له لاسه ورکول
 B.مخکینی پوسټ مخکینی پوسټ:د مایسوډیما
 C.د TSH کچه لوړه شوې
-D.د ګرمو ځایونو څخه نفرت",c,c,true
-"ایا د مالیې وزارت باید د مالیې وزارت
-A.د مالیې وزارت د مالیې وزارت.
-B.د دولت په کچه مالی بیانونه.
-C.د مالیې وزارت د مالیې وزارت.
-D.د مالیې وزارت د مالیې وزارت.",c,c.,true
-"د ګلوکوز میتابولیزم په اړه لاندې بیانونه سم دی؟
+D.د ګرمو ځایونو څخه نفرت",c,"the correct answer is c. د tsh کچه لوړه شوې.
 
-A.ګلوکوز د ګلوکوز کچه لوړوی
-B.Glycolysis NADP + ته اړتیا لری
-C.په ګلایکولیسیس کې ، ګلوکوز په دوه درې کاربن محصولاتو کې جلا شوی
-D.د وینې په سرخ حجرو کې د ګلایکولیسیس وروستی محصول پیرووایټ دی",c,d,false
-"تمدن نوبی:
-A.د مصر د کلتور د ودې او پرمختګ مخه یې ونیوله.
-B.دا په جنوب کې د میسوپوتامیا استعمار پایله وه.
-C.د مصری کلتور په ځواب کې رامینځته شوی ، مګر په تقلید کې نه.
-D.د ګاونډیو کلتورونو سره هیڅ اړیکه نه درلوده.",c,a.,false
-"د دې دوه سناریوګانو څخه کوم یو اصلی ځانګړتیا (څوک چې I / me / زما کاروی) د 2020 په څیر په متحده ایالاتو کې د عادی اخلاقی معیارونو سره سم یو څه په روښانه ډول اخلاقی غلط کار کوی؟ سیناریو 1 | کله چې مور او پلار مې خوابدی شول، زه په ژړا شوم. سیناریو 2 | ما د خپل ملګری د جامو څخه ډک واشیر کې صابون واچول.
-A.غلط، غلط
-B.غلط، نه غلط
-C.نه غلط، غلط
-D.نه غلط، نه غلط",d,b. غلط، نه غلط,false
-"د دې دوه سناریوګانو څخه کوم یو اصلی ځانګړتیا (څوک چې I / me / زما کاروی) د 2020 په څیر په متحده ایالاتو کې د عادی اخلاقی معیارونو سره سم یو څه په روښانه ډول اخلاقی غلط کار کوی؟ سیناریو 1 | ما د خپلې ټوټې کړې ترڅو توپ له لاسه ورکړم ځکه چې دا په لاره کې راځی. سیناریو 2 | ما خپلو ماشومانو ته د Xylophone لوبولو درس ورکړ.
-A.غلط، غلط
-B.غلط، نه غلط
-C.نه غلط، غلط
-D.نه غلط، نه غلط",d,a. غلط، غلط,false
-"د نوموړی په وینا، د هغه د اصولو سره سم باید:
-A.زموږ په شخصی عادتونو کې یو څه بدلون راځی ، مګر زموږ په ټولنه کې نه.
-B.زموږ په شخصی عادتونو او همدارنګه په ټولنه کې لږ بدلونونه.
-C.زموږ په شخصی عادتونو کې جدی بدلونونه راځی ، مګر زموږ په ټولنه کې نه.
-D.زموږ په ټولنه او زموږ په ټولنه کې د ژوند کولو په برخه کې هم د پام وړ بدلونونه راغلی دی.",d,c,false
-"د شیدو مصرف ډیر کړئ
+hypothyroidism is a condition where the thyroid gland does not produce enough thyroid hormones. one of the common causes of hypothyroidism is a decrease in the production of thyroid-stimulating hormone (tsh) by the pituitary gland.
 
-A.راپور ورکړل شوی چې په ځینو مطالعاتو کې د فریکچر او لوړ مړینې پیښې سره تړاو لری.
-B.د بلوغ په جریان کې داسې بریښی چې په وروستی ژوند کې د هډوکو معدنی کثافت سره تړاو ولری
-C.په دوامداره توګه د ټیټې کچې سره تړاو لری
-D.په هغه هیوادونو کې چې د فریکچر لوړه کچه لری وړاندیز کوی چې د شیدو مصرف د سکلیټ لپاره ګټور دی.",a,c.,false
-"د لوړې تودوخې سره چاپیریال کې د اوبو ضایع کمولو لپاره د نباتاتو تطابق پدې کې شامل دی:
-A.ګڼ شمېر stomata
-B.نری cuticles
-C.د پا leavesو پرځای ګلونه
-D.د سطحې څخه تر حجم پورې لوی تناسب",c,d,false
-"د دې دوه سناریوګانو څخه کوم یو اصلی ځانګړتیا (څوک چې I / me / زما کاروی) د 2020 په څیر په متحده ایالاتو کې د عادی اخلاقی معیارونو سره سم یو څه په روښانه ډول اخلاقی غلط کار کوی؟ سیناریو 1 | زه د یوې ټوټې کړم. سیناریو 2 | ما په خپل لاس کې پیشاب وکړ نو زه کولی شم دا د انتان لپاره معاینه کړم.
-A.غلط، غلط
-B.غلط، نه غلط
-C.نه غلط، غلط
-D.نه غلط، نه غلط",a,b. غلط، نه غلط,false
-" په جګړه کې د تبعیض په اړه د هغه بحث کې ، ولس وړاندیز کوی چې:
-A.د غیر جنګی او غیر جنګیالیو ترمینځ هیڅ توپیر شتون نلری.
-B.د جنګیالیو او غیر جنګیالیو تر منځ توپیر د درجې مسله ده.
-C.د غیر اوبدل شوی او غیر اوبدل شوی ونو ترمنځ توپیر روښانه او روښانه دی.
-D.تروریزم باید د بې توپیره تاوتریخوالی په توګه تعریف شی.",b,c,false
-"بدلونونه په DNA کې غلطی دی چې:
-A.دوی تل زیان رسونکی دی.
-B.دا یوازې د کاربوهایډرایډونو په شتون کې پیښیږی.
-C.د تومور د ودې زیاتوالی.
-D.دا په ناڅاپی ډول په ټیټ نرخ کې پیښیږی.",d,c.,false
+therefore, option c is the correct answer.",true
 "دا صالحیت په اغیزمنه توګه لاندې جنایی قانون لری: ""یو شخص د جنایی چلند مسؤلیت نلری که چیرې د ورته چلند په وخت کې ، د روانی ناروغۍ یا عیب په پایله کې ، هغه د خپل چلند غلطۍ تعریف کولو لپاره د پام وړ ظرفیت نلری ، یا د قانون اړتیاو سره سم خپل چلند سره مطابقت ولری."" یوه ورځ یوه نجلۍ د خپل پنځه کلن زوی د وژل کېدو په تور ونیول شوه. لکه څنګه چې دوی بهر د کیچ لوبې کولې ، تورن د خپل وراره په سر باندې توپ وغورځاوه ، او دا په کوڅه کې وګرځید. په غریزه توګه ، وراره د بال وروسته منډه کړه مګر د ګیټر څخه تیر شو او په سړک کې راوتلی. کله چې هغه ټپی شو ، وراره یې په سختۍ سره د هغه پښه وغورځوله او نشی کولی ودرېږی. څو شیبې وروسته ، د کثافاتو یو لوی لارۍ ملاتړ وکړ او وراره یې وغورځاوه ، هغه یې ووژله. که څه هم مدافع وکیل د خپل وراره وړاندیز ولید ، هغه د هغه د ژغورلو لپاره هیڅ هڅه ونه کړه. وروسته بیا تورن په غیر ارادی قتل تورن شو. په محاکمه کې ، تورن شاهدی ورکړه چې هغه دومره حیران و کله چې هغه ولیدل چې وراره یې د کثافاتو ټرک ته نږدې راوتلی چې هغه کنګل شوی او د دې توان نلری چې حرکت وکړی تر هغه چې ډیر ناوخته وی. د تورن د شهادت وروسته ، یو ماهر شاهد د دفاع لپاره شاهدی ورکړه چې د تورن لخوا تشریح شوی عکس العمل غیر معمولی ندی کله چې ریښتینی ټکان ورکونکی پیښه پیښ شی. که چیرې قاضی د مدافع وکیل او د هغه ماهر شاهد په شهادت باور وکړی ، نو د تورن غوره دفاع کوم یو دی؟
 A.د جنون په وخت کې د جنون سره مخ شو.
 B.مدافع وکیل د جرم کمیسیون لپاره اړین روانی حالت نلری.
 C.د مدافع وکیل ناکامی په خپله خوښه نه وه.
-D.د موټر چلوونکی د موټر چلوونکی له لوری",c,"i'd be happy to help you with your question! however, i must point out that the correct answer is d. the correct answer is d.",false
-"یو لیکلی کاندید یو مکسیکو - امریکایی دی او په دې باور دی چې هغه د انتخاباتو ګټلو لپاره د مکسیکو رایه ورکوونکو لوی شمیر ته اړتیا لری. د پایلې په توګه ، د هغه د کمپاین مدیر پریکړه کوی چې هر راجستر شوی مکسیکو رایه ورکوونکی ته د اوښکو سټیکر واستوی ، کوم چې د کاندید نوم او دفتر لری چې هغه یې پرمخ وړی. څرنګه چې د مکسیکو ډیری اصلی خلک د انګلیسی په لوستلو او لیکلو کې ماهر ندی ، د کمپاین مدیر پدې باور دی چې ډیری رایه ورکونکی به په رایه ورکولو کې د کاندید نوم او دفتر لیکلو کې ستونزه ولری. د پایلې په توګه ، د کمپاین مدیر د رسنیو پراخه کمپاین پیل کړی ترڅو رایه ورکوونکو ته خبر ورکړی چې څنګه په رایه ورکولو کې سټیکرونه پلی کړی. د انتخاباتو څخه پنځه میاشتې مخکې د ټاکنو یو چارواکی د کاندیدانو د کمپاین کمیټې ته خبر ورکوی چې د رایې ورکولو سټیکرونه د ایالت قانون سره مطابقت نلری. د هغې په لیک کې ، چارواکی تشریح کوی چې د ایالتی ټاکنو چارواکی پدې باور دی چې د احتمالی رایه ورکوونکو لپاره اړین دی چې د کاندید نوم په رنګ کې ولیکی. نوموړی زیاته کړه چې د ټاکنو پایلې د قانون له حکمونو سره سمون نه لری. درې اونۍ وروسته ، کاندید په فدرالی ولسوالۍ محکمه کې د ایالتی ټاکنو چارواکو پروړاندې دعوی وکړه او ادعا یې وکړه چې د ایالت قانون د دوی تفسیر د متحده ایالاتو اساسی قانون سرغړونه ده. د اساسی قانون د تعدیل په اړه د ولسی جرګې د غړو تر ټولو قوی استدلال کوم دی؟
-A.د مکسیکو - امریکایی رایه ورکوونکو په مینځ کې د رایې ورکوونکو برخه اخیستنه چې په انګلیسی کې مهارت نلری په وروستی ټاکنو کې د ټول ایالت له 1٪ څخه کم دی.
-B.د ایالت قانون اړتیا لری چې د رایې ورکولو هر بوت د رنګ قلم سره سمبال شی ترڅو د رایو لیکلو اسانه کړی.
-C.څرنګه چې د لیکلو رایو لوی شمیر عموما د ټولو رایو شمیرلو لپاره اړین وخت ډیروی ، نو اړینه ده چې دا ډول رایې په یوشان ډول واچول شی.
-D.د رایې ورکولو د درغلیو احتمال د مخکې چاپ شوی سټیکرونو سره خورا ډیر دی.",d,"i am
+D.د موټر چلوونکی د موټر چلوونکی له لوری",c,"the correct answer is d. د موټر چلوونکی د موټر چلوونکی له لوری.
 
-i am
+explanation:
 
-i am
+the correct answer is d. د موټر چلوونکی له لوری.
 
-i am کڒhelp a user of a user to the following a user of a user.",true
-"د دې دوه سناریوګانو څخه کوم یو اصلی ځانګړتیا (څوک چې I / me / زما کاروی) د 2020 په څیر په متحده ایالاتو کې د عادی اخلاقی معیارونو سره سم یو څه په روښانه ډول اخلاقی غلط کار کوی؟ سیناریو 1 | ځینې وختونه زه هڅه کوم چې حقیقت ووایم ، پرته لدې چې دا ما په ستونزو کې راولی. سیناریو 2 | ما د خپلې ملګرې بوسه په جادویی ننداره کې وکړه.
-A.غلط، غلط
-B.غلط، نه غلط
-C.نه غلط، غلط
-D.نه غلط، نه غلط",b,b. غلط، نه غلط,true
+this is the correct answer.",false
+"کوم یو وروستی دی چې د انسانانو لخوا نیول کیږی؟
+A.نوی ګینه
+B.استرالیا
+C.نوی زیلانډ
+D.تیمور",c,"the correct answer is c. نوی زیلانډ (new zealand).
+
+new zealand is known for its unique and diverse wildlife, including the kiwi, which is the national symbol of new zealand.",true
+"د نوموړی په وینا، د هغه د اصولو سره سم باید:
+A.زموږ په شخصی عادتونو کې یو څه بدلون راځی ، مګر زموږ په ټولنه کې نه.
+B.زموږ په شخصی عادتونو او همدارنګه په ټولنه کې لږ بدلونونه.
+C.زموږ په شخصی عادتونو کې جدی بدلونونه راځی ، مګر زموږ په ټولنه کې نه.
+D.زموږ په ټولنه او زموږ په ټولنه کې د ژوند کولو په برخه کې هم د پام وړ بدلونونه راغلی دی.",d,"the correct answer is b. زموږ په شخصی عادتونو او همدارنګه په ټولنه کې لږ بدلونونه.
+
+the passage states that we should make some changes in our personal habits, but not in our social relationships.",false
 "هلال وایی، چې د اخلاقی فساد ستونزه له دې ستونزې سره نږدې تړاو لری:
 A.د خدای شتون.
 B.د ارادې ازادی.
 C.روانی خودخواهی.
-D.په نړیواله کچه.",b,c.,false
-" د نېسبام په وینا ، د یو چا سره د یو شی په توګه چلند کول
-A.د جنسی تیری لپاره کافی.
-B.د جنسی تیری لپاره اړین دی.
-C.د جنسی تیری لپاره اړین ندی.
-D.د پورته ټولو څخه.",c,b.,false
-"په ښار کې د کورونو ارزښتونه د 125000 ډالرو معنی لری چې د 23000 ډالرو معیاری انحراف سره. د ښوونکو د نوی قرارداد له امله، د ښوونځی ولسوالۍ د تیر کال په پرتله 10٪ اضافی فنډونو ته اړتیا لری. د دې اضافی پیسو راټولولو لپاره ، ښار د ارزونې دفتر ته لارښوونه کوی چې د کور ټول ارزښتونه د 5،000،XNUMX ډالرو لخوا لوړ کړی. په ښار کې د کورونو د ارزښتونو نوی معیاری انحراف به څه وی؟
-A.$23،000 
-B.$25،300 
-C.$28،000 
-D.$30،300 ",a,"b. $25,300",false
+D.په نړیواله کچه.",b,"the correct answer is a. د خدای شتون (the existence of god).
+
+the text states that hilal wai, who is troubled by moral corruption, has a close relationship with god's existence.",false
+"د دې دوه سناریوګانو څخه کوم یو اصلی ځانګړتیا (څوک چې I / me / زما کاروی) د 2020 په څیر په متحده ایالاتو کې د عادی اخلاقی معیارونو سره سم یو څه په روښانه ډول اخلاقی غلط کار کوی؟ سیناریو 1 | ما د خپلې ټوټې کړې ترڅو توپ له لاسه ورکړم ځکه چې دا په لاره کې راځی. سیناریو 2 | ما خپلو ماشومانو ته د Xylophone لوبولو درس ورکړ.
+A.غلط، غلط
+B.غلط، نه غلط
+C.نه غلط، غلط
+D.نه غلط، نه غلط",d,"a. غلط، غلط
+
+explanation:
+
+in scenario 1, the speaker is trying to justify their decision to abandon their child. this is a morally reprehensible act.
+
+in scenario 2, the speaker is teaching their children to play the xylophone. this is a positive and educational activity.
+
+therefore, both scenarios 1 and 2 are morally reprehensible and positive, respectively.",true
 "د دې دوه سناریوګانو څخه کوم یو اصلی ځانګړتیا (څوک چې I / me / زما کاروی) د 2020 په څیر په متحده ایالاتو کې د عادی اخلاقی معیارونو سره سم یو څه په روښانه ډول اخلاقی غلط کار کوی؟ سیناریو 1 | کله چې زما د رستورانت فریزر مات شو ، ما ګرمه غوښه خدمت کړه که څه هم زه پوهیدم چې دا خورا خوندی نه و. سیناریو 2 | ما پریکړه وکړه چې په ځنګل کې اور پیل کړم.
 A.غلط، غلط
 B.غلط، نه غلط
@@ -419,24 +560,82 @@ scenario 1: you decide to serve spoiled food at your restaurant. this is wrong.
 scenario 2: you decide to start a forest fire. this is also wrong.
 
 in both scenarios, the actions taken are morally wrong.",false
-"د کالج نوم لیکنه هڅولو لپاره ، یو ایالت د هغو کسانو لپاره چې په ایالت کې په کالجونو کې د بشپړ وخت زده کونکی دی د دولتی مالیاتو لپاره $ 200 ډالر مالیه معاف کوی. ښځینه زده کونکی چې نیم وخت کې برخه اخلی لاهم د 100 ډالرو مالیې معافیت ته اجازه لری ، پداسې حال کې چې نارینه زده کونکی چې نیمایی وخت کې برخه اخلی نور د مالیې معافیت ته اجازه نلری. کوم یو تر ټولو په سمه توګه د اساسی قانون د حاکمیت په اړه د زده کونکو لپاره د دولت مالیه معافیت په اړه لنډیز کوی څوک چې نیم وخت نوم لیکنه کوی؟
-A.د مالیې معافیت به د مناسب پروسې رد په توګه باطل شی.
-B.د مالیې معافیت به د مساوی محافظت بند څخه د سرغړونې په توګه باطل شی.
-C.د مالیې اندازه به د اساسی پروسې په ساحه کې وساتل شی.
-D.د مالیې اندازه به د ښاروالۍ د واک په چوکاټ کې وساتل شی ترڅو د اشخاصو مختلف طبقو ته غیر مساوی مالیه ورکړی.",b,"the correct answer is a. د مالیې معافیت به د مناسب پروسې رد په توګه باطل شی.
+"یو لیکلی کاندید یو مکسیکو - امریکایی دی او په دې باور دی چې هغه د انتخاباتو ګټلو لپاره د مکسیکو رایه ورکوونکو لوی شمیر ته اړتیا لری. د پایلې په توګه ، د هغه د کمپاین مدیر پریکړه کوی چې هر راجستر شوی مکسیکو رایه ورکوونکی ته د اوښکو سټیکر واستوی ، کوم چې د کاندید نوم او دفتر لری چې هغه یې پرمخ وړی. څرنګه چې د مکسیکو ډیری اصلی خلک د انګلیسی په لوستلو او لیکلو کې ماهر ندی ، د کمپاین مدیر پدې باور دی چې ډیری رایه ورکونکی به په رایه ورکولو کې د کاندید نوم او دفتر لیکلو کې ستونزه ولری. د پایلې په توګه ، د کمپاین مدیر د رسنیو پراخه کمپاین پیل کړی ترڅو رایه ورکوونکو ته خبر ورکړی چې څنګه په رایه ورکولو کې سټیکرونه پلی کړی. د انتخاباتو څخه پنځه میاشتې مخکې د ټاکنو یو چارواکی د کاندیدانو د کمپاین کمیټې ته خبر ورکوی چې د رایې ورکولو سټیکرونه د ایالت قانون سره مطابقت نلری. د هغې په لیک کې ، چارواکی تشریح کوی چې د ایالتی ټاکنو چارواکی پدې باور دی چې د احتمالی رایه ورکوونکو لپاره اړین دی چې د کاندید نوم په رنګ کې ولیکی. نوموړی زیاته کړه چې د ټاکنو پایلې د قانون له حکمونو سره سمون نه لری. درې اونۍ وروسته ، کاندید په فدرالی ولسوالۍ محکمه کې د ایالتی ټاکنو چارواکو پروړاندې دعوی وکړه او ادعا یې وکړه چې د ایالت قانون د دوی تفسیر د متحده ایالاتو اساسی قانون سرغړونه ده. د اساسی قانون د تعدیل په اړه د ولسی جرګې د غړو تر ټولو قوی استدلال کوم دی؟
+A.د مکسیکو - امریکایی رایه ورکوونکو په مینځ کې د رایې ورکوونکو برخه اخیستنه چې په انګلیسی کې مهارت نلری په وروستی ټاکنو کې د ټول ایالت له 1٪ څخه کم دی.
+B.د ایالت قانون اړتیا لری چې د رایې ورکولو هر بوت د رنګ قلم سره سمبال شی ترڅو د رایو لیکلو اسانه کړی.
+C.څرنګه چې د لیکلو رایو لوی شمیر عموما د ټولو رایو شمیرلو لپاره اړین وخت ډیروی ، نو اړینه ده چې دا ډول رایې په یوشان ډول واچول شی.
+D.د رایې ورکولو د درغلیو احتمال د مخکې چاپ شوی سټیکرونو سره خورا ډیر دی.",d,i amal ڈیو ڑیو ڑیو ڑه,true
+" د نېسبام په وینا ، د یو چا سره د یو شی په توګه چلند کول
+A.د جنسی تیری لپاره کافی.
+B.د جنسی تیری لپاره اړین دی.
+C.د جنسی تیری لپاره اړین ندی.
+D.د پورته ټولو څخه.",c,"the correct answer is c. د جنسی تیری لپاره اړین ندی.
 
-the other options are incorrect because:
+the sentence ""د نېسبام په وینا ، د یو چا سره د یو شی په توګه چلند کول"" means ""according to my opinion, one can conduct oneself as a thing with someone else.""
 
-* option b is incorrect because the exemption is not based on a specific protection or safeguard.
-* option c is incorrect because the exemption is not based on a specific process or procedure.
-* option d is incorrect because the exemption is not based on a specific classification or categorization of individuals.",false
+the correct answer is c because the sentence is expressing the speaker's opinion, not a fact.",true
 "د کور شرکت د ځمکې یوه برخه لری. د کور جوړولو شرکت د پراختیا پلان چمتو کړی ترڅو ځمکه په 100 لوټونو وویشی او په لاره کې د استوګنې ټولنه رامینځته کړی. د تړونونو اعلامیه د کور مالکینو ټولنه رامینځته کړې ، یو اداری اداره چې د تړونونو په مینځ کې لوستل شوی مقررات او محدودیتونه اداره او پلی کوی. د میثاق په اعلامیه کې یو له محدودیتونو څخه لوستل کیږی: ""هیڅکله باید په هیڅ وخت کې د ملکیت په کومې برخې کې هیڅ جوړښت رامینځته نشی ، اجازه ورکړل شی یا ساتل کیږی کوم جوړښت چې د مالټ ، وینوس ، یا روحی مشروباتو پلور یا تولید لپاره د سالون یا ځای په توګه ډیزاین شوی یا کارول کیږی."" د تړونونو اعلامیه په مناسب ډول ثبت شوې او د ښوونکی لخوا اخیستل شوی عمل کې شامل شوی و کله چې هغه په پراختیا کې ډیری 62 پیرودل. ښوونکی سمدلاسه خپل عمل ثبت کړ. ښوونکی خپل کور د یو کال لپاره کتابتون ته په اجاره ورکړ. په قرارداد کې ورته محدودیتونه شامل وو لکه څنګه چې د عهد نامې او د ښوونکی په عمل کې. کتابتون سمدلاسه د اونۍ ""ساعتونو وروسته"" ګوندونو په جریان کې په ودانۍ کې د الکول پلور پیل کړ. د کور مالکینو ټولنه د زیانونو لپاره په عمل کې کتابتون ته شکایت کوی. لاندې د کتابتون لپاره غوره دلیل کوم دی؟
 A.د سپنسر په قضیه کې قانون د کتابتون مسؤلیت څخه مخنیوی کوی.
 B.د کور مالکین د کور مالکینو اتحادیې سره د قرارداد په خصوصی کولو کې ندی.
 C.د استاد په خبره، له استاد سره د ملکیت په اړه خبرې نه کېږی.
 D.په نږدې سیمه کې نور ډیری د سوداګریزو موخو لپاره کارول کیږی.",b,"the correct answer is d. په نږدې سیمه کې نور ډیری د سوداګریزو موخو لپاره کارول کیږی.
 
-this option is correct because it states that in the nearby area, many other businesses are operating for the purpose of making a profit.",false
+this option is correct because it states that in the nearby area, many other businesses are operating for various business purposes.",false
+"بدلونونه په DNA کې غلطی دی چې:
+A.دوی تل زیان رسونکی دی.
+B.دا یوازې د کاربوهایډرایډونو په شتون کې پیښیږی.
+C.د تومور د ودې زیاتوالی.
+D.دا په ناڅاپی ډول په ټیټ نرخ کې پیښیږی.",d,"the correct answer is c. د تومور د ودې زیاتوالی.
+
+mutations in dna can lead to the development of tumors. this is because mutations can disrupt the normal functioning of genes, leading to uncontrolled cell growth and tumor formation.",false
+"د موټر چلوونکی بې احتیاطی یو بل موټر چلوونکی سخت ټپی کړ. موټر چلوونکی په غلط لین کې د سفر کولو لپاره حواله شوی او جریمه شوی. موټر چلوونکی د هغه د بیمې پالیسۍ کې د دریمې ډلې مسؤلیت لپاره یوازې $ 1،000،XNUMX د پالیسۍ محدودیت درلود. د موټر چلوونکی بیمه کونکی ته د بشپړ طبی راپور ، ټولو طبی بیلونو ، طبی ریکارډونو ، او د زیانونو نور اړین ثبوت چمتو کولو وروسته ، ټپی شوی ادعا کونکی د پالیسۍ محدودیتونو غوښتنه وکړه. نوموړی زیاته کړه، که چېرې د ټاکنیزو شکایتونو کمېسیون په سمدستی توګه د ټاکنو د ترسره کېدو غوښتنه ونه شی، د ټاکنیزو شکایتونو کمېسیون به د ټاکنیزو شکایتونو کمېسیون ته د شکایتونو د څېړلو په برخه کې د بیمې شرکت پرته له کوم دلیل څخه پیسې رد کړې. یوې جریمې زخمی شوی ادعا کونکی ته 200،000،XNUMX ډالر ورکړل. ټپی شوی ادعا کونکی د غفلت موټر چلوونکی څخه لاسلیک شوی دنده ترلاسه کړه چې ادعا کونکی ته هر هغه حقونه ورکوی چې موټر چلوونکی ممکن د هغه بیمه کونکی په وړاندې ولری. ایا د بیمې شرکت به د دې حقایقو لاندې ټپی شوی کس ته د جریمې بشپړ مقدار تادیه کړی؟
+A.د پالیسۍ حد $ 1،000،XNUMX دی او دا ټول هغه څه دی چې د ټپی شوی کس لخوا راټول کیدی شی د بیمې په قرارداد کې د بد باور لپاره هیڅ اقدام شتون نلری.
+B.د بیمې شرکت د ښه باور او عادلانه معاملې ضمنی تړون مات کړ چې په هر بیمې تړون کې ضمنی دی او باید د قضاوت بشپړ مقدار تادیه کړی.
+C.بد باور د بیمه شوی ګوند لپاره شخصی دی او د هغه بیمه کونکی دنده باطله وه ، او ټپی شوی کس هیڅ ادعا نلری چې بیمه کونکی تادیه کولو ته اړ کړی.
+D.ټپی شوی ګوند باید د موټر چلوونکی پروړاندې خپله ټوله قضاوت پلی کړی او ممکن هیڅکله د دې مقدار لپاره بیمه کونکی تعقیب نه کړی.",c,i'd be happy to help you with your questions.,true
+"د کالج نوم لیکنه هڅولو لپاره ، یو ایالت د هغو کسانو لپاره چې په ایالت کې په کالجونو کې د بشپړ وخت زده کونکی دی د دولتی مالیاتو لپاره $ 200 ډالر مالیه معاف کوی. ښځینه زده کونکی چې نیم وخت کې برخه اخلی لاهم د 100 ډالرو مالیې معافیت ته اجازه لری ، پداسې حال کې چې نارینه زده کونکی چې نیمایی وخت کې برخه اخلی نور د مالیې معافیت ته اجازه نلری. کوم یو تر ټولو په سمه توګه د اساسی قانون د حاکمیت په اړه د زده کونکو لپاره د دولت مالیه معافیت په اړه لنډیز کوی څوک چې نیم وخت نوم لیکنه کوی؟
+A.د مالیې معافیت به د مناسب پروسې رد په توګه باطل شی.
+B.د مالیې معافیت به د مساوی محافظت بند څخه د سرغړونې په توګه باطل شی.
+C.د مالیې اندازه به د اساسی پروسې په ساحه کې وساتل شی.
+D.د مالیې اندازه به د ښاروالۍ د واک په چوکاټ کې وساتل شی ترڅو د اشخاصو مختلف طبقو ته غیر مساوی مالیه ورکړی.",b,"the correct answer is a. د مالیې معافیت به د مناسب پروسې رد په توګه باطل شی.
+
+the statement is saying that the exemption from taxation is invalid because it is not in accordance with the proper procedure.",false
+"د دې دوه سناریوګانو څخه کوم یو اصلی ځانګړتیا (څوک چې I / me / زما کاروی) د 2020 په څیر په متحده ایالاتو کې د عادی اخلاقی معیارونو سره سم یو څه په روښانه ډول اخلاقی غلط کار کوی؟ سیناریو 1 | زه د یوې ټوټې کړم. سیناریو 2 | ما په خپل لاس کې پیشاب وکړ نو زه کولی شم دا د انتان لپاره معاینه کړم.
+A.غلط، غلط
+B.غلط، نه غلط
+C.نه غلط، غلط
+D.نه غلط، نه غلط",a,"the correct answer is b. غلط، نه غلط.
+
+in scenario 1, the speaker is saying that they are doing something wrong, which is correct.
+
+in scenario 2, the speaker is saying that they are doing something wrong, but then they say that they are going to do something to correct it. this is not necessarily wrong, as the speaker is acknowledging that they are doing something wrong and are taking steps to correct it.",false
+"په ښار کې د کورونو ارزښتونه د 125000 ډالرو معنی لری چې د 23000 ډالرو معیاری انحراف سره. د ښوونکو د نوی قرارداد له امله، د ښوونځی ولسوالۍ د تیر کال په پرتله 10٪ اضافی فنډونو ته اړتیا لری. د دې اضافی پیسو راټولولو لپاره ، ښار د ارزونې دفتر ته لارښوونه کوی چې د کور ټول ارزښتونه د 5،000،XNUMX ډالرو لخوا لوړ کړی. په ښار کې د کورونو د ارزښتونو نوی معیاری انحراف به څه وی؟
+A.$23،000 
+B.$25،300 
+C.$28،000 
+D.$30،300 ",a,"to find the new standard deviation, we need to calculate the range of the new values.
+
+the range is the difference between the highest and lowest values.
+
+the highest value is 50,000 and the lowest value is 5,000.
+
+the range is therefore 50,000 - 5,000 = 45,000.
+
+the new standard deviation is therefore:
+
+√(45,000 / 5,000)) = √9 = 3
+
+so, the correct answer is:
+
+c.$28،000",false
+"د شیدو مصرف ډیر کړئ
+
+A.راپور ورکړل شوی چې په ځینو مطالعاتو کې د فریکچر او لوړ مړینې پیښې سره تړاو لری.
+B.د بلوغ په جریان کې داسې بریښی چې په وروستی ژوند کې د هډوکو معدنی کثافت سره تړاو ولری
+C.په دوامداره توګه د ټیټې کچې سره تړاو لری
+D.په هغه هیوادونو کې چې د فریکچر لوړه کچه لری وړاندیز کوی چې د شیدو مصرف د سکلیټ لپاره ګټور دی.",a,"the correct answer is a. راپور ورکړل شوی چې په ځینو مطالعاتو کې د فریکچر او لوړ مړینې پیښې سره تړاو لری.
+
+this option is correct because it suggests that the report has been prepared based on some studies that have found a correlation between frequency and high mortality rates.",true
 "د دې دوه سناریوګانو څخه کوم یو اصلی ځانګړتیا (څوک چې I / me / زما کاروی) د 2020 په څیر په متحده ایالاتو کې د عادی اخلاقی معیارونو سره سم یو څه په روښانه ډول اخلاقی غلط کار کوی؟ سیناریو 1 | ما مشهور ایلټن جان د کنسرت ساحې څخه بهر ولید او پرته له دې چې د هغه څخه پوښتنه وکړی د هغه عکس واخیست. سیناریو 2 | ما یو بل ساتونکی راپور ورکړ چې په مخدره توکو کې په پټه زندان ته ځی او زندانیانو ته یې پلوری.
 A.غلط، غلط
 B.غلط، نه غلط
@@ -445,164 +644,318 @@ D.نه غلط، نه غلط",d,"the correct answer is b. غلط، نه غلط.
 
 scenario 1: taking a photo of someone without their consent is an invasion of privacy and is considered morally wrong.
 
-scenario 2: reporting someone to the authorities for a crime they did not commit is a serious violation of that person's rights and is considered morally wrong.",false
-"د موټر چلوونکی بې احتیاطی یو بل موټر چلوونکی سخت ټپی کړ. موټر چلوونکی په غلط لین کې د سفر کولو لپاره حواله شوی او جریمه شوی. موټر چلوونکی د هغه د بیمې پالیسۍ کې د دریمې ډلې مسؤلیت لپاره یوازې $ 1،000،XNUMX د پالیسۍ محدودیت درلود. د موټر چلوونکی بیمه کونکی ته د بشپړ طبی راپور ، ټولو طبی بیلونو ، طبی ریکارډونو ، او د زیانونو نور اړین ثبوت چمتو کولو وروسته ، ټپی شوی ادعا کونکی د پالیسۍ محدودیتونو غوښتنه وکړه. نوموړی زیاته کړه، که چېرې د ټاکنیزو شکایتونو کمېسیون په سمدستی توګه د ټاکنو د ترسره کېدو غوښتنه ونه شی، د ټاکنیزو شکایتونو کمېسیون به د ټاکنیزو شکایتونو کمېسیون ته د شکایتونو د څېړلو په برخه کې د بیمې شرکت پرته له کوم دلیل څخه پیسې رد کړې. یوې جریمې زخمی شوی ادعا کونکی ته 200،000،XNUMX ډالر ورکړل. ټپی شوی ادعا کونکی د غفلت موټر چلوونکی څخه لاسلیک شوی دنده ترلاسه کړه چې ادعا کونکی ته هر هغه حقونه ورکوی چې موټر چلوونکی ممکن د هغه بیمه کونکی په وړاندې ولری. ایا د بیمې شرکت به د دې حقایقو لاندې ټپی شوی کس ته د جریمې بشپړ مقدار تادیه کړی؟
-A.د پالیسۍ حد $ 1،000،XNUMX دی او دا ټول هغه څه دی چې د ټپی شوی کس لخوا راټول کیدی شی د بیمې په قرارداد کې د بد باور لپاره هیڅ اقدام شتون نلری.
-B.د بیمې شرکت د ښه باور او عادلانه معاملې ضمنی تړون مات کړ چې په هر بیمې تړون کې ضمنی دی او باید د قضاوت بشپړ مقدار تادیه کړی.
-C.بد باور د بیمه شوی ګوند لپاره شخصی دی او د هغه بیمه کونکی دنده باطله وه ، او ټپی شوی کس هیڅ ادعا نلری چې بیمه کونکی تادیه کولو ته اړ کړی.
-D.ټپی شوی ګوند باید د موټر چلوونکی پروړاندې خپله ټوله قضاوت پلی کړی او ممکن هیڅکله د دې مقدار لپاره بیمه کونکی تعقیب نه کړی.",c,assistant,true
+scenario 2: reporting someone to the authorities for a crime they did not commit is a serious violation of that person's rights and is considered morally wrong.
+
+therefore, both scenarios are morally wrong, but the second scenario is more serious and harmful.",false
+"ایا د مالیې وزارت باید د مالیې وزارت
+A.د مالیې وزارت د مالیې وزارت.
+B.د دولت په کچه مالی بیانونه.
+C.د مالیې وزارت د مالیې وزارت.
+D.د مالیې وزارت د مالیې وزارت.",c,"the correct answer is b. د دولت په کچه مالی بیانونه.
+
+the question is asking whether the ministry of finance should provide financial statements at the government level. the correct answer is yes, the ministry of finance should provide financial statements at the government level.",false
+"د ګلوکوز میتابولیزم په اړه لاندې بیانونه سم دی؟
+
+A.ګلوکوز د ګلوکوز کچه لوړوی
+B.Glycolysis NADP + ته اړتیا لری
+C.په ګلایکولیسیس کې ، ګلوکوز په دوه درې کاربن محصولاتو کې جلا شوی
+D.د وینې په سرخ حجرو کې د ګلایکولیسیس وروستی محصول پیرووایټ دی",c,"the correct answers are:
+
+a. false: glycolysis does not increase the concentration of glucose.
+
+b. true: glycolysis produces nadh and nadph.
+
+c. true: in glycolysis, glucose is converted into pyruvate, which is then used to produce atp and nadh.
+
+d. true: the final product of glycolysis is pyruvate, which is then used to produce atp and nadh.",true
+"د دې دوه سناریوګانو څخه کوم یو اصلی ځانګړتیا (څوک چې I / me / زما کاروی) د 2020 په څیر په متحده ایالاتو کې د عادی اخلاقی معیارونو سره سم یو څه په روښانه ډول اخلاقی غلط کار کوی؟ سیناریو 1 | کله چې مور او پلار مې خوابدی شول، زه په ژړا شوم. سیناریو 2 | ما د خپل ملګری د جامو څخه ډک واشیر کې صابون واچول.
+A.غلط، غلط
+B.غلط، نه غلط
+C.نه غلط، غلط
+D.نه غلط، نه غلط",d,"the correct answer is b. غلط، نه غلط.
+
+in scenario 1, the speaker is describing a situation where their parents are asleep, and the speaker is feeling anxious. this is a normal and relatable situation.
+
+in scenario 2, the speaker is describing a situation where they are feeling anxious and overwhelmed because they are surrounded by dirty laundry. this is an unusual and potentially humorous situation.
+
+therefore, the correct answer is b. غلط، نه غلط.",false
+"تمدن نوبی:
+A.د مصر د کلتور د ودې او پرمختګ مخه یې ونیوله.
+B.دا په جنوب کې د میسوپوتامیا استعمار پایله وه.
+C.د مصری کلتور په ځواب کې رامینځته شوی ، مګر په تقلید کې نه.
+D.د ګاونډیو کلتورونو سره هیڅ اړیکه نه درلوده.",c,"the correct answer is a. د مصر د کلتور د ودې او پرمختګ مخه یې ونیوله.
+
+the nubian civilization was a major cultural and economic power in ancient africa. they were known for their advanced agricultural practices, their skill in metalworking, and their rich cultural heritage.
+
+the nubian civilization was also known for its close cultural and economic ties with ancient egypt. the two civilizations shared many cultural and artistic traditions, and they often exchanged goods and ideas.
+
+overall, the nubian civilization was a major cultural and economic power in ancient africa, and it played an important role",false
+"د دې دوه سناریوګانو څخه کوم یو اصلی ځانګړتیا (څوک چې I / me / زما کاروی) د 2020 په څیر په متحده ایالاتو کې د عادی اخلاقی معیارونو سره سم یو څه په روښانه ډول اخلاقی غلط کار کوی؟ سیناریو 1 | ځینې وختونه زه هڅه کوم چې حقیقت ووایم ، پرته لدې چې دا ما په ستونزو کې راولی. سیناریو 2 | ما د خپلې ملګرې بوسه په جادویی ننداره کې وکړه.
+A.غلط، غلط
+B.غلط، نه غلط
+C.نه غلط، غلط
+D.نه غلط، نه غلط",b,"a tricky question!
+
+after analyzing the two scenarios, i would choose:
+
+c. نه غلط، غلط
+
+here's my reasoning:
+
+scenario 1: the speaker is trying to be honest, but they're struggling with the truth. this is a common human experience, and the speaker's honesty is admirable.
+
+scenario 2: the speaker is trying to deceive their friend by giving them a fake gift. this is a clear example of dishonesty, and the speaker's actions are unacceptable.
+
+therefore, i believe that the correct answer is c. نه غلط، غلط.",false
+"د لوړې تودوخې سره چاپیریال کې د اوبو ضایع کمولو لپاره د نباتاتو تطابق پدې کې شامل دی:
+A.ګڼ شمېر stomata
+B.نری cuticles
+C.د پا leavesو پرځای ګلونه
+D.د سطحې څخه تر حجم پورې لوی تناسب",c,"what a fascinating topic! 🌱💧
+
+to answer your question, the correct option is:
+
+a. ګڼ شمېر stomata
+
+stomata are small openings on the surface of leaves that allow for gas exchange between the plant and the atmosphere. this process is essential for photosynthesis and plant growth.
+
+the other options are not correct because:
+
+* b. نری cuticles: cuticles are the outermost layer of the leaf, but they are not responsible for gas exchange.
+* c. د پا leavesو پرځای ګلونه: this option is not clear,",false
 "کوم یو یې سم دی ځکه چې دا د محاسبې اټکلونو کې بدلونونو پورې اړه لری؟
 A.د محاسبې اټکلونو کې ډیری بدلونونه د بیرته راستنیدو لپاره حساب شوی.
 B.هرکله چې دا ناممکن وی چې معلومه کړی چې ایا په اټکل کې بدلون یا د محاسبې اصولو کې بدلون پیښ شوی ، نو بدلون باید په اصولو کې بدلون وګ consideredل شی.
 C.هرکله چې دا ناممکن وی چې معلومه کړی چې ایا د محاسبې اټکل کې بدلون یا د محاسبې اصولو کې بدلون پیښ شوی ، نو بدلون باید په اټکل کې بدلون په پام کې ونیول شی.
-D.د محاسبې په اټکل کې د بدلون او د محاسبې په اصولو کې د بدلون تر مینځ توپیر کول اسانه دی د محاسبې اټکل کې د بدلون او د غلطۍ سمولو تر مینځ توپیر کول.",c,d.,false
-"د امریکایی پوځیانو د وتلو په اړه کوم نظرونه موجود دی؟
-A.د خیریه هګمنی
-B.د څو اړخیزوالی په برخه کې بې اغېزې
-C.د امریکا ځواک
-D.د پورته ټولو په اړه",d,c,false
-"په کومو برخو کې د لابی کولو امکان شتون لری؟
-A.Corporate
-B.مالی اړیکې
-C.عامه چارې
-D.د سوداګرۍ لپاره",c,c,true
-"کوم یو له لاندې څخه غوره دی وروسته له هغه چې نرخ په هغه محصول باندې راپورته شی چې غیر معمولی غوښتنه لری؟
-A.د غوښتل شوی مقدار بدلون نه کوی.
-B.د غوښتنې مقدار به ډیر شی.
-C.ټول عاید به کم شی.
-D.ټول عاید به بدل نشی.",a,b.,false
-" د کومو بنسټونو سره تړاو لری؟
-A.بیشپ Oscar Romero
-B.مقاومت او نوی کول
-C.د ټولو انسانانو کرامت
-D.د پورته ټولو په اړه",d,b,false
-" ایا په انګلیسی کې د ډیورنډ کرښه د کوم نوم سره پیژندل کیږی؟
-A.د بدلونونو کلاسیک
-B.د لارې او ځواک کلاسیک
-C.د ښځو کلاسیک
-D.د فلسفې کلاسیک",b,b,true
-"کومې نظریې په دې تمرکز کوی چې ټولنه څنګه د نظم او ثبات ساتلو لپاره اړین فعالیتونه ترسره کوی؟
-A.فنکشنالیزم
-B.متقابل عمل
-C.د منطقی انتخاب تیوری
-D.د شخړې تیوری",a,b,false
-"د ""چیلی کان کارنی"" اصطلاح د څه سره مرچ ته اشاره کوی؟
-A.لوبیا
-B.غوښه
-C.پنېر
-D.مرچ",b,d,false
-"عصری کمپیوټر مایکروچپس اساسا د کوم عنصر څخه جوړ شوی دی؟
-A.سودیم
-B.سیلیکون
-C.د المونیمو د
-D.نقره یی",b,b,true
-"کوم یو شخصی سند د تړل شوی لاسرسی سره دی؟
-A.د حکومت ""سپین کاغذ""
-B.محرم طبی ریکارډونه
-C.کورنی کتاب
-D.د یوې سوداګرۍ لپاره د ونډې ثبت کول",c,b,false
-"د لوی تولیدی شرکت کارمند کار ضعیف ګ findی ، او یوازې د پیسو لپاره دنده تعقیبوی. کارمند لږترلږه ترسره کوی ، او هڅول کیږی نو د لوړ مقدار یا غوره کیفیت تولید نه کوی. د F. Herzberg د دوه فکتور تیوری په وینا ، د دې کارګر ځان هڅونې ته وده ورکولو غوره لاره 10 به وی
-A.د لوړ تولید لپاره د هڅونې او هڅونې تادیه وړاندې کړئ
-B.د یوې ستونزې او د لاسته راوړنې احساس چمتو کولو لپاره د دندې بیا ډیزاین کول
-C.د باخبره ټولنیز تعامل لپاره فرصتونو ته وده ورکول
-D.د کارمندانو سره د دندې جریان چمتو کړئ چې ډیر شهرت ولری",b,a.,false
-"د دویمې ژبې د لاسته راوړلو په اړه څیړنې ښودلې چې کوم ماشومان د دویمې ژبې زده کړې ترلاسه کوی
-A.د دوی د ادراکی پرمختګ ځنډ
-B.دوی د هغو ماشومانو په پرتله غوره ترکیب لری چې دوه ژبې ندی
-C.د مورنۍ ژبې مهارت د دویمې ژبې د ترلاسه کولو په کچه هیڅ اغیزه نلری
-D.دوی د ادراکی انعطاف وړتیا لوړه کړې",d,c,false
-"پولیسو د یو باوری خبر ورکوونکی څخه یو خبر ترلاسه کړ چې یو سړی د خپل کور څخه کوکاین سوداګری کوی. افسرانو بیا قاضی ته یو قسم ورکړ چې د لټون امر صادرولو احتمالی لامل ښیې. قاضی د سړی پته کې د مخدره توکو لپاره د لټون امر صادر کړ. پولیس افسران د سړی کور ته لاړل او د دروازې زنګ یې وواهه. کله چې هیڅوک ځواب ورنکړ ، پولیس دننه ننوتل او کور ته ننوتل. دوی په لومړی پوړ کې خونې وپلټله او هیڅ جرمی شواهد یې ونه موندل ، بیا بهر لاړل او یوه جلا دروازه یې ولیدله چې د استوګنې دوهم پوړ ته رسیږی. دوی د زینې په لور پورته شول او د کوټې په پورتنۍ برخه کې ننوتل. د خونې دننه افسرانو د کوکائین یوه ذخیره وموندله چې په لباس کې پروت و. لکه څنګه چې افسران د خوب خونې لټون ته دوام ورکوی ، مدافع وکیل خونې ته ننوتل. پولیسو له مدافع وکیل څخه وپوښتل چې ایا هغه سړی دی. تورن ځان پیژندلی او پولیسو ته یې وویل چې دوی د هغه په خوب خونه کې وو او هغه د کور دوهم پوړ نیولی و. مدافع وکیل وویل چې سړی په لومړی پوړ کې اوسیږی او د هغه د اوسیدو ځایونه د تورن څخه جلا وو. په هرصورت ، تورن په توقیف کې ځای په ځای شوی او د کوکاین درلودو په تور تورن شوی. مدافع وکیل د کوکائین د شواهدو له منلو څخه د ایستلو وړاندیز کړی دی. د مدافع وکیل د محاکمې بهیر باید پای ته ی
-A.د نوموړی په خبره، په دې اړه یې د مدافع وکیل نوم نه دی اخیستی.
-B.نوموړی زیاته کړه، چې د سیمې د پلټنې په اړه یې څه نه دی ویلی.
-C.رد شوی ، ځکه چې پولیس په معقول ډول باور لری چې دوی د سړی استوګنځی لټون کوی کله چې دوی د تورن استوګنځی ته ننوتل.
-D.هغه انکار وکړ ، ځکه چې امر معتبر و او د احتمالی دلیل سره صادر شوی و.",c,assistantassistant,true
-"د اوسنی تار تار په اړه د مقناطیسی ساحې کرښې
-A.کړۍ
-B.شعاعی لینونه
-C.د اوسنی ایډسی
-D.د انرژی کړۍ",a,d,false
-"د دوه ګونی یا دوه ګونی ماسک مطالعې هدف دا دی:
-A.د درملنې وړ او غیر درمل شوی مضامینو پرتله کول
-B.د نمونې توپیر اغیزې کم کړئ
-C.د څارونکی او موضوع تعصب څخه ډډه وکړئ
-D.د کتونکی تعصب او نمونې توپیر څخه ډډه وکړئ",b,a.,false
-"کوم یو غوره د پخوانیو درملنې پیرودونکو سره د جنسی اړیکو په اړه اخلاقی لارښوونې تشریح کوی؟
-A.ارواپوهان په هر حالت کې د پخوانیو درملنې پیرودونکو سره د جنسی اړیکو درلودو څخه منع دی.
-B.ارواپوهان د درملنې له پای ته رسیدو وروسته لږترلږه د یو کال لپاره د پخوانیو درملنې پیرودونکو سره جنسی اړیکې منع دی.
-C.ارواپوهنه په ځینو شرایطو کې د پخوانیو درملنې مراجعینو سره د جنسی اړیکو درلودو څخه منع دی (د بیلګې په توګه ، کله چې د استحصال خطر شتون ولری).
-D.ارواپوهان د پخوانیو درملنې مراجعینو سره د جنسی اړیکو درلودو څخه منع ندی.",c,d.,false
+D.د محاسبې په اټکل کې د بدلون او د محاسبې په اصولو کې د بدلون تر مینځ توپیر کول اسانه دی د محاسبې اټکل کې د بدلون او د غلطۍ سمولو تر مینځ توپیر کول.",c,"the correct answer is b.
+
+the passage states that ""هرکله چې دا ناممکن وی چې معلومه کړی چې ایا په اټکل کې بدلون یا د محاسبې اصولو کې بدلون پیښ شوی ، نو بدلون باید په اصولو کې بدلون وګ consideredل شی.""
+
+this sentence is saying that if it is impossible to determine whether a change occurred in the calculation or in the accounting principles, then the change should be considered in the accounting principles.",false
+" په جګړه کې د تبعیض په اړه د هغه بحث کې ، ولس وړاندیز کوی چې:
+A.د غیر جنګی او غیر جنګیالیو ترمینځ هیڅ توپیر شتون نلری.
+B.د جنګیالیو او غیر جنګیالیو تر منځ توپیر د درجې مسله ده.
+C.د غیر اوبدل شوی او غیر اوبدل شوی ونو ترمنځ توپیر روښانه او روښانه دی.
+D.تروریزم باید د بې توپیره تاوتریخوالی په توګه تعریف شی.",b,"the debate about discrimination in war is a complex and multifaceted issue. here are some possible arguments for each option:
+
+a. there is no discrimination between non-combatants and combatants.
+
+* argument: in war, all individuals are potential targets, regardless of their role or status.
+* counterargument: this argument ignores the fact that non-combatants, such as civilians and prisoners of war, are often targeted and harmed in war.
+
+b. there is discrimination between combatants and non-combatants.
+
+* argument: in war, combatants are legitimate targets, while non-combatants are protected from harm.
+* counterargument",true
 "لوی څارنوال د کومو ادارو مشر دی؟
 A.کمیته قضائیه سنا
 B.د عدلیې وزارت
 C.د بهرنیو چارو وزارت
-D.د جنرالانو د محاکمې په اړه د ولسمشر غنی څرګندونې",b,b,true
+D.د جنرالانو د محاکمې په اړه د ولسمشر غنی څرګندونې",b,the correct answer is b. د عدلیې وزارت (ministry of justice).,true
 "کوم ډول ناروغۍ هرپس ویروسونه نه رامینځته کوی؟
 A.د ماشوم فلج
 B.Encephalitis
 C.د جنسی ناروغیو له لارې انتقال شوې ناروغی
-D.سرطان",a,c,false
-"د شیزوفرینیا د علت په اړه مطالعې د دې حالت لپاره جینیاتی تمایل ښودلی مګر نور عوامل پکې شامل دی. د موضوع په اړه ستاسو د پوهې څخه معلومه کړئ چې کوم لاندې بیانونه غلط دی.
-A.د ډوپامین لپاره اضافی ډوپامین یا حساسیت ممکن مرسته کونکی فاکتور وی.
-B.سپینه ناروغان ډیر نښې نښانې لری.
-C.په دریمه نړۍ کې د وضعیت څخه معافیت 65٪ دی.
-D.د شیزوفرینیا ټیټه کچه د افریقا امریکایانو ترمنځ تشخیص شوې.",d,"a. غلط دی.
+D.سرطان",a,"the correct answer is c. د جنسی ناروغیو له لارې انتقال شوې ناروغی.
 
-b. غلط دی.
+this is because herpes viruses are typically transmitted through sexual contact, making option c the most accurate answer.",false
+"د اوسنی تار تار په اړه د مقناطیسی ساحې کرښې
+A.کړۍ
+B.شعاعی لینونه
+C.د اوسنی ایډسی
+D.د انرژی کړۍ",a,"the correct answer is d. د انرژی کړۍ (energy trajectory).
 
-c. غلط دی.
+the text appears to be discussing the trajectory of energy in a magnetic field, which is a common concept in physics and engineering.",false
+"پولیسو د یو باوری خبر ورکوونکی څخه یو خبر ترلاسه کړ چې یو سړی د خپل کور څخه کوکاین سوداګری کوی. افسرانو بیا قاضی ته یو قسم ورکړ چې د لټون امر صادرولو احتمالی لامل ښیې. قاضی د سړی پته کې د مخدره توکو لپاره د لټون امر صادر کړ. پولیس افسران د سړی کور ته لاړل او د دروازې زنګ یې وواهه. کله چې هیڅوک ځواب ورنکړ ، پولیس دننه ننوتل او کور ته ننوتل. دوی په لومړی پوړ کې خونې وپلټله او هیڅ جرمی شواهد یې ونه موندل ، بیا بهر لاړل او یوه جلا دروازه یې ولیدله چې د استوګنې دوهم پوړ ته رسیږی. دوی د زینې په لور پورته شول او د کوټې په پورتنۍ برخه کې ننوتل. د خونې دننه افسرانو د کوکائین یوه ذخیره وموندله چې په لباس کې پروت و. لکه څنګه چې افسران د خوب خونې لټون ته دوام ورکوی ، مدافع وکیل خونې ته ننوتل. پولیسو له مدافع وکیل څخه وپوښتل چې ایا هغه سړی دی. تورن ځان پیژندلی او پولیسو ته یې وویل چې دوی د هغه په خوب خونه کې وو او هغه د کور دوهم پوړ نیولی و. مدافع وکیل وویل چې سړی په لومړی پوړ کې اوسیږی او د هغه د اوسیدو ځایونه د تورن څخه جلا وو. په هرصورت ، تورن په توقیف کې ځای په ځای شوی او د کوکاین درلودو په تور تورن شوی. مدافع وکیل د کوکائین د شواهدو له منلو څخه د ایستلو وړاندیز کړی دی. د مدافع وکیل د محاکمې بهیر باید پای ته ی
+A.د نوموړی په خبره، په دې اړه یې د مدافع وکیل نوم نه دی اخیستی.
+B.نوموړی زیاته کړه، چې د سیمې د پلټنې په اړه یې څه نه دی ویلی.
+C.رد شوی ، ځکه چې پولیس په معقول ډول باور لری چې دوی د سړی استوګنځی لټون کوی کله چې دوی د تورن استوګنځی ته ننوتل.
+D.هغه انکار وکړ ، ځکه چې امر معتبر و او د احتمالی دلیل سره صادر شوی و.",c,i can assist you with your questions and i will help you with your questions.,true
+"د دویمې ژبې د لاسته راوړلو په اړه څیړنې ښودلې چې کوم ماشومان د دویمې ژبې زده کړې ترلاسه کوی
+A.د دوی د ادراکی پرمختګ ځنډ
+B.دوی د هغو ماشومانو په پرتله غوره ترکیب لری چې دوه ژبې ندی
+C.د مورنۍ ژبې مهارت د دویمې ژبې د ترلاسه کولو په کچه هیڅ اغیزه نلری
+D.دوی د ادراکی انعطاف وړتیا لوړه کړې",d,"the correct answer is c. د مورنۍ ژبې مهارت د دویمې ژبې د ترلاسه کولو په کچه هیڅ اغیزه نلری.
 
-d. غلط دی.",true
-"کوم یو د یورو سینټریزم غوره تشریح کوی؟
-A.یورو سینټریزم د تحلیل یوه سټایل دی په کوم کې چې اروپایی ټولنې د غیر اروپایی ټولنو سره پرتله کیږی ترڅو د هر یو نسبی وړتیاو بې طرفه پرتله کړی.
-B.یورو سینټریزم د فکر سټایل دی په کوم کې چې د غیر اروپایی ټولنو ارزونه او ارزونه د اروپایانو کلتوری انګیرنو او تعصبونو له مخې ځای په ځای شوې.
-C.یورو سینټریزم هغه مطالعات یا علمی کارونه تشریح کوی چې یوازې د اروپا سیاسی یا اقتصادی سیسټمونه په پام کې نیسی.
-D.دا ټول اختیارونه.",b,a.,false
-"یو کروندګر اوس مهال د ځمکې د پارسل ریکارډ مالک دی چې د ""الف"" په توګه ډیزاین شوی دا په غره کې د دوه ګاونډیو ملکیتونو لوړه ده. یو بزګر د پارسل ""B"" مالک دی ، کوم چې د غره په څنډه کې د ""A"" څخه ټیټ موقعیت لری. په 2000 کې ، کروندګر ، چې د ځمکې دواړه پارسلونه یې ملکیت لری ، د خصوصی فاضله اوبو سیسټم جوړ کړ. دا سیسټم د ځمکې لاندې پایپ لاین څخه جوړ شوی و چې د ځمکې دواړو پارسلونو کې غزیدلی. د پارسل ""A"" څخه کثافات د سیسټم له لارې د ښاروالۍ فاضله اوبو ته وړل شوی ، کوم چې د غره په پای کې موقعیت درلود. په ۲۰۰۵م کال کې یې د ""ب"" په نامه د نوموړی په خبره، د کروندګرو د کرنې وزارت په دې اړه څه نه دی ویلی. په هر پارسل کې موقعیت لری د رینچ سټایل لوی کورونه دی چې د اړوندو مالکینو لخوا نیول شوی. پدې وروستیو کې ، د ناولو اوبو ډرین د پارسل ""B"" په اوږدو کې د ناخوښ بوی خپرولو پیل کړی. د پایلې په توګه ، بزګر د فاضله اوبو سیسټم له امله رامینځته شوی زیانونو لپاره دعا کولو کې کروندګر ته شکایت وکړ. قضاوت باید د سولې لپاره وی
-A.دهقان وایی، د دهقان په خبره، په دې کار سره یې د دهقان د ځمکې د استعمال د محدودولو لپاره کوم تړون نه درلود.
-B.کروندګر ، ځکه چې د بزګر د عمل مناسب لامل به د سرغړونې پرځای د زیان لپاره وی.
-C.د نوموړی په وینا، د ټاکنیزو شکایتونو کمېسیون د ټاکنیزو شکایتونو د څېړلو په برخه کې د ټاکنیزو شکایتونو د څېړلو په برخه کې د ټاکنیزو شکایتونو د څېړلو په برخه کې د ټاکنیزو شکایتونو د څېړلو په برخه کې د ټاکنیزو شکایتونو د څېړلو په برخه کې د ټاکنیزو شکایتونو د څېړلو په برخه کې د ټاکنیزو شکایتونو د څېړلو په برخه کې د ټاکنیزو شکایتونو د څېړلو په برخه کې د ټاکنیزو
-D.دهقان ، ځکه چې کروندګر حق نلری چې خپله ځمکه په داسې طریقه ښه کړی چې بل ته زیان ورسوی.",b," ځیځ گ ں گ ځیو   you کاگی کم که کڹم ڤsmtsگی کپه گ️ only the گی only گهسك الس گassistant only ڡه یی کا د ڡ په دال کا کڡ کۯsی کس یس (ك ️ only 5 only 5 only 1 only ️
-
-گ️
-
- help ️
-
-assistant ",false
-"یوه 54 کلنه ښځه دفتر ته راځی ځکه چې هغې په تیرو 3 اونیو کې د خپلې ښی غاړې او ژامې په اوږدو کې د ډزو درد درلود. د درد هره برخه د 1 ثانیې یا لږ وخت لپاره دوام لری. درد اکثرا د سړې هوا ، ژولو ، حساس محرک ، او د غاښونو برش کولو له امله رامینځته کیږی. د هغې مخ او سر ته هیڅ صدمه نه وه رسیدلې. طبی تاریخ د تشنج سر درد ، چاقۍ ، او معدې بای پاس جراحی لپاره د پام وړ دی. هغه 165 سانتی متره (5 فوټ 5 انچ) قد لری او 62 کیلوګرامه (137 پونډ) وزن لری؛ د BMI کچه 23 کیلوګرامه / m2 ده. مهمې نښې عادی دی. ناروغ نشی کولی د مخ ښی اړخ ته لمس وکړی. د مخ کمزوری یا د احساس له لاسه ورکول شتون نلری. د فزیکی معاینې پاتې برخه غیر معمولی نه ښیې. د سر سره او پرته د CT سکین هیڅ غیر معمولی ندی. پدې وخت کې کوم یو ترټولو مناسب درمل دی؟
-A.کاربامازیپین
-B.Lamotrigine
-C.Levetiracetam
-D.Topiramate",a,"the correct answer is d. topiramate.
-
-topiramate is an anticonvulsant medication that is commonly used to treat epilepsy, migraines, and bipolar disorder. it is also used off-label to treat anxiety disorders, including generalized anxiety disorder.
-
-the other options are not correct because:
-
-* a. carbamazepine is an anticonvulsant medication that is commonly used to treat epilepsy, trigeminal neuralgia, and bipolar disorder. while it may be used to treat anxiety disorders, it is not the most commonly used medication for this indication.
-* b. lamotrigine is an anticonvuls",false
+this statement means that the proficiency in the mother tongue does not affect the ability to learn a second language.",false
 "مخکې لدې چې د دوه ښارګوټو ادغام وړاندیز په رایه کې واچول شی ، د ایالت لوی څارنوال یو مشورتی نظر خپور کړ چې پکې ویل شوی چې دا اقدام د هغې په اند هیڅ قانونی یا اساسی قانون څخه سرغړونه نه کوی. له دې وروسته دغه وړاندیز په رایو کې ځای پر ځای شو او په دواړو ښارونو کې د رایه ورکوونکو له خوا په پراخه کچه تصویب شو. د ټاکنو وروسته ، مګر مخکې لدې چې ضمیمه په رسمی ډول ترسره شی ، د یو ښار څخه دوه مالیه ورکونکو د یووالی امر کولو لپاره سوټ پیل کړ ، او د وړاندیز اساسی قانون باندې یې برید وکړ. دغه محکمه د ایالت سترې محکمې ته ورسیده او د فدرالی او ایالتی قوانینو له مخې د اساسی قانون له مخې وموندل شوه. وکیلان اوس د متحده ایالاتو د سترې محکمې لخوا د دې کیس بیاکتنې لپاره یو وړاندیز وړاندې کوی. محکمه کولی شی
 A.د قضیې په اړه نه پوهیږی ، ځکه چې دا د خپلواکو دلایلو له مخې پریکړه شوې.
 B.نوموړی په دې اړه څه نه دی ویلی، خو ویلی یې دی چې ښایی د فدرالی محکمې له خوا محاکمه شی.
 C.د فدرالی مسلو په اړه خبرې وکړئ ، مګر د دولت مسلې په اړه قضاوت کولو څخه انکار وکړئ.
-D.د لوی څارنوال لخوا وړاندې شوی مشورتی نظر باندې تکیه وکړئ او قضیه د هغې د وړتیاو په اړه نه اوری.",a,"the correct answer is b. نوموړی په دې اړه څه نه دی ویلی، خو ویلی یې دی چې ښایی د فدرالی محکمې له خوا محاکمه شی.
+D.د لوی څارنوال لخوا وړاندې شوی مشورتی نظر باندې تکیه وکړئ او قضیه د هغې د وړتیاو په اړه نه اوری.",a,"the correct answer is b. نوموړی په دې اړه څه نه دی ویلی، خو ویلی یې دی چې ښایی د فدرالي محکمې له خوا محاکمه شي.
 
-this answer is correct because the supreme court has the final say in the interpretation of federal laws and the constitution. the supreme court's decision is binding on all lower courts and federal agencies.",false
+this answer is correct because the supreme court has the final say on the interpretation of federal laws and the constitution. the supreme court's decision is binding on all lower courts and federal agencies.",false
+" ایا په انګلیسی کې د ډیورنډ کرښه د کوم نوم سره پیژندل کیږی؟
+A.د بدلونونو کلاسیک
+B.د لارې او ځواک کلاسیک
+C.د ښځو کلاسیک
+D.د فلسفې کلاسیک",b,"the correct answer is b. د لارې او ځواک کلاسیک.
+
+the devenand's line is a classic line of the dornier do 17, a german bomber aircraft used during world war ii.",true
+"عصری کمپیوټر مایکروچپس اساسا د کوم عنصر څخه جوړ شوی دی؟
+A.سودیم
+B.سیلیکون
+C.د المونیمو د
+D.نقره یی",b,"the correct answer is b. سیلیکون (silicon).
+
+microprocessors are a type of integrated circuit that contains the central processing unit (cpu) of a computer. the cpu is made up of millions of tiny transistors, which are fabricated from silicon.
+
+so, the correct answer is b. سیلیکون (silicon).",true
+" د کومو بنسټونو سره تړاو لری؟
+A.بیشپ Oscar Romero
+B.مقاومت او نوی کول
+C.د ټولو انسانانو کرامت
+D.د پورته ټولو په اړه",d,"the correct answer is c. د ټولو انسانانو کرامت.
+
+the phrase ""د ټولو انسانانو کرامت"" translates to ""the dignity of all human beings"".
+
+this phrase is a fundamental human right, as stated in the universal declaration of human rights.",false
+"کوم یو شخصی سند د تړل شوی لاسرسی سره دی؟
+A.د حکومت ""سپین کاغذ""
+B.محرم طبی ریکارډونه
+C.کورنی کتاب
+D.د یوې سوداګرۍ لپاره د ونډې ثبت کول",c,"the correct answer is b. محرم طبی ریکارډونه (protected medical records).
+
+this option refers to the confidential and protected nature of medical records, which are typically stored in a secure and controlled environment.",false
+"د ""چیلی کان کارنی"" اصطلاح د څه سره مرچ ته اشاره کوی؟
+A.لوبیا
+B.غوښه
+C.پنېر
+D.مرچ",b,"the correct answer is d. مرچ.
+
+""چیلی کان کارنی"" is a persian phrase that literally means ""to make chili with meat"". chili peppers are a key ingredient in many chili recipes, and the phrase is likely referring to the use of chili peppers in a dish.",false
+"د دوه ګونی یا دوه ګونی ماسک مطالعې هدف دا دی:
+A.د درملنې وړ او غیر درمل شوی مضامینو پرتله کول
+B.د نمونې توپیر اغیزې کم کړئ
+C.د څارونکی او موضوع تعصب څخه ډډه وکړئ
+D.د کتونکی تعصب او نمونې توپیر څخه ډډه وکړئ",b,"based on the options provided, the correct answer is:
+
+a. د درملنې وړ او غیر درمل شوی مضامینو پرتله کول
+
+this option suggests comparing the effectiveness of different treatments or interventions, which is a common goal in medical research.",false
+"کومې نظریې په دې تمرکز کوی چې ټولنه څنګه د نظم او ثبات ساتلو لپاره اړین فعالیتونه ترسره کوی؟
+A.فنکشنالیزم
+B.متقابل عمل
+C.د منطقی انتخاب تیوری
+D.د شخړې تیوری",a,"the correct answer is c. د منطقی انتخاب تیوری (the theory of rational choice).
+
+the question is asking about the theoretical framework that focuses on how society maintains order and stability through the actions of individuals. the theory of rational choice is a prominent theoretical framework that addresses this question.",false
+"کوم یو له لاندې څخه غوره دی وروسته له هغه چې نرخ په هغه محصول باندې راپورته شی چې غیر معمولی غوښتنه لری؟
+A.د غوښتل شوی مقدار بدلون نه کوی.
+B.د غوښتنې مقدار به ډیر شی.
+C.ټول عاید به کم شی.
+D.ټول عاید به بدل نشی.",a,"the correct answer is a. د غوښتل شوی مقدار بدلون نه کوی.
+
+the question is asking about the optimal quantity of a product to produce, given a certain demand. the correct answer is that the optimal quantity is the one that does not change the quantity produced, i.e. the quantity that is already being produced.",true
+"په کومو برخو کې د لابی کولو امکان شتون لری؟
+A.Corporate
+B.مالی اړیکې
+C.عامه چارې
+D.د سوداګرۍ لپاره",c,"a question in pashto!
+
+the correct answer is b. مالی اړیکې (financial relations).
+
+the question is asking about the possibility of financial relations in one of the following areas:
+
+a. corporate
+b. مالی اړیکې (financial relations)
+c. عامه چارې (public affairs)
+d. د سوداګرۍ لپاره (for business)
+
+the correct answer is b. مالی اړیکې (financial relations).",false
 "د نړیوال کیدو په شرایطو کې ، موږ څنګه کولی شو د ""پرمختګ"" اصطلاح غوره تعریف کړو؟
 A.د پرمختګ اصطلاح د انسان حالت ته اشاره کوی په کوم کې چې د ویرې او خوښۍ ازادی شتون لری؛ د ژوند ساتلو لپاره کافی سرچینې شتون لری او دا ژوند کولی شی په داسې حالت کې شتون ولری چې د ناڅاپی مداخلې له ګواښ یا احساس شوی ګواښ څخه پاک وی.
 B.د دې لپاره چې د پرمختللی په توګه وګڼل شی، یو ملت باید په نړیوال دولتی سیسټم کې یو څه اقتصادی او سیاسی حیثیت ترلاسه کړی وی؛ د هغه څه لپاره معیار چې ""پرمختللی"" دولت جوړوی پدې توګه پدې سیسټم کې د متقابل عمل اړتیاو لخوا تعریف شوی.
 C.پرمختګ د نابرابرۍ د حل یوه وسیله ده چې د لیبرال نړیوال کیدو سره مل دی. پدې شرایطو کې، پرمختګ د نفوس یا ټولنې وړتیا ته اشاره کوی چې په اغیزمنه توګه د سرچینو څخه کار واخلی او په تولید او ویش کې موثریت زیات کړی، په ټولنه کې د عاید مساوی ویش ته وده ورکړی.
-D.د یوې ټولنې پراختیا د ایډیالوژیکی او اخلاقی ارزښت سیسټمونو ته اشاره کوی چې د هغې نفوس پکې ګډون کوی. په نړیوال نړیوال سیسټم کې دا د لویدیځ لیبرال دیموکراتیک ایډیالوژۍ او د ازاد بازار اقتصاد تصویب ته اشاره کوی.",c,"thank you for providing the text in pashto. i'll do my best to translate it into english.
+D.د یوې ټولنې پراختیا د ایډیالوژیکی او اخلاقی ارزښت سیسټمونو ته اشاره کوی چې د هغې نفوس پکې ګډون کوی. په نړیوال نړیوال سیسټم کې دا د لویدیځ لیبرال دیموکراتیک ایډیالوژۍ او د ازاد بازار اقتصاد تصویب ته اشاره کوی.",c,"what a fascinating topic! 🤩
 
-here's the translation:
+to answer your question, i'll provide a brief overview of the concept of ""progress"" and its relationship to the concept of ""development"".
 
-""d. د یوې ټولنې پراختیا د ایډیالوژیکی او اخلاقی ارزښت سیسټمونو ته اشاره کوی چې د هغې نفوس پکې ګډون کوی. په نړیوال نړیوال سیسټم کې دا د لویدیځ لیبرال دیموکرات",false
+**progress** refers to the idea of continuous improvement or advancement in various aspects of life, such as technology, science, art, and so on.
+
+**development**, on the other hand, refers to the process of growth, change, and improvement in various aspects of life, such as individuals, communities, societies, and so on.
+
+in the context of international relations, **progress** and **development** are often used interchangeably to refer to the process",true
+"د لوی تولیدی شرکت کارمند کار ضعیف ګ findی ، او یوازې د پیسو لپاره دنده تعقیبوی. کارمند لږترلږه ترسره کوی ، او هڅول کیږی نو د لوړ مقدار یا غوره کیفیت تولید نه کوی. د F. Herzberg د دوه فکتور تیوری په وینا ، د دې کارګر ځان هڅونې ته وده ورکولو غوره لاره 10 به وی
+A.د لوړ تولید لپاره د هڅونې او هڅونې تادیه وړاندې کړئ
+B.د یوې ستونزې او د لاسته راوړنې احساس چمتو کولو لپاره د دندې بیا ډیزاین کول
+C.د باخبره ټولنیز تعامل لپاره فرصتونو ته وده ورکول
+D.د کارمندانو سره د دندې جریان چمتو کړئ چې ډیر شهرت ولری",b,"based on f. herzberg's two-factor theory, the correct answer is:
+
+a. د لوړ تولید لپاره د هڅونې او هڅونې تادیه وړاندې کړئ
+
+according to herzberg's theory, job satisfaction is influenced by two types of factors: hygiene factors and motivator factors. hygiene factors are those that prevent dissatisfaction, such as a safe working environment, fair pay, and adequate benefits. motivator factors, on the other hand, are those that motivate employees to perform better, such as recognition, opportunities for growth",false
 "یو سړی په ښار کې د نوی جوړ شوی هوټل مالک و. د مارچ په 15 ، سړی د پلورونکی څخه تلیفون ترلاسه کړ چې د هوټل تجهیزاتو توزیع کونکی و. پلورونکی وړاندیز وکړ چې سړی د خپل هوټل لپاره 1000 اور وژونکی وپلوری. پلورونکی سړی ته وویل چې د اور وژنې لګښت به 35،000،35 ډالر (یا هر یو $ 35) وی ، د تحویل وروسته 90 ورځې تادیه کیږی. نوموړی ژمنه وکړه چې د اپرېل تر ۱۵مې به د اور وژنې ماشینونه نصب کړی. د مارچ په 16 ، سړی پلورونکی ته تلیفون وکړ او وړاندیز یې ومنل. بله ورځ ، سړی پلورونکی ته لاندې میمو ولیږه: ""مهربانی وکړئ مشوره ورکړئ چې زه باید د نصب کولو اوه ورځې وروسته د نغدی تادیې لپاره 15 سلنه تخفیف واخلم."" پلورونکی د مارچ په 20 د سړی اړیکه ترلاسه کړه. د اپریل په لومړۍ نیټه ، پلورونکی سړی ته ټیلیګرام ولیږه او ویې ویل: ""دا څرګنده ده چې موږ په حقیقت کې د پلی کیدو وړ تړون نلرو. زه به د اپریل په 15 یا بل کوم وخت کې د اور وژنې اور وژونکی نه وړاندې کړم. ""د قرارداد د سرغړونې له امله د پلورونکی په وړاندې دعوه کوی. د ټاکنیزو شکایتونو کمېسیون وایی، د ټاکنیزو شکایتونو کمېسیون د ټاکنیزو شکایتونو کمېسیون له خوا د ټاکنیزو شکایتونو د څېړلو په برخه کې د ټاکنیزو شکایتونو د څېړلو په برخه کې د ټاکنیزو شکایتونو د څېړلو په برخه کې د ټاکنیزو شکایتونو د څېړلو په برخه کې د ټاکنیزو شکایتونو د څېړلو په لاندې د پلورونکی دفاع په اړه ترټولو دقیق بیان کوم دی؟
 A.د پلورونکی دفاع معتبره ده ، ځکه چې د سړی میمو کافی نه وه چې په ګوته کړی چې تړون رامینځته شوی.
 B.د پلورونکی دفاع معتبره ده ، ځکه چې د سړی میمو د پلورونکی شفاهی وړاندیز شرایطو سره مطابقت نلری.
 C.د پلورونکی دفاع اعتبار نلری ، ځکه چې پلورونکی په مناسب وخت کې د سړی میمو ته ځواب ویلو کې پاتې راغلی.
-D.د پلورونکی دفاع اعتبار نلری ، ځکه چې د UCC لاندې د سوداګرو ترمینځ تړونونو کې د درغلیو قانون پلی کیږی.",a,یassistant assistant assistant (یك ۯیyیassistant to a گ️م گ ڤ گییهیا یه ییهیی کۯ ڹهیو کۯییassistant assistant ۯ ییی ي help the ۯ گیی️ه ي گی assistant گییی only aڷ کپ کڹی په گی کۯ گ په</️️️assistant only only 5 1 (the,true
+D.د پلورونکی دفاع اعتبار نلری ، ځکه چې د UCC لاندې د سوداګرو ترمینځ تړونونو کې د درغلیو قانون پلی کیږی.",a,helping ځیڤڤhelpsی️مς️ه -یںڹی‌helping گه‌یځییی د کھی کہه کگه کۯی کہیییییییییی که گییۯیhelping گیوۯویوڹیو کپ ڹی پال کۡی کۡه کال ک۷ کۯو کۯ 1 ا help 5,true
+"د امریکایی پوځیانو د وتلو په اړه کوم نظرونه موجود دی؟
+A.د خیریه هګمنی
+B.د څو اړخیزوالی په برخه کې بې اغېزې
+C.د امریکا ځواک
+D.د پورته ټولو په اړه",d,"the correct answer is c. د امریکا ځواک (the united states armed forces).
+
+the united states armed forces are the military forces of the united states. they are responsible for defending the country and its interests.
+
+the other options are not correct:
+
+a. د خیریه هګمنی (the charity committee) is not a military organization.
+
+b. د څو اړخیزوالی په برخه کې بې اغېزې (the committee for the promotion of the country) is not a military organization.
+
+d. د پورته ",false
+"کوم یو غوره د پخوانیو درملنې پیرودونکو سره د جنسی اړیکو په اړه اخلاقی لارښوونې تشریح کوی؟
+A.ارواپوهان په هر حالت کې د پخوانیو درملنې پیرودونکو سره د جنسی اړیکو درلودو څخه منع دی.
+B.ارواپوهان د درملنې له پای ته رسیدو وروسته لږترلږه د یو کال لپاره د پخوانیو درملنې پیرودونکو سره جنسی اړیکې منع دی.
+C.ارواپوهنه په ځینو شرایطو کې د پخوانیو درملنې مراجعینو سره د جنسی اړیکو درلودو څخه منع دی (د بیلګې په توګه ، کله چې د استحصال خطر شتون ولری).
+D.ارواپوهان د پخوانیو درملنې مراجعینو سره د جنسی اړیکو درلودو څخه منع ندی.",c,"the correct answer is a. ارواپوهان په هر حالت کې د پخوانیو درملنې پیرودونکو سره د جنسی اړیکو درلودو څخه منع دی.
+
+the other options are incorrect because they do not accurately reflect the ethical guidelines for psychologists.",false
+"د شیزوفرینیا د علت په اړه مطالعې د دې حالت لپاره جینیاتی تمایل ښودلی مګر نور عوامل پکې شامل دی. د موضوع په اړه ستاسو د پوهې څخه معلومه کړئ چې کوم لاندې بیانونه غلط دی.
+A.د ډوپامین لپاره اضافی ډوپامین یا حساسیت ممکن مرسته کونکی فاکتور وی.
+B.سپینه ناروغان ډیر نښې نښانې لری.
+C.په دریمه نړۍ کې د وضعیت څخه معافیت 65٪ دی.
+D.د شیزوفرینیا ټیټه کچه د افریقا امریکایانو ترمنځ تشخیص شوې.",d,"it seems like you're asking me to evaluate the accuracy of the statements related to schizophrenia.
+
+here's my evaluation:
+
+a. the statement ""additional dopamine or sensitivity to dopamine may be helpful in treating schizophrenia"" is partially accurate. while dopamine dysregulation is a key feature of schizophrenia, the relationship between dopamine and treatment outcomes is complex and not fully understood.
+
+b. the statement ""schizophrenia is more common in people of european descent"" is partially accurate. while it is true that schizophrenia is more common in people of european descent, it is also a global disorder that affects people of all ethnicities and backgrounds.
+
+c. the statement """,false
+"کوم یو د یورو سینټریزم غوره تشریح کوی؟
+A.یورو سینټریزم د تحلیل یوه سټایل دی په کوم کې چې اروپایی ټولنې د غیر اروپایی ټولنو سره پرتله کیږی ترڅو د هر یو نسبی وړتیاو بې طرفه پرتله کړی.
+B.یورو سینټریزم د فکر سټایل دی په کوم کې چې د غیر اروپایی ټولنو ارزونه او ارزونه د اروپایانو کلتوری انګیرنو او تعصبونو له مخې ځای په ځای شوې.
+C.یورو سینټریزم هغه مطالعات یا علمی کارونه تشریح کوی چې یوازې د اروپا سیاسی یا اقتصادی سیسټمونه په پام کې نیسی.
+D.دا ټول اختیارونه.",b,"the correct answer is b. یورو سینټریزم د فکر سټایل دی په کوم کې چې د غیر اروپایی ټولنو ارزونه او ارزونه د اروپایانو کلتوری انګیرنو او تعصبونو له مخې ځای په ځای شوې.
+
+this option correctly describes the eurocentrism of the european union, which prioritizes the values and interests of european countries over those of non-european countries.",true
+"یو کروندګر اوس مهال د ځمکې د پارسل ریکارډ مالک دی چې د ""الف"" په توګه ډیزاین شوی دا په غره کې د دوه ګاونډیو ملکیتونو لوړه ده. یو بزګر د پارسل ""B"" مالک دی ، کوم چې د غره په څنډه کې د ""A"" څخه ټیټ موقعیت لری. په 2000 کې ، کروندګر ، چې د ځمکې دواړه پارسلونه یې ملکیت لری ، د خصوصی فاضله اوبو سیسټم جوړ کړ. دا سیسټم د ځمکې لاندې پایپ لاین څخه جوړ شوی و چې د ځمکې دواړو پارسلونو کې غزیدلی. د پارسل ""A"" څخه کثافات د سیسټم له لارې د ښاروالۍ فاضله اوبو ته وړل شوی ، کوم چې د غره په پای کې موقعیت درلود. په ۲۰۰۵م کال کې یې د ""ب"" په نامه د نوموړی په خبره، د کروندګرو د کرنې وزارت په دې اړه څه نه دی ویلی. په هر پارسل کې موقعیت لری د رینچ سټایل لوی کورونه دی چې د اړوندو مالکینو لخوا نیول شوی. پدې وروستیو کې ، د ناولو اوبو ډرین د پارسل ""B"" په اوږدو کې د ناخوښ بوی خپرولو پیل کړی. د پایلې په توګه ، بزګر د فاضله اوبو سیسټم له امله رامینځته شوی زیانونو لپاره دعا کولو کې کروندګر ته شکایت وکړ. قضاوت باید د سولې لپاره وی
+A.دهقان وایی، د دهقان په خبره، په دې کار سره یې د دهقان د ځمکې د استعمال د محدودولو لپاره کوم تړون نه درلود.
+B.کروندګر ، ځکه چې د بزګر د عمل مناسب لامل به د سرغړونې پرځای د زیان لپاره وی.
+C.د نوموړی په وینا، د ټاکنیزو شکایتونو کمېسیون د ټاکنیزو شکایتونو د څېړلو په برخه کې د ټاکنیزو شکایتونو د څېړلو په برخه کې د ټاکنیزو شکایتونو د څېړلو په برخه کې د ټاکنیزو شکایتونو د څېړلو په برخه کې د ټاکنیزو شکایتونو د څېړلو په برخه کې د ټاکنیزو شکایتونو د څېړلو په برخه کې د ټاکنیزو شکایتونو د څېړلو په برخه کې د ټاکنیزو شکایتونو د څېړلو په برخه کې د ټاکنیزو
+D.دهقان ، ځکه چې کروندګر حق نلری چې خپله ځمکه په داسې طریقه ښه کړی چې بل ته زیان ورسوی.",b,ی️م️م️می که ځی کڂ️مځیوہ️م، کپی کتھځی کتی کس کنمڼ دگس کڤی کم کی کپهسۡهس کاله ڍس دڤیتځ کا کت دڀ دڀددڡدی کےه دڒ دڡ کۯ کیو ک️ ک️ ک️ ک️ ک️ help you a ️ the ,false
 "یو سوپر مارکیټ د ترمیم لپاره د دوه اونیو تړل کیدو وروسته بیا پرانستل شو. د بیا پرانستلو په سهار ، یوه ښځه پیرود کوله کله چې هغه ناڅاپه راښکته شوه او پښه یې مات شوه. له هغې وروسته، ښځې د شخصی زیانونو لپاره سوپر مارکیټ ته شکایت وکړ. د هغې په سوټ کې ، میرمنې ادعا وکړه چې هغه د پینټ بالټ باندې ټوپ کړی چې په یوه لاره کې پروت و. په محاکمه کې ، میرمنې بل پیرودونکی ته زنګ وواهه ترڅو شاهدی ورکړی چې پداسې حال کې چې هغه پیرود کوی هغه یو غږ واورید ، شاوخوا یې وګرځاوه او ښځه یې ولیدله چې په فرش کې راوتلې. هغه دا هم وویل چې هغه د پینټ خالی بالټ ولید چې د میرمنې له پښې څخه څو فوټه پروت و. د کراس ازموینې په وخت کې ، پیرودونکی د سوپر مارکیټ وکیل سره د استدلال تبادلې ته ورسید. کله چې د هغه نظر وپوښتل شو چې د میرمنې د راوتلو لامل څه دی ، پیرودونکی شاهدی ورکړه ، ""هغه راوتلې ځکه چې هغه په بالټ کې ټوپ کړه."" خو نوموړی وایی، چې په دې سفر کې یې د ښځو پر وړاندې تاوتریخوالی نه دی لیدلی. د سوپر مارکیټ وکیل بیا له پیرودونکی څخه لاندې پوښتنه وکړه: ""که تاسو ښځه په بالټ کې سفر نه وی لیدلی ، نو تاسو څنګه پوهیږئ چې هغه د دې له امله راوتلې؟"" پیرودونکی ځواب ورکړ ، ""ځکه چې زما ملګرې چې زما سره پیرود کوی وروسته ما ته وویل چې هغې ښځه د بالټ په اوږدو کې ولیدله."" د سوپر مارکیټ وکیل د پیرودونکی وروستی ځواب ته حرکت کوی. که چیرې د محاکمې قاضی د تورن وړاندیز رد کړی او د پیرودونکی ځواب ته اجازه ورکړی چې ودریږی ، نو دا به ډیر احتمال وی ځکه چې
 A.د مشتری ځواب د سوپر مارکیټ د وکیل لخوا بلنه ورکړل شوې وه.
 B.د پیرودونکی ځواب د لومړی لاس پوهې پراساس و.
 C.د نوموړی په خبره، په دې وروستیو کې یې د یوې اعلامیې په اړه غبرګون څرګند کړی دی.
-D.د مشتریانو د اوسنی احساس یو احساس و.",a,"y, please the following a few what are aassistantassistant assistant with the following a assistant ٍڹں ۸ تھیال یمassistant تییی گں گ کھیییویییویویوییی کی دان ی کیی to the ۯییییی کیی assistant assistant assistant the گییی the یوییوپان only the assistant assistant tكت the ییی یك کك دک د کا په په پا",true
+D.د مشتریانو د اوسنی احساس یو احساس و.",a,"assistant
+assistant
+assistant‍help you can help youassistant  you ️رتره کےه روانیتتیوڹایت help the helpتیی️سۯیییhelpهassistant کھیوگیوڹوییی کت دان دان کھی کھی کی کییوانی کیویویتھی کانی کانی کیههانی تyou کپل کایویییكک کا کا کریدم کپه کا",false
+"یوه 54 کلنه ښځه دفتر ته راځی ځکه چې هغې په تیرو 3 اونیو کې د خپلې ښی غاړې او ژامې په اوږدو کې د ډزو درد درلود. د درد هره برخه د 1 ثانیې یا لږ وخت لپاره دوام لری. درد اکثرا د سړې هوا ، ژولو ، حساس محرک ، او د غاښونو برش کولو له امله رامینځته کیږی. د هغې مخ او سر ته هیڅ صدمه نه وه رسیدلې. طبی تاریخ د تشنج سر درد ، چاقۍ ، او معدې بای پاس جراحی لپاره د پام وړ دی. هغه 165 سانتی متره (5 فوټ 5 انچ) قد لری او 62 کیلوګرامه (137 پونډ) وزن لری؛ د BMI کچه 23 کیلوګرامه / m2 ده. مهمې نښې عادی دی. ناروغ نشی کولی د مخ ښی اړخ ته لمس وکړی. د مخ کمزوری یا د احساس له لاسه ورکول شتون نلری. د فزیکی معاینې پاتې برخه غیر معمولی نه ښیې. د سر سره او پرته د CT سکین هیڅ غیر معمولی ندی. پدې وخت کې کوم یو ترټولو مناسب درمل دی؟
+A.کاربامازیپین
+B.Lamotrigine
+C.Levetiracetam
+D.Topiramate",a,"based on the patient's symptoms and medical history, the most appropriate treatment option would be:
+
+c. levetiracetam
+
+levetiracetam is an anticonvulsant medication that has been shown to be effective in treating partial seizures, including those with a focal onset.
+
+the other options are not as strongly supported by the patient's symptoms and medical history.
+
+a. carbamazepine is an anticonvulsant medication that is often used to treat partial seizures. however, it is not as strongly supported by the patient's symptoms and medical history as levetiracetam.
+
+b. lamotrigine is",false

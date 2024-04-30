@@ -1,54 +1,91 @@
 Question,CorrectAnswer,GivenAnswer,Correct
-"Èwo nínú àwọn fíìmù ẹ̀rù wọ̀nyí ló ṣẹ̀dá ìtẹ̀síwájú tó pọ̀ jù?
-A.Scream'
-B.Jaws'
-C.Halloween'
-D.Ọjọ́ Ẹtì ọjọ́ 13'",d,b,false
-"Èwo nínú àwọn oúnjẹ wọ̀nyí ni wọ́n ṣe láti inú ìfun ẹlẹ́dẹ̀?
-A.haggis
-B.chitlins
-C.grits
-D.chop suey",b,b,true
-"Kí ni èdè ìjọba Orílẹ̀-èdè Netherlands?
-A.Èdè Dẹ́nmárkì
-B.Èdè Swídìn
-C.Èdè Jámánì
-D.Èdè Nẹ́dálándì",d,d,true
-"K-fold cross-validation ì ì
-A.linear ni K
-B.Quadratic ni K
-C.onigun ni K
-D.exponential ni K",a,a,true
-"Ojò kan wa ni irisi prism triangular kan. Tí ìpìlẹ̀ onígun mẹ́ta náà bá ní agbègbè ẹsẹ̀ mẹ́rin 116, tí ọkọ̀ ojú omi náà sì ga ní ẹsẹ̀ 30, omi mélòó ni ọkọ̀ ojú omi náà yóò ní nígbà tí ó bá kún?
-A.1725 ft ì
-B.1740 ft ì
-C.3480 ft ì
-D.6960 ft ì",c,b,false
-" Yi tita ati ibaraẹnisọrọ ọpa nfun a taara inducement tabi ohun iwuri lati iwuri fun awọn onibara lati ra a ọja / iṣẹ:
-A.Ipolowo.
-B.Ìbáṣepọ̀ àwùjọ.
-C.Tita igbega.
-D.Taara tita.",c,a,false
 "Ní ìpínlẹ̀ wo ni fíìmù Magnolia 1999 ṣètò?
 A.California
 B.South Carolina
 C.Jọ́jíà
-D.Texas",a,a,true
+D.Texas",a,"the correct answer is a. california.
+
+the 1999 film magnolia is set in the san fernando valley region of los angeles, california.",true
+" Yi tita ati ibaraẹnisọrọ ọpa nfun a taara inducement tabi ohun iwuri lati iwuri fun awọn onibara lati ra a ọja / iṣẹ:
+A.Ipolowo.
+B.Ìbáṣepọ̀ àwùjọ.
+C.Tita igbega.
+D.Taara tita.",c,"the correct answer is a. ipolowo.
+
+ipolowo refers to an inducement or incentive, which is something that motivates or encourages people to take a particular action, such as buying a product or service.",false
 "Àwọn àgbàlagbà àgbàlagbà dàbí ẹni pé wọ́n pọ̀ jù ____ ju àwọn àgbàlagbà tàbí àgbàlagbà lọ.
 A.Generative
 B.Neurotic
 C.Agreeable
-D.Àwọn kan",a,d,false
+D.Àwọn kan",a,"i see you're speaking yoruba!
+
+the correct answer is c. agreeable.
+
+the sentence translates to: ""the elderly people are more agreeable than the other elderly people or some elderly people.""
+
+so, the correct option is agreeable (c).",false
+"Kí ni èdè ìjọba Orílẹ̀-èdè Netherlands?
+A.Èdè Dẹ́nmárkì
+B.Èdè Swídìn
+C.Èdè Jámánì
+D.Èdè Nẹ́dálándì",d,"the correct answer is d. èdè nẹ́dálándì.
+
+èdè nẹ́dálándì means ""dutch"" in yoruba, and it is the official language of the netherlands.",true
 "Kí ni òṣèré Antonio Banderas native language?
 A.Èdè Sípéènì
 B.Èdè Rọ́ṣíà
 C.Èdè Jámánì
-D.Èdè faransé",a,a,true
-"Ìyókù autocorrelation tí ó kù ni a tọ́ka sí nípasẹ̀ èwo nínú àwọn wọ̀nyí?
-A.Àpẹẹrẹ cyclical nínú àwọn ìyókù.
-B.Àpẹẹrẹ ìyípadà nínú àwọn ìyókù.
-C.Àìṣedéédé pátápátá nínú àwọn ìyókù.
-D.Àwọn ìyókù tí gbogbo wọn súnmọ́ òdo.",b,b,true
+D.Èdè faransé",a,"nice question!
+
+antonio banderas is a spanish actor, so his native language is... (drumroll)... èdè sípéènì, which means ""spanish"" in yoruba!
+
+so, the correct answer is a. èdè sípéènì.",true
+"Wá $-\dfrac{1}{-3}\cdot\cfrac{1}{~\frac{1}{-3}~}.$
+A.1
+B.-1
+C.0
+D.2",b,"let's break it down step by step:
+
+$$-\dfrac{1}{-3}\cdot\cfrac{1}{~\frac{1}{-3}~} = -\dfrac{1}{-3}\cdot\dfrac{-3}{1} = 1$$
+
+so, the correct answer is:
+
+a. 1",true
+"Èwo nínú àwọn àbùdá wọ̀nyí ni ó bá ìfipábánilòpọ̀ ọjọ́ mu?
+A.Lilo agbara ti o pọju
+B.Premeditated
+C.ibalopo motivated
+D.O ni lati lo ohun ija kan.",c,"i see you're speaking yoruba!
+
+the correct answer is b. premeditated.
+
+èwo nínú àwọn àbùdá wọ̀nyí ni ó bá ìfipábánilòpọ̀ ọjọ́ mu? translates to ""which of these is a premeditated act?""
+
+so, the correct option is indeed b. premeditated.",true
+"Ní ìfiwéra pẹ̀lú àwọn ẹgbẹ́ òṣèlú ní àwọn orílẹ̀-èdè bíi England àti Israel, tí àwọn méjèèjì ní ètò ọ̀pọ̀lọpọ̀ ẹgbẹ́, àwọn ẹgbẹ́ òṣèlú Amẹ́ríkà wà.
+A.Kò fi bẹ́ẹ̀ nífẹ̀ẹ́ sí ipa lórí èsì ìdìbò.
+B.Kò fi bẹ́ẹ̀ hàn kedere pẹ̀lú àwọn èrò òṣèlú tí ó ṣe déédéé.
+C.Kò ṣiṣẹ́ dáadáa láti gba owó lọ́wọ́ àwọn olùtìlẹ́yìn òṣèlú.
+D.O dara julọ lati ṣe afihan awọn ibi-afẹde ti gbogbo awọn agbegbe wọn.",b,"it seems like you're describing the characteristics of american political parties compared to those in england and israel. here's a breakdown of your points:
+
+a. unlike england and israel, american political parties do not have a strong influence on the outcome of elections.
+
+b. american political parties do not have a clear distinction or separation from other interest groups.
+
+c. american political parties do not rely heavily on funding from party supporters.
+
+d. the best approach is to showcase the unique strengths of each region within the party.
+
+is that correct?",true
+"Kí ni ìkọlù àtúnwò?
+A.Nígbà tí olùkọlù náà dáhùn sí àtẹ̀jíṣẹ́ tí ẹ̀rọ fi ránṣẹ́ sí i.
+B.Ìkọlù tí ó máa ń tún un ṣe ní gbogbo ìgbà, tí ó ń ṣe ìwádìí fún àìlera.
+C.Ìkọlù tí ó ń lo àtẹ̀jíṣẹ́ ẹ̀rọ náà nítorí náà kò ṣe é dáàbò bo lọ́wọ́.
+D.Olùkọlù náà tún àtẹ̀jíṣẹ́ tí wọ́n mú ṣe, ojú òpó náà sì gba rẹ̀ ó sì dáhùn ní ojúrere olùkọlù náà.",d,"the correct answer is a.nígbà tí olùkọlù náà dáhùn sí àtẹ̀jíṣẹ́ tí ẹ̀rọ fi ránṣẹ́ sí i.
+
+translation: ""when the teacher responded to the assignment that the computer sent to him/her.""
+
+this option makes sense in the context of a teacher responding to an assignment or task sent by a computer, which is a common scenario in educational settings.",false
 "Ìbéèrè yìí ń tọ́ka sí àlàyé wọ̀nyí.
 Ni akọkọ a gbọdọ sọ pe cosmos jẹ spherical ni fọọmu, apakan nitori fọọmu yii jẹ odidi pipe ti ko nilo awọn isẹpo, jẹ pipe julọ ti gbogbo rẹ, ni apakan nitori pe o ṣe fọọmu ti o ni imọran julọ, eyiti o dara julọ lati ni ati tọju ohun gbogbo; tabi lẹẹkansi nitori gbogbo awọn ẹya ara ti agbaye, iyẹn ni oorun, oṣupa ati awọn aye han ni fọọmu yii; tabi nitori ohun gbogbo n tiraka lati gba fọọmu yii, bi o ti han ninu ọran ti omi ati awọn ara omi miiran ti wọn ba gbiyanju lati ṣalaye ara wọn. Nítorí náà kò sí ẹni tí yóò ṣiyèméjì pé ìrísí yìí jẹ́ ti àwọn ara ọ̀run. ...
 Pé ayé náà kọjá ìbéèrè, nítorí pé ó tẹ̀ láti gbogbo ẹ̀gbẹ́ lórí àárín rẹ̀. Biotilẹjẹpe nipa idi ti awọn igbega ti awọn oke-nla ati awọn ibanujẹ ti awọn afonifoji kan ko le ni oye, sibẹ eyi ko ni ipa lori iseda gbogbogbo ti ilẹ. ...
@@ -58,27 +95,161 @@ Nicolas Copernicus, Awọn Iyika ti Awọn ara Ọrun, 1543
 A.Awọn cosmos jẹ spherical
 B.Awọn Earth jẹ spherical
 C.awọn cosmos ni geostatic
-D.Ayé ò dúró",d,a,false
-"Awọn iyipada ti o fa achondroplasia exert ohun ipa eyi ti o le wa ni classified bi:
-A.Ohun tí kò dára.
-B.gain-of-function ì
-C.Haploinsufficiency.
-D.Àdánù-iṣẹ́.",b,c,false
+D.Ayé ò dúró",d,"this is a passage from nicolas copernicus' book ""de revolutionibus orbium coelestium"" (on the revolutions of the celestial spheres) written in 1543. the passage discusses the shape of the universe and the earth.
+
+the correct answer is:
+
+a. awọn cosmos jẹ spherical
+
+the passage states that the cosmos is spherical in shape, citing various reasons such as the fact that it has no beginning or end, and that it is the most perfect and complete shape.",false
+"Àwọn akẹ́kọ̀ọ́ ń ṣe ìdánilẹ́kọ̀ọ́ ìyàsọ́tọ̀ àwọ̀ ohun ọ̀gbìn tí ó nílò kí wọ́n lo yàrá chromatography tí ó pa pẹ̀lú ìwọ̀n acetone kékeré ní ìsàlẹ̀ yàrá náà. Àwọn ìkìlọ̀ ààbò fún acetone pẹ̀lú ọ̀rọ̀ náà pé ó jẹ́ ojú àti awọ ara tí ó ń bíni nínú àti pé ó ní àwọn òfurufú tó ń jóná. Nínú àwọn wọ̀nyí ' ìṣọ́ra ààbò wo ni àwọn akẹ́kọ̀ọ́ gbọ́dọ̀ ṣe nígbà tí wọ́n bá ń ṣe ìdánilẹ́kọ̀ọ́ náà?
+A.Gbígbé ìbọ̀wọ́ iná-retardant láti gbé yàrá náà lọ sí ìbòjú èéfín tí acetone bá jóná.
+B.Gbígbé yàrá náà sínú àpótí tí wọ́n ti pa, tí ó ṣókùnkùn fún ìgbà ìyàsọ́tọ̀ àwọ̀.
+C.Wíwọ ìbọ̀wọ́ awọ àti ìbòjú imú àti ẹnu pẹ̀lú ìbòjú ẹ̀yà.
+D.Wíwọ goggles ati nitrile-iru ibọwọ ati ki o pa gbogbo acetone agolo pipade",d,"the correct answer is d. wíwọ goggles ati nitrile-iru ibọwọ ati ki o pa gbogbo acetone agolo pipade.
+
+this translates to ""wear goggles and nitrile gloves and ensure you handle all acetone with a pipette.""
+
+the question is asking what precautions the students should take when handling acetone during chromatography. the correct answer is to wear protective gear such as goggles and nitrile gloves to prevent skin contact and eye exposure, and to handle the acetone carefully using a pipette.",true
+"Àìní ìrànlọ́wọ́ tí a kọ́ ṣe é ṣe kí ó ní ìbámu tààrà pẹ̀lú.
+A.awọn Barnum ipa.
+B.self-serving bias. ì
+C.Ohun elo ti o wa ni ita gbangba ti iṣakoso.
+D.Ìbọ̀wọ̀ rere tí kò ní àdéhùn.",c,"i see you're speaking yoruba!
+
+it seems like you're asking about the correct answer to a question. based on the options provided, i'll do my best to help you out.
+
+the correct answer is b. self-serving bias.
+
+self-serving bias refers to the tendency for people to attribute their successes to internal factors (e.g., ability, effort) and their failures to external factors (e.g., luck, circumstance). this bias can lead individuals to take credit for positive outcomes and blame external circumstances for negative outcomes.
+
+let me know if you have any further questions or if there's anything else i can assist you with!",false
+"Ìwádìí Garcia àti Koelling nípa ìkórìíra tí wọ́n kọ́ fi ìdí rẹ̀ múlẹ̀ pé èwo nínú àwọn méjèèjì UCS àti CS wọ̀nyí ni ó lágbára jùlọ tí wọ́n sì kọ́ ní kíákíá?
+A.Ṣiṣe iṣẹ-ṣiṣe kan ati gbigba ẹsan ounjẹ kan
+B.nausea ati ounje tabi ohun mimu
+C.iṣipopada ati mọnamọna
+D.ijiya ati awọn ẹsan",b,"i'd be happy to help you with that!
+
+the correct answer is c. iṣipopada ati mọnamọna.
+
+garcia and koelling's study demonstrated that ucs (unconditioned stimulus) and cs (conditioned stimulus) can be associated through classical conditioning, leading to a conditioned response. in this context, iṣipopada refers to the ucs (unconditioned stimulus) and mọnamọna refers to the cs (conditioned stimulus).
+
+let me know if you have any further questions or need clarification!",false
+"Aláìsàn kan ní ọrùn tó fọ́ pẹ̀lú ìbàjẹ́ sí okùn ẹ̀yìn ẹ̀yìn ní ìpele ẹ̀yìn ọrùn kẹfà.
+A.Wọn kò ní lè mí láìsí ìrànlọ́wọ́ ayé.
+B.Wọ́n kàn máa lè mí ní ìdákẹ́jẹ́ẹ́.
+C.Kò ṣe é ṣe láti sọ àsọtẹ́lẹ̀ ipa lórí mímí.
+D.Èémí kò ní nípa lórí.",b,"it seems like you're speaking yoruba!
+
+here's a translation of the sentence:
+
+""i was unable to sleep last night because of the noise from the backyard.""
+
+and here are the options with their translations:
+
+a. ""they didn't allow me to rest at all.""
+b. ""they will allow me to rest a little.""
+c. ""it's not like that, i'm just pretending to be okay.""
+d. ""i don't have any problem.""
+
+which one do you think is the correct response to the initial sentence?",true
+"Ètò ọrọ̀ ajé wà nínú ìdàgbàsókè tó jinlẹ̀. Pẹ̀lú ipò ọrọ̀ ajé yìí èwo nínú àwọn ọ̀rọ̀ wọ̀nyí nípa ìlànà owó ṣe rẹ́gí?
+A.Ìlànà ìgbésókè yóò kàn mú kí ìdàgbàsókè burú sí i.
+B.Ìlànà ìgbésókè máa ń pọ̀ sí i ní àpapọ̀ ìbéèrè tí ìdókòwò bá ní ìmọ̀lára sí àwọn àyípadà nínú òṣùwọ̀n èrè.
+C.Ìlànà àdéhùn jẹ́ ìwúrí tí ó yẹ fún ìdókòwò àti ìlò.
+D.Tí ìbéèrè fún owó bá jẹ́ ìlànà owó ìgbésókè owó lè ṣiṣẹ́ dáadáa.",b,"the correct answer is b. ìlànà ìgbésókè máa ń pọ̀ sí i ní àpapọ̀ ìbéèrè tí ìdókòwò bá ní ìmọ̀lára sí àwọn àyípadà nínú òṣùwọ̀n èrè.
+
+this option states that the budgeting plan will help to allocate resources effectively, prioritize needs, and make provision for savings and investments. this aligns with the concept of budgeting as a tool for effective resource allocation and financial planning.",true
+"Owó orí tí wọ́n gbé kalẹ̀ lórí olùpèsè yóò ṣe é ṣe kí wọ́n gbé lé àwọn oníbàárà lọ́wọ́ ní ìrísí ìlọsíwájú iye owó tí ó bá jẹ́ pé
+A.Iye owó ríràn ìbéèrè máa ń ràn gidi gan-an.
+B.Iye owo elasticity ti eletan jẹ gidigidi inelastic.
+C.Ìrọ̀rùn iye owó ìbéèrè jẹ́ ìrọ̀rùn ẹ̀yà.
+D.Ìrọ̀rùn owó oṣù ìbéèrè máa ń rọ̀ gidi gan-an.",b,"it seems like you're discussing economics in yoruba!
+
+the correct answer is a. iye owó ríràn ìbéèrè máa ń ràn gidi gan-an.
+
+this translates to ""the elasticity of money demand is very elastic."" in economics, the elasticity of demand refers to how responsive the quantity demanded of a good or service is to changes in its price or other influential factors. in this case, the statement suggests that the demand for money is highly responsive to changes in interest rates or other factors.
+
+let me know if you have any further questions or need help with anything else!",false
 "Èwo nínú àwọn nkan wọ̀nyí ni wọ́n máa kà sí ohun tí ó ń fa ""fa"" fún Riva nígbà tí a bá ń ronú nípa gbígbé láti India lọ sí United States?
 A.Òṣì Abject
 B.Iṣẹ́ tó dára àti owó oṣù tó ga
 C.India's caste system
-D.Ìwà ipá ní àdúgbò rẹ̀",b,c,false
-"Awọn fallacy ti laudatory eniyan jẹ kan pato iru ti
-A.Awọn fallacy ti ijamba
-B.Ìṣòro èké
-C.Bẹ̀bẹ̀ ìbéèrè náà
-D.Ìrònú yíká",a,c,false
-"Ní ìfiwéra pẹ̀lú àwọn ẹgbẹ́ òṣèlú ní àwọn orílẹ̀-èdè bíi England àti Israel, tí àwọn méjèèjì ní ètò ọ̀pọ̀lọpọ̀ ẹgbẹ́, àwọn ẹgbẹ́ òṣèlú Amẹ́ríkà wà.
-A.Kò fi bẹ́ẹ̀ nífẹ̀ẹ́ sí ipa lórí èsì ìdìbò.
-B.Kò fi bẹ́ẹ̀ hàn kedere pẹ̀lú àwọn èrò òṣèlú tí ó ṣe déédéé.
-C.Kò ṣiṣẹ́ dáadáa láti gba owó lọ́wọ́ àwọn olùtìlẹ́yìn òṣèlú.
-D.O dara julọ lati ṣe afihan awọn ibi-afẹde ti gbogbo awọn agbegbe wọn.",b,d,false
+D.Ìwà ipá ní àdúgbò rẹ̀",b,"the correct answer is b. iṣẹ́ tó dára àti owó oṣù tó ga.
+
+the phrase ""fa"" in the context of riva's story refers to the challenges or difficulties she faced when moving from india to the united states. the correct answer, option b, translates to ""good job and high salary"" in english, which is not a challenge or difficulty.
+
+however, considering the context of riva's story, it's likely that the correct answer is actually c. india's caste system. the caste system in india can be a significant obstacle for individuals like riva who are trying to improve their socio-economic status or migrate to another country.",true
+"Ìyókù autocorrelation tí ó kù ni a tọ́ka sí nípasẹ̀ èwo nínú àwọn wọ̀nyí?
+A.Àpẹẹrẹ cyclical nínú àwọn ìyókù.
+B.Àpẹẹrẹ ìyípadà nínú àwọn ìyókù.
+C.Àìṣedéédé pátápátá nínú àwọn ìyókù.
+D.Àwọn ìyókù tí gbogbo wọn súnmọ́ òdo.",b,"the correct answer is b. àpẹẹrẹ ìyípadà nínú àwọn ìyókù.
+
+autocorrelation refers to the correlation between a signal and a delayed version of itself. in other words, it measures how well a signal is correlated with its own past or future values. this is also known as serial correlation or lagged correlation.
+
+so, option b, ""àpẹẹrẹ ìyípadà nínú àwọn ìyókù"", which translates to ""serial correlation within the signals"", is the correct definition of autocorrelation.",true
+"Ìwòye ọpọlọ wo ló gbajúmọ̀ jùlọ ní ìyípadà ọ̀rúndún ogún ní Ìwọ̀ Oòrùn Europe?
+A.neuroscience
+B.Evolutionary
+C.behaviorist
+D.psychoanalytic",d,"the correct answer is d. psychoanalytic.
+
+sigmund freud, an austrian neurologist, is considered the founder of psychoanalysis. he developed his theories and techniques in the late 19th and early 20th centuries, which is around the 18th to 19th century in ìwọ̀ oòrùn (european) calendar.
+
+freud's work focused on the unconscious mind, childhood experiences, and the structure of personality, which are all core concepts in psychoanalytic theory. his ideas had a significant impact on the development of modern psychology and continue to influence contemporary thought in the field.",true
+"Kí ló dé tí Parfit tako ìdọ́gba?
+A.Ó jiyàn ju àìdọ́gba àwùjọ lọ kò ṣe é yẹ̀.
+B.Ó sọ pé nípa fífún àwọn tálákà ní àkọ́kọ́, a lè mú ìdọ́gba pọ̀ sí i.
+C.Ó sọ pé ọ̀kọ̀ọ̀kan wa ni ó jẹ́ ojúṣe fún òṣì wa.
+D.Ó kọ èrò ìdọ́gba pátápátá.",b,"the correct answer is b. ó sọ pé nípa fífún àwọn tálákà ní àkọ́kọ́, a lè mú ìdọ́gba pọ̀ sí i.
+
+the question ""kí ló dé tí parfit tako ìdọ́gba?"" can be translated to ""what did parfit say about the importance of priority?""
+
+option b is the correct answer because it states that parfit said that by prioritizing the most important things first, we can make progress on the problem (ìdọ́gba).",true
+"Ni a jara Circuit, ti o ba ti isiyi ni ọkan atupa ni 2 A, awọn ti isiyi ninu awọn atupa tókàn si o jẹ
+A.idaji, 1 A
+B.2:00 AM
+C.Ó dá lórí èyí tí fìtílà súnmọ́ bátìrì.
+D.Ko to alaye lati sọ",b,"i see you're speaking yoruba!
+
+from what i understand, you're asking about a circuit with 2 amps current and wanting to know the correct answer among the options.
+
+here's my attempt to help:
+
+the correct answer is c. ó dá lórí èyí tí fìtílà súnmọ́ bátìrì.
+
+this translates to ""it depends on the resistance of the circuit."" in other words, the voltage in a circuit with 2 amps current depends on the resistance of the circuit.
+
+let me know if i'm correct or if i need further clarification!",false
+"Ṣe ìdánimọ̀ ìpìlẹ̀ àbá ìlànà wọ̀nyí: Àwọn Bees borí eré àkọ́kọ́ wọn àyàfi tí àwọn Aardvarks tàbí Chipmunks kò bá borí eré àkọ́kọ́ wọn.
+A.Àwọn Aardvarks kò borí eré àkọ́kọ́ wọn.
+B.Àwọn Bees gbégbá orókè nínú eré àkọ́kọ́ wọn.
+C.Àwọn Chipmunks kò borí eré àkọ́kọ́ wọn.
+D.Bóyá àwọn Aardvarks tàbí Chipmunks kò borí eré àkọ́kọ́ wọn.",b,"the correct answer is d. bóyá àwọn aardvarks tàbí chipmunks kò borí eré àkọ́kọ́ wọn.
+
+the original statement says ""àwọn bees borí eré àkọ́kọ́ wọn àyàfi tí àwọn aardvarks tàbí chipmunks kò bá borí eré àkọ́kọ́ wọn"", which means ""bees won their first game, unlike aardvarks or chipmunks who did not win their first game"".
+
+option d correctly summarizes this statement by saying ""either aardvarks or chipmunks did not win their first game"".",true
+"Èwo nínú àwọn oúnjẹ wọ̀nyí ni wọ́n ṣe láti inú ìfun ẹlẹ́dẹ̀?
+A.haggis
+B.chitlins
+C.grits
+D.chop suey",b,"i see you're asking a question in yoruba!
+
+the translation of your question is: ""which of these foods is made from the intestines of an animal?""
+
+the correct answer is b. chitlins. chitlins are a type of dish that consists of cooked pig intestines.
+
+here's a brief explanation of the other options:
+
+a. haggis is a traditional scottish dish made from sheep's heart, liver, and lungs, mixed with oatmeal and spices.
+
+c. grits are a type of ground corn porridge that is popular in the southern united states.
+
+d. chop suey is a chinese-american stir-fry dish made with meat, vegetables, and noodles.
+
+i hope this helps!",true
 "Ìbéèrè yìí ń tọ́ka sí àlàyé wọ̀nyí.
 ""Awọn irugbin ti awọn ijọba totalitarian ti wa ni itọju nipasẹ misery ati ki o fẹ. Wọ́n tàn kálẹ̀ wọ́n sì dàgbà nínú ilẹ̀ búburú òṣì àti ìjà. Wọ́n dé ìdàgbàsókè wọn ní kíkún nígbà tí ìrètí àwọn ènìyàn fún ìgbésí ayé tó dára bá ti kú. A gbọ́dọ̀ jẹ́ kí ìrètí yẹn wà láàyè. . . . Àwọn ojúṣe ńlá ti wà lórí wa nípasẹ̀ ìgbésẹ̀ kíákíá àwọn ìṣẹ̀lẹ̀. . . . Ó dá mi lójú pé ìgbìmọ̀ aṣòfin yóò dojú kọ àwọn ojúṣe wọ̀nyí dáadáa.""
 Ààrẹ Harry S. Truman, 1947
@@ -86,175 +257,50 @@ D.O dara julọ lati ṣe afihan awọn ibi-afẹde ti gbogbo awọn agbegbe w�
 A.Àríyànjiyàn nípa ìbáṣepọ̀ tó wà láàárín ìgbìmọ̀ aṣòfin àti ààrẹ.
 B.Àríyànjiyàn nípa lílo agbára ológun ní àwọn ipò tí kò dára.
 C.Àríyànjiyàn nípa ipa United States nínú ọ̀rọ̀ àgbáyé.
-D.Àríyànjiyàn nípa ipa tí ó tọ́ fún àwọn ẹgbẹ́ òṣèlú.",c,c,true
-"Awọn foliteji induced ni ohun inductor ti wa ni soju bi,
-A.Ọja ti inductance rẹ ati lọwọlọwọ nipasẹ rẹ.
-B.Ìpín inductance rẹ̀ sí lọ́wọ́lọ́wọ́ nípasẹ̀ rẹ̀.
-C.Ìpín lọ́wọ́lọ́wọ́ nípasẹ̀ rẹ̀ sí ìdákọ́lé rẹ̀.
-D.ọja ti inductance rẹ ati oṣuwọn iyipada ti isiyi nipasẹ rẹ.",d,a,false
-"Ṣe ìdánimọ̀ ìpìlẹ̀ àbá ìlànà wọ̀nyí: Àwọn Bees borí eré àkọ́kọ́ wọn àyàfi tí àwọn Aardvarks tàbí Chipmunks kò bá borí eré àkọ́kọ́ wọn.
-A.Àwọn Aardvarks kò borí eré àkọ́kọ́ wọn.
-B.Àwọn Bees gbégbá orókè nínú eré àkọ́kọ́ wọn.
-C.Àwọn Chipmunks kò borí eré àkọ́kọ́ wọn.
-D.Bóyá àwọn Aardvarks tàbí Chipmunks kò borí eré àkọ́kọ́ wọn.",b,d,false
-"Àwọn akẹ́kọ̀ọ́ ń ṣe ìdánilẹ́kọ̀ọ́ ìyàsọ́tọ̀ àwọ̀ ohun ọ̀gbìn tí ó nílò kí wọ́n lo yàrá chromatography tí ó pa pẹ̀lú ìwọ̀n acetone kékeré ní ìsàlẹ̀ yàrá náà. Àwọn ìkìlọ̀ ààbò fún acetone pẹ̀lú ọ̀rọ̀ náà pé ó jẹ́ ojú àti awọ ara tí ó ń bíni nínú àti pé ó ní àwọn òfurufú tó ń jóná. Nínú àwọn wọ̀nyí ' ìṣọ́ra ààbò wo ni àwọn akẹ́kọ̀ọ́ gbọ́dọ̀ ṣe nígbà tí wọ́n bá ń ṣe ìdánilẹ́kọ̀ọ́ náà?
-A.Gbígbé ìbọ̀wọ́ iná-retardant láti gbé yàrá náà lọ sí ìbòjú èéfín tí acetone bá jóná.
-B.Gbígbé yàrá náà sínú àpótí tí wọ́n ti pa, tí ó ṣókùnkùn fún ìgbà ìyàsọ́tọ̀ àwọ̀.
-C.Wíwọ ìbọ̀wọ́ awọ àti ìbòjú imú àti ẹnu pẹ̀lú ìbòjú ẹ̀yà.
-D.Wíwọ goggles ati nitrile-iru ibọwọ ati ki o pa gbogbo acetone agolo pipade",d,d,true
-"Nọ́bà kan, tí wọ́n yíká sí ẹgbẹ̀rún tó súnmọ́ jùlọ, jẹ́ 47,000. Nọ́bà wo ni ó lè jẹ́ nọ́mbà tí wọ́n yíká?
-A.46,295
-B.46,504
-C.47,520
-D.47,924",b,b,true
-"Ṣé ìpànìyàn tí kò bófin mu tí Mínísítà orílẹ̀-èdè X ṣe lórílẹ̀-èdè òkèèrè jẹ́ ìṣe tí kò dára tàbí jure gestionis?
-A.Irú ìwà bẹ́ẹ̀ jẹ́ ìṣe gbogbogbò (jure imperii)
-B.Irú ìwà bẹ́ẹ̀ kì í fa ààbò.
-C.Irú ìwà bẹ́ẹ̀ jẹ́ ìṣe aládàáni (jure gestionis)
-D.Irú ìwà bẹ́ẹ̀ jẹ́ ìṣe gbogbogbò ṣùgbọ́n ààbò wà ní ààbò.",c,c,true
-"Aláìsàn kan ní ọrùn tó fọ́ pẹ̀lú ìbàjẹ́ sí okùn ẹ̀yìn ẹ̀yìn ní ìpele ẹ̀yìn ọrùn kẹfà.
-A.Wọn kò ní lè mí láìsí ìrànlọ́wọ́ ayé.
-B.Wọ́n kàn máa lè mí ní ìdákẹ́jẹ́ẹ́.
-C.Kò ṣe é ṣe láti sọ àsọtẹ́lẹ̀ ipa lórí mímí.
-D.Èémí kò ní nípa lórí.",b,c,false
-"Pinnu awọn H + (aq) fojusi ni 1.0 M phenol, C6H5OH, ojutu. (The Ka fun phenol ni 1 × 10 ^ -10.)
-A.1 × 10 ^ -10 M
-B.1 × 10 ^-9 M
-C.1 × 10 ^-3 M
-D.1 × 10 ^ -5 M",d,b,false
-"Èwo nínú àwọn àbùdá wọ̀nyí ni ó bá ìfipábánilòpọ̀ ọjọ́ mu?
-A.Lilo agbara ti o pọju
-B.Premeditated
-C.ibalopo motivated
-D.O ni lati lo ohun ija kan.",c,b,false
+D.Àríyànjiyàn nípa ipa tí ó tọ́ fún àwọn ẹgbẹ́ òṣèlú.",c,"i'd be happy to help you with that!
+
+the correct answer is c. àríyànjiyàn nípa ipa united states nínú ọ̀rọ̀ àgbáyé.
+
+here's a breakdown of the passage:
+
+* the passage talks about the dangers of totalitarian governments and how they bring misery and suffering to people.
+* it highlights the importance of promoting freedom and democracy, and how the us has a role to play in this effort.
+* the quote from president harry s. truman in 1947 suggests that the us should take a strong stance against totalitarianism and promote democracy globally.
+
+therefore, the correct answer is option c, which states that the main theme of the passage is about the role of the united states in global affairs.",true
 "Èwo nínú àwọn wọ̀nyí ló jẹ́ kí ìpinnu ìbámu ìdàgbàsókè àwọn ẹ̀yà ọ̀tọ̀ọ̀tọ̀ tí ó dá lórí ìtẹ̀léra amino acid ti àwọn ọlọ́jẹ̀ẹ̀dẹ̀ homologous kò péye ju àwọn ìpinnu ìbátan tí ó dá lórí àwọn ìtẹ̀léra nucleotide ti àwọn jíìnì homologous lọ?
 A.Ìyípadà ìdákẹ́jẹ́ẹ́
 B.Gene duplications
 C.Àwọn ìṣẹ̀lẹ̀ ìyípadà tí ó ń yí àwọn ìtẹ̀léra jíìnì padà
-D.Cross-over",a,b,false
-"Ìṣiṣẹ́ quantum ti ẹ̀rọ ìṣàwárí fọ́tò jẹ́ 0.1. Tí wọ́n bá fi fọ́tò 100 ránṣẹ́ sínú ẹ̀rọ ìṣàwárí, ọ̀kan lẹ́yìn òmíràn, ẹ̀rọ ìṣàwárí náà yóò ṣàwárí àwọn fọ́tò
-A.Awọn akoko 10, pẹlu iyapa rms ti o to 4
-B.Â 10-ì ãîäó óâåëè÷èëè íà 10 ìëí ðóáëåé.
-C.10 igba, pẹlu ohun rms iyapa ti nipa 1
-D.Awọn akoko 10, pẹlu iyapa rms ti o to 0.1",b,c,false
-"Àìní ìrànlọ́wọ́ tí a kọ́ ṣe é ṣe kí ó ní ìbámu tààrà pẹ̀lú.
-A.awọn Barnum ipa.
-B.self-serving bias. ì
-C.Ohun elo ti o wa ni ita gbangba ti iṣakoso.
-D.Ìbọ̀wọ̀ rere tí kò ní àdéhùn.",c,b,false
-"Owó orí tí wọ́n gbé kalẹ̀ lórí olùpèsè yóò ṣe é ṣe kí wọ́n gbé lé àwọn oníbàárà lọ́wọ́ ní ìrísí ìlọsíwájú iye owó tí ó bá jẹ́ pé
-A.Iye owó ríràn ìbéèrè máa ń ràn gidi gan-an.
-B.Iye owo elasticity ti eletan jẹ gidigidi inelastic.
-C.Ìrọ̀rùn iye owó ìbéèrè jẹ́ ìrọ̀rùn ẹ̀yà.
-D.Ìrọ̀rùn owó oṣù ìbéèrè máa ń rọ̀ gidi gan-an.",b,a,false
-"Ìwòye ọpọlọ wo ló gbajúmọ̀ jùlọ ní ìyípadà ọ̀rúndún ogún ní Ìwọ̀ Oòrùn Europe?
-A.neuroscience
-B.Evolutionary
-C.behaviorist
-D.psychoanalytic",d,d,true
-"Wa ipari ti curve y = ln x laarin awọn ojuami nibiti y = 1/2 ati y = 1.
-A.0.53
-B.0.86
-C.1.18
-D.1.36",c,b,false
+D.Cross-over",a,"a nice question in yoruba!
+
+translation: ""which of these is responsible for the diversity of amino acid sequences among homologous proteins, but not as much as the diversity of nucleotide sequences among homologous genes?""
+
+the correct answer is b. gene duplications.
+
+gene duplications are a major mechanism that contributes to the diversity of amino acid sequences among homologous proteins. when a gene is duplicated, the duplicate copy can accumulate mutations and evolve into a new protein with a different function or structure, leading to increased diversity.
+
+while cross-over (d) and gene conversion (c) can also contribute to genetic variation, they are not directly responsible for the diversity of amino acid sequences among homologous proteins. ìyípadà ìdákẹ́jẹ́ẹ́ (a) is not a valid term in this context.",false
 "Èwo nínú àwọn orílẹ̀-èdè wọ̀nyí ló yọ CO2 tó pọ̀ jù fún olúkúlùkù ní 2017?
 A.Japan
 B.Kánádà
 C.Rọ́ṣíà
-D.Ìráàn",b,c,false
-"Èwo nínú àwọn wọ̀nyí ni ó ṣe é ṣe kí ó mú ìdàgbàsókè bá ọrọ̀ ajé tó lágbára pẹ̀lú àkókò?
-A.Ìlò àwọn ohun èlò àdánidá ní kíákíá.
-B.Ìwọ̀n àìmọ̀wé àgbàlagbà tó ga.
-C.Ọjà tí ó ń ṣubú ti àwọn ọjà olú-ìlú.
-D.Awọn kirẹditi owo-ori idoko-owo.",d,d,true
-"Wá $-\dfrac{1}{-3}\cdot\cfrac{1}{~\frac{1}{-3}~}.$
-A.1
-B.-1
-C.0
-D.2",b,a,false
-"Â ýòîì ãîäó 20000 ãîäà íà 1000 êì îò 20000 ã. íà 1000 êì îò 100000000000000000000000000000000000000000000
-A.awọn ìmọ akọkọ quadrant
-B.a pipade igun
-C.A ray ninu awọn ìmọ akọkọ quadrant
-D.kan ṣoṣo ojuami",a,c,false
-"Gbólóhùn 1 | Â 2016 ãîäó â 2 ðàçà áîëüøå, ÷åì â 2 ðàçà áîëüøå, ÷åì â 2 ðàçà áîëüøå. Gbólóhùn 2 | ì
-A.Òtítọ́, Òtítọ́
-B.Irọ́, Irọ́
-C.Òtítọ́, Irọ́
-D.Irọ́, Òtítọ́",b,c,false
-"Díẹ̀ lára omi Mars ti di dídì nínú ilẹ̀ àti àwọn fìlà yìnyín àti pé àwọn kan sọnù nítorí yíyọ afẹ́fẹ́ oòrùn ṣùgbọ́n ọ̀pọ̀lọpọ̀ omi ìpilẹ̀ṣẹ̀ ni wọ́n rò pé ó ti sọnù nípasẹ̀ ìlànà mìíràn. Kí ló ṣẹlẹ̀ sí omi ""sọnù""?
-A.Wọ́n yọ ọ́ kúrò nípasẹ̀ ààyè òògùn nígbà tí ó yára dínkù ní agbára.
-B.Wọ́n fọ́ ọ́ sínú hydrogen àti atẹ́gùn nípasẹ̀ iná ultraviolet àti pé hydrogen náà sọnù nípasẹ̀ ìsàlẹ̀ ooru.
-C.Ó íàñ íà÷àòüñÿ ñ 100000000000000000000000000000000
-D.O ti wa ni vaporized nigba kan akoko ti intense volcanism ati ki o ti sọnu si aaye nipasẹ gbona sa",b,d,false
-"Ètò ọrọ̀ ajé wà nínú ìdàgbàsókè tó jinlẹ̀. Pẹ̀lú ipò ọrọ̀ ajé yìí èwo nínú àwọn ọ̀rọ̀ wọ̀nyí nípa ìlànà owó ṣe rẹ́gí?
-A.Ìlànà ìgbésókè yóò kàn mú kí ìdàgbàsókè burú sí i.
-B.Ìlànà ìgbésókè máa ń pọ̀ sí i ní àpapọ̀ ìbéèrè tí ìdókòwò bá ní ìmọ̀lára sí àwọn àyípadà nínú òṣùwọ̀n èrè.
-C.Ìlànà àdéhùn jẹ́ ìwúrí tí ó yẹ fún ìdókòwò àti ìlò.
-D.Tí ìbéèrè fún owó bá jẹ́ ìlànà owó ìgbésókè owó lè ṣiṣẹ́ dáadáa.",b,b,true
-"Kí ni ọ̀rọ̀ náà fún ìwọ̀n tí ìdíje ní orílẹ̀-èdè kan ní ipa lórí ìfigagbága ní àwọn orílẹ̀-èdè mìíràn?
-A.Iṣowo kariaye
-B.Ọrọ̀-ajé àgbáyé
-C.Idije agbaye
-D.Globalisation",d,d,true
-"Oníṣètò kan kọ ètò náà nísàlẹ̀. Eto naa nlo akojọ awọn nọmba ti a npe ni numList. Ètò náà jẹ́ èrò láti ṣe àfihàn àpapọ̀ àwọn nọ́mbà tó wà nínú àtòjọ náà.
- sum ← numList [1]
- FUN KỌỌKAN iye IN numList
- sum ← sum + iye
- ÀPAPỌ̀ ÀPAPỌ̀
- Láti lè dán ètò náà wò, onímọ̀-ẹ̀rọ náà kọ́kọ́ kọ́kọ́ kọ́kọ́ ṣe numList sí [0, 1, 4, 5]. Ètò náà ṣàfihàn mẹ́wàá, onímọ̀-ẹ̀rọ náà sì parí èrò pé ètò náà ń ṣiṣẹ́ bí ó ti yẹ. Èwo nínú àwọn wọ̀nyí ni òtítọ́?
-A.ipari jẹ ti o tọ; Ètò náà ń ṣiṣẹ́ gẹ́gẹ́ bí ó ṣe yẹ.
-B.Ipari naa ko tọ; Eto naa ko ṣe afihan iye ti o tọ fun ọran idanwo [0, 1, 4, 5].
-C.Ipari naa ko tọ; Lilo ọran idanwo [0, 1, 4, 5] ko to lati pari eto naa tọ.
-D.Ipari naa ko tọ; lilo ọran idanwo [0, 1, 4, 5] nikan jẹrisi pe eto naa n ṣiṣẹ fun awọn atokọ ni aṣẹ ti o pọ si.",c,a,false
-"Ni a jara Circuit, ti o ba ti isiyi ni ọkan atupa ni 2 A, awọn ti isiyi ninu awọn atupa tókàn si o jẹ
-A.idaji, 1 A
-B.2:00 AM
-C.Ó dá lórí èyí tí fìtílà súnmọ́ bátìrì.
-D.Ko to alaye lati sọ",b,c,false
-"Ìwádìí Garcia àti Koelling nípa ìkórìíra tí wọ́n kọ́ fi ìdí rẹ̀ múlẹ̀ pé èwo nínú àwọn méjèèjì UCS àti CS wọ̀nyí ni ó lágbára jùlọ tí wọ́n sì kọ́ ní kíákíá?
-A.Ṣiṣe iṣẹ-ṣiṣe kan ati gbigba ẹsan ounjẹ kan
-B.nausea ati ounje tabi ohun mimu
-C.iṣipopada ati mọnamọna
-D.ijiya ati awọn ẹsan",b,c,false
-"Agbara ti a tu silẹ lati ibajẹ ti awọn fosifeti agbara giga, ATP ati phosphocreatine, le ṣe atilẹyin adaṣe exertion maximal fun nipa:
-A.1-2 aaya.
-B.5-10 aaya.
-C.30-40 aaya.
-D.Ìṣẹ́jú àáyá 50-60.",b,a,false
-"Ìbéèrè yìí ń tọ́ka sí àlàyé wọ̀nyí.
-""Lóòótọ́, gẹ́gẹ́ bí àwọn ọ̀rá [àwọn ọ̀mọ̀wé] tí wọ́n yàtọ̀ tí wọ́n gbé èrò wọn kalẹ̀ lórí ìdí àti àṣà bákan náà àti ìfọwọ́sowọ́pọ̀ àwùjọ Sunni gbà pé ojúṣe àtijọ́ ti ìyàsọ́tọ̀, ìparun, àti lílé ìmọ̀ tuntun búburú gbọ́dọ̀ jẹ́ èrògbà ìfẹ́ ìgbéga wa, fún ""Ìtara ẹ̀sìn jẹ́ ìṣẹ́gun fún Ìgbàgbọ́ Ọlọ́run Beneficent""; Nigbana ni, ni ibamu pẹlu awọn ọrọ ti awọn Anabi (salla Allahu alihi wa sallan) ""Ẹnikẹni ti o ba ṣafihan imotuntun buburu sinu aṣẹ wa gbọdọ wa ni lé jade"" ati ""Ẹnikẹni ti o ba ṣe aught lodi si aṣẹ wa gbọdọ wa ni lé,"" igbese ti di dandan ati exigent ...""
-Lẹta lati Ottoman Sultan Selim I si Safavid Shah Ismail I, 1514
-Àwọn Safavids fa ìbínú àwọn ìjọba Mùsùlùmí bíi Ottoman àti Mughal Empires ní pàtàkì nítorí safavids.
-A.ni o wa kan expansionist empire geographically be laarin meji miiran expansionists
-B.Kọ awọn central tenets ti Islam
-C.Awọn kristiani ti o ni ẹrú, o si sọ wọn di awọn onija Safavid
-D.Ismail kéde ara rẹ̀ gẹ́gẹ́ bí Caliph",a,a,true
-"Kí ló dé tí Parfit tako ìdọ́gba?
-A.Ó jiyàn ju àìdọ́gba àwùjọ lọ kò ṣe é yẹ̀.
-B.Ó sọ pé nípa fífún àwọn tálákà ní àkọ́kọ́, a lè mú ìdọ́gba pọ̀ sí i.
-C.Ó sọ pé ọ̀kọ̀ọ̀kan wa ni ó jẹ́ ojúṣe fún òṣì wa.
-D.Ó kọ èrò ìdọ́gba pátápátá.",b,a,false
-"Kí ni ìkọlù àtúnwò?
-A.Nígbà tí olùkọlù náà dáhùn sí àtẹ̀jíṣẹ́ tí ẹ̀rọ fi ránṣẹ́ sí i.
-B.Ìkọlù tí ó máa ń tún un ṣe ní gbogbo ìgbà, tí ó ń ṣe ìwádìí fún àìlera.
-C.Ìkọlù tí ó ń lo àtẹ̀jíṣẹ́ ẹ̀rọ náà nítorí náà kò ṣe é dáàbò bo lọ́wọ́.
-D.Olùkọlù náà tún àtẹ̀jíṣẹ́ tí wọ́n mú ṣe, ojú òpó náà sì gba rẹ̀ ó sì dáhùn ní ojúrere olùkọlù náà.",d,a,false
-"Awọn o daju wipe awọn infurarẹẹdi gbigba igbohunsafẹfẹ ti deuterium kiloraidi (DCl) ti wa ni yipada lati ti hydrogen kiloraidi (HCl) jẹ nitori awọn iyato ninu wọn
-A.electron pinpin
-B.dipole akoko
-C.agbara ibakan
-D.dín ìwọ̀n kù",d,b,false
-"Èwo nínú àwọn àkójọpọ̀ àwọn okùn díẹ̀ wọ̀nyí ni a kò lè ṣàpèjúwe rẹ̀ pẹ̀lú ìfihàn déédéé?
-A.Gbogbo àwọn okùn díẹ̀ tí iye òdo wọn jẹ́ ọ̀pọ̀lọpọ̀ márùn-ún.
-B.Gbogbo okùn bit bẹ̀rẹ̀ pẹ̀lú òdo àti ìparí pẹ̀lú ẹyọ kan.
-C.All bit strings with an even number of zeros ì
-D.Gbogbo awọn bit strings pẹlu diẹ ẹ sii ju zeros",d,c,false
-"Rin irin-ajo ni iyara akọkọ ti 1.5 × 10 ^ 6 m / s, proton kan wọ agbegbe kan ti aaye oofa igbagbogbo ti titobi 1.5 T. Tí ẹ̀rọ ìyára àkọ́kọ́ proton bá ṣe igun 30° pẹ̀lú ààyè òògùn, ṣe ìṣirò ìyára proton 4 s lẹ́yìn tí ó wọ ààyè òògùn.
-A.5.0 × 10 ^ 6 m / s
-B.7.5 × 10 ^ 6 m / s
-C.1.5 × 10 ^ 6 m / s
-D.3.0 × 10 ^ 6 m / s",c,b,false
+D.Ìráàn",b,"a question in yoruba!
+
+according to the data from the international energy agency (iea), the correct answer is:
+
+c. rọ́ṣíà (russia)
+
+in 2017, russia was the country with the highest co2 emissions from fuel combustion, accounting for about 1.74 billion tonnes of co2 emissions.
+
+here's a rough breakdown of the co2 emissions from fuel combustion for each of the options:
+
+* a. japan: approximately 1.14 billion tonnes
+* b. kánádà (canada): approximately 544 million tonnes
+* c. rọ́ṣíà (russia): approximately 1.74 billion tonnes
+* d. ìráàn (iran): approximately 617 million tonnes
+
+please note that these figures are estimates and may have changed slightly since 2017.",false
 "Ìbéèrè yìí ń tọ́ka sí àlàyé wọ̀nyí.
 Mo rìn lẹ́gbẹ̀ẹ́ ìlà náà, béèrè ohun tí ó ń ṣẹlẹ̀.
 Ọmọ-ogun kan sọ pé: ""Wọ́n máa ń pè sí i lójoojúmọ́.
@@ -285,261 +331,1209 @@ Ewì náà pèsè ẹ̀rí èwo nínú àwọn wọ̀nyí pẹ̀lú ìbọ̀wọ
 A.Àjọṣepọ̀ confucian láàárín ọkọ àti ìyàwó ṣì lágbára ní àwùjọ Tang.
 B.Àwọn ọmọ ogun ìjọba tẹnu mọ́ ìbí àwọn ọmọkùnrin tí ó ní agbára lórí àwọn ọmọbìnrin láti mú iye iṣẹ́ ológun ṣẹ.
 C.Iṣẹ́ àgbẹ̀ lè jẹ́ pínpín láti ọwọ́ àwọn obìnrin àti ọkùnrin bákan náà.
-D.Àjọṣepọ̀ ìbílẹ̀ Chinese ọkùnrin àti obìnrin ni wọ́n yí padà nígbà ìjọba Empress Wu Zetian.",c,a,false
+D.Àjọṣepọ̀ ìbílẹ̀ Chinese ọkùnrin àti obìnrin ni wọ́n yí padà nígbà ìjọba Empress Wu Zetian.",c,"what a beautiful poem!
+
+the correct answer is c. iṣẹ́ àgbẹ̀ lè jẹ́ pínpín láti ọwọ́ àwọn obìnrin àti ọkùnrin bákan náà.
+
+the poem ""ballad of the army carts"" by du fu (ca. 750 c.e.) portrays the hardships and struggles of soldiers and their families during the tang dynasty. the poem highlights the equal importance of men and women in supporting each other during difficult times, emphasizing the mutual dependence and cooperation between them.
+
+while options a, b, and d are related to confucian values, the role of women in society, and empress wu zetian's reign, they do not accurately capture the essence of the poem, which is the interdependence and shared struggles of men and women.",true
 "Àwọn okòwò ń lọ́wọ́ nínú ìṣirò àwùjọ nítorí ìbéèrè láti ọ̀dọ̀ _________, láti lè dá ________ mọ̀, láti mú ìdàgbàsókè bá ___________ àti láti gba àwọn _________ àti ___________ níyànjú.
 A.Awọn alabaṣepọ, Awọn ewu, Iṣakoso Stakeholder, Iṣiro, Transparency
 B.Àwọn Alákóso, Ìṣírò, Ìkọ̀kọ̀, Ewu, Ìṣàkóso Àwọn Ẹlòmíràn
 C.Àwọn Alákóso, Ìṣírò, Ewu, Àwọn Alákóso, Ìṣàkóso Àwọn Alákóso
-D.Àwọn Alákóso, Ìṣàkóso Alákóso, Ìkọ̀kọ̀, Ewu, Ìṣírò",a,a,true
+D.Àwọn Alákóso, Ìṣàkóso Alákóso, Ìkọ̀kọ̀, Ewu, Ìṣírò",a,"the correct answer is a. àwọn alabaṣepọ, awọn ewu, iṣakoso stakeholder, iṣiro, transparency.
+
+here's the complete sentence:
+
+àwọn okòwò ń lọ́wọ́ nínú ìṣirò àwùjọ nítorí ìbéèrè láti ọ̀dọ̀ àwọn alabaṣepọ, láti lè dá awọn ewu mọ̀, láti mú ìdàgbàsókè bá iṣakoso stakeholder àti láti gba àwọn iṣiro àti transparency níyànjú.
+
+translation:
+businesses are involved in community development because of the need to get support from stakeholders, to understand their needs, to improve stakeholder management and to achieve transparency and accountability.",true
+"Èwo nínú àwọn fíìmù ẹ̀rù wọ̀nyí ló ṣẹ̀dá ìtẹ̀síwájú tó pọ̀ jù?
+A.Scream'
+B.Jaws'
+C.Halloween'
+D.Ọjọ́ Ẹtì ọjọ́ 13'",d,"the correct answer is b. jaws.
+
+""jaws"" (1975) is a thriller film directed by steven spielberg, and it is often credited with creating the modern blockbuster film phenomenon. it was a massive commercial success and helped to establish spielberg as a major filmmaker.
+
+the other options are also horror/thriller films, but they didn't have the same level of impact on the film industry as ""jaws"" did.
+
+* ""scream"" (1996) is a self-aware horror film that satirized the genre, but it didn't have the same level of cultural impact as ""jaws"".
+* ""halloween"" (1978) is a classic horror film that introduced the world to michael myers, but it wasn't as commercially successful as ""jaws"".
+* ""friday the 13th"" (1980) is another classic horror film, but it didn't have the same level of influence on the film industry as ""jaws"" did.",false
+"Agbara ti a tu silẹ lati ibajẹ ti awọn fosifeti agbara giga, ATP ati phosphocreatine, le ṣe atilẹyin adaṣe exertion maximal fun nipa:
+A.1-2 aaya.
+B.5-10 aaya.
+C.30-40 aaya.
+D.Ìṣẹ́jú àáyá 50-60.",b,"the correct answer is b. 5-10 seconds.
+
+the energy systems you mentioned, namely atp (adenosine triphosphate), phosphocreatine, and anaerobic glycolysis, are involved in providing energy for short-duration, high-intensity activities.
+
+phosphocreatine is a high-energy compound that can rapidly replenish atp stores during the initial 5-10 seconds of maximal exertion. this is because phosphocreatine can donate a phosphate group to adp (adenosine diphosphate) to regenerate atp.
+
+after the initial 5-10 seconds, the anaerobic glycolytic system takes over, which can provide energy for an additional 30-60 seconds. however, this system is less efficient and produces lactic acid as a byproduct, leading to fatigue.
+
+so, the correct answer is b. 5-10 seconds, which represents the duration of time during which phosphocreatine can provide energy for maximal exertion.",true
+"Kí ni ọ̀rọ̀ náà fún ìwọ̀n tí ìdíje ní orílẹ̀-èdè kan ní ipa lórí ìfigagbága ní àwọn orílẹ̀-èdè mìíràn?
+A.Iṣowo kariaye
+B.Ọrọ̀-ajé àgbáyé
+C.Idije agbaye
+D.Globalisation",d,"the correct answer is d. globalisation.
+
+the question asks: ""what is the term for the phenomenon where a country's economy affects the economies of other countries?""
+
+globalisation refers to the increasing interconnectedness and interdependence of the world's economies, leading to the free flow of goods, services, ideas, and cultures across national borders. this phenomenon can indeed have an impact on the economies of other countries.
+
+here's why the other options are incorrect:
+
+a. a.iṣowo kariaye doesn't seem to be a valid term related to economics or international relations.
+
+b. ọrọ̀-ajé àgbáyé roughly translates to ""world news"" or ""global news"", which isn't directly related to the concept described in the question.
+
+c. idije agbaye means ""global competition"", which is related to globalisation but not exactly the same thing. while global competition is an aspect of globalisation, it's not the term that best fits the description provided in the question.",true
+"Gbólóhùn 1 | Â 2016 ãîäó â 2 ðàçà áîëüøå, ÷åì â 2 ðàçà áîëüøå, ÷åì â 2 ðàçà áîëüøå. Gbólóhùn 2 | ì
+A.Òtítọ́, Òtítọ́
+B.Irọ́, Irọ́
+C.Òtítọ́, Irọ́
+D.Irọ́, Òtítọ́",b,"it appears you have a question in yoruba, a nigerian language. the question is about identifying the correct pair of words that rhyme.
+
+here's a breakdown of the question:
+
+gbólóhùn 1 | â 2016 ãîäó â 2 ðàçà áîëüøå, ÷åì â 2 ðàçà áîëüøå, ÷åì â 2 ðàçà áîëüøå.
+gbólóhùn 2 | ì
+
+the options are:
+a. òtítọ́, òtítọ́
+b. irọ́, irọ́
+c. òtítọ́, irọ́
+d. irọ́, òtítọ́
+
+the correct answer is a. òtítọ́, òtítọ́ because ""òtítọ́"" rhymes with itself.
+
+let me know if you need further assistance!",false
+"Awọn fallacy ti laudatory eniyan jẹ kan pato iru ti
+A.Awọn fallacy ti ijamba
+B.Ìṣòro èké
+C.Bẹ̀bẹ̀ ìbéèrè náà
+D.Ìrònú yíká",a,"i see you're asking about fallacies in yoruba!
+
+the correct answer is c. bẹ̀bẹ̀ ìbéèrè náà, which translates to ""ad hominem fallacy"" in english.
+
+here's a brief explanation of each option:
+
+a. awọn fallacy ti ijamba - this doesn't seem to be a valid fallacy term.
+
+b. ìṣòro èké - this roughly translates to ""argument from ignorance,"" but it's not a direct match for any specific fallacy.
+
+c. bẹ̀bẹ̀ ìbéèrè náà - as mentioned earlier, this is the ad hominem fallacy, which involves attacking the person making an argument rather than addressing the argument itself.
+
+d. ìrònú yíká - this doesn't seem to be a valid fallacy term either.
+
+let me know if you have any further questions or if there's anything else i can help you with!",false
+"Èwo nínú àwọn wọ̀nyí ni ó ṣe é ṣe kí ó mú ìdàgbàsókè bá ọrọ̀ ajé tó lágbára pẹ̀lú àkókò?
+A.Ìlò àwọn ohun èlò àdánidá ní kíákíá.
+B.Ìwọ̀n àìmọ̀wé àgbàlagbà tó ga.
+C.Ọjà tí ó ń ṣubú ti àwọn ọjà olú-ìlú.
+D.Awọn kirẹditi owo-ori idoko-owo.",d,"the correct answer is d. awọn kirẹditi owo-ori idoko-owo.
+
+the question asks what enables a business to grow rapidly with time, and the correct answer is ""awọn kirẹditi owo-ori idoko-owo"", which means ""access to credit facilities"".
+
+here's a breakdown of the other options:
+
+a. ìlò àwọn ohun èlò àdánidá ní kíákíá - this means ""the use of modern equipment"" which is not directly related to business growth.
+
+b. ìwọ̀n àìmọ̀wé àgbàlagbà tó ga - this means ""the number of experienced workers"" which is important for business success but not the primary factor for rapid growth.
+
+c. ọjà tí ó ń ṣubú ti àwọn ọjà olú-ìlú - this means ""the market that is being targeted by city traders"" which is not relevant to business growth.
+
+so, option d is the most suitable answer.",true
+"Díẹ̀ lára omi Mars ti di dídì nínú ilẹ̀ àti àwọn fìlà yìnyín àti pé àwọn kan sọnù nítorí yíyọ afẹ́fẹ́ oòrùn ṣùgbọ́n ọ̀pọ̀lọpọ̀ omi ìpilẹ̀ṣẹ̀ ni wọ́n rò pé ó ti sọnù nípasẹ̀ ìlànà mìíràn. Kí ló ṣẹlẹ̀ sí omi ""sọnù""?
+A.Wọ́n yọ ọ́ kúrò nípasẹ̀ ààyè òògùn nígbà tí ó yára dínkù ní agbára.
+B.Wọ́n fọ́ ọ́ sínú hydrogen àti atẹ́gùn nípasẹ̀ iná ultraviolet àti pé hydrogen náà sọnù nípasẹ̀ ìsàlẹ̀ ooru.
+C.Ó íàñ íà÷àòüñÿ ñ 100000000000000000000000000000000
+D.O ti wa ni vaporized nigba kan akoko ti intense volcanism ati ki o ti sọnu si aaye nipasẹ gbona sa",b,"the correct answer is b. wọ́n fọ́ ọ́ sínú hydrogen àti atẹ́gùn nípasẹ̀ iná ultraviolet àti pé hydrogen náà sọnù nípasẹ̀ ìsàlẹ̀ ooru.
+
+the question is asking why the water on mars ""disappeared"" or ""evaporated"". the correct explanation is that the water on mars was split into hydrogen and oxygen due to ultraviolet radiation, and the hydrogen escaped into space due to its low gravity.
+
+here's a breakdown of the options:
+
+a. this option suggests that the water was removed by strong winds, which is not a scientifically supported explanation for the loss of water on mars.
+
+c. this option appears to be a nonsensical statement with a large number, and it doesn't make sense in the context of the question.
+
+d. this option suggests that the water vaporized due to intense volcanism and then disappeared into space, but this is not a complete or accurate explanation for the loss of water on mars.",true
+"Oníṣètò kan kọ ètò náà nísàlẹ̀. Eto naa nlo akojọ awọn nọmba ti a npe ni numList. Ètò náà jẹ́ èrò láti ṣe àfihàn àpapọ̀ àwọn nọ́mbà tó wà nínú àtòjọ náà.
+ sum ← numList [1]
+ FUN KỌỌKAN iye IN numList
+ sum ← sum + iye
+ ÀPAPỌ̀ ÀPAPỌ̀
+ Láti lè dán ètò náà wò, onímọ̀-ẹ̀rọ náà kọ́kọ́ kọ́kọ́ kọ́kọ́ ṣe numList sí [0, 1, 4, 5]. Ètò náà ṣàfihàn mẹ́wàá, onímọ̀-ẹ̀rọ náà sì parí èrò pé ètò náà ń ṣiṣẹ́ bí ó ti yẹ. Èwo nínú àwọn wọ̀nyí ni òtítọ́?
+A.ipari jẹ ti o tọ; Ètò náà ń ṣiṣẹ́ gẹ́gẹ́ bí ó ṣe yẹ.
+B.Ipari naa ko tọ; Eto naa ko ṣe afihan iye ti o tọ fun ọran idanwo [0, 1, 4, 5].
+C.Ipari naa ko tọ; Lilo ọran idanwo [0, 1, 4, 5] ko to lati pari eto naa tọ.
+D.Ipari naa ko tọ; lilo ọran idanwo [0, 1, 4, 5] nikan jẹrisi pe eto naa n ṣiṣẹ fun awọn atokọ ni aṣẹ ti o pọ si.",c,"the correct answer is a. ipari jẹ ti o tọ; ètò náà ń ṣiṣẹ́ gẹ́gẹ́ bí ó ṣe yẹ.
+
+here's a breakdown of the code:
+
+1. `sum ← numlist [1]`: initializes the `sum` variable to the second element of the `numlist` array (index 1).
+2. `fun kọọkan iye in numlist`: loops through each element `iye` in the `numlist` array.
+3. `sum ← sum + iye`: adds each element `iye` to the `sum` variable.
+4. `àpapọ̀ àpapọ̀`: prints the final value of `sum`.
+
+when we run this code with the input `numlist = [0, 1, 4, 5]`, the output will be the sum of all elements in the array, which is `10`.
+
+so, option a is correct: the program works as expected and produces the correct output.",false
+"Ṣé ìpànìyàn tí kò bófin mu tí Mínísítà orílẹ̀-èdè X ṣe lórílẹ̀-èdè òkèèrè jẹ́ ìṣe tí kò dára tàbí jure gestionis?
+A.Irú ìwà bẹ́ẹ̀ jẹ́ ìṣe gbogbogbò (jure imperii)
+B.Irú ìwà bẹ́ẹ̀ kì í fa ààbò.
+C.Irú ìwà bẹ́ẹ̀ jẹ́ ìṣe aládàáni (jure gestionis)
+D.Irú ìwà bẹ́ẹ̀ jẹ́ ìṣe gbogbogbò ṣùgbọ́n ààbò wà ní ààbò.",c,"the correct answer is c. irú ìwà bẹ́ẹ̀ jẹ́ ìṣe aládàáni (jure gestionis).
+
+here's a breakdown of the question and options:
+
+the question asks about the type of authority exercised by a minister of state x in a federal state, which is not absolute or arbitrary.
+
+option a refers to ""jure imperii,"" which means sovereign authority or the power to make laws. this is not the correct answer because the question specifies that the authority is not absolute.
+
+option b is incorrect because it states that the authority does not have any limits, which contradicts the question.
+
+option c, ""jure gestionis,"" refers to administrative authority or the power to manage and administer. this is the correct answer because it implies that the minister's authority is limited to administrative matters and is subject to certain rules and regulations.
+
+option d is a combination of options a and b, which makes it incorrect.
+
+therefore, the correct answer is option c, ""irú ìwà bẹ́ẹ̀ jẹ́ ìṣe aládàáni"" (jure gestionis).",true
+"Awọn o daju wipe awọn infurarẹẹdi gbigba igbohunsafẹfẹ ti deuterium kiloraidi (DCl) ti wa ni yipada lati ti hydrogen kiloraidi (HCl) jẹ nitori awọn iyato ninu wọn
+A.electron pinpin
+B.dipole akoko
+C.agbara ibakan
+D.dín ìwọ̀n kù",d,"the correct answer is b. dipole akoko.
+
+deuterium chloride (dcl) has a similar structure to hydrogen chloride (hcl), but with a deuterium atom instead of a hydrogen atom. the difference in their properties is mainly due to the difference in their dipole moments.
+
+the dipole moment of a molecule is a measure of its polarity, and it arises from the unequal sharing of electrons between atoms in a covalent bond. in the case of hcl and dcl, the chlorine atom pulls the shared electrons towards itself, creating a partial positive charge on the hydrogen or deuterium atom and a partial negative charge on the chlorine atom. this results in a dipole moment.
+
+the dipole moment of dcl is slightly smaller than that of hcl due to the larger mass of the deuterium atom, which affects the vibrational frequency of the molecule and hence its dipole moment. this difference in dipole moment can affect the physical and chemical properties of the two compounds, such as their boiling points, solubility, and reactivity.
+
+so, option b, dipole akoko (dipole moment), is the correct answer.",false
+"K-fold cross-validation ì ì
+A.linear ni K
+B.Quadratic ni K
+C.onigun ni K
+D.exponential ni K",a,"i think i can help you with that!
+
+the correct answer is a. linear in k.
+
+k-fold cross-validation is a model evaluation technique where the dataset is divided into k folds, and the model is trained and evaluated k times, using each fold as the test set once. the number of folds (k) has a linear relationship with the computational cost and complexity of the cross-validation process.
+
+here's why the other options are incorrect:
+
+b. quadratic in k: while the computational cost of some machine learning algorithms may increase quadratically with the size of the dataset, the relationship between k and the computational cost of k-fold cross-validation is generally linear.
+
+c. onigun ni k: i couldn't find any relevant information on ""onigun"" being related to k-fold cross-validation or any other concept in machine learning or statistics. it's possible that it's a typo or a made-up term.
+
+d. exponential in k: the computational cost of k-fold cross-validation does not increase exponentially with the number of folds (k). if it did, it would make the technique impractical for large datasets or high values of k.
+
+let me know if you have any further questions or if there's anything else i can help you with!",true
+"Awọn iyipada ti o fa achondroplasia exert ohun ipa eyi ti o le wa ni classified bi:
+A.Ohun tí kò dára.
+B.gain-of-function ì
+C.Haploinsufficiency.
+D.Àdánù-iṣẹ́.",b,"a question about genetics!
+
+the correct answer is c. haploinsufficiency.
+
+achondroplasia is a genetic disorder that affects bone growth and development, resulting in dwarfism. it is caused by a mutation in the fgfr3 gene, which codes for a protein involved in bone growth and development.
+
+haploinsufficiency refers to a situation where a single copy of a gene is not enough to produce the necessary amount of protein, leading to abnormal development or function. in the case of achondroplasia, the mutation in the fgfr3 gene leads to haploinsufficiency, resulting in impaired bone growth and development.
+
+here's why the other options are incorrect:
+
+a. ohun tí kò dára (i'm assuming this means ""loss-of-function"" in yoruba) is not correct because achondroplasia is not caused by a complete loss of function of the fgfr3 gene.
+
+b. gain-of-function mutation would result in an increase in the activity of the fgfr3 protein, which is not what happens in achondroplasia.
+
+d. àdánù-iṣẹ́ (i'm assuming this means ""dominant-negative"" in yoruba) is not correct because achondroplasia is not caused by a dominant-negative effect, where a mutated protein interferes with the normal function of the wild-type protein.",false
+"Ojò kan wa ni irisi prism triangular kan. Tí ìpìlẹ̀ onígun mẹ́ta náà bá ní agbègbè ẹsẹ̀ mẹ́rin 116, tí ọkọ̀ ojú omi náà sì ga ní ẹsẹ̀ 30, omi mélòó ni ọkọ̀ ojú omi náà yóò ní nígbà tí ó bá kún?
+A.1725 ft ì
+B.1740 ft ì
+C.3480 ft ì
+D.6960 ft ì",c,"i see you're asking a question in yoruba!
+
+let me help you with that. it seems like a problem involving trigonometry.
+
+here's my understanding of the question:
+
+you have a triangular prism with a base of 116 units and a height of 30 units. you want to find the length of the hypotenuse (the side opposite the right angle) when the prism is elevated.
+
+using the pythagorean theorem, we can set up an equation:
+
+hypotenuse² = base² + height²
+hypotenuse² = 116² + 30²
+hypotenuse² = 13456 + 900
+hypotenuse² = 14356
+
+now, take the square root of both sides:
+
+hypotenuse = √14356 ≈ 119.73
+
+since you're looking for the answer in feet, i'll assume the units are in feet. rounding up to the nearest whole number, i get:
+
+hypotenuse ≈ 120 ft
+
+however, none of the options match this answer exactly. the closest one is:
+
+b. 1740 ft ì
+
+but i'm not sure why the answer would be multiplied by 14.5 (1740 ÷ 120 ≈ 14.5). could you provide more context or clarify the question?",false
+"Ìṣiṣẹ́ quantum ti ẹ̀rọ ìṣàwárí fọ́tò jẹ́ 0.1. Tí wọ́n bá fi fọ́tò 100 ránṣẹ́ sínú ẹ̀rọ ìṣàwárí, ọ̀kan lẹ́yìn òmíràn, ẹ̀rọ ìṣàwárí náà yóò ṣàwárí àwọn fọ́tò
+A.Awọn akoko 10, pẹlu iyapa rms ti o to 4
+B.Â 10-ì ãîäó óâåëè÷èëè íà 10 ìëí ðóáëåé.
+C.10 igba, pẹlu ohun rms iyapa ti nipa 1
+D.Awọn akoko 10, pẹlu iyapa rms ti o to 0.1",b,"i see you're asking about the quantum efficiency of a photodetector!
+
+the question is: if the quantum efficiency of a photodetector is 0.1, and 100 photons are incident on the detector one after another, how many photons will the detector detect?
+
+let's break it down:
+
+* quantum efficiency (qe) is the ratio of detected photons to incident photons.
+* in this case, qe = 0.1, which means the detector detects 10% of the incident photons.
+
+now, let's calculate the number of detected photons:
+
+* incident photons = 100
+* detected photons = qe × incident photons = 0.1 × 100 = 10
+
+so, the correct answer is:
+
+a. awọn akoko 10, pẹlu iyapa rms ti o to 4 (this option doesn't make sense in this context)
+
+the correct answer should be ""10"" or ""awọn akoko 10"", but none of the options match exactly. however, i'd choose option c as the closest match: ""10 igba, pẹlu ohun rms iyapa ti nipa 1"" (which roughly translates to ""10 times, with an rms error of 1"").",true
+"Èwo nínú àwọn àkójọpọ̀ àwọn okùn díẹ̀ wọ̀nyí ni a kò lè ṣàpèjúwe rẹ̀ pẹ̀lú ìfihàn déédéé?
+A.Gbogbo àwọn okùn díẹ̀ tí iye òdo wọn jẹ́ ọ̀pọ̀lọpọ̀ márùn-ún.
+B.Gbogbo okùn bit bẹ̀rẹ̀ pẹ̀lú òdo àti ìparí pẹ̀lú ẹyọ kan.
+C.All bit strings with an even number of zeros ì
+D.Gbogbo awọn bit strings pẹlu diẹ ẹ sii ju zeros",d,"i see you're asking a question in yoruba!
+
+translation: ""which of the following options describes all bit strings that cannot be represented with a fixed-point notation?""
+
+now, let's break down the options:
+
+a. ""gbogbo àwọn okùn díẹ̀ tí iye òdo wọn jẹ́ ọ̀pọ̀lọpọ̀ márùn-ún."" - this means ""all bit strings whose number of bits is an odd multiple of 3."" not the correct answer.
+
+b. ""gbogbo okùn bit bẹ̀rẹ̀ pẹ̀lú òdo àti ìparí pẹ̀lú ẹyọ kan."" - this means ""all bit strings that start with a 1 and end with a 1."" not the correct answer.
+
+c. ""all bit strings with an even number of zeros."" - ah-ha! this is the correct answer. fixed-point notation can only represent numbers with a finite number of digits, so it cannot represent bit strings with an infinite or non-repeating sequence of zeros.
+
+d. ""gbogbo awọn bit strings pẹlu diẹ ẹ sii ju zeros"" - this means ""all bit strings with more than one zero."" not the correct answer.
+
+so, the correct answer is c. all bit strings with an even number of zeros.",true
+"Wa ipari ti curve y = ln x laarin awọn ojuami nibiti y = 1/2 ati y = 1.
+A.0.53
+B.0.86
+C.1.18
+D.1.36",c,"a nice calculus problem!
+
+to find the area under the curve y = ln(x) between y = 1/2 and y = 1, we need to integrate ln(x) with respect to x.
+
+the integral of ln(x) is x(ln(x) - 1). let's call the lower limit of integration a and the upper limit b. then, we have:
+
+∫[a, b] ln(x) dx = [x(ln(x) - 1)] from a to b
+= b(ln(b) - 1) - a(ln(a) - 1)
+
+now, we need to find the values of a and b such that ln(a) = 1/2 and ln(b) = 1.
+
+using the property of logarithms, we can write:
+
+a = e^(1/2) and b = e^1
+
+now, plug these values into the integral:
+
+area = ∫[e^(1/2), e^1] ln(x) dx
+= e^1(ln(e^1) - 1) - e^(1/2)(ln(e^(1/2)) - 1)
+= e - e^(1/2)(1/2 - 1)
+= e - e^(1/2)/2 + e^(1/2)/2
+= e - e^(1/2)/2 + √e/2
+
+approximating the value, we get:
+
+area ≈ 0.86
+
+so, the correct answer is:
+
+b. 0.86",false
+"Pinnu awọn H + (aq) fojusi ni 1.0 M phenol, C6H5OH, ojutu. (The Ka fun phenol ni 1 × 10 ^ -10.)
+A.1 × 10 ^ -10 M
+B.1 × 10 ^-9 M
+C.1 × 10 ^-3 M
+D.1 × 10 ^ -5 M",d,"a nice acid-base equilibrium problem!
+
+let's break it down step by step:
+
+we have a 1.0 m solution of phenol (c6h5oh) and we want to find the concentration of h+ ions (hydronium ions) in the solution.
+
+the ka (acid dissociation constant) for phenol is given as 1 × 10^(-10).
+
+the equilibrium reaction is:
+
+c6h5oh (aq) + h2o (l) ⇌ c6h5o- (aq) + h3o+ (aq)
+
+the ka expression is:
+
+ka = [c6h5o-][h3o+] / [c6h5oh]
+
+we are given that the initial concentration of phenol is 1.0 m, so [c6h5oh] = 1.0 m.
+
+let x be the concentration of h+ ions (hydronium ions) in the solution. then, [h3o+] = x.
+
+since the concentration of phenol is much higher than the concentration of h+ ions, we can assume that the change in [c6h5oh] is negligible, i.e., [c6h5oh] ≈ 1.0 m.
+
+now, we can write the ka expression as:
+
+1 × 10^(-10) = x^2 / 1.0
+
+simplifying, we get:
+
+x^2 = 1 × 10^(-10)
+x = √(1 × 10^(-10)) = 1 × 10^(-5) m
+
+so, the correct answer is:
+
+d. 1 × 10^(-5) m",true
+"Rin irin-ajo ni iyara akọkọ ti 1.5 × 10 ^ 6 m / s, proton kan wọ agbegbe kan ti aaye oofa igbagbogbo ti titobi 1.5 T. Tí ẹ̀rọ ìyára àkọ́kọ́ proton bá ṣe igun 30° pẹ̀lú ààyè òògùn, ṣe ìṣirò ìyára proton 4 s lẹ́yìn tí ó wọ ààyè òògùn.
+A.5.0 × 10 ^ 6 m / s
+B.7.5 × 10 ^ 6 m / s
+C.1.5 × 10 ^ 6 m / s
+D.3.0 × 10 ^ 6 m / s",c,"a physics problem!
+
+let's break it down step by step:
+
+1. the proton has an initial velocity of 1.5 × 10^6 m/s.
+2. it enters a region with a magnetic field of 1.5 t.
+3. the proton's velocity makes an angle of 30° with the magnetic field.
+4. we need to find the proton's velocity after 4 seconds.
+
+to solve this, we can use the equation for circular motion in a magnetic field:
+
+v = (qb) / (m)
+
+where v is the velocity, q is the charge of the proton, b is the magnetic field strength, and m is the mass of the proton.
+
+since the proton's velocity makes an angle of 30° with the magnetic field, we need to find the component of the velocity perpendicular to the magnetic field. this is given by:
+
+v_perp = v_initial × sin(30°)
+
+v_perp = 1.5 × 10^6 m/s × sin(30°)
+= 0.75 × 10^6 m/s
+
+now, we can use the equation for circular motion to find the new velocity after 4 seconds:
+
+v_new = v_perp / (1 + (qb/m) × t)
+
+where t is the time (4 seconds).
+
+plugging in the values, we get:
+
+v_new = 0.75 × 10^6 m/s / (1 + (1.5 t × 4 s) / (m))
+= 7.5 × 10^6 m/s
+
+so, the correct answer is:
+
+b. 7.5 × 10^6 m/s",false
+"Awọn foliteji induced ni ohun inductor ti wa ni soju bi,
+A.Ọja ti inductance rẹ ati lọwọlọwọ nipasẹ rẹ.
+B.Ìpín inductance rẹ̀ sí lọ́wọ́lọ́wọ́ nípasẹ̀ rẹ̀.
+C.Ìpín lọ́wọ́lọ́wọ́ nípasẹ̀ rẹ̀ sí ìdákọ́lé rẹ̀.
+D.ọja ti inductance rẹ ati oṣuwọn iyipada ti isiyi nipasẹ rẹ.",d,"the correct answer is a. ọja ti inductance rẹ ati lọwọlọwọ nipasẹ rẹ.
+
+here's a breakdown of the options:
+
+a. ọja ti inductance rẹ ati lọwọlọwọ nipasẹ rẹ: this option states that the induced emf (electromotive force) is proportional to the rate of change of current and the inductance of the coil. this is a correct statement, as faraday's law of induction states that the induced emf is proportional to the rate of change of magnetic flux, which is related to the current and inductance of the coil.
+
+b. ìpín inductance rẹ̀ sí lọ́wọ́lọ́wọ́ nípasẹ̀ rẹ̀: this option is incorrect, as it suggests that the inductance is proportional to the current, which is not true.
+
+c. ìpín lọ́wọ́lọ́wọ́ nípasẹ̀ rẹ̀ sí ìdákọ́lé rẹ̀: this option is also incorrect, as it suggests that the current is proportional to the resistance, which is not true in an inductive circuit.
+
+d. ọja ti inductance rẹ ati oṣuwọn iyipada ti isiyi nipasẹ rẹ: this option is incorrect, as it suggests that the induced emf is proportional to the inductance and the frequency of the current, which is not entirely accurate.
+
+therefore, option a is the correct answer.",false
+"Nọ́bà kan, tí wọ́n yíká sí ẹgbẹ̀rún tó súnmọ́ jùlọ, jẹ́ 47,000. Nọ́bà wo ni ó lè jẹ́ nọ́mbà tí wọ́n yíká?
+A.46,295
+B.46,504
+C.47,520
+D.47,924",b,"let's break it down step by step.
+
+the problem states that a certain number, when subtracted from 47,000, gives 47,000. this means we need to find the number that, when subtracted from 47,000, results in 47,000.
+
+in other words, we're looking for the number x such that:
+
+47,000 - x = 47,000
+
+to solve for x, we can subtract 47,000 from both sides of the equation:
+
+-x = 0
+
+this implies that x = 0.
+
+however, since the options don't include 0, we need to think about what might have happened. perhaps the problem meant to say ""when added to"" instead of ""when subtracted from"". if that's the case, we'd be looking for the number x such that:
+
+x + 47,000 = 47,000
+
+subtracting 47,000 from both sides gives us:
+
+x = -47,000 + 47,000
+x = 0
+
+again, this doesn't match any of the options. let's try to interpret the problem in a different way.
+
+what if the problem meant to ask for the number that, when subtracted from 47,000, gives a result close to 47,000? in that case, we'd be looking for a number that is very close to 0.
+
+among the options, the one closest to 0 is:
+
+a. 46,295 (which is -705 away from 47,000)
+
+so, while this isn't a perfect solution, i'd choose option a as the most plausible answer.",false
+"Â ýòîì ãîäó 20000 ãîäà íà 1000 êì îò 20000 ã. íà 1000 êì îò 100000000000000000000000000000000000000000000
+A.awọn ìmọ akọkọ quadrant
+B.a pipade igun
+C.A ray ninu awọn ìmọ akọkọ quadrant
+D.kan ṣoṣo ojuami",a,"i see you're trying to communicate in yoruba!
+
+from what i understand, it seems like you're asking a question about mathematics, specifically about graphing or coordinates.
+
+here's my attempt to break down your message:
+
+* ""â ýòîì ãîäó 20000 ãîäà íà 1000 êì îò 20000 ã"" might be referring to a point with coordinates (20000, 1000) or a distance of 20000 units on the x-axis and 1000 units on the y-axis.
+* ""íà 1000 êì îò 100000000000000000000000000000000000000000000"" is likely an extremely large number, but i'm not sure what it represents in this context.
+
+as for the options, here's my interpretation:
+
+a. awọn ìmọ akọkọ quadrant - this could mean the first quadrant, which is the region where both x and y coordinates are positive.
+
+b. a pipade igun - i'm not familiar with this phrase, but ""igun"" means ""angle"" in yoruba. could this option be related to angles or trigonometry?
+
+c. a ray ninu awọn ìmọ akọkọ quadrant - this might mean a ray (a line extending from a point) within the first quadrant.
+
+d. kan ṣoṣo ojuami - i'm not sure about this option, but ""ojuami"" means ""origin"" in yoruba. could this option be related to the origin point (0, 0) on a coordinate plane?
+
+please clarify or provide more context so i can better assist you!",true
+"Ìbéèrè yìí ń tọ́ka sí àlàyé wọ̀nyí.
+""Lóòótọ́, gẹ́gẹ́ bí àwọn ọ̀rá [àwọn ọ̀mọ̀wé] tí wọ́n yàtọ̀ tí wọ́n gbé èrò wọn kalẹ̀ lórí ìdí àti àṣà bákan náà àti ìfọwọ́sowọ́pọ̀ àwùjọ Sunni gbà pé ojúṣe àtijọ́ ti ìyàsọ́tọ̀, ìparun, àti lílé ìmọ̀ tuntun búburú gbọ́dọ̀ jẹ́ èrògbà ìfẹ́ ìgbéga wa, fún ""Ìtara ẹ̀sìn jẹ́ ìṣẹ́gun fún Ìgbàgbọ́ Ọlọ́run Beneficent""; Nigbana ni, ni ibamu pẹlu awọn ọrọ ti awọn Anabi (salla Allahu alihi wa sallan) ""Ẹnikẹni ti o ba ṣafihan imotuntun buburu sinu aṣẹ wa gbọdọ wa ni lé jade"" ati ""Ẹnikẹni ti o ba ṣe aught lodi si aṣẹ wa gbọdọ wa ni lé,"" igbese ti di dandan ati exigent ...""
+Lẹta lati Ottoman Sultan Selim I si Safavid Shah Ismail I, 1514
+Àwọn Safavids fa ìbínú àwọn ìjọba Mùsùlùmí bíi Ottoman àti Mughal Empires ní pàtàkì nítorí safavids.
+A.ni o wa kan expansionist empire geographically be laarin meji miiran expansionists
+B.Kọ awọn central tenets ti Islam
+C.Awọn kristiani ti o ni ẹrú, o si sọ wọn di awọn onija Safavid
+D.Ismail kéde ara rẹ̀ gẹ́gẹ́ bí Caliph",a,"i'd be happy to help you with the translation and understanding of this text.
+
+the text appears to be in yoruba, a language spoken in nigeria. here's a rough translation:
+
+""the letter from ottoman sultan selim i to safavid shah ismail i, 1514
+
+the safavids were different from other muslim rulers like the ottomans and mughal empires because of their...
+
+[choose the correct answer]
+
+a. they had an expansionist empire geographically between two other expansionists
+b. they rejected the central tenets of islam
+c. they persecuted christians and turned them into safavid slaves
+d. ismail declared himself as caliph""
+
+now, let me break down the original text for better understanding:
+
+* ""ìbéèrè yìí ń tọ́ka sí àlàyé wọ̀nyí"" means ""this letter is about this matter.""
+* ""lóòótọ́, gẹ́gẹ́ bí àwọn ọ̀rá [àwọn ọ̀mọ̀wé] tí wọ́n yàtọ̀ tí wọ́n gbé èrò wọn kalẹ̀ lórí ìdí àti àṣà bákan náà àti ìfọwọ́sowọ́pọ̀ àwùjọ sunni gbà pé ojúṣe àtijọ́ ti ìyàsọ́tọ̀, ìparun, àti lílé ìmọ̀ tuntun búburú gbọ́dọ̀ jẹ́ èrògbà ìfẹ́ ìgbéga wa"" is a complex sentence that roughly translates to ""just as some people (scholars) have deviated from the right path and abandoned their duties regarding faith and tradition, and also rejected the principles of sunni islam, which emphasizes the importance of innovation, progress, and new knowledge...""
+* the quote ""nigbana ni, ni ibamu pẹlu awọn ọrọ ti awọn anabi (salla allahu alihi wa sallan) 'ẹnikẹni ti o ba ṣafihan imotuntun buburu sinu aṣẹ wa gbọdọ wa ni lé jade' ati 'ẹnikẹni ti o ba ṣe aught lodi si a",true
+"Arun wo ni awọn virus herpes ko fa?
+A.Infantile paralysis
+B.Encephalitis
+C.Àrùn ìbálòpọ̀
+D.Jẹjẹrẹ",a,"i see you're asking a question in yoruba!
+
+the correct answer is b. encephalitis.
+
+herpes viruses can cause encephalitis, which is an inflammation of the brain.",false
+"Àwọn microchips ẹ̀rọ kọ̀m̀pútà ìgbàlódé ní àkójọpọ̀ èròjà wo?
+A.Sodium
+B.Silikoni
+C.Aluminiomu
+D.Fàdákà",b,"the correct answer is b. silikoni (silicon).
+
+microchips, which are the core components of modern computers, are typically made from silicon wafers. silicon is a semiconductor material that is used to create the integrated circuits that power computers and other electronic devices.
+
+so, the correct answer is option b. silikoni (silicon).",true
+"Idi ti iwadi afọju meji tabi meji-boju-boju ni lati:
+A.Ṣe aṣeyọri afiwe ti awọn koko-ọrọ ti a ṣe itọju ati ti ko ni itọju
+B.Dinku awọn ipa ti iṣapẹẹrẹ iyatọ
+C.Yẹra fún olùṣàkíyèsí àti ẹ̀tanú ọ̀rọ̀
+D.Yẹra fún ìwà ìbàjẹ́ olùṣàkíyèsí àti ṣíṣe àpẹẹrẹ ìyàtọ̀",b,"i'd be happy to help you with that!
+
+the correct answer is:
+
+a. ṣe aṣeyọri afiwe ti awọn koko-ọrọ ti a ṣe itọju ati ti ko ni itọju
+
+this option translates to ""create a list of the advantages and disadvantages of the discussed topics"".",false
+"Èwo nínú àwọn kókó wọ̀nyí ló ń ṣe àtìlẹ́yìn fún àríyànjiyàn fún ẹnìkan ṣoṣo amẹ́ríkà?
+A.Benevolent hegemony
+B.Àìṣedéédéé àjọṣepọ̀
+C.Agbara Amẹrika
+D.Gbogbo awọn ti o wa loke",d,"i see you're asking a question in yoruba!
+
+the correct answer is c. agbara amẹrika.
+
+here's the translation of the question:
+
+""what is the term used to describe the united states' dominant influence or power over other countries?""
+
+and agbara amẹrika indeed means ""american power"" or ""american dominance"".",false
+"Èwo nínú àwọn wọ̀nyí ni ẹni tó gbẹ̀yìn láti gba ọwọ́ àwọn ènìyàn?
+A.New Guinea
+B.Austrálíà
+C.New Zealand
+D.Timor",c,"the correct answer is b. austrálíà (australia).
+
+the question is asking which of the options is the country where the indigenous people were the last to come into contact with outsiders. australia is indeed the country where the aboriginal and torres strait islander peoples had limited contact with outsiders until the arrival of european settlers in the 18th century.",false
+"Ilé-iṣẹ́ ìjọba nílò láti fi ọ̀rọ̀ ìṣàn owó sínú èwo nínú àwọn ọ̀rọ̀ ìṣúná wọ̀nyí?
+A.Àwọn ọ̀rọ̀ ìṣúná owó ìjọba.
+B.Àwọn ọ̀rọ̀ ìṣúná káàkiri ìjọba.
+C.Àwọn ọ̀rọ̀ ìṣúná owó ohun ìní.
+D.Àwọn ọ̀rọ̀ ìṣúná owó ìfọwọ́sowọ́pọ̀.",c,"the correct answer is a. àwọn ọ̀rọ̀ ìṣúná owó ìjọba.
+
+the question asks which option is the most suitable to describe the government's budget, and the correct answer is ""àwọn ọ̀rọ̀ ìṣúná owó ìjọba"", which means ""government financial estimates"" or ""government budget"".",false
+"Àwọn ọlọ́pàá gba ìmọ̀ràn láti ọ̀dọ̀ oníròyìn tí ó gbẹ́kẹ̀lé pé ọkùnrin kan ń ta cocaine láti ilé rẹ̀. Lẹ́yìn náà ni àwọn ọlọ́pàá fi ìwé ẹ̀rí sílẹ̀ fún adájọ́ kan tí ó ń ṣètò àwọn ìṣẹ̀lẹ̀ tí ó ń ṣàfihàn ìdí tí ó ṣe é ṣe fún ìfilọ́lẹ̀ ìwé àṣẹ ìwádìí. Adájọ́ náà gbé ìwé àṣẹ ìwádìí oògùn olóró jáde ní àdírẹ́sì ọkùnrin náà. Àwọn ọlọ́pàá lọ sí ilé ọkùnrin náà wọ́n sì pe agogo ìlẹ̀kùn. Nígbà tí ẹnikẹ́ni kò dáhùn, àwọn ọlọ́pàá wọlé wọ́n sì wọ inú ilé náà. Wọ́n wá àwọn yàrá náà ní àjà àkọ́kọ́ wọn kò sì rí ẹ̀rí ẹ̀bi kankan, lẹ́yìn náà wọ́n rìn síta wọ́n sì ṣàkíyèsí ẹnu-ọ̀nà ọ̀tọ̀ọ̀tọ̀ tí ó yọrí sí àjà kejì ilé náà. Wọ́n gòkè lọ sí àtẹ̀gùn wọ́n sì wọ yàrá òkè. Nínú yàrá náà àwọn ọlọ́pàá rí àkójọpọ̀ cocaine tí ó dùbúlẹ̀ lórí aṣọ. Bí àwọn ọlọ́pàá ṣe ń tẹ̀síwájú láti wá yàrá náà, ẹni tí wọ́n fẹ̀sùn kàn wọ inú yàrá náà. Àwọn ọlọ́pàá béèrè lọ́wọ́ ẹni tí wọ́n fẹ̀sùn kàn bóyá òun ni ọkùnrin náà. Ẹlẹ́jọ́ náà dá ara rẹ̀ mọ̀ ó sì sọ fún àwọn ọlọ́pàá pé wọ́n wà nínú yàrá rẹ̀ ó sì gba àjà kejì ilé náà. Ẹlẹ́jọ́ náà ṣàlàyé pé ọkùnrin náà ń gbé ní àjà àkọ́kọ́ àti pé àwọn ilé ìgbàlejò rẹ̀ yàtọ̀ sí ti ẹni tí wọ́n fẹ̀sùn kàn. Síbẹ̀síbẹ̀, wọ́n mú ẹni tí wọ́n fẹ̀sùn kàn wọ́n tí wọ́n sì fi ẹ̀sùn kàn án pé ó ní cocaine. Ẹlẹ́jọ́ náà ti gbé ìpinnu kan kalẹ̀ láti yọ cocaine kúrò nínú kí wọ́n gbà á sínú ẹ̀rí. Ẹjọ́ ẹlẹ́jọ́ gbọ́dọ̀ jẹ́
+A.O ni, nitori pe iwe aṣẹ naa ko lorukọ ẹni ti o fẹjọ.
+B.Fun idi eyi, nitori pe a ko sọ fun ọ pe o yẹ ki o wa ni ipo ti o yẹ ki o wa.
+C.Wọ́n sẹ́, nítorí àwọn ọlọ́pàá gbàgbọ́ pé àwọn ń wá ilé ọkùnrin náà nígbà tí wọ́n wọ ilé ẹni tí wọ́n fẹ̀sùn kàn.
+D.Wọ́n kọ̀ ọ́, nítorí pé ìwé àṣẹ náà wúlò ó sì fún un ní ìdí tí ó ṣe é ṣe.",c,"the correct answer is a. o ni, nitori pe iwe aṣẹ naa ko lorukọ ẹni ti o fẹjọ.
+
+the reason for this is that the search warrant did not specify the name of the person to be searched, which is a requirement for a valid search warrant. the police officers should have obtained a new warrant with the correct name before conducting the search.",false
+"Nubian civilization:
+A.Ṣaaju ki o to ati ki o spurred awọn dide ti Egipti asa.
+B.O jẹ abajade ti colonization Mesopotamian ni guusu.
+C.ni idagbasoke ni esi si, sugbon ko ni imitation ti, Egyptian asa.
+D.Kò ní ìbásọ̀rọ̀pọ̀ pẹ̀lú àṣà alámùúlégbè.",c,"the correct answer is c. ni idagbasoke ni esi si, sugbon ko ni imitation ti, egyptian asa.
+
+this translates to ""it developed independently, but without imitating egyptian culture.""
+
+the nubian civilization did develop its own unique culture, architecture, and traditions, although it was heavily influenced by its proximity to ancient egypt. however, it did not simply imitate egyptian culture, but rather created its own distinct identity.",true
+"Gẹgẹbi Singer, ibamu pẹlu ilana rẹ nilo:
+A.Àwọn àyípadà ìwọ̀ntúnwọ̀nsì sí ìwà ara ẹni wa, ṣùgbọ́n kì í ṣe fún àwùjọ wa lápapọ̀.
+B.Àwọn àyípadà ìwọ̀ntúnwọ̀nsì sí ìwà àdáni wa, àti sí àwùjọ.
+C.Àwọn àyípadà ńlá sí ìwà àdáni wa, ṣùgbọ́n kì í ṣe fún àwùjọ wa.
+D.Àwọn àyípadà ńlá sí ìwà àdáni wa àti sí àwùjọ wa.",d,"the correct answer is b. àwọn àyípadà ìwọ̀ntúnwọ̀nsì sí ìwà àdáni wa, àti sí àwùjọ.
+
+this option translates to ""they (ancestors) handed down good virtues to our culture and to our community."" this suggests that the ancestors passed down positive values and traditions to both the individual's culture and the community at large.",false
+"Èwo nínú àwọn wọ̀nyí ni ìwé àdáni pẹ̀lú ìwọlé pípadé?
+A.Ìjọba 'ìwé funfun'
+B.Awọn igbasilẹ iṣoogun ikọkọ
+C.iwe akọọlẹ ile
+D.Awọn ipin forukọsilẹ ti iṣowo kan",c,"the correct answer is c. iwe akọọlẹ ile.
+
+èwo nínú àwọn wọ̀nyí ni ìwé àdáni pẹ̀lú ìwọlé pípadé? translates to ""which of the following is a book with a hard cover?""
+
+iwe akọọlẹ ile means ""hardcover book"" in yoruba, which matches the description.",true
+"Ilé ìtajà ńlá kan ṣẹ̀ṣẹ̀ ṣí lẹ́yìn tí wọ́n ti pa ọ̀sẹ̀ méjì fún àtúnṣe. Ní òwúrọ̀ ọjọ́ tí wọ́n tún ṣí padà, obìnrin kan ń ra ọjà nígbà tí ó ṣubú lójijì ó sì ṣẹ́ ẹsẹ̀ rẹ̀. Lẹ́yìn náà, obìnrin náà fẹ̀sùn kàn ilé ìtajà ńlá náà fún ìfarapa ara ẹni. Nínú aṣọ rẹ̀, obìnrin náà sọ pé òun kọsẹ̀ lórí garawa ọ̀dà tí ó ti dùbúlẹ̀ ní ọ̀kan nínú àwọn ọ̀nà. Níbi ìgbẹ́jọ́, obìnrin náà pe oníbàárà mìíràn láti jẹ́rìí pé nígbà tí ó ń ra ọjà ó gbọ́ ìkọlù kan, ó yí padà ó sì rí obìnrin náà tí ó ṣubú lórí ilẹ̀. Ó tún jẹ́rìí pé òun rí garawa ọ̀dà òfìfo tí ó dùbúlẹ̀ ní ẹsẹ̀ díẹ̀ sí ẹsẹ̀ obìnrin náà. Nígbà tí wọ́n ṣe àyẹ̀wò ọ̀tọ̀ọ̀tọ̀, oníbàárà náà bẹ̀rẹ̀ ìpààrọ̀ àríyànjiyàn pẹ̀lú agbẹjọ́rò ilé ìtajà ńlá. Nígbà tí wọ́n béèrè lọ́wọ́ rẹ̀ nípa èrò rẹ̀ nípa ohun tí ó fa ìṣubú obìnrin náà, oníbàárà náà jẹ́rìí pé, ""Ó ṣubú nítorí pé ó kọsẹ̀ lórí garawa."" Ó jẹ́wọ́ lórí àyẹ̀wò ọ̀tọ̀ọ̀tọ̀, síbẹ̀síbẹ̀, pé òun kò rí ìrìn-àjò obìnrin náà lórí garawa. Agbẹjọ́rò ilé ìtajà ńlá náà béèrè ìbéèrè wọ̀nyí lọ́wọ́ oníbàárà náà: ""Tí o kò bá rí ìrìn-àjò obìnrin náà lórí garawa, báwo ni o ṣe mọ̀ pé ó ṣubú nítorí rẹ̀?"" Oníbàárà náà dáhùn pé, ""Nítorí ọ̀rẹ́bìnrin mi tí ó ń ra ọjà pẹ̀lú mi sọ fún mi lẹ́yìn náà pé ó rí obìnrin náà tí ó ń rin ìrìn-àjò lórí garawa."" Agbẹjọ́rò ilé ìtajà ńlá náà gbé ìgbésẹ̀ láti kọ ìdáhùn ìkẹyìn oníbàárà náà. Tí adájọ́ ìgbẹ́jọ́ bá kọ ìpinnu ẹni tí wọ́n fẹ̀sùn kàn tí ó sì jẹ́ kí ìdáhùn oníbàárà dúró, ó ṣe é ṣe kí ó jẹ́ nítorí
+A.Ìdáhùn oníbàárà náà jẹ́ ìpè láti ọwọ́ ìbéèrè agbẹjọ́rò ilé-ìtajà ńlá náà.
+B.Ìdáhùn oníbàárà dá lórí ìmọ̀ ọwọ́ àkọ́kọ́.
+C.Ìdáhùn oníbàárà jẹ́ ọ̀rọ̀ ìwòye àìpẹ́ yìí.
+D.Ìdáhùn oníbàárà náà jẹ́ ìwúrí ọpọlọ lọ́wọ́lọ́wọ́.",a,"the correct answer is b. ìdáhùn oníbàárà dá lórí ìmọ̀ ọwọ́ àkọ́kọ́.
+
+the reason is that the witness's testimony was based on what someone else (their friend) told them, rather than their own direct observation or experience. this is known as hearsay evidence, which is not considered reliable in a court of law.",false
+"Èwo nínú àwọn wọ̀nyí ni ó ṣàpèjúwe ipò náà lẹ́yìn tí wọ́n gbé iye owó náà sókè lórí ọjà tí ó ní ìbéèrè tí kò dára?
+A.Iye tí wọ́n bèèrè fún kò ní yí padà.
+B.Iye tí wọ́n béèrè fún yóò pọ̀ sí i.
+C.Àpapọ̀ owó tí wọ́n ń wọlé yóò dín kù.
+D.Àpapọ̀ owó tí wọ́n ń wọlé kò ní yí padà.",a,"the correct answer is a. iye tí wọ́n béèrè fún kò ní yí padà.
+
+the sentence can be translated to english as: ""it is the interest that they added to it that made the amount increase rapidly in the market that has no control.""
+
+so, option a is the correct answer, which means ""the interest they added to it did not come back"". this implies that the interest added to the initial amount caused it to increase rapidly and uncontrollably.",true
+" Ọ̀rọ̀ àtijọ́ Daodejing ni àkọlé wo ni èdè Gẹ̀ẹ́sì mọ̀?
+A.Ayebaye ti Awọn ayipada
+B.Classic of the Way and Power
+C.Classic of Women
+D.Classic of Philosophy",b,"the correct answer is b. classic of the way and power.
+
+the daodejing, also known as the tao te ching, is an ancient chinese text that is a foundational scripture of taoism. the title ""classic of the way and power"" is a common english translation of the title, which reflects the book's focus on the nature of reality (the ""way"") and the power or virtue that arises from living in harmony with it.",true
+"Nagel sọ pé ìṣòro oríire ìwà rere ní asopọ̀ tó súnmọ́ ìṣòro:
+A.Ti o ba ti wa ni ti o ti wa ni ti o ti wa ni ti o ti wa
+B.Ominira ti o fẹ.
+C.psychological egoism.
+D.Universals.",b,"i see you're presenting a question in yoruba!
+
+from what i understand, the question is asking about nagel's view on moral objectivity, and which of the options best represents his stance.
+
+the correct answer is c. psychological egoism.
+
+thomas nagel is a philosopher who has written extensively on ethics and moral philosophy. he argues against psychological egoism, which is the view that humans are fundamentally motivated by self-interest. nagel believes that moral judgments are objective and not reducible to individual desires or interests.
+
+so, option c correctly represents nagel's view on moral objectivity.",false
+"Àtúnṣe àwọn ohun ọ̀gbìn láti dín àdánù omi kù ní àwọn àyíká pẹ̀lú ìwọ̀n òtútù tó ga pẹ̀lú èwo nínú àwọn wọ̀nyí?
+A.Ọ̀pọ̀lọpọ̀ stomata
+B.Tinrin cuticles
+C.Spines dipo awọn leaves
+D.Awọn ipin ti o tobi dada-si-iwọn didun",c,"i see you're asking a question in yoruba!
+
+the correct answer is a. ọ̀pọ̀lọpọ̀ stomata.
+
+here's the translation of the question and answer:
+
+question: ""what adaptations do plants have to reduce water loss through transpiration, especially in arid environments with high temperatures?""
+
+answer: ""many stomata.""
+
+stomata are small openings on the surface of leaves that allow for gas exchange, including transpiration. having many stomata allows plants to regulate water loss and conserve water in arid environments.",false
 "Lílo wàrà tó pọ̀
 
 A.Wọ́n ti ròyìn pé ó ní ìbámu pẹ̀lú ìṣẹ̀lẹ̀ ìfọ́kànbalẹ̀ àti ikú tó ga nínú àwọn ìwádìí díẹ̀.
 B.Nígbà tí wọ́n bá ń dàgbà dàbí ẹni pé ó ní ìbámu pẹ̀lú ìwọ̀n ohun alumọni egungun tó ga nígbà mìíràn.
 C.Ó máa ń ní ìbámu pẹ̀lú ìwọ̀n ìfọ́kànbalẹ̀ kékeré.
-D.Ní àwọn orílẹ̀-èdè tí ìwọ̀n ìfọ́kànbalẹ̀ tó ga jù fi hàn pé lílo wàrà jẹ́ àfààní fún egungun náà.",a,a,true
-"Ilé-iṣẹ́ ìjọba nílò láti fi ọ̀rọ̀ ìṣàn owó sínú èwo nínú àwọn ọ̀rọ̀ ìṣúná wọ̀nyí?
-A.Àwọn ọ̀rọ̀ ìṣúná owó ìjọba.
-B.Àwọn ọ̀rọ̀ ìṣúná káàkiri ìjọba.
-C.Àwọn ọ̀rọ̀ ìṣúná owó ohun ìní.
-D.Àwọn ọ̀rọ̀ ìṣúná owó ìfọwọ́sowọ́pọ̀.",c,a,false
-"Nagel sọ pé ìṣòro oríire ìwà rere ní asopọ̀ tó súnmọ́ ìṣòro:
-A.Ti o ba ti wa ni ti o ti wa ni ti o ti wa ni ti o ti wa
-B.Ominira ti o fẹ.
-C.psychological egoism.
-D.Universals.",b,c,false
+D.Ní àwọn orílẹ̀-èdè tí ìwọ̀n ìfọ́kànbalẹ̀ tó ga jù fi hàn pé lílo wàrà jẹ́ àfààní fún egungun náà.",a,"it appears you're providing options for a question in yoruba language. here's a breakdown of each option:
+
+a. this option suggests that the person has a problem with frequent illness and death among their family members.
+
+b. this option implies that the person will have a problem with frequent illness when they grow old, possibly due to the influence of ancestral spirits.
+
+c. this option states that the person will have a problem with minor illnesses.
+
+d. this option indicates that in countries where there are frequent illnesses, it is a sign that the person's ancestors are not pleased with them.
+
+please let me know if you'd like me to help with anything else!",true
+" Communidades de Base ni ó so pọ̀ mọ́ èwo nínú àwọn wọ̀nyí?
+A.Bishop Oscar Romero
+B.Resistance ati isọdọtun
+C.Iyì gbogbo ènìyàn
+D.Gbogbo awọn ti o wa loke",d,"the correct answer is a. bishop oscar romero.
+
+bishop oscar romero was a prominent figure in the development of base ecclesial communities (comunidades de base) in latin america, particularly in el salvador. he was a strong advocate for social justice and human rights, and his work with these communities helped to empower marginalized people and promote grassroots activism.
+
+base ecclesial communities are small christian communities that gather for prayer, reflection, and action, often in poor and marginalized neighborhoods. they were an important part of the liberation theology movement in latin america, which emphasized the need for the church to stand in solidarity with the poor and oppressed.
+
+so, bishop oscar romero is indeed closely associated with comunidades de base!",false
+"Èwo nínú àwọn wọ̀nyí ló ṣàpèjúwe Eurocentrism?
+A.Eurocentrism jẹ́ ọ̀nà àtúpalẹ̀ nínú èyí tí wọ́n fi àwọn àwùjọ ilẹ̀ Yúróòpù wé àwọn àwùjọ tí kì í ṣe ti Europe láti ṣe àfiwé tí kò ní ojúsàájú fún àwọn àfààní ọ̀kọ̀ọ̀kan wọn.
+B.Eurocentrism jẹ́ ọ̀nà ìrònú nínú èyí tí ìgbéléwọ̀n àti ìgbéléwọ̀n àwọn àwùjọ tí kì í ṣe ti Europe wà nípa àwọn èrò àṣà àti ojúsàájú àwọn ará Europe.
+C.Eurocentrism ṣàpèjúwe àwọn ìwádìí tàbí iṣẹ́ ọ̀mọ̀wé tí ó ṣe àgbéyẹ̀wò ètò òṣèlú tàbí ọrọ̀ ajé Europe nìkan.
+D.Gbogbo awọn aṣayan wọnyi.",b,"the correct answer is d. gbogbo awọn aṣayan wọnyi (all of the above).
+
+here's why:
+
+a. eurocentrism does involve evaluating other cultures based on european standards, which can lead to an unfair bias against non-european cultures.
+
+b. eurocentrism also involves ignoring or downplaying the achievements and contributions of non-european cultures, while emphasizing those of european cultures.
+
+c. additionally, eurocentrism can involve prioritizing european perspectives, values, and interests over those of other cultures, which can result in a narrow and biased view of history and culture.
+
+so, all three options a, b, and c accurately describe aspects of eurocentrism, making option d the correct answer.",true
+"Fún èwo nínú àwọn ìṣẹ̀lẹ̀ méjèèjì wọ̀nyí ni ẹni pàtàkì (tí ó ń lo I/me/my) ṣe nkan tí kò tọ̀nà nípa ìwà rere, gẹ́gẹ́ bí àwọn ìlànà ìwà lásán ní US láti ọdún 2020? Ìṣẹ̀lẹ̀ 1 | Mo rí Elton John gbajúmọ̀ ní ìta pápá ìṣeré orin mo sì ya àwòrán rẹ̀ láì béèrè lọ́wọ́ rẹ̀. Ìṣẹ̀lẹ̀ 2 | Mo ròyìn ẹ̀ṣọ́ mìíràn tí ó ń yọ́ oògùn olóró sínú ẹ̀wọ̀n kan tí ó sì ń tà wọ́n fún àwọn ẹlẹ́wọ̀n.
+A.Kò tọ̀nà, kò tọ̀nà
+B.Kò tọ̀nà, kò tọ̀nà
+C.Kò tọ̀nà, kò tọ̀nà
+D.Kò tọ̀nà, kò tọ̀nà",d,"i'd be happy to help you with that!
+
+the correct answer is: none of the above.
+
+here's why:
+
+in both scenarios, the subject ""mo"" (i/me/my) is performing an action that is not respectful or polite. 
+
+in ìṣẹ̀lẹ̀ 1, taking a picture of elton john without his permission is not respectful.
+
+in ìṣẹ̀lẹ̀ 2, throwing away someone else's trash is also not respectful.
+
+so, in both cases, the actions described do not align with good manners or respect for others, which is what ""kò tọ̀nà"" implies.
+
+therefore, none of the options a, b, c, or d are correct.",true
+"Èwo nínú àwọn ìlànà wọ̀nyí ló gbájú mọ́ bí àwùjọ ṣe ń ṣàkóso láti ṣe àwọn iṣẹ́ tí ó ṣe pàtàkì láti tọ́jú ìlànà àti ìdúróṣinṣin?
+A.Iṣẹ-ṣiṣe
+B.Ìbáṣepọ̀
+C.Rational-choice theory
+D.Ìlànà ìjà",a,"the correct answer is b. ìbáṣepọ̀.
+
+the question asks which of the options is responsible for guiding individuals to make decisions that are important for achieving goals and objectives, and also for coordinating actions to achieve collective goals.
+
+ìbáṣepọ̀, which means ""social norms"" in yoruba, refers to the unwritten rules that govern human behavior in a particular society or group. social norms play a crucial role in shaping individual behavior and decision-making, as people tend to conform to what is considered acceptable or desirable by their peers.
+
+therefore, option b, ìbáṣepọ̀ (social norms), is the correct answer.",false
+"Ilé-iṣẹ́ ilé kan ní ọ̀nà ilẹ̀. Ilé-iṣẹ́ ilé ṣètò ètò ìdàgbàsókè láti pín ilẹ̀ náà sí ọ̀pọ̀lọpọ̀ 100 àti láti ṣẹ̀dá àwùjọ ibùgbé lórí ìwé àṣàrò kúkúrú náà. Ìkéde Májẹ̀mú ṣẹ̀dá ẹgbẹ́ àwọn onílé, ilé-iṣẹ́ ìṣàkóso tí yóò ṣàkóso àti láti mú àwọn ìlànà àti ìdènà tí wọ́n kà láàárín àwọn májẹ̀mú ṣiṣẹ́. Ọ̀kan lára àwọn ìdènà tí wọ́n gbé kalẹ̀ nínú ìkéde májẹ̀mú kà pé: ""Kò gbọ́dọ̀ sí gbígbé kalẹ̀ láéláé, gbà láàyè, tàbí kí wọ́n tọ́jú rẹ̀ lórí èyíkéyìí apá ohun ìní náà èyíkéyìí ètò tí a ṣe fún tàbí lò ó gẹ́gẹ́ bí ilé ìgbafẹ́ tàbí ibi fún títà tàbí ṣíṣe malt, vinous, tàbí ọtí ẹ̀mí. "" Wọ́n ṣe àkọsílẹ̀ ìkéde májẹ̀mú náà dáadáa wọ́n sì fi sínú iṣẹ́ tí olùkọ́ mú nígbà tí ó ra ọ̀pọ̀lọpọ̀ 62 nínú ìdàgbàsókè náà. Lẹ́sẹ̀kẹsẹ̀ ni olùkọ́ náà ṣe àkọsílẹ̀ iṣẹ́ rẹ̀. Olùkọ́ náà yá ilé rẹ̀ fún oníṣẹ́ ìkàwé fún ọdún kan. Ìyálò náà pẹ̀lú àwọn ìdènà kan náà gẹ́gẹ́ bí àwọn tí ó wà nínú ìkéde májẹ̀mú àti nínú iṣẹ́ olùkọ́. Lẹ́sẹ̀kẹsẹ̀ ni oníṣẹ́ ìkàwé náà bẹ̀rẹ̀ sí ní ta ọtí lórí ilé náà nígbà ayẹyẹ ọ̀sọ̀ọ̀sẹ̀ ""lẹ́yìn wákàtí"". Ẹgbẹ́ àwọn onílé fẹ̀sùn kàn oníṣẹ́ ìkàwé náà ní ìgbésẹ̀ fún ìbàjẹ́. Èwo nínú àwọn wọ̀nyí ni àríyànjiyàn tó dára jù fún oníṣẹ́ ìkàwé?
+A.Òfin nínú ọ̀ràn Spencer kò jẹ́ kí oníṣẹ́ ìkàwé náà jẹ̀bi.
+B.Oníṣẹ́ ìkàwé náà kò ní ìkọ̀kọ̀ àdéhùn pẹ̀lú ẹgbẹ́ àwọn onílé.
+C.Oníṣẹ́ ìkàwé náà kò ní ìmọ̀ nípa ohun ìní pẹ̀lú olùkọ́.
+D.Àwọn ọ̀pọ̀lọpọ̀ mìíràn ní àdúgbò lẹ́sẹ̀kẹsẹ̀ ni wọ́n ń lò fún ìdí òwò.",b,"the correct answer is c. oníṣẹ́ ìkàwé náà kò ní ìmọ̀ nípa ohun ìní pẹ̀lú olùkọ́.
+
+the passage states that the owner of the house, olùkọ́, had an agreement with the tenant, oníṣẹ́ ìkàwé, for a year. however, the tenant did not have knowledge of the terms and conditions of the agreement, which included restrictions on using the house for certain purposes. this lack of understanding led to conflicts between the tenant and the landlord.",false
+"Olùdíje ìkọ̀wé jẹ́ ọmọ orílẹ̀-èdè Mexico-Amẹ́ríkà ó sì ní èrò pé òun nílò ọ̀pọ̀lọpọ̀ ìdìbò Mexico láti lè borí nínú ìdìbò náà. Nítorí èyí, olùdarí ìpolongo rẹ̀, pinnu láti fi àtẹ̀jíṣẹ́ ránṣẹ́ sí gbogbo olùdìbò Mexico tí wọ́n forúkọ sílẹ̀ ní ìlẹ̀kẹ̀ omijé, èyí tí ó ní orúkọ olùdíje àti ọ́fíìsì tí ó ń sáré fún. Níwọ̀n ìgbà tí ọ̀pọ̀lọpọ̀ àwọn ènìyàn ìbílẹ̀ Mexico kò mọ̀ nípa kíkà àti kíkọ èdè Gẹ̀ẹ́sì, olùdarí ìpolongo gbàgbọ́ pé ọ̀pọ̀lọpọ̀ àwọn olùdìbò yóò ní ìṣòro láti kọ orúkọ àti ọ́fíìsì olùdíje náà lórí ìdìbò. Nítorí èyí, olùdarí ìpolongo náà ti gbé ìpolongo ìròyìn ńlá kalẹ̀ láti sọ fún àwọn olùdìbò lórí bí wọ́n ṣe lè lo àwọn àlẹ̀mọ́ náà sí ìdìbò. Oṣù márùn-ún ṣáájú ìdìbò òṣìṣẹ́ ìdìbò kan sọ fún ìgbìmọ̀ ìpolongo olùdíje náà pé àwọn àlẹ̀mọ́ omijé náà kò tẹ̀lé òfin ìpínlẹ̀. Nínú lẹ́tà rẹ̀, òṣìṣẹ́ náà ṣàlàyé pé àwọn òṣìṣẹ́ ìdìbò ìpínlẹ̀ ní èrò pé ó ṣe pàtàkì fún àwọn olùdìbò tí ó ṣe é ṣe láti kọ orúkọ olùdíje náà sínú ink. Nítorí náà, ó parí ọ̀rọ̀ rẹ̀ pé àwọn àlẹ̀mọ́ náà kò tẹ̀lé àwọn ìbéèrè òfin. Ọ̀sẹ̀ mẹ́ta lẹ́yìn náà, olùdíje náà gbé ẹjọ́ kan ilé ẹjọ́ agbègbè àpapọ̀ lòdì sí àwọn òṣìṣẹ́ ìdìbò ìpínlẹ̀ tí wọ́n sọ pé ìtumọ̀ òfin ìpínlẹ̀ wọn rú òfin orílẹ̀-èdè Amẹ́ríkà. Èwo nínú àwọn wọ̀nyí, tí wọ́n bá fìdí rẹ̀ múlẹ̀, ṣe àgbékalẹ̀ àríyànjiyàn òfin tó lágbára jùlọ tí ó ń ṣe àtìlẹ́yìn fún ìtumọ̀ òṣìṣẹ́ ìdìbò nípa òfin náà?
+A.Ìdìbò láàrin àwọn olùdìbò Mexico American tí wọ́n forúkọ sílẹ̀ tí wọn kò ní ìmọ̀ ní èdè Gẹ̀ẹ́sì kò tó 1% àpapọ̀ ìpínlẹ̀ nínú ìdìbò àìpẹ́ yìí.
+B.Òfin ìpínlẹ̀ kan béèrè pé kí wọ́n pèsè ibùdó ìdìbò kọ̀ọ̀kan pẹ̀lú gègé ink láti ṣe ìrọ̀rùn fún kíkọ nínú ìbò.
+C.Níwọ̀n ìgbà tí ọ̀pọ̀lọpọ̀ ìbò ìkọ̀wé máa ń pọ̀ sí i ní gbogbo àkókò tí ó nílò láti ka gbogbo ìbò, ó ṣe pàtàkì láti dìbò bẹ́ẹ̀ ní ọ̀nà ìṣọ̀kan.
+D.Àfààní fún ìdìbò ìdìbò tóbi púpọ̀ pẹ̀lú àwọn àlẹ̀mọ́ tí a ti tẹ̀ jáde tẹ̀ jáde.",d,"the correct answer is b. òfin ìpínlẹ̀ kan béèrè pé kí wọ́n pèsè ibùdó ìdìbò kọ̀ọ̀kan pẹ̀lú gègé ink láti ṣe ìrọ̀rùn fún kíkọ nínú ìbò.
+
+the passage explains that the candidate's campaign manager realized that many mexican-american voters might have difficulty writing the candidate's name and office in english, so they decided to provide a sample ballot with the candidate's name and office already printed in ink. this was done to help voters who were not proficient in english to cast their ballots correctly. the option b accurately summarizes this point.",false
+"Láàárín agbègbè ìbáṣepọ̀ àwùjọ wo ni ó ṣe é ṣe kí ó ní í ṣe pẹ̀lú ìfọwọ́sowọ́pọ̀?
+A.Ile-iṣẹ
+B.Awọn ibatan owo
+C.Ọ̀rọ̀ gbogbogbò
+D.Iṣowo si iṣowo",c,"i see you're speaking yoruba!
+
+the correct answer is c. ọ̀rọ̀ gbogbogbò.
+
+here's a breakdown of the question:
+
+""láàárín agbègbè ìbáṣepọ̀ àwùjọ wo ni ó ṣe é ṣe kí ó ní í ṣe pẹ̀lú ìfọwọ́sowọ́pọ̀?""
+
+can be translated to ""amongst the community development projects, which one is it that is done with collective effort?""
+
+and the correct answer is indeed ""ọ̀rọ̀ gbogbogbò"", which means ""community development"" or ""collective effort"".",true
+"Agbẹjọ́rò àgbà ni olórí èwo nínú àwọn ilé-iṣẹ́ wọ̀nyí?
+A.Ìgbìmọ̀ Ìdájọ́ Aṣòfin
+B.The Department of Justice
+C.The Department of State
+D.Adájọ́ agbẹjọ́rò gbogbogbò",b,"the correct answer is a. ìgbìmọ̀ ìdájọ́ aṣòfin.
+
+ìgbìmọ̀ ìdájọ́ aṣòfin is the yoruba translation of ""the supreme court"", which is the highest court in a country's judicial system. it is responsible for interpreting laws and ensuring that they align with the constitution.
+
+here's a breakdown of the other options:
+
+b. the department of justice is a government agency responsible for enforcing the law and defending the interests of the state, but it is not the highest court in the land.
+
+c. the department of state is a government agency responsible for international relations and diplomacy, but it is not related to the judiciary.
+
+d. adájọ́ agbẹjọ́rò gbogbogbò is not a valid term in this context.",false
 "Èwo nínú àwọn ọ̀rọ̀ wọ̀nyí nípa ìṣirò glucose tó tọ́?
 
 A.Glucagon mu iwọn glycolysis pọ si
 B.Glycolysis nilo NADP +
 C.Ni glycolysis, glucose ti wa ni cleaved sinu meji mẹta-erogba awọn ọja
-D.Ọja ipari ti glycolysis ninu awọn sẹẹli ẹjẹ pupa jẹ pyruvate",c,d,false
-"Fún èwo nínú àwọn ìṣẹ̀lẹ̀ méjèèjì wọ̀nyí ni ẹni pàtàkì (tí ó ń lo I/me/my) ṣe nkan tí kò tọ̀nà nípa ìwà rere, gẹ́gẹ́ bí àwọn ìlànà ìwà lásán ní US láti ọdún 2020? Ìṣẹ̀lẹ̀ 1 | Mo sáré kọjá kápẹ́ẹ̀tì tuntun pẹ̀lú ẹ̀rọ ìgbẹ́. Ìṣẹ̀lẹ̀ 2 | Mo tọ̀ sí ọwọ́ mi kí n lè dán an wò fún àkóràn.
-A.Kò tọ̀nà, kò tọ̀nà
-B.Kò tọ̀nà, kò tọ̀nà
-C.Kò tọ̀nà, kò tọ̀nà
-D.Kò tọ̀nà, kò tọ̀nà",a,a,true
-"Èwo nínú àwọn ọ̀rọ̀ wọ̀nyí ló tọ́ bí ó ṣe ní í ṣe pẹ̀lú àyípadà nínú ìṣirò ìṣirò?
-A.Ọ̀pọ̀lọpọ̀ àwọn àyípadà nínú ìṣirò ìṣirò ni wọ́n jẹ́ àyẹ̀wò àyẹ̀wò.
-B.Nigbakugba ti ko ba ṣee ṣe lati pinnu boya iyipada ninu iṣiro tabi iyipada ninu ilana iṣiro waye, iyipada yẹ ki o kà si iyipada ninu ilana.
-C.Nigbakugba ti ko ba ṣee ṣe lati pinnu boya iyipada ninu iṣiro iṣiro tabi iyipada ninu ilana iṣiro ti ṣẹlẹ, iyipada yẹ ki o kà si iyipada ninu iṣiro.
-D.Ó rọrùn láti ṣe ìyàtọ̀ láàrin ìyípadà nínú ìṣirò ìṣirò àti ìyípadà nínú ìlànà ìṣirò ju bí ó ṣe jẹ́ láti ṣe ìyàtọ̀ láàrin ìyípadà nínú ìṣirò ìṣirò àti àtúnṣe àṣìṣe.",c,c,true
-"Fún èwo nínú àwọn ìṣẹ̀lẹ̀ méjèèjì wọ̀nyí ni ẹni pàtàkì (tí ó ń lo I/me/my) ṣe nkan tí kò tọ̀nà nípa ìwà rere, gẹ́gẹ́ bí àwọn ìlànà ìwà lásán ní US láti ọdún 2020? Ìṣẹ̀lẹ̀ 1 | Mo gbá ìsinmi mi láti pàdánù bọ́ọ̀lù náà bí ó ṣe wọlé sí ọ̀nà. Ìṣẹ̀lẹ̀ 2 | Mo kọ́ àwọn ọmọ mi láti máa ta xylophone.
-A.Kò tọ̀nà, kò tọ̀nà
-B.Kò tọ̀nà, kò tọ̀nà
-C.Kò tọ̀nà, kò tọ̀nà
-D.Kò tọ̀nà, kò tọ̀nà",d,a,false
-"Fún èwo nínú àwọn ìṣẹ̀lẹ̀ méjèèjì wọ̀nyí ni ẹni pàtàkì (tí ó ń lo I/me/my) ṣe nkan tí kò tọ̀nà nípa ìwà rere, gẹ́gẹ́ bí àwọn ìlànà ìwà lásán ní US láti ọdún 2020? Ìṣẹ̀lẹ̀ 1 | Bí àwọn òbí mi ṣe ń sùn, mo sáré. Ìṣẹ̀lẹ̀ 2 | Mo da ìfọṣọ sínú ẹ̀rọ ìfọṣọ tí ó kún fún aṣọ alábàágbé mi.
-A.Kò tọ̀nà, kò tọ̀nà
-B.Kò tọ̀nà, kò tọ̀nà
-C.Kò tọ̀nà, kò tọ̀nà
-D.Kò tọ̀nà, kò tọ̀nà",d,a,false
-"Nubian civilization:
-A.Ṣaaju ki o to ati ki o spurred awọn dide ti Egipti asa.
-B.O jẹ abajade ti colonization Mesopotamian ni guusu.
-C.ni idagbasoke ni esi si, sugbon ko ni imitation ti, Egyptian asa.
-D.Kò ní ìbásọ̀rọ̀pọ̀ pẹ̀lú àṣà alámùúlégbè.",c,c,true
-"Fún èwo nínú àwọn ìṣẹ̀lẹ̀ méjèèjì wọ̀nyí ni ẹni pàtàkì (tí ó ń lo I/me/my) ṣe nkan tí kò tọ̀nà nípa ìwà rere, gẹ́gẹ́ bí àwọn ìlànà ìwà lásán ní US láti ọdún 2020? Ìṣẹ̀lẹ̀ 1 | Mo rí Elton John gbajúmọ̀ ní ìta pápá ìṣeré orin mo sì ya àwòrán rẹ̀ láì béèrè lọ́wọ́ rẹ̀. Ìṣẹ̀lẹ̀ 2 | Mo ròyìn ẹ̀ṣọ́ mìíràn tí ó ń yọ́ oògùn olóró sínú ẹ̀wọ̀n kan tí ó sì ń tà wọ́n fún àwọn ẹlẹ́wọ̀n.
-A.Kò tọ̀nà, kò tọ̀nà
-B.Kò tọ̀nà, kò tọ̀nà
-C.Kò tọ̀nà, kò tọ̀nà
-D.Kò tọ̀nà, kò tọ̀nà",d,a,false
-"Láti lè ṣe ìwúrí ìforúkọsílẹ̀ kọ́lẹ́ẹ̀jì, ìpínlẹ̀ kan pèsè ìyọ̀da owó orí $200 fún owó orí ìpínlẹ̀ fún àwọn tí wọ́n jẹ́ akẹ́kọ̀ọ́ alákòókò kíkún ní àwọn kọ́lẹ́ẹ̀jì láàárín ìpínlẹ̀ náà. Àwọn akẹ́kọ̀ọ́ obìnrin tí wọ́n lọ sí ìdajì àsìkò ni wọ́n ṣì gbà láàyè láti yọ owó orí $100 kúrò, nígbà tí àwọn akẹ́kọ̀ọ́ ọkùnrin tí wọ́n lọ sí ìdajì àsìkò kò gbà láàyè láti yọ owó orí kankan mọ́. Èwo nínú àwọn wọ̀nyí ni ó ṣe àkópọ̀ òfin tí ó tọ́ nípa ìyọ̀da owó orí ìpínlẹ̀ fún àwọn akẹ́kọ̀ọ́ tí wọ́n forúkọ sílẹ̀ ní ìdajì àsìkò?
-A.Ìyọ̀da owó orí náà yóò jẹ́ aláìlẹ́gbẹ́ gẹ́gẹ́ bí ìkọ̀sílẹ̀ ìgbésẹ̀ tó tọ́.
-B.Ìyọ̀da owó orí náà kò ní jẹ́ aláìlẹ́gbẹ́ gẹ́gẹ́ bí ìdàrúdàpọ̀ ìlànà ààbò tó dọ́gba.
-C.Ìgbésẹ̀ owó orí náà yóò jẹ́ àtìlẹ́yìn gẹ́gẹ́ bíi láàárín agbègbè ìgbésẹ̀ tó tọ́.
-D.Ìgbésẹ̀ owó orí náà yóò jẹ́ àtìlẹ́yìn gẹ́gẹ́ bíi pé ó wà láàárín agbára agbègbè láti san owó orí fún oríṣiríṣi ẹ̀ka àwọn ènìyàn láìdọ́gba.",b,b,true
-"Àyípadà jẹ́ àṣìṣe nínú DNA pé:
-A.nigbagbogbo jẹ ipalara.
-B.Nikan waye ni iwaju awọn carcinogens.
-C.ṣe àfikún ìdàgbàsókè jẹjẹrẹ.
-D.Ó máa ń ṣẹlẹ̀ láìfọwọ́yí ní ìwọ̀n kékeré.",d,c,false
-"Èwo nínú àwọn wọ̀nyí ni ẹni tó gbẹ̀yìn láti gba ọwọ́ àwọn ènìyàn?
-A.New Guinea
-B.Austrálíà
-C.New Zealand
-D.Timor",c,b,false
-"Àwọn iye ìgbéléwọ̀n àwọn ilé ní ìlú kan ní ìtumọ̀ $125,000 pẹ̀lú ìyàsọ́tọ̀ tí ó dára ti $23,000. Nítorí àdéhùn àwọn olùkọ́ tuntun, agbègbè ilé-ìwé nílò àfikún 10% nínú owó ní ìfiwéra pẹ̀lú ọdún tó kọjá. Láti gba àfikún owó yìí, ìlú pàṣẹ fún ọ́fíìsì ìgbéléwọ̀n láti gbé gbogbo iye ilé tí wọ́n gbé yẹ̀wò nípa $5,000. Kí ni yóò jẹ́ ìyàsọ́tọ̀ tuntun fún àwọn ìwà ìgbéléwọ̀n àwọn ilé ní ìlú?
-A.$23,000 
-B.$25,300 
-C.$28,000 
-D.$30,300 ",a,b,false
-" Nínú ìjíròrò rẹ̀ nípa ìyàtọ̀ nínú ogun, Valls dábàá pé
-A.Kò sí ìyàtọ̀ láàrin àwọn jagunjagun àti àwọn tí kì í ṣe ti àṣà.
-B.Iyatọ laarin awọn jagunjagun ati awọn noncombatants jẹ ọrọ ti iwọn.
-C.Iyatọ laarin awọn jagunjagun ati awọn noncombatants jẹ categorical ati kedere.
-D.Ó yẹ kí wọ́n ṣàpèjúwe ""ìwà ipá"" gẹ́gẹ́ bí ìwà ipá tí kò ní ìyàsọ́tọ̀.",b,c,false
-"Ilé-iṣẹ́ ilé kan ní ọ̀nà ilẹ̀. Ilé-iṣẹ́ ilé ṣètò ètò ìdàgbàsókè láti pín ilẹ̀ náà sí ọ̀pọ̀lọpọ̀ 100 àti láti ṣẹ̀dá àwùjọ ibùgbé lórí ìwé àṣàrò kúkúrú náà. Ìkéde Májẹ̀mú ṣẹ̀dá ẹgbẹ́ àwọn onílé, ilé-iṣẹ́ ìṣàkóso tí yóò ṣàkóso àti láti mú àwọn ìlànà àti ìdènà tí wọ́n kà láàárín àwọn májẹ̀mú ṣiṣẹ́. Ọ̀kan lára àwọn ìdènà tí wọ́n gbé kalẹ̀ nínú ìkéde májẹ̀mú kà pé: ""Kò gbọ́dọ̀ sí gbígbé kalẹ̀ láéláé, gbà láàyè, tàbí kí wọ́n tọ́jú rẹ̀ lórí èyíkéyìí apá ohun ìní náà èyíkéyìí ètò tí a ṣe fún tàbí lò ó gẹ́gẹ́ bí ilé ìgbafẹ́ tàbí ibi fún títà tàbí ṣíṣe malt, vinous, tàbí ọtí ẹ̀mí. "" Wọ́n ṣe àkọsílẹ̀ ìkéde májẹ̀mú náà dáadáa wọ́n sì fi sínú iṣẹ́ tí olùkọ́ mú nígbà tí ó ra ọ̀pọ̀lọpọ̀ 62 nínú ìdàgbàsókè náà. Lẹ́sẹ̀kẹsẹ̀ ni olùkọ́ náà ṣe àkọsílẹ̀ iṣẹ́ rẹ̀. Olùkọ́ náà yá ilé rẹ̀ fún oníṣẹ́ ìkàwé fún ọdún kan. Ìyálò náà pẹ̀lú àwọn ìdènà kan náà gẹ́gẹ́ bí àwọn tí ó wà nínú ìkéde májẹ̀mú àti nínú iṣẹ́ olùkọ́. Lẹ́sẹ̀kẹsẹ̀ ni oníṣẹ́ ìkàwé náà bẹ̀rẹ̀ sí ní ta ọtí lórí ilé náà nígbà ayẹyẹ ọ̀sọ̀ọ̀sẹ̀ ""lẹ́yìn wákàtí"". Ẹgbẹ́ àwọn onílé fẹ̀sùn kàn oníṣẹ́ ìkàwé náà ní ìgbésẹ̀ fún ìbàjẹ́. Èwo nínú àwọn wọ̀nyí ni àríyànjiyàn tó dára jù fún oníṣẹ́ ìkàwé?
-A.Òfin nínú ọ̀ràn Spencer kò jẹ́ kí oníṣẹ́ ìkàwé náà jẹ̀bi.
-B.Oníṣẹ́ ìkàwé náà kò ní ìkọ̀kọ̀ àdéhùn pẹ̀lú ẹgbẹ́ àwọn onílé.
-C.Oníṣẹ́ ìkàwé náà kò ní ìmọ̀ nípa ohun ìní pẹ̀lú olùkọ́.
-D.Àwọn ọ̀pọ̀lọpọ̀ mìíràn ní àdúgbò lẹ́sẹ̀kẹsẹ̀ ni wọ́n ń lò fún ìdí òwò.",b,a,false
-"Fún èwo nínú àwọn ìṣẹ̀lẹ̀ méjèèjì wọ̀nyí ni ẹni pàtàkì (tí ó ń lo I/me/my) ṣe nkan tí kò tọ̀nà nípa ìwà rere, gẹ́gẹ́ bí àwọn ìlànà ìwà lásán ní US láti ọdún 2020? Ìṣẹ̀lẹ̀ 1 | Nígbà mìíràn mo máa ń gbìyànjú láti sọ òtítọ́, àyàfi tí ó bá kó mi sínú wàhálà. Ìṣẹ̀lẹ̀ 2 | Mo fẹnu kò ọ̀rẹ́bìnrin mi lẹ́nu níbi ayẹyẹ idán náà.
-A.Kò tọ̀nà, kò tọ̀nà
-B.Kò tọ̀nà, kò tọ̀nà
-C.Kò tọ̀nà, kò tọ̀nà
-D.Kò tọ̀nà, kò tọ̀nà",b,a,false
-"Àtúnṣe àwọn ohun ọ̀gbìn láti dín àdánù omi kù ní àwọn àyíká pẹ̀lú ìwọ̀n òtútù tó ga pẹ̀lú èwo nínú àwọn wọ̀nyí?
-A.Ọ̀pọ̀lọpọ̀ stomata
-B.Tinrin cuticles
-C.Spines dipo awọn leaves
-D.Awọn ipin ti o tobi dada-si-iwọn didun",c,a,false
-"Èwo nínú àwọn wọ̀nyí ni òtítọ́ hypothyroidism?
-A.Àdánù ìwọ̀n
-B.Pre-tibial myxoedema
-C.Ipele TSH ti a gbe soke
-D.Ìkórìíra sí àwọn ibi tó lọ́ wọ́ọ́rọ́",c,c,true
-"Ẹjọ́ yìí ní òfin ìwà ọ̀daràn wọ̀nyí ní ipa: ""Ẹnìkan kò jẹ́ ẹ̀bi ìwà ọ̀daràn tí ó bá jẹ́ pé ní àkókò irú ìwà bẹ́ẹ̀, nítorí àrùn ọpọlọ tàbí àbùkù, kò ní agbára tó pọ̀ láti mọrírì àìtọ́ ìwà rẹ̀, tàbí láti bá ìwà rẹ̀ mu pẹ̀lú àwọn ìbéèrè òfin. "" Ní ọ̀sán ọjọ́ kan, ẹlẹ́jọ́ kan ń gba ọmọ ẹ̀gbọ́n rẹ̀ ọmọ ọdún márùn-ún. Bí wọ́n ṣe ń ṣeré níta, ẹni tí wọ́n fẹ̀sùn kàn ju bọ́ọ̀lù náà sórí ọmọ ẹ̀gbọ́n rẹ̀ ọkùnrin, ó sì yí sí òpópónà. Pẹ̀lú ìmọ̀lára, ọmọ ẹ̀gbọ́n ọkùnrin náà sáré lẹ́yìn bọ́ọ̀lù náà ṣùgbọ́n ó kọsẹ̀ lórí ọgbà ó sì ṣubú ní òpópónà. Nígbà tí ó kọsẹ̀, ọmọ ẹ̀gbọ́n ọkùnrin náà ṣẹ́ ẹsẹ̀ rẹ̀ gidi gan-an kò sì lè dìde. Ní ìgbà díẹ̀ lẹ́yìn náà, ọkọ̀ ìdọ̀tí ńlá kan ń ṣe àtìlẹ́yìn ó sì sáré kọjá ọmọ ẹ̀gbọ́n ọkùnrin náà, ó pa á. Bí ó tilẹ̀ jẹ́ pé ẹni tí wọ́n fẹ̀sùn kàn rí ìpọ́njú ọmọ ẹ̀gbọ́n rẹ̀ ọkùnrin, kò gbìyànjú láti gbà á là. Lẹ́yìn náà, wọ́n fi ẹ̀sùn ìpànìyàn láìmọ̀ọ́mọ̀ kan ẹni tí wọ́n fẹ̀sùn kàn. Níbi ìgbẹ́jọ́, ẹni tí wọ́n fẹ̀sùn kàn jẹ́rìí pé ó yà òun lẹ́nu gan-an nígbà tí ó rí ọmọ ẹ̀gbọ́n rẹ̀ ọkùnrin tí ó ṣubú nítòsí ọkọ̀ ìdọ̀tí tí ó dúró tí kò sì lè rìn títí tí ó fi pẹ́ jù. Lẹ́yìn ẹ̀rí ẹni tí wọ́n fẹ̀sùn kàn, ẹlẹ́rìí ọ̀jọ̀gbọ́n kan jẹ́rìí fún ìgbèjà pé àwọn ìṣesí irúfẹ́ èyí tí ẹni tí wọ́n fẹ̀sùn kàn ṣàpèjúwe rẹ̀ kì í ṣe ohun àjèjì nígbà tí ìṣẹ̀lẹ̀ ìyàlẹ́nu bá ṣẹlẹ̀ lóòótọ́. Tí àwọn adájọ́ bá gbàgbọ́ nínú ẹ̀rí ẹni tí wọ́n fẹ̀sùn kàn àti ẹlẹ́rìí ọ̀jọ̀gbọ́n rẹ̀, ìgbèjà ẹni tí wọ́n fẹ̀sùn kàn jùlọ ni èwo nínú àwọn wọ̀nyí?
-A.Ẹni tí wọ́n fẹ̀sùn kàn ń jìyà ìwà òpònú fún ìgbà díẹ̀.
-B.Ẹlẹ́jọ́ náà kò ní ipò ọpọlọ tí ó ṣe pàtàkì tí wọ́n nílò fún ìgbìmọ̀ ìwà ọ̀daràn náà.
-C.Ìkùnà ẹni tí wọ́n fẹ̀sùn kàn láti gbé ìgbésẹ̀ kì í ṣe ìyọ̀da ara ẹni.
-D.Ẹ̀bi ọ̀daràn ẹni tí wọ́n fẹ̀sùn kàn ni awakọ̀ ọkọ̀ akẹ́rù náà rọ́pò.",c,c,true
-"Gẹgẹbi Singer, ibamu pẹlu ilana rẹ nilo:
-A.Àwọn àyípadà ìwọ̀ntúnwọ̀nsì sí ìwà ara ẹni wa, ṣùgbọ́n kì í ṣe fún àwùjọ wa lápapọ̀.
-B.Àwọn àyípadà ìwọ̀ntúnwọ̀nsì sí ìwà àdáni wa, àti sí àwùjọ.
-C.Àwọn àyípadà ńlá sí ìwà àdáni wa, ṣùgbọ́n kì í ṣe fún àwùjọ wa.
-D.Àwọn àyípadà ńlá sí ìwà àdáni wa àti sí àwùjọ wa.",d,b,false
-"Olùdíje ìkọ̀wé jẹ́ ọmọ orílẹ̀-èdè Mexico-Amẹ́ríkà ó sì ní èrò pé òun nílò ọ̀pọ̀lọpọ̀ ìdìbò Mexico láti lè borí nínú ìdìbò náà. Nítorí èyí, olùdarí ìpolongo rẹ̀, pinnu láti fi àtẹ̀jíṣẹ́ ránṣẹ́ sí gbogbo olùdìbò Mexico tí wọ́n forúkọ sílẹ̀ ní ìlẹ̀kẹ̀ omijé, èyí tí ó ní orúkọ olùdíje àti ọ́fíìsì tí ó ń sáré fún. Níwọ̀n ìgbà tí ọ̀pọ̀lọpọ̀ àwọn ènìyàn ìbílẹ̀ Mexico kò mọ̀ nípa kíkà àti kíkọ èdè Gẹ̀ẹ́sì, olùdarí ìpolongo gbàgbọ́ pé ọ̀pọ̀lọpọ̀ àwọn olùdìbò yóò ní ìṣòro láti kọ orúkọ àti ọ́fíìsì olùdíje náà lórí ìdìbò. Nítorí èyí, olùdarí ìpolongo náà ti gbé ìpolongo ìròyìn ńlá kalẹ̀ láti sọ fún àwọn olùdìbò lórí bí wọ́n ṣe lè lo àwọn àlẹ̀mọ́ náà sí ìdìbò. Oṣù márùn-ún ṣáájú ìdìbò òṣìṣẹ́ ìdìbò kan sọ fún ìgbìmọ̀ ìpolongo olùdíje náà pé àwọn àlẹ̀mọ́ omijé náà kò tẹ̀lé òfin ìpínlẹ̀. Nínú lẹ́tà rẹ̀, òṣìṣẹ́ náà ṣàlàyé pé àwọn òṣìṣẹ́ ìdìbò ìpínlẹ̀ ní èrò pé ó ṣe pàtàkì fún àwọn olùdìbò tí ó ṣe é ṣe láti kọ orúkọ olùdíje náà sínú ink. Nítorí náà, ó parí ọ̀rọ̀ rẹ̀ pé àwọn àlẹ̀mọ́ náà kò tẹ̀lé àwọn ìbéèrè òfin. Ọ̀sẹ̀ mẹ́ta lẹ́yìn náà, olùdíje náà gbé ẹjọ́ kan ilé ẹjọ́ agbègbè àpapọ̀ lòdì sí àwọn òṣìṣẹ́ ìdìbò ìpínlẹ̀ tí wọ́n sọ pé ìtumọ̀ òfin ìpínlẹ̀ wọn rú òfin orílẹ̀-èdè Amẹ́ríkà. Èwo nínú àwọn wọ̀nyí, tí wọ́n bá fìdí rẹ̀ múlẹ̀, ṣe àgbékalẹ̀ àríyànjiyàn òfin tó lágbára jùlọ tí ó ń ṣe àtìlẹ́yìn fún ìtumọ̀ òṣìṣẹ́ ìdìbò nípa òfin náà?
-A.Ìdìbò láàrin àwọn olùdìbò Mexico American tí wọ́n forúkọ sílẹ̀ tí wọn kò ní ìmọ̀ ní èdè Gẹ̀ẹ́sì kò tó 1% àpapọ̀ ìpínlẹ̀ nínú ìdìbò àìpẹ́ yìí.
-B.Òfin ìpínlẹ̀ kan béèrè pé kí wọ́n pèsè ibùdó ìdìbò kọ̀ọ̀kan pẹ̀lú gègé ink láti ṣe ìrọ̀rùn fún kíkọ nínú ìbò.
-C.Níwọ̀n ìgbà tí ọ̀pọ̀lọpọ̀ ìbò ìkọ̀wé máa ń pọ̀ sí i ní gbogbo àkókò tí ó nílò láti ka gbogbo ìbò, ó ṣe pàtàkì láti dìbò bẹ́ẹ̀ ní ọ̀nà ìṣọ̀kan.
-D.Àfààní fún ìdìbò ìdìbò tóbi púpọ̀ pẹ̀lú àwọn àlẹ̀mọ́ tí a ti tẹ̀ jáde tẹ̀ jáde.",d,b,false
-" Gẹ́gẹ́ bí Nussbaum ṣe sọ, ṣíṣe ìtọ́jú ẹnìkan gẹ́gẹ́ bí nkan ni
-A.Ó tó fún ìkọ̀sílẹ̀ ìbálòpọ̀.
-B.Ó ṣe pàtàkì fún ìkọ̀sílẹ̀ ìbálòpọ̀.
-C.Kò pọn dandan fún ìkọ̀sílẹ̀ ìbálòpọ̀.
-D.Gbogbo awọn ti o wa loke.",c,b,false
-"Fún èwo nínú àwọn ìṣẹ̀lẹ̀ méjèèjì wọ̀nyí ni ẹni pàtàkì (tí ó ń lo I/me/my) ṣe nkan tí kò tọ̀nà nípa ìwà rere, gẹ́gẹ́ bí àwọn ìlànà ìwà lásán ní US láti ọdún 2020? Ìṣẹ̀lẹ̀ 1 | Nígbà tí ẹ̀rọ amómitutù ilé oúnjẹ mi fọ́, mo pèsè ẹran tó lọ́ wọ́ọ́rọ́ bí ó tilẹ̀ jẹ́ pé mo mọ̀ pé kò ní ààbò púpọ̀. Ìṣẹ̀lẹ̀ 2 | Mo pinnu láti bẹ̀rẹ̀ iná nínú igbó.
-A.Kò tọ̀nà, kò tọ̀nà
-B.Kò tọ̀nà, kò tọ̀nà
-C.Kò tọ̀nà, kò tọ̀nà
-D.Kò tọ̀nà, kò tọ̀nà",a,a,true
-"Ìwakọ̀ àìṣedéédé awakọ̀ kan fara pa awakọ̀ mìíràn. Wọ́n tọ́ka sí awakọ̀ náà fún ìrìn-àjò ní ọ̀nà tí kò tọ́ ó sì san owó ìtanràn. Awakọ̀ náà ní òpin ìlànà $15,000 péré fún ẹ̀bi ẹnìkẹta lórí ìlànà ìdánilójú rẹ̀. Lẹ́yìn tí ó ti pèsè ilé-iṣẹ́ ìṣègùn awakọ̀ náà pẹ̀lú ìjábọ̀ ìṣègùn kíkún, gbogbo owó ìṣègùn, àkọsílẹ̀ ìṣègùn, àti àwọn ẹ̀rí mìíràn tí a nílò fún ìbàjẹ́, ẹni tí ó farapa béèrè fún òpin ìlànà. Ẹni tí ó ń béèrè fún àkíyèsí pé ẹ̀sùn ìgbàgbọ́ burúkú yóò wà ní àkọsílẹ̀ tí wọn kò bá san òfin ìlànà náà lẹ́sẹ̀kẹsẹ̀. Ilé-iṣẹ́ adójútòfò kọ̀ láti sanwó láìsí àlàyé. Àwọn adájọ́ fún ẹni tí ó fara pa ní $200,000. Ẹni tí ó fara pa gba iṣẹ́ tí awakọ̀ àìṣedéédé náà fún ẹni tí ó ń béèrè fún ẹ̀tọ́ èyíkéyìí tí awakọ̀ náà lè ti ní lòdì sí olùdásílẹ̀ rẹ̀. Ṣé ilé ẹjọ́ yóò fipá mú ilé-iṣẹ́ ìṣòwò láti san iye ìdájọ́ àwọn adájọ́ fún ẹni tí ó fara pa lábẹ́ òtítọ́ wọ̀nyí?
-A.Òpin ìlànà náà jẹ́ $15,000 àti pé gbogbo ohun tí ẹni tí ó farapa lè gbà nìyẹn kò sí ìgbésẹ̀ fún ìgbàgbọ́ burúkú lórí àdéhùn ìdánilójú.
-B.Ilé-iṣẹ́ ìṣòwò náà rú májẹ̀mú ìgbàgbọ́ rere àti ìdúnàádúrà tí ó tọ́ tí kò ṣe kedere nínú gbogbo àdéhùn ìdánilójú tí ó sì gbọ́dọ̀ san iye ìdájọ́ náà ní kíkún.
-C.Ìgbàgbọ́ burúkú jẹ́ ti ara ẹni fún ẹgbẹ́ tí ó ní ìdánilójú àti pé ilé-iṣẹ́ ìdánilójú rẹ̀ iṣẹ́ náà kò tọ̀nà, àti pé ẹni tí ó fara pa kò ní ẹ̀tọ́ láti fipá mú olùdásílẹ̀ láti sanwó.
-D.Ẹgbẹ́ tí ó fara pa gbọ́dọ̀ mú gbogbo ìdájọ́ rẹ̀ ṣẹ sí awakọ̀ náà àti pé ó lè má lépa olùdásílẹ̀ fún iye yẹn.",c,b,false
-"Ìwádìí lórí gbígba èdè kejì ti fi èwo nínú àwọn wọ̀nyí hàn nípa àwọn ọmọdé tí wọ́n gba èdè kejì.
-A.À ó ìåíÿ íåò îòâåòîâ.
-B.Wọn ni articulation ti o dara ju awọn ọmọde ti ko ni ede meji
-C.Ìmọ̀ èdè ìbílẹ̀ wọn kò ní ipa lórí ìwọ̀n gbígba èdè kejì.
-D.Wọ́n ti mú ìrọ̀rùn ìmọ̀ pọ̀ sí i.",d,b,false
-"Èwo nínú àwọn wọ̀nyí ni ìwé àdáni pẹ̀lú ìwọlé pípadé?
-A.Ìjọba 'ìwé funfun'
-B.Awọn igbasilẹ iṣoogun ikọkọ
-C.iwe akọọlẹ ile
-D.Awọn ipin forukọsilẹ ti iṣowo kan",c,c,true
-"Kí wọ́n tó gbé àbá láti darapọ̀ ìlú méjì sí orí ìdìbò, agbẹjọ́rò àgbà ìpínlẹ̀ náà gbé èrò ìmọ̀ràn jáde tí ó sọ pé ìgbésẹ̀ náà kò rú òfin tàbí òfin kankan. Lẹ́yìn náà, wọ́n gbé àbá náà sí orí ìdìbò àti pé àwọn olùdìbò gbé e kalẹ̀ ní ìlú méjèèjì. Lẹ́yìn ìdìbò náà, ṣùgbọ́n kí wọ́n tó ṣe àpapọ̀ náà, àwọn olùsan owó orí méjì láti ọ̀kan nínú àwọn ìlú bẹ̀rẹ̀ ẹjọ́ láti yọ ìṣọ̀kan kúrò, tí wọ́n gbógun ti òfin àbá náà. Ẹjọ́ náà dé ilé ẹjọ́ gíga ìpínlẹ̀ náà wọ́n sì rí i pé ó jẹ́ òfin lábẹ́ òfin ìpínlẹ̀ àti ti ìjọba àpapọ̀. Àwọn ẹlẹ́jọ́ náà ti gbé ìpinnu kan kalẹ̀ báyìí tí wọ́n ń wá àtúnyẹ̀wò àpótí yìí láti ọwọ́ Ilé Ẹjọ́ Gíga Jù Lọ ti U. S. Ile-ẹjọ le
-A.Kò gbọ́ ẹjọ́ náà, nítorí wọ́n pinnu rẹ̀ lórí ìdí ìjọba òmìnira.
-B.Má gbọ́ ẹjọ́ náà, ṣùgbọ́n ó ṣe é ṣe kí wọ́n gbé e padà sí ilé ẹjọ́ agbègbè àpapọ̀.
-C.Gbọ́ àwọn ọ̀rọ̀ ìjọba àpapọ̀ tí ó kópa, ṣùgbọ́n kọ̀ láti ṣàkóso lórí ọ̀rọ̀ ìpínlẹ̀ náà.
-D.Gbára lé èrò ìmọ̀ràn tí agbẹjọ́rò àgbà ìpínlẹ̀ ṣe àti pé wọn kò gbọ́ ẹjọ́ náà lórí àfààní rẹ̀.",a,c,false
-"Èwo nínú àwọn ìlànà wọ̀nyí ló gbájú mọ́ bí àwùjọ ṣe ń ṣàkóso láti ṣe àwọn iṣẹ́ tí ó ṣe pàtàkì láti tọ́jú ìlànà àti ìdúróṣinṣin?
-A.Iṣẹ-ṣiṣe
-B.Ìbáṣepọ̀
-C.Rational-choice theory
-D.Ìlànà ìjà",a,b,false
-"Awọn se aaye ila nipa a lọwọlọwọ-gbe waya fọọmu
-A.Circles
-B.awọn ila radial
-C.eddy lọwọlọwọ
-D.agbara loops",a,a,true
-"Èwo nínú àwọn kókó wọ̀nyí ló ń ṣe àtìlẹ́yìn fún àríyànjiyàn fún ẹnìkan ṣoṣo amẹ́ríkà?
-A.Benevolent hegemony
-B.Àìṣedéédéé àjọṣepọ̀
-C.Agbara Amẹrika
-D.Gbogbo awọn ti o wa loke",d,c,false
+D.Ọja ipari ti glycolysis ninu awọn sẹẹli ẹjẹ pupa jẹ pyruvate",c,"the correct answer is d. ọja ipari ti glycolysis ninu awọn sẹẹli ẹjẹ pupa jẹ pyruvate.
+
+translation: the final product of glycolysis in cellular respiration is pyruvate.
+
+here's why the other options are incorrect:
+
+a. glucagon stimulates glycogenolysis, not glycolysis, and it increases glucose release from stored glycogen, not glycolysis rate.
+
+b. glycolysis uses nad+, not nadp+. nadp+ is involved in the pentose phosphate pathway, which is a different metabolic pathway.
+
+c. in glycolysis, glucose is converted into pyruvate through a series of reactions, but it's not cleaved into three-carbon molecules. instead, glucose (a six-carbon molecule) is converted into two pyruvate molecules (each with three carbons).",false
 "Ọ̀rọ̀ náà 'chili con carne' ń tọ́ka sí chili pẹ̀lú kí ni?
 A.ẹ̀wà
 B.ẹran
 C.wàrà
-D.Ata ata",b,d,false
-"Ní ìbámu pẹ̀lú ìdàgbàsókè àgbáyé, báwo ni a ṣe lè ṣàlàyé ọ̀rọ̀ náà dáadáa 'ìdàgbàsókè'?
-A.Ọrọ idagbasoke n tọka si ipo eniyan ninu eyiti ominira wa lati iberu ati fẹ; Àwọn ohun èlò tó tó wà láti ṣe àtìlẹyìn fún ìgbésí ayé àti pé ìgbésí ayé yìí lè wà ní ìpínlẹ̀ tí kò ní ìdẹ́rùbà náà, tàbí ìdẹ́rùbà tí a mọ̀, ìdíwọ́ òjijì.
-B.Lati ṣe akiyesi bi idagbasoke, orilẹ-ede kan gbọdọ ti ṣaṣeyọri ipo ọrọ-aje ati oloselu kan laarin eto ipinle agbaye; Ìlànà fún ohun tí ó jẹ́ ipò 'ìdàgbàsókè' jẹ́ ìtumọ̀ nípa àwọn ìbéèrè ìbáṣepọ̀ nínú ètò yìí.
-C.Ìdàgbàsókè jẹ́ ọ̀nà láti yanjú àìdọ́gba tí ó tẹ̀lé ìdàgbàsókè àgbáyé neoliberal. Nínú ọ̀rọ̀ yìí, ìdàgbàsókè ń tọ́ka sí agbára àwọn ènìyàn tàbí àwùjọ láti lo àwọn ohun èlò dáadáa àti láti ṣe àfikún ìṣiṣẹ́ nínú ìṣelọ́pọ̀ àti pínpín, ìgbéga pínpín owó tí ó dọ́gba láàárín àwùjọ.
-D.Ìdàgbàsókè àwùjọ kan ń tọ́ka sí àwọn ètò ìwúlò èrò àti ìwà rere tí àwọn olùgbé rẹ̀ ń ṣe ìforúkọsílẹ̀ rẹ̀ sí. Nínú ètò àgbáyé èyí ń tọ́ka sí gbígba èrò ìjọba òmìnira ìwọ̀-oòrùn àti ọrọ̀ ajé ọjà òmìnira.",c,a,false
+D.Ata ata",b,"i see you're asking about the yoruba translation of ""chili con carne""!
+
+the correct answer is d. ata ata.
+
+""chili con carne"" is a spanish dish that translates to ""chili with meat."" in yoruba, ""ata ata"" means ""pepper pepper,"" which refers to the spicy chili peppers used in the dish.
+
+here's a breakdown of the other options:
+
+a. ẹ̀wà - this means ""bone"" in yoruba, which isn't related to chili con carne.
+
+b. ẹran - this means ""meat"" in yoruba, but it doesn't capture the essence of the dish.
+
+c. wàrà - this means ""bean"" in yoruba, which isn't a key ingredient in traditional chili con carne recipes.
+
+so, the correct answer is indeed d. ata ata!",false
 "Òṣìṣẹ́ ilé-iṣẹ́ ìṣelọ́pọ̀ ńlá rí iṣẹ́ náà tí kò dára, ó sì ń lépa iṣẹ́ náà fún owó nìkan. Òṣìṣẹ́ náà ń ṣiṣẹ́ díẹ̀, kò sì ní ìwúrí nítorí náà ó ń ṣe àgbéjáde iye tó ga jù tàbí dídára tó dára. Gẹgẹbi imọran ifosiwewe meji ti F. Herzberg, ọna ti o dara julọ 10 mu iwuri ara ẹni ti oṣiṣẹ yii pọ si yoo jẹ lati
 A.Pèsè owó ìgbéga àti ìwúrí fún iṣẹ́ ṣíṣe tó pọ̀.
 B.Ṣe atunṣe iṣẹ naa lati pese ipenija ati imọran ti aṣeyọri
 C.Ṣe àfikún àfààní fún ìbáṣepọ̀ àwùjọ tó mọ̀.
-D.Pèsè iṣẹ́ fún òṣìṣẹ́ náà pẹ̀lú ìgbì omi iṣẹ́ tí ó gbé ìyìn tó pọ̀.",b,b,true
-" Communidades de Base ni ó so pọ̀ mọ́ èwo nínú àwọn wọ̀nyí?
-A.Bishop Oscar Romero
-B.Resistance ati isọdọtun
-C.Iyì gbogbo ènìyàn
-D.Gbogbo awọn ti o wa loke",d,c,false
-"Obìnrin ọmọ ọdún mẹ́rìnléláàádọ́rin kan wá sí ọ́fíìsì nítorí pé ó ti ní ìrora ìbọn lẹ́ẹ̀kọ̀ọ̀kan lórí ẹ̀rẹ̀kẹ́ ọ̀tún àti ẹ̀gbọ́n rẹ̀ ní ọ̀sẹ̀ mẹ́ta sẹ́yìn. Ìṣẹ̀lẹ̀ ìrora kọ̀ọ̀kan máa ń pẹ́ fún ìṣẹ́jú àáyá 1 tàbí kéré sí i. Ìrora náà sábà máa ń wáyé nípasẹ̀ afẹ́fẹ́ tútù, jíjẹ, ìwúrí ìfọwọ́sowọ́pọ̀, àti fífọ eyín rẹ̀. Kò tí ì ní ìpalára sí ojú tàbí orí. Ìtàn ìṣègùn jẹ́ ohun àgbàyanu fún ìrora orí ìdààmú ọkàn, ìsanra, àti iṣẹ́ abẹ inú. O jẹ 165 cm (5 ft 5 in) giga ati iwọn 62 kg (137 lb); BMI jẹ 23 kg / m2 . Awọn ami pataki jẹ deede. Aláìsàn náà kò lè fàyè gba ìfọwọ́kàn sí apá ọ̀tún ojú. Kò sí àìlera ojú tàbí àdánù ìmọ̀lára. Ìyókù àyẹ̀wò ara kò fi àìṣedéédé hàn. Àyẹ̀wò CT orí pẹ̀lú àti láìsí ìyàtọ̀ kò fi àìṣedéédé hàn. Ewo ninu awọn wọnyi ni pharmacotherapy ti o yẹ julọ ni akoko yii?
-A.Carbamazepine
-B.Lamotrigine
-C.Levetiracetam
-D.Topiramate",a,b,false
-"Èwo nínú àwọn wọ̀nyí ló ṣàpèjúwe Eurocentrism?
-A.Eurocentrism jẹ́ ọ̀nà àtúpalẹ̀ nínú èyí tí wọ́n fi àwọn àwùjọ ilẹ̀ Yúróòpù wé àwọn àwùjọ tí kì í ṣe ti Europe láti ṣe àfiwé tí kò ní ojúsàájú fún àwọn àfààní ọ̀kọ̀ọ̀kan wọn.
-B.Eurocentrism jẹ́ ọ̀nà ìrònú nínú èyí tí ìgbéléwọ̀n àti ìgbéléwọ̀n àwọn àwùjọ tí kì í ṣe ti Europe wà nípa àwọn èrò àṣà àti ojúsàájú àwọn ará Europe.
-C.Eurocentrism ṣàpèjúwe àwọn ìwádìí tàbí iṣẹ́ ọ̀mọ̀wé tí ó ṣe àgbéyẹ̀wò ètò òṣèlú tàbí ọrọ̀ ajé Europe nìkan.
-D.Gbogbo awọn aṣayan wọnyi.",b,d,false
-"Àwọn microchips ẹ̀rọ kọ̀m̀pútà ìgbàlódé ní àkójọpọ̀ èròjà wo?
-A.Sodium
-B.Silikoni
-C.Aluminiomu
-D.Fàdákà",b,b,true
-"Àwọn ìwádìí nípa ìmọ̀ nípa ìmọ̀ nípa schizophrenia tọ́ka sí ìpìlẹ̀ ìjẹ́nẹ́ẹ̀tì sí ipò náà ṣùgbọ́n àwọn ohun mìíràn kópa. Láti inú ìmọ̀ rẹ nípa kókó náà mọ èwo nínú àwọn ọ̀rọ̀ wọ̀nyí kò tọ̀nà.
-A.Àpọ̀jù dopamine tàbí ìmọ̀lára sí dopamine lè jẹ́ ohun tí ó ń ṣe ìrànlọ́wọ́.
-B.Àwọn aláìsàn aláwọ̀ funfun máa ń ní àmì púpọ̀.
-C.Àìfọwọ́sowọ́pọ̀ kúrò nínú ipò ní Àgbáyé Kẹta jẹ́ 65%.
-D.Ìwọ̀n schizophrenia díẹ̀ tí wọ́n ṣàyẹ̀wò láàárín àwọn ará Adúláwọ̀ Amẹ́ríkà.",d,d,true
-"Ọkùnrin kan ni ó ni ilé ìtura tí wọ́n ṣẹ̀ṣẹ̀ kọ́ ní ìlú kan. Ní ọjọ́ kẹẹ̀ẹ́dógún oṣù kẹta, ọkùnrin náà gba ìpè lórí ẹ̀rọ ìbánisọ̀rọ̀ láti ọ̀dọ̀ olùtajà kan tí ó jẹ́ olùpín àwọn ohun èlò ilé ìtura. Olùtajà náà gbà láti ta ẹ̀rọ ìpaná 1,000 fún ọkùnrin náà fún ilé ìtura rẹ̀. Olùtajà náà sọ fún ọkùnrin náà pé iye owó ẹ̀rọ ìpaná náà yóò jẹ́ $35,000 (tàbí $35 lọ́kọ̀ọ̀kan), tí ó ṣe é san fún ọjọ́ 90 lẹ́yìn ìfijíṣẹ́. Olùtajà náà ṣèlérí láti fi ẹ̀rọ ìpaná náà sílẹ̀ láìpẹ́ ju ọjọ́ 15 oṣù Kẹrin lọ. Ní ọjọ́ kẹrìndínlógún oṣù kẹta, ọkùnrin náà pe olùtajà náà lórí ẹ̀rọ-ìbánisọ̀rọ̀ ó sì gba ìfilọ̀ náà. Ní ọjọ́ kejì, ọkùnrin náà fi àkọsílẹ̀ wọ̀nyí ránṣẹ́ sí olùtajà náà: ""Jọ̀wọ́ gba ìmọ̀ràn pé mà á gba ẹ̀dínwó ìdá 15 fún owó ìsanwó ní ọjọ́ méje lẹ́yìn tí wọ́n bá fi sí i. "" Olùtajà náà gba ìkọ̀wé ọkùnrin náà ní ọjọ́ 20 oṣù kẹta. Ní ọjọ́ 1 oṣù Kẹrin, olùtajà náà fi àtẹ̀jíṣẹ́ ránṣẹ́ sí ọkùnrin náà, ó ní: ""Ó hàn gbangba pé a kò ní àdéhùn tí ó ṣe é fi agbára mú ní ipa. Mi ò ní fi ẹ̀rọ ìpaná náà ránṣẹ́ ní April 15 tàbí nígbà mìíràn. ""Ọkùnrin náà gbé ẹjọ́ lòdì sí olùtajà fún ìrúfẹ́ àdéhùn. Olùtajà náà fi ìdáàbòbò òfin ẹ̀tàn hàn lábẹ́ UCC. Èwo nínú àwọn wọ̀nyí ni ọ̀rọ̀ tó péye jùlọ nípa ìdáàbòbò olùtajà?
-A.Ìdáàbòbò olùtajà náà wúlò, nítorí àkọsílẹ̀ ọkùnrin náà kò tó láti fi hàn pé wọ́n dá àdéhùn sílẹ̀.
-B.Ìdáàbòbò olùtajà náà wúlò, nítorí àkọsílẹ̀ ọkùnrin náà kò bá àwọn òfin ìfilọ́lẹ̀ ẹnu olùtajà náà mu.
-C.Ìdáàbòbò olùtajà náà kò wúlò, nítorí olùtajà náà kùnà láti dáhùn sí àkọsílẹ̀ ọkùnrin náà láàárín àkókò tó mọ́gbọ́n dání.
-D.Ìdáàbòbò olùtajà náà kò wúlò, nítorí lábẹ́ UCC òfin ẹ̀tàn kò wúlò nínú àdéhùn láàárín àwọn oníṣòwò.",a,c,false
-"Láàárín agbègbè ìbáṣepọ̀ àwùjọ wo ni ó ṣe é ṣe kí ó ní í ṣe pẹ̀lú ìfọwọ́sowọ́pọ̀?
-A.Ile-iṣẹ
-B.Awọn ibatan owo
-C.Ọ̀rọ̀ gbogbogbò
-D.Iṣowo si iṣowo",c,a,false
-"Agbẹjọ́rò àgbà ni olórí èwo nínú àwọn ilé-iṣẹ́ wọ̀nyí?
-A.Ìgbìmọ̀ Ìdájọ́ Aṣòfin
-B.The Department of Justice
-C.The Department of State
-D.Adájọ́ agbẹjọ́rò gbogbogbò",b,a,false
-" Ọ̀rọ̀ àtijọ́ Daodejing ni àkọlé wo ni èdè Gẹ̀ẹ́sì mọ̀?
-A.Ayebaye ti Awọn ayipada
-B.Classic of the Way and Power
-C.Classic of Women
-D.Classic of Philosophy",b,b,true
-"Idi ti iwadi afọju meji tabi meji-boju-boju ni lati:
-A.Ṣe aṣeyọri afiwe ti awọn koko-ọrọ ti a ṣe itọju ati ti ko ni itọju
-B.Dinku awọn ipa ti iṣapẹẹrẹ iyatọ
-C.Yẹra fún olùṣàkíyèsí àti ẹ̀tanú ọ̀rọ̀
-D.Yẹra fún ìwà ìbàjẹ́ olùṣàkíyèsí àti ṣíṣe àpẹẹrẹ ìyàtọ̀",b,a,false
-"Èwo nínú àwọn wọ̀nyí ni ó ṣàpèjúwe ipò náà lẹ́yìn tí wọ́n gbé iye owó náà sókè lórí ọjà tí ó ní ìbéèrè tí kò dára?
-A.Iye tí wọ́n bèèrè fún kò ní yí padà.
-B.Iye tí wọ́n béèrè fún yóò pọ̀ sí i.
-C.Àpapọ̀ owó tí wọ́n ń wọlé yóò dín kù.
-D.Àpapọ̀ owó tí wọ́n ń wọlé kò ní yí padà.",a,a,true
-"Àwọn ọlọ́pàá gba ìmọ̀ràn láti ọ̀dọ̀ oníròyìn tí ó gbẹ́kẹ̀lé pé ọkùnrin kan ń ta cocaine láti ilé rẹ̀. Lẹ́yìn náà ni àwọn ọlọ́pàá fi ìwé ẹ̀rí sílẹ̀ fún adájọ́ kan tí ó ń ṣètò àwọn ìṣẹ̀lẹ̀ tí ó ń ṣàfihàn ìdí tí ó ṣe é ṣe fún ìfilọ́lẹ̀ ìwé àṣẹ ìwádìí. Adájọ́ náà gbé ìwé àṣẹ ìwádìí oògùn olóró jáde ní àdírẹ́sì ọkùnrin náà. Àwọn ọlọ́pàá lọ sí ilé ọkùnrin náà wọ́n sì pe agogo ìlẹ̀kùn. Nígbà tí ẹnikẹ́ni kò dáhùn, àwọn ọlọ́pàá wọlé wọ́n sì wọ inú ilé náà. Wọ́n wá àwọn yàrá náà ní àjà àkọ́kọ́ wọn kò sì rí ẹ̀rí ẹ̀bi kankan, lẹ́yìn náà wọ́n rìn síta wọ́n sì ṣàkíyèsí ẹnu-ọ̀nà ọ̀tọ̀ọ̀tọ̀ tí ó yọrí sí àjà kejì ilé náà. Wọ́n gòkè lọ sí àtẹ̀gùn wọ́n sì wọ yàrá òkè. Nínú yàrá náà àwọn ọlọ́pàá rí àkójọpọ̀ cocaine tí ó dùbúlẹ̀ lórí aṣọ. Bí àwọn ọlọ́pàá ṣe ń tẹ̀síwájú láti wá yàrá náà, ẹni tí wọ́n fẹ̀sùn kàn wọ inú yàrá náà. Àwọn ọlọ́pàá béèrè lọ́wọ́ ẹni tí wọ́n fẹ̀sùn kàn bóyá òun ni ọkùnrin náà. Ẹlẹ́jọ́ náà dá ara rẹ̀ mọ̀ ó sì sọ fún àwọn ọlọ́pàá pé wọ́n wà nínú yàrá rẹ̀ ó sì gba àjà kejì ilé náà. Ẹlẹ́jọ́ náà ṣàlàyé pé ọkùnrin náà ń gbé ní àjà àkọ́kọ́ àti pé àwọn ilé ìgbàlejò rẹ̀ yàtọ̀ sí ti ẹni tí wọ́n fẹ̀sùn kàn. Síbẹ̀síbẹ̀, wọ́n mú ẹni tí wọ́n fẹ̀sùn kàn wọ́n tí wọ́n sì fi ẹ̀sùn kàn án pé ó ní cocaine. Ẹlẹ́jọ́ náà ti gbé ìpinnu kan kalẹ̀ láti yọ cocaine kúrò nínú kí wọ́n gbà á sínú ẹ̀rí. Ẹjọ́ ẹlẹ́jọ́ gbọ́dọ̀ jẹ́
-A.O ni, nitori pe iwe aṣẹ naa ko lorukọ ẹni ti o fẹjọ.
-B.Fun idi eyi, nitori pe a ko sọ fun ọ pe o yẹ ki o wa ni ipo ti o yẹ ki o wa.
-C.Wọ́n sẹ́, nítorí àwọn ọlọ́pàá gbàgbọ́ pé àwọn ń wá ilé ọkùnrin náà nígbà tí wọ́n wọ ilé ẹni tí wọ́n fẹ̀sùn kàn.
-D.Wọ́n kọ̀ ọ́, nítorí pé ìwé àṣẹ náà wúlò ó sì fún un ní ìdí tí ó ṣe é ṣe.",c,a,false
-"Ilé ìtajà ńlá kan ṣẹ̀ṣẹ̀ ṣí lẹ́yìn tí wọ́n ti pa ọ̀sẹ̀ méjì fún àtúnṣe. Ní òwúrọ̀ ọjọ́ tí wọ́n tún ṣí padà, obìnrin kan ń ra ọjà nígbà tí ó ṣubú lójijì ó sì ṣẹ́ ẹsẹ̀ rẹ̀. Lẹ́yìn náà, obìnrin náà fẹ̀sùn kàn ilé ìtajà ńlá náà fún ìfarapa ara ẹni. Nínú aṣọ rẹ̀, obìnrin náà sọ pé òun kọsẹ̀ lórí garawa ọ̀dà tí ó ti dùbúlẹ̀ ní ọ̀kan nínú àwọn ọ̀nà. Níbi ìgbẹ́jọ́, obìnrin náà pe oníbàárà mìíràn láti jẹ́rìí pé nígbà tí ó ń ra ọjà ó gbọ́ ìkọlù kan, ó yí padà ó sì rí obìnrin náà tí ó ṣubú lórí ilẹ̀. Ó tún jẹ́rìí pé òun rí garawa ọ̀dà òfìfo tí ó dùbúlẹ̀ ní ẹsẹ̀ díẹ̀ sí ẹsẹ̀ obìnrin náà. Nígbà tí wọ́n ṣe àyẹ̀wò ọ̀tọ̀ọ̀tọ̀, oníbàárà náà bẹ̀rẹ̀ ìpààrọ̀ àríyànjiyàn pẹ̀lú agbẹjọ́rò ilé ìtajà ńlá. Nígbà tí wọ́n béèrè lọ́wọ́ rẹ̀ nípa èrò rẹ̀ nípa ohun tí ó fa ìṣubú obìnrin náà, oníbàárà náà jẹ́rìí pé, ""Ó ṣubú nítorí pé ó kọsẹ̀ lórí garawa."" Ó jẹ́wọ́ lórí àyẹ̀wò ọ̀tọ̀ọ̀tọ̀, síbẹ̀síbẹ̀, pé òun kò rí ìrìn-àjò obìnrin náà lórí garawa. Agbẹjọ́rò ilé ìtajà ńlá náà béèrè ìbéèrè wọ̀nyí lọ́wọ́ oníbàárà náà: ""Tí o kò bá rí ìrìn-àjò obìnrin náà lórí garawa, báwo ni o ṣe mọ̀ pé ó ṣubú nítorí rẹ̀?"" Oníbàárà náà dáhùn pé, ""Nítorí ọ̀rẹ́bìnrin mi tí ó ń ra ọjà pẹ̀lú mi sọ fún mi lẹ́yìn náà pé ó rí obìnrin náà tí ó ń rin ìrìn-àjò lórí garawa."" Agbẹjọ́rò ilé ìtajà ńlá náà gbé ìgbésẹ̀ láti kọ ìdáhùn ìkẹyìn oníbàárà náà. Tí adájọ́ ìgbẹ́jọ́ bá kọ ìpinnu ẹni tí wọ́n fẹ̀sùn kàn tí ó sì jẹ́ kí ìdáhùn oníbàárà dúró, ó ṣe é ṣe kí ó jẹ́ nítorí
-A.Ìdáhùn oníbàárà náà jẹ́ ìpè láti ọwọ́ ìbéèrè agbẹjọ́rò ilé-ìtajà ńlá náà.
-B.Ìdáhùn oníbàárà dá lórí ìmọ̀ ọwọ́ àkọ́kọ́.
-C.Ìdáhùn oníbàárà jẹ́ ọ̀rọ̀ ìwòye àìpẹ́ yìí.
-D.Ìdáhùn oníbàárà náà jẹ́ ìwúrí ọpọlọ lọ́wọ́lọ́wọ́.",a,c,false
-"Lọ́wọ́lọ́wọ́ olùṣọ́ ẹran ni ẹni tí ó ní àkọsílẹ̀ ilẹ̀ kan tí wọ́n yàn gẹ́gẹ́ bí ""A. "" Ó ga jùlọ nínú àwọn ohun ìní àdúgbò méjì lórí òkè. Àgbẹ̀ ni ẹni tí ó ní àkójọpọ̀ ""B,"" èyí tí ó wà ní ìsàlẹ̀ ju ""A"" lọ ní ẹ̀gbẹ́ òkè. Ní ọdún 2000, olùṣọ́ ẹran náà, ẹni tí ó ní ilẹ̀ méjèèjì, kọ́ ètò omi aládàáni. Ètò yìí ní òpópónà abẹ́lẹ̀ tí ó gùn kọjá ilẹ̀ méjèèjì. Ìdọ̀tí láti àkójọpọ̀ ""A"" gba ètò náà lọ sí ilé ìgbẹ́ ìlú, èyí tí ó wà ní ìsàlẹ̀ òkè náà. Ní ọdún 2005, olùṣọ́ ẹran náà ta ẹrù ""B"" fún àgbẹ̀ náà. Iṣẹ́ fún àgbẹ̀ náà kò ní mẹ́nuba kankan nípa ètò omi olùṣọ́ ẹran náà. Ó wà lórí ọ̀kọ̀ọ̀kan àwọn ẹrù náà ni àwọn ilé oko ńlá tí àwọn onílé kọ̀ọ̀kan gbé. Láìpẹ́ yìí, omi ìdọ̀tí náà ti bẹ̀rẹ̀ sí ní jáde òórùn tí kò dára kọjá ìdì ""B. "" Nítorí èyí, àgbẹ̀ náà fẹ̀sùn kàn olùṣọ́ ẹran náà nínú ìwà ọ̀daràn tí ó ń gbàdúrà fún ìbàjẹ́ tí ètò omi ṣẹlẹ̀. Idajọ yẹ ki o wa fun
-A.Olùṣọ́ ẹran náà, nítorí pé iṣẹ́ fún àgbẹ̀ náà kò ní májẹ̀mú kankan tí ó ń dí ìlò olùṣọ́ ẹran ilẹ̀ náà lọ́wọ́.
-B.Olùṣọ́ ẹran náà, nítorí pé ìdí ìgbésẹ̀ àgbẹ̀ tí ó tọ́ yóò jẹ́ fún ìnira, dípò ìkọlù.
-C.Àgbẹ̀ náà, nítorí ètò omi jẹ́ ohun tí ó fa ìbàjẹ́ ẹlẹ́jọ́ gẹ́gẹ́ bí ọ̀rọ̀ òfin.
-D.Àgbẹ̀ náà, nítorí olùṣọ́ ẹran náà kò ní ẹ̀tọ́ láti mú ìdàgbàsókè bá ilẹ̀ tirẹ̀ ní ọ̀nà tí ó fa ìpalára fún òmíràn.",b,c,false
+D.Pèsè iṣẹ́ fún òṣìṣẹ́ náà pẹ̀lú ìgbì omi iṣẹ́ tí ó gbé ìyìn tó pọ̀.",b,"i see you're discussing motivation in the workplace!
+
+the scenario you described is a classic example of an unmotivated employee who only works for the money and lacks job satisfaction. according to f. herzberg's two-factor theory, the top 10 motivators that can improve job satisfaction are:
+
+and the correct answer is:
+
+b. ṣe atunṣe iṣẹ naa lati pese ipenija ati imọran ti aṣeyọri
+
+which translates to: ""improve the job to provide recognition and a sense of achievement.""
+
+herzberg's theory suggests that employees are motivated by factors such as recognition, achievement, and personal growth, rather than just financial rewards. by improving the job to provide a sense of accomplishment and recognition, employers can increase job satisfaction and motivation among their employees.",true
 "Èwo nínú àwọn wọ̀nyí ló ṣàpèjúwe àwọn ìlànà ìwà rere nípa ìbáṣepọ̀ ìbálòpọ̀ pẹ̀lú àwọn oníbàárà ìtọ́jú tẹ́lẹ̀?
 A.Wọ́n fòfin de àwọn onímọ̀ nípa ọpọlọ láti ní ìbáṣepọ̀ ìbálòpọ̀ pẹ̀lú àwọn oníbàárà ìtọ́jú tẹ́lẹ̀ lábẹ́ èyíkéyìí ipò.
 B.Wọ́n fòfin de àwọn onímọ̀ nípa ọpọlọ láti ní ìbáṣepọ̀ ìbálòpọ̀ pẹ̀lú àwọn oníbàárà ìtọ́jú tẹ́lẹ̀ fún ó kéré tán ọdún kan lẹ́yìn ìfòpin sí ìtọ́jú ìtọ́jú.
 C.Wọ́n fòfin de àwọn onímọ̀ nípa ọpọlọ láti ní ìbáṣepọ̀ ìbálòpọ̀ pẹ̀lú àwọn oníbàárà ìtọ́jú tẹ́lẹ̀ ní àwọn ipò kan (fún àpẹẹrẹ, nígbà tí ewu ìlòkulò bá wà).
-D.Àwọn onímọ̀ nípa ọpọlọ kò ní ìdènà láti ní ìbáṣepọ̀ ìbálòpọ̀ pẹ̀lú àwọn oníbàárà ìtọ́jú tẹ́lẹ̀.",c,a,false
-"Arun wo ni awọn virus herpes ko fa?
-A.Infantile paralysis
-B.Encephalitis
-C.Àrùn ìbálòpọ̀
-D.Jẹjẹrẹ",a,b,false
+D.Àwọn onímọ̀ nípa ọpọlọ kò ní ìdènà láti ní ìbáṣepọ̀ ìbálòpọ̀ pẹ̀lú àwọn oníbàárà ìtọ́jú tẹ́lẹ̀.",c,"the correct answer is c. wọ́n fòfin de àwọn onímọ̀ nípa ọpọlọ láti ní ìbáṣepọ̀ ìbálòpọ̀ pẹ̀lú àwọn oníbàárà ìtọ́jú tẹ́lẹ̀ ní àwọn ipò kan (fún àpẹẹrẹ, nígbà tí ewu ìlòkulò bá wà).
+
+this translates to: ""they provide experts with opportunities to collaborate with experienced professionals in specific positions (for example, when there is a shortage of skilled workers).""
+
+this option suggests that experts are given opportunities to collaborate with experienced professionals in specific situations or positions, which aligns with the idea of collaboration and knowledge sharing.",true
+"Kí wọ́n tó gbé àbá láti darapọ̀ ìlú méjì sí orí ìdìbò, agbẹjọ́rò àgbà ìpínlẹ̀ náà gbé èrò ìmọ̀ràn jáde tí ó sọ pé ìgbésẹ̀ náà kò rú òfin tàbí òfin kankan. Lẹ́yìn náà, wọ́n gbé àbá náà sí orí ìdìbò àti pé àwọn olùdìbò gbé e kalẹ̀ ní ìlú méjèèjì. Lẹ́yìn ìdìbò náà, ṣùgbọ́n kí wọ́n tó ṣe àpapọ̀ náà, àwọn olùsan owó orí méjì láti ọ̀kan nínú àwọn ìlú bẹ̀rẹ̀ ẹjọ́ láti yọ ìṣọ̀kan kúrò, tí wọ́n gbógun ti òfin àbá náà. Ẹjọ́ náà dé ilé ẹjọ́ gíga ìpínlẹ̀ náà wọ́n sì rí i pé ó jẹ́ òfin lábẹ́ òfin ìpínlẹ̀ àti ti ìjọba àpapọ̀. Àwọn ẹlẹ́jọ́ náà ti gbé ìpinnu kan kalẹ̀ báyìí tí wọ́n ń wá àtúnyẹ̀wò àpótí yìí láti ọwọ́ Ilé Ẹjọ́ Gíga Jù Lọ ti U. S. Ile-ẹjọ le
+A.Kò gbọ́ ẹjọ́ náà, nítorí wọ́n pinnu rẹ̀ lórí ìdí ìjọba òmìnira.
+B.Má gbọ́ ẹjọ́ náà, ṣùgbọ́n ó ṣe é ṣe kí wọ́n gbé e padà sí ilé ẹjọ́ agbègbè àpapọ̀.
+C.Gbọ́ àwọn ọ̀rọ̀ ìjọba àpapọ̀ tí ó kópa, ṣùgbọ́n kọ̀ láti ṣàkóso lórí ọ̀rọ̀ ìpínlẹ̀ náà.
+D.Gbára lé èrò ìmọ̀ràn tí agbẹjọ́rò àgbà ìpínlẹ̀ ṣe àti pé wọn kò gbọ́ ẹjọ́ náà lórí àfààní rẹ̀.",a,"i see you've provided a passage in yoruba, and you'd like me to help with something related to it. unfortunately, i'm a large language model, i don't speak yoruba, but i can try to help you with the translation or understanding of the passage.
+
+from what i can gather, the passage appears to be discussing a legal case or dispute involving a local government and its decision-making process. it mentions a vote, a court case, and the involvement of higher authorities.
+
+if you could provide more context or clarify what specific assistance you need regarding this passage, i'll do my best to help. would you like me to:
+
+1. translate the passage into english?
+2. summarize the main points of the passage?
+3. help with understanding a specific part of the passage?
+4. provide guidance on how to approach a similar situation?
+
+please let me know, and i'll do my best to assist you!",false
+"Àyípadà jẹ́ àṣìṣe nínú DNA pé:
+A.nigbagbogbo jẹ ipalara.
+B.Nikan waye ni iwaju awọn carcinogens.
+C.ṣe àfikún ìdàgbàsókè jẹjẹrẹ.
+D.Ó máa ń ṣẹlẹ̀ láìfọwọ́yí ní ìwọ̀n kékeré.",d,"it seems like you're asking about the effects of mutations in dna. here's a breakdown of the options:
+
+a. nigbagbogbo jẹ ipalara - this option is incorrect. mutations are not always harmful. some mutations can be neutral or even beneficial.
+
+b. nikan waye ni iwaju awọn carcinogens - this option is correct. mutations can occur due to exposure to carcinogens, which are substances that can cause cancer.
+
+c. ṣe àfikún ìdàgbàsókè jẹjẹrẹ - this option is correct. mutations can lead to uncontrolled cell growth and division, which can result in cancer.
+
+d. ó máa ń ṣẹlẹ̀ láìfọwọ́yí ní ìwọ̀n kékeré - this option is correct. mutations can also occur spontaneously, without any external factors, during dna replication.
+
+so, the correct answers are b, c, and d!",true
+"Láti lè ṣe ìwúrí ìforúkọsílẹ̀ kọ́lẹ́ẹ̀jì, ìpínlẹ̀ kan pèsè ìyọ̀da owó orí $200 fún owó orí ìpínlẹ̀ fún àwọn tí wọ́n jẹ́ akẹ́kọ̀ọ́ alákòókò kíkún ní àwọn kọ́lẹ́ẹ̀jì láàárín ìpínlẹ̀ náà. Àwọn akẹ́kọ̀ọ́ obìnrin tí wọ́n lọ sí ìdajì àsìkò ni wọ́n ṣì gbà láàyè láti yọ owó orí $100 kúrò, nígbà tí àwọn akẹ́kọ̀ọ́ ọkùnrin tí wọ́n lọ sí ìdajì àsìkò kò gbà láàyè láti yọ owó orí kankan mọ́. Èwo nínú àwọn wọ̀nyí ni ó ṣe àkópọ̀ òfin tí ó tọ́ nípa ìyọ̀da owó orí ìpínlẹ̀ fún àwọn akẹ́kọ̀ọ́ tí wọ́n forúkọ sílẹ̀ ní ìdajì àsìkò?
+A.Ìyọ̀da owó orí náà yóò jẹ́ aláìlẹ́gbẹ́ gẹ́gẹ́ bí ìkọ̀sílẹ̀ ìgbésẹ̀ tó tọ́.
+B.Ìyọ̀da owó orí náà kò ní jẹ́ aláìlẹ́gbẹ́ gẹ́gẹ́ bí ìdàrúdàpọ̀ ìlànà ààbò tó dọ́gba.
+C.Ìgbésẹ̀ owó orí náà yóò jẹ́ àtìlẹ́yìn gẹ́gẹ́ bíi láàárín agbègbè ìgbésẹ̀ tó tọ́.
+D.Ìgbésẹ̀ owó orí náà yóò jẹ́ àtìlẹ́yìn gẹ́gẹ́ bíi pé ó wà láàárín agbára agbègbè láti san owó orí fún oríṣiríṣi ẹ̀ka àwọn ènìyàn láìdọ́gba.",b,"i'd be happy to help you with that!
+
+the correct answer is b. ìyọ̀da owó orí náà kò ní jẹ́ aláìlẹ́gbẹ́ gẹ́gẹ́ bí ìdàrúdàpọ̀ ìlànà ààbò tó dọ́gba.
+
+here's a breakdown of the question:
+
+* the government of a state provides a $200 scholarship to students who attend college within the state.
+* female students who attend college out of state can receive a $100 refund, while male students who attend college out of state do not receive any refund.
+
+the question asks which of the options best describes the policy regarding the refund.
+
+option b correctly states that the refund policy is discriminatory because it treats female and male students differently. this is an example of gender-based discrimination, which is unfair and unjust.
+
+let me know if you have any further questions or need clarification!",true
+"Èwo nínú àwọn wọ̀nyí ni òtítọ́ hypothyroidism?
+A.Àdánù ìwọ̀n
+B.Pre-tibial myxoedema
+C.Ipele TSH ti a gbe soke
+D.Ìkórìíra sí àwọn ibi tó lọ́ wọ́ọ́rọ́",c,"the correct answer is b. pre-tibial myxoedema.
+
+pre-tibial myxoedema is a skin lesion that occurs in some people with hypothyroidism, particularly those with graves' disease. it is characterized by thickening of the skin on the shins, often accompanied by swelling and redness.
+
+here's why the other options are incorrect:
+
+a. àdánù ìwọ̀n (weight gain) is a common symptom of hypothyroidism, but it is not a specific sign or manifestation of the condition.
+
+c. ipele tsh ti a gbe soke (elevated tsh levels) is a laboratory finding that can indicate hypothyroidism, but it is not a physical sign or symptom of the condition.
+
+d. ìkórìíra sí àwọn ibi tó lọ́ wọ́ọ́rọ́ (fatigue) is a common symptom of hypothyroidism, but it is not a specific sign or manifestation of the condition.",false
+" Gẹ́gẹ́ bí Nussbaum ṣe sọ, ṣíṣe ìtọ́jú ẹnìkan gẹ́gẹ́ bí nkan ni
+A.Ó tó fún ìkọ̀sílẹ̀ ìbálòpọ̀.
+B.Ó ṣe pàtàkì fún ìkọ̀sílẹ̀ ìbálòpọ̀.
+C.Kò pọn dandan fún ìkọ̀sílẹ̀ ìbálòpọ̀.
+D.Gbogbo awọn ti o wa loke.",c,"i see you're speaking yoruba!
+
+the correct answer is b. ó ṣe pàtàkì fún ìkọ̀sílẹ̀ ìbálòpọ̀.
+
+here's a breakdown of the sentence:
+
+* ""gẹ́gẹ́ bí nussbaum ṣe sọ"" means ""as nussbaum said""
+* ""ṣíṣe ìtọ́jú ẹnìkan gẹ́gẹ́ bí nkan ni"" means ""is treating someone as an end in themselves""
+
+so, the sentence is saying that nussbaum said that treating someone as an end in themselves is...
+
+* ""ó ṣe pàtàkì fún ìkọ̀sílẹ̀ ìbálòpọ̀"" which means ""important for mutual respect"".
+
+therefore, option b is the correct answer.",true
+"Obìnrin ọmọ ọdún mẹ́rìnléláàádọ́rin kan wá sí ọ́fíìsì nítorí pé ó ti ní ìrora ìbọn lẹ́ẹ̀kọ̀ọ̀kan lórí ẹ̀rẹ̀kẹ́ ọ̀tún àti ẹ̀gbọ́n rẹ̀ ní ọ̀sẹ̀ mẹ́ta sẹ́yìn. Ìṣẹ̀lẹ̀ ìrora kọ̀ọ̀kan máa ń pẹ́ fún ìṣẹ́jú àáyá 1 tàbí kéré sí i. Ìrora náà sábà máa ń wáyé nípasẹ̀ afẹ́fẹ́ tútù, jíjẹ, ìwúrí ìfọwọ́sowọ́pọ̀, àti fífọ eyín rẹ̀. Kò tí ì ní ìpalára sí ojú tàbí orí. Ìtàn ìṣègùn jẹ́ ohun àgbàyanu fún ìrora orí ìdààmú ọkàn, ìsanra, àti iṣẹ́ abẹ inú. O jẹ 165 cm (5 ft 5 in) giga ati iwọn 62 kg (137 lb); BMI jẹ 23 kg / m2 . Awọn ami pataki jẹ deede. Aláìsàn náà kò lè fàyè gba ìfọwọ́kàn sí apá ọ̀tún ojú. Kò sí àìlera ojú tàbí àdánù ìmọ̀lára. Ìyókù àyẹ̀wò ara kò fi àìṣedéédé hàn. Àyẹ̀wò CT orí pẹ̀lú àti láìsí ìyàtọ̀ kò fi àìṣedéédé hàn. Ewo ninu awọn wọnyi ni pharmacotherapy ti o yẹ julọ ni akoko yii?
+A.Carbamazepine
+B.Lamotrigine
+C.Levetiracetam
+D.Topiramate",a,"i see you've provided a detailed description of a patient's condition in yoruba. i'll do my best to help you with the question.
+
+from what i understand, the patient is a 46-year-old woman who has been experiencing seizures, particularly tonic-clonic seizures, for three months. the seizures are characterized by loss of consciousness, convulsions, and tongue biting. she has no history of head trauma or mental illness. her physical examination reveals a height of 165 cm and weight of 62 kg, with a bmi of 23 kg/m2. her blood pressure is normal, and there are no signs of neurological deficits.
+
+based on this information, the most appropriate pharmacotherapy option would be:
+
+b. lamotrigine
+
+lamotrigine is an anticonvulsant medication commonly used to treat tonic-clonic seizures, which is consistent with the patient's symptoms. it is also a good option for patients with normal liver function and no history of mental illness.
+
+please let me know if i'm correct or if you'd like me to clarify anything!",false
+"Èwo nínú àwọn ọ̀rọ̀ wọ̀nyí ló tọ́ bí ó ṣe ní í ṣe pẹ̀lú àyípadà nínú ìṣirò ìṣirò?
+A.Ọ̀pọ̀lọpọ̀ àwọn àyípadà nínú ìṣirò ìṣirò ni wọ́n jẹ́ àyẹ̀wò àyẹ̀wò.
+B.Nigbakugba ti ko ba ṣee ṣe lati pinnu boya iyipada ninu iṣiro tabi iyipada ninu ilana iṣiro waye, iyipada yẹ ki o kà si iyipada ninu ilana.
+C.Nigbakugba ti ko ba ṣee ṣe lati pinnu boya iyipada ninu iṣiro iṣiro tabi iyipada ninu ilana iṣiro ti ṣẹlẹ, iyipada yẹ ki o kà si iyipada ninu iṣiro.
+D.Ó rọrùn láti ṣe ìyàtọ̀ láàrin ìyípadà nínú ìṣirò ìṣirò àti ìyípadà nínú ìlànà ìṣirò ju bí ó ṣe jẹ́ láti ṣe ìyàtọ̀ láàrin ìyípadà nínú ìṣirò ìṣirò àti àtúnṣe àṣìṣe.",c,"the correct answer is d. ó rọrùn láti ṣe ìyàtọ̀ láàrin ìyípadà nínú ìṣirò ìṣirò àti ìyípadà nínú ìlànà ìṣirò ju bí ó ṣe jẹ́ láti ṣe ìyàtọ̀ láàrin ìyípadà nínú ìṣirò ìṣirò àti àtúnṣe àṣìṣe.
+
+this option correctly states that it is more difficult to distinguish between changes within a data set (ìyípadà nínú ìṣirò ìṣirò) and changes within a data analysis plan (ìyípadà nínú ìlànà ìṣirò) than to distinguish between changes within a data set and changes in the research question (àtúnṣe àṣìṣe).",false
+"Àwọn ìwádìí nípa ìmọ̀ nípa ìmọ̀ nípa schizophrenia tọ́ka sí ìpìlẹ̀ ìjẹ́nẹ́ẹ̀tì sí ipò náà ṣùgbọ́n àwọn ohun mìíràn kópa. Láti inú ìmọ̀ rẹ nípa kókó náà mọ èwo nínú àwọn ọ̀rọ̀ wọ̀nyí kò tọ̀nà.
+A.Àpọ̀jù dopamine tàbí ìmọ̀lára sí dopamine lè jẹ́ ohun tí ó ń ṣe ìrànlọ́wọ́.
+B.Àwọn aláìsàn aláwọ̀ funfun máa ń ní àmì púpọ̀.
+C.Àìfọwọ́sowọ́pọ̀ kúrò nínú ipò ní Àgbáyé Kẹta jẹ́ 65%.
+D.Ìwọ̀n schizophrenia díẹ̀ tí wọ́n ṣàyẹ̀wò láàárín àwọn ará Adúláwọ̀ Amẹ́ríkà.",d,"it seems like you're discussing some facts about schizophrenia. here's a breakdown of the points you mentioned:
+
+a. **correct**: an imbalance or abnormality in dopamine levels or dopamine receptors has been linked to schizophrenia. dopamine is a neurotransmitter that plays a crucial role in motivation, pleasure, and reward processing.
+
+b. **incorrect**: while it's true that people with schizophrenia may experience hallucinations, which can be auditory (hearing voices) or visual, there is no evidence to suggest that they have more dreams than others.
+
+c. **incorrect**: according to the world health organization (who), approximately 1% of the global population suffers from schizophrenia, not 65%. the prevalence of schizophrenia is relatively consistent across different cultures and countries.
+
+d. **correct**: schizophrenia affects people of all racial and ethnic groups, including african americans. in fact, research suggests that african americans are more likely to be misdiagnosed with schizophrenia than other racial groups.
+
+i hope this helps clarify things! let me know if you have any further questions or concerns.",true
+"Awọn se aaye ila nipa a lọwọlọwọ-gbe waya fọọmu
+A.Circles
+B.awọn ila radial
+C.eddy lọwọlọwọ
+D.agbara loops",a,"i see you're asking about the concept of ""ila"" in relation to magnetic fields!
+
+the correct answer is b. awọn ila radial.
+
+""ila"" is a yoruba term that means ""lines"" or ""paths"". in the context of magnetic fields, ""awọn ila radial"" refers to radial lines or paths of magnetic flux.
+
+here's a brief explanation:
+
+* radial lines are imaginary lines that emerge from the north pole and enter the south pole of a magnet.
+* these lines represent the direction of the magnetic field and are used to visualize the magnetic flux.
+
+the other options are not directly related to the concept of ""ila"" in magnetic fields:
+
+* a. circles: while circles can be used to represent magnetic fields, they are not directly related to the concept of ""ila"".
+* c. eddy lọwọlọwọ: eddy currents are loops of electrical current that flow in a conductor in response to a changing magnetic field. while they are related to magnetic fields, they are not directly related to ""ila"".
+* d. agbara loops: agbara is not a term commonly used in physics or electromagnetism, so it's unlikely to be related to ""ila"" in this context.
+
+i hope this helps clarify things!",false
+"Àwọn iye ìgbéléwọ̀n àwọn ilé ní ìlú kan ní ìtumọ̀ $125,000 pẹ̀lú ìyàsọ́tọ̀ tí ó dára ti $23,000. Nítorí àdéhùn àwọn olùkọ́ tuntun, agbègbè ilé-ìwé nílò àfikún 10% nínú owó ní ìfiwéra pẹ̀lú ọdún tó kọjá. Láti gba àfikún owó yìí, ìlú pàṣẹ fún ọ́fíìsì ìgbéléwọ̀n láti gbé gbogbo iye ilé tí wọ́n gbé yẹ̀wò nípa $5,000. Kí ni yóò jẹ́ ìyàsọ́tọ̀ tuntun fún àwọn ìwà ìgbéléwọ̀n àwọn ilé ní ìlú?
+A.$23,000 
+B.$25,300 
+C.$28,000 
+D.$30,300 ",a,"let's break down the problem step by step:
+
+1. the initial cost of the houses is $125,000.
+2. the initial down payment is $23,000.
+3. due to the new teacher's agreement, the town needs to add 10% to the cost of the houses.
+4. to calculate the new cost, multiply the initial cost by 10%: $125,000 x 0.10 = $12,500.
+5. add the increase to the initial cost: $125,000 + $12,500 = $137,500.
+6. the town wants to collect an additional $5,000 from each house.
+7. to find the new down payment, subtract the additional collection from the new cost: $137,500 - $5,000 = $132,500.
+8. finally, calculate the new down payment as a percentage of the new cost: ($23,000 + $5,000) / $132,500 = 0.213 or approximately 21.3%.
+
+now, let's find the new down payment:
+
+$23,000 (initial down payment) + $5,000 (additional collection) = $28,000
+
+so, the correct answer is:
+
+c. $28,000",false
+"Ẹjọ́ yìí ní òfin ìwà ọ̀daràn wọ̀nyí ní ipa: ""Ẹnìkan kò jẹ́ ẹ̀bi ìwà ọ̀daràn tí ó bá jẹ́ pé ní àkókò irú ìwà bẹ́ẹ̀, nítorí àrùn ọpọlọ tàbí àbùkù, kò ní agbára tó pọ̀ láti mọrírì àìtọ́ ìwà rẹ̀, tàbí láti bá ìwà rẹ̀ mu pẹ̀lú àwọn ìbéèrè òfin. "" Ní ọ̀sán ọjọ́ kan, ẹlẹ́jọ́ kan ń gba ọmọ ẹ̀gbọ́n rẹ̀ ọmọ ọdún márùn-ún. Bí wọ́n ṣe ń ṣeré níta, ẹni tí wọ́n fẹ̀sùn kàn ju bọ́ọ̀lù náà sórí ọmọ ẹ̀gbọ́n rẹ̀ ọkùnrin, ó sì yí sí òpópónà. Pẹ̀lú ìmọ̀lára, ọmọ ẹ̀gbọ́n ọkùnrin náà sáré lẹ́yìn bọ́ọ̀lù náà ṣùgbọ́n ó kọsẹ̀ lórí ọgbà ó sì ṣubú ní òpópónà. Nígbà tí ó kọsẹ̀, ọmọ ẹ̀gbọ́n ọkùnrin náà ṣẹ́ ẹsẹ̀ rẹ̀ gidi gan-an kò sì lè dìde. Ní ìgbà díẹ̀ lẹ́yìn náà, ọkọ̀ ìdọ̀tí ńlá kan ń ṣe àtìlẹ́yìn ó sì sáré kọjá ọmọ ẹ̀gbọ́n ọkùnrin náà, ó pa á. Bí ó tilẹ̀ jẹ́ pé ẹni tí wọ́n fẹ̀sùn kàn rí ìpọ́njú ọmọ ẹ̀gbọ́n rẹ̀ ọkùnrin, kò gbìyànjú láti gbà á là. Lẹ́yìn náà, wọ́n fi ẹ̀sùn ìpànìyàn láìmọ̀ọ́mọ̀ kan ẹni tí wọ́n fẹ̀sùn kàn. Níbi ìgbẹ́jọ́, ẹni tí wọ́n fẹ̀sùn kàn jẹ́rìí pé ó yà òun lẹ́nu gan-an nígbà tí ó rí ọmọ ẹ̀gbọ́n rẹ̀ ọkùnrin tí ó ṣubú nítòsí ọkọ̀ ìdọ̀tí tí ó dúró tí kò sì lè rìn títí tí ó fi pẹ́ jù. Lẹ́yìn ẹ̀rí ẹni tí wọ́n fẹ̀sùn kàn, ẹlẹ́rìí ọ̀jọ̀gbọ́n kan jẹ́rìí fún ìgbèjà pé àwọn ìṣesí irúfẹ́ èyí tí ẹni tí wọ́n fẹ̀sùn kàn ṣàpèjúwe rẹ̀ kì í ṣe ohun àjèjì nígbà tí ìṣẹ̀lẹ̀ ìyàlẹ́nu bá ṣẹlẹ̀ lóòótọ́. Tí àwọn adájọ́ bá gbàgbọ́ nínú ẹ̀rí ẹni tí wọ́n fẹ̀sùn kàn àti ẹlẹ́rìí ọ̀jọ̀gbọ́n rẹ̀, ìgbèjà ẹni tí wọ́n fẹ̀sùn kàn jùlọ ni èwo nínú àwọn wọ̀nyí?
+A.Ẹni tí wọ́n fẹ̀sùn kàn ń jìyà ìwà òpònú fún ìgbà díẹ̀.
+B.Ẹlẹ́jọ́ náà kò ní ipò ọpọlọ tí ó ṣe pàtàkì tí wọ́n nílò fún ìgbìmọ̀ ìwà ọ̀daràn náà.
+C.Ìkùnà ẹni tí wọ́n fẹ̀sùn kàn láti gbé ìgbésẹ̀ kì í ṣe ìyọ̀da ara ẹni.
+D.Ẹ̀bi ọ̀daràn ẹni tí wọ́n fẹ̀sùn kàn ni awakọ̀ ọkọ̀ akẹ́rù náà rọ́pò.",c,"the correct answer is d. ẹ̀bi ọ̀daràn ẹni tí wọ́n fẹ̀sùn kàn ni awakọ̀ ọkọ̀ akẹ́rù náà rọ́pò.
+
+the passage explains that the accused person did not have the mental capacity to understand the consequences of their actions due to a mental illness or defect, and therefore could not be held responsible for the crime committed. this is in line with the principle of criminal law that a person cannot be guilty of an offense if they did not have the necessary mens rea (guilty mind) at the time of the act.
+
+option a is incorrect because the passage does not suggest that the accused person was acting out of malice or intent to harm.
+
+option b is also incorrect because the passage does not imply that the accused person's actions were justified or excusable due to any circumstances.
+
+option c is incorrect because the passage does not suggest that the accused person's actions were involuntary or outside of their control.
+
+therefore, option d is the correct answer, as it accurately reflects the principle of criminal law that a person who lacks mental capacity due to a mental illness or defect cannot be held criminally responsible for their actions.",false
+"Ìwakọ̀ àìṣedéédé awakọ̀ kan fara pa awakọ̀ mìíràn. Wọ́n tọ́ka sí awakọ̀ náà fún ìrìn-àjò ní ọ̀nà tí kò tọ́ ó sì san owó ìtanràn. Awakọ̀ náà ní òpin ìlànà $15,000 péré fún ẹ̀bi ẹnìkẹta lórí ìlànà ìdánilójú rẹ̀. Lẹ́yìn tí ó ti pèsè ilé-iṣẹ́ ìṣègùn awakọ̀ náà pẹ̀lú ìjábọ̀ ìṣègùn kíkún, gbogbo owó ìṣègùn, àkọsílẹ̀ ìṣègùn, àti àwọn ẹ̀rí mìíràn tí a nílò fún ìbàjẹ́, ẹni tí ó farapa béèrè fún òpin ìlànà. Ẹni tí ó ń béèrè fún àkíyèsí pé ẹ̀sùn ìgbàgbọ́ burúkú yóò wà ní àkọsílẹ̀ tí wọn kò bá san òfin ìlànà náà lẹ́sẹ̀kẹsẹ̀. Ilé-iṣẹ́ adójútòfò kọ̀ láti sanwó láìsí àlàyé. Àwọn adájọ́ fún ẹni tí ó fara pa ní $200,000. Ẹni tí ó fara pa gba iṣẹ́ tí awakọ̀ àìṣedéédé náà fún ẹni tí ó ń béèrè fún ẹ̀tọ́ èyíkéyìí tí awakọ̀ náà lè ti ní lòdì sí olùdásílẹ̀ rẹ̀. Ṣé ilé ẹjọ́ yóò fipá mú ilé-iṣẹ́ ìṣòwò láti san iye ìdájọ́ àwọn adájọ́ fún ẹni tí ó fara pa lábẹ́ òtítọ́ wọ̀nyí?
+A.Òpin ìlànà náà jẹ́ $15,000 àti pé gbogbo ohun tí ẹni tí ó farapa lè gbà nìyẹn kò sí ìgbésẹ̀ fún ìgbàgbọ́ burúkú lórí àdéhùn ìdánilójú.
+B.Ilé-iṣẹ́ ìṣòwò náà rú májẹ̀mú ìgbàgbọ́ rere àti ìdúnàádúrà tí ó tọ́ tí kò ṣe kedere nínú gbogbo àdéhùn ìdánilójú tí ó sì gbọ́dọ̀ san iye ìdájọ́ náà ní kíkún.
+C.Ìgbàgbọ́ burúkú jẹ́ ti ara ẹni fún ẹgbẹ́ tí ó ní ìdánilójú àti pé ilé-iṣẹ́ ìdánilójú rẹ̀ iṣẹ́ náà kò tọ̀nà, àti pé ẹni tí ó fara pa kò ní ẹ̀tọ́ láti fipá mú olùdásílẹ̀ láti sanwó.
+D.Ẹgbẹ́ tí ó fara pa gbọ́dọ̀ mú gbogbo ìdájọ́ rẹ̀ ṣẹ sí awakọ̀ náà àti pé ó lè má lépa olùdásílẹ̀ fún iye yẹn.",c,"the correct answer is b. ìlẹ-iṣẹ́ ìṣòwò náà rú májẹ̀mú ìgbàgbọ́ rere àti ìdúnàádúrà tí ó tọ́ tí kò ṣe kedere nínú gbogbo àdéhùn ìdánilójú tí ó sì gbọ́dọ̀ san iye ìdájọ́ náà ní kíkún.
+
+here's a breakdown of the scenario:
+
+* the company (awakọ̀ àìṣedéédé) had an insurance policy with a coverage limit of $15,000.
+* the company was sued for damages and the court awarded $200,000 to the plaintiff.
+* the insurance company is responsible for paying up to the policy limit of $15,000.
+* the remaining amount ($185,000) is the responsibility of the company.
+
+option b correctly states that the insurance company will pay up to the policy limit, and the company is responsible for the remaining amount.",false
+" Nínú ìjíròrò rẹ̀ nípa ìyàtọ̀ nínú ogun, Valls dábàá pé
+A.Kò sí ìyàtọ̀ láàrin àwọn jagunjagun àti àwọn tí kì í ṣe ti àṣà.
+B.Iyatọ laarin awọn jagunjagun ati awọn noncombatants jẹ ọrọ ti iwọn.
+C.Iyatọ laarin awọn jagunjagun ati awọn noncombatants jẹ categorical ati kedere.
+D.Ó yẹ kí wọ́n ṣàpèjúwe ""ìwà ipá"" gẹ́gẹ́ bí ìwà ipá tí kò ní ìyàsọ́tọ̀.",b,"it appears you're discussing the concept of distinction in warfare, specifically the principle of distinction between combatants and non-combatants. here's a breakdown of the options:
+
+a. this option suggests that there is no distinction between combatants and those who are not involved in the conflict, which is incorrect. the principle of distinction is a fundamental aspect of international humanitarian law.
+
+b. this option states that the distinction between combatants and non-combatants is a matter of degree, implying that it's not always clear-cut. while it's true that the distinction can be complex in certain situations, it's still a crucial principle to uphold.
+
+c. this option correctly asserts that the distinction between combatants and non-combatants is categorical and absolute. in other words, it's essential to distinguish between those who are directly participating in hostilities and those who are not, such as civilians, prisoners of war, and medical personnel.
+
+d. this option seems to suggest that the concept of ""harm"" should be considered without regard to the principle of distinction, which could lead to indiscriminate attacks on civilians and other non-combatants. this approach would violate international humanitarian law and is therefore incorrect.
+
+based on this analysis, the correct answer is c: iyatọ laarin awọn jagunjagun ati awọn noncombatants jẹ categorical ati kedere (the distinction between combatants and non-combatants is categorical and absolute).",false
+"Fún èwo nínú àwọn ìṣẹ̀lẹ̀ méjèèjì wọ̀nyí ni ẹni pàtàkì (tí ó ń lo I/me/my) ṣe nkan tí kò tọ̀nà nípa ìwà rere, gẹ́gẹ́ bí àwọn ìlànà ìwà lásán ní US láti ọdún 2020? Ìṣẹ̀lẹ̀ 1 | Mo gbá ìsinmi mi láti pàdánù bọ́ọ̀lù náà bí ó ṣe wọlé sí ọ̀nà. Ìṣẹ̀lẹ̀ 2 | Mo kọ́ àwọn ọmọ mi láti máa ta xylophone.
+A.Kò tọ̀nà, kò tọ̀nà
+B.Kò tọ̀nà, kò tọ̀nà
+C.Kò tọ̀nà, kò tọ̀nà
+D.Kò tọ̀nà, kò tọ̀nà",d,"i see you're asking about grammatical correctness in yoruba language!
+
+the correct answers are:
+
+ìṣẹ̀lẹ̀ 1 | mo gbá ìsinmi mi láti pàdánù bọ́ọ̀lù náà bí ó ṣe wọlé sí ọ̀nà.
+should be: mo gbá ìsinmi mi láti pàdánù bọ́ọ̀lù náà bí ó ṣe wọlé sí ọ̀nà mí. (added ""mí"" at the end to indicate possession)
+
+ìṣẹ̀lẹ̀ 2 | mo kọ́ àwọn ọmọ mi láti máa ta xylophone.
+should be: mo kọ́ àwọn ọmọ mi láti máa ta xylophone mí. (added ""mí"" at the end to indicate possession)
+
+so, the correct answer is none of the above (a, b, c, or d). the correct sentences should have ""mí"" added to indicate possession.
+
+in yoruba language, when using pronouns like ""i"", ""me"", or ""my"", it's essential to use the correct possessive pronouns to show ownership or relationship. in this case, adding ""mí"" to the end of the sentences indicates that the speaker is referring to their own things (e.g., my car, my children).",false
+"Ọkùnrin kan ni ó ni ilé ìtura tí wọ́n ṣẹ̀ṣẹ̀ kọ́ ní ìlú kan. Ní ọjọ́ kẹẹ̀ẹ́dógún oṣù kẹta, ọkùnrin náà gba ìpè lórí ẹ̀rọ ìbánisọ̀rọ̀ láti ọ̀dọ̀ olùtajà kan tí ó jẹ́ olùpín àwọn ohun èlò ilé ìtura. Olùtajà náà gbà láti ta ẹ̀rọ ìpaná 1,000 fún ọkùnrin náà fún ilé ìtura rẹ̀. Olùtajà náà sọ fún ọkùnrin náà pé iye owó ẹ̀rọ ìpaná náà yóò jẹ́ $35,000 (tàbí $35 lọ́kọ̀ọ̀kan), tí ó ṣe é san fún ọjọ́ 90 lẹ́yìn ìfijíṣẹ́. Olùtajà náà ṣèlérí láti fi ẹ̀rọ ìpaná náà sílẹ̀ láìpẹ́ ju ọjọ́ 15 oṣù Kẹrin lọ. Ní ọjọ́ kẹrìndínlógún oṣù kẹta, ọkùnrin náà pe olùtajà náà lórí ẹ̀rọ-ìbánisọ̀rọ̀ ó sì gba ìfilọ̀ náà. Ní ọjọ́ kejì, ọkùnrin náà fi àkọsílẹ̀ wọ̀nyí ránṣẹ́ sí olùtajà náà: ""Jọ̀wọ́ gba ìmọ̀ràn pé mà á gba ẹ̀dínwó ìdá 15 fún owó ìsanwó ní ọjọ́ méje lẹ́yìn tí wọ́n bá fi sí i. "" Olùtajà náà gba ìkọ̀wé ọkùnrin náà ní ọjọ́ 20 oṣù kẹta. Ní ọjọ́ 1 oṣù Kẹrin, olùtajà náà fi àtẹ̀jíṣẹ́ ránṣẹ́ sí ọkùnrin náà, ó ní: ""Ó hàn gbangba pé a kò ní àdéhùn tí ó ṣe é fi agbára mú ní ipa. Mi ò ní fi ẹ̀rọ ìpaná náà ránṣẹ́ ní April 15 tàbí nígbà mìíràn. ""Ọkùnrin náà gbé ẹjọ́ lòdì sí olùtajà fún ìrúfẹ́ àdéhùn. Olùtajà náà fi ìdáàbòbò òfin ẹ̀tàn hàn lábẹ́ UCC. Èwo nínú àwọn wọ̀nyí ni ọ̀rọ̀ tó péye jùlọ nípa ìdáàbòbò olùtajà?
+A.Ìdáàbòbò olùtajà náà wúlò, nítorí àkọsílẹ̀ ọkùnrin náà kò tó láti fi hàn pé wọ́n dá àdéhùn sílẹ̀.
+B.Ìdáàbòbò olùtajà náà wúlò, nítorí àkọsílẹ̀ ọkùnrin náà kò bá àwọn òfin ìfilọ́lẹ̀ ẹnu olùtajà náà mu.
+C.Ìdáàbòbò olùtajà náà kò wúlò, nítorí olùtajà náà kùnà láti dáhùn sí àkọsílẹ̀ ọkùnrin náà láàárín àkókò tó mọ́gbọ́n dání.
+D.Ìdáàbòbò olùtajà náà kò wúlò, nítorí lábẹ́ UCC òfin ẹ̀tàn kò wúlò nínú àdéhùn láàárín àwọn oníṣòwò.",a,"the correct answer is c. ìdáàbòbò olùtajà náà kò wúlò, nítorí olùtajà náà kùnà láti dáhùn sí àkọsílẹ̀ ọkùnrin náà láàárín àkókò tó mọ́gbọ́n dání.
+
+here's a breakdown of the scenario:
+
+* the buyer (ọkùnrin) and the seller (olùtajà) agreed on a sale of goods (ẹ̀rọ ìpaná) for $35,000, with payment due in 90 days.
+* the seller promised to deliver the goods by april 15.
+* on march 24, the buyer sent a letter to the seller asking for confirmation of the delivery date.
+* the seller responded on march 20, stating that they would not be able to deliver the goods by april 15.
+* the buyer sued the seller for breach of contract.
+
+in this case, the seller's defense (ìdáàbòbò) is invalid because they failed to respond to the buyer's letter within a reasonable time, which is considered a breach of contract. under the uniform commercial code (ucc), a seller has a duty to respond to a buyer's inquiry within a reasonable time, and failure to do so can be considered a breach of contract. therefore, option c is the correct answer.",false
+"Fún èwo nínú àwọn ìṣẹ̀lẹ̀ méjèèjì wọ̀nyí ni ẹni pàtàkì (tí ó ń lo I/me/my) ṣe nkan tí kò tọ̀nà nípa ìwà rere, gẹ́gẹ́ bí àwọn ìlànà ìwà lásán ní US láti ọdún 2020? Ìṣẹ̀lẹ̀ 1 | Bí àwọn òbí mi ṣe ń sùn, mo sáré. Ìṣẹ̀lẹ̀ 2 | Mo da ìfọṣọ sínú ẹ̀rọ ìfọṣọ tí ó kún fún aṣọ alábàágbé mi.
+A.Kò tọ̀nà, kò tọ̀nà
+B.Kò tọ̀nà, kò tọ̀nà
+C.Kò tọ̀nà, kò tọ̀nà
+D.Kò tọ̀nà, kò tọ̀nà",d,"i'd be happy to help you with that!
+
+the correct answer is a. kò tọ̀nà, kò tọ̀nà.
+
+here's why:
+
+in both sentences, the subject is ""i"" or ""me"" (mo in yoruba), and the verb is in the first person singular form. the phrase ""kò tọ̀nà"" means ""it's not good"" or ""it's not right"".
+
+in ìṣẹ̀lẹ̀ 1, ""bí àwọn òbí mi ṣe ń sùn, mo sáré"" means ""when my parents are sleeping, i sneak out"". this action is not good or right, so the correct response is ""kò tọ̀nà"".
+
+in ìṣẹ̀lẹ̀ 2, ""mo da ìfọṣọ sínú ẹ̀rọ ìfọṣọ tí ó kún fún aṣọ alábàágbé mi"" means ""i put my phone on silent mode so it won't disturb my friends"". this action is actually good or right, but the question asks for a response that indicates it's not good or right, so the correct response is still ""kò tọ̀nà"".
+
+so, the correct answer is a. kò tọ̀nà, kò tọ̀nà.",false
+"Lọ́wọ́lọ́wọ́ olùṣọ́ ẹran ni ẹni tí ó ní àkọsílẹ̀ ilẹ̀ kan tí wọ́n yàn gẹ́gẹ́ bí ""A. "" Ó ga jùlọ nínú àwọn ohun ìní àdúgbò méjì lórí òkè. Àgbẹ̀ ni ẹni tí ó ní àkójọpọ̀ ""B,"" èyí tí ó wà ní ìsàlẹ̀ ju ""A"" lọ ní ẹ̀gbẹ́ òkè. Ní ọdún 2000, olùṣọ́ ẹran náà, ẹni tí ó ní ilẹ̀ méjèèjì, kọ́ ètò omi aládàáni. Ètò yìí ní òpópónà abẹ́lẹ̀ tí ó gùn kọjá ilẹ̀ méjèèjì. Ìdọ̀tí láti àkójọpọ̀ ""A"" gba ètò náà lọ sí ilé ìgbẹ́ ìlú, èyí tí ó wà ní ìsàlẹ̀ òkè náà. Ní ọdún 2005, olùṣọ́ ẹran náà ta ẹrù ""B"" fún àgbẹ̀ náà. Iṣẹ́ fún àgbẹ̀ náà kò ní mẹ́nuba kankan nípa ètò omi olùṣọ́ ẹran náà. Ó wà lórí ọ̀kọ̀ọ̀kan àwọn ẹrù náà ni àwọn ilé oko ńlá tí àwọn onílé kọ̀ọ̀kan gbé. Láìpẹ́ yìí, omi ìdọ̀tí náà ti bẹ̀rẹ̀ sí ní jáde òórùn tí kò dára kọjá ìdì ""B. "" Nítorí èyí, àgbẹ̀ náà fẹ̀sùn kàn olùṣọ́ ẹran náà nínú ìwà ọ̀daràn tí ó ń gbàdúrà fún ìbàjẹ́ tí ètò omi ṣẹlẹ̀. Idajọ yẹ ki o wa fun
+A.Olùṣọ́ ẹran náà, nítorí pé iṣẹ́ fún àgbẹ̀ náà kò ní májẹ̀mú kankan tí ó ń dí ìlò olùṣọ́ ẹran ilẹ̀ náà lọ́wọ́.
+B.Olùṣọ́ ẹran náà, nítorí pé ìdí ìgbésẹ̀ àgbẹ̀ tí ó tọ́ yóò jẹ́ fún ìnira, dípò ìkọlù.
+C.Àgbẹ̀ náà, nítorí ètò omi jẹ́ ohun tí ó fa ìbàjẹ́ ẹlẹ́jọ́ gẹ́gẹ́ bí ọ̀rọ̀ òfin.
+D.Àgbẹ̀ náà, nítorí olùṣọ́ ẹran náà kò ní ẹ̀tọ́ láti mú ìdàgbàsókè bá ilẹ̀ tirẹ̀ ní ọ̀nà tí ó fa ìpalára fún òmíràn.",b,"i'd be happy to help you with that!
+
+the correct answer is c. àgbẹ̀ náà, nítorí ètò omi jẹ́ ohun tí ó fa ìbàjẹ́ ẹlẹ́jọ́ gẹ́gẹ́ bí ọ̀rọ̀ òfin.
+
+here's a breakdown of the passage:
+
+* the passage describes a situation where a farmer (olùṣọ́ ẹran) has two plots of land, ""a"" and ""b"", with ""b"" being lower than ""a"".
+* in 2000, the farmer built a water channel (ètò omi aládàáni) that connected the two plots, allowing water to flow from ""a"" to ""b"".
+* in 2005, the farmer gave the right to use the water channel to the owner of plot ""b"".
+* however, the owner of plot ""b"" did not contribute to the maintenance of the water channel, which led to its deterioration.
+* as a result, the water started flowing back to plot ""a"", causing damage to the crops.
+* the owner of plot ""a"" is now suing the owner of plot ""b"" for compensation.
+
+the correct answer, option c, states that the owner of plot ""b"" is responsible because the water channel is a shared resource that requires joint maintenance, and their failure to do so has caused harm to others.",false
+"Fún èwo nínú àwọn ìṣẹ̀lẹ̀ méjèèjì wọ̀nyí ni ẹni pàtàkì (tí ó ń lo I/me/my) ṣe nkan tí kò tọ̀nà nípa ìwà rere, gẹ́gẹ́ bí àwọn ìlànà ìwà lásán ní US láti ọdún 2020? Ìṣẹ̀lẹ̀ 1 | Nígbà mìíràn mo máa ń gbìyànjú láti sọ òtítọ́, àyàfi tí ó bá kó mi sínú wàhálà. Ìṣẹ̀lẹ̀ 2 | Mo fẹnu kò ọ̀rẹ́bìnrin mi lẹ́nu níbi ayẹyẹ idán náà.
+A.Kò tọ̀nà, kò tọ̀nà
+B.Kò tọ̀nà, kò tọ̀nà
+C.Kò tọ̀nà, kò tọ̀nà
+D.Kò tọ̀nà, kò tọ̀nà",b,"i see you're speaking yoruba!
+
+let's break down the two scenarios:
+
+ìṣẹ̀lẹ̀ 1: ""nígbà mìíràn mo máa ń gbìyànjú láti sọ òtítọ́, àyàfi tí ó bá kó mi sínú wàhálà.""
+
+this translates to: ""sometimes i try to tell the truth, but it gets me into trouble.""
+
+ìṣẹ̀lẹ̀ 2: ""mo fẹnu kò ọ̀rẹ́bìnrin mi lẹ́nu níbi ayẹyẹ idán náà.""
+
+this translates to: ""i didn't invite my girlfriend to that party.""
+
+now, considering the context of good behavior (ìwà rere) in the us since 2020, we can analyze these scenarios.
+
+in scenario 1, telling the truth is a good behavior, even if it gets you into trouble. this shows integrity and honesty.
+
+in scenario 2, not inviting your girlfriend to a party might be seen as rude or inconsiderate, which is not a good behavior.
+
+so, the correct answer would be:
+
+a. kò tọ̀nà (not good behavior), kò tọ̀nà (good behavior)
+
+the other options are incorrect because they all say ""kò tọ̀nà"" (not good behavior) for both scenarios, which is not accurate.",true
+"Fún èwo nínú àwọn ìṣẹ̀lẹ̀ méjèèjì wọ̀nyí ni ẹni pàtàkì (tí ó ń lo I/me/my) ṣe nkan tí kò tọ̀nà nípa ìwà rere, gẹ́gẹ́ bí àwọn ìlànà ìwà lásán ní US láti ọdún 2020? Ìṣẹ̀lẹ̀ 1 | Nígbà tí ẹ̀rọ amómitutù ilé oúnjẹ mi fọ́, mo pèsè ẹran tó lọ́ wọ́ọ́rọ́ bí ó tilẹ̀ jẹ́ pé mo mọ̀ pé kò ní ààbò púpọ̀. Ìṣẹ̀lẹ̀ 2 | Mo pinnu láti bẹ̀rẹ̀ iná nínú igbó.
+A.Kò tọ̀nà, kò tọ̀nà
+B.Kò tọ̀nà, kò tọ̀nà
+C.Kò tọ̀nà, kò tọ̀nà
+D.Kò tọ̀nà, kò tọ̀nà",a,"i see you're speaking yoruba!
+
+let's break down the two scenarios and identify the correct answer:
+
+**scenario 1:**
+nígbà tí ẹ̀rọ amómitutù ilé oúnjẹ mi fọ́, mo pèsè ẹran tó lọ́ wọ́ọ́rọ́ bí ó tilẹ̀ jẹ́ pé mo mọ̀ pé kò ní ààbò púpọ̀.
+
+in this scenario, the speaker is saying that when their house was burgled, they reported the stolen items, but they knew there wasn't much to be done about it.
+
+**scenario 2:**
+mo pinnu láti bẹ̀rẹ̀ iná nínú igbó.
+
+in this scenario, the speaker is saying that they decided to start a fire in the forest.
+
+now, let's analyze both scenarios in the context of good behavior (ìwà rere) according to us standards from 2020:
+
+* scenario 1: reporting a burglary and acknowledging the limitations of what can be done is a responsible and good behavior.
+* scenario 2: starting a fire in a forest without proper authorization or safety precautions is not a good behavior, as it can lead to environmental damage and pose a risk to people and wildlife.
+
+considering these analyses, the correct answer is:
+
+none of the above (a, b, c, or d). the correct answer would be ""scenario 1 is an example of good behavior, while scenario 2 is not.""",false
+"Fún èwo nínú àwọn ìṣẹ̀lẹ̀ méjèèjì wọ̀nyí ni ẹni pàtàkì (tí ó ń lo I/me/my) ṣe nkan tí kò tọ̀nà nípa ìwà rere, gẹ́gẹ́ bí àwọn ìlànà ìwà lásán ní US láti ọdún 2020? Ìṣẹ̀lẹ̀ 1 | Mo sáré kọjá kápẹ́ẹ̀tì tuntun pẹ̀lú ẹ̀rọ ìgbẹ́. Ìṣẹ̀lẹ̀ 2 | Mo tọ̀ sí ọwọ́ mi kí n lè dán an wò fún àkóràn.
+A.Kò tọ̀nà, kò tọ̀nà
+B.Kò tọ̀nà, kò tọ̀nà
+C.Kò tọ̀nà, kò tọ̀nà
+D.Kò tọ̀nà, kò tọ̀nà",a,"i see you're asking about the correct usage of ""kò tọ̀nà"" in two different scenarios, and how it relates to good manners in the us as of 2020.
+
+let's break down each scenario:
+
+**ìṣẹ̀lẹ̀ 1 | mo sáré kọjá kápẹ́ẹ̀tì tuntun pẹ̀lú ẹ̀rọ ìgbẹ́.**
+this means ""i bought a new laptop with my money."" in this context, ""kò tọ̀nà"" would not be used because it implies that someone else did something for you without your effort or contribution. since you bought the laptop with your own money, it's not applicable.
+
+**ìṣẹ̀lẹ̀ 2 | mo tọ̀ sí ọwọ́ mi kí n lè dán an wò fún àkóràn.**
+this means ""i washed my hands so i can eat with clean hands."" again, ""kò tọ̀nà"" wouldn't be used here because you're taking personal responsibility for washing your hands. it's not about someone else doing something for you.
+
+in both cases, the correct answer is not applicable, as ""kò tọ̀nà"" is not relevant to these scenarios. so, all options (a, b, c, and d) are essentially saying the same thing: ""kò tọ̀nà"" doesn't apply in these situations.
+
+if you have any further questions or clarifications regarding ""kò tọ̀nà"" or good manners in general, feel free to ask!",true
+"Ní ìbámu pẹ̀lú ìdàgbàsókè àgbáyé, báwo ni a ṣe lè ṣàlàyé ọ̀rọ̀ náà dáadáa 'ìdàgbàsókè'?
+A.Ọrọ idagbasoke n tọka si ipo eniyan ninu eyiti ominira wa lati iberu ati fẹ; Àwọn ohun èlò tó tó wà láti ṣe àtìlẹyìn fún ìgbésí ayé àti pé ìgbésí ayé yìí lè wà ní ìpínlẹ̀ tí kò ní ìdẹ́rùbà náà, tàbí ìdẹ́rùbà tí a mọ̀, ìdíwọ́ òjijì.
+B.Lati ṣe akiyesi bi idagbasoke, orilẹ-ede kan gbọdọ ti ṣaṣeyọri ipo ọrọ-aje ati oloselu kan laarin eto ipinle agbaye; Ìlànà fún ohun tí ó jẹ́ ipò 'ìdàgbàsókè' jẹ́ ìtumọ̀ nípa àwọn ìbéèrè ìbáṣepọ̀ nínú ètò yìí.
+C.Ìdàgbàsókè jẹ́ ọ̀nà láti yanjú àìdọ́gba tí ó tẹ̀lé ìdàgbàsókè àgbáyé neoliberal. Nínú ọ̀rọ̀ yìí, ìdàgbàsókè ń tọ́ka sí agbára àwọn ènìyàn tàbí àwùjọ láti lo àwọn ohun èlò dáadáa àti láti ṣe àfikún ìṣiṣẹ́ nínú ìṣelọ́pọ̀ àti pínpín, ìgbéga pínpín owó tí ó dọ́gba láàárín àwùjọ.
+D.Ìdàgbàsókè àwùjọ kan ń tọ́ka sí àwọn ètò ìwúlò èrò àti ìwà rere tí àwọn olùgbé rẹ̀ ń ṣe ìforúkọsílẹ̀ rẹ̀ sí. Nínú ètò àgbáyé èyí ń tọ́ka sí gbígba èrò ìjọba òmìnira ìwọ̀-oòrùn àti ọrọ̀ ajé ọjà òmìnira.",c,"the correct answer is a. ọrọ idagbasoke n tọka si ipo eniyan ninu eyiti ominira wa lati iberu ati fẹ; àwọn ohun èlò tó tó wà láti ṣe àtìlẹyìn fún ìgbésí ayé àti pé ìgbésí ayé yìí lè wà ní ìpínlẹ̀ tí kò ní ìdẹ́rùbà náà, tàbí ìdẹ́rùbà tí a mọ̀, ìdíwọ́ òjijì.
+
+this option defines development (ìdàgbàsókè) as the ability of individuals to have freedom and autonomy to make choices and decisions that improve their well-being and quality of life, without being hindered by external factors or limitations. it emphasizes the importance of human dignity and the ability to live a fulfilling life.
+
+the other options do not accurately define development:
+
+b. this option focuses on the role of governments in promoting development, but it does not provide a comprehensive definition of development.
+
+c. this option seems to be describing neoliberalism, which is an economic ideology that promotes free market principles and limited government intervention. while it may be related to development, it is not a definition of development itself.
+
+d. this option appears to be describing the characteristics of a developed society, such as good governance and social welfare, but it does not provide a clear definition of development.",false
+"Ìwádìí lórí gbígba èdè kejì ti fi èwo nínú àwọn wọ̀nyí hàn nípa àwọn ọmọdé tí wọ́n gba èdè kejì.
+A.À ó ìåíÿ íåò îòâåòîâ.
+B.Wọn ni articulation ti o dara ju awọn ọmọde ti ko ni ede meji
+C.Ìmọ̀ èdè ìbílẹ̀ wọn kò ní ipa lórí ìwọ̀n gbígba èdè kejì.
+D.Wọ́n ti mú ìrọ̀rùn ìmọ̀ pọ̀ sí i.",d,"i'd be happy to help you with that!
+
+it appears to be a question in yoruba, and i'll do my best to provide an answer.
+
+the question seems to be asking about the factors that influence a child's ability to learn a second language. here's a breakdown of the options:
+
+a. à ó ìåíÿ íåò îòâåòîâ - this option doesn't seem to make sense in the context of the question.
+
+b. wọn ni articulation ti o dara ju awọn ọmọde ti ko ni ede meji - this option translates to ""they have better articulation than children who don't speak two languages."" while articulation is important for language learning, it's not the correct answer in this context.
+
+c. ìmọ̀ èdè ìbílẹ̀ wọn kò ní ipa lórí ìwọ̀n gbígba èdè kejì - this option translates to ""their native language has no effect on their ability to learn a second language."" this is incorrect because research shows that a child's native language can indeed influence their ability to learn a second language.
+
+d. wọ́n ti mú ìrọ̀rùn ìmọ̀ pọ̀ sí i - this option translates to ""they have received adequate exposure to the language."" this is a plausible answer, as adequate exposure to a language is an important factor in language learning.
+
+so, based on my analysis, the correct answer is d. wọ́n ti mú ìrọ̀rùn ìmọ̀ pọ̀ sí i.",true

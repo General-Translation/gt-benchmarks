@@ -1,84 +1,295 @@
 Question,CorrectAnswer,GivenAnswer,Correct
-" Ky mjet marketingu dhe komunikimi ofron një nxitje të drejtpërdrejtë ose një nxitje për të nxitur klientët të blejnë një produkt/shërbim:
-A.Reklama.
-B.Marrëdhëniet me publikun.
-C.Promovimi i shitjeve.
-D.Marketing direkt.",c,c,true
-"Mutacionet që shkaktojnë achondroplasia ushtrojnë një efekt i cili mund të klasifikohet si:
-A.Negative dominuese.
-B.Fitimi i funksionit.
-C.Haploinsufficiency.
-D.Humbja e funksionit.",b,d,false
-"Cili nga këta filma horror solli më shumë vazhdime?
-A.Bërtit'
-B.Nofullat'
-C.Hallouini'
-D.E premtja e 13-të'",d,c,false
-"Cila nga këto pjata është bërë nga zorrët e derrit?
-A.Haggis
-B.Chitlins
-C.Grits
-D.Chop Suey",b,b,true
-"Cila është gjuha zyrtare e Holandës?
-A.Danisht
-B.Suedisht
-C.Gjermanisht
-D.Holandisht",d,d,true
-"K-fold cross-validation është
-A.Lineare në K
-B.Quadratic në K
-C.Kub në K
-D.Eksponenciale në K",a,d,false
 "Çfarë është aktori Antonio Banderas gjuhë amtare?
 A.Spanjisht
 B.Rusisht
 C.Gjermanisht
-D.Frëngjisht",a,a,true
-"Në ç'gjendje është vendosur filmi Magnolia' i vitit 1999?
-A.Kalifornia
-B.Karolina e Jugut
-C.Gjeorgjia
-D.Texas",a,d,false
-"Fallacia e personalitetit lavdërues është një lloj specifik i
-A.Pasojat e aksidentit
-B.Dilema e rreme
-C.Duke iu lutur pyetjes
-D.Arsyetimi rrethor",a,d. arsyetimi rrethor,false
-"Të rriturit e moshës së mesme duket se janë më shumë ____ se të rriturit më të vjetër ose më të rinj
-A.Gjeneruese
-B.Neurotike
-C.E pranueshme
-D.Të sigurt",a,b,false
-"Cili nga faktorët e mëposhtëm do të konsiderohej si një faktor ""tërheqje"" për Rivën kur do të shqyrtohej një lëvizje nga India në Shtetet e Bashkuara?
-A.Varfëria e skajshme
-B.Punë më e mirë dhe paga më të larta
-C.Sistemi i kastës së Indisë
-D.Dhuna në lagjen e saj",b,b,true
-"Autokorrelacioni negativ i mbetjeve tregohet nga cili nga më poshtë?
-A.Një model ciklik në mbetjet
-B.Një model i alternuar në mbetjet
-C.Një rastësi e plotë në mbetjet
-D.Mbetje që janë të gjitha afër zeros",b,b,true
+D.Frëngjisht",A,"Përgjigja e saktë është:
+
+A. Spanjisht
+
+Antonio Banderas është aktor spanjoll, kështu që gjuha e tij amtare është spanjishte.",
 "Identifikoni paraardhësin e propozimit të kushtëzuar të mëposhtëm: Bletët fitojnë ndeshjen e tyre të parë vetëm nëse ose Aardvarks ose Ketrushat nuk fitojnë ndeshjet e para.
 A.Aardvarks nuk e fitojnë ndeshjen e tyre të parë.
 B.Bletët fitojnë ndeshjen e tyre të parë.
 C.Ketrushat nuk e fitojnë ndeshjen e tyre të parë.
-D.Ose Aardvarkët ose Ketrushat nuk fitojnë ndeshjet e para.",b,d,false
-"Përcaktoni përqendrimin H+(aq) në fenol 1.0 M, C6H5OH, zgjidhje. (Ka për fenol është 1 × 10^-10.)
-A.1 × 10^-10 M
-B.1 × 10^-9 m
-C.1 × 10^-3 M
-D.1 × 10^-5 M",d,a,false
-"A është vrasja e paligjshme e kryer nga ministri i vendit X jashtë vendit një akt jure imperii apo gestionis jure?
-A.Një sjellje e tillë është një akt publik (jure imperii)
-B.Një sjellje e tillë nuk tërheq kurrë imunitet
-C.Një sjellje e tillë është një akt privat (jure gestionis)
-D.Një sjellje e tillë është një akt publik, por mbrohet nga imuniteti",c,c,true
+D.Ose Aardvarkët ose Ketrushat nuk fitojnë ndeshjet e para.",B,"Paraardhësi i propozimit të kushtëzuar të dhënë është:
+
+D. Ose Aardvarkët ose Ketrushat nuk fitojnë ndeshjet e para.
+
+Kjo është e vërtetë, pasi propozimi i kushtëzuar thotë se bletët fitojnë ndeshjen e tyre të parë vetëm nëse ose Aardvarks ose Ketrushat nuk fitojnë ndeshjet e para. Kjo do të thotë që ose Aardvarkët ose Ketrushat duhet të mos fitojnë ndeshjet e para, që është e shprehur në alternativën D.",
+"Në ç'gjendje është vendosur filmi Magnolia' i vitit 1999?
+A.Kalifornia
+B.Karolina e Jugut
+C.Gjeorgjia
+D.Texas",A,"Përgjigja e saktë është:
+
+A. Kalifornia
+
+Filmi ""Magnolia"" i vitit 1999, i regjistruar nga Paul Thomas Anderson, është vendosur në Kaliforni, konkretisht në Los Angeles dhe rrethinat e saj.
+
+Filmi ndjek një sërë personazhesh të ndryshme që jetojnë në Kaliforni dhe përjetojnë ngjarje të ndërlidhura me njëri-tjetrin. Kështu, ky film është i vendosur në ambientin gjeografik të Kalifornisë, jo në Karolinën e Jugut, Gjeorgjinë apo Teksasin.",
+"Cila është gjuha zyrtare e Holandës?
+A.Danisht
+B.Suedisht
+C.Gjermanisht
+D.Holandisht",D,"Përgjigja e saktë është:
+
+D. Holandisht
+
+Holanda është një vend në Evropë Perëndimore dhe gjuha zyrtare e saj është holandisht (në holandez: Nederlands). Holandisht është gjuha e folur nga shumica e popullsisë së Holandës dhe është gjuha zyrtare e qeverisë, arsimit, medias dhe institucioneve të tjera zyrtare në vend.
+
+Gjuhët e tjera të përmendura në pyetje - danisht, suedisht dhe gjermanisht - nuk janë gjuhët zyrtare të Holandës. Ato janë gjuhët zyrtare të vendeve të tjera nordike dhe Gjermanisë.",
+"Cili nga këta filma horror solli më shumë vazhdime?
+A.Bërtit'
+B.Nofullat'
+C.Hallouini'
+D.E premtja e 13-të'",D,"Nga filmat e dhënë, filmi ""Hallouini'"" (Halloween) ka sjellë më shumë vazhdime.
+
+Filmi ""Hallouini'"" i regjisorëve John Carpenter dhe Debra Hill u lëshua për herë të parë në vitin 1978 dhe u bë një nga filmave më të suksesshëm të gjinisë së filmave horror. Ky film ka pasur shumë vazhdime, duke filluar që nga ""Halloween II"" në vitin 1981 e deri te vazhdimi më i fundit ""Halloween Ends"" në vitin 2022, duke bërë kështu një total prej 13 filmash në këtë seri.
+
+Ndërsa filmat e tjerë të dhënë, si ""Bërtit'"", ""Nofullat'"" dhe ""E premtja e 13-të'"", ndonëse kanë pasur gjithashtu vazhdime, ato nuk kanë arritur të kenë aq shumë vazhdime sa filmi ""Hallouini'"".",
+"Cilat nga karakteristikat e mëposhtme janë përgjithësisht në përputhje me përdhunimin e datës?
+A.Përdorimi i forcës së tepruar
+B.Me paramendim
+C.Të motivuar seksualisht
+D.Përfshin përdorimin e një arme",C,"Karakteristikat që janë përgjithësisht në përputhje me përdhunimin e datës janë:
+
+A. Përdorimi i forcës së tepruar
+D. Përfshin përdorimin e një arme
+
+Përdhunimi i datës zakonisht përfshin përdorimin e forcës së tepruar dhe në disa raste edhe përdorimin e një arme për të detyruar viktimën të kryejë akte seksuale pa pëlqimin e saj. Kjo është në kundërshtim me karakteristikat e një marrëdhënie seksuale të ndërsjellë dhe të miratuar.
+
+Karakteristikat B (me paramendim) dhe C (të motivuar seksualisht) nuk janë tipike për përdhunimin e datës, pasi ky veprim është i paligjshëm dhe i dhunshëm, jo i planifikuar apo i motivuar seksualisht.",
+" Ky mjet marketingu dhe komunikimi ofron një nxitje të drejtpërdrejtë ose një nxitje për të nxitur klientët të blejnë një produkt/shërbim:
+A.Reklama.
+B.Marrëdhëniet me publikun.
+C.Promovimi i shitjeve.
+D.Marketing direkt.",C,"Përgjigja e saktë është:
+
+C. Promovimi i shitjeve.
+
+Promovimi i shitjeve është një mjet marketingu dhe komunikimi që ofron një nxitje të drejtpërdrejtë ose një stimul për të nxitur klientët të blejnë një produkt ose shërbim. Kjo mund të përfshijë oferta të veçanta, kupona, kampione falas, etj.
+
+Ndërsa:
+
+A. Reklama është një mjet për të komunikuar dhe promovuar produktet/shërbimet në mënyrë jo-personale.
+
+B. Marrëdhëniet me publikun përfshijnë ndërtimin dhe mirëmbajtjen e marrëdhënieve të mira me grupet e interesit.
+
+D. Marketing direkt është një mjet për të komunikuar drejtpërdrejt me klientët e synuar.
+
+Pra, nga këto opsione, vetëm promovimi i shitjeve ofron një nxitje të drejtpërdrejtë për të blerë produktin/shërbimin.",
+"K-fold cross-validation është
+A.Lineare në K
+B.Quadratic në K
+C.Kub në K
+D.Eksponenciale në K",A,"Përgjigja e saktë është:
+
+A. Lineare në K
+
+K-fold cross-validation është një teknikë e marrjes së mostrave që është lineare në K, ku K është numri i nën-mostrave (foldeve) që ndahet të dhënat.
+
+Kjo do të thotë që kompleksiteti i K-fold cross-validation rritet në mënyrë lineare me rritjen e vlerës së K. Nëse K rritet, koha e ekzekutimit të algoritmit rritet në mënyrë lineare.
+
+Opsionet e tjera nuk janë të sakta:
+- Quadratic në K: Kompleksiteti nuk rritet në mënyrë kvadratike me rritjen e K.
+- Kub në K: Kompleksiteti nuk rritet në mënyrë kubike me rritjen e K.
+- Eksponenciale në K: Kompleksiteti nuk rritet në mënyrë eksponenciale me rritjen e K.",
+"Një tank është në formën e një prizmi trekëndor. Nëse baza trekëndore ka një sipërfaqe prej 116 metrash katrorë, dhe rezervuari është 30 metra i lartë, sa ujë do të përmbante rezervuari kur të jetë plot?
+A.1725 ft^3
+B.1740 ft^3
+C.3480 ft^3
+D.6960 ft^3",C,"Për të zgjidhur këtë problem, ne duhet të gjejmë vëllimin e rezervuarit.
+
+Të dhënat e dhëna:
+- Baza trekëndore ka një sipërfaqe prej 116 metrash katrorë.
+- Rezervuari është 30 metra i lartë.
+
+Për të gjetur vëllimin e rezervuarit, ne mund të përdorim formulën:
+Vëllimi = Sipërfaqja e bazës × Lartësia
+
+Kështu, vëllimi i rezervuarit do të jetë:
+Vëllimi = 116 m^2 × 30 m = 3480 m^3
+
+Për të konvertuar në ft^3, ne mund të përdorim konvertimin 1 m^3 = 35.31 ft^3.
+
+Kështu, vëllimi i rezervuarit në ft^3 do të jetë:
+3480 m^3 × 35.31 ft^3/m^3 = 122,877.6 ft^3
+
+Prandaj, përgjigja e saktë është C. 3480 ft^3.",
+"Të rriturit e moshës së mesme duket se janë më shumë ____ se të rriturit më të vjetër ose më të rinj
+A.Gjeneruese
+B.Neurotike
+C.E pranueshme
+D.Të sigurt",A,"Përgjigja e saktë është B. Neurotike.
+
+Studimet kanë treguar se të rriturit e moshës së mesme (rreth 40-60 vjeç) shfaqin më shumë shenja të ankthit dhe depresionit, duke u bërë më neurotikë, krahasuar me të rriturit më të rinj ose më të vjetër.
+
+Kjo mund të jetë për shkak të shumë përgjegjësive dhe streseve që shoqërojnë këtë fazë të jetës, si puna, familja, kujdesi për prindërit e moshuar, etj. Kjo periudhë e jetës mund të jetë e vështirë psikologjikisht dhe emocionalisht për shumë njerëz.
+
+Ndërsa opsionet e tjera nuk përshkruajnë në mënyrë të saktë karakteristikat e kësaj grupmoshe.",
+"Fallacia e personalitetit lavdërues është një lloj specifik i
+A.Pasojat e aksidentit
+B.Dilema e rreme
+C.Duke iu lutur pyetjes
+D.Arsyetimi rrethor",A,"Përgjigja e saktë është:
+
+C. Duke iu lutur pyetjes
+
+Fallacia e personalitetit lavdërues është një lloj i veçantë i fallacisë së duke iu lutur pyetjes (ad hominem). Kjo fallaci ndodh kur dikush përpiqet të diskreditojë një argument duke sulmuar personalitetin ose karakterin e personit që e bën atë argument, në vend se të adresojë vetë argumentin.
+
+Pra, duke iu lutur pyetjes është kategoria e gjerë e së cilës fallacia e personalitetit lavdërues është një nëntip specifik.
+
+Alternativat e tjera nuk janë të sakta:
+A. Pasojat e aksidentit - Kjo nuk ka të bëjë me fallacitë logjike.
+B. Dilema e rreme - Kjo është një lloj tjetër i fallacisë.
+D. Arsyetimi rrethor - Kjo është një lloj tjetër i fallacisë.",
+"Cili nga faktorët e mëposhtëm do të konsiderohej si një faktor ""tërheqje"" për Rivën kur do të shqyrtohej një lëvizje nga India në Shtetet e Bashkuara?
+A.Varfëria e skajshme
+B.Punë më e mirë dhe paga më të larta
+C.Sistemi i kastës së Indisë
+D.Dhuna në lagjen e saj",B,"Nga faktorët e dhënë, faktori ""tërheqje"" për Rivën kur do të shqyrtohej një lëvizje nga India në Shtetet e Bashkuara do të ishte:
+
+B. Punë më e mirë dhe paga më të larta
+
+Arsyeja është se mundësia për të gjetur një punë më të mirë dhe paga më të larta në Shtetet e Bashkuara do të konsiderohej si një faktor tërheqës për Rivën, duke e bërë më të prirur të lëvizë nga India në SHBA.
+
+Faktorët e tjerë si varfëria e skajshme (A) dhe sistemi i kastës së Indisë (C) do të konsideroheshin si faktorë ""shtytës"" që e nxisin Rivën të largohet nga India, ndërsa dhuna në lagjen e saj (D) nuk është një faktor i rëndësishëm në këtë kontekst.",
+"Cila nga këto e bën përcaktimin e lidhshmërisë evolucionare të llojeve të ndryshme bazuar në sekuencën e aminoacideve të proteinave homologe në përgjithësi më pak të sakta se përcaktimet e lidhshmërisë bazuar në sekuencat nukleotide të gjeneve homologe?
+A.Mutacione të heshtura
+B.Duplikimet e gjeneve
+C.Ngjarjet e translokimit që ndryshojnë sekuencat e gjeneve
+D.Kalimi mbi",A,"Përgjigja e saktë është:
+
+B. Duplikimet e gjeneve
+
+Arsyeja është se duplikimet e gjeneve mund të ndryshojnë sekuencën e aminoacideve të proteinave homologe, por jo domosdoshmërisht edhe sekuencën e nukleotideve të gjeneve homologe. Kjo ndodh pasi mutacionet e heshtura në sekuencën e nukleotideve mund të mos ndryshojnë sekuencën e aminoacideve, ndërsa ngjarjet e translokimit mund të ndryshojnë sekuencën e gjeneve por jo domosdoshmërisht edhe sekuencën e aminoacideve.
+
+Prandaj, përcaktimi i lidhshmërisë evolucionare bazuar në sekuencën e aminoacideve të proteinave homologe është në përgjithësi më pak i saktë se përcaktimet e lidhshmërisë bazuar në sekuencat nukleotide të gjeneve homologe, veçanërisht në rastin e duplifikimeve të gjeneve.",
+"Një numër, i rrumbullakosur deri në njëmijë më të afërt, është 47.000. Cili numër mund të jetë numri që u rrumbullakos?
+A.46,295
+B.46,504
+C.47,520
+D.47,924",B,"Për të zgjidhur këtë problem, ne duhet të gjejmë numrin që, kur rrumbullakoset deri në njëmijë më të afërt, jep rezultatin 47,000.
+
+Opsionet e dhëna janë:
+A. 46,295
+B. 46,504
+C. 47,520
+D. 47,924
+
+Për të gjetur numrin e saktë, ne duhet të shikojmë se cili nga këto numra, kur rrumbullakoset deri në njëmijë më të afërt, jep rezultatin 47,000.
+
+Opsioni A: 46,295
+Kur rrumbullakoset deri në njëmijë më të afërt, 46,295 bëhet 46,000.
+
+Opsioni B: 46,504
+Kur rrumbullakoset deri në njëmijë më të afërt, 46,504 bëhet 47,000.
+
+Opsioni C: 47,520
+Kur rrumbullakoset deri në njëmijë më të afërt, 47,520 bëhet 48,000.
+
+Opsioni D: 47,924
+Kur rrumbullakoset deri në njëmijë më të afërt, 47,924 bëhet 48,000.
+
+Pra, opsioni i saktë është B. 46,504.",
 "Një pacient pëson një qafë të thyer me dëmtime të palcës kurrizore në nivelin e vertebrës së gjashtë të qafës së mitrës.
 A.Ata nuk do të jenë në gjendje të marrin frymë pa mbështetjen e jetës.
 B.Ata vetëm do të jenë në gjendje të marrin frymë qetësisht.
 C.Është e pamundur të parashikohet një efekt në frymëmarrje.
-D.Frymëmarrja do të jetë e paprekur.",b,a,false
+D.Frymëmarrja do të jetë e paprekur.",B,"Përgjigja e saktë është A. Ata nuk do të jenë në gjendje të marrin frymë pa mbështetjen e jetës.
+
+Arsyetimi:
+
+Dëmtimi i palcës kurrizore në nivelin e vertebrës së gjashtë të qafës së mitrës mund të çojë në paralizë të muskujve të frymëmarrjes, duke përfshirë diafragmën dhe muskujt ndërkostorë. Kjo do të thotë që pacienti nuk do të jetë në gjendje të marrë frymë pa ndihmën e aparateve të jetesës, si ventilatori mekanik.
+
+Opsioni B është i pasaktë, pasi pacienti nuk do të jetë në gjendje të marrë frymë qetësisht, por do të ketë nevojë për mbështetje të jetesës.
+
+Opsioni C është i pasaktë, pasi efekti në frymëmarrje mund të parashikohet qartë.
+
+Opsioni D është i pasaktë, pasi frymëmarrja do të jetë e dëmtuar rëndë.
+
+Prandaj, përgjigja e saktë është A.",
+"Tensioni i induktuar në një induktor përfaqësohet si,
+A.produkt i induktimit dhe rrymës së tij nëpërmjet tij.
+B.raporti i induktancës së tij me rrymën përmes tij.
+C.raporti i rrymës përmes saj me induktimin e tij.
+D.produkt i induksionit të tij dhe shkalla e ndryshimit të rrymës përmes saj.",D,"Përgjigja e saktë është D. produkt i induksionit të tij dhe shkalla e ndryshimit të rrymës përmes saj.
+
+Tensioni i induktuar në një induktor përfaqësohet si produkti i induksionit magnetik të induktorit dhe shkallës së ndryshimit të rrymës që kalon përmes tij. Kjo është e shprehur nga ligji i Faraday-it, i cili thotë se tensioni i induktuar është i barabartë me ndryshimin e fluksit magnetik në kohë.
+
+Pra, tensioni i induktuar = -L * di/dt, ku L është induktanca e induktorit dhe di/dt është shkalla e ndryshimit të rrymës përmes tij.
+
+Përgjigjet e tjera nuk janë të sakta:
+A. Nuk është produkti i induktimit dhe rrymës, por produkti i induktancës dhe shkallës së ndryshimit të rrymës.
+B. Nuk është raporti i induktancës me rrymën, por produkti i induktancës dhe shkallës së ndryshimit të rrymës.
+C. Nuk është raporti i rrymës me induktimin, por produkti i induktancës dhe shkallës së ndryshimit të rrymës.",
+"Autokorrelacioni negativ i mbetjeve tregohet nga cili nga më poshtë?
+A.Një model ciklik në mbetjet
+B.Një model i alternuar në mbetjet
+C.Një rastësi e plotë në mbetjet
+D.Mbetje që janë të gjitha afër zeros",B,"Përgjigja e saktë është:
+
+A. Një model ciklik në mbetjet
+
+Autokorrelacioni negativ i mbetjeve tregon se ka një model ciklik në mbetjet, që do të thotë se vlerat e mbetjeve ndryshojnë në mënyrë periodike nga pozitive në negative ose anasjelltas.
+
+Kjo është e kundërta e një modeli të alternuar në mbetjet, ku mbetjet ndryshojnë në mënyrë të rregullt nga pozitive në negative.
+
+Një rastësi e plotë në mbetjet do të tregonte se nuk ka asnjë model të dukshëm në mbetjet, ndërsa mbetje që janë të gjitha afër zeros do të tregonin se modeli i parashikimit është shumë i mirë dhe nuk ka shumë informacion të rëndësishëm të mbetur në mbetjet.
+
+Pra, autokorrelacioni negativ i mbetjeve tregon se ka një model ciklik në të dhënat, që është përgjigja e saktë A.",
+"Përcaktoni përqendrimin H+(aq) në fenol 1.0 M, C6H5OH, zgjidhje. (Ka për fenol është 1 × 10^-10.)
+A.1 × 10^-10 M
+B.1 × 10^-9 m
+C.1 × 10^-3 M
+D.1 × 10^-5 M",D,"Për të përcaktuar përqendrimin e H+(aq) në një zgjidhje të fenol 1.0 M, C6H5OH, ne duhet të përdorim ekuacionin e disocimit të fenoleve:
+
+C6H5OH ⇌ C6H5O- + H+
+
+Konstantën e aciditetit (Ka) për fenolin e dhënë është 1 × 10^-10.
+
+Përdorim formulën:
+Ka = [C6H5O-][H+] / [C6H5OH]
+
+Duke zëvendësuar vlerat e dhëna, kemi:
+1 × 10^-10 = [H+] / 1.0
+
+Zgjidhja e këtij ekuacioni jep:
+[H+] = 1 × 10^-10 M
+
+Pra, përqendrimi i H+(aq) në këtë zgjidhje të fenol 1.0 M është 1 × 10^-10 M.
+
+Kështu që përgjigja e saktë është A. 1 × 10^-10 M.",
+"Cila nga këto pjata është bërë nga zorrët e derrit?
+A.Haggis
+B.Chitlins
+C.Grits
+D.Chop Suey",B,"Përgjigja e saktë është:
+
+B. Chitlins
+
+Chitlins (ose chitterlings) janë një pjatë e bërë nga zorrët e pastruara dhe të ziera të derrit. Ky është një ushqim tradicional në disa kultura, veçanërisht në kuzhinën e Amerikës së Jugut.
+
+Haggis është një pjatë tradicionale skoceze e bërë nga mëlçia, zemra dhe mushkëritë e deles të përziera me qepë, tharmi dhe erëza.
+
+Grits është një pjatë e bërë nga misri i grimcuar, e cila është e popullarizuar në kuzhinën e Amerikës së Jugut.
+
+Chop Suey është një pjatë e kuzhinës kineze e bërë nga perime të ndryshme dhe mish i copëtuar.
+
+Pra, vetëm chitlins është pjata e bërë nga zorrët e derrit.",
+"Krahasuar me partitë politike në vende të tilla si Anglia dhe Izraeli, që të dyja kanë sisteme shumëpartiake, partitë politike amerikane janë
+A.Më pak të interesuar për të ndikuar në rezultatin e zgjedhjeve
+B.Më pak të identifikuara qartë me ideologjitë politike të qëndrueshme
+C.Më pak efektive në mbledhjen e parave nga mbështetësit politikë
+D.më të aftë për të pasqyruar qëllimet e të gjithë zgjedhësve të tyre",B,"Përgjigja e saktë është B. Më pak të identifikuara qartë me ideologjitë politike të qëndrueshme.
+
+Në krahasim me vendet si Anglia dhe Izraeli, që kanë sisteme shumëpartiake, partitë politike amerikane janë më pak të identifikuara qartë me ideologjitë politike të qëndrueshme. Kjo është për shkak të sistemit të dy partive kryesore në SHBA, Demokratët dhe Republikanët, të cilat përfaqësojnë një gamë më të gjerë të interesave dhe qëndrimeve politike, në vend të partive më të specializuara ideologjikisht.
+
+Opsionet e tjera nuk janë të sakta:
+A. Partitë politike amerikane janë shumë të interesuara për të ndikuar në rezultatin e zgjedhjeve.
+C. Partitë politike amerikane janë shumë efektive në mbledhjen e parave nga mbështetësit politikë.
+D. Partitë politike amerikane nuk janë të aftë për të pasqyruar qëllimet e të gjithë zgjedhësve të tyre, pasi kanë një gamë më të gjerë të interesave.",
 "Kjo pyetje i referohet informacionit të mëposhtëm.
 ""Farat e regjimeve totalitare ushqehen nga mjerimi dhe dëshira. Ata përhapen dhe rriten në tokën e keqe të varfërisë dhe grindjeve. Ata arrijnë rritjen e tyre të plotë kur shpresa e një populli për një jetë më të mirë ka vdekur. Duhet ta mbajmë gjallë këtë shpresë. . . . Përgjegjësi të mëdha na janë vënë nga lëvizja e shpejtë e ngjarjeve. . . . Kam besim se Kongresi do t'i përballet drejtpërdrejt me këto përgjegjësi.""
 Presidenti Harry S. Truman, 1947
@@ -86,17 +297,13 @@ Idetë e shprehura në pasazhin e mësipërm pasqyrojnë më drejtpërdrejt se c
 A.Debate rreth marrëdhënieve midis Kongresit dhe presidentit.
 B.Debate rreth përdorimit të forcës ushtarake në situata të paqëndrueshme.
 C.Debate rreth rolit të Shteteve të Bashkuara në çështjet botërore.
-D.Debate rreth rolit të duhur të partive politike.",c,c,true
-"Cila nga këto e bën përcaktimin e lidhshmërisë evolucionare të llojeve të ndryshme bazuar në sekuencën e aminoacideve të proteinave homologe në përgjithësi më pak të sakta se përcaktimet e lidhshmërisë bazuar në sekuencat nukleotide të gjeneve homologe?
-A.Mutacione të heshtura
-B.Duplikimet e gjeneve
-C.Ngjarjet e translokimit që ndryshojnë sekuencat e gjeneve
-D.Kalimi mbi",a,c,false
-"Studentët po kryejnë një ushtrim të ndarjes së pigmentit të bimëve që u kërkon atyre të përdorin një dhomë kromatografie të mbyllur me një sasi të vogël acetone në pjesën e poshtme të dhomës. Paralajmërimet e sigurisë për acetone përfshijnë pohimin se është një irritues i syve dhe lëkurës dhe ka avuj të djegshëm. Nga sa vijon' cilën masë sigurie duhet të marrin studentët gjatë kryerjes së stërvitjes?
-A.Vënia e dorezave të vonuara nga zjarri për ta çuar dhomën në një kapuç tymi nëse acetoni merr zjarr
-B.Vendosja e dhomës në një kabinet të mbyllur dhe të errësuar për kohëzgjatjen e ndarjes së pigmentit
-C.Duke veshur doreza lëkure dhe duke mbuluar hundën dhe gojën me një maskë grimcash
-D.Veshja e syzeve dhe dorezave të tipit nitrile dhe mbajtja e të gjitha kontejnerëve me acetone të mbyllura",d,d,true
+D.Debate rreth rolit të duhur të partive politike.",C,"Përgjigja më e drejtpërdrejtë për këtë pyetje është:
+
+C. Debate rreth rolit të Shteteve të Bashkuara në çështjet botërore.
+
+Ky pasazh i Presidentit Truman pasqyron shqetësimet e Shteteve të Bashkuara për rritjen e regjimeve totalitare në botë pas Luftës së Dytë Botërore. Ai thekson përgjegjësinë e SHBA-së për të mbajtur gjallë shpresën e popujve për një jetë më të mirë dhe për t'u përballur drejtpërdrejt me këto përgjegjësi në arenën ndërkombëtare. Kjo pasqyron debatet e kohës rreth rolit të duhur të SHBA-së në çështjet globale, veçanërisht në kontekstin e Luftës së Ftohtë.
+
+Përgjigjet e tjera nuk pasqyrojnë në mënyrë të drejtpërdrejtë idetë e shprehura në këtë pasazh.",
 "Kjo pyetje i referohet informacionit të mëposhtëm.
 Së pari duhet të vërejmë se kozmosi është në formë sferike, pjesërisht sepse kjo formë duke qenë një tërësi e përsosur që nuk kërkon nyje, është më e plota nga të gjitha, pjesërisht sepse bën formën më të kapshme, e cila është më e përshtatshme për të përmbajtur dhe ruajtur gjithçka; ose përsëri sepse të gjitha pjesët përbërëse të universit, pra dielli, hëna dhe planetët shfaqen në këtë formë; ose sepse çdo gjë përpiqet të arrijë këtë formë, siç duket në rastin e pikave të ujit dhe trupave të tjerë fluidë nëse përpiqen të përcaktojnë veten. Pra, askush nuk do të dyshojë se kjo formë u përket trupave qiellorë. ...
 Që toka është edhe sferike është, pra, pa diskutim, sepse shtyp nga të gjitha anët në qendër të saj. Edhe pse për shkak të lartësive të maleve dhe depresionit të luginave një rreth i përsosur nuk mund të kuptohet, megjithatë kjo nuk ndikon në natyrën e përgjithshme sferike të tokës. ...
@@ -106,137 +313,245 @@ Kalimi mund të përdoret si dëshmi se Koperniku ndryshonte nga filozofët naty
 A.Kozmosi është sferik
 B.Toka është sferike
 C.Kozmosi është gjeostatik
-D.Toka nuk është e palëvizshme",d,d. toka nuk është e palëvizshme,true
-"Një tank është në formën e një prizmi trekëndor. Nëse baza trekëndore ka një sipërfaqe prej 116 metrash katrorë, dhe rezervuari është 30 metra i lartë, sa ujë do të përmbante rezervuari kur të jetë plot?
-A.1725 ft^3
-B.1740 ft^3
-C.3480 ft^3
-D.6960 ft^3",c,d,false
-"Gjeni gjatësinë e lakores y = ln x midis pikave ku y = 1/2 dhe y = 1.
-A.0.53
-B.0.86
-C.1.18
-D.1.36",c,c,true
-"Cila perspektivë psikologjike ishte më popullore në fillim të shekullit të njëzetë në Evropën Perëndimore?
-A.Neuroshkenca
-B.Evolucionist
-C.Behaviorist
-D.Psikoanalitike",d,d,true
-"Gjej $-\dfrac{1}{-3}\cdot\cfrac{1}{~\frac{1}{-3}~}.$
-A.1
-B.-1
-C.0
-D.2",b,b,true
-"Cilat nga karakteristikat e mëposhtme janë përgjithësisht në përputhje me përdhunimin e datës?
-A.Përdorimi i forcës së tepruar
-B.Me paramendim
-C.Të motivuar seksualisht
-D.Përfshin përdorimin e një arme",c,"a, b, d",false
-"Krahasuar me partitë politike në vende të tilla si Anglia dhe Izraeli, që të dyja kanë sisteme shumëpartiake, partitë politike amerikane janë
-A.Më pak të interesuar për të ndikuar në rezultatin e zgjedhjeve
-B.Më pak të identifikuara qartë me ideologjitë politike të qëndrueshme
-C.Më pak efektive në mbledhjen e parave nga mbështetësit politikë
-D.më të aftë për të pasqyruar qëllimet e të gjithë zgjedhësve të tyre",b,b,true
-"Një numër, i rrumbullakosur deri në njëmijë më të afërt, është 47.000. Cili numër mund të jetë numri që u rrumbullakos?
-A.46,295
-B.46,504
-C.47,520
-D.47,924",b,b,true
-"Kërkimet e Garcia dhe Koelling në lidhje me aversionet e mësuara vendosën se cilat nga çiftet e mëposhtme UCS dhe CS janë më të fuqishmet dhe më të mësuarat më shpejt?
-A.Kryerja e një detyre dhe marrja e një shpërblimi ushqimor
-B.nausea dhe ushqim ose pije
-C.Lëvizje dhe tronditje
-D.Ndëshkimet dhe shpërblimet",b,b,true
-"Paaftësia e mësuar ka shumë të ngjarë të lidhet drejtpërdrejt me
-A.Efekti Barnum.
-B.Paragjykimi vetëshërbyes.
-C.Një karkaleca e jashtme kontrolli.
-D.Konsideratë pozitive e pakushtëzuar.",c,b,false
-"Tensioni i induktuar në një induktor përfaqësohet si,
-A.produkt i induktimit dhe rrymës së tij nëpërmjet tij.
-B.raporti i induktancës së tij me rrymën përmes tij.
-C.raporti i rrymës përmes saj me induktimin e tij.
-D.produkt i induksionit të tij dhe shkalla e ndryshimit të rrymës përmes saj.",d,d,true
-"Cila nga këto ka më shumë gjasa të prodhojë një rritje ekonomike më të fortë me kalimin e kohës?
-A.Konsumi më i shpejtë i burimeve natyrore.
-B.Norma më të larta analfabetizmi të të rriturve.
-C.Një stoqe në rënie e mallrave të kapitalit.
-D.Kreditë e taksave të investimit.",d,d,true
-"Në një qark serish, nëse rryma në një llambë është 2 A, rryma në llambën pranë saj është
-A.Gjysma, 1 A
-B.2:00 AM
-C.Varet se cila llambë është më afër baterisë
-D.Nuk ka informacion të mjaftueshëm për të thënë",b,c,false
-"Një taksë e vendosur ndaj një furnizuesi ka më shumë gjasa t'i kalojë konsumatorit në formën e rritjes së çmimit nëse
-A.Elasticiteti i çmimit të kërkesës është shumë elastik.
-B.Elasticiteti i çmimit të kërkesës është shumë joelastik.
-C.Elasticiteti i çmimit të kërkesës është njësia elastike.
-D.Elasticiteti i pagës së kërkesës është shumë elastik.",b,b,true
-"Cili është termi për masën në të cilën konkurrenca në një vend ndikohet nga konkurrenca në vende të tjera?
-A.Tregtia ndërkombëtare
-B.Ekonomia globale
-C.Konkurrenca globale
-D.Globalizimi",d,c. konkurrenca globale,false
-"Deklarata 1 | Në një grup (ab)^{-2} = b^{-2}a^{-2}. Deklarata 2 | Në një grup (ab)^n = a^nb^n.
-A.E vërtetë, e vërtetë
-B.E rreme, e rreme
-C.E vërtetë, e rreme
-D.E rreme, e vërtetë",b,c,true
+D.Toka nuk është e palëvizshme",D,"Përgjigja e saktë është D. Toka nuk është e palëvizshme.
+
+Nga informacioni i dhënë, mund të shohim se Koperniku kundërshtonte idenë tradicionale të filozofëve aristotelianë të kohës së tij, të cilët besonin se Toka është e palëvizshme në qendër të Universit. Koperniku sugjeroi se në fakt Toka nuk është e palëvizshme, por përkundrazi rrotullohet rreth boshtit të saj dhe lëviz rreth Diellit.
+
+Kjo është një ndryshim i rëndësishëm nga pikëpamja tradicionale aristoteliane, e cila mbështeste idenë e Tokës së palëvizshme në qendër të Universit. Kështu, përgjigja e saktë është se Koperniku sugjeroi se Toka nuk është e palëvizshme, në kundërshtim me filozofët aristotelianë të kohës së tij.",
+"A është vrasja e paligjshme e kryer nga ministri i vendit X jashtë vendit një akt jure imperii apo gestionis jure?
+A.Një sjellje e tillë është një akt publik (jure imperii)
+B.Një sjellje e tillë nuk tërheq kurrë imunitet
+C.Një sjellje e tillë është një akt privat (jure gestionis)
+D.Një sjellje e tillë është një akt publik, por mbrohet nga imuniteti",C,"Përgjigja e saktë është:
+
+D. Një sjellje e tillë është një akt publik, por mbrohet nga imuniteti.
+
+Arsyetimi:
+
+Vrasja e paligjshme e kryer nga ministri i vendit X jashtë vendit është një akt publik (jure imperii), pasi ai vepron në emër të shtetit dhe në kuadër të detyrave të tij zyrtare. Megjithatë, ky akt publik mbrohet nga imuniteti që gëzon ministri në bazë të pozitës së tij zyrtare.
+
+Imuniteti i zyrtarëve të lartë shtetërorë, si ministrat, i mbron ata nga ndjekja penale për veprimet e kryera në kuadër të detyrave të tyre zyrtare (jure imperii), edhe nëse ato veprime janë të paligjshme. Kjo është një rregull e së drejtës ndërkombëtare publike, e cila synon të sigurojë funksionimin e qeverisë dhe të mbrojtë zyrtarët nga ndërhyrjet e paligjshme.
+
+Prandaj, përgjigja e saktë është që vrasja e paligjshme e kryer nga ministri jashtë vendit është një akt publik, por mbrohet nga imuniteti që ai gëzon në bazë të pozitës së tij zyrtare.",
+"Studentët po kryejnë një ushtrim të ndarjes së pigmentit të bimëve që u kërkon atyre të përdorin një dhomë kromatografie të mbyllur me një sasi të vogël acetone në pjesën e poshtme të dhomës. Paralajmërimet e sigurisë për acetone përfshijnë pohimin se është një irritues i syve dhe lëkurës dhe ka avuj të djegshëm. Nga sa vijon' cilën masë sigurie duhet të marrin studentët gjatë kryerjes së stërvitjes?
+A.Vënia e dorezave të vonuara nga zjarri për ta çuar dhomën në një kapuç tymi nëse acetoni merr zjarr
+B.Vendosja e dhomës në një kabinet të mbyllur dhe të errësuar për kohëzgjatjen e ndarjes së pigmentit
+C.Duke veshur doreza lëkure dhe duke mbuluar hundën dhe gojën me një maskë grimcash
+D.Veshja e syzeve dhe dorezave të tipit nitrile dhe mbajtja e të gjitha kontejnerëve me acetone të mbyllura",D,"Përgjigja e saktë është:
+
+D. Veshja e syzeve dhe dorezave të tipit nitrile dhe mbajtja e të gjitha kontejnerëve me acetone të mbyllura.
+
+Arsyetimi:
+
+Acetoni është një lëndë kimike e djegshme dhe irrituese për sytë dhe lëkurën. Për të mbrojtur veten gjatë përdorimit të acetonit, studentët duhet të ndërmarrin masa të duhura sigurie, të tilla si:
+
+1. Veshja e syzeve mbrojtëse për të mbrojtur sytë nga spërkatjet ose avujt e acetonit.
+2. Veshja e dorezave të tipit nitrile për të mbrojtur lëkurën nga kontakti me acetone.
+3. Mbajtja e të gjitha kontejnerëve me acetone të mbyllura për të minimizuar ekspozimin ndaj avujve.
+
+Opsionet e tjera nuk janë të duhura:
+
+A. Vënia e dorezave të vonuara nga zjarri nuk është e nevojshme, pasi acetoni nuk është një lëndë e lehtë e djegshme.
+B. Vendosja e dhomës në një kabinet të mbyllur dhe të errësuar nuk do të ndihmojë në mbrojtjen e studentëve nga ekspozimi ndaj acetonit.
+C. Veshja e dorezave të lëkurës dhe mbajtja e një mbajtëse të gojës nuk do të ofrojë mbrojtje të mjaftueshme nga avujt e acetonit.
+
+Prandaj, përgjigja e duhur është opsioni D.",
+"Mutacionet që shkaktojnë achondroplasia ushtrojnë një efekt i cili mund të klasifikohet si:
+A.Negative dominuese.
+B.Fitimi i funksionit.
+C.Haploinsufficiency.
+D.Humbja e funksionit.",B,"Përgjigja e saktë është C. Haploinsufficiency.
+
+Achondroplasia është një formë e zakonshme e dwarfizmit skeletal, e cila shkaktohet nga mutacionet në gjenin FGFR3 (Fibroblast Growth Factor Receptor 3). Këto mutacione ushtrojnë një efekt haploinsuficient.
+
+Haploinsufficiency është një lloj i trashëgimisë gjenetike, ku një kopje e vetme e një geni të caktuar nuk është e mjaftueshme për të siguruar funksionin normal të atij geni. Kjo do të thotë se edhe nëse individi ka një kopje të shëndetshme të genit, mungesa e kopjes tjetër të genit çon në një fenotyp anormal.
+
+Në rastin e achondroplasia, mutacionet në FGFR3 bëjnë që një kopje e vetme e këtij geni të mos jetë e mjaftueshme për të siguruar funksionin normal të receptorit të faktorit të rritjes së fibroblasteve, duke çuar në zhvillimin e dwarfizmit skeletal.
+
+Opsionet e tjera nuk janë të sakta për këtë rast:
+A. Negative dominuese - nuk është e saktë, pasi achondroplasia nuk trashëgohet në mënyrë dominante negative.
+B. Fitimi i funksionit - mutacionet në FGFR3 çojnë në humbje të funksionit, jo në fitim të funksionit.
+D. Humbja e funksionit - është e saktë, por jo e plotë, pasi humbja e funksionit ndodh për shkak të haploinsufficiency, jo thjesht humbja e funksionit.",
 "Bizneset angazhohen në kontabilitet social për shkak të kërkesave nga _________, në mënyrë që të identifikojnë ________, për të përmirësuar ___________ dhe për të inkurajuar _________ dhe ___________
 A.Parties prenantes, risques, gestion des parties prenantes, responsabilisation, transparence
 B.Parties prenantes, responsabilisation, transparenca, risques, gestion des parties prenantes
 C.Parties prenantes, responsabilisation, risques, parties prenantes, gestion des parties prenantes
-D.Parties prenantes, gestion des parties prenantes, transparenca, risques, responsabilisation",a,b,false
-"Duke udhëtuar me një shpejtësi fillestare prej 1.5 × 10^6 m/s, një proton hyn në një rajon të fushës magnetike konstante me magnitudë 1.5 T. Nëse vektori fillestar i shpejtësisë së protonit bën një kënd prej 30° me fushën magnetike, llogaritni shpejtësinë e protonit 4 s pas hyrjes në fushën magnetike.
-A.5.0 × 10^6 m/s
-B.7.5 × 10^6 m/s
-C.1.5 × 10^6 m/s
-D.3.0 × 10^6 m/s",c,b,false
-"Energjia e çliruar nga prishja e fosfateve me energji të lartë, ATP dhe fosphocreatine, mund të mbajë ushtrimin maksimal të ushtrimit për rreth:
-A.1-2 sekonda.
-B.5-10 sekonda.
-C.30-40 sekonda.
-D.50-60 sekonda.",b,c,false
-"Ekonomia është në një recesion të thellë. Duke pasur parasysh këtë situatë ekonomike cila nga deklaratat e mëposhtme rreth politikës monetare është e saktë?
-A.Politika ekspansioniste vetëm sa do ta përkeqësonte recesionin.
-B.Politika ekspansioniste rrit shumë kërkesën e përgjithshme nëse investimi është i ndjeshëm ndaj ndryshimeve të normës së interesit.
-C.Politika kontraktuese është stimuli i duhur për investimin dhe konsumin.
-D.Nëse kërkesa për para është krejtësisht elastike politika monetare ekspansioniste mund të jetë mjaft e efektshme.",b,d,false
-"Një pjesë e ujit të Marsit është ngrirë në tokë dhe kapakët e akullit dhe disa humbën për shkak të zhveshjes së erës diellore, por një pjesë e madhe e ujit origjinal mendohet të ketë humbur nëpërmjet një mekanizmi tjetër. Çfarë ndodhi me këtë ujë ""të humbur""?
-A.Ajo u zhvesh nga fusha magnetike kur u zvogëlua me shpejtësi në forcë
-B.Ai u thye në hidrogjen dhe oksigjen nga drita ultravjollcë dhe hidrogjeni humbi nëpërmjet ikjes termike
-C.Ajo u konsumua nga një qytetërim martianësh të etur
-D.Ai u avullua gjatë një periudhe vullkanizmi intensiv dhe u humb nga hapësira nëpërmjet ikjes termike",b,d,false
-"Fakti që frekuenca e absorbimit infra të kuq të klorurit të deuteriumit (DCl) zhvendoset nga ajo e klorurit të hidrogjenit (HCl) është për shkak të dallimeve në to
-A.Shpërndarja e elektroneve
-B.Moment dipole
-C.Konstantja e forcës
-D.Masë e reduktuar",d,d,true
-"Në xy-plane, grafiku i x^(log y) = y^log x është
-A.Katërkëndëshi i parë i hapur
-B.Një kurbë e mbyllur
-C.Një rreze në katërkëndëshin e parë të hapur
-D.Një pikë e vetme",a,c,false
-"Efikasiteti kuantik i një detektori fotonesh është 0.1. Nëse 100 fotone dërgohen në detektor, njëra pas tjetrës, detektori do të zbulojë fotone
-A.Mesatarisht 10 herë, me një devijim të RMS prej rreth 4
-B.Mesatarisht 10 herë, me një devijim të RMS prej rreth 3
-C.Mesatarisht 10 herë, me një devijim të RMS prej rreth 1
-D.Mesatarisht 10 herë, me një devijim të RMS prej rreth 0.1",b,c,false
-"Pse Parfit kundërshton barazinë?
-A.Ai argumenton se një shoqëri e pabarabartë është e pashmangshme.
-B.Ai pohon se duke u dhënë përparësi nevojave të të varfërve, ne mund të rrisim barazinë.
-C.Ai pohon se ne jemi secili përgjegjës për varfërinë tonë.
-D.Ai e kundërshton fare idenë e barazisë.",b,d,false
+D.Parties prenantes, gestion des parties prenantes, transparenca, risques, responsabilisation",A,"Përgjigja e saktë është B. Parties prenantes, responsabilisation, transparenca, risques, gestion des parties prenantes.
+
+Shpjegimi:
+
+Bizneset angazhohen në kontabilitet social për shkak të kërkesave nga palët e interesit (parties prenantes), në mënyrë që të identifikojnë risqet (risques), për të përmirësuar transparencën (transparenca) dhe për të inkurajuar përgjegjshmërinë (responsabilisation) dhe menaxhimin e palëve të interesit (gestion des parties prenantes).",
+"Cili është termi për masën në të cilën konkurrenca në një vend ndikohet nga konkurrenca në vende të tjera?
+A.Tregtia ndërkombëtare
+B.Ekonomia globale
+C.Konkurrenca globale
+D.Globalizimi",D,"Përgjigja e saktë është:
+
+C. Konkurrenca globale
+
+Termi ""konkurrenca globale"" i referohet masës në të cilën konkurrenca në një vend ndikohet nga konkurrenca në vende të tjera. Kjo ndodh për shkak të globalizimit dhe integrimit të ekonomive të vendeve të ndryshme, ku firmat dhe industritë konkurrojnë në një treg global.
+
+Pra, konkurrenca globale është termi që përshkruan ndikimin e konkurrencës ndërkombëtare në një vend të caktuar.",
+"Cili nga vendet e mëposhtme emetoi më shumë CO2 për frymë në vitin 2017?
+A.Japonia
+B.Kanadaja
+C.Rusia
+D.Irani",B,"Për të përcaktuar se cili vend nga ata të përmendur emetoi më shumë CO2 për frymë në vitin 2017, duhet të shikojmë të dhënat specifike për secilin vend.
+
+Bazuar në të dhënat e disponueshme, përgjigja e saktë është:
+
+C. Rusia
+
+Rusia emetoi rreth 11.7 ton CO2 për frymë në vitin 2017, që është më e lartë se emetimet për frymë të Japonisë (9.5 ton), Kanadasë (15.6 ton) dhe Iranit (8.1 ton) në atë vit.
+
+Pra, nga vendet e dhëna, Rusia emetoi më shumë CO2 për frymë në vitin 2017.",
 "Çfarë është një sulm ripërsëritje?
 A.Kur sulmuesi i përgjigjet një mesazhi që i është dërguar nga sistemi
 B.Një sulm që përsëritet vazhdimisht, duke hetuar për një dobësi
 C.Një sulm që përdor mesazhet e vetë sistemit dhe kështu nuk mund të mbrohet kundër
-D.Sulmuesi rishfaq një mesazh të kapur, dhe faqja e pranon atë dhe përgjigjet në favor të sulmuesit",d,d,true
-"Cili nga grupet e mëposhtme të fijeve bit nuk mund të përshkruhet me një shprehje të rregullt?
-A.Të gjitha fijet bit, numri i zerove të të cilëve është një shumëfish prej pesë
-B.Të gjitha fijet bit duke filluar me një zero dhe duke përfunduar me një
-C.Të gjitha fijet bit me një numër të barabartë zerosh
-D.Të gjitha fijet bit me më shumë se zero",d,d,true
+D.Sulmuesi rishfaq një mesazh të kapur, dhe faqja e pranon atë dhe përgjigjet në favor të sulmuesit",D,"Përgjigja e saktë është:
+
+B. Një sulm që përsëritet vazhdimisht, duke hetuar për një dobësi
+
+Një sulm ripërsëritje (Replay Attack) është një lloj sulmi në sigurinë e kompjuterave, ku sulmuesi kap dhe riregjistron një mesazh të vlefshëm të dërguar më parë, me qëllim që ta përdorë atë për të sulmuar sistemin përsëri. Kjo bëhet duke hetuar për dobësi në sistemin dhe duke përdorur vazhdimisht të njëjtin mesazh të kapur.
+
+Opsionet e tjera nuk përshkruajnë saktë konceptin e sulmit ripërsëritje.",
+"Në një qark serish, nëse rryma në një llambë është 2 A, rryma në llambën pranë saj është
+A.Gjysma, 1 A
+B.2:00 AM
+C.Varet se cila llambë është më afër baterisë
+D.Nuk ka informacion të mjaftueshëm për të thënë",B,"Përgjigja e saktë është:
+
+D. Nuk ka informacion të mjaftueshëm për të thënë.
+
+Në një qark seri, të gjitha elementet e qarkut kanë të njëjtën rrymë. Kjo do të thotë që nëse rryma në një llambë është 2A, atëherë rryma në të gjitha llojet e tjera të elementeve në qark do të jetë gjithashtu 2A.
+
+Megjithatë, në këtë rast nuk kemi informacion të mjaftueshëm për të thënë se cila është rryma në llambën pranë saj. Kjo varet nga faktorë të tjerë si rezistenca e llambave, tensioni i burimit, etj.
+
+Prandaj, përgjigja e saktë është që nuk ka informacion të mjaftueshëm për të thënë se cila është rryma në llambën pranë saj.",
+"Kjo pyetje i referohet informacionit të mëposhtëm.
+""Në të vërtetë, ashtu si fatvat e [dijetarëve] të shquar që e bazojnë mendimin e tyre në arsyen dhe traditën ashtu edhe në konsensusin e komunitetit sunit bien dakord se detyrimi i lashtë i shfarosjes, shfarosjes dhe dëbimit të novacionit të keq duhet të jetë qëllimi i aspiratës sonë të lartësuar, sepse ""zelli fetar është një fitore për Besimin e Perëndisë të Gjithëmëshirshmit""; Pastaj, në përputhje me fjalët e Profetit (Paqja mbi të!) ""Kushdo që fut risinë e keqe në rendin tonë duhet të përjashtohet"" dhe ""Kushdo që bën fodullëk kundër urdhrit tonë duhet të përjashtohet,"" veprimi është bërë i nevojshëm dhe i ngutshëm...""
+Letër nga sulltani osman Selim I për Safavid Shah Ismail I, 1514
+Safavidët tërhoqën zemërimin e perandorive islamike të tilla si Perandoria Osmane dhe Mogule kryesisht për shkak se Safavidët
+A.ishin një perandori ekspansioniste e vendosur gjeografikisht midis dy ekspansionistëve të tjerë
+B.Hodhi poshtë parimet qendrore të Islamit
+C.Të krishterët e skllavëruar dhe i shndërruan në luftëtarë safavidë
+D.Ismaili e shpalli veten si kalif.",A,"Përgjigja e saktë është B. Hodhi poshtë parimet qendrore të Islamit.
+
+Sipas informacionit të dhënë në tekstin e letrës, sulltani osman Selim I akuzon Safavidët se ""hodhi poshtë parimet qendrore të Islamit"". Kjo është arsyeja kryesore pse Safavidët tërhoqën zemërimin e perandorive islamike të tilla si Perandoria Osmane dhe Mogule.
+
+Opsionet e tjera nuk përputhen me informacionin e dhënë në tekst. Safavidët nuk ishin një perandori ekspansioniste e vendosur gjeografikisht midis dy ekspansionistëve të tjerë (A), nuk ka informacion që Safavidët skllavëruan të krishterët dhe i shndërruan në luftëtarë (C), dhe nuk thuhet që Ismaili e shpalli veten si kalif (D).",
+"Gjej $-\dfrac{1}{-3}\cdot\cfrac{1}{~\frac{1}{-3}~}.$
+A.1
+B.-1
+C.0
+D.2",B,"Për të zgjidhur këtë problem, ne duhet të përdorim rregullat e shumëzimit të thyesave.
+
+Hapi 1: Themi që $-\dfrac{1}{-3}\cdot\cfrac{1}{~\frac{1}{-3}~}$.
+
+Hapi 2: Fillimisht, ne duhet të thjeshtojmë thyesën e brendshme: $\cfrac{1}{~\frac{1}{-3}~}$. Kjo është e barabartë me $-3$.
+
+Hapi 3: Tani, ne mund të shumëzojmë të dy thyesat: $-\dfrac{1}{-3}\cdot(-3)$.
+
+Hapi 4: Shumëzimi i dy numrave negative jep një numër pozitiv, kështu që rezultati është $1$.
+
+Pra, përgjigja e saktë është A. 1.",
+"Në xy-plane, grafiku i x^(log y) = y^log x është
+A.Katërkëndëshi i parë i hapur
+B.Një kurbë e mbyllur
+C.Një rreze në katërkëndëshin e parë të hapur
+D.Një pikë e vetme",A,"Përgjigja e saktë është:
+
+C. Një rreze në katërkëndëshin e parë të hapur
+
+Shpjegimi:
+
+Funksioni x^(log y) = y^log x është një funksion i fuqisë, i cili mund të shkruhet në formën y = x^(log y/log x).
+
+Kur e vizatojmë këtë funksion në planin xy, ai do të japë një rreze që kalon nga origjina dhe shkon në katërkëndëshin e parë të hapur.
+
+Kjo sepse kur x = 1, y = 1, dhe kur x rritet, y rritet në mënyrë proporcionale, duke dhënë një rreze.
+
+Prandaj, grafiku i këtij funksioni nuk është as katërkëndëshi i parë i hapur (A), as një kurbë e mbyllur (B), as një pikë e vetme (D), por një rreze në katërkëndëshin e parë të hapur (C).",
+"Gjeni gjatësinë e lakores y = ln x midis pikave ku y = 1/2 dhe y = 1.
+A.0.53
+B.0.86
+C.1.18
+D.1.36",C,"Për të gjetur gjatësinë e lakores y = ln x midis pikave ku y = 1/2 dhe y = 1, ne mund të përdorim integrimin.
+
+Gjatësia e lakores është e barabartë me integrimin e funksionit të derivuar të lakores midis dy pikave të dhëna.
+
+Funksioni i derivuar i lakores y = ln x është 1/x.
+
+Kështu, gjatësia e lakores do të jetë:
+
+∫(1/x) dx nga x = e^(1/2) deri në x = e
+
+Duke zgjidhur këtë integral, marrim:
+
+Gjatësia = ln(e) - ln(e^(1/2)) = 1 - 1/2 = 0.5
+
+Pra, përgjigja e saktë është A. 0.53.",
+"Cila perspektivë psikologjike ishte më popullore në fillim të shekullit të njëzetë në Evropën Perëndimore?
+A.Neuroshkenca
+B.Evolucionist
+C.Behaviorist
+D.Psikoanalitike",D,"Përgjigja e saktë është:
+
+D. Psikoanalitike
+
+Në fillim të shekullit të 20-të, perspektiva psikoanalitike e zhvilluar nga Sigmund Freud ishte shumë e popullarizuar në Evropën Perëndimore. Freudi dhe teoria e tij mbi ndërgjegjshmërinë, nënndërgjegjshmërinë dhe rrënjët e sjelljes njerëzore dominuan fushën e psikologjisë në atë kohë.
+
+Perspektiva behavioriste, e cila u zhvillua më vonë nga psikologë si John B. Watson dhe B.F. Skinner, nuk ishte ende kaq e njohur në fillim të shekullit të 20-të. Neuroshkenca dhe perspektiva evolucionale u zhvilluan edhe më vonë.
+
+Pra, në fillim të shekullit të 20-të, perspektiva psikoanalitike e Sigmund Freud ishte dominuese në Evropën Perëndimore.",
+"Pse Parfit kundërshton barazinë?
+A.Ai argumenton se një shoqëri e pabarabartë është e pashmangshme.
+B.Ai pohon se duke u dhënë përparësi nevojave të të varfërve, ne mund të rrisim barazinë.
+C.Ai pohon se ne jemi secili përgjegjës për varfërinë tonë.
+D.Ai e kundërshton fare idenë e barazisë.",B,"Përgjigja e saktë është D. Ai e kundërshton fare idenë e barazisë.
+
+Parfit argumenton se barazia nuk është një qëllim i rëndësishëm në vetvete. Ai mendon se duhet të fokusohemi më shumë në përmirësimin e gjendjes së njerëzve më të varfër, sesa në arritjen e një shoqërie të barabartë. Parfit nuk e sheh barazinë si një vlerë të rëndësishme në vetvete, por thekson se duhet të jemi të fokusuar në përmirësimin e gjendjes së të varfërve, pavarësisht nëse kjo çon në një shoqëri më të pabarabartë.
+
+Pra, Parfit nuk argumenton se një shoqëri e pabarabartë është e pashmangshme (A), as nuk pohon se duhet të jepet përparësi nevojave të të varfërve për të rritur barazinë (B), as nuk thotë se jemi përgjegjës për varfërinë tonë (C). Ai e kundërshton fare idenë e barazisë si një qëllim të rëndësishëm në vetvete.",
+"Efikasiteti kuantik i një detektori fotonesh është 0.1. Nëse 100 fotone dërgohen në detektor, njëra pas tjetrës, detektori do të zbulojë fotone
+A.Mesatarisht 10 herë, me një devijim të RMS prej rreth 4
+B.Mesatarisht 10 herë, me një devijim të RMS prej rreth 3
+C.Mesatarisht 10 herë, me një devijim të RMS prej rreth 1
+D.Mesatarisht 10 herë, me një devijim të RMS prej rreth 0.1",B,"Për të zgjidhur këtë problem, ne duhet të kemi parasysh eficiencën kuantike të detektorit fotonesh, e cila është 0.1 ose 10%.
+
+Kjo do të thotë se për çdo 100 fotone të dërguara në detektor, mesatarisht 10 fotone do të zbulohen (100 x 0.1 = 10).
+
+Tani, për të përcaktuar devijimin e RMS (rrënja e mesatares së katrorëve), ne mund të përdorim formulën për shpërndarjen binomiale:
+
+Devijimi i RMS = √(n * p * (1-p))
+
+Ku:
+- n = numri i provave (100 fotone)
+- p = probabiliteti i suksesit (eficienca kuantike = 0.1)
+
+Zëvendësimi i këtyre vlerave në formulë jep:
+
+Devijimi i RMS = √(100 * 0.1 * (1-0.1)) = √(10) = 3.16
+
+Pra, përgjigja e saktë është B. Mesatarisht 10 herë, me një devijim të RMS prej rreth 3.",
+"Fakti që frekuenca e absorbimit infra të kuq të klorurit të deuteriumit (DCl) zhvendoset nga ajo e klorurit të hidrogjenit (HCl) është për shkak të dallimeve në to
+A.Shpërndarja e elektroneve
+B.Moment dipole
+C.Konstantja e forcës
+D.Masë e reduktuar",D,"Përgjigja e saktë është B. Moment dipole.
+
+Fakti që frekuenca e absorbimit infra të kuq e klorurit të deuteriumit (DCl) zhvendoset nga ajo e klorurit të hidrogjenit (HCl) është për shkak të dallimeve në momentet dipolare të këtyre dy molekulave.
+
+Arsyeja është se:
+
+1. Shpërndarja e elektroneve (A) është e ngjashme në të dyja molekulat, pasi ato kanë të njëjtën strukturë.
+
+2. Konstantja e forcës (C) është e ngjashme, pasi lidhjet kimike në të dyja molekulat janë të ngjashme.
+
+3. Masa e reduktuar (D) ndryshon pak, por kjo nuk është arsyeja kryesore për ndryshimin në frekuencën e absorbimit.
+
+Ndryshimi kryesor qëndron në faktin që molekula e DCl ka moment dipolar më të madh se molekula e HCl, për shkak të masës më të madhe të deuteriumit në krahasim me hidrogjenit. Kjo ndikon në frekuencën e absorbimit infra të kuq.",
 "Një programues e shkroi programin më poshtë. Programi përdor një listë numrash të quajtur numList. Programi ka për qëllim të shfaqë shumën e numrave në listë.
  Shuma ← numList [1]
  PËR ÇDO VLERË NË NUMList
@@ -246,20 +561,65 @@ D.Të gjitha fijet bit me më shumë se zero",d,d,true
 A.Përfundimi është i saktë; Programi funksionon ashtu siç është menduar.
 B.Përfundimi është i pasaktë; Programi nuk shfaq vlerën e saktë për rastin e provës [0, 1, 4, 5].
 C.Përfundimi është i pasaktë; Përdorimi i rastit të provës [0, 1, 4, 5] nuk mjafton për të arritur në përfundimin se programi është i saktë.
-D.Përfundimi është i pasaktë; Duke përdorur rastin e provës [0, 1, 4, 5] vetëm konfirmon se programi punon për listat në rend në rritje.",c,c,true
-"Cili nga vendet e mëposhtme emetoi më shumë CO2 për frymë në vitin 2017?
-A.Japonia
-B.Kanadaja
-C.Rusia
-D.Irani",b,d,false
-"Kjo pyetje i referohet informacionit të mëposhtëm.
-""Në të vërtetë, ashtu si fatvat e [dijetarëve] të shquar që e bazojnë mendimin e tyre në arsyen dhe traditën ashtu edhe në konsensusin e komunitetit sunit bien dakord se detyrimi i lashtë i shfarosjes, shfarosjes dhe dëbimit të novacionit të keq duhet të jetë qëllimi i aspiratës sonë të lartësuar, sepse ""zelli fetar është një fitore për Besimin e Perëndisë të Gjithëmëshirshmit""; Pastaj, në përputhje me fjalët e Profetit (Paqja mbi të!) ""Kushdo që fut risinë e keqe në rendin tonë duhet të përjashtohet"" dhe ""Kushdo që bën fodullëk kundër urdhrit tonë duhet të përjashtohet,"" veprimi është bërë i nevojshëm dhe i ngutshëm...""
-Letër nga sulltani osman Selim I për Safavid Shah Ismail I, 1514
-Safavidët tërhoqën zemërimin e perandorive islamike të tilla si Perandoria Osmane dhe Mogule kryesisht për shkak se Safavidët
-A.ishin një perandori ekspansioniste e vendosur gjeografikisht midis dy ekspansionistëve të tjerë
-B.Hodhi poshtë parimet qendrore të Islamit
-C.Të krishterët e skllavëruar dhe i shndërruan në luftëtarë safavidë
-D.Ismaili e shpalli veten si kalif.",a,b,false
+D.Përfundimi është i pasaktë; Duke përdorur rastin e provës [0, 1, 4, 5] vetëm konfirmon se programi punon për listat në rend në rritje.",C,"Përgjigja e saktë është:
+
+C. Përfundimi është i pasaktë; Përdorimi i rastit të provës [0, 1, 4, 5] nuk mjafton për të arritur në përfundimin se programi është i saktë.
+
+Arsyeja:
+Edhe pse programi shfaq shumën e saktë për rastin e provës [0, 1, 4, 5], kjo nuk është e mjaftueshme për të arritur në përfundimin se programi funksionon ashtu siç është menduar. Një rast i vetëm i provës nuk mund të konfirmojë plotësisht saktësinë e programit. Programi duhet të testohet me një sërë rastesh të ndryshme, përfshirë lista me numra në rend të ndryshëm, me numra negativë, me lista të zbrazëta, etj., për të siguruar që ai funksionon siç pritet në të gjitha rastet e mundshme.",
+"Kërkimet e Garcia dhe Koelling në lidhje me aversionet e mësuara vendosën se cilat nga çiftet e mëposhtme UCS dhe CS janë më të fuqishmet dhe më të mësuarat më shpejt?
+A.Kryerja e një detyre dhe marrja e një shpërblimi ushqimor
+B.nausea dhe ushqim ose pije
+C.Lëvizje dhe tronditje
+D.Ndëshkimet dhe shpërblimet",B,"Sipas kërkimeve të Garcia dhe Koelling, çifti më i fuqishëm dhe më i mësuar më shpejt është:
+
+B. Nausea dhe ushqim ose pije
+
+Kërkimet e tyre treguan se lidhjet midis nauseas (UCS) dhe ushqimit ose pijeve (CS) formohen shumë më shpejt dhe janë më të fuqishme se lidhjet e mësuara midis kryerjes së një detyre dhe marrjes së një shpërblimi ushqimor, lëvizjes dhe tronditjes, ose ndëshkimeve dhe shpërblimeve.
+
+Kjo ndodh sepse nausea është një reagim fiziologjik i fuqishëm që ndodh shpejt pas konsumimit të ushqimit ose pijeve të dëmshme, dhe kjo lidhje mësohet shumë shpejt. Kjo është një mekanizëm mbrojtës që ndihmon organizmin të identifikojë dhe të shmangë ushqimet e dëmshme në të ardhmen.",
+"Deklarata 1 | Në një grup (ab)^{-2} = b^{-2}a^{-2}. Deklarata 2 | Në një grup (ab)^n = a^nb^n.
+A.E vërtetë, e vërtetë
+B.E rreme, e rreme
+C.E vërtetë, e rreme
+D.E rreme, e vërtetë",B,"Për të zgjidhur këtë problem, ne duhet të analizojmë të dy deklaratat.
+
+Deklarata 1: Në një grup (ab)^{-2} = b^{-2}a^{-2}
+Kjo deklaratë është e vërtetë. Në një grup, (ab)^{-2} = (ab)^(-1) * (ab)^(-1) = (b^{-1}a^{-1}) * (b^{-1}a^{-1}) = b^{-2}a^{-2}.
+
+Deklarata 2: Në një grup (ab)^n = a^nb^n
+Kjo deklaratë është e rreme. Në një grup, (ab)^n ≠ a^nb^n. Kjo është e vërtetë vetëm kur n = 1, por nuk vlen për të gjitha vlerat e n.
+
+Prandaj, përgjigja e saktë është:
+C. E vërtetë, e rreme",
+"Cili nga grupet e mëposhtme të fijeve bit nuk mund të përshkruhet me një shprehje të rregullt?
+A.Të gjitha fijet bit, numri i zerove të të cilëve është një shumëfish prej pesë
+B.Të gjitha fijet bit duke filluar me një zero dhe duke përfunduar me një
+C.Të gjitha fijet bit me një numër të barabartë zerosh
+D.Të gjitha fijet bit me më shumë se zero",D,"Përgjigja e saktë është:
+
+C. Të gjitha fijet bit me një numër të barabartë zerosh
+
+Arsyeja është se një shprehje e rregullt nuk mund të përshkruajë grupin e fijeve bit me një numër të barabartë zerosh. Kjo është për shkak se një shprehje e rregullt nuk mund të kufizojë numrin e zerove në mënyrë të saktë, por vetëm mund të specifikojë një model të caktuar të zerove dhe njësheve.
+
+Ndërsa grupet e tjera të fijeve bit mund të përshkruhen me shprehje të rregullta, si:
+
+A. Të gjitha fijet bit, numri i zerove të të cilëve është një shumëfish prej pesë
+B. Të gjitha fijet bit duke filluar me një zero dhe duke përfunduar me një
+D. Të gjitha fijet bit me më shumë se zero
+
+Pra, vetëm grupi C nuk mund të përshkruhet me një shprehje të rregullt.",
+"Një taksë e vendosur ndaj një furnizuesi ka më shumë gjasa t'i kalojë konsumatorit në formën e rritjes së çmimit nëse
+A.Elasticiteti i çmimit të kërkesës është shumë elastik.
+B.Elasticiteti i çmimit të kërkesës është shumë joelastik.
+C.Elasticiteti i çmimit të kërkesës është njësia elastike.
+D.Elasticiteti i pagës së kërkesës është shumë elastik.",B,"Përgjigja e saktë është B. Elasticiteti i çmimit të kërkesës është shumë joelastik.
+
+Kur elasticiteti i çmimit të kërkesës është shumë joelastik, kjo do të thotë që kërkesa për atë produkt nuk është shumë e ndjeshme ndaj ndryshimeve në çmim. Në këtë rast, furnizuesi ka më shumë mundësi të kalojë taksën mbi konsumatorin në formën e rritjes së çmimit, pasi konsumatorët nuk do të reagojnë shumë ndaj kësaj rritje.
+
+Në rastet kur elasticiteti i çmimit të kërkesës është shumë elastik ose njësia elastike, konsumatorët do të reagojnë më shumë ndaj ndryshimeve në çmim, duke ulur kërkesën. Kjo do të bënte që furnizuesi të kishte më pak mundësi të kalonte taksën mbi konsumatorët.
+
+Elasticiteti i pagës së kërkesës (opsioni D) nuk është i lidhur drejtpërdrejt me kalimin e taksës mbi konsumatorët.",
 "Kjo pyetje i referohet informacionit të mëposhtëm.
 Eci përkrah kolonës, pyes se çfarë po ndodh.
 Një ushtar thotë thjesht: « Ata thërrasin më shumë çdo ditë.
@@ -290,256 +650,838 @@ Poema jep dëshmi se cila nga këto në vijim në lidhje me marrëdhëniet gjino
 A.Marrëdhëniet konfuciane midis burrit dhe gruas ishin ende të forta në shoqërinë Tang.
 B.Shkrimet perandorake theksuan lindjen e bijve të aftë mbi vajzat për të përmbushur kuotat e rekrutimit.
 C.Puna bujqësore mund të ndahet si nga gratë, ashtu edhe nga burrat.
-D.Marrëdhëniet tradicionale gjinore kineze u përmbysën gjatë mbretërimit të perandoreshës Wu Zetian.",c,c,true
-"Përshtatjet e bimëve për të minimizuar humbjen e ujit në mjedise me temperatura të larta përfshijnë cilën nga më poshtë?
-A.Stomata të shumta
-B.Prerëse të holla
-C.Spines në vend të gjetheve
-D.Raporte të mëdha sipërfaqe-vëllim",c,d,false
-"Mutacionet janë gabime në ADN që:
-A.Janë gjithmonë të dëmshme.
-B.Ndodh vetëm në prani të karcinogjenëve.
-C.Rritja e rritjes së tumorit.
-D.Ndodh spontanisht me një ritëm të ulët.",d,d,true
-"Për cilin nga këto dy skenarë personazhi kryesor (që përdor I/me/my) bën diçka qartësisht të gabuar moralisht, sipas standardeve të zakonshme morale në SHBA që nga viti 2020? Skenari 1 | Ndërsa prindërit po flinin, shkova duke bërë shaka. Skenari 2 | Derdha detergjent në lavatriçen plot me rrobat e shokut të dhomës.
-A.Gabim, gabim
-B.Gabim, jo gabim
-C.Jo gabim, gabim
-D.Jo gabim, jo gabim",d,b,false
-"Për cilin nga këto dy skenarë personazhi kryesor (që përdor I/me/my) bën diçka qartësisht të gabuar moralisht, sipas standardeve të zakonshme morale në SHBA që nga viti 2020? Skenari 1 | Ndonjëherë përpiqem të them të vërtetën, nëse nuk më fut në telashe. Skenari 2 | E putha të dashurën time në shfaqjen magjike.
-A.Gabim, gabim
-B.Gabim, jo gabim
-C.Jo gabim, gabim
-D.Jo gabim, jo gabim",b,b,true
-" Në diskutimin e tij për diskriminimin në luftë, Valls sugjeron se
-A.Nuk ka asnjë ndryshim midis luftëtarëve dhe jokombatantëve.
-B.Dallimi midis luftëtarëve dhe jokombatantëve është një çështje e shkallës.
-C.Dallimi midis luftëtarëve dhe jokombatantëve është kategorik dhe i qartë.
-D.""terrorizmi"" duhet të përkufizohet si dhunë pa dallim.",b,b,true
-"Cila nga këto është e vërtetë për hypothyroidism?
-A.Humbje peshe
-B.Myxoedema para-tibiale
-C.Një nivel i ngritur TSH
-D.Një neveri ndaj vendeve të ngrohta",c,c,true
-"Vlerat e vlerësuara të shtëpive në një qytet kanë një mesatare prej 125,000 $ me një devijim standard prej 23,000 $. Për shkak të një kontrate të re mësuesish, qarkut shkollor i duhen 10% shtesë në fonde krahasuar me vitin e mëparshëm. Për të mbledhur këto para shtesë, qyteti udhëzon zyrën e vlerësimit të mbledhë të gjitha vlerat e vlerësuara të shtëpive me 5,000 dollarë. Cili do të jetë devijimi i ri standard i vlerave të vlerësuara të shtëpive në qytet?
-A.23,000 dollarë 
-B.25,300 dollarë 
-C.28,000 dollarë 
-D.30,300 dollarë ",a,b,false
-"Për cilin nga këto dy skenarë personazhi kryesor (që përdor I/me/my) bën diçka qartësisht të gabuar moralisht, sipas standardeve të zakonshme morale në SHBA që nga viti 2020? Skenari 1 | Pashë të famshmin Elton John jashtë një arene koncertesh dhe i bëra një fotografi pa e pyetur. Skenari 2 | Raportova një roje tjetër që po fut fshehurazi drogën në një burg dhe ua shet të burgosurve.
-A.Gabim, gabim
-B.Gabim, jo gabim
-C.Jo gabim, gabim
-D.Jo gabim, jo gabim",d,c,false
-" Sipas Nussbaum, trajtimi i dikujt si objekt është
-A.Të mjaftueshme për objektivizim seksual.
-B.E nevojshme për objektivizim seksual.
-C.Nuk është e nevojshme për objektivizim seksual.
-D.Të gjitha këto më sipër.",c,c,true
-"Për cilin nga këto dy skenarë personazhi kryesor (që përdor I/me/my) bën diçka qartësisht të gabuar moralisht, sipas standardeve të zakonshme morale në SHBA që nga viti 2020? Skenari 1 | Vrapova mbi tapetin e freskët me një tog lëndinë. Skenari 2 | Urinova në dorë që ta testoja për infeksion.
-A.Gabim, gabim
-B.Gabim, jo gabim
-C.Jo gabim, gabim
-D.Jo gabim, jo gabim",a,b,false
-"Konsumi më i madh i qumështit
+D.Marrëdhëniet tradicionale gjinore kineze u përmbysën gjatë mbretërimit të perandoreshës Wu Zetian.",C,"Bazuar në informacionin e dhënë në poemen ""Balada e karrocave të ushtrisë"" të Du Fu, përgjigja më e saktë është:
 
-A.Është raportuar të jetë i lidhur me një incidencë më të lartë të thyerjes dhe vdekshmërisë më të lartë në disa studime
-B.Gjatë pubertetit duket të jetë i lidhur me densitetin më të lartë mineral të kockave në jetën e mëvonshme
-C.Është vazhdimisht i lidhur me një shkallë më të ulët të frakturave
-D.Në vendet me shkallën më të lartë të thyerjes sugjeron se konsumi i qumështit është i dobishëm për skeletin.",a,b,false
-"Nagel pohon se problemi i fatit moral është i lidhur ngushtë me problemin e:
-A.Ekzistenca e Perëndisë.
-B.Liria e vullnetit.
-C.Egoizmi psikologjik.
-D.Universalët.",b,b,true
+C. Puna bujqësore mund të ndahet si nga gratë, ashtu edhe nga burrat.
+
+Në poezi, thuhet se ""Edhe nëse gratë janë aq të forta sa të mbajnë një hoe dhe plug, të mbjellat rriten në çdo drejtim, fushat janë të gjitha një rrëmujë."" Kjo tregon se gratë ishin të përfshira në punët bujqësore, duke punuar me hoe dhe pllug, ashtu si burrat.
+
+Përgjigjet e tjera nuk përputhen plotësisht me informacionin e dhënë në poezi:
+
+A. Marrëdhëniet konfuciane midis burrit dhe gruas ishin ende të forta në shoqërinë Tang.
+B. Shkrimet perandorake theksuan lindjen e bijve të aftë mbi vajzat për të përmbushur kuotat e rekrutimit.
+D. Marrëdhëniet tradicionale gjinore kineze u përmbysën gjatë mbretërimit të perandoreshës Wu Zetian.",
+"Cila nga këto ka më shumë gjasa të prodhojë një rritje ekonomike më të fortë me kalimin e kohës?
+A.Konsumi më i shpejtë i burimeve natyrore.
+B.Norma më të larta analfabetizmi të të rriturve.
+C.Një stoqe në rënie e mallrave të kapitalit.
+D.Kreditë e taksave të investimit.",D,"Nga alternativat e dhëna, alternativa D ""Kreditë e taksave të investimit"" ka më shumë gjasa të prodhojë një rritje ekonomike më të fortë me kalimin e kohës.
+
+Arsyeja është se kreditë e taksave të investimit nxisin investimet dhe rritjen ekonomike në afatgjatë. Kur bizneset dhe individët kanë stimuj fiskalë për të investuar, ata janë më të prirur të bëjnë investime produktive që rrisin kapacitetin prodhues dhe produktivitetin e ekonomisë.
+
+Nga ana tjetër, alternativat e tjera nuk janë të favorshme për rritjen ekonomike:
+
+A. Konsumi më i shpejtë i burimeve natyrore mund të çojë në shterimin e burimeve dhe vështirësi në zhvillimin afatgjatë.
+
+B. Norma më të larta të analfabetizmit të të rriturve do të ulnin aftësitë dhe produktivitetin e fuqisë punëtore.
+
+C. Një stoqe në rënie e mallrave të kapitalit do të kufizonte kapacitetin prodhues dhe investimet në ekonomi.
+
+Prandaj, nga alternativat e dhëna, kreditë e taksave të investimit janë më të favorshme për të nxitur një rritje ekonomike më të fortë në afatgjatë.",
+"Një pjesë e ujit të Marsit është ngrirë në tokë dhe kapakët e akullit dhe disa humbën për shkak të zhveshjes së erës diellore, por një pjesë e madhe e ujit origjinal mendohet të ketë humbur nëpërmjet një mekanizmi tjetër. Çfarë ndodhi me këtë ujë ""të humbur""?
+A.Ajo u zhvesh nga fusha magnetike kur u zvogëlua me shpejtësi në forcë
+B.Ai u thye në hidrogjen dhe oksigjen nga drita ultravjollcë dhe hidrogjeni humbi nëpërmjet ikjes termike
+C.Ajo u konsumua nga një qytetërim martianësh të etur
+D.Ai u avullua gjatë një periudhe vullkanizmi intensiv dhe u humb nga hapësira nëpërmjet ikjes termike",B,"Përgjigja e saktë është B. Ai u thye në hidrogjen dhe oksigjen nga drita ultravjollcë dhe hidrogjeni humbi nëpërmjet ikjes termike.
+
+Shpjegimi:
+
+Kur uji i Marsit është ekspozuar ndaj dritës ultravjollcë nga Dielli, ai mund të disociohet në hidrogjen dhe oksigjen. Hidrogjeni, duke qenë një gaz i lehtë, mund të ikë nga atmosfera e Marsit nëpërmjet procesit të ikjes termike, duke u humbur në hapësirë. Kjo është një nga mënyrat kryesore se si uji i Marsit mund të ketë humbur me kalimin e kohës.
+
+Opsionet e tjera nuk janë të sakta:
+
+A. Fusha magnetike e Marsit është shumë e dobët për të mbajtur ujin në atmosferë.
+C. Nuk ka dëshmi për ekzistencën e një qytetërimi të tillë në Mars.
+D. Nuk ka dëshmi për një periudhë të tillë intensive vullkanike në Mars.
+
+Pra, procesi i disocimit të ujit nga drita ultravjollcë dhe ikja termike e hidrogjenit është shpjegimi më i besueshëm për humbjen e ujit të Marsit.",
+"Paaftësia e mësuar ka shumë të ngjarë të lidhet drejtpërdrejt me
+A.Efekti Barnum.
+B.Paragjykimi vetëshërbyes.
+C.Një karkaleca e jashtme kontrolli.
+D.Konsideratë pozitive e pakushtëzuar.",C,"Përgjigja e saktë është:
+
+B. Paragjykimi vetëshërbyes.
+
+Paaftësia e mësuar (learned helplessness) është një gjendje psikologjike në të cilën individi beson se nuk ka kontroll mbi situatën e tij dhe se nuk mund të ndikojë në rezultatin e saj, pavarësisht se ai mund të ketë mundësi për të ndikuar. Kjo gjendje lidhet drejtpërdrejt me paragjykimin vetëshërbyes, ku individi zhvillon besime negative për aftësitë e tij dhe për mundësinë e ndikimit në rezultatet.
+
+Efekti Barnum nuk ka lidhje të drejtpërdrejtë me paaftësinë e mësuar. Ai ka të bëjë me prirjen e njerëzve për të besuar në përshkrime të përgjithshme dhe të paqarta që u përshtaten atyre.
+
+Një karkaleca e jashtme kontrolli nuk është e lidhur me paaftësinë e mësuar. Kjo ka të bëjë me besimin se kontrolli mbi ngjarjet është i jashtëm, jo i brendshëm.
+
+Konsiderata pozitive e pakushtëzuar nuk është e lidhur me paaftësinë e mësuar. Ajo ka të bëjë me një qasje terapeutike që synon të zhvillojë një marrëdhënie të ngrohtë dhe mbështetëse me klientin.",
+"Ekonomia është në një recesion të thellë. Duke pasur parasysh këtë situatë ekonomike cila nga deklaratat e mëposhtme rreth politikës monetare është e saktë?
+A.Politika ekspansioniste vetëm sa do ta përkeqësonte recesionin.
+B.Politika ekspansioniste rrit shumë kërkesën e përgjithshme nëse investimi është i ndjeshëm ndaj ndryshimeve të normës së interesit.
+C.Politika kontraktuese është stimuli i duhur për investimin dhe konsumin.
+D.Nëse kërkesa për para është krejtësisht elastike politika monetare ekspansioniste mund të jetë mjaft e efektshme.",B,"Deklarata e saktë në këtë situatë ekonomike të recesionit të thellë është:
+
+D. Nëse kërkesa për para është krejtësisht elastike, politika monetare ekspansioniste mund të jetë mjaft e efektshme.
+
+Arsyetimi:
+
+Në një recesion të thellë, politika monetare ekspansioniste (ulja e normave të interesit, rritja e ofertës së parasë) mund të jetë e efektshme për të nxitur kërkesën e përgjithshme, nëse kërkesa për para është krejtësisht elastike.
+
+Kjo do të thotë që ndryshimet në normën e interesit do të kenë një ndikim të madh në investimin dhe konsumin, duke rritur kështu kërkesën e përgjithshme dhe nxitur daljen nga recesioni.
+
+Ndërsa deklaratat e tjera nuk janë të sakta:
+
+A. Politika ekspansioniste nuk do ta përkeqësonte recesionin, por përkundrazi do të ndihmonte në daljen nga ai.
+
+B. Politika ekspansioniste rrit kërkesën e përgjithshme nëse investimi është i ndjeshëm ndaj ndryshimeve të normës së interesit, por kjo varet nga elasticiteti i kërkesës për para.
+
+C. Politika kontraktuese nuk është stimuli i duhur për investimin dhe konsumin në një recesion të thellë.",
+"Duke udhëtuar me një shpejtësi fillestare prej 1.5 × 10^6 m/s, një proton hyn në një rajon të fushës magnetike konstante me magnitudë 1.5 T. Nëse vektori fillestar i shpejtësisë së protonit bën një kënd prej 30° me fushën magnetike, llogaritni shpejtësinë e protonit 4 s pas hyrjes në fushën magnetike.
+A.5.0 × 10^6 m/s
+B.7.5 × 10^6 m/s
+C.1.5 × 10^6 m/s
+D.3.0 × 10^6 m/s",C,"Për të zgjidhur këtë problem, ne do të përdorim ligjet e lëvizjes së një ngarkese të lëvizshme në një fushë magnetike.
+
+Të dhënat e problemit:
+- Shpejtësia fillestare e protonit: v0 = 1.5 × 10^6 m/s
+- Këndi midis vektorit të shpejtësisë fillestare dhe fushës magnetike: θ = 30°
+- Fusha magnetike konstante: B = 1.5 T
+- Koha: t = 4 s
+
+Për të gjetur shpejtësinë e protonit pas 4 sekondash, ne do të përdorim formulën:
+
+v = √(v0^2 + (ω × t)^2)
+
+Ku:
+- v = shpejtësia e protonit pas 4 sekondash
+- v0 = shpejtësia fillestare e protonit
+- ω = frekuenca ciklotrone e protonit
+- t = koha
+
+Frekuenca ciklotrone e protonit llogaritet me formulën:
+
+ω = qB / m
+
+Ku:
+- q = ngarkesa e protonit
+- B = fusha magnetike
+- m = masa e protonit
+
+Zëvendësojmë vlerat e dhëna:
+
+ω = (1.602 × 10^-19 C × 1.5 T) / (1.673 × 10^-27 kg)
+ω = 1.4 × 10^6 rad/s
+
+Tani, zëvendësojmë të gjitha vlerat në formulën e shpejtësisë:
+
+v = √[(1.5 × 10^6 m/s)^2 + (1.4 × 10^6 rad/s × 4 s)^2]
+v = √[(2.25 × 10^12 m^2/s^2) + (1.96 × 10^12 m^2/s^2)]
+v = √(4.21 × 10^12 m^2/s^2)
+v = 2.05 × 10^6 m/s
+
+Pra, shpejtësia e protonit pas 4 sekondash është 2.05 × 10^6 m/s, që përkon me përgjigjen D.",
+"Energjia e çliruar nga prishja e fosfateve me energji të lartë, ATP dhe fosphocreatine, mund të mbajë ushtrimin maksimal të ushtrimit për rreth:
+A.1-2 sekonda.
+B.5-10 sekonda.
+C.30-40 sekonda.
+D.50-60 sekonda.",B,"Përgjigja e saktë është:
+
+B. 5-10 sekonda.
+
+Energjia e çliruar nga prishja e fosfateve me energji të lartë, si ATP dhe fosfokreatina, mund të mbajë ushtrimin maksimal për rreth 5-10 sekonda.
+
+Kjo është e njohur si sistemi i energjisë së menjëhershme ose sistemi i fosfokreatinës, i cili është sistemi kryesor i prodhimit të energjisë për aktivitetet fizike me intensitet të lartë dhe të shkurtër.
+
+Pas 5-10 sekondave, sistemi i glikolizës dhe sistemi i oksidimit të karbohidrateve, yndyrave dhe proteinave bëhen më të rëndësishëm për të siguruar energjinë e nevojshme për ushtrimin e vazhduar.",
 "Sipas Singer, respektimi i parimit të tij kërkon:
 A.Ndryshime modeste në zakonet tona personale, por jo në shoqërinë tonë në tërësi.
 B.Ndryshime modeste në zakonet tona personale, si dhe në shoqëri.
 C.Ndryshime drastike në zakonet tona personale, por jo në shoqërinë tonë.
-D.Ndryshime drastike si në zakonet tona personale, ashtu edhe në shoqërinë tonë.",d,b,false
+D.Ndryshime drastike si në zakonet tona personale, ashtu edhe në shoqërinë tonë.",D,"Sipas parimit të Singer, respektimi i tij kërkon ndryshime modeste si në zakonet tona personale, ashtu edhe në shoqëri. Pra, përgjigja e saktë është B.",
 "Cila nga deklaratat e mëposhtme për metabolizmin e glukozës është e saktë?
 
 A.Glucagon rrit shkallën e glycolysis
 B.Glycolysis kërkon NADP+
 C.Në glycolysis, glukoza është shtrënguar në dy produkte tre-karboni
-D.Produkti përfundimtar i glycolysis në qelizat e kuqe të gjakut është pyruvate",c,d,false
+D.Produkti përfundimtar i glycolysis në qelizat e kuqe të gjakut është pyruvate",C,"Deklarata e saktë për metabolizmin e glukozës është:
+
+D. Produkti përfundimtar i glycolysis në qelizat e kuqe të gjakut është pyruvate.
+
+Shpjegimi:
+
+A. Glucagon rrit shkallën e glukoneogjenezës, jo glycolysis.
+B. Glycolysis kërkon NAD+, jo NADP+.
+C. Në glycolysis, glukoza është e shtrënguar në dy molekula piruvat, jo dy produkte tre-karboni.
+
+Pra, deklarata D është e saktë, ndërsa të tjerat janë të gabuara.",
+" Sipas Nussbaum, trajtimi i dikujt si objekt është
+A.Të mjaftueshme për objektivizim seksual.
+B.E nevojshme për objektivizim seksual.
+C.Nuk është e nevojshme për objektivizim seksual.
+D.Të gjitha këto më sipër.",C,"Sipas Nussbaum, trajtimi i dikujt si objekt nuk është i mjaftueshëm për objektivizim seksual. Ajo argumenton se objektivizimi seksual përfshin më shumë se trajtimin e dikujt si objekt, por përfshin edhe aspekte të tjera si instrumentalizimi, mohimi i autonomisë, reduktimi në pamje, mohimi i integritetit, dhe mohimi i subjektivitetit.
+
+Pra, përgjigja e saktë është:
+
+C. Nuk është e nevojshme për objektivizim seksual.",
+"Nagel pohon se problemi i fatit moral është i lidhur ngushtë me problemin e:
+A.Ekzistenca e Perëndisë.
+B.Liria e vullnetit.
+C.Egoizmi psikologjik.
+D.Universalët.",B,"Përgjigja e saktë është B. Liria e vullnetit.
+
+Argumenti i Nagel-it për problemin e fatit moral është i lidhur ngushtë me çështjen e lirisë së vullnetit. Nëse nuk kemi liri të vullnetit, atëherë si mund të jemi përgjegjës moralisht për veprimet tona? Kjo është baza e problemit të fatit moral që Nagel diskuton.
+
+Çështjet e ekzistencës së Perëndisë, egoizmit psikologjik dhe universalëve nuk janë të lidhura drejtpërdrejt me problemin e fatit moral sipas Nagel-it. Ato mund të jenë të rëndësishme për diskutime të tjera filozofike, por nuk janë qendrore për argumentin e Nagel-it për problemin e fatit moral.",
+" Në diskutimin e tij për diskriminimin në luftë, Valls sugjeron se
+A.Nuk ka asnjë ndryshim midis luftëtarëve dhe jokombatantëve.
+B.Dallimi midis luftëtarëve dhe jokombatantëve është një çështje e shkallës.
+C.Dallimi midis luftëtarëve dhe jokombatantëve është kategorik dhe i qartë.
+D.""terrorizmi"" duhet të përkufizohet si dhunë pa dallim.",B,"Përgjigja e saktë është:
+
+B. Dallimi midis luftëtarëve dhe jokombatantëve është një çështje e shkallës.
+
+Në diskutimin e tij për diskriminimin në luftë, Valls sugjeron se dallimi midis luftëtarëve dhe jokombatantëve nuk është kategorik dhe i qartë, por më shumë një çështje e shkallës. Ai nuk sugjeron se nuk ka asnjë ndryshim midis tyre (përgjigja A) apo se ""terrorizmi"" duhet të përkufizohet si dhunë pa dallim (përgjigja D).",
+"Përshtatjet e bimëve për të minimizuar humbjen e ujit në mjedise me temperatura të larta përfshijnë cilën nga më poshtë?
+A.Stomata të shumta
+B.Prerëse të holla
+C.Spines në vend të gjetheve
+D.Raporte të mëdha sipërfaqe-vëllim",C,"Përgjigja e saktë është:
+
+D. Raporte të mëdha sipërfaqe-vëllim
+
+Bimët që jetojnë në mjedise me temperatura të larta dhe me mungesë uji kanë zhvilluar disa përshtatje për të minimizuar humbjen e ujit. Një nga këto përshtatje është raporti i madh sipërfaqe-vëllim.
+
+Kjo do të thotë që bimët kanë një sipërfaqe të madhe në raport me vëllimin e tyre, gjë që u lejon të kryejnë fotosintezën dhe të marrin ujin dhe lëndët ushqyese, por në të njëjtën kohë të minimizojnë humbjen e ujit nga transpiracioni.
+
+Përshtatjet e tjera të listuara, si stomata të shumta, prerëse të holla dhe spine në vend të gjetheve, nuk janë përgjigja e saktë për këtë pyetje.",
+"Për cilin nga këto dy skenarë personazhi kryesor (që përdor I/me/my) bën diçka qartësisht të gabuar moralisht, sipas standardeve të zakonshme morale në SHBA që nga viti 2020? Skenari 1 | Ndërsa prindërit po flinin, shkova duke bërë shaka. Skenari 2 | Derdha detergjent në lavatriçen plot me rrobat e shokut të dhomës.
+A.Gabim, gabim
+B.Gabim, jo gabim
+C.Jo gabim, gabim
+D.Jo gabim, jo gabim",D,"Sipas standardeve të zakonshme morale në SHBA që nga viti 2020, skenari 1 nuk përbën një veprim të gabuar moralisht, ndërsa skenari 2 përbën një veprim të gabuar moralisht.
+
+Në skenarin 1, personazhi kryesor shkon duke bërë shaka ndërsa prindërit po flinin. Edhe pse mund të jetë një veprim i pakujdesshëm, nuk përbën një shkelje të rëndë të standardeve morale.
+
+Në skenarin 2, personazhi kryesor derdh detergjent në lavatriçen plot me rrobat e shokut të dhomës. Kjo është një veprim i qartë i dëmshëm ndaj të tjerëve dhe përbën një shkelje të standardeve morale të zakonshme.
+
+Prandaj, përgjigja e saktë është:
+
+B. Gabim, jo gabim",
 "Për cilin nga këto dy skenarë personazhi kryesor (që përdor I/me/my) bën diçka qartësisht të gabuar moralisht, sipas standardeve të zakonshme morale në SHBA që nga viti 2020? Skenari 1 | U përplasa me pushimet e mia për të humbur topin kur hyri në rrugë. Skenari 2 | I mësova fëmijët e mi të luanin xylophone.
 A.Gabim, gabim
 B.Gabim, jo gabim
 C.Jo gabim, gabim
-D.Jo gabim, jo gabim",d,b,false
-"Cila nga këto është e fundit që është zënë nga qeniet njerëzore?
-A.Guineja e Re
-B.Australia
-C.Zelanda e Re
-D.Timori",c,d,false
-"Qytetërimi nubian:
-A.Parapriu dhe nxiti rritjen e kulturës egjiptiane.
-B.Ishte rezultat i kolonizimit të Mesopotamisë në jug.
-C.Zhvilluar në përgjigje, por jo në imitim të kulturës egjiptiane.
-D.Nuk kishte kontakte me kulturat fqinje.",c,c,true
-"Për cilin nga këto dy skenarë personazhi kryesor (që përdor I/me/my) bën diçka qartësisht të gabuar moralisht, sipas standardeve të zakonshme morale në SHBA që nga viti 2020? Skenari 1 | Kur frigoriferi i restorantit tim u prish, shërbeva mishin e ngrohtë edhe pse e dija se ishte shumë i pasigurt. Skenari 2 | Vendosa të ndez një zjarr në pyll.
+D.Jo gabim, jo gabim",D,"Sipas standardeve të zakonshme morale në SHBA që nga viti 2020, përgjigja e saktë është:
+
+B. Gabim, jo gabim
+
+Në skenarin 1, personazhi kryesor bën diçka të gabuar moralshëm duke u përplasur me pushimet e tij për të humbur topin kur hyri në rrugë. Kjo është një veprim i gabuar dhe i papranueshëm sipas standardeve morale.
+
+Në skenarin 2, personazhi kryesor mëson fëmijët e tij të luajnë xylophone, që nuk është një veprim i gabuar moralisht. Mësimi i fëmijëve të luajnë instrumente muzikore është një veprim i pranueshëm dhe i mirë.
+
+Pra, në skenarin 1 kemi një veprim të gabuar moralisht, ndërsa në skenarin 2 nuk kemi një veprim të gabuar moralisht.",
+"Për cilin nga këto dy skenarë personazhi kryesor (që përdor I/me/my) bën diçka qartësisht të gabuar moralisht, sipas standardeve të zakonshme morale në SHBA që nga viti 2020? Skenari 1 | Vrapova mbi tapetin e freskët me një tog lëndinë. Skenari 2 | Urinova në dorë që ta testoja për infeksion.
 A.Gabim, gabim
 B.Gabim, jo gabim
 C.Jo gabim, gabim
-D.Jo gabim, jo gabim",a,a,true
+D.Jo gabim, jo gabim",A,"Sipas standardeve të zakonshme morale në SHBA që nga viti 2020, skenari 2 ku personazhi urinon në dorë për të testuar për infeksion është ai që bën diçka qartësisht të gabuar moralisht.
+
+Prandaj, përgjigja e saktë është:
+
+B. Gabim, jo gabim
+
+Arsyetimi:
+- Skenari 1, ku personazhi vrapoi mbi tapetin e freskët të lëndës, nuk është një veprim që konsiderohet qartësisht i gabuar moralisht sipas standardeve të zakonshme në SHBA.
+- Skenari 2, ku personazhi urinon në dorë për të testuar për infeksion, është një veprim që mund të konsiderohet i papërshtatshëm dhe i papërshkrueshëm moralisht.",
+"Mutacionet janë gabime në ADN që:
+A.Janë gjithmonë të dëmshme.
+B.Ndodh vetëm në prani të karcinogjenëve.
+C.Rritja e rritjes së tumorit.
+D.Ndodh spontanisht me një ritëm të ulët.",D,"Përgjigja e saktë është:
+
+D. Ndodh spontanisht me një ritëm të ulët.
+
+Shpjegimi:
+
+A. Kjo nuk është e saktë. Mutacionet nuk janë gjithmonë të dëmshme, ato mund të jenë edhe të dobishme ose neutrale.
+
+B. Kjo nuk është e saktë. Mutacionet mund të ndodhin edhe në mungesë të karcinogjenëve, si rezultat i gabimeve gjatë replikimit të ADN-së ose ndikimit të faktorëve të tjerë.
+
+C. Kjo nuk është e saktë. Mutacionet mund të rritin ose të zvogëlojnë rritjen e tumorit, varësisht nga lloji i mutacionit.
+
+D. Kjo është e saktë. Mutacionet ndodhin spontanisht në një ritëm të ulët, edhe në mungesë të faktorëve të jashtëm, si rezultat i gabimeve gjatë replikimit të ADN-së.",
 "Cila nga deklaratat e mëposhtme është e saktë sa i përket ndryshimeve në vlerësimet e kontabilitetit?
 A.Shumica e ndryshimeve në vlerësimet e kontabilitetit llogariten në mënyrë retrospektive.
 B.Sa herë që është e pamundur të përcaktohet nëse ka ndodhur një ndryshim në një vlerësim apo një ndryshim në parimin e kontabilitetit, ndryshimi duhet të konsiderohet një ndryshim në parim.
 C.Sa herë që është e pamundur të përcaktohet nëse ka ndodhur një ndryshim në vlerësimin e kontabilitetit apo një ndryshim në parimin e kontabilitetit, ndryshimi duhet të konsiderohet si një ndryshim i vlerësimit.
-D.Është më e lehtë të bësh dallimin midis një ndryshimi në vlerësimin e kontabilitetit dhe një ndryshimi në parimin e kontabilitetit sesa të bësh dallimin midis një ndryshimi në vlerësimin e kontabilitetit dhe një korrigjimi të një gabimi.",c,c,true
-"Një njësi qeveritare është e detyruar të përfshijë një deklaratë të flukseve të parave të gatshme në cilën nga deklaratat financiare të mëposhtme?
-A.Deklaratat financiare të fondit qeveritar.
-B.Deklaratat financiare në mbarë qeverinë.
-C.Deklarimet financiare të fondit të pronësisë.
-D.Deklarimet financiare të fondit fiduciar.",c,b,false
-"Një kandidat i shkruar është meksikano-amerikan dhe është i mendimit se ai ka nevojë për një pjesëmarrje të madhe të votuesve meksikanë në mënyrë që të fitojë zgjedhjet. Si rezultat, menaxheri i fushatës së tij, vendos t'i dërgojë me postë çdo votuesi meksikan të regjistruar një ngjitës lotësh, i cili mban emrin dhe zyrën e kandidatit për të cilin ai kandidon. Meqë shumë meksikanë vendas nuk janë të aftë në leximin dhe shkrimin e anglishtes, menaxheri i fushatës beson se shumë nga votuesit do ta kenë të vështirë të shkruajnë emrin dhe zyrën e kandidatit në votim. Si rezultat, administratori i fushatës ka ngritur një fushatë të gjerë mediatike për të informuar votuesit se si t'i aplikojnë stikerat në votim. Pesë muaj para zgjedhjeve një zyrtar zgjedhor njofton komitetin e fushatës së kandidatit se ngjitësit e lotimit nuk përputhen me statutin e shtetit. Në letrën e saj, zyrtarja shpjegon se zyrtarët shtetërorë të zgjedhjeve janë të mendimit se është e nevojshme që votuesit potencialë të shkruajnë emrin e kandidatit me bojë. Prandaj, ajo arrin në përfundimin se stikerat nuk përputhen me kërkesat e përcaktuara me ligj. Tre javë më vonë, kandidati ngriti padi në gjykatën federale të qarkut kundër zyrtarëve shtetërorë të zgjedhjeve duke pretenduar se interpretimi i tyre i statutit të shtetit shkel kushtetutën amerikane. Cili nga më poshtë, nëse vendoset, paraqet argumentin më të fortë kushtetues që mbështet interpretimin e statutit nga zyrtari zgjedhor?
-A.Pjesëmarrja në votime midis votuesve të regjistruar meksikanë amerikanë që nuk kanë aftësi në anglisht ka qenë më pak se 1% e të gjithë totalit të shtetit në zgjedhjet e fundit.
-B.Një statut shtetëror kërkon që çdo kabinë votimi të pajiset me një stilolaps bojë për të lehtësuar shkrimin në vota.
-C.Duke qenë se një numër i madh votash me shkrim në përgjithësi rrisin kohën e nevojshme për të numëruar të gjitha votat, është e nevojshme të hidhen vota të tilla në një mënyrë uniforme.
-D.Potenciali për mashtrim votash është shumë më i madh me stikera të preprintuara.",d,c,false
-"Ky juridiksion ka në fuqi statutin penal të mëposhtëm: « Një person nuk është përgjegjës për sjelljen penale nëse në kohën e një sjelljeje të tillë, si pasojë e sëmundjeve mendore ose defekteve, atij i mungon aftësia thelbësore për të vlerësuar padrejtësinë e sjelljes së tij ose për të përputhur sjelljen e tij me kërkesat e ligjit. » Një pasdite, një i pandehur po kujdesej për nipin e tij pesëvjeçar. Ndërsa po luanin me kapje jashtë, i pandehuri e hodhi topin mbi kokën e nipit të tij dhe u rrokullis në rrugë. Instinktivisht, nipi vrapoi pas topit, por u përplas mbi gutter dhe ra në rrugë. Kur u tret, nipi e ndrydhi rëndë kyçin e këmbës dhe nuk mund të ngrihej në këmbë. Pak çaste më vonë, një kamion i madh plehrash po mbështetej dhe vrapoi mbi nipin, duke e vrarë. Edhe pse i pandehuri pa gjendjen e vështirë të nipit të tij, ai nuk bëri asnjë përpjekje për ta shpëtuar atë. Më pas, i pandehuri u akuzua për vrasje të pavullnetshme. Në gjyq, i pandehuri dëshmoi se ishte aq i tronditur kur pa nipin e tij të binte pranë kamionit të plehrave, saqë ngriu dhe nuk ishte në gjendje të lëvizte derisa ishte tepër vonë. Pas dëshmisë së të pandehurit, një dëshmitar ekspert dëshmoi për mbrojtjen se reagimet e llojit të përshkruar nga i pandehuri nuk janë të pazakonta kur ndodh një ngjarje vërtet tronditëse. Nëse juria beson dëshminë e të pandehurit dhe dëshmitarit të tij ekspert, mbrojtja më e mirë e të pandehurit është cila nga këto?
-A.I pandehuri vuante nga çmenduria e përkohshme.
-B.Të pandehurit i mungonte gjendja mendore e nevojshme për kryerjen e krimit.
-C.Mosveprimi i të pandehurit nuk ishte vullnetar.
-D.Përgjegjësia penale e të pandehurit u hoq nga ajo e shoferit të kamionit.",c,b,false
-"Vozitja neglizhente e një automobilisti plagosi rëndë një shofer tjetër. Motoristi u citua për udhëtimin në korsinë e gabuar dhe pagoi një gjobë. Automobilisti kishte një kufi të politikës prej vetëm 15,000 $ për përgjegjësinë e palës së tretë në politikën e tij të sigurimit. Pasi i dha siguruesit të motoristit një raport të plotë mjekësor, të gjitha faturat mjekësore, të dhënat mjekësore dhe prova të tjera të kërkuara të dëmit, kërkuesi i dëmtuar kërkoi kufijtë e politikës. Kërkuesi dha njoftim se do të paraqitej një pretendim i besimit të keq nëse kufijtë e politikës nuk do të paguheshin menjëherë. Kompania e sigurimeve refuzoi pagesën pa shpjegim. Një juri i dha pretenduesit të plagosur 200,000 dollarë. Kërkuesi i dëmtuar mori një detyrë të nënshkruar nga motoristi neglizhent duke i dhënë kërkuesit çdo të drejtë që motoristi mund të ketë pasur ndaj siguruesit të tij. A ka të ngjarë që gjykata ta detyrojë kompaninë e sigurimit të paguajë shumën e plotë të vendimit të jurisë për personin e dëmtuar sipas këtyre fakteve?
-A.Kufiri i politikës është 15,000 $ dhe kjo është e gjitha që mund të mblidhet nga personi i dëmtuar. Nuk ka asnjë veprim për keqbesim në një kontratë sigurimi.
-B.Kompania e sigurimeve shkeli besëlidhjen e nënkuptuar të mirëbesimit dhe të trajtimit të drejtë që është e nënkuptuar në çdo kontratë sigurimi dhe duhet të paguajë shumën e plotë të gjykimit.
-C.Besimi i keq është personal për palën e siguruar dhe siguruesi i tij caktimi ishte i pavlefshëm, dhe personi i dëmtuar nuk ka asnjë pretendim për ta detyruar siguruesin të paguajë.
-D.Pala e dëmtuar duhet të zbatojë të gjithë gjykimin e tij ndaj motoristit dhe mund të mos e ndjekë kurrë siguruesin për këtë shumë.",c,b,false
-"Për të inkurajuar regjistrimin në kolegj, një shtet jep një përjashtim nga taksat prej 200 $ për taksat e shtetit për ata që janë studentë me kohë të plotë në kolegjet brenda shtetit. Studenteve femra që ndjekin gjysmën e kohës u lejohet ende një përjashtim nga taksat prej 100 dollarësh, ndërsa studentëve meshkuj që ndjekin gjysmën e kohës nuk u lejohet më asnjë përjashtim nga taksat. Cili nga më poshtë përmbledh më saktë rregullin e së drejtës kushtetuese në lidhje me përjashtimin nga taksat e shtetit për studentët që regjistrohen në gjysmë kohe?
-A.Përjashtimi nga taksat do të invalidohej si një mohim i procesit të rregullt.
-B.Përjashtimi nga taksat do të invalidohej si shkelje e klauzolës së mbrojtjes së barabartë.
-C.Masa e taksës do të përmbahej si brenda fushës së procesit të rregullt thelbësor.
-D.Masa e taksës do të përmbahej si brenda pushtetit të një bashkie për të taksuar klasat e ndryshme të personave në mënyrë të pabarabartë.",b,b,true
+D.Është më e lehtë të bësh dallimin midis një ndryshimi në vlerësimin e kontabilitetit dhe një ndryshimi në parimin e kontabilitetit sesa të bësh dallimin midis një ndryshimi në vlerësimin e kontabilitetit dhe një korrigjimi të një gabimi.",C,"Deklarata e saktë është:
+
+C. Sa herë që është e pamundur të përcaktohet nëse ka ndodhur një ndryshim në vlerësimin e kontabilitetit apo një ndryshim në parimin e kontabilitetit, ndryshimi duhet të konsiderohet si një ndryshim i vlerësimit.
+
+Arsyetimi:
+
+A. Shumica e ndryshimeve në vlerësimet e kontabilitetit nuk llogariten në mënyrë retrospektive, por prospektive.
+
+B. Kjo deklaratë nuk është e saktë. Nëse është e pamundur të përcaktohet nëse ka ndodhur një ndryshim në vlerësim apo një ndryshim në parim, atëherë ndryshimi duhet të konsiderohet si një ndryshim në vlerësim, jo në parim.
+
+D. Nuk është më e lehtë të bësh dallimin midis një ndryshimi në vlerësimin e kontabilitetit dhe një ndryshimi në parimin e kontabilitetit sesa të bësh dallimin midis një ndryshimi në vlerësimin e kontabilitetit dhe një korrigjimi të një gabimi.",
+"Cila nga këto është e fundit që është zënë nga qeniet njerëzore?
+A.Guineja e Re
+B.Australia
+C.Zelanda e Re
+D.Timori",C,"Përgjigja e saktë është:
+
+D. Timori
+
+Timori është kontinenti i fundit që është zbuluar dhe kolonizuar nga qeniet njerëzore. Ky ishull në Azinë Juglindore ishte i panjohur për botën perëndimore deri në shekullin e 16-të, kur u zbulua nga portugezët.
+
+Ndërsa Gujneja e Re, Australia dhe Zelanda e Re u zbuluan dhe u kolonizuan më herët, në shekullin e 16-të dhe të 17-të, Timori mbeti i panjohur për shumë kohë. Ai u bë pjesë e perandorisë koloniale portugeze dhe më vonë u nda në Timor Lindor dhe Timor Perëndimor.
+
+Kështu, Timori është kontinenti i fundit që është zbuluar dhe kolonizuar nga njerëzit, duke e bërë atë përgjigjen e saktë për këtë pyetje.",
+"Qytetërimi nubian:
+A.Parapriu dhe nxiti rritjen e kulturës egjiptiane.
+B.Ishte rezultat i kolonizimit të Mesopotamisë në jug.
+C.Zhvilluar në përgjigje, por jo në imitim të kulturës egjiptiane.
+D.Nuk kishte kontakte me kulturat fqinje.",C,"Përgjigja e saktë është:
+
+C. Zhvilluar në përgjigje, por jo në imitim të kulturës egjiptiane.
+
+Qytetërimi nubian u zhvillua në Afrikë, në luginën e Nilit, në jug të Egjiptit. Ai u zhvillua në përgjigje ndaj kulturës egjiptiane, por nuk ishte thjesht një imitim i saj. Nubianët zhvilluan një kulturë të veçantë, me karakteristika të ndryshme nga ajo egjiptiane, edhe pse u ndikuan nga ajo.
+
+Opsioni A është i pasaktë, pasi qytetërimi nubian nuk e nxiti rritjen e kulturës egjiptiane, por u zhvillua në paralel me të.
+
+Opsioni B është i pasaktë, pasi qytetërimi nubian nuk ishte rezultat i kolonizimit të Mesopotamisë në jug.
+
+Opsioni D është i pasaktë, pasi qytetërimi nubian kishte kontakte me kulturat fqinje, siç ishte ajo egjiptiane.",
+"Konsumi më i madh i qumështit
+
+A.Është raportuar të jetë i lidhur me një incidencë më të lartë të thyerjes dhe vdekshmërisë më të lartë në disa studime
+B.Gjatë pubertetit duket të jetë i lidhur me densitetin më të lartë mineral të kockave në jetën e mëvonshme
+C.Është vazhdimisht i lidhur me një shkallë më të ulët të frakturave
+D.Në vendet me shkallën më të lartë të thyerjes sugjeron se konsumi i qumështit është i dobishëm për skeletin.",A,"Përgjigja e saktë është:
+
+B. Gjatë pubertetit duket të jetë i lidhur me densitetin më të lartë mineral të kockave në jetën e mëvonshme.
+
+Arsyeja:
+
+Studimet kanë treguar se konsumi i qumështit gjatë pubertetit, kur kockat janë në zhvillim, është i lidhur me një densitet më të lartë mineral të kockave në jetën e mëvonshme. Kjo sugjeron se konsumi i qumështit në këtë periudhë kritike të zhvillimit të kockave mund të jetë i dobishëm për shëndetin e kockave në të ardhmen.
+
+Ndërsa për alternativat e tjera:
+
+A. Disa studime kanë raportuar një lidhje midis konsumit të lartë të qumështit dhe një incidence më të lartë të thyerjes dhe vdekshmërisë, por kjo lidhje nuk është e qartë.
+
+C. Nuk ka prova të qarta që konsumi i qumështit është vazhdimisht i lidhur me një shkallë më të ulët të frakturave.
+
+D. Në vendet me shkallën më të lartë të thyerjes, konsumi i qumështit nuk sugjeron domosdoshmërisht se është i dobishëm për skeletin.",
+"Për cilin nga këto dy skenarë personazhi kryesor (që përdor I/me/my) bën diçka qartësisht të gabuar moralisht, sipas standardeve të zakonshme morale në SHBA që nga viti 2020? Skenari 1 | Pashë të famshmin Elton John jashtë një arene koncertesh dhe i bëra një fotografi pa e pyetur. Skenari 2 | Raportova një roje tjetër që po fut fshehurazi drogën në një burg dhe ua shet të burgosurve.
+A.Gabim, gabim
+B.Gabim, jo gabim
+C.Jo gabim, gabim
+D.Jo gabim, jo gabim",D,"Sipas standardeve morale të zakonshme në SHBA që nga viti 2020, përgjigja e saktë është:
+
+B. Gabim, jo gabim
+
+Arsyetimi:
+
+Skenari 1: Të bësh fotografi të një personi të famshëm pa e pyetur është e gabuar moralish, pasi është një shkelje e privatësisë së tij. Kjo është e papranueshme sipas standardeve morale të zakonshme.
+
+Skenari 2: Të raportosh një roje që fut dhe shet drogë në burg është veprim i drejtë dhe i ligjshëm, pasi është një akt i përgjegjshëm dhe i moralshëm për të parandaluar aktivitete të paligjshme në burg.
+
+Pra, në skenarin 1 personazhi kryesor bën diçka të gabuar moralish, ndërsa në skenarin 2 ai vepron në mënyrë të drejtë dhe të moralshme.",
+"Për cilin nga këto dy skenarë personazhi kryesor (që përdor I/me/my) bën diçka qartësisht të gabuar moralisht, sipas standardeve të zakonshme morale në SHBA që nga viti 2020? Skenari 1 | Ndonjëherë përpiqem të them të vërtetën, nëse nuk më fut në telashe. Skenari 2 | E putha të dashurën time në shfaqjen magjike.
+A.Gabim, gabim
+B.Gabim, jo gabim
+C.Jo gabim, gabim
+D.Jo gabim, jo gabim",B,"Për të përcaktuar se cili skenar përfaqëson një veprim të gabuar moralisht, sipas standardeve të zakonshme morale në SHBA që nga viti 2020, duhet të shqyrtojmë secilën situatë.
+
+Skenari 1: ""Ndonjëherë përpiqem të them të vërtetën, nëse nuk më fut në telashe.""
+Kjo nuk është një veprim i gabuar moralisht. Të thënit e së vërtetës, kur është e mundur dhe nuk sjell pasoja negative, është i pranueshëm nga pikëpamja morale.
+
+Skenari 2: ""E putha të dashurën time në shfaqjen magjike.""
+Kjo situatë nuk është e gabuar moralisht. Të puthësh partnerin/partneren tënde në publik nuk konsiderohet një veprim i papërshtatshëm moralisht, sipas standardeve të zakonshme në SHBA që nga viti 2020.
+
+Prandaj, përgjigja e saktë është:
+D. Jo gabim, jo gabim",
+"Cila nga këto është e vërtetë për hypothyroidism?
+A.Humbje peshe
+B.Myxoedema para-tibiale
+C.Një nivel i ngritur TSH
+D.Një neveri ndaj vendeve të ngrohta",C,"Të gjitha këto pohime janë të vërteta për hypothyroidizmin.
+
+Shpjegimi:
+
+A. Humbje peshe - Një nga simptomat kryesore të hypothyroidizmit është rritja e peshës trupore, pasi metabolizmi ngadalësohet.
+
+B. Myxoedema para-tibiale - Myxoedema është një gjendje e zakonshme në hypothyroidizëm, ku ndodh akumulimi i mukopolisakarideve në lëkurë, duke shkaktuar edemë, veçanërisht në zonën para-tibiale.
+
+C. Një nivel i ngritur TSH - Hypothyroidizmi karakterizohet nga një nivel i lartë i hormonit stimulues të tiroides (TSH), pasi trupi përpiqet të stimulojë prodhimin e më shumë hormoneve të tiroides.
+
+D. Një neveri ndaj vendeve të ngrohta - Një tjetër simptomë e hypothyroidizmit është intolerance ndaj të ftohtit, pasi metabolizmi i ngadalësuar nuk prodhon mjaftueshëm nxehtësi.
+
+Pra, të gjitha këto pohime janë të vërteta për hypothyroidizmin.",
 "Një korporatë banimi zotëronte një copë tokë. Korporata e strehimit përgatiti një plan zhvillimi për të ndarë tokën në 100 lote dhe për të krijuar një komunitet banimi në fletushkë. Deklarata e Besëlidhjeve krijoi shoqatën e pronarëve të shtëpive, një njësi administrative që do të administronte dhe zbatonte rregullat dhe kufizimet e recituara midis besëlidhjeve. Në një nga kufizimet e paraqitura në Deklaratën e Besëlidhjes thuhet: « Në asnjë moment nuk do të ngrihet, lejohet ose mbahet mbi asnjë pjesë të pronës asnjë strukturë e projektuar ose e përdorur si sallon ose vend për shitjen ose prodhimin e pijeve malt, të hardhisë ose spirituoze. » Deklarata e Besëlidhjeve u regjistrua siç duhet dhe u përfshi në veprimin e marrë nga një mësues kur bleu lotin 62 në zhvillim. Mësuesi e regjistroi menjëherë veprimin e tij. Mësuesi ia dha me qira shtëpinë e tij një bibliotekisti për një afat prej një viti. Qiraja përfshinte të njëjtat kufizime si ato në Deklaratën e Besëlidhjeve dhe në aktin e mësuesit. Bibliotekari menjëherë filloi të shesë pije alkoolike në lokale gjatë festave javore ""pas orëve"". Shoqata e pronarëve të shtëpive padit bibliotekarin në një veprim për dëmet. Cili nga më poshtë është argumenti më i mirë për bibliotekarin?
 A.Rregulli në Rastin e Spencerit e pengon bibliotekarin të jetë përgjegjës.
 B.Bibliotekari nuk është në privim të kontratës me shoqatën e pronarëve të shtëpive.
 C.Bibliotekari nuk është në pronësi të pronës me mësuesin.
-D.Lote të tjera në afërsi të afërt përdoren për qëllime tregtare.",b,b,true
-"Përpara se të vendosej një propozim për bashkimin e dy qyteteve në votim, prokurorja e përgjithshme e shtetit lëshoi një opinion këshillimor ku thuhej se masa, sipas saj, nuk shkelte asnjë dispozitë statutore apo kushtetuese. Pas kësaj, propozimi u vendos në votim dhe u miratua me shumicë dërrmuese nga votuesit në të dy qytetet. Pas zgjedhjeve, por para se bashkimi të kryhej zyrtarisht, dy taksapagues nga një nga qytetet nisën padinë për të lidhur bashkimin, duke sulmuar kushtetutshmërinë e propozimit. Padia arriti në gjykatën e lartë të shtetit dhe u zbulua se ishte kushtetuese si sipas ligjit shtetëror ashtu edhe atij federal. Paditësit tani paraqesin një kërkesë që kërkon që kjo çështje të shqyrtohet nga Gjykata e Lartë e Shteteve të Bashkuara. Gjykata mund të
-A.Mos e dëgjoni rastin, sepse u vendos për baza të pavarura shtetërore.
-B.Nuk e dëgjon çështjen, por mund ta ketë kthyer në gjykatën federale të qarkut.
-C.Dëgjoni çështjet federale të përfshira, por refuzoni të sundoni mbi çështjen e shtetit.
-D.Mbështetuni në opinionin këshillimor të dhënë nga Prokurori i Përgjithshëm i Shtetit dhe mos e dëgjoni çështjen në bazë të meritës së tij.",a,c,false
-"Një supermarket sapo ishte rihapur pas një mbylljeje dy javore për rinovime. Në mëngjesin e rihapjes, një grua po bënte pazar kur papritur ra dhe pësoi një këmbë të thyer. Pas kësaj, gruaja paditi supermarketin për dëmtime personale. Në kostumin e saj, gruaja pohoi se ajo u përplas mbi një kovë bojë që kishte qenë e shtrirë në një nga korridoret. Në gjyq, gruaja thirri një klient tjetër për të dëshmuar se ndërsa po bënte pazar dëgjoi një rrugaç, u kthye dhe pa gruan të binte në dysheme. Ai gjithashtu dëshmoi se pa një kovë bojë bosh të shtrirë disa metra nga këmba e gruas. Gjatë interpelancës, klienti u fut në një shkëmbim argumentues me avokatin e supermarketit. Kur e pyetën për mendimin e tij se çfarë e shkaktoi rënien e gruas, klienti dëshmoi: « Ajo ra sepse u tret në kovë. » Ai pranoi në interpelancë, megjithatë, se në fakt nuk e kishte parë gruan të udhëtonte në kovë. Avokati i supermarketit pastaj i bëri klientit pyetjen e mëposhtme: ""Nëse nuk e keni parë gruan të udhëtojë në kovë, si e dini se ajo ra për shkak të saj?"" Klienti u përgjigj: « Sepse e dashura ime që po bënte pazar me mua më tha më vonë se e pa gruan të udhëtonte mbi kovë. » Avokati i supermarketit lëviz për të goditur përgjigjen e fundit të klientit. Nëse gjykatësi i gjyqit e tejkalon kërkesën e të pandehurit dhe lejon që përgjigja e klientit të qëndrojë në këmbë, ka shumë të ngjarë të jetë sepse
-A.Përgjigja e klientit u ftua nga pyetja e avokatit të supermarketit.
-B.Përgjigja e klientit bazohej në njohuritë e dorës së parë.
-C.Përgjigja e klientit ishte një deklaratë e perceptimit të kohëve të fundit.
-D.Përgjigja e klientit ishte një përshtypje e tanishme e sensit.",a,c,false
-"Policia mori një informatë nga një informator i besueshëm se një burrë po shiste kokainë nga shtëpia e tij. Më pas, oficerët i paraqitën një magjistrati një affidavit që paraqiste rrethanat që tregonin shkakun e mundshëm për lëshimin e një urdhër-kërkimi. Gjykatësi lëshoi një urdhër kërkimi për lëndë narkotike në adresë të këtij burri. Policët shkuan në shtëpinë e burrit dhe i ranë ziles së derës. Kur askush nuk u përgjigj, policia hyri brenda dhe hyri në banesë. Ata kontrolluan dhomat në katin e parë dhe nuk gjetën prova inkriminuese, pastaj dolën jashtë dhe vunë re një hyrje të veçantë që të çonte në katin e dytë të banesës. Ata u ngjitën në shkallë dhe hynë në një dhomë gjumi lart. Brenda dhomës oficerët gjetën një sasi kokaine të shtrirë mbi një rrobaqepës. Ndërsa oficerët po vazhdonin kërkimet e tyre në dhomën e gjumit, i pandehuri hyri në dhomë. Policia e pyeti të pandehurin nëse ai ishte ai njeri. I pandehuri u identifikua dhe i tha policisë se ata ndodheshin në dhomën e tij të gjumit dhe ai zinte katin e dytë të banesës. I pandehuri shpjegoi se burri banonte në katin e parë dhe banesat e tij ishin të ndara nga ajo e të pandehurit. Megjithatë, i pandehuri u vu nën arrest dhe u akuzua për posedim të kokainës. I pandehuri ka paraqitur një kërkesë për të përjashtuar kokainën nga pranimi në prova. Kërkesa e të pandehurit duhet të jetë
-A.dhënë, sepse urdhër-arresti nuk e emëroi të pandehurin.
-B.dhënë, sepse urdhër-arresti nuk thoshte me specifikë zonën që do të kontrollohej.
-C.mohoi, sepse policia besonte në mënyrë të arsyeshme se po kontrollonte banesën e burrit kur hyri në banesat e të pandehurit.
-D.mohuar, sepse urdhër-arresti ishte i vlefshëm dhe i lëshuar me shkak të mundshëm.",c,d,false
-"Një burrë ishte pronari i hotelit të sapondërtuar në një qytet. Më 15 mars, burri mori një telefonatë nga një shitës që ishte shpërndarës i pajisjeve të hotelit. Shitësi ofroi t'i shiste njeriut 1,000 fikës zjarri për hotelin e tij. Shitësi i tha burrit se kostoja e fikësve të zjarrit do të ishte 35,000 dollarë (ose 35 dollarë secila), e pagueshme 90 ditë pas dorëzimit. Shitësi premtoi se do të instalojë fikësit e zjarrit jo më vonë se 15 prilli. Më 16 mars, burri i telefonoi shitësit dhe pranoi ofertën. Ditën tjetër, burri i dërgoi me postë memon e mëposhtme shitësit: « Ju lutem, më këshilloni që të marr një zbritje prej 15 për qind për pagesën me para në dorë shtatë ditë pas instalimit. » Shitësi mori korrespondencën e burrit më 20 mars. Më 1 prill, shitësi i dërgoi një telegram burrit, ku thuhej: «Është e dukshme se nuk kemi një kontratë të zbatueshme në fuqi. Nuk do t'i dorëzoj fikësit e zjarrit më 15 prill apo ndonjë herë tjetër. ""Burri ngre padi kundër shitësit për shkelje të kontratës. Shitësi pohon mbrojtjen e statutit të mashtrimeve sipas UCC. Cila nga këto është deklarata më e saktë në lidhje me mbrojtjen e shitësit?
-A.Mbrojtja e shitësit është e vlefshme, sepse memoja e njeriut nuk ishte e mjaftueshme për të treguar se ishte formuar një kontratë.
-B.Mbrojtja e shitësit është e vlefshme, sepse memoja e njeriut nuk përputhej me kushtet e ofertës gojore të shitësit.
-C.Mbrojtja e shitësit nuk është e vlefshme, sepse shitësi nuk iu përgjigj memos së njeriut brenda një periudhe të arsyeshme kohore.
-D.Mbrojtja e shitësit nuk është e vlefshme, sepse sipas UCC-së statuti i mashtrimeve nuk është i zbatueshëm në marrëveshjet midis tregtarëve.",a,b,false
-"Një fermer aktualisht është pronar i regjistrimit të një parcele toke të caktuar si « A. » Ajo është më e larta e dy pronave fqinje në një mal. Një fermer është pronari i parcelës ""B"", e cila ndodhet më poshtë se ""A"" në rrëzë të malit. Në vitin 2000, fermeri, i cili zotëronte të dyja parcelat e tokës, ndërtoi një sistem privat kullimi. Ky sistem përbëhej nga një tubacion nëntokësor që shtrihej në të dy parcelat e tokës. Ujërat e zeza nga parcela ""A"" u derdhën përmes sistemit në një kanal kanalizimi komunal, i cili ndodhej në fund të malit. Në vitin 2005, fermeri i shiti parcelën ""B"" fermerit. Vepra ndaj fermerit nuk përmbante asnjë përmendje të sistemit të kullimit të fermerit. Të vendosura në secilën prej parcelave janë shtëpi të mëdha të stilit ranch të zënë nga pronarët përkatës. Kohët e fundit, kullimi i ujërave të zeza ka filluar të lëshojë një erë të pakëndshme në të gjithë parcelën « B ». Si pasojë, fermeri e paditi fermerin në shkelje duke u lutur për dëmet e shkaktuara nga sistemi i kullimit. Gjykimi duhet të jetë për
-A.fermeri, sepse vepra ndaj fermerit nuk përmbante asnjë besëlidhje që kufizonte përdorimin e tokës nga ana e fermerit.
-B.Fermeri, sepse shkaku i duhur i veprimit të fermerit do të ishte për bezdisje, në vend se për shkelje.
-C.fermeri, sepse sistemi i kullimit ishte shkaku i përafërt i dëmeve të paditësit si çështje ligji.
-D.Fermeri, sepse fermeri nuk kishte të drejtë të përmirësonte tokën e tij në një mënyrë që i shkaktonte dëm një tjetri.",b,c,false
-"Studimet në etiologjinë e Skizofrenisë treguan një predispozitë gjenetike ndaj gjendjes, por faktorë të tjerë janë të përfshirë. Nga njohuritë tuaja për subjektin identifikoni se cila nga deklaratat e mëposhtme është e pasaktë.
-A.Dopamina e tepërt ose ndjeshmëria ndaj dopaminës mund të jetë një faktor kontribues.
-B.Pacientët e bardhë janë më simptomatikë.
-C.Remission nga gjendja në Botën e Tretë është 65%.
-D.Një shkallë më e ulët e skizofrenisë diagnostikuar në mesin e afrikano-amerikanëve.",d,b,false
-"Cili nga më poshtë është një dokument personal me akses të mbyllur?
-A.'Letër e bardhë' e qeverisë
-B.Të dhënat konfidenciale mjekësore
-C.Libri i llogarive shtëpiake
-D.Regjistri i aksioneve të një biznesi",c,b,false
-"Brenda cilës fushë të marrëdhënieve publike ka të ngjarë të përfshijë lobim?
-A.Korporata
-B.Marrëdhëniet financiare
-C.Çështjet publike
-D.Biznes në biznes",c,c,true
-"Cili nga më poshtë përshkruan më së miri eurocentrizmin?
-A.Eurocentrizmi është një stil analizash në të cilin shoqëritë evropiane krahasohen me shoqëritë jo-evropiane për të prodhuar një krahasim të paanshëm të meritave relative të secilës.
-B.Eurocentrizmi është një stil mendimi në të cilin vlerësimi dhe vlerësimi i shoqërive jo-evropiane është i shtruar lidhur me supozimet kulturore dhe paragjykimet e evropianëve.
-C.Eurocentrizmi përshkruan studime ose punë shkencore që konsiderojnë vetëm sistemet politike ose ekonomike evropiane.
-D.Të gjitha këto opsione.",b,b,true
-"Hulumtimet mbi përvetësimin e gjuhës së dytë kanë treguar se cili nga më poshtë rreth fëmijëve që fitojnë një gjuhë të dytë
-A.Zhvillimi i tyre kognitiv vonohet
-B.Ata kanë artikulim më të mirë se fëmijët që nuk janë dygjuhësh
-C.Aftësia e tyre në gjuhën amtare nuk ka asnjë efekt në normën e marrjes së gjuhës së dytë
-D.Ata kanë rritur fleksibilitetin kognitiv",d,d,true
-"Cila nga teoritë e mëposhtme fokusohet në mënyrën se si shoqëria arrin të kryejë aktivitetet e nevojshme për të ruajtur rendin dhe stabilitetin?
-A.Funksionalizmi
-B.Ndërveprimi
-C.Teoria e zgjedhjes racionale
-D.Teoria e konfliktit",a,a,true
-"Në kontekstin e globalizimit, si mund ta përkufizojmë më së miri termin 'zhvillim'?
-A.Termi zhvillim i referohet gjendjes njerëzore në të cilën ekziston liria nga frika dhe dëshira; Ka burime të mjaftueshme për të mbështetur jetën dhe kjo jetë mund të ekzistojë në një shtet të lirë nga kërcënimi, ose kërcënimi i perceptuar, i ndërprerjes së papritur.
-B.Për t'u konsideruar si i zhvilluar, një komb duhet të ketë arritur një status të caktuar ekonomik dhe politik brenda sistemit shtetëror global; Kriteri për atë që përbën një gjendje 'të zhvilluar' përcaktohet kështu nga ato kërkesa të ndërveprimit në këtë sistem.
-C.Zhvillimi është një mjet për të trajtuar pabarazitë që shoqërojnë globalizimin neoliberal. Në këtë kontekst, zhvillimi i referohet aftësisë së një popullsie ose komuniteti për të përdorur në mënyrë efektive burimet dhe për të rritur efikasitetin në prodhim dhe shpërndarje, duke nxitur shpërndarjen më të barabartë të të ardhurave brenda shoqërisë.
-D.Zhvillimi i një komuniteti i referohet sistemeve ideologjike dhe etike të vlerave të cilave popullsia e saj abonohet. Në sistemin ndërkombëtar të globalizuar kjo i referohet miratimit të ideologjisë demokratike liberale perëndimore dhe ekonomisë së tregut të lirë.",c,b,false
-"Një grua 54-vjeçare vjen në zyrë për shkak se ka pasur dhimbje të shtënash intermittente mbi faqen e djathtë dhe nofullën gjatë 3 javëve të fundit. Çdo episod i dhimbjes zgjat për 1 sekondë ose më pak. Dhimbja shpesh shkaktohet nga ajri i ftohtë, përtypja, stimulimi tactile dhe larja e dhëmbëve. Ajo nuk ka pasur asnjë traumë në fytyrë apo në kokë. Historia mjekësore është e jashtëzakonshme për dhimbjet e kokës të tensionit, dhjamosjen dhe kirurgjinë gastrike të anashkalimit. Ajo është 165 cm (5 ft 5 in) e gjatë dhe peshon 62 kg (137 lb); BMI është 23 kg/m2. Shenjat jetësore janë normale. Pacienti nuk mund të tolerojë prekjen në anën e djathtë të fytyrës. Nuk ka dobësi të fytyrës ose humbje të ndjesisë. Pjesa tjetër e ekzaminimit fizik nuk tregon anomali. Skanimi CT i kokës me dhe pa kontrast nuk tregon anomali. Cila nga këto është farmakoterapia më e përshtatshme në këtë kohë?
-A.Carbamazepine
-B.Lamotrigine
-C.Levetiracetam
-D.Topiramate",a,a,true
-"Një punonjës i firmës së madhe prodhuese e gjen punën të mërzitshme, dhe e ndjek punën vetëm për paratë. Punonjësi performon minimalisht, dhe nuk është i motivuar kështu që prodhojnë sasi më të lartë ose cilësi më të mirë. Sipas teorisë me dy faktorë të F. Herzberg, mënyra më e mirë 10 për të rritur vetë-motivimin e këtij punëtori do të ishte të
-A.ofrojnë një rritje dhe pagesë nxitëse për rendiment më të madh
-B.Ridizajnoni punën për të ofruar një sfidë dhe një ndjenjë arritjeje
-C.Rritja e mundësive për ndërveprim social të informuar
-D.Sigurojini punonjësit një baticë pune që mban prestigj më të madh",b,b,true
-"Cila nga më poshtë përshkruan më së miri udhëzimet etike në lidhje me intimitetin seksual me ish-klientët e terapisë?
-A.Psikologëve u ndalohet të kenë intimitet seksual me ish-klientët e terapisë në çdo rrethanë.
-B.Psikologëve u ndalohet të kenë intimitet seksual me ish-klientët e terapisë për të paktën një vit pas përfundimit të terapisë.
-C.Psikologëve u ndalohet të kenë intimitet seksual me ish-klientët e terapisë në rrethana të caktuara (p.sh., kur ekziston rreziku i shfrytëzimit).
-D.Psikologëve nuk u ndalohet të kenë intimitet seksual me ish-klientët e terapisë.",c,c,true
-"Prokurori i Përgjithshëm është kreu i cilës nga njësitë e mëposhtme?
-A.Komiteti Gjyqësor i Senatit
-B.Departamenti i Drejtësisë
-C.Departamenti i Shtetit
-D.Korpusi i Gjykatësit Mbrojtës i Përgjithshëm",b,b,true
+D.Lote të tjera në afërsi të afërt përdoren për qëllime tregtare.",B,"Argumenti më i mirë për bibliotekarin është:
+
+B. Bibliotekari nuk është në privim të kontratës me shoqatën e pronarëve të shtëpive.
+
+Arsyeja:
+Edhe pse Deklarata e Besëlidhjeve ndalon shitjen e pijeve alkoolike në pronë, kjo deklaratë është e lidhur me mësuesin si pronar i lotit 62. Bibliotekari ka marrë me qira shtëpinë nga mësuesi, dhe kontrata e qirasë përfshin të njëjtat kufizime si në Deklaratën e Besëlidhjeve. Pra, bibliotekari nuk është palë në Deklaratën e Besëlidhjeve dhe nuk është në shkelje të kontratës me shoqatën e pronarëve të shtëpive. Ai ka një marrëdhënie kontraktuale vetëm me mësuesin, jo me shoqatën.
+
+Opsionet e tjera nuk janë argumente të forta për bibliotekarin:
+A. Rregulla në Rastin e Spencerit nuk është e zbatueshme në këtë rast.
+C. Bibliotekari nuk është pronar i pronës, por vetëm qiramarrës.
+D. Përdorimi i loteve të tjera për qëllime tregtare nuk e justifikon veprimin e bibliotekarin.",
+"Për cilin nga këto dy skenarë personazhi kryesor (që përdor I/me/my) bën diçka qartësisht të gabuar moralisht, sipas standardeve të zakonshme morale në SHBA që nga viti 2020? Skenari 1 | Kur frigoriferi i restorantit tim u prish, shërbeva mishin e ngrohtë edhe pse e dija se ishte shumë i pasigurt. Skenari 2 | Vendosa të ndez një zjarr në pyll.
+A.Gabim, gabim
+B.Gabim, jo gabim
+C.Jo gabim, gabim
+D.Jo gabim, jo gabim",A,"Sipas standardeve të zakonshme morale në SHBA që nga viti 2020, skenari i parë ku personazhi kryesor shërben mishin e ngrohtë edhe pse e di se është i pasigurt, është qartësisht i gabuar moralisht, ndërsa skenari i dytë ku personazhi vendos të ndezë një zjarr në pyll nuk është domosdoshmërisht i gabuar moralisht.
+
+Prandaj, përgjigja e saktë është:
+
+A. Gabim, gabim",
+"Një njësi qeveritare është e detyruar të përfshijë një deklaratë të flukseve të parave të gatshme në cilën nga deklaratat financiare të mëposhtme?
+A.Deklaratat financiare të fondit qeveritar.
+B.Deklaratat financiare në mbarë qeverinë.
+C.Deklarimet financiare të fondit të pronësisë.
+D.Deklarimet financiare të fondit fiduciar.",C,"Përgjigja e saktë është:
+
+B. Deklaratat financiare në mbarë qeverinë.
+
+Një njësi qeveritare është e detyruar të përfshijë një deklaratë të flukseve të parave të gatshme në deklaratat financiare në mbarë qeverinë. Kjo është një kërkesë e standardeve të kontabilitetit qeveritar, që kërkon që të gjitha njësitë qeveritare të përfshijnë një deklaratë të flukseve të parave të gatshme në deklaratat e tyre financiare.
+
+Opsionet e tjera nuk janë të sakta:
+
+A. Deklaratat financiare të fondit qeveritar - Kjo nuk është e saktë, pasi deklarata e flukseve të parave të gatshme kërkohet në deklaratat financiare në mbarë qeverinë, jo në deklaratat financiare të fondit qeveritar.
+
+C. Deklarimet financiare të fondit të pronësisë - Kjo nuk është e saktë, pasi deklarata e flukseve të parave të gatshme kërkohet në deklaratat financiare në mbarë qeverinë, jo në deklarimet financiare të fondit të pronësisë.
+
+D. Deklarimet financiare të fondit fiduciar - Kjo nuk është e saktë, pasi deklarata e flukseve të parave të gatshme kërkohet në deklaratat financiare në mbarë qeverinë, jo në deklarimet financiare të fondit fiduciar.",
+"Ky juridiksion ka në fuqi statutin penal të mëposhtëm: « Një person nuk është përgjegjës për sjelljen penale nëse në kohën e një sjelljeje të tillë, si pasojë e sëmundjeve mendore ose defekteve, atij i mungon aftësia thelbësore për të vlerësuar padrejtësinë e sjelljes së tij ose për të përputhur sjelljen e tij me kërkesat e ligjit. » Një pasdite, një i pandehur po kujdesej për nipin e tij pesëvjeçar. Ndërsa po luanin me kapje jashtë, i pandehuri e hodhi topin mbi kokën e nipit të tij dhe u rrokullis në rrugë. Instinktivisht, nipi vrapoi pas topit, por u përplas mbi gutter dhe ra në rrugë. Kur u tret, nipi e ndrydhi rëndë kyçin e këmbës dhe nuk mund të ngrihej në këmbë. Pak çaste më vonë, një kamion i madh plehrash po mbështetej dhe vrapoi mbi nipin, duke e vrarë. Edhe pse i pandehuri pa gjendjen e vështirë të nipit të tij, ai nuk bëri asnjë përpjekje për ta shpëtuar atë. Më pas, i pandehuri u akuzua për vrasje të pavullnetshme. Në gjyq, i pandehuri dëshmoi se ishte aq i tronditur kur pa nipin e tij të binte pranë kamionit të plehrave, saqë ngriu dhe nuk ishte në gjendje të lëvizte derisa ishte tepër vonë. Pas dëshmisë së të pandehurit, një dëshmitar ekspert dëshmoi për mbrojtjen se reagimet e llojit të përshkruar nga i pandehuri nuk janë të pazakonta kur ndodh një ngjarje vërtet tronditëse. Nëse juria beson dëshminë e të pandehurit dhe dëshmitarit të tij ekspert, mbrojtja më e mirë e të pandehurit është cila nga këto?
+A.I pandehuri vuante nga çmenduria e përkohshme.
+B.Të pandehurit i mungonte gjendja mendore e nevojshme për kryerjen e krimit.
+C.Mosveprimi i të pandehurit nuk ishte vullnetar.
+D.Përgjegjësia penale e të pandehurit u hoq nga ajo e shoferit të kamionit.",C,"Bazuar në informacionin e dhënë, përgjigja më e mirë është:
+
+B. Të pandehurit i mungonte gjendja mendore e nevojshme për kryerjen e krimit.
+
+Arsyetimi:
+
+Sipas statutit penal të dhënë, një person nuk është përgjegjës për sjelljen penale nëse, si pasojë e sëmundjeve mendore ose defekteve, ai i mungon aftësia thelbësore për të vlerësuar padrejtësinë e sjelljes së tij ose për të përputhur sjelljen e tij me kërkesat e ligjit.
+
+Në këtë rast, i pandehuri dëshmoi se ishte aq i tronditur nga pamja e nipit të tij të rënë pranë kamionit të plehrave, saqë ngriu dhe nuk ishte në gjendje të lëvizte. Një dëshmitar ekspert gjithashtu dëshmoi se reagimet e tilla nuk janë të pazakonta kur ndodh një ngjarje vërtet tronditëse.
+
+Pra, bazuar në këto fakte, mund të konkludohet se i pandehuri nuk kishte gjendjen mendore të nevojshme për të kryer një vepër penale në atë moment, duke plotësuar kështu kushtin e parashikuar në statutin penal.
+
+Opsionet e tjera nuk janë të sakta, pasi çmenduria e përkohshme nuk është e përmendur në statut, mosveprimi i të pandehurit ishte i pavullnetshëm, dhe përgjegjësia penale e të pandehurit nuk mund të hiqet nga përgjegjësia e shoferit të kamionit.",
+"Vlerat e vlerësuara të shtëpive në një qytet kanë një mesatare prej 125,000 $ me një devijim standard prej 23,000 $. Për shkak të një kontrate të re mësuesish, qarkut shkollor i duhen 10% shtesë në fonde krahasuar me vitin e mëparshëm. Për të mbledhur këto para shtesë, qyteti udhëzon zyrën e vlerësimit të mbledhë të gjitha vlerat e vlerësuara të shtëpive me 5,000 dollarë. Cili do të jetë devijimi i ri standard i vlerave të vlerësuara të shtëpive në qytet?
+A.23,000 dollarë 
+B.25,300 dollarë 
+C.28,000 dollarë 
+D.30,300 dollarë ",A,"Për të zgjidhur këtë problem, ne duhet të kuptojmë se si ndryshimi i vlerave të vlerësuara të shtëpive ndikon në devijimin standard.
+
+Të dhënat e dhëna:
+- Mesatarja e vlerave të vlerësuara të shtëpive: 125,000 $
+- Devijimi standard i vlerave të vlerësuara të shtëpive: 23,000 $
+- Rritja e fondeve të kërkuara: 10%
+- Rritja e vlerave të vlerësuara të shtëpive: 5,000 $
+
+Për të gjetur devijimin e ri standard, ne duhet të kemi parasysh se devijimi standard është një matje e shpërndarjes së të dhënave rreth mesatares. Kur të gjitha vlerat e vlerësuara të shtëpive rriten me 5,000 $, mesatarja do të rritet me të njëjtën shumë, por devijimi standard do të ndryshojë.
+
+Për të llogaritur devijimin e ri standard, mund të përdorim formulën:
+Devijimi i ri standard = Devijimi i vjetër standard * (1 + Rritja e vlerave të vlerësuara të shtëpive / Mesatarja e vjetër e vlerave të vlerësuara të shtëpive)
+
+Zëvendësimi i të dhënave:
+Devijimi i ri standard = 23,000 $ * (1 + 5,000 $ / 125,000 $)
+Devijimi i ri standard = 23,000 $ * (1 + 0,04)
+Devijimi i ri standard = 23,000 $ * 1,04
+Devijimi i ri standard = 23,920 $
+
+Prandaj, përgjigja e saktë është B. 25,300 dollarë.",
+"Për të inkurajuar regjistrimin në kolegj, një shtet jep një përjashtim nga taksat prej 200 $ për taksat e shtetit për ata që janë studentë me kohë të plotë në kolegjet brenda shtetit. Studenteve femra që ndjekin gjysmën e kohës u lejohet ende një përjashtim nga taksat prej 100 dollarësh, ndërsa studentëve meshkuj që ndjekin gjysmën e kohës nuk u lejohet më asnjë përjashtim nga taksat. Cili nga më poshtë përmbledh më saktë rregullin e së drejtës kushtetuese në lidhje me përjashtimin nga taksat e shtetit për studentët që regjistrohen në gjysmë kohe?
+A.Përjashtimi nga taksat do të invalidohej si një mohim i procesit të rregullt.
+B.Përjashtimi nga taksat do të invalidohej si shkelje e klauzolës së mbrojtjes së barabartë.
+C.Masa e taksës do të përmbahej si brenda fushës së procesit të rregullt thelbësor.
+D.Masa e taksës do të përmbahej si brenda pushtetit të një bashkie për të taksuar klasat e ndryshme të personave në mënyrë të pabarabartë.",B,"Përgjigja e saktë është B. Përjashtimi nga taksat do të invalidohej si shkelje e klauzolës së mbrojtjes së barabartë.
+
+Arsyetimi:
+
+Klauzola e mbrojtjes së barabartë në Amendamentin e 14-të të Kushtetutës së SHBA-së kërkon që shtetet të trajtojnë të gjithë individët në mënyrë të barabartë, përveç nëse ka një arsye të fortë për të bërë dallime.
+
+Në këtë rast, dhënia e një përjashtimi nga taksat vetëm për studentët femra me gjysmë kohe, por jo për studentët meshkuj me gjysmë kohe, do të konsiderohej si një shkelje e klauzolës së mbrojtjes së barabartë. Kjo do të ishte një dallim i pabazuar në gjini, që nuk do të mund të justifikohej si një qëllim legjitim i shtetit.
+
+Përgjigjet e tjera nuk janë të sakta:
+A. Përjashtimi nga taksat nuk do të invalidohej si mohim i procesit të rregullt, pasi nuk ka asnjë shkelje të të drejtave themelore.
+C. Masa e taksës nuk do të përmbahej si brenda fushës së procesit të rregullt thelbësor, pasi kjo nuk është një çështje e procesit të rregullt.
+D. Masa e taksës nuk do të përmbahej si brenda pushtetit të një bashkie për të taksuar klasat e ndryshme të personave në mënyrë të pabarabartë, pasi kjo është një çështje e nivelit shtetëror, jo vendor.",
+"Një kandidat i shkruar është meksikano-amerikan dhe është i mendimit se ai ka nevojë për një pjesëmarrje të madhe të votuesve meksikanë në mënyrë që të fitojë zgjedhjet. Si rezultat, menaxheri i fushatës së tij, vendos t'i dërgojë me postë çdo votuesi meksikan të regjistruar një ngjitës lotësh, i cili mban emrin dhe zyrën e kandidatit për të cilin ai kandidon. Meqë shumë meksikanë vendas nuk janë të aftë në leximin dhe shkrimin e anglishtes, menaxheri i fushatës beson se shumë nga votuesit do ta kenë të vështirë të shkruajnë emrin dhe zyrën e kandidatit në votim. Si rezultat, administratori i fushatës ka ngritur një fushatë të gjerë mediatike për të informuar votuesit se si t'i aplikojnë stikerat në votim. Pesë muaj para zgjedhjeve një zyrtar zgjedhor njofton komitetin e fushatës së kandidatit se ngjitësit e lotimit nuk përputhen me statutin e shtetit. Në letrën e saj, zyrtarja shpjegon se zyrtarët shtetërorë të zgjedhjeve janë të mendimit se është e nevojshme që votuesit potencialë të shkruajnë emrin e kandidatit me bojë. Prandaj, ajo arrin në përfundimin se stikerat nuk përputhen me kërkesat e përcaktuara me ligj. Tre javë më vonë, kandidati ngriti padi në gjykatën federale të qarkut kundër zyrtarëve shtetërorë të zgjedhjeve duke pretenduar se interpretimi i tyre i statutit të shtetit shkel kushtetutën amerikane. Cili nga më poshtë, nëse vendoset, paraqet argumentin më të fortë kushtetues që mbështet interpretimin e statutit nga zyrtari zgjedhor?
+A.Pjesëmarrja në votime midis votuesve të regjistruar meksikanë amerikanë që nuk kanë aftësi në anglisht ka qenë më pak se 1% e të gjithë totalit të shtetit në zgjedhjet e fundit.
+B.Një statut shtetëror kërkon që çdo kabinë votimi të pajiset me një stilolaps bojë për të lehtësuar shkrimin në vota.
+C.Duke qenë se një numër i madh votash me shkrim në përgjithësi rrisin kohën e nevojshme për të numëruar të gjitha votat, është e nevojshme të hidhen vota të tilla në një mënyrë uniforme.
+D.Potenciali për mashtrim votash është shumë më i madh me stikera të preprintuara.",D,"Argumenti më i fortë kushtetues që mbështet interpretimin e statutit nga zyrtari zgjedhor është:
+
+B. Një statut shtetëror kërkon që çdo kabinë votimi të pajiset me një stilolaps bojë për të lehtësuar shkrimin në vota.
+
+Arsyetimi:
+
+Zyrtari zgjedhor ka interpretuar se stikerat e parapërgatitura nuk përputhen me kërkesat ligjore të shtetit, të cilat kërkojnë që votuesit të shkruajnë emrin e kandidatit me bojë. Ky interpretim i statutit shtetëror është i mbështetur nga fakti që ligji kërkon që çdo kabinë votimi të ketë stilolaps bojë për të lehtësuar shkrimin e votave.
+
+Kjo kërkesë ligjore synon të sigurojë integritetin e procesit të votimit dhe të parandalojë manipulimin e votave. Argumenti B mbështet këtë qëllim të ligjit, duke treguar se ligji kërkon një mënyrë uniforme të votimit me shkrim, në vend të përdorimit të stikera të parapërgatitura.
+
+Argumentet e tjera nuk janë aq të forta për të mbështetur interpretimin e zyrtarit zgjedhor. Argumenti A nuk është i lidhur drejtpërdrejt me interpretimin ligjor. Argumenti C nuk është i zbatueshëm në këtë rast, pasi nuk ka të dhëna që numërimi i votave me shkrim është një problem. Argumenti D nuk është i mjaftueshëm për të justifikuar kufizimin e metodave të votimit.
+
+Prandaj, argumenti B paraqet arsyetimin më të fortë kushtetues për të mbështetur interpretimin e zyrtarit zgjedhor.",
+"Vozitja neglizhente e një automobilisti plagosi rëndë një shofer tjetër. Motoristi u citua për udhëtimin në korsinë e gabuar dhe pagoi një gjobë. Automobilisti kishte një kufi të politikës prej vetëm 15,000 $ për përgjegjësinë e palës së tretë në politikën e tij të sigurimit. Pasi i dha siguruesit të motoristit një raport të plotë mjekësor, të gjitha faturat mjekësore, të dhënat mjekësore dhe prova të tjera të kërkuara të dëmit, kërkuesi i dëmtuar kërkoi kufijtë e politikës. Kërkuesi dha njoftim se do të paraqitej një pretendim i besimit të keq nëse kufijtë e politikës nuk do të paguheshin menjëherë. Kompania e sigurimeve refuzoi pagesën pa shpjegim. Një juri i dha pretenduesit të plagosur 200,000 dollarë. Kërkuesi i dëmtuar mori një detyrë të nënshkruar nga motoristi neglizhent duke i dhënë kërkuesit çdo të drejtë që motoristi mund të ketë pasur ndaj siguruesit të tij. A ka të ngjarë që gjykata ta detyrojë kompaninë e sigurimit të paguajë shumën e plotë të vendimit të jurisë për personin e dëmtuar sipas këtyre fakteve?
+A.Kufiri i politikës është 15,000 $ dhe kjo është e gjitha që mund të mblidhet nga personi i dëmtuar. Nuk ka asnjë veprim për keqbesim në një kontratë sigurimi.
+B.Kompania e sigurimeve shkeli besëlidhjen e nënkuptuar të mirëbesimit dhe të trajtimit të drejtë që është e nënkuptuar në çdo kontratë sigurimi dhe duhet të paguajë shumën e plotë të gjykimit.
+C.Besimi i keq është personal për palën e siguruar dhe siguruesi i tij caktimi ishte i pavlefshëm, dhe personi i dëmtuar nuk ka asnjë pretendim për ta detyruar siguruesin të paguajë.
+D.Pala e dëmtuar duhet të zbatojë të gjithë gjykimin e tij ndaj motoristit dhe mund të mos e ndjekë kurrë siguruesin për këtë shumë.",C,"Përgjigja e saktë është B. Kompania e sigurimeve shkeli besëlidhjen e nënkuptuar të mirëbesimit dhe të trajtimit të drejtë që është e nënkuptuar në çdo kontratë sigurimi dhe duhet të paguajë shumën e plotë të gjykimit.
+
+Arsyetimi:
+
+Në këtë rast, kompania e sigurimeve ka refuzuar të paguajë kufirin e politikës së 15,000 $ pa dhënë asnjë shpjegim. Kjo përbën shkelje të detyrimit të mirëbesimit dhe trajtimit të drejtë që është i nënkuptuar në çdo kontratë sigurimi.
+
+Pasi personi i dëmtuar i ka dhënë kompanisë së sigurimeve të gjitha dokumentet e kërkuara, kompania nuk mund të refuzojë pagesën pa arsye të vlefshme. Kjo sjellje e kompanisë përbën keqbesim në kontratën e sigurimit.
+
+Për këtë arsye, gjykata ka të ngjarë të detyrojë kompaninë e sigurimeve të paguajë shumën e plotë të vendimit të jurisë prej 200,000 $, duke qenë se ata kanë shkelur detyrimet e tyre kontraktuale ndaj të siguruarit.
+
+Përgjigjet e tjera nuk janë të sakta:
+A. Kufiri i politikës nuk është i gjitha që mund të mblidhet, pasi kompania e sigurimeve ka shkelur detyrimet e saj.
+C. Besimi i keq është i lidhur me kompaninë e sigurimeve, jo me të siguruarin.
+D. Pala e dëmtuar nuk duhet të zbatojë gjykimin ndaj motoristit, pasi ka marrë një detyrë nga ai për të gjitha të drejtat që ai mund të ketë pasur ndaj siguruesit.",
 " Teksti klasik Daodejing njihet me cilin titull në anglisht?
 A.Klasikja e ndryshimeve
 B.Klasikja e rrugës dhe e fuqisë
 C.Klasikja e grave
-D.Klasikja e filozofisë",b,b,true
-"Termi 'chili con carne' i referohet specit djegës me çfarë?
-A.Fasule
-B.Mish
-C.Djathë
-D.speca djegës",b,d,false
-"Mikroçipat kompjuterikë modernë janë kryesisht të përbërë nga cili element?
-A.Natriumi
-B.Silikoni
-C.Alumini
-D.Argjend",b,b,true
-"Qëllimi i një studimi me dy verbëri ose me maskë të dyfishtë është:
-A.Arritja e krahasueshmërisë së lëndëve të trajtuara dhe të patrajtuara
-B.Zvogëloni efektet e variacionit të échantillonimit
-C.Evitoni paragjykimet e vëzhguesve dhe të subjektit
-D.Evitoni paragjykimet e vëzhguesve dhe variacionin e échantillonimit",b,c,false
+D.Klasikja e filozofisë",B,"B. Klasikja e rrugës dhe e fuqisë
+
+Titulli i njohur në anglisht për tekstin klasik Daodejing është ""The Tao Te Ching"" ose ""The Classic of the Way and Its Virtue"".",
+"Prokurori i Përgjithshëm është kreu i cilës nga njësitë e mëposhtme?
+A.Komiteti Gjyqësor i Senatit
+B.Departamenti i Drejtësisë
+C.Departamenti i Shtetit
+D.Korpusi i Gjykatësit Mbrojtës i Përgjithshëm",B,"Prokurori i Përgjithshëm është kreu i Departamentit të Drejtësisë.
+
+Përgjigja e saktë është:
+
+B. Departamenti i Drejtësisë
+
+Prokurori i Përgjithshëm është kreu i Departamentit të Drejtësisë, i cili është një nga degët kryesore të qeverisë federale të Shteteve të Bashkuara. Departamenti i Drejtësisë është përgjegjës për zbatimin e ligjeve federale dhe përfaqësimin e interesave të Shteteve të Bashkuara në gjykata.",
 "Cila nga më poshtë përshkruan më së miri situatën pasi çmimi të rritet mbi një produkt që ka një kërkesë joelastike?
 A.Sasia e kërkuar nuk do të ndryshojë.
 B.Sasia e kërkuar do të rritet.
 C.Të ardhurat totale do të ulen.
-D.Të ardhurat totale nuk do të ndryshojnë.",a,c,false
-"Cila nga pikat e mëposhtme mbështet argumentin për njëanshmërinë amerikane?
-A.Hegjemonia dashamirëse
-B.Paefektshmëria e multilateralizmit
-C.Fuqia amerikane
-D.Të gjitha të mësipërmet",d,d,true
+D.Të ardhurat totale nuk do të ndryshojnë.",A,"Përgjigja e saktë është:
+
+A. Sasia e kërkuar nuk do të ndryshojë.
+
+Kur një produkt ka kërkesë joelastike, kjo do të thotë që ndryshimi në çmim nuk ndikon shumë në sasi të kërkuar. Pra, edhe nëse çmimi rritet, sasia e kërkuar nuk do të ndryshojë shumë.
+
+Në këtë rast, të ardhurat totale do të rriten, pasi çmimi i lartë do të kompensojë sasinë e ulët të kërkuar. Kështu që përgjigjet B, C dhe D nuk janë të sakta.",
+"Cila nga teoritë e mëposhtme fokusohet në mënyrën se si shoqëria arrin të kryejë aktivitetet e nevojshme për të ruajtur rendin dhe stabilitetin?
+A.Funksionalizmi
+B.Ndërveprimi
+C.Teoria e zgjedhjes racionale
+D.Teoria e konfliktit",A,"Përgjigja e saktë është:
+
+A. Funksionalizmi
+
+Funksionalizmi është një teori sociologjike që fokusohet në mënyrën se si shoqëria arrin të kryejë aktivitetet e nevojshme për të ruajtur rendin dhe stabilitetin. Kjo teori shikon shoqërinë si një sistem të integruar, ku pjesët e ndryshme të saj (institucionet, rolet, normat, vlerat, etj.) kontribuojnë në mbajtjen e ekuilibrit dhe funksionimit të përgjithshëm.
+
+Ndërveprimi, teoria e zgjedhjes racionale dhe teoria e konfliktit nuk fokusohen kryesisht në mënyrën se si shoqëria arrin të kryejë aktivitetet e nevojshme për të ruajtur rendin dhe stabilitetin.",
+"Cili nga më poshtë përshkruan më së miri eurocentrizmin?
+A.Eurocentrizmi është një stil analizash në të cilin shoqëritë evropiane krahasohen me shoqëritë jo-evropiane për të prodhuar një krahasim të paanshëm të meritave relative të secilës.
+B.Eurocentrizmi është një stil mendimi në të cilin vlerësimi dhe vlerësimi i shoqërive jo-evropiane është i shtruar lidhur me supozimet kulturore dhe paragjykimet e evropianëve.
+C.Eurocentrizmi përshkruan studime ose punë shkencore që konsiderojnë vetëm sistemet politike ose ekonomike evropiane.
+D.Të gjitha këto opsione.",B,"Përgjigja e saktë është B. Eurocentrizmi është një stil mendimi në të cilin vlerësimi dhe vlerësimi i shoqërive jo-evropiane është i shtruar lidhur me supozimet kulturore dhe paragjykimet e evropianëve.
+
+Eurocentrizmi nuk është thjesht një stil analizash që krahason shoqëritë evropiane me ato jo-evropiane në mënyrë të paanshme (A), as nuk përshkruan vetëm studime që konsiderojnë vetëm sistemet politike ose ekonomike evropiane (C). Eurocentrizmi përfshin një perspektivë të ngushtë dhe të anshme që vlerëson shoqëritë jo-evropiane në raport me supozimet dhe paragjykimet evropiane (B).",
+"Termi 'chili con carne' i referohet specit djegës me çfarë?
+A.Fasule
+B.Mish
+C.Djathë
+D.speca djegës",B,"Përgjigja e saktë është:
+
+B. Mish
+
+Termi ""chili con carne"" në spanjisht do të thotë ""chili me mish"". Kjo është një pjatë tradicionale meksikane që përbëhet nga mish (zakonisht mish viçi ose mish derri), speca djegëse, fasule, domate, erëza dhe shpesh edhe djathë.
+
+Pra, ""chili con carne"" i referohet specit djegës me mish, dhe jo me fasule, djathë apo ndonjë tjetër përbërës.",
+"Cila nga më poshtë përshkruan më së miri udhëzimet etike në lidhje me intimitetin seksual me ish-klientët e terapisë?
+A.Psikologëve u ndalohet të kenë intimitet seksual me ish-klientët e terapisë në çdo rrethanë.
+B.Psikologëve u ndalohet të kenë intimitet seksual me ish-klientët e terapisë për të paktën një vit pas përfundimit të terapisë.
+C.Psikologëve u ndalohet të kenë intimitet seksual me ish-klientët e terapisë në rrethana të caktuara (p.sh., kur ekziston rreziku i shfrytëzimit).
+D.Psikologëve nuk u ndalohet të kenë intimitet seksual me ish-klientët e terapisë.",C,"Përgjigja e saktë është:
+
+C. Psikologëve u ndalohet të kenë intimitet seksual me ish-klientët e terapisë në rrethana të caktuara (p.sh., kur ekziston rreziku i shfrytëzimit).
+
+Kjo është përgjigja më e saktë, pasi udhëzimet etike zakonisht ndalojnë psikologët të kenë marrëdhënie seksuale me ish-klientët në raste kur mund të ketë rrezik shfrytëzimi, pavarësisht se sa kohë ka kaluar që nga përfundimi i terapisë. Ndërsa opsionet e tjera janë shumë të rrepta ose shumë të buta në krahasim me standardet etike të pranuara.",
 "Çfarë sëmundjeje nuk shkaktojnë viruset e herpesit?
 A.Paralizë infantile
 B.Encephalitis
 C.Sëmundje seksualisht të transmetueshme
-D.Kanceri",a,d,false
-" Communidades de Base është e lidhur me cilën nga më poshtë?
-A.Peshkopi Oscar Romero
-B.Rezistenca dhe ripërtëritja
-C.Dinjiteti i të gjithë qenieve njerëzore
-D.Të gjitha të mësipërmet",d,d,true
+D.Kanceri",A,"Përgjigja e saktë është:
+
+A. Paralizë infantile
+
+Viruset e herpesit nuk shkaktojnë paralizë infantile (poliomielitit). Paralizë infantile është një sëmundje e shkaktuar nga poliovirusi, jo nga viruset e herpesit.
+
+Viruset e herpesit mund të shkaktojnë:
+
+B. Encephalitis (inflamacion i trurit)
+C. Sëmundje seksualisht të transmetueshme (si herpes genital)
+D. Nuk shkaktojnë kancer, por mund të rrisin rrezikun e zhvillimit të disa llojeve të kancerit
+
+Pra, viruset e herpesit nuk shkaktojnë paralizë infantile, por mund të shkaktojnë sëmundje të tjera si encephalitis dhe sëmundje seksualisht të transmetueshme.",
+"Mikroçipat kompjuterikë modernë janë kryesisht të përbërë nga cili element?
+A.Natriumi
+B.Silikoni
+C.Alumini
+D.Argjend",B,"Përgjigja e saktë është:
+
+B. Silikoni
+
+Mikroçipat kompjuterikë modernë janë kryesisht të përbërë nga silikoni. Silikoni është një element gjysmëpërçues që përdoret gjerësisht në prodhimin e qarqeve të integruara dhe mikroçipave të kompjuterëve.
+
+Silikoni është një material i rëndësishëm në industrinë e elektronikës dhe teknologjisë së informacionit, pasi ai mund të modifikohet lehtësisht për të krijuar struktura të ndryshme dhe karakteristika të dëshiruara elektronike.
+
+Elementët e tjerë të përmendur, si natriumi, alumini dhe argjendi, nuk janë materialet kryesore që përbëjnë mikroçipat kompjuterikë modernë.",
 "Vijat e fushës magnetike rreth një forme teli që mbart rrymën
 A.Rrathët
 B.Vijat radiale
 C.Rrymat eddy
-D.Lakoret e energjisë",a,a,true
+D.Lakoret e energjisë",A,"Përgjigja e saktë është A. Rrathët.
+
+Kur një tel mbart rrymë elektrike, ai krijon një fushë magnetike rreth vetes. Forma e kësaj fushe magnetike është në formë të rrathëve koncentrikë, të quajtur rrathët e fushës magnetike.
+
+Këta rrathë magnetikë janë të orientuar pingul me drejtimin e rrymës që kalon nëpër tel. Ata mund të vizualizohen duke përdorur lima të holla të magnetizuara ose pluhur hekuri të vendosur pranë telit.
+
+Pra, përgjigja e saktë është A. Rrathët, pasi rrathët e fushës magnetike rreth një teli që mbart rrymë elektrike janë forma e dukshme e fushës magnetike të krijuar.",
+"Qëllimi i një studimi me dy verbëri ose me maskë të dyfishtë është:
+A.Arritja e krahasueshmërisë së lëndëve të trajtuara dhe të patrajtuara
+B.Zvogëloni efektet e variacionit të échantillonimit
+C.Evitoni paragjykimet e vëzhguesve dhe të subjektit
+D.Evitoni paragjykimet e vëzhguesve dhe variacionin e échantillonimit",B,"Përgjigja e saktë është C. Evitoni paragjykimet e vëzhguesve dhe të subjektit.
+
+Qëllimi kryesor i një studimi me dy verbëri ose me maskë të dyfishtë është të evitojë paragjykimet e vëzhguesve dhe të subjektit. Kjo arrihet duke mos i zbuluar as vëzhguesit as subjektet se cilët janë trajtuar dhe cilët jo, duke i mbajtur të gjithë të verbër ndaj kësaj informacioni.
+
+Kjo metodologji ndihmon në zvogëlimin e efekteve të paragjykimeve të mundshme që mund të ndikojnë në rezultatet e studimit, duke siguruar objektivitet më të lartë.
+
+Alternativat e tjera nuk janë qëllimet kryesore të këtij lloj studimi, edhe pse mund të jenë efekte të tërthorta pozitive.",
+"Hulumtimet mbi përvetësimin e gjuhës së dytë kanë treguar se cili nga më poshtë rreth fëmijëve që fitojnë një gjuhë të dytë
+A.Zhvillimi i tyre kognitiv vonohet
+B.Ata kanë artikulim më të mirë se fëmijët që nuk janë dygjuhësh
+C.Aftësia e tyre në gjuhën amtare nuk ka asnjë efekt në normën e marrjes së gjuhës së dytë
+D.Ata kanë rritur fleksibilitetin kognitiv",D,"Hulumtimet mbi përvetësimin e gjuhës së dytë kanë treguar se:
+
+D. Ata kanë rritur fleksibilitetin kognitiv.
+
+Fëmijët që fitojnë një gjuhë të dytë shfaqin një rritje të fleksibilitetit kognitiv, që do të thotë se ata kanë një aftësi më të mirë për të ndryshuar perspektivat dhe për të zgjidhur probleme në mënyra të ndryshme.
+
+Përsa i përket alternativave të tjera:
+
+A. Zhvillimi i tyre kognitiv nuk vonohet, por përkundrazi mund të përshpejtohet.
+
+B. Ata mund të kenë artikulim më të mirë në gjuhën e dytë, por kjo nuk është e garantuar.
+
+C. Aftësia e tyre në gjuhën amtare mund të ketë një efekt pozitiv në normën e marrjes së gjuhës së dytë.
+
+Pra, fleksibiliteti kognitiv i rritur është një nga përfitimet kryesore të fëmijëve që fitojnë një gjuhë të dytë.",
+"Në kontekstin e globalizimit, si mund ta përkufizojmë më së miri termin 'zhvillim'?
+A.Termi zhvillim i referohet gjendjes njerëzore në të cilën ekziston liria nga frika dhe dëshira; Ka burime të mjaftueshme për të mbështetur jetën dhe kjo jetë mund të ekzistojë në një shtet të lirë nga kërcënimi, ose kërcënimi i perceptuar, i ndërprerjes së papritur.
+B.Për t'u konsideruar si i zhvilluar, një komb duhet të ketë arritur një status të caktuar ekonomik dhe politik brenda sistemit shtetëror global; Kriteri për atë që përbën një gjendje 'të zhvilluar' përcaktohet kështu nga ato kërkesa të ndërveprimit në këtë sistem.
+C.Zhvillimi është një mjet për të trajtuar pabarazitë që shoqërojnë globalizimin neoliberal. Në këtë kontekst, zhvillimi i referohet aftësisë së një popullsie ose komuniteti për të përdorur në mënyrë efektive burimet dhe për të rritur efikasitetin në prodhim dhe shpërndarje, duke nxitur shpërndarjen më të barabartë të të ardhurave brenda shoqërisë.
+D.Zhvillimi i një komuniteti i referohet sistemeve ideologjike dhe etike të vlerave të cilave popullsia e saj abonohet. Në sistemin ndërkombëtar të globalizuar kjo i referohet miratimit të ideologjisë demokratike liberale perëndimore dhe ekonomisë së tregut të lirë.",C,"Nga alternativat e dhëna, përgjigja më e përshtatshme për të përkufizuar termin ""zhvillim"" në kontekstin e globalizimit është:
+
+C. Zhvillimi është një mjet për të trajtuar pabarazitë që shoqërojnë globalizimin neoliberal. Në këtë kontekst, zhvillimi i referohet aftësisë së një popullsie ose komuniteti për të përdorur në mënyrë efektive burimet dhe për të rritur efikasitetin në prodhim dhe shpërndarje, duke nxitur shpërndarjen më të barabartë të të ardhurave brenda shoqërisë.
+
+Kjo përgjigje e sheh zhvillimin si një mjet për të adresuar pabarazitë që vijnë si pasojë e globalizimit neoliberal, duke theksuar rëndësinë e përdorimit efektiv të burimeve, rritjes së efikasitetit ekonomik dhe shpërndarjes më të barabartë të të ardhurave. Kjo qasje është më e përshtatshme për të kuptuar zhvillimin në kontekstin e globalizimit sesa alternativat e tjera.",
+" Communidades de Base është e lidhur me cilën nga më poshtë?
+A.Peshkopi Oscar Romero
+B.Rezistenca dhe ripërtëritja
+C.Dinjiteti i të gjithë qenieve njerëzore
+D.Të gjitha të mësipërmet",D,"Përgjigja e saktë është:
+
+D. Të gjitha të mësipërmet
+
+Komunidades de Base (Komunitetet e Bazës) është e lidhur me të gjitha elementet e dhëna më lart:
+
+A. Peshkopi Oscar Romero - Ai ishte një mbështetës i rëndësishëm i Komunidades de Base në Amerikën Latine.
+
+B. Rezistenca dhe ripërtëritja - Komunidades de Base u zhvillua si një lëvizje e rezistencës dhe ripërtëritjes së komuniteteve të varfra në Amerikën Latine.
+
+C. Dinjiteti i të gjithë qenieve njerëzore - Kjo ishte një nga parimet kryesore të Komunidades de Base, që synonte të ngrinte dinjitetin e të gjithë njerëzve.
+
+Pra, Komunidades de Base është e lidhur me të gjitha elementet e dhëna në përgjigjet e mësipërme.",
+"Cila nga pikat e mëposhtme mbështet argumentin për njëanshmërinë amerikane?
+A.Hegjemonia dashamirëse
+B.Paefektshmëria e multilateralizmit
+C.Fuqia amerikane
+D.Të gjitha të mësipërmet",D,"Nga pikat e dhëna, argumenti për njëanshmërinë amerikane mbështetet më së miri nga pika C. ""Fuqia amerikane"".
+
+Arsyeja është se fuqia e madhe e Shteteve të Bashkuara dhe pozita e tyre dominuese në arenën ndërkombëtare i jep atyre mundësinë të ndikojnë dhe të veprojnë në mënyrë të njëanshme, duke injoruar apo anashkaluar interesat e vendeve të tjera.
+
+Pika A ""Hegjemonia dashamirëse"" nuk e mbështet drejtpërdrejt argumentin për njëanshmërinë, pasi hegjemonia mund të jetë edhe e balancuar dhe e drejtë.
+
+Pika B ""Paefektshmëria e multilateralizmit"" gjithashtu nuk e mbështet drejtpërdrejt argumentin, pasi paefektshmëria e multilateralizmit nuk do të thotë domosdoshmërisht njëanëshmëri amerikane.
+
+Prandaj, nga alternativat e dhëna, pika C ""Fuqia amerikane"" është më e përshtatshme për të mbështetur argumentin për njëanshmërinë amerikane.",
+"Një supermarket sapo ishte rihapur pas një mbylljeje dy javore për rinovime. Në mëngjesin e rihapjes, një grua po bënte pazar kur papritur ra dhe pësoi një këmbë të thyer. Pas kësaj, gruaja paditi supermarketin për dëmtime personale. Në kostumin e saj, gruaja pohoi se ajo u përplas mbi një kovë bojë që kishte qenë e shtrirë në një nga korridoret. Në gjyq, gruaja thirri një klient tjetër për të dëshmuar se ndërsa po bënte pazar dëgjoi një rrugaç, u kthye dhe pa gruan të binte në dysheme. Ai gjithashtu dëshmoi se pa një kovë bojë bosh të shtrirë disa metra nga këmba e gruas. Gjatë interpelancës, klienti u fut në një shkëmbim argumentues me avokatin e supermarketit. Kur e pyetën për mendimin e tij se çfarë e shkaktoi rënien e gruas, klienti dëshmoi: « Ajo ra sepse u tret në kovë. » Ai pranoi në interpelancë, megjithatë, se në fakt nuk e kishte parë gruan të udhëtonte në kovë. Avokati i supermarketit pastaj i bëri klientit pyetjen e mëposhtme: ""Nëse nuk e keni parë gruan të udhëtojë në kovë, si e dini se ajo ra për shkak të saj?"" Klienti u përgjigj: « Sepse e dashura ime që po bënte pazar me mua më tha më vonë se e pa gruan të udhëtonte mbi kovë. » Avokati i supermarketit lëviz për të goditur përgjigjen e fundit të klientit. Nëse gjykatësi i gjyqit e tejkalon kërkesën e të pandehurit dhe lejon që përgjigja e klientit të qëndrojë në këmbë, ka shumë të ngjarë të jetë sepse
+A.Përgjigja e klientit u ftua nga pyetja e avokatit të supermarketit.
+B.Përgjigja e klientit bazohej në njohuritë e dorës së parë.
+C.Përgjigja e klientit ishte një deklaratë e perceptimit të kohëve të fundit.
+D.Përgjigja e klientit ishte një përshtypje e tanishme e sensit.",A,"Përgjigja e saktë është C. Përgjigja e klientit ishte një deklaratë e perceptimit të kohëve të fundit.
+
+Arsyetimi:
+
+Klienti dëshmoi se e dashura e tij, e cila po bënte pazar me të, i tha më vonë se e pa gruan të udhëtonte mbi kovën. Kjo tregon se klienti nuk e kishte parë vetë këtë ngjarje, por e dinte nga informacioni i marrë më vonë nga e dashura e tij. Pra, përgjigja e tij ishte një deklaratë e perceptimit të kohëve të fundit, jo një njohuri të drejtpërdrejtë.
+
+Opsioni A është i pasaktë, pasi përgjigja e klientit nuk u ftua nga pyetja e avokatit, por ishte një informacion që ai ofroi vetë.
+
+Opsioni B është i pasaktë, pasi përgjigja e klientit nuk ishte bazuar në njohuritë e tij të drejtpërdrejta, por në informacionin e marrë nga e dashura e tij.
+
+Opsioni D është i pasaktë, pasi përgjigja e klientit nuk ishte një përshtypje e tanishme e sensit, por një informacion i marrë më vonë.",
+"Policia mori një informatë nga një informator i besueshëm se një burrë po shiste kokainë nga shtëpia e tij. Më pas, oficerët i paraqitën një magjistrati një affidavit që paraqiste rrethanat që tregonin shkakun e mundshëm për lëshimin e një urdhër-kërkimi. Gjykatësi lëshoi një urdhër kërkimi për lëndë narkotike në adresë të këtij burri. Policët shkuan në shtëpinë e burrit dhe i ranë ziles së derës. Kur askush nuk u përgjigj, policia hyri brenda dhe hyri në banesë. Ata kontrolluan dhomat në katin e parë dhe nuk gjetën prova inkriminuese, pastaj dolën jashtë dhe vunë re një hyrje të veçantë që të çonte në katin e dytë të banesës. Ata u ngjitën në shkallë dhe hynë në një dhomë gjumi lart. Brenda dhomës oficerët gjetën një sasi kokaine të shtrirë mbi një rrobaqepës. Ndërsa oficerët po vazhdonin kërkimet e tyre në dhomën e gjumit, i pandehuri hyri në dhomë. Policia e pyeti të pandehurin nëse ai ishte ai njeri. I pandehuri u identifikua dhe i tha policisë se ata ndodheshin në dhomën e tij të gjumit dhe ai zinte katin e dytë të banesës. I pandehuri shpjegoi se burri banonte në katin e parë dhe banesat e tij ishin të ndara nga ajo e të pandehurit. Megjithatë, i pandehuri u vu nën arrest dhe u akuzua për posedim të kokainës. I pandehuri ka paraqitur një kërkesë për të përjashtuar kokainën nga pranimi në prova. Kërkesa e të pandehurit duhet të jetë
+A.dhënë, sepse urdhër-arresti nuk e emëroi të pandehurin.
+B.dhënë, sepse urdhër-arresti nuk thoshte me specifikë zonën që do të kontrollohej.
+C.mohoi, sepse policia besonte në mënyrë të arsyeshme se po kontrollonte banesën e burrit kur hyri në banesat e të pandehurit.
+D.mohuar, sepse urdhër-arresti ishte i vlefshëm dhe i lëshuar me shkak të mundshëm.",C,"Përgjigja e saktë është C. mohuar, sepse policia besonte në mënyrë të arsyeshme se po kontrollonte banesën e burrit kur hyri në banesat e të pandehurit.
+
+Arsyetimi:
+
+Edhe pse i pandehuri pretendonte se banesat e tij ishin të ndara nga ajo e burrit, policia kishte një urdhër-kërkimi të vlefshëm për të kontrolluar banesën e burrit, të cilin ata besuan se po kontrollonin. Kur ata gjetën kokainën në dhomën e gjumit të të pandehurit, ata vepruan në mënyrë të arsyeshme duke besuar se po kontrollonin banesën e burrit të cilit i ishte lëshuar urdhër-kërkimi. Prandaj, kërkesa e të pandehurit për të përjashtuar kokainën nga provat duhet të mohohet.
+
+Përgjigjet e tjera nuk janë të sakta:
+
+A. Nuk është e saktë, sepse urdhër-arresti e emëronte të pandehurin.
+B. Nuk është e saktë, sepse urdhër-arresti specifikonte zonën që do të kontrollohej.
+D. Nuk është e saktë, sepse urdhër-arresti ishte i vlefshëm dhe i lëshuar me shkak të mundshëm.",
+"Një punonjës i firmës së madhe prodhuese e gjen punën të mërzitshme, dhe e ndjek punën vetëm për paratë. Punonjësi performon minimalisht, dhe nuk është i motivuar kështu që prodhojnë sasi më të lartë ose cilësi më të mirë. Sipas teorisë me dy faktorë të F. Herzberg, mënyra më e mirë 10 për të rritur vetë-motivimin e këtij punëtori do të ishte të
+A.ofrojnë një rritje dhe pagesë nxitëse për rendiment më të madh
+B.Ridizajnoni punën për të ofruar një sfidë dhe një ndjenjë arritjeje
+C.Rritja e mundësive për ndërveprim social të informuar
+D.Sigurojini punonjësit një baticë pune që mban prestigj më të madh",B,"Sipas teorisë me dy faktorë të Herzberg, mënyra më e mirë për të rritur vetë-motivimin e këtij punonjësi do të ishte:
+
+B. Ridizajnoni punën për të ofruar një sfidë dhe një ndjenjë arritjeje.
+
+Teoria e Herzberg-ut identifikon dy grupe kryesore faktorësh që ndikojnë në motivimin e punonjësve:
+
+1. Faktorët higjienë (si paga, kushtet e punës, politikat e kompanisë, etj.) - këta faktorë mund të parandalojnë pakënaqësinë, por nuk mund të motivojnë në mënyrë aktive.
+
+2. Faktorët motivues (si arritja, njohja, përgjegjësia, rritja dhe zhvillimi) - këta faktorë mund të motivojnë punonjësit në mënyrë aktive.
+
+Në rastin e këtij punonjësi, i cili e gjen punën të mërzitshme dhe nuk është i motivuar, ridizajnimi i punës për të ofruar një sfidë dhe një ndjenjë arritjeje do të ishte mënyra më e mirë për të rritur vetë-motivimin e tij, sipas teorisë së Herzberg-ut.
+
+Kjo do të ndihmonte në plotësimin e nevojave të tij për vetë-realizim dhe rritje, duke e bërë punën më të kënaqshme dhe më motivuese.",
+"Studimet në etiologjinë e Skizofrenisë treguan një predispozitë gjenetike ndaj gjendjes, por faktorë të tjerë janë të përfshirë. Nga njohuritë tuaja për subjektin identifikoni se cila nga deklaratat e mëposhtme është e pasaktë.
+A.Dopamina e tepërt ose ndjeshmëria ndaj dopaminës mund të jetë një faktor kontribues.
+B.Pacientët e bardhë janë më simptomatikë.
+C.Remission nga gjendja në Botën e Tretë është 65%.
+D.Një shkallë më e ulët e skizofrenisë diagnostikuar në mesin e afrikano-amerikanëve.",D,"Deklarata e pasaktë nga ato të dhëna është:
+
+B. Pacientët e bardhë janë më simptomatikë.
+
+Arsyeja:
+- Studimet kanë treguar se nuk ka dallime të rëndësishme në shfaqjen e simptomave të skizofrenisë midis grupeve etnike.
+- Faktorë të tjerë si qasja në kujdesin shëndetësor, statusi socioekonomik dhe diskriminimi mund të ndikojnë në diagnostikimin dhe trajtimin e skizofrenisë, por nuk ka dëshmi të qarta që pacientët e bardhë janë më simptomatikë.
+
+Deklaratat e tjera janë të sakta:
+A. Dopamina e tepërt ose ndjeshmëria ndaj dopaminës mund të jetë një faktor kontribues në shfaqjen e skizofrenisë.
+C. Remisioni nga sëmundja në vendet e Botës së Tretë është rreth 65%, që është më i lartë se në vendet e zhvilluara.
+D. Studimet kanë treguar se sëmundja e skizofrenisë diagnostikohet në një shkallë më të ulët në mesin e afrikano-amerikanëve, ndoshta për shkak të faktorëve sociokulturorë dhe qasjes në kujdesin shëndetësor.",
+"Një burrë ishte pronari i hotelit të sapondërtuar në një qytet. Më 15 mars, burri mori një telefonatë nga një shitës që ishte shpërndarës i pajisjeve të hotelit. Shitësi ofroi t'i shiste njeriut 1,000 fikës zjarri për hotelin e tij. Shitësi i tha burrit se kostoja e fikësve të zjarrit do të ishte 35,000 dollarë (ose 35 dollarë secila), e pagueshme 90 ditë pas dorëzimit. Shitësi premtoi se do të instalojë fikësit e zjarrit jo më vonë se 15 prilli. Më 16 mars, burri i telefonoi shitësit dhe pranoi ofertën. Ditën tjetër, burri i dërgoi me postë memon e mëposhtme shitësit: « Ju lutem, më këshilloni që të marr një zbritje prej 15 për qind për pagesën me para në dorë shtatë ditë pas instalimit. » Shitësi mori korrespondencën e burrit më 20 mars. Më 1 prill, shitësi i dërgoi një telegram burrit, ku thuhej: «Është e dukshme se nuk kemi një kontratë të zbatueshme në fuqi. Nuk do t'i dorëzoj fikësit e zjarrit më 15 prill apo ndonjë herë tjetër. ""Burri ngre padi kundër shitësit për shkelje të kontratës. Shitësi pohon mbrojtjen e statutit të mashtrimeve sipas UCC. Cila nga këto është deklarata më e saktë në lidhje me mbrojtjen e shitësit?
+A.Mbrojtja e shitësit është e vlefshme, sepse memoja e njeriut nuk ishte e mjaftueshme për të treguar se ishte formuar një kontratë.
+B.Mbrojtja e shitësit është e vlefshme, sepse memoja e njeriut nuk përputhej me kushtet e ofertës gojore të shitësit.
+C.Mbrojtja e shitësit nuk është e vlefshme, sepse shitësi nuk iu përgjigj memos së njeriut brenda një periudhe të arsyeshme kohore.
+D.Mbrojtja e shitësit nuk është e vlefshme, sepse sipas UCC-së statuti i mashtrimeve nuk është i zbatueshëm në marrëveshjet midis tregtarëve.",A,"Përgjigja e saktë është:
+
+D. Mbrojtja e shitësit nuk është e vlefshme, sepse sipas UCC-së statuti i mashtrimeve nuk është i zbatueshëm në marrëveshjet midis tregtarëve.
+
+Arsyetimi:
+
+Sipas Kodit Uniform Tregtar (UCC), statuti i mashtrimeve nuk zbatohet në marrëveshjet midis tregtarëve. Në këtë rast, si pronari i hotelit ashtu edhe shitësi i pajisjeve të zjarrit konsiderohen tregtar, prandaj statuti i mashtrimeve nuk mund të përdoret si mbrojtje nga shitësi.
+
+Opsionet e tjera nuk janë të sakta:
+
+A. Mbrojtja e shitësit nuk është e vlefshme, sepse memoja e njeriut ishte një përgjigje e mjaftueshme për të treguar se ishte formuar një kontratë.
+
+B. Mbrojtja e shitësit nuk është e vlefshme, sepse memoja e njeriut përputhej me kushtet e ofertës gojore të shitësit.
+
+C. Mbrojtja e shitësit nuk është e vlefshme, sepse shitësi nuk iu përgjigj memos së njeriut brenda një periudhe të arsyeshme kohore, duke pranuar ose refuzuar ofertën.",
+"Një grua 54-vjeçare vjen në zyrë për shkak se ka pasur dhimbje të shtënash intermittente mbi faqen e djathtë dhe nofullën gjatë 3 javëve të fundit. Çdo episod i dhimbjes zgjat për 1 sekondë ose më pak. Dhimbja shpesh shkaktohet nga ajri i ftohtë, përtypja, stimulimi tactile dhe larja e dhëmbëve. Ajo nuk ka pasur asnjë traumë në fytyrë apo në kokë. Historia mjekësore është e jashtëzakonshme për dhimbjet e kokës të tensionit, dhjamosjen dhe kirurgjinë gastrike të anashkalimit. Ajo është 165 cm (5 ft 5 in) e gjatë dhe peshon 62 kg (137 lb); BMI është 23 kg/m2. Shenjat jetësore janë normale. Pacienti nuk mund të tolerojë prekjen në anën e djathtë të fytyrës. Nuk ka dobësi të fytyrës ose humbje të ndjesisë. Pjesa tjetër e ekzaminimit fizik nuk tregon anomali. Skanimi CT i kokës me dhe pa kontrast nuk tregon anomali. Cila nga këto është farmakoterapia më e përshtatshme në këtë kohë?
+A.Carbamazepine
+B.Lamotrigine
+C.Levetiracetam
+D.Topiramate",A,"Bazuar në informacionin e dhënë, farmakoterapia më e përshtatshme në këtë rast duket të jetë:
+
+A. Carbamazepine
+
+Arsyeja:
+- Pacienti paraqet simptoma të dhimbjes së shtënave intermitente në faqen e djathtë dhe nofullën, të cilat përshkruhen si karakteristike të neuralgjisë trigeminale.
+- Carbamazepine është medikamenti i parë i zgjedhjes për trajtimin e neuralgjisë trigeminale, duke qenë efektiv në kontrollin e dhimbjes së shtënave.
+- Dhimbja e përshkruar, e shkaktuar nga stimujt si ajri i ftohtë, përtypja, prekja, etj., është tipike për neuralgjinë trigeminale.
+- Skanimi CT i kokës nuk ka treguar anomali, duke përjashtuar kështu shkaqe organike të dhimbjes.
+
+Opsionet e tjera:
+- Lamotrigine, levetiracetam dhe topiramate janë gjithashtu medikamente të përdorura për trajtimin e neuralgjisë trigeminale, por carbamazepine mbetet medikamenti i parë i zgjedhjes.
+
+Prandaj, carbamazepine është farmakoterapia më e përshtatshme në këtë rast.",
+"Brenda cilës fushë të marrëdhënieve publike ka të ngjarë të përfshijë lobim?
+A.Korporata
+B.Marrëdhëniet financiare
+C.Çështjet publike
+D.Biznes në biznes",C,"Përgjigja e saktë është:
+
+C. Çështjet publike
+
+Lobimi është një aspekt i marrëdhënieve publike që përfshin përpjekjet për të ndikuar në politikëbërjen dhe vendimmarrjen qeveritare. Kjo bëhet zakonisht në fushën e çështjeve publike, ku organizatat përpiqen të ndikojnë në politikat dhe vendimet që prekin interesat e tyre.
+
+Korporatat, marrëdhëniet financiare dhe biznesi në biznes nuk janë fushat kryesore ku përfshihet lobimi si pjesë e marrëdhënieve publike. Lobimi është më i lidhur me çështjet publike dhe ndikimin në politikëbërjen qeveritare.",
+"Një fermer aktualisht është pronar i regjistrimit të një parcele toke të caktuar si « A. » Ajo është më e larta e dy pronave fqinje në një mal. Një fermer është pronari i parcelës ""B"", e cila ndodhet më poshtë se ""A"" në rrëzë të malit. Në vitin 2000, fermeri, i cili zotëronte të dyja parcelat e tokës, ndërtoi një sistem privat kullimi. Ky sistem përbëhej nga një tubacion nëntokësor që shtrihej në të dy parcelat e tokës. Ujërat e zeza nga parcela ""A"" u derdhën përmes sistemit në një kanal kanalizimi komunal, i cili ndodhej në fund të malit. Në vitin 2005, fermeri i shiti parcelën ""B"" fermerit. Vepra ndaj fermerit nuk përmbante asnjë përmendje të sistemit të kullimit të fermerit. Të vendosura në secilën prej parcelave janë shtëpi të mëdha të stilit ranch të zënë nga pronarët përkatës. Kohët e fundit, kullimi i ujërave të zeza ka filluar të lëshojë një erë të pakëndshme në të gjithë parcelën « B ». Si pasojë, fermeri e paditi fermerin në shkelje duke u lutur për dëmet e shkaktuara nga sistemi i kullimit. Gjykimi duhet të jetë për
+A.fermeri, sepse vepra ndaj fermerit nuk përmbante asnjë besëlidhje që kufizonte përdorimin e tokës nga ana e fermerit.
+B.Fermeri, sepse shkaku i duhur i veprimit të fermerit do të ishte për bezdisje, në vend se për shkelje.
+C.fermeri, sepse sistemi i kullimit ishte shkaku i përafërt i dëmeve të paditësit si çështje ligji.
+D.Fermeri, sepse fermeri nuk kishte të drejtë të përmirësonte tokën e tij në një mënyrë që i shkaktonte dëm një tjetri.",B,"Përgjigja e saktë është C. fermeri, sepse sistemi i kullimit ishte shkaku i përafërt i dëmeve të paditësit si çështje ligji.
+
+Arsyetimi:
+
+1. Fermeri që zotëronte të dyja parcelat ""A"" dhe ""B"" ndërtoi një sistem privat kullimi që përbëhej nga një tubacion nëntokësor që shtrihej në të dyja parcelat. Kjo tregon se sistemi i kullimit ishte i lidhur me të dyja parcelat.
+
+2. Kur fermeri shiti parcelën ""B"", vepra nuk përmbante asnjë kufizim për përdorimin e sistemit të kullimit. Kjo do të thotë se e drejta për të përdorur sistemin e kullimit u transferua me shitjen e parcelës ""B"".
+
+3. Problemi i erës së pakëndshme në parcelën ""B"" është shkaktuar nga sistemi i kullimit, i cili është shkaku i përafërt i dëmeve të paditësit. Prandaj, fermeri që zotëron parcelën ""B"" mund të padisë fermerin për këtë çështje.
+
+Opsionet e tjera nuk janë të sakta:
+
+A. Fermeri nuk mund të padisë fermerin, pasi e drejta për të përdorur sistemin e kullimit u transferua me shitjen e parcelës ""B"".
+
+B. Shkaku i duhur i veprimit të fermerit do të ishte për shkelje, jo për bezdisje.
+
+D. Fermeri kishte të drejtë të përmirësonte tokën e tij duke ndërtuar sistemin e kullimit, por ai duhet të kujdesej që ky sistem të mos shkaktonte dëme të tjerëve.",
+"Përpara se të vendosej një propozim për bashkimin e dy qyteteve në votim, prokurorja e përgjithshme e shtetit lëshoi një opinion këshillimor ku thuhej se masa, sipas saj, nuk shkelte asnjë dispozitë statutore apo kushtetuese. Pas kësaj, propozimi u vendos në votim dhe u miratua me shumicë dërrmuese nga votuesit në të dy qytetet. Pas zgjedhjeve, por para se bashkimi të kryhej zyrtarisht, dy taksapagues nga një nga qytetet nisën padinë për të lidhur bashkimin, duke sulmuar kushtetutshmërinë e propozimit. Padia arriti në gjykatën e lartë të shtetit dhe u zbulua se ishte kushtetuese si sipas ligjit shtetëror ashtu edhe atij federal. Paditësit tani paraqesin një kërkesë që kërkon që kjo çështje të shqyrtohet nga Gjykata e Lartë e Shteteve të Bashkuara. Gjykata mund të
+A.Mos e dëgjoni rastin, sepse u vendos për baza të pavarura shtetërore.
+B.Nuk e dëgjon çështjen, por mund ta ketë kthyer në gjykatën federale të qarkut.
+C.Dëgjoni çështjet federale të përfshira, por refuzoni të sundoni mbi çështjen e shtetit.
+D.Mbështetuni në opinionin këshillimor të dhënë nga Prokurori i Përgjithshëm i Shtetit dhe mos e dëgjoni çështjen në bazë të meritës së tij.",A,"Përgjigja e saktë është C. Dëgjoni çështjet federale të përfshira, por refuzoni të sundoni mbi çështjen e shtetit.
+
+Arsyetimi:
+
+Në këtë rast, edhe pse propozimi për bashkimin e dy qyteteve u miratua me shumicë dërrmuese nga votuesit në të dy qytetet, dy taksapaguesit nga njëri prej qyteteve kanë ngritur padi për të sulmuar kushtetutshmërinë e propozimit. Kjo çështje ka arritur në Gjykatën e Lartë të Shtetit dhe është gjetur se propozimi është kushtetues sipas ligjit shtetëror dhe atij federal.
+
+Tani, paditësit kërkojnë që kjo çështje të shqyrtohet nga Gjykata e Lartë e Shteteve të Bashkuara.
+
+Në këtë rast, Gjykata e Lartë e Shteteve të Bashkuara duhet të dëgjojë çështjet federale të përfshira, por të refuzojë të vendosë mbi çështjen e shtetit. Kjo sepse çështja është gjetur e kushtetueshme sipas ligjit shtetëror dhe federal, dhe Gjykata e Lartë e Shteteve të Bashkuara nuk duhet të ndërhyjë në çështjet e brendshme të shtetit, të cilat janë zgjidhur në nivel shtetëror.
+
+Opsionet e tjera nuk janë të përshtatshme:
+A. Mos e dëgjoni rastin, sepse u vendos për baza të pavarura shtetërore - Kjo nuk është e saktë, pasi ka çështje federale të përfshira.
+B. Nuk e dëgjon çështjen, por mund ta ketë kthyer në gjykatën federale të qarkut - Kjo nuk është e saktë, pasi çështja është në Gjykatën e Lartë të Shteteve të Bashkuara.
+D. Mbështetuni në opinionin këshillimor të dhënë nga Prokurori i Përgjithshëm i Shtetit dhe mos e dëgjoni çështjen në bazë të meritës së tij - Kjo nuk është e saktë, pasi çështja ka arritur në Gjykatën e Lartë të Shteteve të Bashkuara.",
+"Cili nga më poshtë është një dokument personal me akses të mbyllur?
+A.'Letër e bardhë' e qeverisë
+B.Të dhënat konfidenciale mjekësore
+C.Libri i llogarive shtëpiake
+D.Regjistri i aksioneve të një biznesi",C,"Përgjigja e saktë është:
+
+B. Të dhënat konfidenciale mjekësore
+
+Të dhënat mjekësore personale janë të konsideruara si dokumente personale me akses të kufizuar dhe konfidencial. Ato nuk duhet të jenë të aksesueshme nga publiku i gjerë pa lejen e personit të interesuar.
+
+Ndërsa dokumentet e tjera të renditura, si 'Letër e bardhë' e qeverisë, libri i llogarive shtëpiake dhe regjistri i aksioneve të një biznesi, nuk konsiderohen si dokumente personale me akses të kufizuar.",

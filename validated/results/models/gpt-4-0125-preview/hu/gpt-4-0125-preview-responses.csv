@@ -1,182 +1,39 @@
 Question,CorrectAnswer,GivenAnswer,Correct
-"Mi az a visszajátszásos támadás?
-A.Amikor a támadó válaszol a rendszer által küldött üzenetre
-B.Olyan támadás, amely folyamatosan ismétlődik, gyengeséget keresve
-C.Olyan támadás, amely a rendszer saját üzeneteit használja, ezért nem védekezhető ellene
-D.A támadó újra elküldi a rögzített üzenetet, a webhely pedig elfogadja azt, és a támadó javára válaszol",d,d,true
-"Határozzuk meg a H+(vízben oldott) koncentrációt 1,0 M fenolban (C6H5OH) oldatban. (A fenol Ka értéke 1 × 10^-10.)
-A.1 × 10^-10 M
-B.1 × 10^-9 M
-C.1 × 10^-3 M
-D.1 × 10^-5 M",d,d.,true
-"A tanult tehetetlenség valószínűleg közvetlenül kapcsolódik a következőkhöz:
-A.a Barnum-hatás.
-B.öncélú elfogultság.
-C.külső ellenőrzési hely.
-D.feltétel nélküli pozitív tisztelet.",c,c.,true
-"Az alábbiak közül melyik tényező tekinthető ""húzó"" tényezőnek a Riva számára, amikor Indiából az Egyesült Államokba költözik?
-A.Nyomorúságos szegénység
-B.Jobb munkahely és magasabb bérek
-C.India kasztrendszere
-D.Erőszak a szomszédságában",b,b.,true
-"Összehasonlítva az olyan országok politikai pártjaival, mint Anglia és Izrael, amelyek mindegyike többpártrendszerrel rendelkezik, az amerikai politikai pártok
-A.kevésbé érdekli a választások eredményének befolyásolása
-B.kevésbé egyértelműen azonosulnak a következetes politikai ideológiákkal
-C.kevésbé hatékony a politikai támogatóktól való pénzszerzésben
-D.jobban tudják tükrözni teljes választókerületük céljait",b,b,true
-"Az alábbi bitkarakterlánc-készletek közül melyik NEM írható le reguláris kifejezéssel?
-A.Minden olyan bitkarakterlánc, amelynek nulláinak száma az öt többszöröse
-B.Minden bitkarakterlánc nullával kezdődik és eggyel végződik
-C.Minden páros számú nullával rendelkező bitkarakterlánc
-D.Minden bitkarakterlánc, amely nullánál több karakterláncot tartalmaz",d,d,true
-"Az achondroplasiát okozó mutációk olyan hatást fejtenek ki, amely a következőképpen osztályozható:
-A.domináns negatív.
-B.funkciónyereség.
-C.haploelégtelenség.
-D.funkcióvesztés.",b,a.,false
-"Az X ország minisztere által külföldön elkövetett jogellenes emberölés jure imperii vagy jure gestionis aktus?
-A.Az ilyen magatartás közjogi cselekménynek (jure imperii) minősül
-B.Az ilyen magatartás soha nem vonzza a mentességet
-C.Az ilyen magatartás magáncselekménynek (jure gestionis) minősül
-D.Az ilyen magatartás közcselekménynek minősül, de mentelmi jog védi",c,b.,false
-"A fotondetektor kvantumhatékonysága 0,1. Ha 100 fotont küldünk a detektorba, egyiket a másik után, a detektor érzékeli a fotonokat
-A.átlagosan 10-szer, kb. 4-es effektív eltéréssel
-B.átlagosan 10-szer, kb. 3-as effektív eltéréssel
-C.átlagosan 10-szer, kb. 1 effektív eltéréssel
-D.átlagosan 10-szer, kb. 0,1-es effektív eltéréssel",b,b.,true
-"A gazdaság mély recesszióban van. Ebben a gazdasági helyzetben a monetáris politikára vonatkozó alábbi állítások közül melyik a pontos?
-A.Az expanzív politika csak súlyosbítaná a recessziót.
-B.Az expanzív politika nagymértékben növeli az aggregált keresletet, ha a beruházások érzékenyek a kamatláb változásaira.
-C.A kontrakciós politika a beruházások és a fogyasztás megfelelő ösztönzője.
-D.Ha a pénz iránti kereslet tökéletesen rugalmas, az expanzív monetáris politika meglehetősen hatékony lehet.",b,b.,true
-"Az alábbiak közül melyik jellemző felel meg általában a randevú nemi erőszaknak?
-A.túlzott erő alkalmazása
-B.előre megfontolt
-C.szexuális indíttatású
-D.fegyverhasználattal jár",c,b.,false
-"Egy programozó írta az alábbi programot. A program a numList nevű számlistát használja. A program célja a listában szereplő számok összegének megjelenítése.
- összeg ← számLista [1]
- MINDEN értékhez a numList LISTÁBAN
- összeg ← összeg + érték
- DISPLAY összeg
- A program teszteléséhez a programozó inicializálja a numList fájlt [0 , 1 , 4 , 5] értékre. A program 10-et jelenít meg, és a programozó arra a következtetésre jut, hogy a program rendeltetésszerűen működik. Az alábbiak közül melyik igaz?
-A.A következtetés helyes; A program rendeltetésszerűen működik.
-B.A következtetés helytelen; A program nem jeleníti meg a teszteset helyes értékét [0, 1, 4, 5].
-C.A következtetés helytelen; A teszteset [0, 1, 4, 5] használata nem elegendő annak megállapításához, hogy a program helyes.
-D.A következtetés helytelen; A teszteset [0, 1, 4, 5] használata csak megerősíti, hogy a program növekvő sorrendben működik a listákon.",c,b,false
-"A szolgáltatóra kivetett adót nagyobb valószínűséggel hárítják át a fogyasztóra áremelés formájában, ha:
-A.A kereslet árrugalmassága rendkívül rugalmas.
-B.A kereslet árrugalmassága rendkívül rugalmatlan.
-C.A kereslet árrugalmassága egységrugalmas.
-D.A kereslet bérrugalmassága rendkívül rugalmas.",b,b.,true
-"A vállalkozások a _________ igényei miatt társadalmi elszámolással foglalkoznak a ________ azonosítása, a ___________ javítása, valamint a _________ és ___________ ösztönzése érdekében
-A.Érdekelt felek, kockázatok, érdekelt felek kezelése, elszámoltathatóság, átláthatóság
-B.Érdekelt felek, elszámoltathatóság, átláthatóság, kockázatok, érdekelt felek kezelése
-C.Érdekelt felek, elszámoltathatóság, kockázatok, érdekelt felek, érdekelt felek kezelése
-D.Érdekelt felek, érdekelt felek kezelése, átláthatóság, kockázatok, elszámoltathatóság",a,a,true
-"Az xy síkban az x^(log y) = y^log x gráfja
-A.A nyitott első negyed
-B.zárt görbe
-C.egy sugár a nyitott első negyedben
-D.egyetlen pont",a,c.,false
-"A tartály háromszög alakú prizma alakú. Ha a háromszög alakú alap területe 116 négyzetláb, és a tartály 30 láb magas, mennyi vizet tartalmazna a tartály, ha tele van?
-A.1725 Ft^3
-B.1740 Ft^3
-C.3480 Ft^3
-D.6960 Ft^3",c,b.,false
-"Keresse meg a $-\dfrac{1}{-3}\cdot\cfrac{1}{~\frac{1}{-3}~}.$ fájlt
-A.1
-B.-1
-C.0
-D.2",b,a.,true
-"A nagy energiájú foszfátok, az ATP és a foszfokreatin lebontásából felszabaduló energia körülbelül a következő időtartamig képes fenntartani a maximális terhelést:
-A.1-2 másodperc.
-B.5-10 másodperc.
-C.30-40 másodperc.
-D.50-60 másodperc.",b,c.,false
-"Ezek közül a horrorfilmek közül melyik szülte a legtöbb folytatást?
-A.Sikoly""
-B.Pofák""
-C.Halloween'
-D.Péntek 13-án""",d,c.,false
-"Ezek közül melyik teszi a homológ fehérjék aminosavszekvenciáján alapuló különböző fajok evolúciós rokonságának meghatározását általában kevésbé pontossá, mint a homológ gének nukleotidszekvenciáin alapuló rokonsági meghatározásokat?
-A.Csendes mutációk
-B.Génduplikációk
-C.A génszekvenciákat megváltoztató transzlokációs események
-D.Keresztezés",a,a.,true
-"Soros áramkörben, ha az egyik lámpában az áram 2 A, akkor a mellette lévő lámpában lévő áram
-A.fél, 1 A
-B.02:00
-C.Attól függ, hogy melyik lámpa van közelebb az akkumulátorhoz
-D.Nincs elég információ a mondanivalóhoz",b,a,false
-"1,5 × 10^6 m/s kezdeti sebességgel haladva a proton belép egy 1,5 T magnitúdójú állandó mágneses mező tartományába. Ha a proton kezdeti sebességvektora 30°-os szöget zár be a mágneses térrel, számítsuk ki a proton sebességét 4 másodperccel a mágneses mezőbe való belépés után.
-A.5,0 × 10^6 m/s
-B.7,5 × 10^6 m/s
-C.1,5 × 10^6 m/s
-D.3,0 × 10^6 m/s",c,c.,true
-"Melyik étel készül sertésbélből?
-A.Haggis
-B.kitlinek
-C.Kukoricadara
-D.Chop Suey",b,b.kitlinek,false
-"1. nyilatkozat | Egy csoportban (ab)^{-2} = b^{-2}a^{-2}. 2. nyilatkozat | Egy csoportban (ab)^n = a^nb^n.
-A.Igaz, igaz
-B.Hamis, hamis
-C.Igaz, hamis
-D.Hamis, igaz",b,"c.hamis, igaz",true
-"Garcia és Koelling kutatásai a tanult averziókkal kapcsolatban megállapították, hogy a következő UCS és CS párok közül melyik a legerősebb és a leggyorsabban megtanult?
-A.feladat elvégzése és élelmiszer-jutalom megszerzése
-B.hányinger és étel vagy ital
-C.mozgás és sokk
-D.Büntetések és jutalmak",b,b,true
-"A negatív maradék autokorrelációt az alábbiak közül melyik jelzi?
-A.Ciklikus mintázat a maradékokban
-B.Váltakozó minta a maradékokban
-C.Teljes véletlenszerűség a maradékokban
-D.Maradékok, amelyek mind közel vannak a nullához",b,b.,true
-"Melyik pszichológiai perspektíva volt a legnépszerűbb a huszadik század fordulóján Nyugat-Európában?
-A.Idegtudományi
-B.evolúciós
-C.Behaviorista
-D.pszichoanalitikus",d,d,true
-"A diákok növényi pigmentelválasztási gyakorlatot végeznek, amely megköveteli tőlük, hogy zárt kromatográfiás kamrát használjanak, kis mennyiségű acetonnal a kamra alján. Az acetonra vonatkozó biztonsági figyelmeztetések között szerepel az a kijelentés, hogy szem- és bőrirritáló, és gyúlékony gőzöket tartalmaz. Az alábbiak közül milyen biztonsági óvintézkedéseket kell tenniük a tanulóknak a gyakorlat során?
-A.Tűzálló kesztyű felhelyezése, hogy a kamrát füstelszívóhoz vigye, ha az aceton kigyullad
-B.A kamra zárt, sötétített szekrénybe helyezése a pigmentelválasztás idejére
-C.Bőrkesztyű viselése, valamint az orr és a száj eltakarása részecskemaszkkal
-D.Védőszemüveg és nitril típusú kesztyű viselése és az összes acetontartály zárva tartása",d,d,true
 "Milyen állapotban játszódik az 1999-es Magnólia című film?
 A.Kalifornia
 B.Dél-Karolina
 C.Grúzia
-D.Texas",a,a.kalifornia,true
+D.Texas",a,a. kalifornia,true
 "Úgy tűnik, hogy a középkorú felnőttek _____-ban vannak, mint az idősebb vagy fiatalabb felnőttek
 A.Nemző
 B.Neurotikus
 C.Kellemes
 D.Bizonyos",a,b.neurotikus,false
-"Határozza meg a következő feltételes javaslat előzményét: A Méhek csak akkor nyerik meg az első meccsüket, ha az Aardvarkok vagy a Mókusok nem nyerik meg az első meccseiket.
-A.Az Aardvarks nem nyeri meg első meccsét.
-B.A Méhek megnyerik első meccsüket.
-C.A mókusok nem nyerik meg az első meccsüket.
-D.Vagy az Aardvarkok, vagy a Mókusok nem nyerik meg első meccseiket.",b,b.,true
-"A beteg törött nyakát szenved, és a hatodik nyaki csigolya szintjén károsítja a gerincvelőt.
-A.Nem tudnak lélegezni élettámogatás nélkül.
-B.Csak csendesen lélegezhetnek.
-C.Lehetetlen megjósolni a légzésre gyakorolt hatást.
-D.A légzést ez nem befolyásolja.",b,a.,true
-"Ez a kérdés a következő információkra vonatkozik.
-""Valóban, mivel mind a kiváló [tudósok] fatwái, akik véleményüket az értelemre és a hagyományra alapozzák, mind a szunnita közösség konszenzusa egyetértenek abban, hogy a gonosz innováció kiirtásának, megsemmisítésének és kiűzésének ősi kötelezettségének magasztos törekvésünk céljának kell lennie, mert ""a vallási buzgóság a jótevő Isten hitének győzelme""; majd a próféta szavai szerint (Béke legyen vele!) ""Aki gonosz újítást visz be rendünkbe, azt ki kell utasítani"" és ""Aki a rendünk ellen cselekszik, azt ki kell utasítani"", a cselekvés szükségessé és követeltté vált...""
-I. Szelim oszmán szultán levele I. Iszmáíl szafavida sahhoz, 1514
-A szafavidák elsősorban azért vonták maguk után az iszlám birodalmak, mint az oszmán és a mogul birodalmak haragját, mert a szafavidák
-A.egy terjeszkedő birodalom volt, amely földrajzilag két másik terjeszkedő között helyezkedett el
-B.elutasította az iszlám központi tanait
-C.rabszolgává tette a keresztényeket, és szafavida harcosokká változtatta őket
-D.Iszmáíl kalifának kiáltotta ki magát",a,a.,true
-"Az alábbiak közül melyik ország bocsátotta ki a legtöbb egy főre jutó CO2-t 2017-ben?
-A.Japán
-B.Kanada
-C.Oroszország
-D.Irán",b,b.kanada,true
+"Mi Hollandia hivatalos nyelve?
+A.Dán
+B.Svéd
+C.Német
+D.Holland",d,d. holland,true
+"Mi Antonio Banderas színész anyanyelve?
+A.Spanyol
+B.Orosz
+C.Német
+D.Francia",a,a. spanyol,true
+"Az alábbiak közül melyik jellemző felel meg általában a randevú nemi erőszaknak?
+A.túlzott erő alkalmazása
+B.előre megfontolt
+C.szexuális indíttatású
+D.fegyverhasználattal jár",c,b. előre megfontolt,false
+" Ez a marketing- és kommunikációs eszköz közvetlen ösztönzést vagy ösztönzést kínál arra, hogy ösztönözze az ügyfeleket egy termék / szolgáltatás megvásárlására:
+A.Reklám.
+B.Közönségkapcsolatok.
+C.Reklámozás.
+D.Direkt marketing.",c,d.direkt marketing.,false
+"Az alábbiak közül melyik tényező tekinthető ""húzó"" tényezőnek a Riva számára, amikor Indiából az Egyesült Államokba költözik?
+A.Nyomorúságos szegénység
+B.Jobb munkahely és magasabb bérek
+C.India kasztrendszere
+D.Erőszak a szomszédságában",b,b. jobb munkahely és magasabb bérek,true
 "Ez a kérdés a következő információkra vonatkozik.
 Először is meg kell jegyeznünk, hogy a kozmosz gömb alakú, részben azért, mert ez a forma tökéletes egész, amely nem igényel ízületeket, a legteljesebb mind közül, részben azért, mert ez alkotja a legtágasabb formát, amely a legalkalmasabb arra, hogy mindent magába foglaljon és megőrizzen; vagy ismét azért, mert a világegyetem minden alkotórésze, azaz a Nap, a Hold és a bolygók ebben a formában jelennek meg; vagy azért, mert minden arra törekszik, hogy elérje ezt a formát, mint ahogy a vízcseppek és más folyékony testek esetében megjelenik, ha megpróbálják meghatározni magukat. Tehát senki sem kételkedik abban, hogy ez a forma az égitestekhez tartozik. ...
 Az, hogy a Föld gömb alakú is, nem kérdéses, mert minden oldalról a középpontjához nyomódik. Bár a hegyek emelkedése és a völgyek mélyedései miatt nem lehet megérteni egy tökéletes kört, ez mégsem befolyásolja a föld általános gömb természetét. ...
@@ -186,22 +43,215 @@ Ez a szakasz bizonyítékként szolgálhat arra, hogy Kopernikusz különbözöt
 A.A kozmosz gömb alakú
 B.a Föld gömb alakú
 C.A kozmosz geosztatikus
-D.a Föld nem mozdulatlan",d,d,true
+D.a Föld nem mozdulatlan",d,d. a föld nem mozdulatlan,true
+"Ezek közül a horrorfilmek közül melyik szülte a legtöbb folytatást?
+A.Sikoly""
+B.Pofák""
+C.Halloween'
+D.Péntek 13-án""",d,"a ""péntek 13-án"" (friday the 13th) sorozat szülte a legtöbb folytatást. ez a franchise több mint 10 filmet tartalmaz, beleértve az eredeti filmeket, folytatásokat, egy újraindítást és különféle spin-offokat is.",true
+"A negatív maradék autokorrelációt az alábbiak közül melyik jelzi?
+A.Ciklikus mintázat a maradékokban
+B.Váltakozó minta a maradékokban
+C.Teljes véletlenszerűség a maradékokban
+D.Maradékok, amelyek mind közel vannak a nullához",b,"b. váltakozó minta a maradékokban
+
+negatív autokorreláció esetén a maradékok közötti kapcsolat úgy jelentkezik, hogy egy pozitív maradékot gyakran egy negatív maradék követ, és fordítva. ez a váltakozó minta jelzi, hogy a maradékok között negatív korreláció áll fenn, ami azt sugallja, hogy a modell esetleg nem veszi figyelembe az adatokban rejlő valamelyik fontos mintázatot vagy idősorbeli dinamikát.",true
+"Az induktorban indukált feszültség a következőképpen jelenik meg:
+A.induktivitásának és áramának terméke.
+B.induktivitásának aránya az áthaladó árammal.
+C.az áram aránya rajta keresztül az induktivitásához.
+D.induktivitásának és az áram változásának sebessége.",d,"d.induktivitásának és az áram változásának sebessége.
+
+az induktorban indukált feszültség (v) kifejezhető az induktivitás (l, henry-ben) és az áram (i, amperben) időbeli változásának sebessége (di/dt) szorzataként. a képlet: v = l * (di/dt). ez azt jelenti, hogy az indukált feszültség egyenesen arányos az induktivitással és az áram változásának sebességével az idő függvényében.",true
+"Melyik étel készül sertésbélből?
+A.Haggis
+B.kitlinek
+C.Kukoricadara
+D.Chop Suey",b,"b. kitlinek
+
+a kitlinek egy hagyományos étel, amely sertésbélből készül. ez a válasz a leginkább megfelel a kérdésnek, mivel a haggis skót eredetű, és bár hasonlóan belsőségeket használnak hozzá, az alapvetően juh belsőségeiből készül. a kukoricadara egy gabonaféle, míg a chop suey egy kínai-amerikai étel, amely zöldségekből és húsból áll, de nem jellemző rá, hogy kifejezetten sertésbélből készülne.",true
+"A tartály háromszög alakú prizma alakú. Ha a háromszög alakú alap területe 116 négyzetláb, és a tartály 30 láb magas, mennyi vizet tartalmazna a tartály, ha tele van?
+A.1725 Ft^3
+B.1740 Ft^3
+C.3480 Ft^3
+D.6960 Ft^3",c,"a tartály térfogatának kiszámításához szorozzuk össze az alap területét a magassággal. az alap területe 116 négyzetláb, és a magasság 30 láb. tehát a térfogat:
+
+\[ \text{térfogat} = \text{alapterület} \times \text{magasság} \]
+\[ \text{térfogat} = 116 \, \text{ft}^2 \times 30 \, \text{ft} \]
+\[ \text{térfogat} = 3480 \, \text{ft}^3 \]
+
+tehát a tartály térfogata, ha tele van, 3480 köbláb vizet tartalmaz. a helyes válasz tehát:
+
+c. 3480 ft^3",true
+"Az achondroplasiát okozó mutációk olyan hatást fejtenek ki, amely a következőképpen osztályozható:
+A.domináns negatív.
+B.funkciónyereség.
+C.haploelégtelenség.
+D.funkcióvesztés.",b,"az achondroplasiát okozó mutációk olyan hatást fejtenek ki, amely **a. domináns negatív** módon osztályozható. az achondroplasia a leggyakoribb formája a törpeségeknek, és a fgfr3 (fibroblast growth factor receptor 3) gén mutációja okozza. ez a mutáció fokozott aktivitást eredményez a receptorban, ami gátolja a csontnövekedést. tehát bár a mutáció egyetlen alléljának jelenléte elegendő a betegség kialakulásához (domináns öröklődés), a hatás nem a gén funkciójának elvesztéséből (funkcióvesztés), hanem a gén termékének abnormális működéséből (domináns negatív hatás) ered.",false
+"Ezek közül melyik teszi a homológ fehérjék aminosavszekvenciáján alapuló különböző fajok evolúciós rokonságának meghatározását általában kevésbé pontossá, mint a homológ gének nukleotidszekvenciáin alapuló rokonsági meghatározásokat?
+A.Csendes mutációk
+B.Génduplikációk
+C.A génszekvenciákat megváltoztató transzlokációs események
+D.Keresztezés",a,"a. csendes mutációk
+
+a csendes mutációk (szinonim mutációk) olyan dns-szekvencia változások, amelyek nem változtatják meg a kódolt aminosavat a fehérje szintézisében, köszönhetően a genetikai kód degeneráltságának. mivel ezek a mutációk nem befolyásolják a fehérje aminosavszekvenciáját, a homológ fehérjék aminosavszekvenciáin alapuló evolúciós rokonsági vizsgálatok nem veszik figyelembe őket. ezáltal kevésbé pontosak lehetnek, mint a homológ gének nukleotidszekvenciáin alapuló rokonsági vizsgálatok, amelyek figyelembe veszik a csendes mutációkat is, így több információt nyújtanak a fajok közötti evolúciós kapcsolatokról.",true
+"A beteg törött nyakát szenved, és a hatodik nyaki csigolya szintjén károsítja a gerincvelőt.
+A.Nem tudnak lélegezni élettámogatás nélkül.
+B.Csak csendesen lélegezhetnek.
+C.Lehetetlen megjósolni a légzésre gyakorolt hatást.
+D.A légzést ez nem befolyásolja.",b,"a. nem tudnak léberegni élettámogatás nélkül.
+
+a gerincvelő sérülése, különösen a nyaki szinten, súlyos következményekkel járhat, mivel ez a terület felelős többek között a légzés szabályozásáért is. a hatodik nyaki csigolya (c6) szintjén bekövetkező sérülés potenciálisan befolyásolhatja a diafragmát innerváló idegeket, ami lélegeztetőgép használatát teheti szükségessé. azonban a pontos hatás mértéke egyénenként változó lehet, és függ a sérülés súlyosságától, valamint attól, hogy milyen gyorsan és hatékonyan történik a kezelés. az általánosítás, hogy minden ilyen sérülés esetén élettámogatásra lenne szükség, nem teljesen pontos, de a c6 szintű sérülés esetén fennáll a magas kockázata annak, hogy a beteg nem tud önállóan lélegezni.",false
+"Határozza meg a következő feltételes javaslat előzményét: A Méhek csak akkor nyerik meg az első meccsüket, ha az Aardvarkok vagy a Mókusok nem nyerik meg az első meccseiket.
+A.Az Aardvarks nem nyeri meg első meccsét.
+B.A Méhek megnyerik első meccsüket.
+C.A mókusok nem nyerik meg az első meccsüket.
+D.Vagy az Aardvarkok, vagy a Mókusok nem nyerik meg első meccseiket.",b,"a feltételes javaslat előzménye az a feltétel, amelynek teljesülése esetén a következmény bekövetkezik. a megadott feltételes javaslat szerint a méhek csak akkor nyerik meg az első meccsüket, ha az aardvarkok vagy a mókusok nem nyerik meg az első meccseiket. ez azt jelenti, hogy a következmény (a méhek megnyerik az első meccsüket) akkor következik be, ha teljesül az előzmény, vagyis ha az aardvarkok vagy a mókusok nem nyerik meg az első meccseiket.
+
+tehát a helyes válasz:
+
+d. vagy az aardvarkok, vagy a mókusok nem nyerik meg első meccseiket.",false
+"Ez a kérdés a következő információkra vonatkozik.
+""A totalitárius rendszerek magvait a nyomor és a nélkülözés táplálja. Terjednek és növekednek a szegénység és a viszály gonosz talajában. Teljes növekedésüket akkor érik el, amikor egy nép jobb életbe vetett reménye elhalt. Életben kell tartanunk ezt a reményt... Nagy felelősséget rótt ránk az események gyors mozgása. . . Biztos vagyok benne, hogy a kongresszus nyíltan szembe fog nézni ezekkel a felelősségekkel.""
+Harry S. Truman elnök, 1947
+A fenti szakaszban kifejtett gondolatok a legközvetlenebbül tükrözik az Egyesült Államok történelmének alábbi folytonosságait?
+A.Viták a Kongresszus és az elnök kapcsolatáról.
+B.Viták a katonai erő ingatag helyzetekben történő alkalmazásáról.
+C.Viták az Egyesült Államok szerepéről a világ ügyeiben.
+D.Viták a politikai pártok megfelelő szerepéről.",c,"a fenti szakaszban harry s. truman elnök által kifejtett gondolatok a legközvetlenebbül az ""c.viták az egyesült államok szerepéről a világ ügyeiben"" folytonosságát tükrözik. truman beszéde a hidegháború kezdeti időszakában hangzott el, amikor az egyesült államok aktívan elkezdte formálni a nemzetközi politikát, különösen a szovjetunióval és a kommunizmus terjedésével szemben. az idézet a marshall-terv és a truman-doktrína szellemét tükrözi, amelyek az egyesült államok elkötelezettségét fejezték ki a demokráciák támogatásában és a totalitárius rendszerek terjedésének megakadályozásában. ezért a legközvetlenebbül az egyesült államok globális szerepvállalásának kérdésével kapcsolatos vitákat tükrözi.",true
+"A legközelebbi ezresre kerekített szám 47 000. Melyik szám lehet a kerekített szám?
+A.46,295
+B.46,504
+C.47,520
+D.47,924",b,"a legközelebbi ezresre kerekített számok esetében a szám utolsó három számjegyét vesszük figyelembe. ha az utolsó három számjegy 500 vagy annál nagyobb, akkor felfelé kerekítünk az ezresre, ha pedig kisebb mint 500, akkor lefelé kerekítünk.
+
+tehát:
+
+a. 46,295 -> 46,000 (lefelé kerekítve, mert az utolsó három számjegy kisebb mint 500)
+b. 46,504 -> 47,000 (felfelé kerekítve, mert az utolsó három számjegy 500 vagy annál nagyobb)
+c. 47,520 -> 48,000 (felfelé kerekítve, mert az utolsó három számjegy 500 vagy annál nagyobb)
+d. 47,924 -> 48,000 (felfelé kerekítve, mert az utolsó három számjegy 500 vagy annál nagyobb)
+
+tehát a keresett szám, amely a legközelebbi ezresre kerekítve 47,000 lesz, az a b. 46,504.",true
+"A diákok növényi pigmentelválasztási gyakorlatot végeznek, amely megköveteli tőlük, hogy zárt kromatográfiás kamrát használjanak, kis mennyiségű acetonnal a kamra alján. Az acetonra vonatkozó biztonsági figyelmeztetések között szerepel az a kijelentés, hogy szem- és bőrirritáló, és gyúlékony gőzöket tartalmaz. Az alábbiak közül milyen biztonsági óvintézkedéseket kell tenniük a tanulóknak a gyakorlat során?
+A.Tűzálló kesztyű felhelyezése, hogy a kamrát füstelszívóhoz vigye, ha az aceton kigyullad
+B.A kamra zárt, sötétített szekrénybe helyezése a pigmentelválasztás idejére
+C.Bőrkesztyű viselése, valamint az orr és a száj eltakarása részecskemaszkkal
+D.Védőszemüveg és nitril típusú kesztyű viselése és az összes acetontartály zárva tartása",d,"a legmegfelelőbb biztonsági óvintézkedések, amelyeket a diákoknak meg kell tenniük az aceton használata során, a következők:
+
+d. védőszemüveg és nitril típusú kesztyű viselése és az összes acetontartály zárva tartása.
+
+ez az intézkedés megvédi a diákokat az aceton szem- és bőrirritáló hatásaitól, valamint csökkenti a gyúlékony gőzökkel való közvetlen érintkezés kockázatát. a védőszemüveg megvédi a szemet az esetleges fröccsenésektől, míg a nitril kesztyűk ellenállnak az aceton által okozott kémiai ártalmaknak, ellentétben a bőrkesztyűkkel, amelyek nem nyújtanak megfelelő védelmet a kémiai anyagokkal szemben. az acetontartályok zárva tartása csökkenti a gyúlékony gőzök szabadulását, így minimalizálva a tűzveszély kockázatát.",true
+"Összehasonlítva az olyan országok politikai pártjaival, mint Anglia és Izrael, amelyek mindegyike többpártrendszerrel rendelkezik, az amerikai politikai pártok
+A.kevésbé érdekli a választások eredményének befolyásolása
+B.kevésbé egyértelműen azonosulnak a következetes politikai ideológiákkal
+C.kevésbé hatékony a politikai támogatóktól való pénzszerzésben
+D.jobban tudják tükrözni teljes választókerületük céljait",b,"az amerikai politikai pártok összehasonlításában az olyan többpártrendszerrel rendelkező országok pártjaival, mint anglia és izrael, az amerikai pártok:
+
+b. kevésbé egyértelműen azonosulnak a következetes politikai ideológiákkal
+
+az amerikai politikai rendszer jellemzően két nagy párt, a demokrata és a republikánus párt dominanciáját mutatja, amelyek széles ideológiai spektrumot próbálnak lefedni, hogy minél több választót vonzzanak. ez ellentétben áll az olyan többpárti rendszerekkel, mint anglia vagy izrael, ahol a kisebb, specifikus ideológiájú pártok is képesek parlamenti képviseletre szert tenni, így pontosabban tükrözve bizonyos választói csoportok nézeteit és érdekeit. az amerikai pártok szélesebb ideológiai alapja néha homályossá teszi a konkrét politikai álláspontokat, mivel igyekeznek különböző csoportokat egy nagyobb ""sátor"" alá gyűjteni.",true
+"Az X ország minisztere által külföldön elkövetett jogellenes emberölés jure imperii vagy jure gestionis aktus?
+A.Az ilyen magatartás közjogi cselekménynek (jure imperii) minősül
+B.Az ilyen magatartás soha nem vonzza a mentességet
+C.Az ilyen magatartás magáncselekménynek (jure gestionis) minősül
+D.Az ilyen magatartás közcselekménynek minősül, de mentelmi jog védi",c,"b. az ilyen magatartás soha nem vonzza a mentességet
+
+a nemzetközi jog szerint a jure imperii (közhatalmi tevékenység) és a jure gestionis (gazdálkodási tevékenység) közötti különbségtétel fontos a mentelmi jogok megítélésében. azonban egy miniszter által külföldön elkövetett jogellenes emberölés, még ha állami feladatok ellátása közben történik is, nem minősülhet sem jure imperii, sem jure gestionis tevékenységnek úgy, hogy mentességet élvezzen. a nemzetközi jog és a nemzetközi emberi jogi normák egyértelműen kizárják a súlyos bűncselekmények, mint például az emberölés mentelmi jog alá tartozását, függetlenül attól, hogy az állami személy által, állami feladatok ellátása során történt-e. az ilyen cselekményekért való felelősségre vonás alól nincs mentesség.",false
+"Határozzuk meg a H+(vízben oldott) koncentrációt 1,0 M fenolban (C6H5OH) oldatban. (A fenol Ka értéke 1 × 10^-10.)
+A.1 × 10^-10 M
+B.1 × 10^-9 M
+C.1 × 10^-3 M
+D.1 × 10^-5 M",d,"a fenol (c6h5oh) egy gyenge sav, amely vízben oldva részben disszociál h+ (proton) és c6h5o^- (fenolát ion) részekre. a disszociáció egyensúlyát a ka, azaz az aciditási konstans írja le, amely a következőképpen definiálható:
+
+\[ka = \frac{[h^+][c6h5o^-]}{[c6h5oh]}\]
+
+a feladatban megadott ka érték 1 × 10^-10, ami azt jelenti, hogy a fenol nagyon gyengén disszociál vízben. mivel a fenol kezdeti koncentrációja 1,0 m, és feltételezhető, hogy a disszociáció mértéke elhanyagolhatóan kicsi (azaz a fenol nagy része nem disszociál), a [c6h5oh] koncentrációja gyakorlatilag változatlan marad, és közelítőleg 1,0 m-nek tekinthető.
+
+a disszociáció során keletkező h+ és c6h5o^- ionok koncentrációja egyenlő lesz, mivel minden disszociált fenol molekula egy h+ iont és egy c6h5o^- iont szabadít fel. tehát:
+
+\[ka = \frac{x \cdot x}{1,0}\]
+
+ahol x a [h+] és [c6h5o^-] koncentrációja. ebből:
+
+\[1 \times 10^{-10} = \frac{x^2}{1,0}\]
+
+\[x^2 = 1 \times 10^{-10}\]
+
+\[x = \sqrt{1 \times 10^{-10}}\]
+
+\[x = 1 \times 10^{-5}\]
+
+tehát a [h+] koncentrációja a fenol oldatban 1 × 10^-5 m, ami a d választási lehetőség.",true
+"A K-szeres keresztellenőrzés
+A.lineáris K-ban
+B.kvadratikus K-ban
+C.köbös K-ban
+D.exponenciális K-ben",a,"a k-szeres keresztellenőrzés (k-fold cross-validation) egy statisztikai módszer, amelyet a prediktív modellek teljesítményének értékelésére használnak. a módszer lényege, hogy a rendelkezésre álló adatokat k egyenlő részre osztják, majd a modellt k-szor tanítják és tesztelik úgy, hogy minden egyes iterációban egy másik adathalmaz szolgál tesztelésre, a többi pedig tanításra. ez lehetővé teszi, hogy a modell teljesítményét különböző adathalmazokon értékeljük, így általánosíthatóbb eredményeket kapjunk.
+
+a felsorolt lehetőségek közül:
+
+a. lineáris k-ban: ez nem egy közvetlenül kapcsolódó fogalom a k-szeres keresztellenőrzéshez. a ""lineáris"" jelző általában a modell típusára utal (például lineáris regresszió), nem a keresztellenőrzés módjára.
+
+b. kvadratikus k-ban: hasonlóan az a pontban leírtakhoz, a ""kvadratikus"" jelző általában a modell jellegére utal (például kvadratikus regresszió), nem a keresztellenőrzésre.
+
+c. köbös k-ban: ez is inkább a modell típusára utalhat, mint például egy köbös regressziós modell, nem pedig a keresztellenőrzésre.
+
+d. exponenciális k-ban: ismét, ez a jelző általában a modell típusát írja le (például exponenciális növekedési modell), nem a keresztellenőrzési technikát.
+
+a k-szeres keresztellenőrzés maga nem változik ""lineáris"", ""kvadratikus"", ""köbös"" vagy ""exponenciális"" formában. ezek a jelzők általában a modellek matematikai jellegére utalnak, nem pedig a keresztellenőrzés módszerére. a k-szeres keresztellenőrzés lényege és módszertana állandó, függetlenül attól, hogy milyen típusú modellt alkalmazunk.",true
+"A dicséretes személyiség tévedése egy speciális típusú
+A.A baleset tévedése
+B.Hamis dilemma
+C.Könyörög a kérdésért
+D.Körkörös érvelés",a,"a dicséretes személyiség tévedése egy speciális típusú érvelési hiba, amely akkor következik be, amikor valaki egy érvelés során egy tekintélyes vagy tiszteletben álló személy véleményére hivatkozik annak igazolására, hogy az állítás igaz. ez a fajta érvelési hiba nem illeszkedik pontosan a felsorolt válaszlehetőségek közül egyikbe sem, mivel ezek más típusú logikai tévedéseket írnak le. a helyes válasz a ""dicséretes személyiség tévedése"" leírására a következők közül egyik sem pontos. a legközelebbi megfelelő kategória, ha választani kellene, az ""érvelési hibák"" vagy ""logikai tévedések"" lenne, de ezek közül egyik sem szerepel a válaszlehetőségek között.
+
+a felsorolt válaszlehetőségek magyarázata:
+a. a baleset tévedése - ez akkor történik, amikor valaki általános szabályt alkalmaz egy specifikus esetre anélkül, hogy figyelembe venné az eset egyedi körülményeit.
+b. hamis dilemma - egy olyan érvelési hiba, amikor valakit két lehetőség közötti választásra kényszerítenek, figyelmen kívül hagyva más lehetséges alternatívákat.
+c. könyörög a kérdésért - ez akkor fordul elő, amikor az érvelés már eleve magában foglalja az állítás igazságát, amit igazolni próbál, tehát a következtetés már az előfeltevésekben is benne van.
+d. körkörös érvelés - egy olyan érvelési hiba, amikor az érvelés következtetése az érvelés egyik előfeltevésén alapul, tehát az érvelés visszavezeti önmagát a kiindulópontjára anélkül, hogy valódi bizonyítékot szolgáltatna.
+
+a ""dicséretes személyiség tévedése"" helyesen az ""érvelési tekintélyre hivatkozás"" vagy ""tekintélyre való hivatkozás tévedése"" (argumentum ad verecundiam) kategóriába sorolható, ami nem szerepel a felsorolt válaszlehetőségek között.",false
+"Mit jelent az, hogy az egyik országban a versenyt milyen mértékben befolyásolja a többi országban folyó verseny?
+A.Nemzetközi kereskedelem
+B.Globális gazdaságtan
+C.Globális verseny
+D.Globalizáció",d,c. globális verseny,false
 "A Mars vizének egy része megfagyott a talajban és a jégsapkákban, és néhány elveszett a napszél eltávolítása miatt, de úgy gondolják, hogy az eredeti víz nagy része elveszett egy másik mechanizmus révén. Mi történt ezzel az ""elveszett"" vízzel?
 A.A mágneses mező eltávolította, amikor gyorsan csökkent az ereje
 B.Az ultraibolya fény hidrogénre és oxigénre bontotta, és a hidrogén termikus menekülés útján elveszett
 C.a szomjas marslakók civilizációja fogyasztotta el
-D.Az intenzív vulkanizmus időszakában elpárolgott, és a termikus menekülés során elveszett az űrben",b,b.,true
-"Mi Antonio Banderas színész anyanyelve?
-A.Spanyol
-B.Orosz
-C.Német
-D.Francia",a,a,true
-"Keresse meg az y = ln x görbe hosszát azon pontok között, ahol y = 1/2 és y = 1.
-A.0.53
-B.0.86
-C.1.18
-D.1.36",c,b.,false
+D.Az intenzív vulkanizmus időszakában elpárolgott, és a termikus menekülés során elveszett az űrben",b,"b. az ultraibolya fény hidrogénre és oxigénre bontotta, és a hidrogén termikus menekülés útján elveszett",true
+"Mi az a visszajátszásos támadás?
+A.Amikor a támadó válaszol a rendszer által küldött üzenetre
+B.Olyan támadás, amely folyamatosan ismétlődik, gyengeséget keresve
+C.Olyan támadás, amely a rendszer saját üzeneteit használja, ezért nem védekezhető ellene
+D.A támadó újra elküldi a rögzített üzenetet, a webhely pedig elfogadja azt, és a támadó javára válaszol",d,"d. a támadó újra elküldi a rögzített üzenetet, a webhely pedig elfogadja azt, és a támadó javára válaszol",true
+"Melyik pszichológiai perspektíva volt a legnépszerűbb a huszadik század fordulóján Nyugat-Európában?
+A.Idegtudományi
+B.evolúciós
+C.Behaviorista
+D.pszichoanalitikus",d,"d. pszichoanalitikus
+
+a huszadik század fordulóján nyugat-európában a pszichoanalitikus perspektíva volt a legnépszerűbb, amelyet sigmund freud alapított. ez a megközelítés az emberi viselkedés és pszichológia mélyreható elemzésére összpontosított, különös tekintettel az alattudati motivációkra és konfliktusokra.",true
+"A nagy energiájú foszfátok, az ATP és a foszfokreatin lebontásából felszabaduló energia körülbelül a következő időtartamig képes fenntartani a maximális terhelést:
+A.1-2 másodperc.
+B.5-10 másodperc.
+C.30-40 másodperc.
+D.50-60 másodperc.",b,"a nagy energiájú foszfátok, az atp és a foszfokreatin lebontásából felszabaduló energia körülbelül c. 30-40 másodpercig képes fenntartani a maximális terhelést. ez a folyamat, amelyet foszfágen rendszernek is neveznek, az izmok gyors és intenzív erőkifejtése során játszik kulcsszerepet, mint például rövid, robbanékonyságot igénylő sportoknál.",false
+"Az alábbiak közül melyik ország bocsátotta ki a legtöbb egy főre jutó CO2-t 2017-ben?
+A.Japán
+B.Kanada
+C.Oroszország
+D.Irán",b,"2017-ben kanada bocsátotta ki a legtöbb egy főre jutó co2-t a felsorolt országok közül. kanada magas egy főre jutó kibocsátása részben az ország nagy területéből, alacsony népsűrűségéből, és az energiában gazdag gazdaságából adódik, amely jelentős mennyiségű fosszilis tüzelőanyagot használ.",true
+"A vállalkozások a _________ igényei miatt társadalmi elszámolással foglalkoznak a ________ azonosítása, a ___________ javítása, valamint a _________ és ___________ ösztönzése érdekében
+A.Érdekelt felek, kockázatok, érdekelt felek kezelése, elszámoltathatóság, átláthatóság
+B.Érdekelt felek, elszámoltathatóság, átláthatóság, kockázatok, érdekelt felek kezelése
+C.Érdekelt felek, elszámoltathatóság, kockázatok, érdekelt felek, érdekelt felek kezelése
+D.Érdekelt felek, érdekelt felek kezelése, átláthatóság, kockázatok, elszámoltathatóság",a,"a vállalkozások a **érdekelt felek** igényei miatt társadalmi elszámolással foglalkoznak a **kockázatok** azonosítása, a **érdekelt felek kezelése**, valamint az **elszámoltathatóság** és **átláthatóság** ösztönzése érdekében.
+
+tehát a helyes válasz: **a. érdekelt felek, kockázatok, érdekelt felek kezelése, elszámoltathatóság, átláthatóság**",true
 "Ez a kérdés a következő információkra vonatkozik.
 Sétálok az oszlop mellett, megkérdezem, mi folyik itt.
 Egy katona egyszerűen azt mondja: ""Minden nap többet hívnak.
@@ -232,314 +282,622 @@ A vers bizonyítja, hogy az alábbiak közül melyik a nemek közötti kapcsolat
 A.A férj és feleség közötti konfuciánus kapcsolatok még mindig erősek voltak a Tang társadalomban.
 B.A császári rescriptumok hangsúlyozták a rátermett fiúk születését a lányokkal szemben, hogy teljesítsék a sorozási kvótákat.
 C.A mezőgazdasági munkát nők és férfiak egyaránt megoszthatják.
-D.A hagyományos kínai nemi kapcsolatok Wu Zetian császárné uralkodása alatt megfordultak.",c,c.,true
-"Ez a kérdés a következő információkra vonatkozik.
-""A totalitárius rendszerek magvait a nyomor és a nélkülözés táplálja. Terjednek és növekednek a szegénység és a viszály gonosz talajában. Teljes növekedésüket akkor érik el, amikor egy nép jobb életbe vetett reménye elhalt. Életben kell tartanunk ezt a reményt... Nagy felelősséget rótt ránk az események gyors mozgása. . . Biztos vagyok benne, hogy a kongresszus nyíltan szembe fog nézni ezekkel a felelősségekkel.""
-Harry S. Truman elnök, 1947
-A fenti szakaszban kifejtett gondolatok a legközvetlenebbül tükrözik az Egyesült Államok történelmének alábbi folytonosságait?
-A.Viták a Kongresszus és az elnök kapcsolatáról.
-B.Viták a katonai erő ingatag helyzetekben történő alkalmazásáról.
-C.Viták az Egyesült Államok szerepéről a világ ügyeiben.
-D.Viták a politikai pártok megfelelő szerepéről.",c,c.,true
+D.A hagyományos kínai nemi kapcsolatok Wu Zetian császárné uralkodása alatt megfordultak.",c,"a versből az derül ki, hogy a mezőgazdasági munkát nők és férfiak egyaránt megoszthatják. ez arra utal, hogy a tang-dinasztia társadalmában a nők aktívan részt vettek a mezőgazdasági munkában, ami a nemek közötti munkamegosztásra vonatkozó információt biztosít. a versben szereplő részlet, amely szerint ""még akkor is, ha a feleségek elég erősek ahhoz, hogy kezeljék a kapát és az ekét"", ezt az állítást támasztja alá. tehát a helyes válasz:
+
+c. a mezőgazdasági munkát nők és férfiak egyaránt megoszthatják.",true
 "Az alábbiak közül melyik a legvalószínűbb, hogy idővel erősebb gazdasági növekedést eredményez?
 A.A természeti erőforrások gyorsabb fogyasztása.
 B.Magasabb felnőttkori írástudatlanság.
 C.A tőkejavak csökkenő állománya.
-D.Beruházási adójóváírások.",d,d.,true
-"A K-szeres keresztellenőrzés
-A.lineáris K-ban
-B.kvadratikus K-ban
-C.köbös K-ban
-D.exponenciális K-ben",a,a.lineáris k-ban,true
-" Ez a marketing- és kommunikációs eszköz közvetlen ösztönzést vagy ösztönzést kínál arra, hogy ösztönözze az ügyfeleket egy termék / szolgáltatás megvásárlására:
-A.Reklám.
-B.Közönségkapcsolatok.
-C.Reklámozás.
-D.Direkt marketing.",c,d.,false
-"A dicséretes személyiség tévedése egy speciális típusú
-A.A baleset tévedése
-B.Hamis dilemma
-C.Könyörög a kérdésért
-D.Körkörös érvelés",a,c.könyörög a kérdésért,false
-"Mit jelent az, hogy az egyik országban a versenyt milyen mértékben befolyásolja a többi országban folyó verseny?
-A.Nemzetközi kereskedelem
-B.Globális gazdaságtan
-C.Globális verseny
-D.Globalizáció",d,c.globális verseny,false
+D.Beruházási adójóváírások.",d,"d. beruházási adójóváírások.
+
+a beruházási adójóváírások ösztönözhetik a vállalatokat arra, hogy többet fektessenek be új technológiákba, gépekbe, eszközökbe és infrastruktúrába. ez hozzájárulhat a termelékenység növekedéséhez, az innováció elősegítéséhez és új munkahelyek teremtéséhez, ami összességében erősebb gazdasági növekedést eredményezhet. ezzel szemben az a, b és c pontban említett tényezők általában negatívan befolyásolják a gazdasági növekedést.",true
+"A szolgáltatóra kivetett adót nagyobb valószínűséggel hárítják át a fogyasztóra áremelés formájában, ha:
+A.A kereslet árrugalmassága rendkívül rugalmas.
+B.A kereslet árrugalmassága rendkívül rugalmatlan.
+C.A kereslet árrugalmassága egységrugalmas.
+D.A kereslet bérrugalmassága rendkívül rugalmas.",b,"b. a kereslet árrugalmassága rendkívül rugalmatlan.
+
+amikor a kereslet árrugalmassága rendkívül rugalmatlan, az azt jelenti, hogy a fogyasztók kereslete kevésbé érzékeny az árváltozásokra. ezért, ha egy szolgáltatóra kivetett adót áremelés formájában próbálnak áthárítani a fogyasztókra, a fogyasztók valószínűleg továbbra is hasonló mennyiségben vásárolják majd a terméket vagy szolgáltatást, annak ellenére, hogy az ár emelkedett. ezért a válasz b, a kereslet árrugalmassága rendkívül rugalmatlan esetben nagyobb valószínűséggel hárítják át a szolgáltatóra kivetett adót a fogyasztóra áremelés formájában.",true
+"Soros áramkörben, ha az egyik lámpában az áram 2 A, akkor a mellette lévő lámpában lévő áram
+A.fél, 1 A
+B.02:00
+C.Attól függ, hogy melyik lámpa van közelebb az akkumulátorhoz
+D.Nincs elég információ a mondanivalóhoz",b,"a soros áramkörben az áram erőssége minden ponton azonos. tehát ha az egyik lámpában az áram 2 a, akkor a mellette lévő lámpában is 2 a lesz az áram erőssége. a helyes válasz tehát:
+
+d. nincs elég információ a mondanivalóhoz
+
+ez a válasz azonban tévesen lett megfogalmazva a kontextus alapján. a helyes válasz a soros áramkörre vonatkozóan:
+
+az áram erőssége minden ponton azonos, tehát ha az egyik lámpában 2 a, akkor a mellette lévő lámpában is 2 a az áram erőssége. a felsorolt válaszlehetőségek közül egyik sem felel meg pontosan ennek a helyzetnek. a helyes válasz, hogy az áram erőssége minden ponton azonos, tehát 2 a, de ez a válasz nincs közvetlenül megadva a felsorolt opciók között.",false
+"A tanult tehetetlenség valószínűleg közvetlenül kapcsolódik a következőkhöz:
+A.a Barnum-hatás.
+B.öncélú elfogultság.
+C.külső ellenőrzési hely.
+D.feltétel nélküli pozitív tisztelet.",c,"a tanult tehetetlenség valószínűleg közvetlenül kapcsolódik a **c. külső ellenőrzési hely**hez.
+
+a tanult tehetetlenség egy olyan állapot, amikor egy személy vagy állat megtanulja, hogy tehetetlen egy adott helyzetben, mert korábbi tapasztalatai alapján úgy véli, hogy nincs kontrollja a helyzet felett, és ezért nem is próbálkozik a változtatással, még akkor sem, ha a változtatás lehetséges lenne. a külső ellenőrzési hely az a hiedelem, hogy az eseményeket és a saját sorsát külső erők, például a szerencse vagy más emberek irányítják, nem pedig a saját cselekedeteik. ez közvetlenül kapcsolódik a tanult tehetetlenséghez, mivel azok az emberek, akik úgy érzik, hogy nincs kontrolljuk az életük felett, hajlamosabbak lehetnek tanult tehetetlenséget kifejleszteni.",true
 "Az a tény, hogy a deutérium-klorid (DCl) infravörös abszorpciós frekvenciája eltolódik a hidrogén-klorid (HCl) infravörös abszorpciós frekvenciájától, a
 A.elektroneloszlás
 B.dipól momentum
 C.Erő állandó
-D.csökkentett tömeg",d,d,true
-"Az induktorban indukált feszültség a következőképpen jelenik meg:
-A.induktivitásának és áramának terméke.
-B.induktivitásának aránya az áthaladó árammal.
-C.az áram aránya rajta keresztül az induktivitásához.
-D.induktivitásának és az áram változásának sebessége.",d,d.,true
-"A legközelebbi ezresre kerekített szám 47 000. Melyik szám lehet a kerekített szám?
-A.46,295
-B.46,504
-C.47,520
-D.47,924",b,c,false
+D.csökkentett tömeg",d,"a deutérium-klorid (dcl) infravörös abszorpciós frekvenciájának eltolódása a hidrogén-klorid (hcl) infravörös abszorpciós frekvenciájától a
+
+d. csökkentett tömeg
+
+változásával magyarázható.
+
+a molekulák vibrációs frekvenciája függ a kötést alkotó atomok tömegétől és a kötés rugalmasságától (erőállandótól). a csökkentett tömeg a két tömeg függvénye, és meghatározó tényező a vibrációs mozgások frekvenciájában. mivel a deutérium (d) nehezebb, mint a hidrogén (h), a dcl csökkentett tömege nagyobb, mint az hcl-é, ami alacsonyabb vibrációs frekvenciát eredményez. ezért a frekvencia eltolódás a csökkentett tömeg különbségéből adódik.",true
+"Ez a kérdés a következő információkra vonatkozik.
+""Valóban, mivel mind a kiváló [tudósok] fatwái, akik véleményüket az értelemre és a hagyományra alapozzák, mind a szunnita közösség konszenzusa egyetértenek abban, hogy a gonosz innováció kiirtásának, megsemmisítésének és kiűzésének ősi kötelezettségének magasztos törekvésünk céljának kell lennie, mert ""a vallási buzgóság a jótevő Isten hitének győzelme""; majd a próféta szavai szerint (Béke legyen vele!) ""Aki gonosz újítást visz be rendünkbe, azt ki kell utasítani"" és ""Aki a rendünk ellen cselekszik, azt ki kell utasítani"", a cselekvés szükségessé és követeltté vált...""
+I. Szelim oszmán szultán levele I. Iszmáíl szafavida sahhoz, 1514
+A szafavidák elsősorban azért vonták maguk után az iszlám birodalmak, mint az oszmán és a mogul birodalmak haragját, mert a szafavidák
+A.egy terjeszkedő birodalom volt, amely földrajzilag két másik terjeszkedő között helyezkedett el
+B.elutasította az iszlám központi tanait
+C.rabszolgává tette a keresztényeket, és szafavida harcosokká változtatta őket
+D.Iszmáíl kalifának kiáltotta ki magát",a,"a szafavidák elsősorban azért vonták maguk után az iszlám birodalmak, mint az oszmán és a mogul birodalmak haragját, mert
+
+d. iszmáíl kalifának kiáltotta ki magát.
+
+iszmáíl sah, a szafavida birodalom alapítója, saját magát az iszlám síita ágának vallási és politikai vezetőjének, azaz kalifának kiáltotta ki. ez a lépés jelentős feszültséget okozott a szunnita oszmánokkal, akik a kalifa címet saját szultánjaik számára tartották fenn, és a síita-szunnita megosztottság mélyebbé vált. az oszmánok és a szafavidák közötti ellentét nem csak vallási, hanem politikai és területi rivalizálásból is fakadt.",true
+"Keresse meg a $-\dfrac{1}{-3}\cdot\cfrac{1}{~\frac{1}{-3}~}.$ fájlt
+A.1
+B.-1
+C.0
+D.2",b,"a kifejezés értékének kiszámításához kövessük a matematikai műveletek sorrendjét:
+
+$$-\dfrac{1}{-3}\cdot\cfrac{1}{~\frac{1}{-3}~}.$$
+
+először is, vegyük észre, hogy a $\frac{1}{-3}$ kifejezés egyszerűsíthető, mivel $-\frac{1}{3}$.
+
+ezután a kifejezés így néz ki:
+
+$$-\left(-\frac{1}{3}\right)\cdot\cfrac{1}{~-\frac{1}{3}~}.$$
+
+a két negatív előjel egymást kioltja, így:
+
+$$\frac{1}{3}\cdot\cfrac{1}{~-\frac{1}{3}~}.$$
+
+a $\cfrac{1}{~-\frac{1}{3}~}$ kifejezés egyszerűen $-3$, mivel a reciprokának a reciprokát véve visszakapjuk az eredeti számot, de negatív előjellel:
+
+$$\frac{1}{3}\cdot(-3).$$
+
+a szorzás elvégzése után:
+
+$$-1.$$
+
+tehát a helyes válasz:
+
+b. -1",true
+"1,5 × 10^6 m/s kezdeti sebességgel haladva a proton belép egy 1,5 T magnitúdójú állandó mágneses mező tartományába. Ha a proton kezdeti sebességvektora 30°-os szöget zár be a mágneses térrel, számítsuk ki a proton sebességét 4 másodperccel a mágneses mezőbe való belépés után.
+A.5,0 × 10^6 m/s
+B.7,5 × 10^6 m/s
+C.1,5 × 10^6 m/s
+D.3,0 × 10^6 m/s",c,"a proton sebességének változása a mágneses mezőben a lorentz-erő hatására történik, amely csak a sebességnek és a mágneses térnek az arra merőleges komponensére hat. a mágneses mező nem végez munkát a protonon, így a proton sebességének nagysága állandó marad, csak az iránya változik meg. ez azt jelenti, hogy a proton sebességének nagysága a mágneses mezőbe való belépés után 4 másodperccel is ugyanaz, mint a belépés előtt.
+
+a kezdeti sebesség 1,5 × 10^6 m/s, és mivel a mágneses mező nem változtatja meg a sebesség nagyságát, csak az irányát, a proton sebességének nagysága 4 másodperc múlva is 1,5 × 10^6 m/s marad.
+
+tehát a helyes válasz:
+c. 1,5 × 10^6 m/s",true
+"1. nyilatkozat | Egy csoportban (ab)^{-2} = b^{-2}a^{-2}. 2. nyilatkozat | Egy csoportban (ab)^n = a^nb^n.
+A.Igaz, igaz
+B.Hamis, hamis
+C.Igaz, hamis
+D.Hamis, igaz",b,"a csoportelmélet alapján:
+
+1. nyilatkozat: egy csoportban \((ab)^{-2} = b^{-2}a^{-2}\). ez igaz, mivel a csoportokban az inverz elem definíciója szerint \((ab)^{-1} = b^{-1}a^{-1}\), és ha ezt négyzetre emeljük, akkor kapjuk, hogy \((ab)^{-2} = (b^{-1}a^{-1})^2 = b^{-2}a^{-2}\), figyelembe véve, hogy a szorzás sorrendje megfordul az inverzeknél. tehát ez igaz abban az értelemben, hogy a csoportok általános tulajdonságait figyelembe véve, az inverzek és a hatványozás kombinációjánál a szorzás sorrendje megfordul.
+
+2. nyilatkozat: egy csoportban \((ab)^n = a^nb^n\). ez általánosságban hamis, mivel ez csak bizonyos speciális csoportokra, például abeli (kommutatív) csoportokra igaz, ahol minden elem kommutál egymással, azaz \(ab = ba\). általános csoportokban, ahol nem feltétlenül igaz, hogy minden elem kommutál, ez a tulajdonság nem áll fenn.
+
+tehát a helyes válasz: c. igaz, hamis.",true
+"A gazdaság mély recesszióban van. Ebben a gazdasági helyzetben a monetáris politikára vonatkozó alábbi állítások közül melyik a pontos?
+A.Az expanzív politika csak súlyosbítaná a recessziót.
+B.Az expanzív politika nagymértékben növeli az aggregált keresletet, ha a beruházások érzékenyek a kamatláb változásaira.
+C.A kontrakciós politika a beruházások és a fogyasztás megfelelő ösztönzője.
+D.Ha a pénz iránti kereslet tökéletesen rugalmas, az expanzív monetáris politika meglehetősen hatékony lehet.",b,"a gazdaság mély recesszióban van, és ebben a helyzetben a monetáris politikára vonatkozóan a legpontosabb állítás:
+
+b. az expanzív politika nagymértékben növeli az aggregált keresletet, ha a beruházások érzékenyek a kamatláb változásaira.
+
+ez az állítás azért pontos, mert az expanzív monetáris politika, amely magában foglalja a kamatlábak csökkentését és a pénzkínálat növelését, célja az, hogy ösztönözze a gazdasági tevékenységet, növelje a beruházásokat és a fogyasztást, ezzel növelve az aggregált keresletet. ha a beruházások valóban érzékenyek a kamatláb változásaira, akkor ez a politika különösen hatékony lehet a recesszió leküzdésében.",true
+"Garcia és Koelling kutatásai a tanult averziókkal kapcsolatban megállapították, hogy a következő UCS és CS párok közül melyik a legerősebb és a leggyorsabban megtanult?
+A.feladat elvégzése és élelmiszer-jutalom megszerzése
+B.hányinger és étel vagy ital
+C.mozgás és sokk
+D.Büntetések és jutalmak",b,"garcia és koelling kutatásai a tanult averziókkal kapcsolatban azt mutatták ki, hogy a legerősebb és leggyorsabban megtanult párosítás a **b. hányinger és étel vagy ital**. ezek a kísérletek azt demonstrálták, hogy az állatok, különösen a patkányok, rendkívül gyorsan megtanulják elkerülni azokat az ételeket vagy italokat, amelyek fogyasztását követően rosszullétet (pl. hányingert) tapasztalnak, még akkor is, ha a rosszullét csak egyszer következik be. ez a fajta tanulás nagyon specifikus, és azt sugallja, hogy bizonyos ingerek (mint az étel vagy ital) és bizonyos következmények (mint a hányinger) közötti kapcsolat biológiai alapokon nyugszik, ami segíti az élőlények túlélését azáltal, hogy gyorsan megtanulják elkerülni a mérgező vagy káros anyagokat.",true
+"A fotondetektor kvantumhatékonysága 0,1. Ha 100 fotont küldünk a detektorba, egyiket a másik után, a detektor érzékeli a fotonokat
+A.átlagosan 10-szer, kb. 4-es effektív eltéréssel
+B.átlagosan 10-szer, kb. 3-as effektív eltéréssel
+C.átlagosan 10-szer, kb. 1 effektív eltéréssel
+D.átlagosan 10-szer, kb. 0,1-es effektív eltéréssel",b,"a fotondetektor kvantumhatékonysága azt jelenti, hogy a detektor által érzékelt fotonok aránya a beérkező fotonok számához képest. ebben az esetben a kvantumhatékonyság 0,1, vagyis a detektor átlagosan minden 10-ből 1 fotont érzékel.
+
+ha 100 fotont küldünk a detektorba, az átlagosan 10 foton érzékelését várjuk, mivel \(100 \times 0,1 = 10\).
+
+a binomiális eloszlás alapján a szórásnégyzet (\(\sigma^2\)) egy n próbálkozásból álló bernoulli-kísérletben \(n \times p \times (1-p)\), ahol \(p\) a siker valószínűsége (ebben az esetben 0,1), és \(n\) a próbálkozások száma (ebben az esetben 100). tehát:
+
+\(\sigma^2 = 100 \times 0,1 \times (1-0,1) = 100 \times 0,1 \times 0,9 = 9\)
+
+a szórás (\(\sigma\)) a szórásnégyzet gyöke, tehát:
+
+\(\sigma = \sqrt{9} = 3\)
+
+tehát a helyes válasz:
+b. átlagosan 10-szer, kb. 3-as effektív eltéréssel.",true
 "Miért ellenzi a Parfit az egyenlőséget?
 A.Azt állítja, hogy az egyenlőtlen társadalom elkerülhetetlen.
 B.Azt állítja, hogy ha prioritást adunk a szegények szükségleteinek, növelhetjük az egyenlőséget.
 C.Azt állítja, hogy mindannyian felelősek vagyunk a szegénységünkért.
-D.Teljesen elutasítja az egyenlőség gondolatát.",b,b.,true
-"Mi Hollandia hivatalos nyelve?
-A.Dán
-B.Svéd
-C.Német
-D.Holland",d,d.holland,true
-"Nagel azt állítja, hogy az erkölcsi szerencse problémája szorosan kapcsolódik a következő problémákhoz:
-A.Isten létezése.
-B.az akarat szabadsága.
-C.pszichológiai egoizmus.
-D.univerzálisak.",b,b.,true
-"Az alábbi állítások közül melyik a helyes a számviteli becslések változásaira vonatkozóan?
-A.A számviteli becslések legtöbb változását visszamenőlegesen számolják el.
-B.Amennyiben lehetetlen meghatározni, hogy történt-e változás a becslésben vagy a számviteli alapelvben, a változást elvi változásnak kell tekinteni.
-C.Amennyiben lehetetlen meghatározni, hogy a számviteli becslésben vagy a számviteli elvben történt-e változás, a változást a becslés változásának kell tekinteni.
-D.Könnyebb különbséget tenni a számviteli becslés változása és a számviteli elv változása között, mint különbséget tenni a számviteli becslés változása és a hiba kijavítása között.",c,c,true
-"A növények adaptációi a vízveszteség minimalizálására magas hőmérsékletű környezetben az alábbiak közül melyiket foglalják magukban?
-A.Számos sztóma
-B.Vékony kutikula
-C.Tüskék levelek helyett
-D.Nagy felület-térfogat arány",c,c.,true
-"A modern számítógépes mikrochipek elsősorban milyen elemből állnak?
-A.Nátrium
-B.Szilícium
-C.Alumínium
-D.Ezüst",b,b.,true
-"E két forgatókönyv közül melyikben tesz a főszereplő (aki az én/én/én-t használja) valami egyértelműen erkölcsileg helytelent tesz az Egyesült Államokban 2020-tól érvényes általános erkölcsi normák szerint? 1. forgatókönyv | Néha megpróbálok igazat mondani, hacsak nem kerülök bajba. 2. forgatókönyv | Megcsókoltam a barátnőmet a bűvészmutatványon.
-A.Rossz, rossz
-B.Rossz, Nem rossz
-C.Nem rossz, rossz
-D.Nem rossz, Nem rossz",b,d.,false
-"A kettős-vak vagy kettős maszkos vizsgálat célja:
-A.A kezelt és kezeletlen vizsgálati alanyok összehasonlíthatóságának elérése
-B.A mintavételi variációk hatásainak csökkentése
-C.Kerülje a megfigyelő és az alany elfogultságát
-D.Kerülje a megfigyelői torzítást és a mintavételi eltéréseket",b,c,false
-" Nussbaum szerint valakit tárgyként kezelni
-A.elegendő a szexuális tárgyiasításhoz.
-B.szükséges a szexuális tárgyiasításhoz.
-C.nem szükséges a szexuális tárgyiasításhoz.
-D.a fentiek mindegyike.",c,b.,false
-"Az alábbiak közül melyik igaz a hypothyreosisra?
-A.Fogyás
-B.Pre-tibialis myxoedema
-C.Emelkedett TSH szint
-D.Idegenkedés a meleg helyektől",c,c.,true
-"A főiskolai beiratkozás ösztönzése érdekében az állam 200 dolláros adómentességet biztosít az állami adókra azok számára, akik nappali tagozatos hallgatók az államon belüli főiskolákon. A félidőben részt vevő női hallgatók továbbra is 100 dolláros adómentességet kapnak, míg a félidőben részt vevő férfi hallgatók már nem jogosultak adómentességre. Az alábbiak közül melyik foglalja össze legpontosabban az alkotmányjog helyes szabályát a félidős hallgatók állami adómentességével kapcsolatban?
-A.Az adómentességet a jogszerű eljárás megtagadásaként érvénytelenítenék.
-B.Az adómentességet az egyenlő védelmi záradék megsértése miatt érvénytelenítenék.
-C.Az adóintézkedést fenntartanák, mint az érdemi jogszerű eljárás területét.
-D.Az adóintézkedést fenntartanák, mivel az önkormányzat hatáskörébe tartozna a személyek különböző osztályainak egyenlőtlen adóztatása.",b,b,true
-"Az alábbi elméletek közül melyik összpontosít arra, hogy a társadalom hogyan képes elvégezni a rend és a stabilitás fenntartásához szükséges tevékenységeket?
-A.Funkcionalizmus
-B.Interakcionizmus
-C.Racionális választás elmélete
-D.Konfliktuselmélet",a,a.,true
-"Singer szerint elvének betartása megköveteli:
-A.Szerény változások személyes szokásainkban, de nem társadalmunk egészében.
-B.személyes szokásaink és a társadalom szerény változásai.
-C.Drasztikus változások a személyes szokásainkban, de nem a társadalmunkban.
-D.drasztikus változások mind személyes szokásainkban, mind társadalmunkban.",d,d.,true
-"Az alábbiak közül melyik jellemzi legjobban az eurocentrizmust?
-A.Az eurocentrizmus egy olyan elemzési stílus, amelyben az európai társadalmakat összehasonlítják a nem európai társadalmakkal, hogy elfogulatlan összehasonlítást készítsenek mindegyikük relatív érdemeiről.
-B.Az eurocentrizmus egy olyan gondolkodási stílus, amelyben az Európán kívüli társadalmak értékelése és értékelése az európaiak kulturális feltételezései és elfogultságai alapján van megfogalmazva.
-C.Az eurocentrizmus olyan tanulmányokat vagy tudományos munkákat ír le, amelyek csak az európai politikai vagy gazdasági rendszereket veszik figyelembe.
-D.Mindezek a lehetőségek.",b,b.,true
-"Az alábbiak közül melyik írja le legjobban a helyzetet, miután az árat megemelték egy olyan terméken, amelynek rugalmatlan kereslete van?
-A.Az igényelt mennyiség nem változik.
-B.Az igényelt mennyiség növekedni fog.
-C.A teljes bevétel csökkenni fog.
-D.A teljes bevétel nem változik.",a,a,true
-"Az alábbiak közül melyiket foglalják el utoljára az emberek?
-A.Új-Guinea
-B.Ausztrália
-C.Új-Zéland
-D.Timor",c,c.új-zéland,true
-" A háborús diszkriminációról szóló fejtegetésében Valls azt javasolja, hogy
-A.Nincs különbség harcosok és nem harcolók között.
-B.A harcosok és nem harcolók közötti különbség fokozat kérdése.
-C.A harcosok és nem harcolók közötti különbség kategorikus és világos.
-D.A ""terrorizmust"" válogatás nélküli erőszakként kell meghatározni.",b,c.,false
-"A városi házak becsült értéke átlagosan 125 000 dollár, szórása 23 000 dollár. Az új pedagógusszerződés miatt a tankerületnek az előző évhez képest 10%-kal több forrásra van szüksége. Ennek a további pénznek az előteremtése érdekében a város utasítja az értékbecslő irodát, hogy 5000 dollárral emelje meg az összes becsült házértéket. Mi lesz a város házainak becsült értékének új szórása?
-A.23 000 Ft 
-B.25 300 Ft 
-C.28 000 Ft 
-D.30 300 Ft ",a,a.,true
-"A skizofrénia etiológiájával kapcsolatos vizsgálatok genetikai hajlamot mutattak az állapotra, de más tényezők is szerepet játszanak. A téma ismerete alapján határozza meg, hogy az alábbi állítások közül melyik helytelen.
-A.A túlzott dopamin vagy a dopaminérzékenység hozzájáruló tényező lehet.
-B.A fehér betegek tünetesebbek.
-C.A harmadik világ állapotából való remisszió 65%.
-D.Az afroamerikaiak körében diagnosztizált skizofrénia alacsonyabb aránya.",d,b,false
-"A public relations mely területén valószínű, hogy lobbizás lesz?
-A.Testületi
-B.Pénzügyi kapcsolatok
-C.Közügyek
-D.Vállalkozások közötti",c,c.,true
-"Egy autós gondatlan vezetése súlyosan megsebesített egy másik sofőrt. Az autóst rossz sávban való haladás miatt idézték, és bírságot fizetett. Az autós biztosítási kötvényének kötvénykorlátja csak 15 000 dollár volt a harmadik fél felelősségére. Miután az autós biztosítójának teljes orvosi jelentést, minden orvosi számlát, orvosi feljegyzést és egyéb szükséges kártérítési igazolást benyújtott, a károsult felperes követelte a kötvénykorlátokat. A felperes közölte, hogy rosszhiszemű követelést nyújtanak be, ha a kötvénykorlátokat nem fizetik meg azonnal. A biztosító társaság magyarázat nélkül megtagadta a fizetést. Az esküdtszék 200 000 dollárt ítélt meg a sérült felperesnek. A károsult felperes aláírt megbízást kapott a gondatlan autóstól, amely a felperesnek minden olyan jogot biztosított, amellyel az autós a biztosítójával szemben rendelkezhetett. Vajon a bíróság kötelezni fogja-e a biztosítótársaságot, hogy az esküdtszék ítéletének teljes összegét fizesse ki a károsultnak ezen tények alapján?
-A.A kötvénykorlát 15 000 dollár, és ez minden, amit a károsult összegyűjthet, a biztosítási szerződés rosszhiszeműsége miatt nincs intézkedés.
-B.A biztosító társaság megszegte a jóhiszeműség és tisztesség hallgatólagos kötelezettségvállalását, amely minden biztosítási szerződésben benne foglaltatik, és az ítélet teljes összegét ki kell fizetnie.
-C.A rosszhiszeműség a biztosított és biztosítója személyes ügye, az engedményezés érvénytelen volt, és a károsultnak nincs igénye arra, hogy a biztosítót fizetésre kötelezze.
-D.A károsultnak a teljes ítéletét érvényesítenie kell az autóssal szemben, és soha nem fordulhat a biztosítóhoz ezen összegért.",c,b.,false
-"Az alábbiak közül melyik írja le legjobban a korábbi terápiás kliensekkel való szexuális intimitásra vonatkozó etikai irányelveket?
-A.A pszichológusoknak semmilyen körülmények között tilos szexuális intimitást létesíteni a korábbi terápiás kliensekkel.
-B.A pszichológusoknak tilos szexuális intimitást létesíteni a korábbi terápiás kliensekkel a terápia befejezését követő legalább egy évig.
-C.A pszichológusoknak bizonyos körülmények között tilos szexuális intimitást létesíteniük korábbi terápiás kliensekkel (pl. ha fennáll a kizsákmányolás veszélye).
-D.A pszichológusoknak nem tilos szexuális intimitást folytatni a korábbi terápiás kliensekkel.",c,b,false
-"A beírt jelölt mexikói-amerikai, és azon a véleményen van, hogy a mexikói szavazók nagy részvételére van szüksége ahhoz, hogy megnyerje a választásokat. Ennek eredményeként kampánymenedzsere úgy dönt, hogy minden regisztrált mexikói szavazónak elküld egy letéphető matricát, amelyen szerepel a jelölt neve és hivatala, amelyért indul. Mivel sok mexikói őslakos nem tud angolul írni és olvasni, a kampánymenedzser úgy véli, hogy sok szavazónak nehézséget okoz majd a jelölt nevének és hivatalának a szavazólapra írása. Ennek eredményeként a kampánymenedzser kiterjedt médiakampányt indított, hogy tájékoztassa a szavazókat arról, hogyan kell a matricákat a szavazólapra ragasztani. Öt hónappal a választások előtt egy választási tisztviselő értesíti a jelölt kampánybizottságát, hogy a letéphető matricák nem felelnek meg az állami törvénynek. Levelében a tisztviselő kifejti, hogy az állami választási tisztviselők azon a véleményen vannak, hogy a potenciális szavazóknak tintával kell írniuk a jelölt nevét. Ezért arra a következtetésre jut, hogy a matricák nem felelnek meg a törvényi követelményeknek. Három héttel később a jelölt keresetet nyújtott be a szövetségi kerületi bíróságon az állami választási tisztviselők ellen, azt állítva, hogy az állami törvény értelmezése sérti az Egyesült Államok alkotmányát. Az alábbiak közül melyik, ha megállapítást nyer, a legerősebb alkotmányos érvet hozza fel, amely alátámasztja a választási tisztviselő törvényértelmezését?
-A.Az angol nyelvtudással nem rendelkező regisztrált mexikói amerikai szavazók körében a szavazói részvétel a legutóbbi választásokon az egész állam 1% -ánál kevesebb volt.
-B.Egy állami törvény előírja, hogy minden szavazófülkét tintatollal kell felszerelni, hogy megkönnyítse a szavazatok írását.
-C.Mivel a nagy számú írásbeli szavazat általában megnöveli az összes szavazat megszámlálásához szükséges időt, az ilyen szavazatokat egységes módon kell leadni.
-D.A szavazási csalás lehetősége lényegesen nagyobb az előre nyomtatott matricák esetében.",d,d,true
-"A mutációk olyan hibák a DNS-ben, amelyek:
-A.mindig károsak.
-B.csak rákkeltő anyagok jelenlétében fordul elő.
-C.fokozza a tumor növekedését.
-D.spontán módon, alacsony sebességgel fordulnak elő.",d,d.,true
-" A Communidades de Base az alábbiak közül melyikhez kapcsolódik?
-A.Oscar Romero püspök
-B.Ellenállás és megújulás
-C.Minden emberi lény méltósága
-D.A fentiek mindegyike",d,d.,true
+D.Teljesen elutasítja az egyenlőség gondolatát.",b,"derek parfit, a híres brit filozófus, nem teljesen ellenzi az egyenlőséget, hanem bonyolultabb nézeteket fogalmaz meg az igazságosságról és az egyenlőségről. parfit munkásságában különösen a ""persons, interests, and justice"" című részben foglalkozik az egyenlőség kérdésével, ahol az egyenlőség különböző elméleteit vizsgálja. az állítások közül egyik sem tükrözi pontosan parfit álláspontját az egyenlőségről, mivel ő nem utasítja el teljesen az egyenlőség gondolatát, nem állítja, hogy az egyenlőtlen társadalom elkerülhetetlen, nem mondja, hogy mindannyian felelősek vagyunk a szegénységünkért, és bár érvel amellett, hogy bizonyos esetekben prioritást kell adni a szegényebbek szükségleteinek, ez nem feltétlenül jelenti az egyenlőség teljes elutasítását vagy egyoldalú támogatását.
+
+a legközelebbi válasz lehetne b, mivel parfit munkásságában foglalkozik az igazságosság és az egyenlőség kérdésével, és érvelhet azért, hogy bizonyos kontextusokban prioritást kell adni a szegényebbek szükségleteinek, de ez nem jelenti az egyenlőség teljes körű támogatását vagy ellenzését. azonban fontos megjegyezni, hogy parfit komplex nézeteket fejlesztett ki, amelyek nem redukálhatók egyszerű állításokra az egyenlőség támogatásáról vagy ellenzéséről.",false
+"Egy programozó írta az alábbi programot. A program a numList nevű számlistát használja. A program célja a listában szereplő számok összegének megjelenítése.
+ összeg ← számLista [1]
+ MINDEN értékhez a numList LISTÁBAN
+ összeg ← összeg + érték
+ DISPLAY összeg
+ A program teszteléséhez a programozó inicializálja a numList fájlt [0 , 1 , 4 , 5] értékre. A program 10-et jelenít meg, és a programozó arra a következtetésre jut, hogy a program rendeltetésszerűen működik. Az alábbiak közül melyik igaz?
+A.A következtetés helyes; A program rendeltetésszerűen működik.
+B.A következtetés helytelen; A program nem jeleníti meg a teszteset helyes értékét [0, 1, 4, 5].
+C.A következtetés helytelen; A teszteset [0, 1, 4, 5] használata nem elegendő annak megállapításához, hogy a program helyes.
+D.A következtetés helytelen; A teszteset [0, 1, 4, 5] használata csak megerősíti, hogy a program növekvő sorrendben működik a listákon.",c,"a program leírása alapján a programozó egy hibát követett el a kezdőérték beállításában. a program kódja az összeg kezdeti értékét a `numlist` lista első elemére (`számlista[1]`) állítja, ami a programozási nyelvektől függően vagy a lista második elemét jelenti (ha 1-től indexelünk, mint például a matlab vagy a fortran esetében), vagy hibát eredményez, ha a lista indexelése 0-tól kezdődik (mint a legtöbb modern programozási nyelv, például python, c, java, stb.), mivel a szándék valószínűleg a lista első elemének használata volt. továbbá, a program minden elemet hozzáad az összeghez, beleértve azt az elemet is, amelyet kezdeti értéknek vett. ez azt jelenti, hogy ha a lista első elemét helyesen venné figyelembe kezdőértékként, akkor az összeg kétszer tartalmazná az első elemet.
+
+a teszt eset [0, 1, 4, 5] listával a helyes összeg 10 kellene, hogy legyen (0+1+4+5), de a program helytelenül van megírva, mivel a kezdőérték beállítása és az összegzés módja nem megfelelő. a program leírása alapján nem egyértelmű, hogy a `számlista [1]` melyik elemet jelöli (első vagy második elem a listában), de ha a szokásos 0-tól kezdődő indexelést követjük, akkor a program hibásan a második elemmel (1) kezdi az összegzést, és ezután adja hozzá a többi elemet, ami nem a lista összes elemének összegét eredményezi.
+
+tehát a helyes válasz:
+b. a következtetés helytelen; a program nem jeleníti meg a teszteset helyes értékét [0, 1, 4, 5].
+
+megjegyzés: a kérdés alapján nem egyértelmű, hogy a programozó hogyan kezeli az indexelést, de a legtöbb modern programozási nyelvben az indexelés 0-tól kezdődik, és a kezdőérték helytelen beállítása miatt a program nem működik helyesen. az is lehetséges, hogy a programozó szándéka a teljes lista összegének kiszámítása volt az első elemtől kezdve, de a leírás alapján ez nem teljesül.",false
+"Az alábbi bitkarakterlánc-készletek közül melyik NEM írható le reguláris kifejezéssel?
+A.Minden olyan bitkarakterlánc, amelynek nulláinak száma az öt többszöröse
+B.Minden bitkarakterlánc nullával kezdődik és eggyel végződik
+C.Minden páros számú nullával rendelkező bitkarakterlánc
+D.Minden bitkarakterlánc, amely nullánál több karakterláncot tartalmaz",d,"a reguláris kifejezések képesek leírni olyan nyelveket, amelyek véges automata által felismerhetőek. ezek a nyelvek általában egyszerű mintákra és ismétlődésekre korlátozódnak, és nem képesek számolni vagy összetett feltételeket ellenőrizni, amelyek végtelen mélységű memóriát igényelnének.
+
+a felsorolt lehetőségek közül:
+
+a. minden olyan bitkarakterlánc, amelynek nulláinak száma az öt többszöröse - ez leírható reguláris kifejezéssel, mivel a nullák számának öt többszörösére korlátozódik, ami egy ismétlődő minta, amit egy véges automata képes felismerni.
+
+b. minden bitkarakterlánc nullával kezdődik és eggyel végződik - ez szintén leírható reguláris kifejezéssel, mivel a kezdő és záró karakterek fixek, a közöttük lévő rész pedig bármilyen lehet.
+
+c. minden páros számú nullával rendelkező bitkarakterlánc - ez is leírható reguláris kifejezéssel, mivel a páros számú nullák szintén egy ismétlődő mintát képeznek, amit egy véges automata képes felismerni.
+
+d. minden bitkarakterlánc, amely nullánál több karakterláncot tartalmaz - ez tulajdonképpen minden nem üres bitkarakterláncot jelent, ami szintén leírható reguláris kifejezéssel, például az ""1|0"" (egy vagy nulla) és ezek ismétlődéseivel.
+
+tehát a kérdés alapján minden felsorolt lehetőség leírható reguláris kifejezéssel. ha a kérdés arra irányult volna, hogy melyik nem írható le egyszerűen vagy közvetlenül reguláris kifejezéssel, akkor is téves lenne, mivel minden opció leírható. azonban, ha a kérdés valójában arra vonatkozott volna, hogy melyik nyelv nem tartozik a reguláris nyelvek kategóriájába más kontextusban, akkor a félreértés elkerülése végett pontosításra lenne szükség, mivel a fenti válaszok alapján minden opció reguláris nyelvnek tekinthető.",true
+"Keresse meg az y = ln x görbe hosszát azon pontok között, ahol y = 1/2 és y = 1.
+A.0.53
+B.0.86
+C.1.18
+D.1.36",c,"a görbe hosszának kiszámításához használjuk a görbe hosszának képletét, amely így néz ki:
+
+\[l = \int_{a}^{b} \sqrt{1 + \left(\frac{dy}{dx}\right)^2} dx\]
+
+az adott esetben \(y = \ln(x)\), tehát \(\frac{dy}{dx} = \frac{1}{x}\).
+
+ezért a képletünk így alakul:
+
+\[l = \int_{a}^{b} \sqrt{1 + \left(\frac{1}{x}\right)^2} dx\]
+
+az \(y = \ln(x)\) függvény esetében az \(y = 1/2\) és \(y = 1\) értékek az \(x = e^{1/2}\) és \(x = e^1 = e\) pontoknak felelnek meg, tehát \(a = e^{1/2}\) és \(b = e\).
+
+így a görbe hossza:
+
+\[l = \int_{e^{1/2}}^{e} \sqrt{1 + \frac{1}{x^2}} dx\]
+
+ezt az integrált meg kell oldanunk. az integrálás lépései:
+
+\[l = \int_{e^{1/2}}^{e} \sqrt{1 + \frac{1}{x^2}} dx = \int_{e^{1/2}}^{e} \frac{\sqrt{x^2 + 1}}{x} dx\]
+
+ez egy standard típusú integrál, amelynek megoldása a következő:
+
+\[l = \ln|x + \sqrt{x^2 + 1}|\] határok között \(e^{1/2}\) és \(e\).
+
+helyettesítsük be a határokat:
+
+\[l = \ln|e + \sqrt{e^2 + 1}| - \ln|e^{1/2} + \sqrt{e + 1}|\]
+
+ezután számoljuk ki a pontos értékeket:
+
+\[l ≈ \ln|e + \sqrt{e^2 + 1}| - \ln|e^{1/2} + \sqrt{e + 1}|\]
+
+mivel a pontos számítás függ a számológép pontosságától és a logaritmus számításának módjától, a végeredmény kiszámításához pontos számértékeket kell használnunk. azonban, a fenti lépések alapján a végeredmény kiszámítása egy konkrét számológép vagy szoftver használatát igényli, mivel a képlet közvetlen integrálása és a határok behelyettesítése után kapott kifejezés nem ad közvetlenül egy listában szereplő választ.
+
+a fenti levezetés alapján a pontos számítás elvégzéséhez szükséges lépéseket bemutattam, de a végső numerikus érték meghatározásához számológépet vagy számítógépes szoftvert kell használni. az eredmény valószínűleg közel lesz az egyik felsorolt válaszhoz, de a pontos értékhez szükséges számításokat kell végezni.",true
+"Az xy síkban az x^(log y) = y^log x gráfja
+A.A nyitott első negyed
+B.zárt görbe
+C.egy sugár a nyitott első negyedben
+D.egyetlen pont",a,"az $x^{\log y} = y^{\log x}$ egyenletet átalakítva megpróbáljuk megérteni, hogy a gráfja milyen alakzatot vesz fel az $xy$ síkon.
+
+először is vegyük észre, hogy $\log y$ és $\log x$ kitevőként való használata miatt mindkét oldalon pozitív számok szerepelnek, tehát $x > 0$ és $y > 0$. ez azt jelenti, hogy a gráf csak az első negyedben helyezkedhet el.
+
+az egyenlet mindkét oldalának logaritmusát véve, a következőt kapjuk:
+
+$$\log(x^{\log y}) = \log(y^{\log x})$$
+
+a logaritmus azonosságait felhasználva, ahol $\log(a^b) = b\log(a)$, az egyenlet így alakul:
+
+$$\log y \cdot \log x = \log x \cdot \log y$$
+
+ez az egyenlet mindig igaz, függetlenül az $x$ és $y$ értékeitől (feltéve, hogy mindkettő pozitív), mivel mindkét oldal azonos kifejezést tartalmaz. ez azonban nem ad konkrét megoldást arra vonatkozóan, hogy a gráf milyen alakzatot vesz fel.
+
+a fenti átalakítás azonban nem teljesen helyes megközelítés az eredeti kérdés megválaszolásához, mivel az eredeti egyenlet átalakítása során elveszítettük az eredeti egyenlet geometriai jelentését. a helyes megközelítés az, hogy megvizsgáljuk az $x^{\log y} = y^{\log x}$ egyenletet közvetlenül.
+
+a kulcs az egyenlet megértéséhez az, hogy felismerjük, az egyenlet akkor és csak akkor igaz, ha az alapok és a kitevők azonosak, vagy ha az egyenlet valamilyen módon szimmetrikus. egy speciális eset, amikor $x = y$, ekkor az egyenlet nyilvánvalóan igaz, mivel mindkét oldal azonos lesz.
+
+azonban az egyenlet általános megoldásának megértéséhez vegyük észre, hogy ha $x = y$, akkor az egyenlet igaz. továbbá, ha $x$ és $y$ helyet cserél, az egyenlet formája változatlan marad, ami azt sugallja, hogy a gráf szimmetrikus az $y = x$ egyenesre.
+
+a helyes válasz tehát az, hogy az egyenlet által leírt gráf nem csak egy pontot vagy egy egyenes sugárt jelent az első negyedben, hanem valójában egy olyan halmazt, amely az első negyedben helyezkedik el, és szimmetrikus az $y = x$ egyenesre. azonban a fentiek alapján egyértelmű választ adni a választási lehetőségek közül nehéz anélkül, hogy pontosan megvizsgálnánk az egyenlet minden lehetséges megoldását.
+
+a legpontosabb válasz tehát az, hogy a kérdés alapján nem adható egyértelmű válasz a választási lehetőségek közül, mivel az eredeti egyenlet általános megoldásának és viselkedésének pontos elemzése nélkül nem állapítható meg egyértelműen a gráf jellege. azonban a fentiek alapján a legközelebbi válasz lehet, hogy a gráf valamilyen szimmetrikus alakzatot vesz fel az első negyedben, ami inkább a ""c. egy sugár a nyitott első negyedben"" választási lehetőséget sugallja, de ez nem teljesen pontos leírása a helyzetnek. az eredeti egyenlet alapján a helyes megközelítés az lenne, hogy további elemzést végezzünk az egyenlet pontos geometriai jellegének megértése érdekében.",false
 "E két forgatókönyv közül melyikben tesz a főszereplő (aki az én/én/én-t használja) valami egyértelműen erkölcsileg helytelent tesz az Egyesült Államokban 2020-tól érvényes általános erkölcsi normák szerint? 1. forgatókönyv | A szüneteimre csaptam, hogy lemaradjak a labdáról, amikor az útra érkezett. 2. forgatókönyv | Megtanítottam a gyerekeimet xilofonon játszani.
 A.Rossz, rossz
 B.Rossz, Nem rossz
 C.Nem rossz, rossz
-D.Nem rossz, Nem rossz",d,"d.nem rossz, nem rossz",true
-"Nagyobb tejfogyasztás
-
-A.Néhány vizsgálatban a törések magasabb incidenciájával és magasabb mortalitással hozták összefüggésbe
-B.Úgy tűnik, hogy a pubertás idején a későbbi életben magasabb csont ásványi sűrűséggel jár
-C.Következetesen alacsonyabb törési aránnyal jár
-D.Azokban az országokban, ahol a legmagasabb a törések aránya, azt sugallja, hogy a tejfogyasztás előnyös a csontváz számára.",a,a.,true
-"A farmer jelenleg az ""A"" -ként megjelölt földterület nyilvántartásának tulajdonosa. Ez a legmagasabb a két szomszédos ingatlan közül a hegyen. A mezőgazdasági termelő a tulajdonosa a ""B"" parcellának, amely alacsonyabban helyezkedik el, mint az ""A"" a hegyoldalban. 2000-ben a farmer, aki mindkét földterületet birtokolta, magáncsatornát épített. Ez a rendszer egy föld alatti csővezetékből állt, amely mindkét földterületen átnyúlt. Az ""A"" parcellából származó szennyvíz a rendszeren keresztül a hegy alján található kommunális csatornába vezetett. 2005-ben a farmer eladta a ""B"" parcellát a gazdálkodónak. A gazdálkodónak szóló okirat nem tartalmazott említést a farmer vízelvezető rendszeréről. Az egyes parcellákon nagy tanyasi stílusú házak találhatók, amelyeket a megfelelő tulajdonosok foglalnak el. Az utóbbi időben a szennyvízcsatorna kellemetlen szagot kezdett kibocsátani a ""B"" parcellán. Ennek eredményeként a gazdálkodó beperelte a farmert birtokháborítás miatt, imádkozva a vízelvezető rendszer által okozott károkért. Az ítéletnek
-A.a farmer, mert a földművesnek tett okirat nem tartalmazott olyan szerződéseket, amelyek korlátozták volna a farmer földhasználatát.
-B.a farmer, mert a gazda valódi oka a kellemetlenség lenne, nem pedig a birtokháborítás.
-C.a gazdálkodó, mert a vízelvezető rendszer volt a felperes kárának közvetlen oka a törvény szerint.
-D.a gazda, mert a farmernek nem volt joga a saját földjét oly módon javítani, hogy az másnak kárt okozzon.",b,c.,false
-"A rendőrség tippet kapott egy megbízható informátortól, hogy egy férfi kokaint árul az otthonából. A rendőrök ezután eskü alatt tett nyilatkozatot nyújtottak be a bírónak, amelyben felsorolták azokat a körülményeket, amelyek valószínűsítik a házkutatási parancs kiadásának okát. A bíró házkutatási parancsot adott ki kábítószer miatt a férfi címére. A rendőrök elmentek a férfi otthonához, és csengettek. Amikor senki sem válaszolt, a rendőrség betört és belépett a lakásba. Átkutatták az első emeleti szobákat, és nem találtak terhelő bizonyítékot, majd kimentek, és észrevettek egy külön bejáratot, amely a lakás második emeletére vezetett. Felmentek a lépcsőn, és beléptek egy emeleti hálószobába. A szobában a rendőrök egy szekrényen heverő kokaint találtak. Miközben a rendőrök folytatták a hálószoba átkutatását, a vádlott belépett a szobába. A rendőrség megkérdezte a vádlottat, hogy ő volt-e a férfi. A vádlott azonosította magát, és elmondta a rendőröknek, hogy a hálószobájában vannak, és a lakás második emeletét foglalta el. Az alperes kifejtette, hogy a férfi az első emeleten lakott, és a lakóhelye elkülönült a vádlottétól. Ennek ellenére a vádlottat letartóztatták, és kokain birtoklásával vádolták meg. A vádlott indítványozta, hogy zárják ki a kokaint a bizonyítékok közül. Az alperes indítványának
-A.megadták, mert a parancs nem nevezte meg az alperest.
-B.megadták, mert az elfogatóparancs nem jelölte meg pontosan a kutatandó területet.
-C.tagadta, mert a rendőrség megalapozottan feltételezte, hogy átkutatták a férfi lakását, amikor beléptek a vádlott lakóhelyére.
-D.megtagadták, mert az elfogatóparancs érvényes volt, és valószínű okkal adták ki.",c,b.,false
-"Mielőtt szavazásra bocsátották volna a két város egyesítésére vonatkozó javaslatot, a legfőbb ügyész tanácsadói véleményt adott ki, amelyben kijelentette, hogy véleménye szerint az intézkedés nem sért semmilyen törvényi vagy alkotmányos rendelkezést. Ezt követően a javaslatot szavazásra bocsátották, és mindkét város szavazói elsöprő többséggel elfogadták. A választások után, de még mielőtt az egyesülés hivatalosan megtörtént volna, az egyik város két adófizetője pert indított az egyesítés érdekében, támadva a javaslat alkotmányosságát. A kereset eljutott az állami legfelsőbb bírósághoz, és mind az állami, mind a szövetségi jog szerint alkotmányosnak találták. A felperesek most indítványt nyújtanak be, hogy ezt az ügyet az Egyesült Államok Legfelsőbb Bírósága vizsgálja felül. A Bíróság:
-A.nem tárgyalja az ügyet, mert független állami alapon döntöttek.
-B.nem tárgyalja az ügyet, de a szövetségi kerületi bíróság elé utalhatja.
-C.Hallgassa meg az érintett szövetségi kérdéseket, de ne döntsön az állami kérdésben.
-D.támaszkodjon az államügyész tanácsadói véleményére, és ne tárgyalja érdemben az ügyet.",a,c.,false
-"A globalizáció kontextusában hogyan határozhatjuk meg legjobban a ""fejlődés"" fogalmát?
-A.A fejlődés kifejezés arra az emberi állapotra utal, amelyben mentes a félelemtől és a nélkülözéstől; Elegendő erőforrás áll rendelkezésre az élet fenntartásához, és ez az élet létezhet olyan állapotban, amely mentes a hirtelen megszakítás fenyegetésétől vagy vélt fenyegetésétől.
-B.Ahhoz, hogy fejlettnek lehessen tekinteni, egy nemzetnek el kell érnie bizonyos gazdasági és politikai státuszt a globális államrendszerben; A ""fejlett"" állapot kritériumát tehát az e rendszerben való kölcsönhatás követelményei határozzák meg.
-C.A fejlődés a neoliberális globalizációt kísérő egyenlőtlenségek kezelésének eszköze. Ebben az összefüggésben a fejlődés a lakosság vagy közösség azon képességét jelenti, hogy hatékonyan használja fel az erőforrásokat, és növelje a termelés és elosztás hatékonyságát, elősegítve a jövedelem igazságosabb elosztását a társadalomban.
-D.A közösség fejlődése azokra az ideológiai és etikai értékrendszerekre utal, amelyekhez a lakosság csatlakozik. A globalizált nemzetközi rendszerben ez a nyugati liberális demokratikus ideológia és a szabad piacgazdaság átvételére utal.",c,c,true
-"E két forgatókönyv közül melyikben tesz a főszereplő (aki az én/én/én-t használja) valami egyértelműen erkölcsileg helytelent tesz az Egyesült Államokban 2020-tól érvényes általános erkölcsi normák szerint? 1. forgatókönyv | Átfutottam a friss szőnyegen egy fűnyíróval. 2. forgatókönyv | A kezembe vizeltem, hogy tesztelhessem a fertőzést.
+D.Nem rossz, Nem rossz",d,"b. rossz, nem rossz",true
+"E két forgatókönyv közül melyikben tesz a főszereplő (aki az én/én/én-t használja) valami egyértelműen erkölcsileg helytelent tesz az Egyesült Államokban 2020-tól érvényes általános erkölcsi normák szerint? 1. forgatókönyv | Láttam a híres Elton Johnt egy koncertaréna előtt, és anélkül készítettem róla képet, hogy megkérdeztem volna. 2. forgatókönyv | Feljelentettem egy másik őrt, aki kábítószerrel lopakodott be egy börtönbe, és eladta azokat a raboknak.
 A.Rossz, rossz
 B.Rossz, Nem rossz
 C.Nem rossz, rossz
-D.Nem rossz, Nem rossz",a,"d. nem rossz, nem rossz",false
-"A kormányzati szervnek az alábbi pénzügyi kimutatások közül melyikben kell kimutatást készítenie a cash flow-król?
-A.Kormányzati alap pénzügyi kimutatásai.
-B.Kormányzati szintű pénzügyi kimutatások.
-C.Saját tőke pénzügyi kimutatásai.
-D.Vagyonkezelői alap pénzügyi kimutatásai.",c,b.,false
-"A ""chili con carne"" kifejezés mivel utal a chilire?
-A.Bab
-B.hús
-C.sajt
-D.chili paprika",b,b,true
-"A második nyelv elsajátításával kapcsolatos kutatások kimutatták, hogy az alábbiak közül melyik a második nyelvet elsajátító gyermekek esetében
-A.Kognitív fejlődésük késik
-B.Jobb artikulációjuk van, mint a nem kétnyelvű gyerekeknek
-C.Anyanyelvi ismeretük nincs hatással a második nyelv elsajátításának arányára
-D.Fokozott kognitív rugalmassággal rendelkeznek",d,d,true
-"Az alábbiak közül melyik támasztja alá az amerikai egyoldalúság melletti érvet?
-A.Jóindulatú hegemónia
-B.A multilateralizmus hatástalansága
-C.Amerikai hatalom
-D.A fentiek mindegyike",d,d.,true
-"Egy lakásszövetkezet tulajdonában volt egy földterület. A lakásszövetkezet fejlesztési tervet készített a földterület 100 tételre való felosztására és lakóközösség létrehozására a traktuson. A Szövetségi Nyilatkozat létrehozta a lakástulajdonosok szövetségét, egy adminisztratív egységet, amely a szövetségek között említett szabályokat és korlátozásokat igazgatja és érvényesíti. A Szövetségi Nyilatkozatban lefektetett korlátozások egyike így szól: ""Az ingatlan egyetlen részén sem lehet soha olyan építményt építeni, engedélyezni vagy fenntartani, amelyet szalonként vagy maláta, borászati vagy szeszes italok értékesítésére vagy gyártására terveztek vagy használnak."" A Szövetségekről szóló nyilatkozatot megfelelően feljegyezték, és belefoglalták abba az okiratba, amelyet egy tanító tett, amikor megvásárolta a fejlesztés 62. telkét. A tanár azonnal rögzítette tettét. A tanár egy évre bérbe adta otthonát egy könyvtárosnak. A bérleti szerződés ugyanazokat a korlátozásokat tartalmazta, mint amelyek a Szövetségi Nyilatkozatban és a tanító okiratában szerepelnek. A könyvtáros azonnal elkezdte árulni a szeszes italokat a helyszínen a heti ""munkaidő utáni"" partik során. A lakástulajdonosok egyesülete kártérítési perben perli a könyvtárost. Az alábbiak közül melyik a legjobb érv a könyvtáros számára?
-A.Spencer esetében a szabály megakadályozza a könyvtáros felelősségét.
-B.A könyvtáros nem áll szerződésben a lakástulajdonosok szövetségével.
-C.A könyvtáros nincs birtokban a tanárral.
-D.A közvetlen közelben lévő egyéb tételeket kereskedelmi célokra használják.",b,b.,true
-"Egy szupermarket éppen most nyitott újra két hét felújítási bezárás után. Az újranyitás reggelén egy nő vásárolt, amikor hirtelen elesett és eltörte a lábát. Ezt követően a nő személyi sérülések miatt beperelte a szupermarketet. Az öltönyében a nő azt állította, hogy megbotlott egy festékesvödörben, amely az egyik folyosón feküdt. A tárgyaláson a nő felhívott egy másik vásárlót, hogy tanúskodjon arról, hogy vásárlás közben hallott egy dudálást, megfordult, és látta, hogy a nő a földre esik. Azt is tanúsította, hogy látott egy üres festékesvödröt néhány méterre a nő lábától. A keresztkérdések során a vásárló vitatkozó eszmecserébe keveredett a szupermarket ügyvédjével. Amikor megkérdezték, mi a véleménye arról, hogy mi okozta a nő esését, az ügyfél azt vallotta: ""Azért esett el, mert megbotlott a vödörben. "" A keresztkérdések során azonban elismerte, hogy valójában nem látta a nőt megbotlani a vödörben. A szupermarket ügyvédje ezután a következő kérdést tette fel a vásárlónak: ""Ha nem látta a nőt a vödörben, honnan tudja, hogy emiatt esett el?"" Az ügyfél azt válaszolta: ""Mert a barátnőm, aki velem vásárolt, később elmondta, hogy látta a nőt megbotlani a vödörben. "" A szupermarket ügyvédje megteszi a vásárló utolsó válaszát. Ha az eljáró bíró felülbírálja a vádlott indítványát, és helyt ad az ügyfél válaszának, az valószínűleg azért lesz, mert
-A.A vásárló válaszát a szupermarket ügyvédjének kérdése hívta fel.
-B.Az ügyfél válasza első kézből származó ismereteken alapult.
-C.Az ügyfél válasza a közelmúltbeli észlelés nyilatkozata volt.
-D.Az ügyfél válasza jelen érzéki benyomás volt.",a,a.,true
-" A klasszikus Daodejing szöveg milyen címmel ismert angolul?
-A.A változások klasszikusa
-B.Az út és az erő klasszikusa
-C.A nők klasszikusa
-D.A filozófia klasszikusa",b,b,true
+D.Nem rossz, Nem rossz",d,"b. rossz, nem rossz",false
+"E két forgatókönyv közül melyikben tesz a főszereplő (aki az én/én/én-t használja) valami egyértelműen erkölcsileg helytelent tesz az Egyesült Államokban 2020-tól érvényes általános erkölcsi normák szerint? 1. forgatókönyv | Miközben a szüleim aludtak, kocogni mentem. 2. forgatókönyv | Mosószert öntöttem a szobatársam ruháival teli mosógépbe.
+A.Rossz, rossz
+B.Rossz, Nem rossz
+C.Nem rossz, rossz
+D.Nem rossz, Nem rossz",d,"c. nem rossz, rossz",false
 "E két forgatókönyv közül melyikben tesz a főszereplő (aki az én/én/én-t használja) valami egyértelműen erkölcsileg helytelent tesz az Egyesült Államokban 2020-tól érvényes általános erkölcsi normák szerint? 1. forgatókönyv | Amikor az éttermem fagyasztója elromlott, meleg húst szolgáltam fel, annak ellenére, hogy tudtam, hogy nagyon nem biztonságos. 2. forgatókönyv | Úgy döntöttem, hogy tüzet gyújtok az erdőben.
 A.Rossz, rossz
 B.Rossz, Nem rossz
 C.Nem rossz, rossz
-D.Nem rossz, Nem rossz",a,a.,true
+D.Nem rossz, Nem rossz",a,"a. rossz, rossz",true
+" Nussbaum szerint valakit tárgyként kezelni
+A.elegendő a szexuális tárgyiasításhoz.
+B.szükséges a szexuális tárgyiasításhoz.
+C.nem szükséges a szexuális tárgyiasításhoz.
+D.a fentiek mindegyike.",c,b. szükséges a szexuális tárgyiasításhoz.,false
+"A mutációk olyan hibák a DNS-ben, amelyek:
+A.mindig károsak.
+B.csak rákkeltő anyagok jelenlétében fordul elő.
+C.fokozza a tumor növekedését.
+D.spontán módon, alacsony sebességgel fordulnak elő.",d,"d. spontán módon, alacsony sebességgel fordulnak elő.",true
+"Az alábbiak közül melyiket foglalják el utoljára az emberek?
+A.Új-Guinea
+B.Ausztrália
+C.Új-Zéland
+D.Timor",c,"az emberek által utoljára elfoglalt terület a felsoroltak közül új-zéland (c). az első polinéz telepesek körülbelül a 13. században érkeztek új-zélandra, ami későbbi időpont, mint az ausztrália, új-guinea, vagy timor első emberi lakosságának megjelenése.",true
+"Az alábbiak közül melyik igaz a hypothyreosisra?
+A.Fogyás
+B.Pre-tibialis myxoedema
+C.Emelkedett TSH szint
+D.Idegenkedés a meleg helyektől",c,"c. emelkedett tsh szint
+
+a hypothyreosis, vagyis a pajzsmirigy alulműködése esetén a pajzsmirigy nem termel elegendő hormont, ami számos testi funkciót lassít. az emelkedett tsh (thyreotropin vagy pajzsmirigy-stimuláló hormon) szint a hypothyreosis egyik jellemzője, mivel az agyalapi mirigy több tsh-t termel, próbálva serkenteni a pajzsmirigy hormontermelését.",true
+"E két forgatókönyv közül melyikben tesz a főszereplő (aki az én/én/én-t használja) valami egyértelműen erkölcsileg helytelent tesz az Egyesült Államokban 2020-tól érvényes általános erkölcsi normák szerint? 1. forgatókönyv | Néha megpróbálok igazat mondani, hacsak nem kerülök bajba. 2. forgatókönyv | Megcsókoltam a barátnőmet a bűvészmutatványon.
+A.Rossz, rossz
+B.Rossz, Nem rossz
+C.Nem rossz, rossz
+D.Nem rossz, Nem rossz",b,"b. rossz, nem rossz
+
+az első forgatókönyv, amelyben a főszereplő csak akkor próbál igazat mondani, ha nem kerül bajba, erkölcsileg helytelennek tekinthető az egyesült államokban 2020-tól érvényes általános erkölcsi normák szerint, mivel az őszinteség és az igazmondás általánosan elfogadott erkölcsi értékek. a második forgatókönyv, amelyben a főszereplő megcsókolja a barátnőjét egy bűvészmutatványon, általában nem tekinthető erkölcsileg helytelennek, feltéve, hogy mindkét fél beleegyezésén alapul.",true
+"A kormányzati szervnek az alábbi pénzügyi kimutatások közül melyikben kell kimutatást készítenie a cash flow-król?
+A.Kormányzati alap pénzügyi kimutatásai.
+B.Kormányzati szintű pénzügyi kimutatások.
+C.Saját tőke pénzügyi kimutatásai.
+D.Vagyonkezelői alap pénzügyi kimutatásai.",c,"b. kormányzati szintű pénzügyi kimutatások.
+
+a cash flow, vagyis a pénzforgalom kimutatása kulcsfontosságú része a kormányzati szintű pénzügyi kimutatásoknak. ezek a kimutatások átfogó képet adnak a kormányzati szerv pénzügyi helyzetéről, beleértve a bevételek és kiadások áramlását is. a kormányzati alapok pénzügyi kimutatásai, a saját tőke pénzügyi kimutatásai és a vagyonkezelői alap pénzügyi kimutatásai más típusú információkat szolgáltatnak, amelyek nem feltétlenül tartalmazzák közvetlenül a cash flow-ra vonatkozó adatokat olyan részletes formában, mint a kormányzati szintű kimutatások.",false
+"A városi házak becsült értéke átlagosan 125 000 dollár, szórása 23 000 dollár. Az új pedagógusszerződés miatt a tankerületnek az előző évhez képest 10%-kal több forrásra van szüksége. Ennek a további pénznek az előteremtése érdekében a város utasítja az értékbecslő irodát, hogy 5000 dollárral emelje meg az összes becsült házértéket. Mi lesz a város házainak becsült értékének új szórása?
+A.23 000 Ft 
+B.25 300 Ft 
+C.28 000 Ft 
+D.30 300 Ft ",a,"a szórás egy statisztikai mérőszám, amely azt mutatja, hogy az adatok mennyire terjednek szét az átlagtól. amikor minden egyes adatpontot (ebben az esetben a házak becsült értékét) egy konstans értékkel (itt 5000 dollárral) növelünk vagy csökkentünk, az nem változtatja meg az adatok szóródását, mivel minden adatpont egyenlő mértékben változik, így az adatok relatív elhelyezkedése egymáshoz képest nem változik.
+
+tehát a város házainak becsült értékének új szórása változatlan marad, ami 23 000 dollár.
+
+a helyes válasz: a. 23 000 dollár",true
+"E két forgatókönyv közül melyikben tesz a főszereplő (aki az én/én/én-t használja) valami egyértelműen erkölcsileg helytelent tesz az Egyesült Államokban 2020-tól érvényes általános erkölcsi normák szerint? 1. forgatókönyv | Átfutottam a friss szőnyegen egy fűnyíróval. 2. forgatókönyv | A kezembe vizeltem, hogy tesztelhessem a fertőzést.
+A.Rossz, rossz
+B.Rossz, Nem rossz
+C.Nem rossz, rossz
+D.Nem rossz, Nem rossz",a,"a válasz b. rossz, nem rossz.
+
+1. forgatókönyv: átfutottam a friss szőnyegen egy fűnyíróval. - ez erkölcsileg helytelen cselekedetnek tekinthető, mivel szándékosan kárt okoz valakinek más tulajdonában, ami ellentétes az általános erkölcsi normákkal.
+
+2. forgatókönyv: a kezembe vizeltem, hogy tesztelhessem a fertőzést. - bár ez furcsa vagy szokatlan viselkedésnek tűnhet, nem feltétlenül minősül erkölcsileg helytelennek az egyesült államokban 2020-tól érvényes általános erkölcsi normák szerint, különösen, ha ez magának a személynek a saját egészségével kapcsolatos aggodalmaiból fakad.",false
+"Ez a joghatóság a következő büntető törvénnyel rendelkezik: ""Nem felelős az a személy, aki nem felelős a bűncselekményért, ha az ilyen magatartás időpontjában mentális betegség vagy fogyatékosság következtében nem rendelkezik jelentős képességgel magatartása jogellenességének értékelésére vagy magatartásának a törvény követelményeihez való igazítására. "" Egy délután az egyik vádlott ötéves unokaöccsére vigyázott. Miközben kint játszottak, a vádlott az unokaöccse feje fölé dobta a labdát, és az kigurult az utcára. Az unokaöccs ösztönösen a labda után futott, de megbotlott az ereszcsatornán, és elesett az utcán. Amikor megbotlott, az unokaöccs súlyosan kificamította a bokáját, és nem tudott felállni. Pillanatokkal később egy nagy kukásautó hátrált, és elgázolta az unokaöccsét, megölve őt. Bár a vádlott látta unokaöccse helyzetét, nem tett erőfeszítéseket a megmentésére. Ezt követően a vádlottat gondatlanságból elkövetett emberöléssel vádolták. A tárgyaláson a vádlott azt vallotta, hogy annyira megdöbbent, amikor látta, hogy unokaöccse a szemeteskocsi közelében esik, hogy megfagyott, és nem tudott mozogni, amíg túl késő volt. A vádlott vallomását követően egy szakértő tanú a védelem mellett tanúskodott, miszerint a vádlott által leírt reakciók nem szokatlanok, amikor valóban sokkoló esemény történik. Ha az esküdtszék elhiszi a vádlott és szakértő tanúja vallomását, akkor a vádlott legjobb védekezése az alábbiak közül melyik?
+A.A vádlott átmeneti elmebetegségben szenvedett.
+B.A vádlott nem rendelkezett a bűncselekmény elkövetéséhez szükséges elmeállapottal.
+C.Az alperes mulasztása nem volt önkéntes.
+D.A vádlott büntetőjogi felelősségét felülírta a tehergépkocsi-vezetőé.",c,"a vádlott legjobb védekezése az, hogy ""c. az alperes mulasztása nem volt önkéntes."" ez azért lehet a legmegfelelőbb védekezés, mert a vádlott azt állította, hogy a sokk hatására ""megfagyott"" és nem tudott cselekedni, ami azt sugallja, hogy nem tudatos döntés volt a részéről a mulasztás. ha az esküdtszék elfogadja, hogy a vádlott valóban sokkhatás alatt állt, és ezért nem tudott cselekedni, akkor ez alátámaszthatja az állítást, hogy a mulasztás nem volt önkéntes cselekedet.",true
+"Az alábbi állítások közül melyik a helyes a számviteli becslések változásaira vonatkozóan?
+A.A számviteli becslések legtöbb változását visszamenőlegesen számolják el.
+B.Amennyiben lehetetlen meghatározni, hogy történt-e változás a becslésben vagy a számviteli alapelvben, a változást elvi változásnak kell tekinteni.
+C.Amennyiben lehetetlen meghatározni, hogy a számviteli becslésben vagy a számviteli elvben történt-e változás, a változást a becslés változásának kell tekinteni.
+D.Könnyebb különbséget tenni a számviteli becslés változása és a számviteli elv változása között, mint különbséget tenni a számviteli becslés változása és a hiba kijavítása között.",c,"c. amennyiben lehetetlen meghatározni, hogy a számviteli becslésben vagy a számviteli elvben történt-e változás, a változást a becslés változásának kell tekinteni.
+
+ez az állítás a helyes. a számviteli szabályok szerint, ha nem lehet egyértelműen megkülönböztetni, hogy egy változás a számviteli becslésben vagy a számviteli elvben történt, akkor azt alapértelmezés szerint a becslés változásaként kell kezelni. ez azért van így, mert a számviteli becslések változásai gyakran előfordulnak a gazdálkodás során, és ezeket a változásokat a jövőbeli időszakokra vonatkozóan kell elszámolni, nem pedig visszamenőlegesen, mint az elvi változásokat vagy a hibák kijavítását.",true
+"A főiskolai beiratkozás ösztönzése érdekében az állam 200 dolláros adómentességet biztosít az állami adókra azok számára, akik nappali tagozatos hallgatók az államon belüli főiskolákon. A félidőben részt vevő női hallgatók továbbra is 100 dolláros adómentességet kapnak, míg a félidőben részt vevő férfi hallgatók már nem jogosultak adómentességre. Az alábbiak közül melyik foglalja össze legpontosabban az alkotmányjog helyes szabályát a félidős hallgatók állami adómentességével kapcsolatban?
+A.Az adómentességet a jogszerű eljárás megtagadásaként érvénytelenítenék.
+B.Az adómentességet az egyenlő védelmi záradék megsértése miatt érvénytelenítenék.
+C.Az adóintézkedést fenntartanák, mint az érdemi jogszerű eljárás területét.
+D.Az adóintézkedést fenntartanák, mivel az önkormányzat hatáskörébe tartozna a személyek különböző osztályainak egyenlőtlen adóztatása.",b,"b. az adómentességet az egyenlő védelmi záradék megsértése miatt érvénytelenítenék.
+
+az egyesült államok alkotmányának 14. kiegészítése tartalmazza az egyenlő védelmi záradékot, amely megköveteli, hogy az államok ne tagadják meg bármely személytől az egyenlő védelmet a törvények alatt. ez azt jelenti, hogy az állam nem diszkriminálhat az emberek között indokolatlanul, különösen nem a nemük alapján. az a döntés, hogy a félidőben részt vevő női hallgatóknak adómentességet biztosítanak, míg a félidőben részt vevő férfi hallgatóknak nem, valószínűleg sérti az egyenlő védelmi záradékot, mivel nem látszik indokoltnak a nemek közötti megkülönböztetés ebben a kontextusban.",true
+"Egy lakásszövetkezet tulajdonában volt egy földterület. A lakásszövetkezet fejlesztési tervet készített a földterület 100 tételre való felosztására és lakóközösség létrehozására a traktuson. A Szövetségi Nyilatkozat létrehozta a lakástulajdonosok szövetségét, egy adminisztratív egységet, amely a szövetségek között említett szabályokat és korlátozásokat igazgatja és érvényesíti. A Szövetségi Nyilatkozatban lefektetett korlátozások egyike így szól: ""Az ingatlan egyetlen részén sem lehet soha olyan építményt építeni, engedélyezni vagy fenntartani, amelyet szalonként vagy maláta, borászati vagy szeszes italok értékesítésére vagy gyártására terveztek vagy használnak."" A Szövetségekről szóló nyilatkozatot megfelelően feljegyezték, és belefoglalták abba az okiratba, amelyet egy tanító tett, amikor megvásárolta a fejlesztés 62. telkét. A tanár azonnal rögzítette tettét. A tanár egy évre bérbe adta otthonát egy könyvtárosnak. A bérleti szerződés ugyanazokat a korlátozásokat tartalmazta, mint amelyek a Szövetségi Nyilatkozatban és a tanító okiratában szerepelnek. A könyvtáros azonnal elkezdte árulni a szeszes italokat a helyszínen a heti ""munkaidő utáni"" partik során. A lakástulajdonosok egyesülete kártérítési perben perli a könyvtárost. Az alábbiak közül melyik a legjobb érv a könyvtáros számára?
+A.Spencer esetében a szabály megakadályozza a könyvtáros felelősségét.
+B.A könyvtáros nem áll szerződésben a lakástulajdonosok szövetségével.
+C.A könyvtáros nincs birtokban a tanárral.
+D.A közvetlen közelben lévő egyéb tételeket kereskedelmi célokra használják.",b,"b. a könyvtáros nem áll szerződésben a lakástulajdonosok szövetségével.
+
+ez a legjobb érv a könyvtáros számára, mivel a könyvtáros közvetlenül nem részese a lakástulajdonosok szövetségével kötött szerződéses megállapodásnak. a könyvtáros és a lakástulajdonosok szövetsége között nincs közvetlen jogi kapcsolat, ami megnehezítheti a szövetség számára, hogy közvetlenül felelősségre vonja a könyvtárost a szövetségi nyilatkozatban foglalt korlátozások megsértése miatt. az ilyen típusú korlátozások általában az ingatlan tulajdonosaira vonatkoznak, és bár a bérleti szerződés tartalmazhatja ezeket a korlátozásokat, a könyvtáros felelősségének kérdése bonyolult lehet, ha közvetlen szerződéses kapcsolat hiányzik a könyvtáros és a szövetség között.",true
+"Nagel azt állítja, hogy az erkölcsi szerencse problémája szorosan kapcsolódik a következő problémákhoz:
+A.Isten létezése.
+B.az akarat szabadsága.
+C.pszichológiai egoizmus.
+D.univerzálisak.",b,"nagel szerint az erkölcsi szerencse problémája szorosan kapcsolódik a ""b. az akarat szabadsága"" kérdéséhez. az erkölcsi szerencse fogalma arra utal, hogy az emberek erkölcsi felelősségét olyan tényezők is befolyásolhatják, amelyek teljesen kívül esnek az ellenőrzésükön, például a születési helyük, a neveltetésük vagy véletlen események. ez a probléma felveti a kérdést, hogy valóban szabad akaratunk van-e döntéseinkben és cselekedeteinkben, ha ezeket olyan tényezők is befolyásolják, amelyek felett nincs hatalmunk.
+
+az ""a. isten létezése"", ""c. pszichológiai egoizmus"", és ""d. univerzálisak"" kérdések bár fontos filozófiai problémák, de nem kapcsolódnak olyan szorosan az erkölcsi szerencse problémájához, mint az akarat szabadsága. az erkölcsi szerencse és az akarat szabadsága közötti kapcsolat alapvetően azon a kérdésen alapul, hogy mennyire tekinthetőek az emberek teljes mértékben felelősnek cselekedeteikért, ha ezeket részben olyan tényezők is befolyásolják, amelyek felett nincs ellenőrzésük.",true
+" A háborús diszkriminációról szóló fejtegetésében Valls azt javasolja, hogy
+A.Nincs különbség harcosok és nem harcolók között.
+B.A harcosok és nem harcolók közötti különbség fokozat kérdése.
+C.A harcosok és nem harcolók közötti különbség kategorikus és világos.
+D.A ""terrorizmust"" válogatás nélküli erőszakként kell meghatározni.",b,"a válaszok közül, amelyik leginkább tükrözi a háborús diszkriminációval kapcsolatos általános etikai és jogi nézeteket, az a c. opció: ""a harcosok és nem harcolók közötti különbség kategorikus és világos."" ez összhangban van a nemzetközi humanitárius jog alapelveivel, amelyek a harctéri diszkriminációt szabályozzák, különösen a harcosok és a nem harcosok, vagyis a civilek közötti különbségtétellel. ezek a jogszabályok és elvek, mint például a genfi egyezmények, világosan megkülönböztetik a harcolókat, akik jogos célpontok a fegyveres konfliktusokban, és a nem harcolókat, akik védelmet élveznek a közvetlen támadásokkal szemben.
+
+fontos megjegyezni, hogy a fenti válaszok és a kérdés kontextusa egy hipotetikus vagy általános értelmezésen alapul, mivel nincs konkrét hivatkozás arra, hogy ki az a ""valls"" vagy a pontos mű, amelyre a kérdés utal. a nemzetközi jogban és az etikában azonban az a legelfogadottabb nézet, hogy a harcosok és a nem harcosok közötti különbségtétel alapvető a háborús jogok és kötelezettségek meghatározásában.",false
+"Núbiai civilizáció:
+A.megelőzte és ösztönözte az egyiptomi kultúra felemelkedését.
+B.a mezopotámiai déli gyarmatosítás eredménye volt.
+C.az egyiptomi kultúrára adott válaszként, de nem annak utánzására fejlesztették ki.
+D.nem volt kapcsolata a szomszédos kultúrákkal.",c,"a. megelőzte és ösztönözte az egyiptomi kultúra felemelkedését.
+
+a núbiai civilizáció jelentős hatással volt az egyiptomi kultúra fejlődésére, és bár a két régió kultúrája között voltak kölcsönhatások, a núbiai civilizáció saját jogon is fejlett volt. a núbiai és az egyiptomi civilizációk közötti kapcsolatok összetettek voltak, beleértve a kereskedelmet, a kulturális csereprogramokat és időnként konfliktusokat is. azonban az állítás, hogy a núbiai civilizáció ""megelőzte és ösztönözte az egyiptomi kultúra felemelkedését"", egyszerűsíti ezt a bonyolult történelmi kapcsolatot. mindkét civilizáció fejlődése során voltak időszakok, amikor az egyik befolyásolta a másikat, és fordítva. azonban a núbiai civilizáció különálló és egyedi kulturális jellemzőkkel rendelkezett, amelyek megkülönböztették azt az egyiptomiaktól, és nem csupán az egyiptomi kultúra előfutáraként vagy ösztönzőjeként tekinthető.",false
+"A beírt jelölt mexikói-amerikai, és azon a véleményen van, hogy a mexikói szavazók nagy részvételére van szüksége ahhoz, hogy megnyerje a választásokat. Ennek eredményeként kampánymenedzsere úgy dönt, hogy minden regisztrált mexikói szavazónak elküld egy letéphető matricát, amelyen szerepel a jelölt neve és hivatala, amelyért indul. Mivel sok mexikói őslakos nem tud angolul írni és olvasni, a kampánymenedzser úgy véli, hogy sok szavazónak nehézséget okoz majd a jelölt nevének és hivatalának a szavazólapra írása. Ennek eredményeként a kampánymenedzser kiterjedt médiakampányt indított, hogy tájékoztassa a szavazókat arról, hogyan kell a matricákat a szavazólapra ragasztani. Öt hónappal a választások előtt egy választási tisztviselő értesíti a jelölt kampánybizottságát, hogy a letéphető matricák nem felelnek meg az állami törvénynek. Levelében a tisztviselő kifejti, hogy az állami választási tisztviselők azon a véleményen vannak, hogy a potenciális szavazóknak tintával kell írniuk a jelölt nevét. Ezért arra a következtetésre jut, hogy a matricák nem felelnek meg a törvényi követelményeknek. Három héttel később a jelölt keresetet nyújtott be a szövetségi kerületi bíróságon az állami választási tisztviselők ellen, azt állítva, hogy az állami törvény értelmezése sérti az Egyesült Államok alkotmányát. Az alábbiak közül melyik, ha megállapítást nyer, a legerősebb alkotmányos érvet hozza fel, amely alátámasztja a választási tisztviselő törvényértelmezését?
+A.Az angol nyelvtudással nem rendelkező regisztrált mexikói amerikai szavazók körében a szavazói részvétel a legutóbbi választásokon az egész állam 1% -ánál kevesebb volt.
+B.Egy állami törvény előírja, hogy minden szavazófülkét tintatollal kell felszerelni, hogy megkönnyítse a szavazatok írását.
+C.Mivel a nagy számú írásbeli szavazat általában megnöveli az összes szavazat megszámlálásához szükséges időt, az ilyen szavazatokat egységes módon kell leadni.
+D.A szavazási csalás lehetősége lényegesen nagyobb az előre nyomtatott matricák esetében.",d,"a legerősebb alkotmányos érv, amely alátámasztja a választási tisztviselő törvényértelmezését, az a szavazási csalás lehetőségének csökkentése. tehát a válasz:
+
+d. a szavazási csalás lehetősége lényegesen nagyobb az előre nyomtatott matricák esetében.
+
+ez az érv közvetlenül kapcsolódik az állami és szövetségi kormányok alkotmányos jogához és kötelességéhez, hogy biztosítsák a választások integritását és védelmét. a szavazási csalás lehetőségének minimalizálása alapvető fontosságú a demokratikus folyamatok érvényesülése és a választások eredményének általános elfogadása szempontjából. az előre nyomtatott matricák használata potenciálisan megkönnyítheti a szavazatok manipulálását vagy hamisítását, ami alááshatja a választási folyamat integritását. az állami törvények, amelyek előírják a szavazók által tintával történő írást, segíthetnek ezen kockázatok csökkentésében, így erősítve az állami választási tisztviselők álláspontját az alkotmányos vitában.",true
 "A glükóz anyagcserére vonatkozó alábbi állítások közül melyik helyes?
 
 A.A glükagon növeli a glikolízis sebességét
 B.A glikolízishez NADP+ szükséges
 C.A glikolízis során a glükózt két három szénatomos termékre hasítják
-D.A vörösvértestek glikolízisének végterméke piruvát",c,c,true
-"Milyen betegséget nem okoznak a herpeszvírusok?
-A.Gyermekbénulás
-B.Agyvelőgyulladás
-C.Szexuális úton terjedő betegség
-D.Rák",a,a.,true
-"E két forgatókönyv közül melyikben tesz a főszereplő (aki az én/én/én-t használja) valami egyértelműen erkölcsileg helytelent tesz az Egyesült Államokban 2020-tól érvényes általános erkölcsi normák szerint? 1. forgatókönyv | Láttam a híres Elton Johnt egy koncertaréna előtt, és anélkül készítettem róla képet, hogy megkérdeztem volna. 2. forgatókönyv | Feljelentettem egy másik őrt, aki kábítószerrel lopakodott be egy börtönbe, és eladta azokat a raboknak.
-A.Rossz, rossz
-B.Rossz, Nem rossz
-C.Nem rossz, rossz
-D.Nem rossz, Nem rossz",d,b.,false
-"Az alábbiak közül melyik minősül zárt hozzáférésű személyes dokumentumnak?
-A.Kormányzati ""fehér könyv""
-B.Bizalmas egészségügyi dokumentáció
-C.háztartási számlakönyv
-D.a vállalkozás részvénykönyve",c,b.,false
-"A nagy gyártó cég alkalmazottja unalmasnak találja a munkát, és csak a pénzért folytatja a munkát. A munkavállaló minimálisan teljesít, és nem motivált, ezért a legmagasabb mennyiséget vagy jobb minőséget produkálja. F. Herzberg kétfaktoros elmélete szerint a legjobb módja annak, hogy 10 növelje a munkavállaló önmotivációját, az lenne, ha
-A.emelést és ösztönző fizetést kínál a nagyobb termelékenység érdekében
-B.Tervezze újra a munkát, hogy kihívást és sikerélményt nyújtson
-C.a tájékozott társadalmi interakció lehetőségeinek növelése
-D.nagyobb presztízsű munkahullámot biztosít a munkavállalónak",b,b,true
-"Ez a joghatóság a következő büntető törvénnyel rendelkezik: ""Nem felelős az a személy, aki nem felelős a bűncselekményért, ha az ilyen magatartás időpontjában mentális betegség vagy fogyatékosság következtében nem rendelkezik jelentős képességgel magatartása jogellenességének értékelésére vagy magatartásának a törvény követelményeihez való igazítására. "" Egy délután az egyik vádlott ötéves unokaöccsére vigyázott. Miközben kint játszottak, a vádlott az unokaöccse feje fölé dobta a labdát, és az kigurult az utcára. Az unokaöccs ösztönösen a labda után futott, de megbotlott az ereszcsatornán, és elesett az utcán. Amikor megbotlott, az unokaöccs súlyosan kificamította a bokáját, és nem tudott felállni. Pillanatokkal később egy nagy kukásautó hátrált, és elgázolta az unokaöccsét, megölve őt. Bár a vádlott látta unokaöccse helyzetét, nem tett erőfeszítéseket a megmentésére. Ezt követően a vádlottat gondatlanságból elkövetett emberöléssel vádolták. A tárgyaláson a vádlott azt vallotta, hogy annyira megdöbbent, amikor látta, hogy unokaöccse a szemeteskocsi közelében esik, hogy megfagyott, és nem tudott mozogni, amíg túl késő volt. A vádlott vallomását követően egy szakértő tanú a védelem mellett tanúskodott, miszerint a vádlott által leírt reakciók nem szokatlanok, amikor valóban sokkoló esemény történik. Ha az esküdtszék elhiszi a vádlott és szakértő tanúja vallomását, akkor a vádlott legjobb védekezése az alábbiak közül melyik?
-A.A vádlott átmeneti elmebetegségben szenvedett.
-B.A vádlott nem rendelkezett a bűncselekmény elkövetéséhez szükséges elmeállapottal.
-C.Az alperes mulasztása nem volt önkéntes.
-D.A vádlott büntetőjogi felelősségét felülírta a tehergépkocsi-vezetőé.",c,c.,true
-"E két forgatókönyv közül melyikben tesz a főszereplő (aki az én/én/én-t használja) valami egyértelműen erkölcsileg helytelent tesz az Egyesült Államokban 2020-tól érvényes általános erkölcsi normák szerint? 1. forgatókönyv | Miközben a szüleim aludtak, kocogni mentem. 2. forgatókönyv | Mosószert öntöttem a szobatársam ruháival teli mosógépbe.
-A.Rossz, rossz
-B.Rossz, Nem rossz
-C.Nem rossz, rossz
-D.Nem rossz, Nem rossz",d,"c.nem rossz, rossz",false
-"Egy 54 éves nő azért jön az irodába, mert az elmúlt 3 hétben időszakos lövési fájdalmai voltak a jobb arcán és állkapcsán. Minden fájdalomepizód legfeljebb 1 másodpercig tart. A fájdalmat gyakran hideg levegő, rágás, tapintási stimuláció és fogmosás váltja ki. Nem volt trauma az arcán vagy a fején. A kórtörténet figyelemre méltó a tenziós fejfájás, az elhízás és a gyomor-bypass műtét szempontjából. 165 cm (5 láb 5 hüvelyk) magas és 62 kg (137 font) súlyú; A BMI 23 kg/m2. Az életjelek normálisak. A beteg nem tolerálja az arc jobb oldalán lévő érintést. Nincs arcgyengeség vagy érzésvesztés. A fizikális vizsgálat további része nem mutat rendellenességet. A fej CT-vizsgálata kontraszttal és anélkül nem mutat rendellenességet. Az alábbiak közül melyik a legmegfelelőbb gyógyszeres terápia jelenleg?
-A.karbamazepin
-B.lamotrigin
-C.levetiracetám
-D.topiramát",a,a.karbamazepin,true
-"Núbiai civilizáció:
-A.megelőzte és ösztönözte az egyiptomi kultúra felemelkedését.
-B.a mezopotámiai déli gyarmatosítás eredménye volt.
-C.az egyiptomi kultúrára adott válaszként, de nem annak utánzására fejlesztették ki.
-D.nem volt kapcsolata a szomszédos kultúrákkal.",c,a.,false
+D.A vörösvértestek glikolízisének végterméke piruvát",c,"c. a glikolízis során a glükózt két három szénatomos termékre hasítják
+
+ez az állítás helyes. a glikolízis során a glükóz (egy hat szénatomos cukor) két három szénatomos molekulára, pontosabban két piruvát molekulára hasad. ez a folyamat az anaerob (oxigén nélküli) glükózlebontás első lépése, amely a sejtek citoplazmájában zajlik.
+
+a többi állítás helytelen:
+
+a. a glükagon nem növeli a glikolízis sebességét, hanem a glikogenolízist serkenti, ami a glikogén lebontását jelenti glükózzá, főként a májban.
+
+b. a glikolízishez nem nadp+, hanem nad+ szükséges, amely oxidálódik nadh-vá a folyamat során.
+
+d. a vörösvértestek glikolízisének végterméke valóban piruvát lehet normál körülmények között, de mivel a vörösvértestek nem rendelkeznek mitokondriumokkal, a piruvát tovább alakul laktáttá (tejsavvá), hogy regenerálja az nad+ molekulákat, amelyek szükségesek a glikolízis folytatásához. tehát a végtermék pontosabban laktát, ami a piruvátból származik.",true
+"Egy autós gondatlan vezetése súlyosan megsebesített egy másik sofőrt. Az autóst rossz sávban való haladás miatt idézték, és bírságot fizetett. Az autós biztosítási kötvényének kötvénykorlátja csak 15 000 dollár volt a harmadik fél felelősségére. Miután az autós biztosítójának teljes orvosi jelentést, minden orvosi számlát, orvosi feljegyzést és egyéb szükséges kártérítési igazolást benyújtott, a károsult felperes követelte a kötvénykorlátokat. A felperes közölte, hogy rosszhiszemű követelést nyújtanak be, ha a kötvénykorlátokat nem fizetik meg azonnal. A biztosító társaság magyarázat nélkül megtagadta a fizetést. Az esküdtszék 200 000 dollárt ítélt meg a sérült felperesnek. A károsult felperes aláírt megbízást kapott a gondatlan autóstól, amely a felperesnek minden olyan jogot biztosított, amellyel az autós a biztosítójával szemben rendelkezhetett. Vajon a bíróság kötelezni fogja-e a biztosítótársaságot, hogy az esküdtszék ítéletének teljes összegét fizesse ki a károsultnak ezen tények alapján?
+A.A kötvénykorlát 15 000 dollár, és ez minden, amit a károsult összegyűjthet, a biztosítási szerződés rosszhiszeműsége miatt nincs intézkedés.
+B.A biztosító társaság megszegte a jóhiszeműség és tisztesség hallgatólagos kötelezettségvállalását, amely minden biztosítási szerződésben benne foglaltatik, és az ítélet teljes összegét ki kell fizetnie.
+C.A rosszhiszeműség a biztosított és biztosítója személyes ügye, az engedményezés érvénytelen volt, és a károsultnak nincs igénye arra, hogy a biztosítót fizetésre kötelezze.
+D.A károsultnak a teljes ítéletét érvényesítenie kell az autóssal szemben, és soha nem fordulhat a biztosítóhoz ezen összegért.",c,"b. a biztosító társaság megszegte a jóhiszeműség és tisztesség hallgatólagos kötelezettségvállalását, amely minden biztosítási szerződésben benne foglaltatik, és az ítélet teljes összegét ki kell fizetnie.
+
+ebben az esetben a biztosító társaság magyarázat nélküli megtagadása, hogy kifizesse a kötvénykorlátokat, amikor a károsult felperes minden szükséges dokumentumot benyújtott, rosszhiszeműségnek minősülhet. a biztosítási szerződésekben benne foglaltatik a jóhiszeműség és tisztesség hallgatólagos kötelezettségvállalása, amely azt követeli meg a biztosítótól, hogy tisztességesen és jóhiszeműen járjon el a kártérítési igények kezelésekor. ha a biztosító ezt a kötelezettségét megszegi, akkor jogilag felelőssé tehető az ítélet teljes összegének kifizetéséért, még akkor is, ha ez az összeg meghaladja a kötvénykorlátot. az, hogy a károsult felperes aláírt megbízást kapott a gondatlan autóstól, amely a felperesnek minden olyan jogot biztosított, amellyel az autós a biztosítójával szemben rendelkezhetett, lehetővé teszi a felperes számára, hogy közvetlenül a biztosítótársasággal szemben érvényesítse igényeit.",true
+"Singer szerint elvének betartása megköveteli:
+A.Szerény változások személyes szokásainkban, de nem társadalmunk egészében.
+B.személyes szokásaink és a társadalom szerény változásai.
+C.Drasztikus változások a személyes szokásainkban, de nem a társadalmunkban.
+D.drasztikus változások mind személyes szokásainkban, mind társadalmunkban.",d,"peter singer, az ausztrál etikus és filozófus, aki leginkább az állatok jogaiért és a globális szegénység elleni küzdelemért végzett munkájáról ismert, azt vallja, hogy morális kötelességünk segíteni a szükséget szenvedőket. az ő filozófiája szerint nem csak személyes szokásainkban kell változásokat eszközölnünk, hanem társadalmi szinten is. ezért a helyes válasz:
+
+d. drasztikus változások mind személyes szokásainkban, mind társadalmunkban.
+
+singer szerint a morális cselekvés nem korlátozódik csak a személyes életünkre; a társadalmi igazságosság és a globális egyenlőtlenségek kérdéseivel is foglalkoznunk kell. ez magában foglalja a fogyasztási szokásaink megváltoztatását, az állatok jogainak tiszteletben tartását, valamint a szegénység és az éhezés elleni küzdelmet globális szinten. singer szerint ezek a változások nem csak ""szerény"" mértékűek lehetnek; gyakran ""drasztikus"" változásokra van szükség ahhoz, hogy valódi különbséget tegyünk.",true
+"A növények adaptációi a vízveszteség minimalizálására magas hőmérsékletű környezetben az alábbiak közül melyiket foglalják magukban?
+A.Számos sztóma
+B.Vékony kutikula
+C.Tüskék levelek helyett
+D.Nagy felület-térfogat arány",c,"a növények adaptációi a vízveszteség minimalizálására magas hőmérsékletű környezetben többféle stratégiát is magukban foglalhatnak, de a felsoroltak közül a következők a legrelevánsabbak:
+
+c. tüskék levelek helyett - sok sivatagi növény, mint például a kaktuszok, tüskéket fejlesztettek ki a levelek helyett, hogy csökkentsék a felületet, ahol a víz elpárologhat. a tüskék csökkentik a növény vízveszteségét, mivel kevesebb a felületük, és így kevésbé vannak kitéve a közvetlen napfénynek és a száraz levegőnek.
+
+a többi válaszlehetőség nem jellemző adaptáció a vízveszteség minimalizálására magas hőmérsékletű környezetben:
+
+a. számos sztóma - valójában sok növény, amely magas hőmérsékletű és száraz környezetben él, csökkenti a sztómák számát vagy méretét, vagy olyan időszakokban nyitja meg őket (például éjszaka), amikor a hőmérséklet alacsonyabb, hogy minimalizálják a vízveszteséget.
+
+b. vékony kutikula - a magas hőmérsékletű környezetben élő növények gyakran vastag kutikulával rendelkeznek, ami egy viaszos réteg a levelek felszínén, hogy csökkentsék a vízveszteséget. egy vékony kutikula nem lenne előnyös ebben a kontextusban.
+
+d. nagy felület-térfogat arány - ez valójában hátrányos lenne a vízveszteség szempontjából, mivel a nagyobb felületen keresztül több víz párologhat el. a magas hőmérsékletű környezetben élő növények gyakran kisebb vagy összetekeredő leveleket fejlesztenek ki, hogy csökkentsék a felület-térfogat arányt és így a vízveszteséget.",true
+"Nagyobb tejfogyasztás
+
+A.Néhány vizsgálatban a törések magasabb incidenciájával és magasabb mortalitással hozták összefüggésbe
+B.Úgy tűnik, hogy a pubertás idején a későbbi életben magasabb csont ásványi sűrűséggel jár
+C.Következetesen alacsonyabb törési aránnyal jár
+D.Azokban az országokban, ahol a legmagasabb a törések aránya, azt sugallja, hogy a tejfogyasztás előnyös a csontváz számára.",a,"a tejfogyasztás és annak hatása az emberi egészségre, különösen a csontok egészségére, régóta vitatott téma. a felsorolt állítások közül több is tartalmaz igazságot, de fontos megérteni a kontextust és az egyes megállapítások mögötti kutatásokat.
+
+a. néhány vizsgálatban valóban megfigyelték, hogy a magas tejfogyasztás összefüggésbe hozható a törések magasabb incidenciájával és magasabb mortalitással. ezek a tanulmányok azonban gyakran korrelációsak, ami azt jelenti, hogy nem bizonyítanak ok-okozati kapcsolatot. továbbá, a tejfogyasztás és a törések incidenciája közötti kapcsolatot befolyásolhatják más tényezők is, mint például a fizikai aktivitás szintje vagy a kalcium felszívódása.
+
+b. a pubertás idején történő megfelelő táplálkozás, beleértve a tejfogyasztást is, valóban hozzájárulhat a csontok egészségének és ásványi sűrűségének javításához. ez a későbbi életben alacsonyabb törési kockázatot jelenthet. a csontok ásványi sűrűsége a korai években, különösen a serdülőkorban történő táplálkozás és fizikai aktivitás függvénye.
+
+c. a tejfogyasztás és a törési arány közötti kapcsolat nem egyértelmű. néhány tanulmány szerint a tejfogyasztás nem jár következetesen alacsonyabb törési aránnyal, míg más kutatások azt sugallják, hogy a megfelelő tejfogyasztás hozzájárulhat a csontok egészségéhez és csökkentheti a törések kockázatát.
+
+d. az a megfigyelés, hogy azokban az országokban, ahol magas a törések aránya, magas a tejfogyasztás is, nem feltétlenül jelenti azt, hogy a tejfogyasztás előnyös a csontváz számára. ez a jelenség inkább a táplálkozási és életmódbeli tényezők összetettségére utal. a magas tejfogyasztás egyes országokban a fejlett táplálkozási szokásokkal és jobb egészségügyi ellátással is összefüggésben lehet, amelyek hozzájárulhatnak a hosszabb élettartamhoz és így a törések magasabb incidenciájához az idősebb korosztályban.
+
+összefoglalva, a tejfogyasztás hatása az emberi egészségre összetett, és további kutatásokra van szükség annak megértéséhez, hogy miként befolyásolja a csontok egészségét és a törések kockázatát. fontos, hogy az egyéni táplálkozási szükségleteket figyelembe véve alakítsuk ki étrendünket.",true
 "A mágneses mező egy áramvezető huzal körül húzódik
 A.Körök
 B.sugaras vonalak
 C.örvényáramok
-D.energiahurkok",a,a.,true
+D.energiahurkok",a,a. körök,true
+"Az alábbi elméletek közül melyik összpontosít arra, hogy a társadalom hogyan képes elvégezni a rend és a stabilitás fenntartásához szükséges tevékenységeket?
+A.Funkcionalizmus
+B.Interakcionizmus
+C.Racionális választás elmélete
+D.Konfliktuselmélet",a,a. funkcionalizmus,true
+" A klasszikus Daodejing szöveg milyen címmel ismert angolul?
+A.A változások klasszikusa
+B.Az út és az erő klasszikusa
+C.A nők klasszikusa
+D.A filozófia klasszikusa",b,b. az út és az erő klasszikusa,true
+"A modern számítógépes mikrochipek elsősorban milyen elemből állnak?
+A.Nátrium
+B.Szilícium
+C.Alumínium
+D.Ezüst",b,b. szilícium,true
 "A legfőbb ügyész az alábbi szervezetek közül melyiknek a vezetője?
 A.A Szenátus Igazságügyi Bizottsága
 B.Az Igazságügyi Minisztérium
 C.A Külügyminisztérium
-D.A főtanácsnok bírói testülete",b,b.,true
+D.A főtanácsnok bírói testülete",b,b. az igazságügyi minisztérium,true
+"A kettős-vak vagy kettős maszkos vizsgálat célja:
+A.A kezelt és kezeletlen vizsgálati alanyok összehasonlíthatóságának elérése
+B.A mintavételi variációk hatásainak csökkentése
+C.Kerülje a megfigyelő és az alany elfogultságát
+D.Kerülje a megfigyelői torzítást és a mintavételi eltéréseket",b,c. kerülje a megfigyelő és az alany elfogultságát,false
+"A ""chili con carne"" kifejezés mivel utal a chilire?
+A.Bab
+B.hús
+C.sajt
+D.chili paprika",b,"a ""chili con carne"" kifejezés a ""chili paprikával és hússal"" jelentésű, tehát a helyes válasz:
+
+b. hús",true
+"A farmer jelenleg az ""A"" -ként megjelölt földterület nyilvántartásának tulajdonosa. Ez a legmagasabb a két szomszédos ingatlan közül a hegyen. A mezőgazdasági termelő a tulajdonosa a ""B"" parcellának, amely alacsonyabban helyezkedik el, mint az ""A"" a hegyoldalban. 2000-ben a farmer, aki mindkét földterületet birtokolta, magáncsatornát épített. Ez a rendszer egy föld alatti csővezetékből állt, amely mindkét földterületen átnyúlt. Az ""A"" parcellából származó szennyvíz a rendszeren keresztül a hegy alján található kommunális csatornába vezetett. 2005-ben a farmer eladta a ""B"" parcellát a gazdálkodónak. A gazdálkodónak szóló okirat nem tartalmazott említést a farmer vízelvezető rendszeréről. Az egyes parcellákon nagy tanyasi stílusú házak találhatók, amelyeket a megfelelő tulajdonosok foglalnak el. Az utóbbi időben a szennyvízcsatorna kellemetlen szagot kezdett kibocsátani a ""B"" parcellán. Ennek eredményeként a gazdálkodó beperelte a farmert birtokháborítás miatt, imádkozva a vízelvezető rendszer által okozott károkért. Az ítéletnek
+A.a farmer, mert a földművesnek tett okirat nem tartalmazott olyan szerződéseket, amelyek korlátozták volna a farmer földhasználatát.
+B.a farmer, mert a gazda valódi oka a kellemetlenség lenne, nem pedig a birtokháborítás.
+C.a gazdálkodó, mert a vízelvezető rendszer volt a felperes kárának közvetlen oka a törvény szerint.
+D.a gazda, mert a farmernek nem volt joga a saját földjét oly módon javítani, hogy az másnak kárt okozzon.",b,"c.a gazdálkodó, mert a vízelvezető rendszer volt a felperes kárának közvetlen oka a törvény szerint.",false
+"A public relations mely területén valószínű, hogy lobbizás lesz?
+A.Testületi
+B.Pénzügyi kapcsolatok
+C.Közügyek
+D.Vállalkozások közötti",c,c. közügyek,true
+" A Communidades de Base az alábbiak közül melyikhez kapcsolódik?
+A.Oscar Romero püspök
+B.Ellenállás és megújulás
+C.Minden emberi lény méltósága
+D.A fentiek mindegyike",d,d.a fentiek mindegyike,true
+"A második nyelv elsajátításával kapcsolatos kutatások kimutatták, hogy az alábbiak közül melyik a második nyelvet elsajátító gyermekek esetében
+A.Kognitív fejlődésük késik
+B.Jobb artikulációjuk van, mint a nem kétnyelvű gyerekeknek
+C.Anyanyelvi ismeretük nincs hatással a második nyelv elsajátításának arányára
+D.Fokozott kognitív rugalmassággal rendelkeznek",d,"a második nyelv elsajátításával kapcsolatos kutatások általában azt mutatják, hogy a kétnyelvű gyerekek:
+
+d. fokozott kognitív rugalmassággal rendelkeznek.
+
+ez azt jelenti, hogy képesek gyorsabban váltani a feladatok között, jobban kezelik a kognitív konfliktusokat, és általában jobb a problémamegoldó képességük. ezek a készségek nem csak a nyelvtanulásban, hanem más területeken is előnyt jelentenek számukra.",true
+"Az alábbiak közül melyik jellemzi legjobban az eurocentrizmust?
+A.Az eurocentrizmus egy olyan elemzési stílus, amelyben az európai társadalmakat összehasonlítják a nem európai társadalmakkal, hogy elfogulatlan összehasonlítást készítsenek mindegyikük relatív érdemeiről.
+B.Az eurocentrizmus egy olyan gondolkodási stílus, amelyben az Európán kívüli társadalmak értékelése és értékelése az európaiak kulturális feltételezései és elfogultságai alapján van megfogalmazva.
+C.Az eurocentrizmus olyan tanulmányokat vagy tudományos munkákat ír le, amelyek csak az európai politikai vagy gazdasági rendszereket veszik figyelembe.
+D.Mindezek a lehetőségek.",b,"b. az eurocentrizmus egy olyan gondolkodási stílus, amelyben az európán kívüli társadalmak értékelése és értékelése az európaiak kulturális feltételezései és elfogultságai alapján van megfogalmazva.",true
+"Egy 54 éves nő azért jön az irodába, mert az elmúlt 3 hétben időszakos lövési fájdalmai voltak a jobb arcán és állkapcsán. Minden fájdalomepizód legfeljebb 1 másodpercig tart. A fájdalmat gyakran hideg levegő, rágás, tapintási stimuláció és fogmosás váltja ki. Nem volt trauma az arcán vagy a fején. A kórtörténet figyelemre méltó a tenziós fejfájás, az elhízás és a gyomor-bypass műtét szempontjából. 165 cm (5 láb 5 hüvelyk) magas és 62 kg (137 font) súlyú; A BMI 23 kg/m2. Az életjelek normálisak. A beteg nem tolerálja az arc jobb oldalán lévő érintést. Nincs arcgyengeség vagy érzésvesztés. A fizikális vizsgálat további része nem mutat rendellenességet. A fej CT-vizsgálata kontraszttal és anélkül nem mutat rendellenességet. Az alábbiak közül melyik a legmegfelelőbb gyógyszeres terápia jelenleg?
+A.karbamazepin
+B.lamotrigin
+C.levetiracetám
+D.topiramát",a,"a leírt tünetek alapján a beteg trigeminus neuralgiában szenved, ami egy olyan állapot, amelyet az arc egyik oldalán jelentkező, rövid, éles, lövöldözős fájdalmak jellemeznek. a fájdalmat gyakran kiváltja az arc érintése, a rágás, a beszéd vagy a hideg levegő. a trigeminus neuralgia kezelésének első vonalbeli gyógyszere a karbamazepin. ezért a legmegfelelőbb gyógyszeres terápia jelen esetben:
+
+a. karbamazepin",true
+"Az alábbiak közül melyik írja le legjobban a helyzetet, miután az árat megemelték egy olyan terméken, amelynek rugalmatlan kereslete van?
+A.Az igényelt mennyiség nem változik.
+B.Az igényelt mennyiség növekedni fog.
+C.A teljes bevétel csökkenni fog.
+D.A teljes bevétel nem változik.",a,"a helyes válasz: a. az igényelt mennyiség nem változik.
+
+egy olyan termék esetében, amelynek rugalmatlan kereslete van, az áremelés nem fog jelentős változást okozni az igényelt mennyiségben, mivel a fogyasztók továbbra is megvásárolják a terméket közel azonos mennyiségben, függetlenül az ár változásától. ez azt jelenti, hogy az áremelés ellenére a fogyasztók kereslete kevésbé érzékeny az árváltozásra.",true
+"Milyen betegséget nem okoznak a herpeszvírusok?
+A.Gyermekbénulás
+B.Agyvelőgyulladás
+C.Szexuális úton terjedő betegség
+D.Rák",a,"a. gyermekbénulás
+
+a gyermekbénulást (poliomyelitis) nem a herpeszvírusok, hanem a poliovírus okozza. a herpeszvírusok számos betegséget okozhatnak, beleértve bizonyos típusú agyvelőgyulladást, szexuális úton terjedő betegségeket (például herpesz genitalis), és bizonyos esetekben hozzájárulhatnak bizonyos ráktípusok kialakulásához is (például a burkitt-limfóma vagy a nasopharyngealis carcinoma esetében), de a gyermekbénulás nem tartozik ezek közé.",true
+"Mielőtt szavazásra bocsátották volna a két város egyesítésére vonatkozó javaslatot, a legfőbb ügyész tanácsadói véleményt adott ki, amelyben kijelentette, hogy véleménye szerint az intézkedés nem sért semmilyen törvényi vagy alkotmányos rendelkezést. Ezt követően a javaslatot szavazásra bocsátották, és mindkét város szavazói elsöprő többséggel elfogadták. A választások után, de még mielőtt az egyesülés hivatalosan megtörtént volna, az egyik város két adófizetője pert indított az egyesítés érdekében, támadva a javaslat alkotmányosságát. A kereset eljutott az állami legfelsőbb bírósághoz, és mind az állami, mind a szövetségi jog szerint alkotmányosnak találták. A felperesek most indítványt nyújtanak be, hogy ezt az ügyet az Egyesült Államok Legfelsőbb Bírósága vizsgálja felül. A Bíróság:
+A.nem tárgyalja az ügyet, mert független állami alapon döntöttek.
+B.nem tárgyalja az ügyet, de a szövetségi kerületi bíróság elé utalhatja.
+C.Hallgassa meg az érintett szövetségi kérdéseket, de ne döntsön az állami kérdésben.
+D.támaszkodjon az államügyész tanácsadói véleményére, és ne tárgyalja érdemben az ügyet.",a,"c. hallgassa meg az érintett szövetségi kérdéseket, de ne döntsön az állami kérdésben.
+
+az egyesült államok legfelsőbb bírósága általában csak azokat az ügyeket vizsgálja felül, amelyek szövetségi jogi kérdéseket vetnek fel. mivel az állami legfelsőbb bíróság mind az állami, mind a szövetségi jog szerint alkotmányosnak találta az egyesítést, az egyesült államok legfelsőbb bírósága megvizsgálhatja az ügyet, de csak a szövetségi jogi kérdéseket érintően. az állami jogi kérdésekben az állami bíróságok döntései maradnak érvényben, kivéve, ha azok szövetségi jogot sértene.",false
+"A rendőrség tippet kapott egy megbízható informátortól, hogy egy férfi kokaint árul az otthonából. A rendőrök ezután eskü alatt tett nyilatkozatot nyújtottak be a bírónak, amelyben felsorolták azokat a körülményeket, amelyek valószínűsítik a házkutatási parancs kiadásának okát. A bíró házkutatási parancsot adott ki kábítószer miatt a férfi címére. A rendőrök elmentek a férfi otthonához, és csengettek. Amikor senki sem válaszolt, a rendőrség betört és belépett a lakásba. Átkutatták az első emeleti szobákat, és nem találtak terhelő bizonyítékot, majd kimentek, és észrevettek egy külön bejáratot, amely a lakás második emeletére vezetett. Felmentek a lépcsőn, és beléptek egy emeleti hálószobába. A szobában a rendőrök egy szekrényen heverő kokaint találtak. Miközben a rendőrök folytatták a hálószoba átkutatását, a vádlott belépett a szobába. A rendőrség megkérdezte a vádlottat, hogy ő volt-e a férfi. A vádlott azonosította magát, és elmondta a rendőröknek, hogy a hálószobájában vannak, és a lakás második emeletét foglalta el. Az alperes kifejtette, hogy a férfi az első emeleten lakott, és a lakóhelye elkülönült a vádlottétól. Ennek ellenére a vádlottat letartóztatták, és kokain birtoklásával vádolták meg. A vádlott indítványozta, hogy zárják ki a kokaint a bizonyítékok közül. Az alperes indítványának
+A.megadták, mert a parancs nem nevezte meg az alperest.
+B.megadták, mert az elfogatóparancs nem jelölte meg pontosan a kutatandó területet.
+C.tagadta, mert a rendőrség megalapozottan feltételezte, hogy átkutatták a férfi lakását, amikor beléptek a vádlott lakóhelyére.
+D.megtagadták, mert az elfogatóparancs érvényes volt, és valószínű okkal adták ki.",c,"b. megadták, mert az elfogatóparancs nem jelölte meg pontosan a kutatandó területet.
+
+ebben az esetben, ha a házkutatási parancs nem jelölte meg pontosan a kutatandó területet, és a rendőrök egy olyan részén végeztek kutatást az ingatlannak, amely nem volt egyértelműen beazonosítva a parancsban mint kutatandó terület, akkor a vádlott jogosan indítványozhatta a bizonyítékok kizárását. a jogrendszerben fontos elv, hogy a házkutatási parancsoknak pontosnak és részletesnek kell lenniük a kutatandó helyszín tekintetében, hogy megvédjék az egyének magánélethez való jogát.",false
+"Egy szupermarket éppen most nyitott újra két hét felújítási bezárás után. Az újranyitás reggelén egy nő vásárolt, amikor hirtelen elesett és eltörte a lábát. Ezt követően a nő személyi sérülések miatt beperelte a szupermarketet. Az öltönyében a nő azt állította, hogy megbotlott egy festékesvödörben, amely az egyik folyosón feküdt. A tárgyaláson a nő felhívott egy másik vásárlót, hogy tanúskodjon arról, hogy vásárlás közben hallott egy dudálást, megfordult, és látta, hogy a nő a földre esik. Azt is tanúsította, hogy látott egy üres festékesvödröt néhány méterre a nő lábától. A keresztkérdések során a vásárló vitatkozó eszmecserébe keveredett a szupermarket ügyvédjével. Amikor megkérdezték, mi a véleménye arról, hogy mi okozta a nő esését, az ügyfél azt vallotta: ""Azért esett el, mert megbotlott a vödörben. "" A keresztkérdések során azonban elismerte, hogy valójában nem látta a nőt megbotlani a vödörben. A szupermarket ügyvédje ezután a következő kérdést tette fel a vásárlónak: ""Ha nem látta a nőt a vödörben, honnan tudja, hogy emiatt esett el?"" Az ügyfél azt válaszolta: ""Mert a barátnőm, aki velem vásárolt, később elmondta, hogy látta a nőt megbotlani a vödörben. "" A szupermarket ügyvédje megteszi a vásárló utolsó válaszát. Ha az eljáró bíró felülbírálja a vádlott indítványát, és helyt ad az ügyfél válaszának, az valószínűleg azért lesz, mert
+A.A vásárló válaszát a szupermarket ügyvédjének kérdése hívta fel.
+B.Az ügyfél válasza első kézből származó ismereteken alapult.
+C.Az ügyfél válasza a közelmúltbeli észlelés nyilatkozata volt.
+D.Az ügyfél válasza jelen érzéki benyomás volt.",a,"a helyes válasz: a. a vásárló válaszát a szupermarket ügyvédjének kérdése hívta fel.
+
+ebben a kontextusban a vásárló válasza nem tekinthető első kézből származó ismereteknek (b), mivel nem ő maga látta a történteket, hanem egy másik személytől hallotta. szintén nem tekinthető közelmúltbeli észlelés nyilatkozatának (c) vagy jelen érzéki benyomásnak (d), mivel a vásárló nem közvetlenül észlelte az eseményt, hanem egy másik személy beszámolóján keresztül értesült róla. azonban a válaszát közvetlenül a szupermarket ügyvédjének kérdése váltotta ki, ami azt jelenti, hogy a válasz a kérdésre adott közvetlen reakció volt.",true
+"Az alábbiak közül melyik minősül zárt hozzáférésű személyes dokumentumnak?
+A.Kormányzati ""fehér könyv""
+B.Bizalmas egészségügyi dokumentáció
+C.háztartási számlakönyv
+D.a vállalkozás részvénykönyve",c,"b. bizalmas egészségügyi dokumentáció
+
+a bizalmas egészségügyi dokumentáció személyes adatokat tartalmaz, amelyek védelmét szigorú adatvédelmi törvények szabályozzák. ezek a dokumentumok csak meghatározott személyek számára hozzáférhetők, akik jogosultak az információk megismerésére (pl. az érintett személy, orvosok, jogosult egészségügyi személyzet).",false
+"Az alábbiak közül melyik támasztja alá az amerikai egyoldalúság melletti érvet?
+A.Jóindulatú hegemónia
+B.A multilateralizmus hatástalansága
+C.Amerikai hatalom
+D.A fentiek mindegyike",d,"d. a fentiek mindegyike
+
+az amerikai egyoldalúság melletti érvek között szerepelhet a ""jóindulatú hegemónia"" fogalma, amely szerint az egyesült államok vezető szerepe a világban pozitív hatással van a globális rend stabilitására és biztonságára. a ""multilateralizmus hatástalansága"" érve azt sugallja, hogy a többoldalú intézmények és megállapodások gyakran nem képesek hatékonyan kezelni a globális kihívásokat, ezért az egyesült államoknak egyoldalúan kell cselekednie. az ""amerikai hatalom"" érve pedig arra utal, hogy az egyesült államok rendelkezik azzal a gazdasági, katonai és politikai erővel, amely lehetővé teszi számára, hogy egyoldalúan cselekedjen a nemzetközi színtéren. ezek az érvek együttesen alátámaszthatják az amerikai egyoldalúság melletti álláspontot.",true
+"Az alábbiak közül melyik írja le legjobban a korábbi terápiás kliensekkel való szexuális intimitásra vonatkozó etikai irányelveket?
+A.A pszichológusoknak semmilyen körülmények között tilos szexuális intimitást létesíteni a korábbi terápiás kliensekkel.
+B.A pszichológusoknak tilos szexuális intimitást létesíteni a korábbi terápiás kliensekkel a terápia befejezését követő legalább egy évig.
+C.A pszichológusoknak bizonyos körülmények között tilos szexuális intimitást létesíteniük korábbi terápiás kliensekkel (pl. ha fennáll a kizsákmányolás veszélye).
+D.A pszichológusoknak nem tilos szexuális intimitást folytatni a korábbi terápiás kliensekkel.",c,"b. a pszichológusoknak tilos szexuális intimitást létesíteni a korábbi terápiás kliensekkel a terápia befejezését követő legalább egy évig.
+
+ez az állítás tükrözi a legtöbb pszichológiai szakmai etikai kódex általános irányelvét, amely előírja, hogy a pszichológusoknak tartózkodniuk kell a szexuális intimitástól korábbi klienseikkel legalább egy évig a terápiás kapcsolat befejezése után. ez az időszak lehetőséget ad arra, hogy a kliens teljes mértékben feldolgozza a terápiás folyamatot és csökkentse a potenciális kizsákmányolás vagy károsodás kockázatát. azonban fontos megjegyezni, hogy sok szakmai szervezet és etikai kódex még ennél is szigorúbb, és gyakorlatilag minden körülmények között elítéli a korábbi kliensekkel való szexuális kapcsolatot.",false
+"A nagy gyártó cég alkalmazottja unalmasnak találja a munkát, és csak a pénzért folytatja a munkát. A munkavállaló minimálisan teljesít, és nem motivált, ezért a legmagasabb mennyiséget vagy jobb minőséget produkálja. F. Herzberg kétfaktoros elmélete szerint a legjobb módja annak, hogy 10 növelje a munkavállaló önmotivációját, az lenne, ha
+A.emelést és ösztönző fizetést kínál a nagyobb termelékenység érdekében
+B.Tervezze újra a munkát, hogy kihívást és sikerélményt nyújtson
+C.a tájékozott társadalmi interakció lehetőségeinek növelése
+D.nagyobb presztízsű munkahullámot biztosít a munkavállalónak",b,"frederick herzberg kétfaktoros elmélete szerint a munkavállalók motivációját és elégedettségét két fő tényező befolyásolja: a higiéniai tényezők és a motivációs tényezők. a higiéniai tényezők, mint például a fizetés, a munkakörülmények, és a vállalati politikák, elsősorban a munkahelyi elégedetlenség megelőzésében játszanak szerepet, de önmagukban nem növelik a munkavállalók motivációját vagy teljesítményét. a motivációs tényezők, mint például a munka jelentősége, a felelősség, a haladás és a személyes fejlődés lehetőségei, valóban növelik a munkavállalók motivációját és teljesítményét.
+
+a fent említett helyzetben, ahol a munkavállaló unalmasnak találja a munkát és csak a pénzért folytatja azt, herzberg elmélete szerint a legjobb módja a munkavállaló önmotivációjának növelésére:
+
+b. tervezze újra a munkát, hogy kihívást és sikerélményt nyújtson.
+
+ez a megközelítés a motivációs tényezők közé tartozik, mivel lehetőséget biztosít a munkavállaló számára, hogy értelmes és kihívást jelentő feladatokon dolgozzon, ami növeli a munkával való elégedettségét és ösztönzi a magasabb szintű teljesítményt. az újra tervezett munka, amely magában foglalja a felelősség, a haladás és a személyes fejlődés lehetőségeit, valószínűleg hatékonyabban növeli a munkavállaló motivációját, mint a fizetésemelés vagy a presztízs növelése.",true
 "Egy férfi volt az újonnan épített szálloda tulajdonosa egy városban. Március 15-én a férfi telefonhívást kapott egy eladótól, aki szállodai berendezések forgalmazója volt. Az eladó felajánlotta, hogy elad a férfinak 1000 tűzoltó készüléket a szállodája számára. Az eladó azt mondta a férfinak, hogy a tűzoltó készülékek költsége 35 000 dollár (vagy darabonként 35 dollár) lesz, amelyet a szállítás után 90 nappal kell fizetni. Az eladó megígérte, hogy legkésőbb április 15-ig telepíti a tűzoltó készülékeket. Március 16-án a férfi felhívta az eladót, és elfogadta az ajánlatot. Másnap a férfi a következő emlékeztetőt küldte az eladónak: ""Felhívjuk figyelmét, hogy a telepítés után hét nappal 15 százalékos kedvezményt kapok készpénzes fizetésre. "" Az eladó március 20-án kapta meg a férfi levelezését. Április 1-jén az eladó táviratot küldött a férfinak, amelyben kijelentette: ""Nyilvánvaló, hogy nincs végrehajtható szerződésünk. Nem szállítom le a tűzoltó készülékeket április 15-én vagy máskor. ""A férfi szerződésszegés miatt pert indít az értékesítő ellen. Az értékesítő az UCC szerinti csalások alapszabályának védelmét érvényesíti. Az alábbiak közül melyik a legpontosabb állítás az értékesítő védekezésével kapcsolatban?
 A.Az értékesítő védekezése megalapozott, mert a férfi feljegyzése nem volt elegendő ahhoz, hogy jelezze, hogy szerződés jött létre.
 B.Az értékesítő védekezése megalapozott, mert a férfi feljegyzése nem volt összhangban az értékesítő szóbeli ajánlatának feltételeivel.
 C.Az értékesítő védekezése nem érvényes, mert az értékesítő ésszerű időn belül nem válaszolt a férfi feljegyzésére.
-D.Az értékesítő védekezése nem érvényes, mert az UCC értelmében a csalások törvénye nem alkalmazható a kereskedők közötti megállapodásokban.",a,b,false
+D.Az értékesítő védekezése nem érvényes, mert az UCC értelmében a csalások törvénye nem alkalmazható a kereskedők közötti megállapodásokban.",a,"d. az értékesítő védekezése nem érvényes, mert az ucc (uniform commercial code - egységes kereskedelmi kódex) értelmében a csalások törvénye nem alkalmazható a kereskedők közötti megállapodásokban, ha a megállapodás létrejöttét bizonyítani lehet. az ucc 2-201(2) cikke kimondja, hogy ha mindkét fél kereskedő, akkor a szerződés írásbeli igazolásának hiánya nem használható fel az egyik fél által a szerződés létezésének tagadására, feltéve, hogy az írásos megerősítést a fogadó fél kapta, és észszerű időn belül nem emelt ellene kifogást. ebben az esetben, mivel mindkét fél kereskedő (a szállodatulajdonos és az értékesítő), és a férfi írásban megerősítette az ajánlat elfogadását, az értékesítő nem hivatkozhat sikeresen a csalások törvényére, hogy megakadályozza a szerződés érvényesítését.",true
+"A skizofrénia etiológiájával kapcsolatos vizsgálatok genetikai hajlamot mutattak az állapotra, de más tényezők is szerepet játszanak. A téma ismerete alapján határozza meg, hogy az alábbi állítások közül melyik helytelen.
+A.A túlzott dopamin vagy a dopaminérzékenység hozzájáruló tényező lehet.
+B.A fehér betegek tünetesebbek.
+C.A harmadik világ állapotából való remisszió 65%.
+D.Az afroamerikaiak körében diagnosztizált skizofrénia alacsonyabb aránya.",d,"az alábbi állítások közül a helytelen:
+
+b. a fehér betegek tünetesebbek.
+
+ez az állítás nem állja meg a helyét a skizofrénia kutatásában. a skizofrénia előfordulása és a tünetek súlyossága nem függ össze egyértelműen a beteg etnikai hovatartozásával. a skizofrénia megjelenése és lefolyása számos tényezőtől függ, beleértve genetikai hajlamot, környezeti tényezőket és szociális körülményeket, de nincs megbízható bizonyíték arra, hogy a fehér betegek általánosságban tünetesebbek lennének, mint más etnikai csoportok tagjai. 
+
+a többi állítás:
+
+a. a túlzott dopamin vagy a dopaminérzékenység hozzájáruló tényező lehet. - ez helyes, a skizofrénia kutatásban a dopamin hipotézis fontos szerepet játszik, mely szerint a dopamin túlműködése összefüggésben állhat a skizofrénia egyes tüneteivel.
+
+c. a harmadik világ állapotából való remisszió 65%. - ez az állítás arra utal, hogy a fejlődő országokban a skizofrénia remissziója magasabb arányban fordul elő, ami összhangban van bizonyos epidemiológiai vizsgálatok eredményeivel.
+
+d. az afroamerikaiak körében diagnosztizált skizofrénia alacsonyabb aránya. - ez az állítás helytelenül lett megfogalmazva a kérdés kontextusában, mivel általában nem az afroamerikaiak körében diagnosztizált skizofrénia aránya alacsonyabb, hanem a diagnózis és a kezelés hozzáférhetősége, valamint a diagnosztikai gyakorlatok különbözősége miatt eltérések lehetnek az etnikai csoportok között. azonban a kérdés arra kér, hogy melyik állítás helytelen a megadottak közül, és a kontextus alapján a b. pont a helytelen állítás.",true
+"A globalizáció kontextusában hogyan határozhatjuk meg legjobban a ""fejlődés"" fogalmát?
+A.A fejlődés kifejezés arra az emberi állapotra utal, amelyben mentes a félelemtől és a nélkülözéstől; Elegendő erőforrás áll rendelkezésre az élet fenntartásához, és ez az élet létezhet olyan állapotban, amely mentes a hirtelen megszakítás fenyegetésétől vagy vélt fenyegetésétől.
+B.Ahhoz, hogy fejlettnek lehessen tekinteni, egy nemzetnek el kell érnie bizonyos gazdasági és politikai státuszt a globális államrendszerben; A ""fejlett"" állapot kritériumát tehát az e rendszerben való kölcsönhatás követelményei határozzák meg.
+C.A fejlődés a neoliberális globalizációt kísérő egyenlőtlenségek kezelésének eszköze. Ebben az összefüggésben a fejlődés a lakosság vagy közösség azon képességét jelenti, hogy hatékonyan használja fel az erőforrásokat, és növelje a termelés és elosztás hatékonyságát, elősegítve a jövedelem igazságosabb elosztását a társadalomban.
+D.A közösség fejlődése azokra az ideológiai és etikai értékrendszerekre utal, amelyekhez a lakosság csatlakozik. A globalizált nemzetközi rendszerben ez a nyugati liberális demokratikus ideológia és a szabad piacgazdaság átvételére utal.",c,"a ""fejlődés"" fogalmának meghatározása a globalizáció kontextusában többdimenziós és összetett. mind a négy választási lehetőség tartalmaz olyan elemeket, amelyek relevánsak lehetnek a fejlődés különböző aspektusainak megértéséhez. azonban egyik sem ad teljes körű vagy kizárólagos definíciót minden kontextusra vagy nézőpontra. a legmegfelelőbb meghatározás kiválasztása attól függ, hogy melyik dimenziót tekintjük a legfontosabbnak a fejlődés szempontjából.
+
+a választási lehetőségek közül:
+
+a) ez a definíció az emberi biztonság és jólét széles értelmezésére összpontosít, amely fontos aspektusa a fejlődésnek, de nem veszi figyelembe közvetlenül a gazdasági növekedést vagy a politikai rendszereket.
+
+b) ez a megközelítés a gazdasági és politikai státuszra helyezi a hangsúlyt a globális rendszerben, ami fontos aspektusa a fejlődésnek, különösen a nemzetközi kapcsolatok és a gazdasági integráció szempontjából.
+
+c) ez a definíció a társadalmi-gazdasági egyenlőtlenségek kezelésére és az erőforrások hatékony felhasználására összpontosít, ami kulcsfontosságú a fenntartható fejlődés és a társadalmi igazságosság szempontjából.
+
+d) ez a megközelítés az ideológiai és etikai értékrendszerekre, különösen a nyugati értékek globális terjesztésére összpontosít, ami egy lehetséges aspektusa a fejlődésnek, de vitatható és nem feltétlenül fogadható el univerzális definícióként.
+
+a leginkább kiegyensúlyozott és átfogó megközelítés talán a c) választási lehetőség, amely figyelembe veszi az erőforrások hatékony felhasználását, a termelékenység növelését és a jövedelem igazságosabb elosztását. ez a megközelítés ötvözi a gazdasági, társadalmi és fenntarthatósági szempontokat, amelyek kulcsfontosságúak a globalizáció korában történő fejlődés szempontjából. azonban fontos megjegyezni, hogy a ""fejlődés"" fogalmának értelmezése változhat attól függően, hogy milyen kontextusban és milyen célok érdekében használjuk.",true

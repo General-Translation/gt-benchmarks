@@ -1,117 +1,72 @@
 Question,CorrectAnswer,GivenAnswer,Correct
-"¿Cuál de estas películas de terror generó más secuelas?
-A.Grito'
-B.Tiburón'
-C.Halloween'
-D.Viernes 13'",d,d,true
-"¿Cuál de los siguientes indica la autocorrelación residual negativa?
-A.Un patrón cíclico en los residuos
-B.Un patrón alterno en los residuos
-C.Una aleatoriedad completa en los residuos
-D.Residuales que son todos cercanos a cero",b,b,true
-"Esta pregunta se refiere a la siguiente información.
-""Las semillas de los regímenes totalitarios se nutren de la miseria y la necesidad. Se esparcen y crecen en el suelo maligno de la pobreza y la contienda. Alcanzan su pleno crecimiento cuando la esperanza de un pueblo de una vida mejor ha muerto. Debemos mantener viva esa esperanza. . . . El rápido movimiento de los acontecimientos nos ha impuesto grandes responsabilidades. . . . Confío en que el Congreso enfrentará estas responsabilidades de frente"".
-Presidente Harry S. Truman, 1947
-¿Cuál de las siguientes continuidades en la historia de Estados Unidos reflejan más directamente las ideas expresadas en el pasaje anterior?
-A.Debates sobre la relación entre el Congreso y el presidente.
-B.Debates sobre el uso de la fuerza militar en situaciones volátiles.
-C.Debates sobre el papel de Estados Unidos en los asuntos mundiales.
-D.Debates sobre el papel adecuado de los partidos políticos.",c,c,true
-"Los adultos de mediana edad parecen ser más ____ que los adultos mayores o más jóvenes
-A.Generativo
-B.Neurótico
-C.Agradable
-D.Cierto",a,a,true
-"¿Cuál es el idioma nativo del actor Antonio Banderas?
-A.Español
-B.Ruso
-C.Alemán
-D.Francés",a,a,true
-"¿En qué estado se encuentra la película Magnolia de 1999?
-A.California
-B.Carolina del Sur
-C.Georgia
-D.Texas",a,a,true
-"El voltaje inducido en un inductor se representa como,
-A.producto de su inductancia y corriente a través de él.
-B.relación entre su inductancia y la corriente a través de él.
-C.relación entre la corriente que lo atraviesa y su inductancia.
-D.producto de su inductancia y velocidad de cambio de corriente a través de él.",d,d,true
 "¿Cuál es el idioma oficial de los Países Bajos?
 A.Danés
 B.Sueco
 C.Alemán
-D.Holandés",d,d,true
-"En comparación con los partidos políticos de países como Inglaterra e Israel, que tienen sistemas multipartidistas, los partidos políticos estadounidenses son
-A.menos interesados en influir en el resultado de las elecciones
-B.menos claramente identificados con ideologías políticas consistentes
-C.menos eficaz a la hora de recaudar dinero de los partidarios políticos
-D.mejor capaces de reflejar los objetivos de toda su circunscripción",b,b,true
-"¿Cuál de estos platos está hecho con intestinos de cerdo?
-A.haggis
-B.Chitlins
-C.sémola
-D.Chop Suey",b,b,true
-"Las mutaciones que causan acondroplasia ejercen un efecto que se puede clasificar como:
-A.dominante negativo.
-B.ganancia de función.
-C.haploinsuficiencia.
-D.pérdida de función.",b,d,false
-" Esta herramienta de marketing y comunicación ofrece un incentivo directo o un incentivo para animar a los clientes a comprar un producto/servicio:
-A.Publicidad.
-B.Relaciones públicas.
-C.Promoción de ventas.
-D.Venta directa.",c,c,true
-"Identifique el antecedente de la siguiente proposición condicional: Las abejas ganan su primer juego solo si los cerdos hormigueros o las ardillas no ganan sus primeros juegos.
-A.Los cerdos hormigueros no ganan su primer partido.
-B.Las Abejas ganan su primer partido.
-C.Las ardillas no ganan su primer partido.
-D.Ni los cerdos hormigueros ni las ardillas listadas ganan sus primeros partidos.",b,b,true
-"Un paciente sufre una fractura de cuello con daño en la médula espinal a nivel de la sexta vértebra cervical.
-A.No podrán respirar sin soporte vital.
-B.Solo podrán respirar tranquilamente.
-C.Es imposible predecir un efecto sobre la respiración.
-D.La respiración no se verá afectada.",b,b,true
-"La falacia de la personalidad laudatoria es un tipo específico de
-A.La falacia del accidente
-B.Falso dilema
-C.Planteando la pregunta
-D.Razonamiento circular",a,d,false
+D.Holandés",d,"la respuesta correcta es d. holandés.
+
+el idioma oficial de los países bajos es el neerlandés, también conocido como holandés.",true
+e de san fernando, en el estado de california, estados unidos.",true
+"El voltaje inducido en un inductor se representa como,
+A.producto de su inductancia y corriente a través de él.
+B.relación entre su inductancia y la corriente a través de él.
+C.relación entre la corriente que lo atraviesa y su inductancia.
+D.producto de su inductancia y velocidad de cambio de corriente a través de él.",d,"la respuesta correcta es d. producto de su inductancia y velocidad de cambio de corriente a través de él.
+
+el voltaje inducido en un inductor se puede calcular utilizando la fórmula de faraday:
+
+v = -l(di/dt)
+
+donde v es el voltaje inducido, l es la inductancia del inductor y di/dt es la tasa de cambio de la corriente que lo atraviesa.
+
+por lo tanto, la opción d es la correcta.",true
+"Encuentra $-\dfrac{1}{-3}\cdot\cfrac{1}{~\frac{1}{-3}~}.$
+A.1
+B.-1
+C.0
+D.2",b,"una expresión interesante!
+
+vamos a descomponerla paso a paso:
+
+$$-\dfrac{1}{-3}\cdot\cfrac{1}{~\frac{1}{-3}~} = -\dfrac{1}{-3}\cdot\dfrac{-3}{1} = 1$$
+
+por lo tanto, la respuesta correcta es:
+
+a. 1",true
 "Un tanque tiene la forma de un prisma triangular. Si la base triangular tiene un área de 116 pies cuadrados y el tanque tiene 30 pies de altura, ¿cuánta agua contendría el tanque cuando esté lleno?
 A.1725 pies^3
 B.1740 pies^3
 C.3480 pies^3
-D.6960 pies^3",c,b,false
-"La validación cruzada de K-fold es
-A.lineal en K
-B.cuadrática en K
-C.cúbico en K
-D.exponencial en K",a,b,false
-"¿Cuál de las siguientes opciones hace que la determinación de la relación evolutiva de diferentes especies basada en la secuencia de aminoácidos de proteínas homólogas sea generalmente menos precisa que las determinaciones de parentesco basadas en las secuencias de nucleótidos de genes homólogos?
-A.Mutaciones silenciosas
-B.Duplicaciones de genes
-C.Eventos de translocación que cambian las secuencias de genes
-D.Cruce",a,a,true
-"Los estudiantes están realizando un ejercicio de separación de pigmentos vegetales que requiere que usen una cámara de cromatografía cerrada con una pequeña cantidad de acetona en el fondo de la cámara. Las advertencias de seguridad de la acetona incluyen la declaración de que es un irritante para los ojos y la piel y tiene vapores inflamables. De las siguientes, ¿qué precauciones de seguridad deben tomar los estudiantes al realizar el ejercicio?
-A.Ponerse guantes ignífugos para llevar la cámara a una campana extractora si la acetona se incendia
-B.Colocación de la cámara en un gabinete cerrado y oscuro durante la separación de pigmentos
-C.Usar guantes de cuero y cubrirse la nariz y la boca con una máscara de partículas
-D.Usar gafas protectoras y guantes tipo nitrilo y mantener cerrados todos los envases de acetona",d,d,true
-"Un número, redondeado al millar más cercano, es 47.000. ¿Qué número podría ser el número que se redondeó?
-A.46,295
-B.46,504
-C.47,520
-D.47,924",b,b,true
-"¿Cuáles de las siguientes características son generalmente consistentes con la violación en una cita?
-A.Uso excesivo de la fuerza
-B.premeditado
-C.Motivaciones sexuales
-D.implique el uso de un arma",c,a,false
-"¿Cuál de los siguientes factores se consideraría un factor de ""atracción"" para Riva al considerar una mudanza de la India a los Estados Unidos?
-A.Pobreza abyecta
-B.Mejor trabajo y salarios más altos
-C.El sistema de castas de la India
-D.Violencia en su barrio",b,b,true
+D.6960 pies^3",c,"un problema de geometría!
+
+para encontrar el volumen del tanque, necesitamos multiplicar el área de la base triangular por la altura del prisma.
+
+el área de la base triangular es de 116 pies cuadrados.
+la altura del prisma es de 30 pies.
+
+volumen = área de la base × altura
+= 116 pies² × 30 pies
+= 3480 pies³
+
+por lo tanto, la respuesta correcta es:
+
+c. 3480 pies³",true
+"¿Cuál de estas películas de terror generó más secuelas?
+A.Grito'
+B.Tiburón'
+C.Halloween'
+D.Viernes 13'",d,"la respuesta correcta es d. viernes 13.
+
+la franquicia de viernes 13 ha generado un total de 12 películas, incluyendo la original y sus secuelas, remakes y spin-offs.
+
+aquí te dejo la cantidad de secuelas para cada una de las opciones:
+
+a. grito - 5 secuelas
+b. tiburón - 3 secuelas
+c. halloween - 11 secuelas (incluyendo el remake y su secuela)
+d. viernes 13 - 12 secuelas
+
+espero que esto te ayude!",true
 "Esta pregunta se refiere a la siguiente información.
 En primer lugar, debemos observar que el cosmos es esférico en su forma, en parte porque esta forma, siendo un todo perfecto que no requiere juntas, es la más completa de todas, en parte porque constituye la forma más espaciosa, la que es la más adecuada para contener y conservar todo; o también porque todas las partes constituyentes del universo, es decir, el sol, la luna y los planetas, aparecen en esta forma; o porque todo tiende a alcanzar esta forma, como aparece en el caso de las gotas de agua y otros cuerpos fluidos si intentan definirse a sí mismos. Así que nadie dudará de que esta forma pertenece a los cuerpos celestes. ...
 Que la Tierra es también esférica es, por lo tanto, incuestionable, porque presiona desde todos lados sobre su centro. Aunque a causa de las elevaciones de las montañas y las depresiones de los valles no se puede entender un círculo perfecto, esto no afecta a la naturaleza esférica general de la tierra. ...
@@ -121,97 +76,23 @@ El pasaje puede ser usado como evidencia de que Copérnico difería de los filó
 A.El cosmos es esférico
 B.la Tierra es esférica
 C.El cosmos es geostático
-D.la Tierra no es estacionaria",d,d,true
-"¿Es el homicidio ilegítimo cometido por el Ministro del país X en el extranjero un acto jure imperii o jure gestionis?
-A.Tal conducta es un acto público (jure imperii)
-B.Dicha conducta nunca atrae inmunidad
-C.Tal conducta es un acto privado (jure gestionis)
-D.Dicha conducta es un acto público, pero está amparada por la inmunidad",c,c,true
-"Determinar la concentración de H+(aq) en solución de fenol 1,0 M, C6H5OH. (El Ka para el fenol es 1 × 10^-10).
-A.1 × 10^-10 M
-B.1 × 10^-9 M
-C.1 × 10^-3 M
-D.1 × 10^-5 M",d,b,false
-"En el plano xy, la gráfica de x^(log y) = y^log x es
-A.El primer cuadrante abierto
-B.una curva cerrada
-C.Un rayo en el primer cuadrante abierto
-D.Un solo punto",a,a,true
-"En un circuito en serie, si la corriente en una lámpara es de 2 A, la corriente en la lámpara contigua es
-A.mitad, 1 A
-B.2:00 a.m.
-C.Depende de qué lámpara esté más cerca de la batería
-D.No hay suficiente información para decir",b,d,false
-"¿Qué perspectiva psicológica era la más popular a principios del siglo XX en Europa occidental?
-A.neurociencia
-B.evolutivo
-C.Conductista
-D.psicoanalítico",d,d,true
+D.la Tierra no es estacionaria",d,"la respuesta correcta es d. la tierra no es estacionaria.
+
+en el pasaje, copérnico cuestiona la idea tradicional de que la tierra está inmóvil en el centro del universo y sugiere que, en realidad, la tierra gira de oeste a este. esto se opone a la visión geostática de los filósofos naturales y aristotélicos de su época, que creían que la tierra era estacionaria y que los cielos giraban alrededor de ella.",true
 "¿Cuál de los siguientes países emitió más CO2 per cápita en 2017?
 A.Japón
 B.Canadá
 C.Rusia
-D.Irán",b,c,false
-"Las empresas se involucran en la contabilidad social debido a las demandas de _________, con el fin de identificar ________, mejorar ___________ y fomentar la _________ y la ___________
-A.Grupos de interés, Riesgos, Gestión de grupos de interés, Rendición de cuentas, Transparencia
-B.Grupos de interés, Rendición de cuentas, Transparencia, Riesgos, Gestión de grupos de interés
-C.Grupos de interés, Rendición de cuentas, Riesgos, Grupos de interés, Gestión de grupos de interés
-D.Grupos de interés, Gestión de grupos de interés, Transparencia, Riesgos, Rendición de cuentas",a,a,true
-"Un programador escribió el programa a continuación. El programa utiliza una lista de números llamada numList. El programa está diseñado para mostrar la suma de los números de la lista.
- suma ← numList [1]
- FOR EACH valor IN numList
- suma ← suma + valor
- MOSTRAR suma
- Para probar el programa, el programador inicializa numList en [0 , 1 , 4 , 5]. El programa muestra 10 y el programador concluye que el programa funciona según lo previsto. ¿Cuál de las siguientes afirmaciones es verdadera?
-A.La conclusión es correcta; El programa funciona según lo previsto.
-B.La conclusión es incorrecta; El programa no muestra el valor correcto para el caso de prueba [0, 1, 4, 5].
-C.La conclusión es incorrecta; El uso del caso de prueba [0, 1, 4, 5] no es suficiente para concluir que el programa es correcto.
-D.La conclusión es incorrecta; El uso del caso de prueba [0, 1, 4, 5] solo confirma que el programa funciona para listas en orden creciente.",c,c,true
-"Enunciado 1 | En un grupo (ab)^{-2} = b^{-2}a^{-2}. Enunciado 2 | En un grupo (ab)^n = a^nb^n.
-A.Cierto, cierto
-B.Falso, Falso
-C.Verdadero, Falso
-D.Falso, Verdadero",b,c,true
-"Es más probable que un impuesto impuesto a un proveedor se traslade al consumidor en forma de aumento de precios si:
-A.La elasticidad precio de la demanda es muy elástica.
-B.La elasticidad precio de la demanda es altamente inelástica.
-C.La elasticidad precio de la demanda es elástica unitaria.
-D.La elasticidad salarial de la demanda es muy elástica.",b,b,true
-"El hecho de que la frecuencia de absorción infrarroja del cloruro de deuterio (DCl) se desplace de la del cloruro de hidrógeno (HCl) se deba a las diferencias en su
-A.Distribución de electrones
-B.Momento dipolar
-C.Constante de fuerza
-D.Masa reducida",d,d,true
-"¿Cuál es el término para la medida en que la competencia en un país se ve influida por la competencia en otros países?
-A.Comercio internacional
-B.Economía global
-C.Competencia global
-D.Globalización",d,c,false
-"La energía liberada por la descomposición de los fosfatos de alta energía, ATP y fosfocreatina, puede mantener el ejercicio de esfuerzo máximo durante aproximadamente a:
-A.1-2 segundos.
-B.5-10 segundos.
-C.30-40 segundos.
-D.50-60 segundos.",b,a,false
-"¿Por qué Parfit se opone a la igualdad?
-A.Argumenta que una sociedad desigual es inevitable.
-B.Afirma que dando prioridad a las necesidades de los pobres, podemos aumentar la igualdad.
-C.Afirma que cada uno de nosotros es responsable de nuestra pobreza.
-D.Rechaza por completo la idea de igualdad.",b,b,true
-"La eficiencia cuántica de un detector de fotones es de 0,1. Si se envían 100 fotones al detector, uno tras otro, el detector detectará fotones
-A.un promedio de 10 veces, con una desviación rms de aproximadamente 4
-B.un promedio de 10 veces, con una desviación rms de aproximadamente 3
-C.un promedio de 10 veces, con una desviación rms de aproximadamente 1
-D.una media de 10 veces, con una desviación rms de aproximadamente 0,1",b,a,false
-"¿Cuál de los siguientes factores tiene más probabilidades de producir un crecimiento económico más fuerte a lo largo del tiempo?
-A.Consumo más rápido de recursos naturales.
-B.Tasas más altas de analfabetismo de adultos.
-C.Un stock decreciente de bienes de capital.
-D.Créditos fiscales a la inversión.",d,d,true
-"Encuentra $-\dfrac{1}{-3}\cdot\cfrac{1}{~\frac{1}{-3}~}.$
-A.1
-B.-1
-C.0
-D.2",b,a,false
+D.Irán",b,"según los datos de la agencia internacional de energía (aie), en 2017, canadá emitió más co2 per cápita que los otros países mencionados.
+
+aquí están las emisiones de co2 per cápita para cada país en 2017:
+
+* canadá: 18,9 toneladas por persona
+* rusia: 11,4 toneladas por persona
+* irán: 7,3 toneladas por persona
+* japón: 4,5 toneladas por persona
+
+por lo tanto, la respuesta correcta es b. canadá.",true
 "Esta pregunta se refiere a la siguiente información.
 Camino a lo largo de la columna, pregunto qué está pasando.
 Un soldado dice simplemente: ""Cada día llaman más.
@@ -242,37 +123,79 @@ El poema proporciona evidencia de cuál de los siguientes con respecto a las rel
 A.Las relaciones confucianas entre marido y mujer seguían siendo fuertes en la sociedad Tang.
 B.Los rescriptos imperiales enfatizaban el nacimiento de hijos varones capaces sobre hijas para cumplir con las cuotas de reclutamiento.
 C.El trabajo agrícola puede ser compartido tanto por mujeres como por hombres.
-D.Las relaciones de género tradicionales chinas se invirtieron durante el reinado de la emperatriz Wu Zetian.",c,c,true
-"¿Qué es un ataque de repetición?
-A.Cuando el atacante responde a un mensaje que le envía el sistema
-B.Un ataque que se repite continuamente, buscando una debilidad
-C.Un ataque que utiliza los propios mensajes del sistema y, por lo tanto, no se puede defender.
-D.El atacante reenvía un mensaje capturado y el sitio lo acepta y responde a favor del atacante",d,d,true
-"Halla la longitud de la curva y = ln x entre los puntos donde y = 1/2 e y = 1.
-A.0.53
-B.0.86
-C.1.18
-D.1.36",c,c,true
-"La investigación de García y Koelling con respecto a las aversiones aprendidas estableció que ¿cuál de los siguientes pares UCS y CS son los más poderosos y se aprenden más rápidamente?
-A.Realizar una tarea y recibir una recompensa de comida
-B.náuseas y comida o bebida
-C.Movimiento y choque
-D.Castigos y recompensas",b,b,true
+D.Las relaciones de género tradicionales chinas se invirtieron durante el reinado de la emperatriz Wu Zetian.",c,"la respuesta correcta es c. el trabajo agrícola puede ser compartido tanto por mujeres como por hombres.
+
+en el poema, se menciona que ""incluso si las esposas son lo suficientemente fuertes como para manejar una azada y un arado"" (línea 13), lo que sugiere que las mujeres también participaban en el trabajo agrícola y eran capaces de realizar tareas físicamente demandantes. esto indica que, en la sociedad tang, el trabajo agrícola no era exclusivamente masculino y que las mujeres también podían contribuir a la producción agrícola.",true
+"La falacia de la personalidad laudatoria es un tipo específico de
+A.La falacia del accidente
+B.Falso dilema
+C.Planteando la pregunta
+D.Razonamiento circular",a,"la respuesta correcta es d. razonamiento circular.
+
+la falacia de la personalidad laudatoria, también conocida como ""argumentum ad verecundiam"", es un tipo de falacia lógica que consiste en apoyar una afirmación o argumento simplemente porque proviene de una persona respetada, famosa o con autoridad en un campo determinado, sin considerar la validez o solidez del argumento en sí mismo. esto se considera un razonamiento circular, ya que se está utilizando la autoridad de la persona para respaldar el argumento, en lugar de evaluar la lógica y la evidencia que lo sustentan.",true
+"Esta pregunta se refiere a la siguiente información.
+""Las semillas de los regímenes totalitarios se nutren de la miseria y la necesidad. Se esparcen y crecen en el suelo maligno de la pobreza y la contienda. Alcanzan su pleno crecimiento cuando la esperanza de un pueblo de una vida mejor ha muerto. Debemos mantener viva esa esperanza. . . . El rápido movimiento de los acontecimientos nos ha impuesto grandes responsabilidades. . . . Confío en que el Congreso enfrentará estas responsabilidades de frente"".
+Presidente Harry S. Truman, 1947
+¿Cuál de las siguientes continuidades en la historia de Estados Unidos reflejan más directamente las ideas expresadas en el pasaje anterior?
+A.Debates sobre la relación entre el Congreso y el presidente.
+B.Debates sobre el uso de la fuerza militar en situaciones volátiles.
+C.Debates sobre el papel de Estados Unidos en los asuntos mundiales.
+D.Debates sobre el papel adecuado de los partidos políticos.",c,"la respuesta correcta es c. debates sobre el papel de estados unidos en los asuntos mundiales.
+
+el pasaje del presidente harry s. truman se refiere a la importancia de mantener viva la esperanza de un pueblo para evitar el crecimiento de regímenes totalitarios, lo que sugiere que estados unidos tiene un papel importante que jugar en los asuntos mundiales para promover la democracia y la libertad. el presidente también menciona que ""el rápido movimiento de los acontecimientos nos ha impuesto grandes responsabilidades"", lo que indica que estados unidos debe tomar medidas para abordar los desafíos globales.
+
+por lo tanto, la opción c es la que más directamente refleja las ideas expresadas en el pasaje, ya que se centra en el papel de estados unidos en los asuntos mundiales y su responsabilidad para promover la democracia y la libertad.",true
 "Parte del agua de Marte está congelada en el suelo y en los casquetes polares, y otra parte se perdió debido a la extracción del viento solar, pero se cree que gran parte del agua original se perdió a través de otro mecanismo. ¿Qué pasó con esta agua ""perdida""?
 A.Fue eliminado por el campo magnético cuando disminuyó rápidamente su fuerza
 B.Se rompió en hidrógeno y oxígeno por la luz ultravioleta y el hidrógeno se perdió por escape térmico
 C.fue consumido por una civilización de marcianos sedientos
-D.Se vaporizó durante un período de intenso vulcanismo y se perdió en el espacio a través de un escape térmico",b,b,true
-"Viajando a una velocidad inicial de 1,5 × 10^6 m/s, un protón entra en una región de campo magnético constante de magnitud 1,5 T. Si el vector de velocidad inicial del protón forma un ángulo de 30° con el campo magnético, calcule la velocidad del protón 4 s después de entrar en el campo magnético.
-A.5.0 × 10^6 m/s
-B.7,5 × 10^6 m/s
-C.1,5 × 10^6 m/s
-D.3.0 × 10^6 m/s",c,c,true
-"¿Cuál de los siguientes conjuntos de cadenas de bits NO PUEDE describirse con una expresión regular?
-A.Todas las cadenas de bits cuyo número de ceros es múltiplo de cinco
-B.Todas las cadenas de bits que comienzan con un cero y terminan con un uno
-C.Todas las cadenas de bits con un número par de ceros
-D.Todas las cadenas de bits con más unos que ceros",d,d,true
+D.Se vaporizó durante un período de intenso vulcanismo y se perdió en el espacio a través de un escape térmico",b,"la respuesta correcta es b. se rompió en hidrógeno y oxígeno por la luz ultravioleta y el hidrógeno se perdió por escape térmico.
+
+la teoría más aceptada es que el agua en marte se perdió debido a la fotólisis, un proceso en el que la luz ultravioleta del sol rompe las moléculas de agua (h2o) en hidrógeno y oxígeno. el hidrógeno, siendo un gas ligero, puede escapar de la atmósfera de marte y perderse en el espacio a través de un proceso llamado escape térmico. esto habría ocurrido en una época en la que la atmósfera de marte era más delgada y no había campo magnético fuerte para protegerla de la radiación solar.",true
+"¿Cuál de estos platos está hecho con intestinos de cerdo?
+A.haggis
+B.Chitlins
+C.sémola
+D.Chop Suey",b,"la respuesta correcta es b. chitlins.
+
+chitlins son un plato tradicional en algunos países, especialmente en el sur de los estados unidos, que se hace con intestinos de cerdo limpios y cocidos. a menudo se sirven estofados o fritos.
+
+haggis (a) es un plato escocés hecho con carne de cordero, avena y especias, pero no contiene intestinos de cerdo.
+
+sémola (c) es un tipo de harina de trigo duro utilizada para hacer pasta, pan y otros productos horneados, no tiene relación con intestinos de cerdo.
+
+chop suey (d) es un plato chino-estadounidense que se hace con una variedad de ingredientes, como verduras, carne o mariscos, pero no contiene intestinos de cerdo.",true
+"Un paciente sufre una fractura de cuello con daño en la médula espinal a nivel de la sexta vértebra cervical.
+A.No podrán respirar sin soporte vital.
+B.Solo podrán respirar tranquilamente.
+C.Es imposible predecir un efecto sobre la respiración.
+D.La respiración no se verá afectada.",b,"la respuesta correcta es b. solo podrán respirar tranquilamente.
+
+la médula espinal a nivel de la sexta vértebra cervical (c6) no afecta directamente el control de la respiración, que se encuentra en la médula espinal a nivel de las vértebras cervicales c3-c5. por lo tanto, un paciente con una fractura de cuello con daño en la médula espinal a nivel de c6 puede respirar sin necesidad de soporte vital.
+
+es importante tener en cuenta que la gravedad del daño en la médula espinal y otros factores pueden influir en la función respiratoria, pero en general, un paciente con una lesión a nivel de c6 puede respirar sin ayuda.",true
+"En comparación con los partidos políticos de países como Inglaterra e Israel, que tienen sistemas multipartidistas, los partidos políticos estadounidenses son
+A.menos interesados en influir en el resultado de las elecciones
+B.menos claramente identificados con ideologías políticas consistentes
+C.menos eficaz a la hora de recaudar dinero de los partidarios políticos
+D.mejor capaces de reflejar los objetivos de toda su circunscripción",b,"la respuesta correcta es b. menos claramente identificados con ideologías políticas consistentes.
+
+en comparación con los partidos políticos de países como inglaterra e israel, que tienen sistemas multipartidistas, los partidos políticos estadounidenses suelen ser menos claros en cuanto a sus ideologías políticas consistentes. esto se debe a que el sistema político estadounidense tiene un sistema bipartidista, donde solo dos partidos (demócratas y republicanos) dominan la escena política. como resultado, estos partidos suelen tener plataformas más amplias y flexibles para atraer a una base electoral más amplia, lo que puede hacer que sus ideologías sean menos claras y consistentes.
+
+en cambio, en sistemas multipartidistas, los partidos políticos suelen tener ideologías más definidas y consistentes, ya que necesitan diferenciarse de otros partidos para atraer a una base electoral específica.",true
+"¿Cuál es el término para la medida en que la competencia en un país se ve influida por la competencia en otros países?
+A.Comercio internacional
+B.Economía global
+C.Competencia global
+D.Globalización",d,"la respuesta correcta es c. competencia global.
+
+la competencia global se refiere a la medida en que la competencia en un país se ve influida por la competencia en otros países. esto ocurre cuando las empresas de diferentes países compiten entre sí para vender productos o servicios en el mercado global.
+
+el comercio internacional (a) se refiere al intercambio de bienes y servicios entre países, pero no necesariamente implica competencia entre empresas de diferentes países.
+
+la economía global (b) se refiere al estudio de la economía en su conjunto, considerando la interconexión y la interdependencia entre las economías de diferentes países.
+
+la globalización (d) se refiere al proceso de integración económica, política y cultural a nivel mundial, que implica la creciente interconexión y dependencia entre los países. aunque está relacionada con la competencia global, no es exactamente lo mismo.",false
 "Esta pregunta se refiere a la siguiente información.
 ""De hecho, como tanto las fatwas de distinguidos [eruditos] que basan su opinión en la razón y la tradición por igual como el consenso de la comunidad sunita están de acuerdo en que la antigua obligación de extirpación, exterminio y expulsión de la innovación maligna debe ser el objetivo de nuestra exaltada aspiración, porque ""el celo religioso es una victoria para la fe de Dios el Benéfico""; entonces, de acuerdo con las palabras del Profeta (¡Paz con él!) ""Cualquiera que introduzca una innovación maligna en nuestra orden debe ser expulsado"" y ""Cualquiera que haga algo en contra de nuestra orden debe ser expulsado"", la acción se ha vuelto necesaria y exigente...""
 Carta del sultán otomano Selim I al sahá safávida Ismail I, 1514
@@ -280,266 +203,1091 @@ Los safávidas provocaron la ira de imperios islámicos como el otomano y el mog
 A.eran un imperio expansionista situado geográficamente entre otros dos expansionistas
 B.rechazó los principios centrales del Islam
 C.esclavizó a los cristianos y los convirtió en combatientes safávidas
-D.Ismail se proclamó califa",a,a,true
+D.Ismail se proclamó califa",a,"la respuesta correcta es a. eran un imperio expansionista situado geográficamente entre otros dos expansionistas.
+
+la carta del sultán otomano selim i al sahá safávida ismail i en 1514 muestra la hostilidad entre los otomanos y los safávidas, lo que sugiere que la razón principal de la ira de los imperios islámicos como el otomano y el mogol hacia los safávidas era su expansión territorial y su ubicación geográfica entre otros dos imperios expansionistas.",true
+"Los adultos de mediana edad parecen ser más ____ que los adultos mayores o más jóvenes
+A.Generativo
+B.Neurótico
+C.Agradable
+D.Cierto",a,"la respuesta correcta es a. generativo.
+
+la teoría del desarrollo psicosocial de erik erikson sugiere que los adultos de mediana edad (alrededor de 40-65 años) se encuentran en la etapa de ""generatividad vs. estancamiento"". en esta etapa, las personas suelen sentir una necesidad de dejar un legado positivo y contribuir a la sociedad, lo que las hace más generativas y dispuestas a ayudar a otros.
+
+por lo tanto, la opción a. generativo es la respuesta correcta.",true
+"Identifique el antecedente de la siguiente proposición condicional: Las abejas ganan su primer juego solo si los cerdos hormigueros o las ardillas no ganan sus primeros juegos.
+A.Los cerdos hormigueros no ganan su primer partido.
+B.Las Abejas ganan su primer partido.
+C.Las ardillas no ganan su primer partido.
+D.Ni los cerdos hormigueros ni las ardillas listadas ganan sus primeros partidos.",b,"la respuesta correcta es b. las abejas ganan su primer juego.
+
+la proposición condicional dice: ""las abejas ganan su primer juego solo si los cerdos hormigueros o las ardillas no ganan sus primeros juegos"". esto significa que la condición necesaria para que las abejas ganen su primer juego es que los cerdos hormigueros o las ardillas no ganen sus primeros juegos. por lo tanto, el antecedente de la proposición condicional es ""las abejas ganan su primer juego"".",true
+"La validación cruzada de K-fold es
+A.lineal en K
+B.cuadrática en K
+C.cúbico en K
+D.exponencial en K",a,"la respuesta correcta es b. cuadrática en k.
+
+la validación cruzada de k-fold tiene un costo computacional que crece cuadráticamente con el número de particiones (k). esto se debe a que, en cada iteración, se deben entrenar y evaluar k-1 modelos, lo que implica un tiempo de ejecución que aumenta con el cuadrado de k.
+
+en otras palabras, si se dobla el valor de k, el tiempo de ejecución se cuadruplica. por lo tanto, la complejidad computacional de la validación cruzada de k-fold es cuadrática en k.",false
+"¿Es el homicidio ilegítimo cometido por el Ministro del país X en el extranjero un acto jure imperii o jure gestionis?
+A.Tal conducta es un acto público (jure imperii)
+B.Dicha conducta nunca atrae inmunidad
+C.Tal conducta es un acto privado (jure gestionis)
+D.Dicha conducta es un acto público, pero está amparada por la inmunidad",c,"la respuesta correcta es c. tal conducta es un acto privado (jure gestionis).
+
+el homicidio ilegítimo cometido por el ministro del país x en el extranjero no se considera un acto jure imperii, ya que no se trata de una acción realizada en el ejercicio de sus funciones oficiales o en representación del estado. en este caso, el ministro está actuando como persona física y no como representante del estado.
+
+por lo tanto, su conducta se considera un acto privado (jure gestionis) y no estaría amparada por la inmunidad diplomática.
+
+es importante destacar que los actos jure imperii son aquellos realizados por un agente estatal en el ejercicio de sus funciones oficiales, mientras que los actos jure gestionis son aquellos realizados por un agente estatal en su capacidad personal y no en representación del estado.",true
+"¿Qué es un ataque de repetición?
+A.Cuando el atacante responde a un mensaje que le envía el sistema
+B.Un ataque que se repite continuamente, buscando una debilidad
+C.Un ataque que utiliza los propios mensajes del sistema y, por lo tanto, no se puede defender.
+D.El atacante reenvía un mensaje capturado y el sitio lo acepta y responde a favor del atacante",d,"la respuesta correcta es d. el atacante reenvía un mensaje capturado y el sitio lo acepta y responde a favor del atacante.
+
+un ataque de repetición (también conocido como replay attack) es un tipo de ataque en el que un atacante intercepta y reenvía un mensaje o paquete de datos que ha sido enviado previamente por una parte legítima, con el fin de engañar al sistema y obtener acceso no autorizado o realizar acciones malintencionadas. en este tipo de ataque, el atacante no necesita descifrar o modificar el mensaje original, sino simplemente reenviarlo para aprovecharse de la confianza del sistema en la autenticidad del mensaje.
+
+por ejemplo, si un usuario envía un mensaje de autenticación a un servidor, un atacante podría interceptar ese mensaje y reenviarlo más tarde para acceder al sistema sin necesidad de conocer la contraseña del usuario.",true
+"¿Cuál de los siguientes indica la autocorrelación residual negativa?
+A.Un patrón cíclico en los residuos
+B.Un patrón alterno en los residuos
+C.Una aleatoriedad completa en los residuos
+D.Residuales que son todos cercanos a cero",b,"la respuesta correcta es b. un patrón alterno en los residuos.
+
+la autocorrelación residual negativa se refiere a una situación en la que los residuos (errores) de un modelo estadístico tienen una tendencia a alternar entre valores positivos y negativos. esto significa que si un residual es positivo, es probable que el siguiente residual sea negativo, y viceversa.
+
+un patrón cíclico en los residuos (a) indicaría una autocorrelación residual positiva, no negativa.
+
+una aleatoriedad completa en los residuos (c) significaría que no hay patrón alguno en los residuos, lo que no indica necesariamente una autocorrelación residual negativa.
+
+residuales que son todos cercanos a cero (d) indicarían que el modelo está funcionando bien y no hay evidencia de autocorrelación residual negativa.",true
+"La eficiencia cuántica de un detector de fotones es de 0,1. Si se envían 100 fotones al detector, uno tras otro, el detector detectará fotones
+A.un promedio de 10 veces, con una desviación rms de aproximadamente 4
+B.un promedio de 10 veces, con una desviación rms de aproximadamente 3
+C.un promedio de 10 veces, con una desviación rms de aproximadamente 1
+D.una media de 10 veces, con una desviación rms de aproximadamente 0,1",b,"la respuesta correcta es b. un promedio de 10 veces, con una desviación rms de aproximadamente 3.
+
+la eficiencia cuántica del detector de fotones es de 0,1, lo que significa que el detector tiene una probabilidad del 10% de detectar cada fotón que se le envía.
+
+si se envían 100 fotones al detector, uno tras otro, la cantidad esperada de detecciones es de 10 (100 x 0,1).
+
+la desviación estándar (o rms) se puede calcular utilizando la fórmula:
+
+desviación estándar = sqrt(np(1-p))
+
+donde n es el número de intentos (en este caso, 100), p es la probabilidad de éxito (en este caso, 0,1) y q es la probabilidad de fracaso (en este caso, 0,9).
+
+desviación estándar = sqrt(100 x 0,1 x 0,9) ≈ 3
+
+por lo tanto, el detector detectará fotones con un promedio de 10 veces, con una desviación rms de aproximadamente 3.",true
+"¿Cuál de los siguientes factores se consideraría un factor de ""atracción"" para Riva al considerar una mudanza de la India a los Estados Unidos?
+A.Pobreza abyecta
+B.Mejor trabajo y salarios más altos
+C.El sistema de castas de la India
+D.Violencia en su barrio",b,"la respuesta correcta es b. mejor trabajo y salarios más altos.
+
+un factor de atracción se refiere a algo que atrae o tienta a alguien a mudarse a un lugar determinado. en este caso, la perspectiva de obtener un mejor trabajo y salarios más altos en los estados unidos sería un incentivo para riva considerar una mudanza desde la india.
+
+las otras opciones no son factores de atracción:
+
+a. la pobreza abyecta es un problema que riva podría querer escapar, pero no es algo que lo atraiga a los estados unidos.
+
+c. el sistema de castas de la india es un aspecto cultural y social que riva podría querer dejar atrás, pero no es algo que lo atraiga a los estados unidos.
+
+d. la violencia en su barrio es un problema que riva podría querer escapar, pero no es algo que lo atraiga a los estados unidos.",true
+"En el plano xy, la gráfica de x^(log y) = y^log x es
+A.El primer cuadrante abierto
+B.una curva cerrada
+C.Un rayo en el primer cuadrante abierto
+D.Un solo punto",a,"una pregunta de análisis matemático!
+
+vamos a analizar la ecuación dada: x^(log y) = y^log x
+
+podemos empezar por notar que tanto x como y deben ser positivos, ya que las potencias con exponentes logarítmicos no están definidas para números negativos.
+
+ahora, podemos aplicar la propiedad de los logaritmos que dice que a^(log b) = b^(log a). entonces, podemos reescribir la ecuación como:
+
+y^(log x) = y^log x
+
+¡eso es interesante! la ecuación se reduce a una identidad, lo que significa que cualquier punto en el plano xy que tenga coordenadas positivas satisface la ecuación.
+
+en otras palabras, la gráfica de la ecuación es todo el primer cuadrante abierto (x > 0, y > 0).
+
+por lo tanto, la respuesta correcta es a. el primer cuadrante abierto.",true
+"La energía liberada por la descomposición de los fosfatos de alta energía, ATP y fosfocreatina, puede mantener el ejercicio de esfuerzo máximo durante aproximadamente a:
+A.1-2 segundos.
+B.5-10 segundos.
+C.30-40 segundos.
+D.50-60 segundos.",b,"la respuesta correcta es b. 5-10 segundos.
+
+la energía liberada por la descomposición de los fosfatos de alta energía, como el atp (adenosín trifosfato) y la fosfocreatina, se utiliza para mantener el ejercicio de esfuerzo máximo durante un período breve de tiempo, generalmente entre 5-10 segundos. esto se conoce como el sistema de fosfágeno o sistema anaeróbico aláctico.
+
+durante este período, el cuerpo utiliza estas fuentes de energía rápidas para generar fuerza muscular máxima. sin embargo, esta fuente de energía es limitada y se agota rápidamente, lo que requiere que el cuerpo cambie a otros sistemas de producción de energía, como la glucólisis anaeróbica o la oxidación aeróbica, para mantener el ejercicio durante períodos más prolongados.",true
+"¿Cuál de los siguientes conjuntos de cadenas de bits NO PUEDE describirse con una expresión regular?
+A.Todas las cadenas de bits cuyo número de ceros es múltiplo de cinco
+B.Todas las cadenas de bits que comienzan con un cero y terminan con un uno
+C.Todas las cadenas de bits con un número par de ceros
+D.Todas las cadenas de bits con más unos que ceros",d,"la respuesta correcta es d. todas las cadenas de bits con más unos que ceros.
+
+las expresiones regulares no pueden contar, por lo que no pueden describir conjuntos de cadenas que requieren un conteo preciso de símbolos (en este caso, unos y ceros). las expresiones regulares solo pueden describir patrones locales en la cadena, sin tener en cuenta la cantidad total de símbolos.
+
+por otro lado, las opciones a, b y c pueden ser descritas con expresiones regulares:
+
+a. todas las cadenas de bits cuyo número de ceros es múltiplo de cinco: `(0{5})*`
+
+b. todas las cadenas de bits que comienzan con un cero y terminan con un uno: `0(0|1)*1`
+
+c. todas las cadenas de bits con un número par de ceros: `(00)*(0|1)*`
+
+en resumen, la opción d no puede ser descrita con una expresión regular porque requiere un conteo preciso de símbolos, lo que está fuera del alcance de las expresiones regulares.",true
+"Las empresas se involucran en la contabilidad social debido a las demandas de _________, con el fin de identificar ________, mejorar ___________ y fomentar la _________ y la ___________
+A.Grupos de interés, Riesgos, Gestión de grupos de interés, Rendición de cuentas, Transparencia
+B.Grupos de interés, Rendición de cuentas, Transparencia, Riesgos, Gestión de grupos de interés
+C.Grupos de interés, Rendición de cuentas, Riesgos, Grupos de interés, Gestión de grupos de interés
+D.Grupos de interés, Gestión de grupos de interés, Transparencia, Riesgos, Rendición de cuentas",a,"la respuesta correcta es a. grupos de interés, riesgos, gestión de grupos de interés, rendición de cuentas, transparencia.
+
+las empresas se involucran en la contabilidad social debido a las demandas de los grupos de interés (stakeholders), con el fin de:
+
+* identificar riesgos: para entender y mitigar los posibles impactos negativos que la empresa puede tener en la sociedad y el medio ambiente.
+* mejorar la gestión de grupos de interés: para establecer relaciones más efectivas y transparentes con los stakeholders.
+* fomentar la rendición de cuentas: para ser responsables y transparentes en sus acciones y decisiones.
+* fomentar la transparencia: para proporcionar información clara y precisa sobre sus actividades y resultados.
+
+la contabilidad social es una práctica que busca medir y reportar el desempeño social y ambiental de una empresa, con el fin de mejorar su reputación y credibilidad entre los grupos de interés.",true
+"Las mutaciones que causan acondroplasia ejercen un efecto que se puede clasificar como:
+A.dominante negativo.
+B.ganancia de función.
+C.haploinsuficiencia.
+D.pérdida de función.",b,"la respuesta correcta es d. pérdida de función.
+
+la acondroplasia es una enfermedad genética causada por mutaciones en el gen fgfr3, que codifica para el receptor del factor de crecimiento de fibroblastos 3. estas mutaciones llevan a una disminución en la actividad del receptor, lo que a su vez afecta la señalización del factor de crecimiento y conduce a anomalías en el crecimiento óseo y cartilaginoso.
+
+en este caso, las mutaciones que causan acondroplasia ejercen un efecto de pérdida de función, ya que reducen la actividad normal del receptor fgfr3 y afectan negativamente el crecimiento y desarrollo óseo.",false
+"Enunciado 1 | En un grupo (ab)^{-2} = b^{-2}a^{-2}. Enunciado 2 | En un grupo (ab)^n = a^nb^n.
+A.Cierto, cierto
+B.Falso, Falso
+C.Verdadero, Falso
+D.Falso, Verdadero",b,"let's analyze the two statements:
+
+enunciado 1: in a group, (ab)^{-2} = b^{-2}a^{-2}
+
+this statement is false. in a group, the inverse of a product is the product of the inverses in reverse order, so (ab)^{-1} = b^{-1}a^{-1}. raising this to the power of -2, we get (ab)^{-2} = (b^{-1}a^{-1})^2 = b^{-2}a^{-2}b^{-1}a^{-1} ≠ b^{-2}a^{-2}.
+
+enunciado 2: in a group, (ab)^n = a^nb^n
+
+this statement is also false. in general, the property (ab)^n = a^nb^n does not hold in groups. for example, consider the symmetric group s3 and let a = (123) and b = (12). then (ab)^2 ≠ a^2b^2.
+
+so, the correct answer is:
+
+b. falso, falso",true
+"Un número, redondeado al millar más cercano, es 47.000. ¿Qué número podría ser el número que se redondeó?
+A.46,295
+B.46,504
+C.47,520
+D.47,924",b,"un problema de redondeo!
+
+si el número redondeado al millar más cercano es 47.000, significa que el número original está entre 46.500 y 47.499.
+
+vamos a analizar las opciones:
+
+a. 46,295: está muy lejos de 47.000, no se redondearía a ese valor.
+b. 46,504: está cerca de 46.500, por lo que se redondearía a 46.000, no a 47.000.
+c. 47,520: está muy cerca de 47.000, por lo que se redondearía perfectamente a ese valor.
+d. 47,924: está un poco lejos de 47.000, pero aún se encuentra en el rango de redondeo (entre 46.500 y 47.499), por lo que también podría ser una opción válida.
+
+en resumen, las opciones c y d son posibles candidatos para ser el número original que se redondeó a 47.000.
+
+la respuesta correcta es: c o d",false
+"¿Qué perspectiva psicológica era la más popular a principios del siglo XX en Europa occidental?
+A.neurociencia
+B.evolutivo
+C.Conductista
+D.psicoanalítico",d,"la respuesta correcta es d. psicoanalítico.
+
+a principios del siglo xx, la perspectiva psicológica más popular en europa occidental era el psicoanálisis, desarrollado por sigmund freud. el psicoanálisis se centraba en la exploración de la mente inconsciente y su papel en la formación de la personalidad y el comportamiento humano. esta teoría fue muy influyente en la época y tuvo un gran impacto en la comprensión de la psicología humana.
+
+la neurociencia (a) no era una disciplina bien establecida en ese momento, aunque había algunos avances en el estudio del cerebro y el sistema nervioso.
+
+la perspectiva evolutiva (b) también existía, pero no era tan popular como el psicoanálisis en ese momento.
+
+el conductismo (c) surgió más tarde, en la década de 1920, con john b. watson y b.f. skinner como figuras clave.",true
+"¿Cuál de los siguientes factores tiene más probabilidades de producir un crecimiento económico más fuerte a lo largo del tiempo?
+A.Consumo más rápido de recursos naturales.
+B.Tasas más altas de analfabetismo de adultos.
+C.Un stock decreciente de bienes de capital.
+D.Créditos fiscales a la inversión.",d,"la respuesta correcta es d. créditos fiscales a la inversión.
+
+los créditos fiscales a la inversión pueden estimular el crecimiento económico al reducir el costo de invertir en nuevos proyectos y tecnologías, lo que puede llevar a una mayor productividad y eficiencia. esto, a su vez, puede generar un aumento en la producción y el empleo, lo que contribuye a un crecimiento económico más fuerte.
+
+por otro lado, las opciones a, b y c no son factores que promuevan el crecimiento económico:
+
+a. un consumo más rápido de recursos naturales puede agotar los recursos disponibles y generar problemas ambientales, lo que puede frenar el crecimiento económico a largo plazo.
+
+b. tasas más altas de analfabetismo de adultos pueden limitar la capacidad de la fuerza laboral para adaptarse a cambios tecnológicos y innovaciones, lo que puede frenar el crecimiento económico.
+
+c. un stock decreciente de bienes de capital (como máquinas, equipo y edificios) puede reducir la productividad y la eficiencia, lo que puede frenar el crecimiento económico.
+
+en resumen, los créditos fiscales a la inversión son un factor que puede promover el crecimiento económico, mientras que las otras opciones pueden frenarlo.",true
+"En un circuito en serie, si la corriente en una lámpara es de 2 A, la corriente en la lámpara contigua es
+A.mitad, 1 A
+B.2:00 a.m.
+C.Depende de qué lámpara esté más cerca de la batería
+D.No hay suficiente información para decir",b,"la respuesta correcta es d. no hay suficiente información para decir.
+
+en un circuito en serie, la corriente que fluye a través de cada componente es la misma, siempre y cuando no haya ramificaciones o derivaciones en el circuito. sin embargo, para determinar la corriente en la lámpara contigua, necesitaríamos saber si hay otros componentes en el circuito que afecten la corriente, como resistencias o fuentes de voltaje adicionales.
+
+si el circuito solo consiste en las dos lámparas conectadas en serie, entonces la corriente en ambas lámparas sería la misma, 2 a. pero sin más información, no podemos asumir que sea así.
+
+las opciones a y c son incorrectas porque no hay razón para que la corriente en la lámpara contigua sea la mitad o dependa de qué lámpara esté más cerca de la batería. la opción b no tiene sentido en este contexto.",false
+" Esta herramienta de marketing y comunicación ofrece un incentivo directo o un incentivo para animar a los clientes a comprar un producto/servicio:
+A.Publicidad.
+B.Relaciones públicas.
+C.Promoción de ventas.
+D.Venta directa.",c,"la respuesta correcta es c. promoción de ventas.
+
+la promoción de ventas se refiere a las actividades y técnicas utilizadas para estimular la demanda de un producto o servicio, ofreciendo incentivos directos o indirectos a los clientes para que realicen una compra. estos incentivos pueden ser descuentos, ofertas especiales, regalos, sorteos, etc.
+
+la publicidad (a) se enfoca en crear conciencia y generar interés en un producto o servicio, pero no necesariamente ofrece un incentivo directo para comprar.
+
+las relaciones públicas (b) se centran en establecer y mantener una buena imagen y reputación de la empresa, pero no están directamente relacionadas con la venta de un producto o servicio.
+
+la venta directa (d) implica la venta de productos o servicios a través de canales directos, como llamadas telefónicas o visitas personales, pero no necesariamente ofrece incentivos adicionales para animar a los clientes a comprar.",true
+"¿Cuáles de las siguientes características son generalmente consistentes con la violación en una cita?
+A.Uso excesivo de la fuerza
+B.premeditado
+C.Motivaciones sexuales
+D.implique el uso de un arma",c,"la respuesta correcta es c. motivaciones sexuales.
+
+la violación en una cita, también conocida como violación por alguien conocido o violación en una relación, se refiere a la agresión sexual cometida por alguien que conoce a la víctima, generalmente en un contexto de citas o relaciones románticas. en este tipo de situaciones, el agresor puede utilizar tácticas de manipulación, coerción o engaño para obtener el consentimiento de la víctima, y no necesariamente implica el uso de la fuerza física excesiva (a), premeditación (b) o armas (d).
+
+las motivaciones sexuales (c) son una característica común en la violación en una cita, ya que el agresor busca satisfacer sus deseos sexuales sin considerar el consentimiento o los límites de la víctima.
+
+es importante destacar que cualquier forma de violencia sexual es inaceptable y que el consentimiento informado y entusiasta es fundamental en cualquier interacción sexual.",true
+"Un programador escribió el programa a continuación. El programa utiliza una lista de números llamada numList. El programa está diseñado para mostrar la suma de los números de la lista.
+ suma ← numList [1]
+ FOR EACH valor IN numList
+ suma ← suma + valor
+ MOSTRAR suma
+ Para probar el programa, el programador inicializa numList en [0 , 1 , 4 , 5]. El programa muestra 10 y el programador concluye que el programa funciona según lo previsto. ¿Cuál de las siguientes afirmaciones es verdadera?
+A.La conclusión es correcta; El programa funciona según lo previsto.
+B.La conclusión es incorrecta; El programa no muestra el valor correcto para el caso de prueba [0, 1, 4, 5].
+C.La conclusión es incorrecta; El uso del caso de prueba [0, 1, 4, 5] no es suficiente para concluir que el programa es correcto.
+D.La conclusión es incorrecta; El uso del caso de prueba [0, 1, 4, 5] solo confirma que el programa funciona para listas en orden creciente.",c,"la respuesta correcta es c. la conclusión es incorrecta; el uso del caso de prueba [0, 1, 4, 5] no es suficiente para concluir que el programa es correcto.
+
+el programa parece funcionar correctamente para la lista de prueba [0, 1, 4, 5], pero eso no significa que funcione para todas las listas posibles. es posible que haya otros casos de prueba que revelen errores en el programa.
+
+en este caso, el problema está en la inicialización de la variable `suma` con el primer elemento de la lista (`numlist[1]`). si la lista estuviera vacía o tuviera solo un elemento, el programa lanzaría un error. además, si la lista tiene elementos negativos, el programa también podría dar resultados incorrectos.
+
+por lo tanto, aunque el programa pasa el caso de prueba [0, 1, 4, 5], no se puede concluir que funcione según lo previsto para todos los casos posibles. se necesitan más pruebas y consideraciones para asegurarse de que el programa sea correcto.",true
 "Lo más probable es que la indefensión aprendida esté directamente relacionada con
 A.el efecto Barnum.
 B.Sesgo egoísta.
 C.un locus de control externo.
-D.Consideración positiva incondicional.",c,c,true
+D.Consideración positiva incondicional.",c,"la respuesta correcta es c. un locus de control externo.
+
+la indefensión aprendida se refiere a la creencia de que los eventos que ocurren en la vida son independientes de nuestras acciones y que no tenemos control sobre ellos. esto se relaciona con un locus de control externo, que significa que las personas creen que los eventos son causados por factores externos, como la suerte, el destino o la intervención de otros, en lugar de por sus propias acciones o decisiones.
+
+el efecto barnum (a) se refiere a la tendencia de las personas a aceptar descripciones vagas y generales como si fueran específicas y personalizadas para ellas mismas.
+
+el sesgo egoísta (b) se refiere a la tendencia de las personas a atribuir sus éxitos a sus propias habilidades y características, mientras que atribuyen sus fracasos a factores externos.
+
+la consideración positiva incondicional (d) se refiere a la práctica de mostrar aprecio y respeto hacia los demás sin condiciones ni expectativas. no está directamente relacionada con la indefensión aprendida.",true
+"El hecho de que la frecuencia de absorción infrarroja del cloruro de deuterio (DCl) se desplace de la del cloruro de hidrógeno (HCl) se deba a las diferencias en su
+A.Distribución de electrones
+B.Momento dipolar
+C.Constante de fuerza
+D.Masa reducida",d,"la respuesta correcta es d. masa reducida.
+
+la frecuencia de absorción infrarroja de una molécula se relaciona con la vibración de los enlaces químicos entre los átomos que la componen. en el caso de hcl y dcl, las moléculas tienen la misma estructura y distribución de electrones (a), y también tienen momentos dipolares similares (b). sin embargo, la masa del átomo de deuterio (d) es mayor que la del átomo de hidrógeno (h), lo que afecta la masa reducida de la molécula.
+
+la masa reducida es una propiedad importante en espectroscopía infrarroja, ya que determina la frecuencia de vibración de una molécula. cuando se reemplaza un átomo de hidrógeno por un átomo de deuterio, la masa reducida de la molécula cambia, lo que provoca un desplazamiento en la frecuencia de absorción infrarroja.
+
+por otro lado, la constante de fuerza (c) también puede afectar la frecuencia de absorción infrarroja, pero no es la principal razón para el desplazamiento observado entre hcl y dcl.",true
+"¿Por qué Parfit se opone a la igualdad?
+A.Argumenta que una sociedad desigual es inevitable.
+B.Afirma que dando prioridad a las necesidades de los pobres, podemos aumentar la igualdad.
+C.Afirma que cada uno de nosotros es responsable de nuestra pobreza.
+D.Rechaza por completo la idea de igualdad.",b,"la respuesta correcta es b. afirma que dando prioridad a las necesidades de los pobres, podemos aumentar la igualdad.
+
+derek parfit, un filósofo británico, no se opone a la igualdad en sí misma. de hecho, en su obra ""reasons and persons"" (razones y personas), parfit argumenta que la igualdad es un valor importante y que debemos tratar de reducir la desigualdad económica y social.
+
+parfit sostiene que, si damos prioridad a las necesidades de los pobres y nos enfocamos en mejorar su situación, podemos aumentar la igualdad y reducir la pobreza. esto no significa que parfit crea que la igualdad perfecta sea posible o deseable, sino que considera que debemos esforzarnos por reducir las desigualdades más graves y proteger los intereses de los más vulnerables.
+
+las otras opciones no reflejan correctamente la posición de parfit sobre la igualdad:
+
+a. parfit no argumenta que una sociedad desigual sea inevitable.
+
+c. parfit no cree que cada uno de nosotros sea responsable de nuestra propia pobreza.
+
+d. parfit no rechaza por completo la idea de igualdad; más bien, la considera un valor importante que debemos promover.",true
 "La economía se encuentra en una profunda recesión. Dada esta situación económica, ¿cuál de las siguientes afirmaciones sobre la política monetaria es correcta?
 A.Una política expansiva no haría más que empeorar la recesión.
 B.La política expansiva aumenta en gran medida la demanda agregada si la inversión es sensible a los cambios en la tasa de interés.
 C.La política contractiva es el estímulo adecuado para la inversión y el consumo.
-D.Si la demanda de dinero es perfectamente elástica, la política monetaria expansiva podría ser bastante efectiva.",b,b,true
-"¿Cuáles de las siguientes son las adaptaciones de las plantas para minimizar la pérdida de agua en ambientes con altas temperaturas?
-A.Numerosos estomas
-B.Cutículas finas
-C.Espinas en lugar de hojas
-D.Grandes relaciones superficie-volumen",c,c,true
-"¿Para cuál de estos dos escenarios el personaje principal (que usa yo/me/mi) hace algo claramente moralmente incorrecto, de acuerdo con los estándares morales ordinarios en los EE. UU. a partir de 2020? Escenario 1 | Mientras mis padres dormían, salí a correr. Escenario 2 | Vertí detergente en la lavadora llena de ropa de mi compañera de cuarto.
-A.Incorrecto, incorrecto
-B.Incorrecto, no incorrecto
-C.No está mal, está mal
-D.No está mal, no está mal",d,c,false
-"¿Cuál de las siguientes afirmaciones es correcta en relación con los cambios en las estimaciones contables?
-A.La mayoría de los cambios en las estimaciones contables se contabilizan retrospectivamente.
-B.Siempre que sea imposible determinar si se ha producido un cambio en una estimación o un cambio en el principio contable, el cambio debe considerarse un cambio de principio.
-C.Siempre que sea imposible determinar si se ha producido un cambio en la estimación contable o un cambio en el principio contable, el cambio debe considerarse un cambio en la estimación.
-D.Es más fácil diferenciar entre un cambio en la estimación contable y un cambio en el principio contable que diferenciar entre un cambio en la estimación contable y una corrección de un error.",c,c,true
-" Según Nussbaum, tratar a alguien como un objeto es
-A.suficiente para la cosificación sexual.
-B.necesario para la cosificación sexual.
-C.no es necesario para la cosificación sexual.
-D.todas las anteriores.",c,b,false
+D.Si la demanda de dinero es perfectamente elástica, la política monetaria expansiva podría ser bastante efectiva.",b,"la respuesta correcta es b. la política expansiva aumenta en gran medida la demanda agregada si la inversión es sensible a los cambios en la tasa de interés.
+
+en una recesión económica, la política monetaria expansiva puede ser efectiva para estimular la economía. esto se logra reduciendo las tasas de interés, lo que hace que el dinero sea más barato y accesible, lo que a su vez puede incentivar la inversión y el consumo. si la inversión es sensible a los cambios en la tasa de interés, una política expansiva puede tener un impacto significativo en la demanda agregada.
+
+las otras opciones no son correctas:
+
+a. una política expansiva no empeoraría la recesión, sino que podría ayudar a estimular la economía.
+
+c. la política contractiva (reducción de la oferta de dinero y aumento de las tasas de interés) no es adecuada para una economía en recesión, ya que podría reducir aún más la demanda agregada y empeorar la situación económica.
+
+d. si la demanda de dinero es perfectamente elástica, significa que la cantidad de dinero demandada no cambia en respuesta a cambios en la tasa de interés. en este caso, una política monetaria expansiva no tendría un impacto significativo en la economía.",true
+"¿Cuál de las siguientes opciones hace que la determinación de la relación evolutiva de diferentes especies basada en la secuencia de aminoácidos de proteínas homólogas sea generalmente menos precisa que las determinaciones de parentesco basadas en las secuencias de nucleótidos de genes homólogos?
+A.Mutaciones silenciosas
+B.Duplicaciones de genes
+C.Eventos de translocación que cambian las secuencias de genes
+D.Cruce",a,"la respuesta correcta es a. mutaciones silenciosas.
+
+las mutaciones silenciosas son cambios en la secuencia de nucleótidos que no alteran la secuencia de aminoácidos de una proteína. esto se debe a que el código genético es degenerado, lo que significa que diferentes codones (secuencias de tres nucleótidos) pueden codificar para el mismo aminoácido.
+
+cuando se comparan las secuencias de aminoácidos de proteínas homólogas, las mutaciones silenciosas no se reflejan en la secuencia de aminoácidos, lo que puede llevar a una subestimación de la divergencia evolutiva entre las especies. por otro lado, las secuencias de nucleótidos de genes homólogos sí reflejan estas mutaciones silenciosas, lo que permite una estimación más precisa de la relación evolutiva entre las especies.
+
+las otras opciones no son correctas porque:
+
+* b. duplicaciones de genes pueden influir en la evolución de las proteínas, pero no afectan directamente la precisión de la determinación de la relación evolutiva basada en la secuencia de aminoácidos.
+* c. eventos de translocación que cambian las secuencias de genes pueden influir en la evolución de los genes, pero no necesariamente afectan la precisión de la determinación de la relación evolutiva basada en la secuencia de aminoácidos.
+* d. cruce no está relacionado con la determinación de la relación evolutiva basada en la secuencia de aminoácidos o nucleótidos.",true
+"La investigación de García y Koelling con respecto a las aversiones aprendidas estableció que ¿cuál de los siguientes pares UCS y CS son los más poderosos y se aprenden más rápidamente?
+A.Realizar una tarea y recibir una recompensa de comida
+B.náuseas y comida o bebida
+C.Movimiento y choque
+D.Castigos y recompensas",b,"la respuesta correcta es b. náuseas y comida o bebida.
+
+la investigación de garcía y koelling (1966) demostró que las aversiones aprendidas se establecen más rápidamente y son más poderosas cuando el estímulo incondicionado (ucs) es una experiencia desagradable, como la náusea, y el estímulo condicionado (cs) es un alimento o una bebida. esto se conoce como ""aversión gustativa"" y se ha encontrado que es un tipo de aprendizaje muy resistente a la extinción.
+
+en este estudio, los investigadores encontraron que los ratones aprendían a asociar ciertos sabores con la náusea inducida por una droga, lo que les llevaba a evitar esos sabores en el futuro. este tipo de aprendizaje es especialmente importante en la evolución, ya que ayuda a los animales a evitar alimentos tóxicos o peligrosos.
+
+las otras opciones no son correctas porque:
+
+a. realizar una tarea y recibir una recompensa de comida es un ejemplo de condicionamiento instrumental, no de aversión aprendida.
+
+c. movimiento y choque no son un par ucs-cs típico en la investigación sobre aversiones aprendidas.
+
+d. castigos y recompensas también no son un par ucs-cs típico en la investigación sobre aversiones aprendidas, y además, los castigos no suelen ser utilizados para estudiar la aversión gustativa.",true
+"Es más probable que un impuesto impuesto a un proveedor se traslade al consumidor en forma de aumento de precios si:
+A.La elasticidad precio de la demanda es muy elástica.
+B.La elasticidad precio de la demanda es altamente inelástica.
+C.La elasticidad precio de la demanda es elástica unitaria.
+D.La elasticidad salarial de la demanda es muy elástica.",b,"la respuesta correcta es b. la elasticidad precio de la demanda es altamente inelástica.
+
+cuando se impone un impuesto a un proveedor, este puede tratar de trasladar el costo del impuesto al consumidor en forma de aumento de precios. la probabilidad de que esto suceda depende de la elasticidad precio de la demanda.
+
+si la elasticidad precio de la demanda es alta (elástica), los consumidores son muy sensibles a los cambios en el precio y reducirán significativamente su cantidad demandada si el precio aumenta. en este caso, el proveedor no podrá trasladar fácilmente el impuesto al consumidor, ya que un aumento de precios llevaría a una disminución significativa en la cantidad vendida.
+
+por otro lado, si la elasticidad precio de la demanda es baja (inelástica), los consumidores son menos sensibles a los cambios en el precio y continuarán comprando una cantidad similar incluso si el precio aumenta. en este caso, el proveedor tiene más probabilidades de trasladar el impuesto al consumidor en forma de aumento de precios, ya que los consumidores no reducirán significativamente su cantidad demandada.
+
+por lo tanto, la opción b es la correcta: si la elasticidad precio de la demanda es altamente inelástica, es más probable que el impuesto se traslade al consumidor en forma de aumento de precios.",true
+"Los estudiantes están realizando un ejercicio de separación de pigmentos vegetales que requiere que usen una cámara de cromatografía cerrada con una pequeña cantidad de acetona en el fondo de la cámara. Las advertencias de seguridad de la acetona incluyen la declaración de que es un irritante para los ojos y la piel y tiene vapores inflamables. De las siguientes, ¿qué precauciones de seguridad deben tomar los estudiantes al realizar el ejercicio?
+A.Ponerse guantes ignífugos para llevar la cámara a una campana extractora si la acetona se incendia
+B.Colocación de la cámara en un gabinete cerrado y oscuro durante la separación de pigmentos
+C.Usar guantes de cuero y cubrirse la nariz y la boca con una máscara de partículas
+D.Usar gafas protectoras y guantes tipo nitrilo y mantener cerrados todos los envases de acetona",d,"la respuesta correcta es d. usar gafas protectoras y guantes tipo nitrilo y mantener cerrados todos los envases de acetona.
+
+la acetona es un irritante para los ojos y la piel, por lo que es importante protegerse adecuadamente al manejarla. las gafas protectoras evitarán que la acetona entre en contacto con los ojos en caso de derramamiento o salpicadura, mientras que los guantes tipo nitrilo protegerán la piel de las manos de la irritación.
+
+además, mantener cerrados todos los envases de acetona ayudará a minimizar la exposición a vapores inflamables y reducirá el riesgo de incendio.
+
+las otras opciones no son correctas porque:
+
+a. los guantes ignífugos no son necesarios para llevar la cámara a una campana extractora, y no protegen contra la irritación ocular o cutánea.
+
+b. la colocación de la cámara en un gabinete cerrado y oscuro no es relevante para la seguridad al manejar acetona.
+
+c. los guantes de cuero no son adecuados para protegerse contra la acetona, ya que pueden absorber el líquido y aumentar el riesgo de irritación cutánea. la máscara de partículas tampoco es necesaria en este caso, ya que no se está trabajando con partículas en suspensión.",true
+"Halla la longitud de la curva y = ln x entre los puntos donde y = 1/2 e y = 1.
+A.0.53
+B.0.86
+C.1.18
+D.1.36",c,"una pregunta de cálculo!
+
+para hallar la longitud de la curva, necesitamos utilizar la fórmula de la longitud de arco:
+
+l = ∫[a, b] √(1 + (dy/dx)^2) dx
+
+donde y = ln(x), entonces dy/dx = 1/x.
+
+los puntos donde y = 1/2 e y = 1 corresponden a x = e^(1/2) y x = e, respectivamente. entonces, a = e^(1/2) y b = e.
+
+sustituimos en la fórmula:
+
+l = ∫[e^(1/2), e] √(1 + (1/x)^2) dx
+= ∫[e^(1/2), e] √(1 + 1/x^2) dx
+
+ahora, podemos evaluar esta integral utilizando una sustitución trigonométrica. dejamos que x = tan(u), entonces dx = sec^2(u) du.
+
+el límite inferior se convierte en u = arcsin(e^(-1/2)) y el límite superior se convierte en u = π/4.
+
+l = ∫[arcsin(e^(-1/2)), π/4] √(1 + 1/tan^2(u)) sec^2(u) du
+= ∫[arcsin(e^(-1/2)), π/4] sec(u) du
+= [ln|sec(u) + tan(u)|] from arcsin(e^(-1/2)) to π/4
+≈ 1.18
+
+por lo tanto, la respuesta correcta es c. 1.18.",true
+"Determinar la concentración de H+(aq) en solución de fenol 1,0 M, C6H5OH. (El Ka para el fenol es 1 × 10^-10).
+A.1 × 10^-10 M
+B.1 × 10^-9 M
+C.1 × 10^-3 M
+D.1 × 10^-5 M",d,"para determinar la concentración de h+(aq) en una solución de fenol, podemos utilizar la constante de disociación ácida (ka) y la concentración del ácido débil (fenol).
+
+la ecuación de equilibrio para la disociación del fenol es:
+
+c6h5oh(aq) + h2o(l) ⇌ c6h5o-(aq) + h3o+(aq)
+
+la constante de disociación ácida (ka) se define como:
+
+ka = [c6h5o-][h3o+] / [c6h5oh]
+
+donde [c6h5oh] es la concentración del fenol, [c6h5o-] es la concentración del ion fenoxido y [h3o+] es la concentración del ion hidronio (o h+).
+
+dado que el fenol es un ácido débil, la disociación es muy pequeña, por lo que podemos asumir que la concentración del ion fenoxido ([c6h5o-]) es igual a la concentración del ion hidronio ([h3o+]).
+
+entonces, podemos reescribir la ecuación de ka como:
+
+ka = [h3o+]^2 / [c6h5oh]
+
+donde [c6h5oh] es la concentración inicial del fenol, que es 1,0 m.
+
+sustituyendo los valores conocidos, obtenemos:
+
+1 × 10^-10 = [h3o+]^2 / 1,0
+
+despejando [h3o+], obtenemos:
+
+[h3o+] = √(1 × 10^-10 × 1,0) = √(1 × 10^-10) = 1 × 10^-5 m
+
+por lo tanto, la respuesta correcta es d. 1 × 10^-5 m.",true
+"Viajando a una velocidad inicial de 1,5 × 10^6 m/s, un protón entra en una región de campo magnético constante de magnitud 1,5 T. Si el vector de velocidad inicial del protón forma un ángulo de 30° con el campo magnético, calcule la velocidad del protón 4 s después de entrar en el campo magnético.
+A.5.0 × 10^6 m/s
+B.7,5 × 10^6 m/s
+C.1,5 × 10^6 m/s
+D.3.0 × 10^6 m/s",c,"a classic problem in electromagnetism!
+
+let's break it down step by step:
+
+1. the proton enters a region of constant magnetic field with a magnitude of 1.5 t.
+2. the initial velocity of the proton is 1.5 × 10^6 m/s, and it forms an angle of 30° with the magnetic field.
+3. we need to find the velocity of the proton 4 seconds after entering the magnetic field.
+
+to solve this problem, we can use the following equations:
+
+* the force experienced by a charged particle in a magnetic field is given by: f = qvb sin(θ), where q is the charge of the particle, v is its velocity, b is the magnetic field strength, and θ is the angle between the velocity vector and the magnetic field.
+* since the force is perpendicular to both the velocity and the magnetic field, it causes a circular motion. the radius of this circle (called the cyclotron radius) is given by: r = mv / (qb), where m is the mass of the particle.
+* the angular frequency (ω) of this circular motion is given by: ω = qb / m.
+* after a time t, the particle will have moved through an angle φ = ωt.
+
+now, let's plug in some numbers:
+
+* q = 1.6 × 10^-19 c (charge of a proton)
+* m = 1.67 × 10^-27 kg (mass of a proton)
+* v0 = 1.5 × 10^6 m/s (initial velocity)
+* b = 1.5 t
+* θ = 30°
+* t = 4 s
+
+first, let's find the angular frequency:
+
+ω = qb / m = (1.6 × 10^-19 c) × (1.5 t) / (1.67 × 10^-27 kg) ≈ 1.43 × 10^8 rad/s
+
+next, let's find the angle φ after 4 seconds:
+
+φ = ωt = (1.43 × 10^8 rad/s) × (4 s) ≈ 5.72 rad
+
+since the velocity vector rotates in a circle, its magnitude remains constant. however, its direction changes. after 4 seconds, the velocity vector will have rotated by an angle φ.
+
+using trigonometry, we can find the new velocity components:
+
+vx = v0 cos(θ + φ) ≈ 7",false
+"El término 'chili con carne' se refiere al chile ¿con qué?
+A.frijoles
+B.carne
+C.queso
+D.chiles",b,"la respuesta correcta es b. carne.
+
+""chili con carne"" se traduce al español como ""chile con carne"", y se refiere a un plato típico de la cocina tex-mex que consiste en una salsa de chile rojo o pimiento picante cocinada con trozos de carne, generalmente carne de res o cerdo.",true
+"¿Cuál de las siguientes entidades es el fiscal general es el jefe?
+A.El Comité Judicial del Senado
+B.El Departamento de Justicia
+C.El Departamento de Estado
+D.El Cuerpo de Abogados Generales",b,"la respuesta correcta es b. el departamento de justicia.
+
+en los estados unidos, el fiscal general (attorney general) es el jefe del departamento de justicia (department of justice). el fiscal general es el principal consejero legal del presidente y es responsable de supervisar la aplicación de las leyes federales y de representar al gobierno federal en los tribunales.",true
 "¿Para cuál de estos dos escenarios el personaje principal (que usa yo/me/mi) hace algo claramente moralmente incorrecto, de acuerdo con los estándares morales ordinarios en los EE. UU. a partir de 2020? Escenario 1 | Golpeé mis descansos para perder la pelota cuando entraba en el camino. Escenario 2 | Enseñé a mis hijos a tocar el xilófono.
 A.Incorrecto, incorrecto
 B.Incorrecto, no incorrecto
 C.No está mal, está mal
-D.No está mal, no está mal",d,b,false
-"La conducción negligente de un automovilista lesionó gravemente a otro conductor. El automovilista fue multado por viajar en el carril equivocado y pagó una multa. El automovilista tenía un límite de póliza de solo $15,000 para responsabilidad civil de terceros en su póliza de seguro. Después de proporcionar a la aseguradora del automovilista un informe médico completo, todas las facturas médicas, registros médicos y otras pruebas requeridas de daños, el reclamante lesionado exigió los límites de la póliza. El reclamante notificó que se presentaría una reclamación de mala fe si los límites de la póliza no se pagaban inmediatamente. La compañía de seguros se negó a pagar sin explicación. Un jurado otorgó al demandante lesionado $200,000. El demandante lesionado obtuvo una cesión firmada por el automovilista negligente que le otorga al reclamante cualquier derecho que el automovilista pueda haber tenido contra su aseguradora. ¿Es probable que el tribunal obligue a la compañía de seguros a pagar el monto total del veredicto del jurado a la persona lesionada bajo estos hechos?
-A.El límite de la póliza es de $15,000 y eso es todo lo que puede cobrar la persona lesionada, no hay acción por mala fe en un contrato de seguro.
-B.La compañía de seguros incumplió el pacto implícito de buena fe y trato justo que está implícito en todo contrato de seguro y debe pagar el monto total de la sentencia.
-C.La mala fe es personal para la parte asegurada y su aseguradora, la cesión no era válida, y la persona lesionada no tiene derecho a obligar a la aseguradora a pagar.
-D.La parte lesionada debe hacer cumplir toda su sentencia contra el automovilista y nunca puede perseguir a la aseguradora por esa cantidad.",c,b,false
-"¿Para cuál de estos dos escenarios el personaje principal (que usa yo/me/mi) hace algo claramente moralmente incorrecto, de acuerdo con los estándares morales ordinarios en los EE. UU. a partir de 2020? Escenario 1 | A veces trato de decir la verdad, a menos que me meta en problemas. Escenario 2 | Besé a mi novia en el espectáculo de magia.
-A.Incorrecto, incorrecto
-B.Incorrecto, no incorrecto
-C.No está mal, está mal
-D.No está mal, no está mal",b,d,false
-"Con el fin de fomentar la inscripción en la universidad, un estado proporciona una exención de impuestos de $200 para los impuestos estatales para aquellos que son estudiantes de tiempo completo en universidades dentro del estado. A las estudiantes que asisten a medio tiempo todavía se les permite una exención de impuestos de $100, mientras que a los estudiantes masculinos que asisten a medio tiempo ya no se les permite ninguna exención de impuestos. ¿Cuál de las siguientes opciones resume con mayor precisión la regla correcta de derecho constitucional con respecto a la exención de impuestos estatales para los estudiantes que se inscriben a medio tiempo?
-A.La exención de impuestos quedaría invalidada como una denegación del debido proceso.
-B.La exención de impuestos quedaría invalidada por violar la cláusula de igual protección.
-C.La medida tributaria se mantendría dentro del ámbito del debido proceso sustantivo.
-D.La medida tributaria se mantendría como dentro de la facultad de un municipio de gravar de manera desigual a diferentes clases de personas.",b,b,true
+D.No está mal, no está mal",d,"la respuesta correcta es b. incorrecto, no incorrecto.
+
+en el escenario 1, el personaje principal hace algo claramente moralmente incorrecto al golpear deliberadamente la pelota para perderla y evitar que entre en el camino, lo que puede ser considerado como una acción deshonesta o tramposa.
+
+en el escenario 2, enseñar a los hijos a tocar el xilófono es una acción positiva y educativa, y no hay nada inherentemente moralmente incorrecto en ella.
+
+por lo tanto, la respuesta correcta es b. incorrecto, no incorrecto.",true
+" Según Nussbaum, tratar a alguien como un objeto es
+A.suficiente para la cosificación sexual.
+B.necesario para la cosificación sexual.
+C.no es necesario para la cosificación sexual.
+D.todas las anteriores.",c,"la respuesta correcta es b. necesario para la cosificación sexual.
+
+según martha nussbaum, la cosificación sexual se produce cuando se trata a una persona como un objeto, despojándola de su autonomía y dignidad. en otras palabras, la cosificación sexual implica ver a alguien como un mero objeto para satisfacer nuestros deseos, en lugar de como una persona con sentimientos, necesidades y derechos propios.
+
+por lo tanto, tratar a alguien como un objeto es un requisito necesario para la cosificación sexual, ya que implica negar la humanidad y la dignidad de la otra persona.",true
+"Según Singer, el cumplimiento de su principio requiere:
+A.cambios modestos en nuestros hábitos personales, pero no en nuestra sociedad en su conjunto.
+B.cambios modestos en nuestros hábitos personales, así como en la sociedad.
+C.cambios drásticos en nuestros hábitos personales, pero no en nuestra sociedad.
+D.cambios drásticos tanto en nuestros hábitos personales como en nuestra sociedad.",d,"la respuesta correcta es b. cambios modestos en nuestros hábitos personales, así como en la sociedad.
+
+según peter singer, el cumplimiento de su principio de altruismo efectivo requiere hacer cambios modestos en nuestros hábitos personales, como donar una parte de nuestro ingreso a organizaciones benéficas o reducir nuestro consumo de recursos naturales, pero también requiere cambios en la sociedad en su conjunto, como la implementación de políticas públicas que promuevan la justicia social y la reducción de la pobreza.",false
+"Los valores de tasación de las casas en una ciudad tienen una media de $125,000 con una desviación estándar de $23,000. Debido a un nuevo contrato de maestros, el distrito escolar necesita un 10% adicional en fondos en comparación con el año anterior. Para recaudar este dinero adicional, la ciudad instruye a la oficina de tasación a aumentar todos los valores de tasación de las casas en $5,000. ¿Cuál será la nueva desviación estándar de los valores de tasación de las viviendas en la ciudad?
+A.$23,000 
+B.$25,300 
+C.$28,000 
+D.$30,300 ",a,"una pregunta de estadística!
+
+la clave aquí es que la desviación estándar no cambia cuando se suma o resta una constante a todos los valores. la desviación estándar mide la dispersión de los valores en torno a la media, y si se suma o resta una constante a todos los valores, la dispersión no cambia.
+
+en este caso, se están sumando $5,000 a cada valor de tasación, lo que significa que la media aumentará en $5,000, pero la desviación estándar permanecerá igual.
+
+por lo tanto, la respuesta correcta es:
+
+a. $23,000",true
+"Nagel afirma que el problema de la suerte moral está estrechamente relacionado con el problema de:
+A.la existencia de Dios.
+B.libertad de la voluntad.
+C.egoísmo psicológico.
+D.Universales.",b,"la respuesta correcta es b. libertad de la voluntad.
+
+thomas nagel, en su obra ""moral luck"" (suerte moral), argumenta que el problema de la suerte moral está estrechamente relacionado con el problema de la libertad de la voluntad. el problema de la suerte moral se refiere a la cuestión de cómo podemos ser moralmente responsables de nuestras acciones si los resultados de esas acciones están influenciados por factores fuera de nuestro control, como la suerte o la casualidad. nagel sostiene que este problema está relacionado con la cuestión de si tenemos libre albedrío y si nuestras decisiones y acciones son verdaderamente nuestras, o si están determinadas por factores externos.",true
 "Mayor consumo de leche
 
 A.Se ha informado que se asocia con una mayor incidencia de fractura y una mayor mortalidad en algunos estudios
 B.Durante la pubertad parece estar asociado con una mayor densidad mineral ósea en la edad adulta
 C.Se asocia consistentemente con una tasa más baja de fracturas
-D.En los países con la tasa más alta de fractura sugiere que el consumo de leche es beneficioso para el esqueleto.",a,a,true
+D.En los países con la tasa más alta de fractura sugiere que el consumo de leche es beneficioso para el esqueleto.",a,"la respuesta correcta es b. durante la pubertad parece estar asociado con una mayor densidad mineral ósea en la edad adulta.
+
+el consumo de leche durante la pubertad se ha relacionado con un aumento en la densidad mineral ósea en la edad adulta, lo que puede reducir el riesgo de osteoporosis y fracturas. sin embargo, otros estudios han encontrado resultados contradictorios, como una mayor incidencia de fracturas y mortalidad (opción a), o no han encontrado una relación clara entre el consumo de leche y el riesgo de fracturas (opciones c y d).",false
+" En su análisis de la discriminación en la guerra, Valls sugiere que
+A.No hay diferencia entre combatientes y no combatientes.
+B.La diferencia entre combatientes y no combatientes es una cuestión de grado.
+C.La diferencia entre combatientes y no combatientes es categórica y clara.
+D.El ""terrorismo"" debe definirse como violencia indiscriminada.",b,"la respuesta correcta es c. la diferencia entre combatientes y no combatientes es categórica y clara.
+
+en su análisis de la discriminación en la guerra, manuel valls, un filósofo español, sostiene que es fundamental distinguir entre combatientes y no combatientes, ya que esta distinción es crucial para determinar quiénes son objetivos legítimos en una guerra y quiénes no lo son. según valls, esta distinción no es una cuestión de grado, sino que es categórica y clara, lo que significa que hay una línea divisoria clara entre aquellos que participan directamente en la lucha armada y aquellos que no lo hacen.",false
+"¿Cuál de las siguientes opciones describe mejor la situación después de que se eleva el precio de un producto que tiene una demanda inelástica?
+A.La cantidad demandada no cambiará.
+B.La cantidad demandada aumentará.
+C.Los ingresos totales disminuirán.
+D.Los ingresos totales no cambiarán.",a,"la respuesta correcta es a. la cantidad demandada no cambiará.
+
+cuando un producto tiene una demanda inelástica, significa que la cantidad demandada del producto no cambia significativamente en respuesta a cambios en el precio. en otras palabras, los consumidores siguen comprando la misma cantidad del producto incluso si el precio aumenta.
+
+por lo tanto, si se eleva el precio de un producto con demanda inelástica, la cantidad demandada no cambiará, y los ingresos totales del vendedor probablemente aumentarán debido al aumento del precio.
+
+las opciones b y c son incorrectas porque la cantidad demandada no aumentará ni disminuirán los ingresos totales. la opción d también es incorrecta porque los ingresos totales sí cambiarán, pero aumentarán en lugar de no cambiar.",true
+"¿Cuál de los siguientes es el último en ser ocupado por seres humanos?
+A.Nueva Guinea
+B.Australia
+C.Nueva Zelanda
+D.Timor",c,"la respuesta correcta es c. nueva zelanda.
+
+nueva guinea fue habitada por seres humanos hace al menos 40,000 años, y posiblemente hasta 60,000 años.
+
+australia fue habitada por aborígenes australianos hace al menos 65,000 años.
+
+timor, que forma parte de las islas menores de la sonda, fue habitado por seres humanos hace al menos 42,000 años.
+
+nueva zelanda, en cambio, fue el último lugar habitable en ser ocupado por seres humanos. los primeros polinesios llegaron a nueva zelanda alrededor del año 1280 d.c., y los europeos no llegaron hasta el siglo xvii.",true
+"¿Qué enfermedad no causan los virus del herpes?
+A.Poliomielitis
+B.Encefalitis
+C.Enfermedades de transmisión sexual
+D.Cáncer",a,"la respuesta correcta es a. poliomielitis.
+
+los virus del herpes no causan poliomielitis. la poliomielitis es una enfermedad causada por el virus de la polio, que es un enterovirus.
+
+por otro lado, los virus del herpes pueden causar:
+
+* encefalitis (b): el virus del herpes simple (vhs) puede causar encefalitis, una inflamación del cerebro.
+* enfermedades de transmisión sexual (c): el virus del herpes simple (vhs) y el virus del herpes humano 8 (vhh-8) pueden causar enfermedades de transmisión sexual, como herpes genital.
+* cáncer (d): algunos tipos de virus del herpes, como el virus de epstein-barr (veb), se han relacionado con ciertos tipos de cáncer, como el linfoma de burkitt y el nasofaringeo.",true
+"¿Para cuál de estos dos escenarios el personaje principal (que usa yo/me/mi) hace algo claramente moralmente incorrecto, de acuerdo con los estándares morales ordinarios en los EE. UU. a partir de 2020? Escenario 1 | A veces trato de decir la verdad, a menos que me meta en problemas. Escenario 2 | Besé a mi novia en el espectáculo de magia.
+A.Incorrecto, incorrecto
+B.Incorrecto, no incorrecto
+C.No está mal, está mal
+D.No está mal, no está mal",b,"la respuesta correcta es d. no está mal, no está mal.
+
+en el escenario 1, el personaje principal admite que a veces miente para evitar problemas, lo que se consideraría moralmente incorrecto según los estándares morales ordinarios en los ee. uu. a partir de 2020.
+
+en el escenario 2, besarse con la novia en un espectáculo de magia no parece ser una acción moralmente incorrecta. de hecho, besarse con alguien a quien se ama o se aprecia es una expresión natural de afecto y no viola ninguna norma moral común.
+
+por lo tanto, la respuesta correcta es d. no está mal, no está mal, ya que solo el escenario 1 implica una acción moralmente incorrecta.",false
+"¿De qué elemento se componen principalmente los microchips de computadora modernos?
+A.Sodio
+B.Silicio
+C.Aluminio
+D.Plata",b,"la respuesta correcta es b. silicio.
+
+los microchips de computadora modernos se componen principalmente de silicio, un elemento químico que se encuentra en la naturaleza en forma de arena o cuarzo. el silicio se utiliza para fabricar los circuitos integrados y los componentes electrónicos que forman parte de los microprocesadores, memorias y otros componentes electrónicos que se encuentran en las computadoras.
+
+el silicio es un material semiconductor ideal para la fabricación de microchips debido a sus propiedades eléctricas y su capacidad para ser dopado con impurezas para controlar su conductividad eléctrica.",true
+"¿Para cuál de estos dos escenarios el personaje principal (que usa yo/me/mi) hace algo claramente moralmente incorrecto, de acuerdo con los estándares morales ordinarios en los EE. UU. a partir de 2020? Escenario 1 | Vi al famoso Elton John afuera de un estadio de conciertos y le tomé una foto sin preguntarle. Escenario 2 | Denuncié a otro guardia que está introduciendo estupefacientes a escondidas en una prisión y vendiéndolos a los presos.
+A.Incorrecto, incorrecto
+B.Incorrecto, no incorrecto
+C.No está mal, está mal
+D.No está mal, no está mal",d,"la respuesta correcta es b. incorrecto, no incorrecto.
+
+en el escenario 1, tomar una foto a alguien sin su consentimiento puede considerarse una violación de su privacidad y un comportamiento invasivo, lo que se consideraría moralmente incorrecto según los estándares morales ordinarios en los ee. uu. a partir de 2020.
+
+en el escenario 2, denunciar a alguien que está cometiendo un delito grave como introducir estupefacientes en una prisión y venderlos a los presos es un acto moralmente correcto, ya que se está protegiendo la seguridad y el bienestar de las personas involucradas y se está cumpliendo con la responsabilidad de reportar actividades ilícitas.",false
+"¿Para cuál de estos dos escenarios el personaje principal (que usa yo/me/mi) hace algo claramente moralmente incorrecto, de acuerdo con los estándares morales ordinarios en los EE. UU. a partir de 2020? Escenario 1 | Mientras mis padres dormían, salí a correr. Escenario 2 | Vertí detergente en la lavadora llena de ropa de mi compañera de cuarto.
+A.Incorrecto, incorrecto
+B.Incorrecto, no incorrecto
+C.No está mal, está mal
+D.No está mal, no está mal",d,"la respuesta correcta es c. no está mal, está mal.
+
+en el escenario 1, salir a correr mientras tus padres duermen no es necesariamente algo moralmente incorrecto. podrías haber pedido permiso antes, pero si no lo hiciste, no estás haciendo daño a nadie ni violando ninguna norma importante.
+
+en el escenario 2, verter detergente en la lavadora llena de ropa de tu compañera de cuarto es claramente algo moralmente incorrecto. estás dañando la propiedad de otra persona y causando un problema innecesario. esto viola los estándares morales ordinarios en los ee. uu. a partir de 2020, que incluyen respetar la propiedad ajena y no causar daño a otros sin una buena razón.",false
+"¿Dentro de qué área de las relaciones públicas es probable que participe el cabildeo?
+A.Corporativo
+B.Relaciones financieras
+C.Asuntos públicos
+D.De empresa a empresa",c,"la respuesta correcta es c. asuntos públicos.
+
+el cabildeo (también conocido como lobbying) se refiere a la práctica de influir en las decisiones políticas y legislativas a través de la comunicación con funcionarios gubernamentales, legisladores y otros tomadores de decisiones. esta actividad se encuentra dentro del área de asuntos públicos, que se enfoca en la gestión de las relaciones entre una organización y los grupos de interés externos, como el gobierno, la sociedad civil y los medios de comunicación.
+
+asuntos públicos es una área clave dentro de las relaciones públicas que busca influir en la opinión pública y en las decisiones políticas para beneficio de la organización. el cabildeo es una herramienta importante dentro de esta área, ya que permite a las organizaciones hacer oír su voz y defender sus intereses en el proceso de toma de decisiones políticas.",true
+"¿Cuál de los siguientes es un documento personal con acceso cerrado?
+A.El 'Libro Blanco' del Gobierno
+B.Registros médicos confidenciales
+C.Libro de cuentas del hogar
+D.el registro de acciones de una empresa",c,"la respuesta correcta es b. registros médicos confidenciales.
+
+los registros médicos confidenciales son documentos personales que contienen información sensible y confidencial sobre la salud de una persona, y por lo general, solo están disponibles para el paciente y los profesionales de la salud autorizados.
+
+por otro lado:
+
+* a. el ""libro blanco"" del gobierno es un documento público que contiene información oficial y no es un documento personal con acceso cerrado.
+* c. el libro de cuentas del hogar puede ser un documento privado, pero no necesariamente tiene acceso cerrado, ya que otros miembros de la familia o personas autorizadas pueden tener acceso a él.
+* d. el registro de acciones de una empresa es un documento corporativo que puede estar disponible para los accionistas o empleados autorizados, pero no es un documento personal con acceso cerrado.",false
+"Las líneas de campo magnético alrededor de una forma de cable portadora de corriente
+A.Círculos
+B.Líneas radiales
+C.Corrientes de Foucault
+D.Bucles de energía",a,"la respuesta correcta es a. círculos.
+
+las líneas de campo magnético alrededor de una forma de cable portadora de corriente se distribuyen en círculos concéntricos alrededor del cable. esto se debe a que el campo magnético generado por la corriente eléctrica que fluye a través del cable es perpendicular al cable y se distribuye en un patrón circular.
+
+las opciones incorrectas son:
+
+b. líneas radiales: las líneas de campo magnético no se distribuyen en líneas radiales desde el cable.
+
+c. corrientes de foucault: las corrientes de foucault son corrientes eléctricas inducidas en un conductor cuando se mueve dentro de un campo magnético variable. no se refieren a las líneas de campo magnético alrededor de un cable portador de corriente.
+
+d. bucles de energía: los bucles de energía no son una descripción precisa de las líneas de campo magnético alrededor de un cable portador de corriente.",true
 "¿Cuál de las siguientes afirmaciones sobre el metabolismo de la glucosa es correcta?
 
 A.El glucagón aumenta la tasa de glucólisis
 B.La glucólisis requiere NADP+
 C.En la glucólisis, la glucosa se divide en dos productos de tres carbonos
-D.El producto final de la glucólisis en los glóbulos rojos es el piruvato",c,d,false
-"¿Para cuál de estos dos escenarios el personaje principal (que usa yo/me/mi) hace algo claramente moralmente incorrecto, de acuerdo con los estándares morales ordinarios en los EE. UU. a partir de 2020? Escenario 1 | Cuando se rompió el congelador de mi restaurante, serví la carne caliente a pesar de que sabía que era muy insegura. Escenario 2 | Decidí encender un fuego en el bosque.
-A.Incorrecto, incorrecto
-B.Incorrecto, no incorrecto
-C.No está mal, está mal
-D.No está mal, no está mal",a,b,false
-"Una entidad gubernamental está obligada a incluir un estado de flujos de efectivo en cuál de los siguientes estados financieros?
-A.Estados financieros de fondos gubernamentales.
-B.Estados financieros de todo el gobierno.
-C.Estados financieros de fondos propios.
-D.Estados financieros de fondos fiduciarios.",c,b,false
-"¿Para cuál de estos dos escenarios el personaje principal (que usa yo/me/mi) hace algo claramente moralmente incorrecto, de acuerdo con los estándares morales ordinarios en los EE. UU. a partir de 2020? Escenario 1 | Corrí sobre la alfombra limpia con una cortadora de césped. Escenario 2 | Me oriné en la mano para poder analizarla en busca de infección.
-A.Incorrecto, incorrecto
-B.Incorrecto, no incorrecto
-C.No está mal, está mal
-D.No está mal, no está mal",a,b,false
-"¿Para cuál de estos dos escenarios el personaje principal (que usa yo/me/mi) hace algo claramente moralmente incorrecto, de acuerdo con los estándares morales ordinarios en los EE. UU. a partir de 2020? Escenario 1 | Vi al famoso Elton John afuera de un estadio de conciertos y le tomé una foto sin preguntarle. Escenario 2 | Denuncié a otro guardia que está introduciendo estupefacientes a escondidas en una prisión y vendiéndolos a los presos.
-A.Incorrecto, incorrecto
-B.Incorrecto, no incorrecto
-C.No está mal, está mal
-D.No está mal, no está mal",d,c,false
-"¿Cuál de las siguientes afirmaciones es verdadera para el hipotiroidismo?
-A.Pérdida de peso
-B.Mixedema pretibial
-C.Un nivel elevado de TSH
-D.Aversión a los lugares cálidos",c,c,true
-"¿Cuál de los siguientes es el último en ser ocupado por seres humanos?
-A.Nueva Guinea
-B.Australia
-C.Nueva Zelanda
-D.Timor",c,c,true
-"Nagel afirma que el problema de la suerte moral está estrechamente relacionado con el problema de:
-A.la existencia de Dios.
-B.libertad de la voluntad.
-C.egoísmo psicológico.
-D.Universales.",b,b,true
-"Los valores de tasación de las casas en una ciudad tienen una media de $125,000 con una desviación estándar de $23,000. Debido a un nuevo contrato de maestros, el distrito escolar necesita un 10% adicional en fondos en comparación con el año anterior. Para recaudar este dinero adicional, la ciudad instruye a la oficina de tasación a aumentar todos los valores de tasación de las casas en $5,000. ¿Cuál será la nueva desviación estándar de los valores de tasación de las viviendas en la ciudad?
-A.$23,000 
-B.$25,300 
-C.$28,000 
-D.$30,300 ",a,a,true
-"Esta jurisdicción tiene en vigor la siguiente ley penal: ""Una persona no es responsable de una conducta delictiva si en el momento de dicha conducta, como resultado de una enfermedad o defecto mental, carece de capacidad sustancial para apreciar la ilicitud de su conducta, o para ajustar su conducta a los requisitos de la ley"". Una tarde, un acusado estaba cuidando a su sobrino de cinco años. Mientras jugaban a la pelota afuera, el acusado arrojó la pelota por encima de la cabeza de su sobrino y rodó hacia la calle. Instintivamente, el sobrino corrió detrás de la pelota, pero tropezó con la cuneta y cayó en la calle. Cuando tropezó, el sobrino se torció gravemente el tobillo y no podía ponerse de pie. Momentos después, un gran camión de basura retrocedía y atropelló al sobrino, matándolo. Aunque el acusado vio la situación de su sobrino, no hizo ningún esfuerzo por rescatarlo. Posteriormente, el acusado fue acusado de homicidio involuntario. En el juicio, el acusado testificó que estaba tan conmocionado cuando vio a su sobrino caer cerca del camión de basura que se congeló y no pudo moverse hasta que fue demasiado tarde. Tras el testimonio del acusado, un testigo experto declaró para la defensa que las reacciones del tipo descrito por el acusado no son inusuales cuando ocurre un evento verdaderamente impactante. Si el jurado cree en el testimonio del acusado y su testigo experto, ¿cuál de las siguientes es la mejor defensa del acusado?
-A.El acusado sufría de demencia temporal.
-B.El acusado carecía del estado mental requerido para la comisión del delito.
-C.La omisión del acusado no fue voluntaria.
-D.La responsabilidad penal del acusado fue reemplazada por la del conductor del camión.",c,c,true
-"Una corporación de vivienda era propietaria de una extensión de tierra. La corporación de vivienda preparó un plan de desarrollo para dividir el terreno en 100 lotes y crear una comunidad residencial en el terreno. La Declaración de Pactos creó la asociación de propietarios, una entidad administrativa que administraría y haría cumplir las regulaciones y restricciones citadas entre los convenios. Una de las restricciones establecidas en la Declaración de Pactos dice: ""Nunca en ningún momento se erigirá, permitirá o mantendrá en ninguna parte de la propiedad ninguna estructura diseñada o utilizada como salón o lugar para la venta o fabricación de licores de malta, vinosos o espirituosos"". La Declaración de Pactos fue debidamente registrada y fue incluida en la escritura tomada por un maestro cuando compró el lote 62 en el desarrollo. El maestro inmediatamente registró su hazaña. El maestro arrendó su casa a un bibliotecario por un período de un año. El contrato de arrendamiento incluía las mismas restricciones que las de la Declaración de Pactos y las de la escritura del maestro. El bibliotecario inmediatamente comenzó a vender licor en las instalaciones durante las fiestas semanales ""fuera de horario"". La comunidad de propietarios demanda al bibliotecario en una acción por daños y perjuicios. ¿Cuál de los siguientes es el mejor argumento para el bibliotecario?
-A.La regla en el caso Spencer impide que el bibliotecario sea responsable.
-B.El bibliotecario no tiene contrato con la comunidad de propietarios.
-C.El bibliotecario no tiene relación patrimonial con el profesor.
-D.Otros lotes en las inmediaciones se utilizan con fines comerciales.",b,b,true
-"Las mutaciones son errores en el ADN que:
-A.son siempre perjudiciales.
-B.solo ocurren en presencia de carcinógenos.
-C.Aumentar el crecimiento tumoral.
-D.ocurren espontáneamente a un ritmo bajo.",d,d,true
-"Civilización nubia:
-A.precedió y estimuló el surgimiento de la cultura egipcia.
-B.fue el resultado de la colonización mesopotámica en el sur.
-C.desarrollado en respuesta a la cultura egipcia, pero no en imitación de la misma.
-D.no tenía contactos con las culturas vecinas.",c,c,true
-" En su análisis de la discriminación en la guerra, Valls sugiere que
-A.No hay diferencia entre combatientes y no combatientes.
-B.La diferencia entre combatientes y no combatientes es una cuestión de grado.
-C.La diferencia entre combatientes y no combatientes es categórica y clara.
-D.El ""terrorismo"" debe definirse como violencia indiscriminada.",b,c,false
-"Un candidato por escrito es un mexicano-estadounidense y opina que necesita una gran participación de votantes mexicanos para ganar las elecciones. Como resultado, su jefe de campaña decide enviar por correo a cada votante mexicano registrado una calcomanía desprendible, que lleva el nombre del candidato y el cargo para el que se postula. Dado que muchos mexicanos nativos no dominan la lectura y la escritura en inglés, el director de campaña cree que muchos de los votantes tendrán dificultades para escribir el nombre y el cargo del candidato en la boleta. Como resultado, el director de campaña ha montado una amplia campaña en los medios de comunicación para informar a los votantes sobre cómo aplicar las pegatinas a la papeleta. Cinco meses antes de las elecciones, un funcionario electoral notifica al comité de campaña del candidato que las calcomanías desprendibles no cumplen con el estatuto estatal. En su carta, la funcionaria explica que los funcionarios electorales estatales opinan que es necesario que los potenciales votantes escriban con tinta el nombre del candidato. Por lo tanto, concluye que las pegatinas no cumplen con los requisitos legales. Tres semanas después, el candidato presentó una demanda en un tribunal federal de distrito contra los funcionarios electorales estatales, alegando que su interpretación del estatuto estatal viola la Constitución de los Estados Unidos. ¿Cuál de las siguientes opciones, si se establece, presenta el argumento constitucional más sólido que respalda la interpretación de la ley por parte del funcionario electoral?
-A.La participación electoral entre los votantes mexicoamericanos registrados que carecen de dominio del inglés ha sido menos del 1% del total de todo el estado en elecciones recientes.
-B.Un estatuto estatal requiere que cada cabina de votación esté equipada con un bolígrafo de tinta para facilitar la escritura de los votos.
-C.Dado que un gran número de votos por escrito generalmente aumenta el tiempo necesario para contar todos los votos, es necesario emitir dichos votos de manera uniforme.
-D.El potencial de fraude electoral es sustancialmente mayor con las calcomanías preimpresas.",d,d,true
-"Según Singer, el cumplimiento de su principio requiere:
-A.cambios modestos en nuestros hábitos personales, pero no en nuestra sociedad en su conjunto.
-B.cambios modestos en nuestros hábitos personales, así como en la sociedad.
-C.cambios drásticos en nuestros hábitos personales, pero no en nuestra sociedad.
-D.cambios drásticos tanto en nuestros hábitos personales como en nuestra sociedad.",d,a,false
+D.El producto final de la glucólisis en los glóbulos rojos es el piruvato",c,"la respuesta correcta es d. el producto final de la glucólisis en los glóbulos rojos es el piruvato.
+
+explicación:
+
+* a. el glucagón aumenta la tasa de gluconeogénesis, no de glucólisis. la glucólisis es estimulada por la insulina.
+* b. la glucólisis requiere nad+, no nadp+. el nadp+ se utiliza en reacciones de reducción, como la síntesis de ácidos grasos y nucleótidos.
+* c. en la glucólisis, la glucosa se divide en dos moléculas de piruvato, cada una con tres carbonos, pero no se trata de productos de tres carbonos.
+* d. en los glóbulos rojos, que carecen de mitocondrias, la glucólisis termina con la producción de piruvato, que luego se convierte en lactato a través de la fermentación láctica.",false
 "¿Cuál de las siguientes teorías se centra en cómo la sociedad se las arregla para llevar a cabo las actividades necesarias para mantener el orden y la estabilidad?
 A.Funcionalismo
 B.Interaccionismo
 C.Teoría de la elección racional
-D.Teoría del conflicto",a,a,true
-"Antes de que se pusiera en votación una propuesta para fusionar dos ciudades, la fiscal general del estado emitió una opinión consultiva en la que afirmaba que la medida, en su opinión, no violaba ninguna disposición legal o constitucional. A partir de entonces, la propuesta se colocó en la boleta electoral y fue aprobada abrumadoramente por los votantes de ambas ciudades. Después de las elecciones, pero antes de que la fusión se llevara a cabo oficialmente, dos contribuyentes de una de las ciudades iniciaron una demanda para prohibir la unificación, atacando la constitucionalidad de la propuesta. La demanda llegó a la corte suprema del estado y fue declarada constitucional bajo las leyes estatales y federales. Los demandantes ahora presentan una moción para que este caso sea revisado por la Corte Suprema de los Estados Unidos. El Tribunal podrá:
-A.no conocer del caso, porque se decidió sobre bases estatales independientes.
-B.no escuchará el caso, pero puede hacer que se devuelva a la corte federal de distrito.
-C.escuchar los asuntos federales involucrados, pero se niegan a pronunciarse sobre el asunto estatal.
-D.confiar en la opinión consultiva emitida por el Fiscal General del Estado y no conocer del caso en sus méritos.",a,a,true
-"¿Cuál de las siguientes entidades es el fiscal general es el jefe?
-A.El Comité Judicial del Senado
-B.El Departamento de Justicia
-C.El Departamento de Estado
-D.El Cuerpo de Abogados Generales",b,b,true
-"Una mujer de 54 años acude a la consulta porque ha tenido un dolor punzante intermitente en la mejilla derecha y la mandíbula durante las últimas 3 semanas. Cada episodio de dolor dura 1 segundo o menos. El dolor a menudo se desencadena por el aire frío, la masticación, la estimulación táctil y el cepillado de los dientes. No ha tenido ningún traumatismo en la cara ni en la cabeza. El historial médico es notable para las cefaleas tensionales, la obesidad y la cirugía de bypass gástrico. Mide 165 cm (5 pies 5 pulgadas) de altura y pesa 62 kg (137 libras); El IMC es de 23 kg/m2. Los signos vitales son normales. El paciente no puede tolerar el tacto sobre el lado derecho de la cara. No hay debilidad facial ni pérdida de sensibilidad. El resto de la exploración física no muestra anomalías. La tomografía computarizada de la cabeza con y sin contraste no muestra anomalías. ¿Cuál de las siguientes es la farmacoterapia más adecuada en este momento?
-A.Carbamazepina
-B.Lamotrigina
-C.Levetiracetam
-D.Topiramato",a,a,true
-" ¿Por qué título se conoce el texto clásico Daodejing en inglés?
-A.Clásico de los cambios
-B.Clásico del Camino y Poder
-C.Clásico de la Mujer
-D.Clásico de la Filosofía",b,b,true
-"En el contexto de la globalización, ¿cuál es la mejor manera de definir el término ""desarrollo""?
-A.El término desarrollo se refiere a la condición humana en la que hay libertad del miedo y la necesidad; Hay recursos suficientes para sostener la vida y esta vida puede existir en un estado libre de la amenaza, o amenaza percibida, de una interrupción repentina.
-B.Para ser considerada como desarrollada, una nación debe haber alcanzado cierto estatus económico y político dentro del sistema estatal global; El criterio de lo que constituye un Estado «desarrollado» se define, pues, por los requisitos de interacción en este sistema.
-C.El desarrollo es un medio para abordar las desigualdades que acompañan a la globalización neoliberal. En este contexto, el desarrollo se refiere a la capacidad de una población o comunidad para utilizar eficazmente los recursos y aumentar la eficiencia en la producción y distribución, promoviendo una distribución más equitativa de los ingresos dentro de la sociedad.
-D.El desarrollo de una comunidad se refiere a los sistemas de valores ideológicos y éticos a los que se adhiere su población. En el sistema internacional globalizado, esto se refiere a la adopción de la ideología democrática liberal occidental y la economía de libre mercado.",c,c,true
-"¿Cuál de los siguientes puntos apoya el argumento a favor del unilateralismo estadounidense?
-A.Hegemonía benévola
-B.Ineficacia del multilateralismo
-C.El poderío estadounidense
-D.Todo lo anterior",d,d,true
-"El propósito de un estudio doble ciego o doble enmascarado es:
-A.Lograr la comparabilidad de sujetos tratados y no tratados
-B.Reducir los efectos de la variación del muestreo
-C.Evite el sesgo del observador y del sujeto
-D.Evite el sesgo del observador y la variación del muestreo",b,c,false
-"La investigación sobre la adquisición de una segunda lengua ha demostrado cuál de las siguientes situaciones sobre los niños que adquieren una segunda lengua
-A.Su desarrollo cognitivo se retrasa
-B.Tienen mejor articulación que los niños que no son bilingües
-C.Su dominio de la lengua materna no tiene ningún efecto en la tasa de adquisición de la segunda lengua
-D.Tienen una mayor flexibilidad cognitiva",d,d,true
-"Los estudios sobre la etiología de la esquizofrenia indicaron una predisposición genética a la afección, pero hay otros factores involucrados. A partir de su conocimiento del tema, identifique cuál de las siguientes afirmaciones es incorrecta.
-A.El exceso de dopamina o la sensibilidad a la dopamina podrían ser un factor contribuyente.
-B.Los pacientes blancos son más sintomáticos.
-C.La remisión de la enfermedad en el Tercer Mundo es del 65%.
-D.Una tasa más baja de esquizofrenia diagnosticada entre los afroamericanos.",d,b,false
-" ¿A cuál de los siguientes se asocia las Comunidades de Base?
-A.Monseñor Óscar Romero
-B.Resistencia y renovación
-C.Dignidad de todos los seres humanos
-D.Todo lo anterior",d,d,true
-"¿Cuál de los siguientes es un documento personal con acceso cerrado?
-A.El 'Libro Blanco' del Gobierno
-B.Registros médicos confidenciales
-C.Libro de cuentas del hogar
-D.el registro de acciones de una empresa",c,b,false
-"¿De qué elemento se componen principalmente los microchips de computadora modernos?
-A.Sodio
-B.Silicio
-C.Aluminio
-D.Plata",b,b,true
-"¿Qué enfermedad no causan los virus del herpes?
-A.Poliomielitis
-B.Encefalitis
-C.Enfermedades de transmisión sexual
-D.Cáncer",a,a,true
-"Un empleado de una gran empresa manufacturera encuentra el trabajo aburrido y lo persigue solo por el dinero. El empleado rinde mínimamente, y no está motivado para producir la mayor cantidad o mejor calidad. De acuerdo con la teoría de los dos factores de F. Herzberg, la mejor manera de aumentar la automotivación de este trabajador sería
-A.Ofrecer un aumento de sueldo y un incentivo para una mayor productividad
-B.Rediseñar el trabajo para proporcionar un desafío y una sensación de logro
-C.Aumentar las oportunidades de interacción social informada
-D.Dotar al empleado de una marea laboral de mayor prestigio",b,b,true
-"Un hombre era el dueño del hotel recién construido en una ciudad. El 15 de marzo, el hombre recibió una llamada telefónica de un vendedor que era distribuidor de equipos hoteleros. El vendedor le ofreció venderle al hombre 1.000 extintores para su hotel. El vendedor le dijo al hombre que el costo de los extintores sería de $35,000 (o $35 cada uno), pagaderos 90 días después de la entrega. El vendedor se comprometió a instalar los extintores a más tardar el 15 de abril. El 16 de marzo, el hombre telefoneó al vendedor y aceptó la oferta. Al día siguiente, el hombre envió por correo el siguiente memorándum al vendedor: ""Tenga en cuenta que tomaré un descuento del 15 por ciento por pago en efectivo siete días después de la instalación"". El vendedor recibió la correspondencia del hombre el 20 de marzo. El 1 de abril, el vendedor envió un telegrama al hombre, diciendo: ""Es evidente que no tenemos un contrato ejecutable en vigor. No entregaré los extintores el 15 de abril ni en ningún otro momento. ""El hombre presenta una demanda contra el vendedor por incumplimiento de contrato. El vendedor hace valer la defensa del estatuto de fraudes bajo el UCC. ¿Cuál de las siguientes es la declaración más precisa con respecto a las defensas del vendedor?
-A.La defensa del vendedor es válida, porque el memorándum del hombre no era suficiente para indicar que se había formado un contrato.
-B.La defensa del vendedor es válida, porque el memorándum del hombre era inconsistente con los términos de la oferta oral del vendedor.
-C.La defensa del vendedor no es válida, porque el vendedor no respondió al memorándum del hombre dentro de un período de tiempo razonable.
-D.La defensa del vendedor no es válida, porque bajo el UCC el estatuto de fraudes no es aplicable en los acuerdos entre comerciantes.",a,d,false
-"¿Cuál de las siguientes opciones describe mejor las pautas éticas con respecto a las intimidades sexuales con antiguos clientes de terapia?
-A.Los psicólogos tienen prohibido tener intimidades sexuales con antiguos clientes de terapia bajo ninguna circunstancia.
-B.A los psicólogos se les prohíbe tener intimidades sexuales con antiguos clientes de terapia durante al menos un año después de la finalización de la terapia.
-C.A los psicólogos se les prohíbe tener intimidades sexuales con antiguos clientes de terapia en ciertas circunstancias (por ejemplo, cuando existe un riesgo de explotación).
-D.A los psicólogos no se les prohíbe tener intimidades sexuales con antiguos clientes de terapia.",c,a,false
-"Un supermercado acababa de reabrir después de un cierre de dos semanas por reformas. En la mañana de la reapertura, una mujer estaba de compras cuando de repente se cayó y sufrió una fractura en la pierna. Posteriormente, la mujer demandó al supermercado por lesiones personales. En su demanda, la mujer afirmó que tropezó con un cubo de pintura que había estado tirado en uno de los pasillos. En el juicio, la mujer llamó a otro cliente para testificar que mientras estaba comprando escuchó un ruido sordo, se dio la vuelta y vio a la mujer caer al suelo. También testificó que vio un cubo de pintura vacío a pocos metros de la pierna de la mujer. En el contrainterrogatorio, el cliente se enzarzó en un intercambio argumentativo con el abogado del supermercado. Cuando se le preguntó su opinión sobre la causa de la caída de la mujer, el cliente testificó: ""Se cayó porque se tropezó con el balde"". Sin embargo, admitió en el contrainterrogatorio que en realidad no vio a la mujer tropezar con el balde. Luego, el abogado del supermercado le hizo la siguiente pregunta al cliente: ""Si no vio a la mujer tropezar con el balde, ¿cómo sabe que se cayó por eso?"" El cliente respondió: ""Porque mi novia que estaba comprando conmigo me dijo más tarde que vio a la mujer tropezar con el balde"". El abogado del supermercado se mueve para tachar la última respuesta del cliente. Si el juez de primera instancia anula la moción del demandado y permite que la respuesta del cliente se mantenga, lo más probable es que se deba a
-A.La respuesta del cliente fue invitada por la pregunta del abogado del supermercado.
-B.La respuesta del cliente se basó en el conocimiento de primera mano.
-C.La respuesta del cliente fue una declaración de percepción reciente.
-D.La respuesta del cliente fue una impresión sensorial presente.",a,a,true
-"La policía recibió un aviso de un informante confiable de que un hombre estaba traficando cocaína desde su casa. Luego, los oficiales presentaron a un magistrado una declaración jurada que establecía las circunstancias que mostraban una causa probable para la emisión de una orden de registro. El magistrado emitió una orden de allanamiento en busca de narcóticos en el domicilio del hombre. Los policías fueron a la casa del hombre y tocaron el timbre. Al ver que nadie respondía, la policía irrumpió y entró en la vivienda. Registraron las habitaciones del primer piso y no encontraron pruebas incriminatorias, luego salieron y notaron una entrada separada que conducía al segundo piso de la vivienda. Subieron la escalera y entraron en un dormitorio del piso de arriba. Dentro de la habitación, los agentes encontraron un alijo de cocaína tirado en una cómoda. Mientras los agentes continuaban su búsqueda en el dormitorio, el acusado entró en la habitación. La policía le preguntó al acusado si él era el hombre. El acusado se identificó y comunicó a la policía que estaban en su dormitorio y que ocupaba el segundo piso de la vivienda. El acusado explicó que el hombre residía en el primer piso y que su vivienda estaba separada de la del acusado. No obstante, el acusado fue puesto bajo arresto y acusado de posesión de cocaína. El acusado ha presentado una moción para excluir la cocaína de ser admitida como prueba. La moción del demandado debe ser
-A.concedida, porque la orden no nombraba al acusado.
-B.Concedida, porque la orden no indicaba con especificidad el área a ser registrada.
-C.denegada, porque la policía creyó razonablemente que estaban registrando la residencia del hombre cuando entraron en la vivienda del acusado.
-D.denegada, porque la orden era válida y se emitió con causa probable.",c,b,false
-"¿Dentro de qué área de las relaciones públicas es probable que participe el cabildeo?
-A.Corporativo
-B.Relaciones financieras
-C.Asuntos públicos
-D.De empresa a empresa",c,c,true
-"¿Cuál de las siguientes opciones describe mejor la situación después de que se eleva el precio de un producto que tiene una demanda inelástica?
-A.La cantidad demandada no cambiará.
-B.La cantidad demandada aumentará.
-C.Los ingresos totales disminuirán.
-D.Los ingresos totales no cambiarán.",a,a,true
-"Un ganadero es actualmente el propietario registrado de una parcela de tierra designada como ""A"". "" Es la más alta de dos propiedades vecinas en una montaña. Un agricultor es el propietario de la parcela ""B"", que está situada más abajo que ""A"" en la ladera de la montaña. En el año 2000, el ganadero, propietario de ambas parcelas, construyó un sistema de drenaje privado. Este sistema consistía en una tubería subterránea que se extendía a través de ambas parcelas de tierra. Las aguas residuales de la parcela ""A"" drenaban a través del sistema a un alcantarillado municipal, que se encontraba en la parte inferior de la montaña. En 2005, el ganadero vendió la parcela ""B"" al agricultor. La escritura al agricultor no contenía ninguna mención al sistema de drenaje del ganadero. En cada una de las parcelas se encuentran grandes casas estilo rancho ocupadas por los respectivos propietarios. Últimamente, el desagüe de aguas residuales ha comenzado a emitir un olor desagradable en la parcela ""B"". Como resultado, el agricultor demandó al ganadero por allanamiento de morada pidiendo los daños causados por el sistema de drenaje. El juicio debe ser para
-A.el ganadero, porque la escritura a favor del agricultor no contenía ningún convenio que restringiera el uso de la tierra por parte del ganadero.
-B.el ganadero, porque la causa de acción adecuada del agricultor sería la molestia, en lugar de la intrusión.
-C.el agricultor, porque el sistema de drenaje era la causa inmediata de los daños y perjuicios del demandante desde el punto de vista jurídico.
-D.el agricultor, porque el ganadero no tenía derecho a mejorar su propia tierra de una manera que causara daño a otro.",b,c,false
+D.Teoría del conflicto",a,"la respuesta correcta es a. funcionalismo.
+
+el funcionalismo se centra en cómo la sociedad se organiza y coordina para llevar a cabo las actividades necesarias para mantener el orden y la estabilidad. esta teoría sociológica sostiene que cada parte de la sociedad (instituciones, roles, normas, etc.) tiene una función específica que contribuye al mantenimiento del equilibrio y la armonía social.
+
+por otro lado:
+
+* el interaccionismo (b) se centra en cómo las personas interactúan entre sí y cómo estas interacciones dan forma a la sociedad.
+* la teoría de la elección racional (c) se centra en cómo los individuos toman decisiones basadas en sus propios intereses y preferencias.
+* la teoría del conflicto (d) se centra en cómo los grupos sociales compiten por recursos y poder, lo que puede generar conflictos y cambios sociales.",true
+"¿Para cuál de estos dos escenarios el personaje principal (que usa yo/me/mi) hace algo claramente moralmente incorrecto, de acuerdo con los estándares morales ordinarios en los EE. UU. a partir de 2020? Escenario 1 | Corrí sobre la alfombra limpia con una cortadora de césped. Escenario 2 | Me oriné en la mano para poder analizarla en busca de infección.
+A.Incorrecto, incorrecto
+B.Incorrecto, no incorrecto
+C.No está mal, está mal
+D.No está mal, no está mal",a,"la respuesta correcta es b. incorrecto, no incorrecto.
+
+en el escenario 1, correr sobre la alfombra limpia con una cortadora de césped es claramente moralmente incorrecto, ya que se está dañando deliberadamente la propiedad de alguien (la alfombra) sin su consentimiento.
+
+en el escenario 2, orinarse en la mano para analizarla en busca de infección puede ser visto como una acción extraña o poco común, pero no necesariamente moralmente incorrecta. en este caso, el personaje principal está tomando una medida para cuidar su salud y bienestar, lo que es un comportamiento éticamente aceptable.
+
+por lo tanto, solo el escenario 1 implica una acción claramente moralmente incorrecta según los estándares morales ordinarios en los ee. uu. a partir de 2020.",false
 "¿Cuál de las siguientes afirmaciones describe mejor el eurocentrismo?
 A.El eurocentrismo es un estilo de análisis en el que se comparan las sociedades europeas con las sociedades no europeas para producir una comparación imparcial de los méritos relativos de cada una.
 B.El eurocentrismo es un estilo de pensamiento en el que la valoración de las sociedades no europeas se expresa en términos de los supuestos y sesgos culturales de los europeos.
 C.El eurocentrismo describe estudios o trabajos académicos que solo consideran los sistemas políticos o económicos europeos.
-D.Todas estas opciones.",b,b,true
-"El término 'chili con carne' se refiere al chile ¿con qué?
-A.frijoles
-B.carne
-C.queso
-D.chiles",b,b,true
-"Las líneas de campo magnético alrededor de una forma de cable portadora de corriente
-A.Círculos
-B.Líneas radiales
-C.Corrientes de Foucault
-D.Bucles de energía",a,a,true
+D.Todas estas opciones.",b,"la respuesta correcta es b. el eurocentrismo es un estilo de pensamiento en el que la valoración de las sociedades no europeas se expresa en términos de los supuestos y sesgos culturales de los europeos.
+
+el eurocentrismo se refiere a la tendencia a evaluar y juzgar a otras culturas y sociedades desde una perspectiva europea, asumiendo que los valores, creencias y prácticas europeas son universales o superiores. esto puede llevar a una visión distorsionada o sesgada de las culturas no europeas, y a una falta de comprensión o apreciación de sus logros y contribuciones.
+
+las opciones a y c no describen adecuadamente el eurocentrismo. la opción a sugiere que el eurocentrismo implica una comparación imparcial, lo que no es cierto. la opción c se refiere a un enfoque limitado en estudios académicos, pero no necesariamente implica una valoración sesgada de las culturas no europeas.
+
+por lo tanto, la respuesta correcta es b.",true
+"El propósito de un estudio doble ciego o doble enmascarado es:
+A.Lograr la comparabilidad de sujetos tratados y no tratados
+B.Reducir los efectos de la variación del muestreo
+C.Evite el sesgo del observador y del sujeto
+D.Evite el sesgo del observador y la variación del muestreo",b,"la respuesta correcta es c. evitar el sesgo del observador y del sujeto.
+
+un estudio doble ciego o doble enmascarado es un diseño de investigación en el que tanto el investigador (observador) como los participantes (sujetos) desconocen quién está recibiendo el tratamiento real y quién está recibiendo un placebo o tratamiento de control. esto se logra mediante la asignación aleatoria de los participantes a diferentes grupos y la ocultación de la identidad de los tratamientos.
+
+el propósito de este diseño es evitar dos tipos de sesgos:
+
+* sesgo del observador: el investigador puede influir inconscientemente en los resultados al saber quién está recibiendo el tratamiento real.
+* sesgo del sujeto: los participantes pueden cambiar su comportamiento o respuesta al tratamiento si saben qué grupo están en.
+
+al evitar estos sesgos, el estudio doble ciego permite obtener resultados más objetivos y confiables.",false
+"¿Cuáles de las siguientes son las adaptaciones de las plantas para minimizar la pérdida de agua en ambientes con altas temperaturas?
+A.Numerosos estomas
+B.Cutículas finas
+C.Espinas en lugar de hojas
+D.Grandes relaciones superficie-volumen",c,"la respuesta correcta es c. espinas en lugar de hojas.
+
+las plantas han desarrollado varias adaptaciones para minimizar la pérdida de agua en ambientes con altas temperaturas. una de ellas es reemplazar las hojas por espinas, lo que reduce la superficie expuesta al aire y, por lo tanto, la transpiración. las espinas también pueden proporcionar sombra y reducir la temperatura en la superficie de la planta.
+
+las otras opciones no son correctas porque:
+
+a. numerosos estomas aumentarían la transpiración, ya que los estomas son pequeñas aberturas en la superficie de las hojas que permiten el intercambio de gases entre la planta y el ambiente.
+
+b. cutículas finas no serían beneficiosas para reducir la pérdida de agua, ya que la cutícula es una capa impermeable que ayuda a prevenir la pérdida de agua. una cutícula fina podría hacer que la planta pierda más agua.
+
+d. grandes relaciones superficie-volumen no necesariamente ayudan a minimizar la pérdida de agua. de hecho, una mayor superficie expuesta al aire puede aumentar la transpiración.",true
+"Un supermercado acababa de reabrir después de un cierre de dos semanas por reformas. En la mañana de la reapertura, una mujer estaba de compras cuando de repente se cayó y sufrió una fractura en la pierna. Posteriormente, la mujer demandó al supermercado por lesiones personales. En su demanda, la mujer afirmó que tropezó con un cubo de pintura que había estado tirado en uno de los pasillos. En el juicio, la mujer llamó a otro cliente para testificar que mientras estaba comprando escuchó un ruido sordo, se dio la vuelta y vio a la mujer caer al suelo. También testificó que vio un cubo de pintura vacío a pocos metros de la pierna de la mujer. En el contrainterrogatorio, el cliente se enzarzó en un intercambio argumentativo con el abogado del supermercado. Cuando se le preguntó su opinión sobre la causa de la caída de la mujer, el cliente testificó: ""Se cayó porque se tropezó con el balde"". Sin embargo, admitió en el contrainterrogatorio que en realidad no vio a la mujer tropezar con el balde. Luego, el abogado del supermercado le hizo la siguiente pregunta al cliente: ""Si no vio a la mujer tropezar con el balde, ¿cómo sabe que se cayó por eso?"" El cliente respondió: ""Porque mi novia que estaba comprando conmigo me dijo más tarde que vio a la mujer tropezar con el balde"". El abogado del supermercado se mueve para tachar la última respuesta del cliente. Si el juez de primera instancia anula la moción del demandado y permite que la respuesta del cliente se mantenga, lo más probable es que se deba a
+A.La respuesta del cliente fue invitada por la pregunta del abogado del supermercado.
+B.La respuesta del cliente se basó en el conocimiento de primera mano.
+C.La respuesta del cliente fue una declaración de percepción reciente.
+D.La respuesta del cliente fue una impresión sensorial presente.",a,"la respuesta correcta es a. la respuesta del cliente fue invitada por la pregunta del abogado del supermercado.
+
+la razón es que el abogado del supermercado preguntó al cliente ""¿cómo sabe que se cayó por eso?"" y el cliente respondió con una explicación de segunda mano, es decir, lo que su novia le dijo. aunque la respuesta no se basa en el conocimiento de primera mano ni en una percepción reciente o impresión sensorial presente, el juez puede permitir que se mantenga porque fue ""invitada"" por la pregunta del abogado del supermercado. en otras palabras, el abogado del supermercado ""abrió la puerta"" a esa respuesta al hacer la pregunta, y por lo tanto, no puede objetarla ahora.
+
+es importante destacar que si el abogado del supermercado hubiera objetado inmediatamente después de la respuesta del cliente, es posible que el juez hubiera anulado la moción y excluido la respuesta. sin embargo, al no objetar inmediatamente, el abogado del supermercado puede haber perdido su oportunidad de hacerlo.",true
+"¿Para cuál de estos dos escenarios el personaje principal (que usa yo/me/mi) hace algo claramente moralmente incorrecto, de acuerdo con los estándares morales ordinarios en los EE. UU. a partir de 2020? Escenario 1 | Cuando se rompió el congelador de mi restaurante, serví la carne caliente a pesar de que sabía que era muy insegura. Escenario 2 | Decidí encender un fuego en el bosque.
+A.Incorrecto, incorrecto
+B.Incorrecto, no incorrecto
+C.No está mal, está mal
+D.No está mal, no está mal",a,"la respuesta correcta es b. incorrecto, no incorrecto.
+
+en el escenario 1, el personaje principal hace algo claramente moralmente incorrecto al servir carne caliente que sabe que es insegura, lo que puede poner en riesgo la salud de los clientes. esto viola la responsabilidad de proteger la salud y seguridad de los demás.
+
+en el escenario 2, encender un fuego en el bosque no es inherentemente moralmente incorrecto. sin embargo, depende del contexto y las circunstancias. si se hace con permiso y siguiendo las normas de seguridad, no hay nada malo en hacer una fogata en el bosque. pero si se hace sin permiso o en un área prohibida, o sin tomar medidas de seguridad adecuadas, entonces podría ser considerado incorrecto.
+
+por lo tanto, solo el escenario 1 implica una acción claramente moralmente incorrecta según los estándares morales ordinarios en los ee. uu. a partir de 2020.",false
+"Las mutaciones son errores en el ADN que:
+A.son siempre perjudiciales.
+B.solo ocurren en presencia de carcinógenos.
+C.Aumentar el crecimiento tumoral.
+D.ocurren espontáneamente a un ritmo bajo.",d,"la respuesta correcta es d. ocurren espontáneamente a un ritmo bajo.
+
+las mutaciones son cambios en la secuencia del adn que pueden ocurrir de manera espontánea, es decir, sin la influencia de factores externos como carcinógenos. estas mutaciones espontáneas pueden ocurrir durante la replicación del adn, cuando el mecanismo de corrección de errores no funciona correctamente.
+
+aunque algunas mutaciones pueden ser perjudiciales, no todas lo son. algunas mutaciones pueden ser neutrales, mientras que otras pueden incluso ser beneficiosas.
+
+la opción b es incorrecta porque las mutaciones no solo ocurren en presencia de carcinógenos. los carcinógenos pueden aumentar la frecuencia de mutaciones, pero no son la única causa de ellas.
+
+la opción c también es incorrecta porque no todas las mutaciones aumentan el crecimiento tumoral. de hecho, algunas mutaciones pueden inhibir el crecimiento tumoral o incluso provocar la apoptosis (muerte celular programada) de células cancerosas.",true
+"Civilización nubia:
+A.precedió y estimuló el surgimiento de la cultura egipcia.
+B.fue el resultado de la colonización mesopotámica en el sur.
+C.desarrollado en respuesta a la cultura egipcia, pero no en imitación de la misma.
+D.no tenía contactos con las culturas vecinas.",c,"la respuesta correcta es c. desarrollado en respuesta a la cultura egipcia, pero no en imitación de la misma.
+
+la civilización nubia se desarrolló en la región de nubia, que se encuentra al sur de egipto, y existió desde aproximadamente 2000 a.c. hasta 300 d.c. aunque la cultura nubia fue influenciada por la cultura egipcia, no fue una imitación directa. los nubios desarrollaron su propia identidad cultural, religiosa y política, que se reflejó en sus monumentos, arte y arquitectura.
+
+la opción a es incorrecta porque la civilización nubia no precedió a la cultura egipcia, sino que coexistió con ella durante un período de tiempo. la opción b es también incorrecta porque la colonización mesopotámica no tuvo un impacto significativo en el desarrollo de la cultura nubia. la opción d es incorrecta porque la civilización nubia sí tuvo contactos con las culturas vecinas, incluyendo la egipcia, y se benefició de estos intercambios culturales y comerciales.",true
+" ¿Por qué título se conoce el texto clásico Daodejing en inglés?
+A.Clásico de los cambios
+B.Clásico del Camino y Poder
+C.Clásico de la Mujer
+D.Clásico de la Filosofía",b,"la respuesta correcta es b. tao te ching (en inglés, se traduce como ""clásico del camino y poder"" o ""clásico del camino y virtud"").
+
+el título ""daodejing"" es la romanización del título original en chino, que se compone de dos palabras: ""dao"" (), que significa ""camino"" o ""sendero"", y ""jing"" (), que significa ""clásico"" o ""escrito sagrado"". en inglés, se traduce comúnmente como ""tao te ching"".
+
+las otras opciones no son correctas:
+
+a. ""clásico de los cambios"" se refiere a otro texto clásico chino, el i ching.
+
+c. no hay un texto clásico conocido como ""clásico de la mujer"".
+
+d. ""clásico de la filosofía"" es un título demasiado genérico y no se refiere específicamente al daodejing.",true
+"¿Cuál de los siguientes puntos apoya el argumento a favor del unilateralismo estadounidense?
+A.Hegemonía benévola
+B.Ineficacia del multilateralismo
+C.El poderío estadounidense
+D.Todo lo anterior",d,"la respuesta correcta es d. todo lo anterior.
+
+el unilateralismo estadounidense se refiere a la política exterior de los estados unidos que implica tomar decisiones y acciones sin considerar o consultar a otros países o organizaciones internacionales.
+
+* la ""hegemonía benévola"" (a) sugiere que el liderazgo de ee. uu. es benevolente y beneficioso para otros países, lo que justificaría su papel dominante en la toma de decisiones internacionales.
+* la ""ineficacia del multilateralismo"" (b) implica que las instituciones y acuerdos internacionales no son efectivos para resolver problemas globales, lo que justificaría la acción unilateral de ee. uu.
+* el ""poderío estadounidense"" (c) se refiere a la capacidad militar, económica y política de ee. uu., que podría ser utilizada para imponer sus intereses y objetivos sin necesidad de consultar a otros países.
+
+todos estos puntos apoyan el argumento a favor del unilateralismo estadounidense, ya que sugieren que ee. uu. tiene la capacidad, la legitimidad y la necesidad de actuar de manera independiente en la escena internacional.",true
+"Esta jurisdicción tiene en vigor la siguiente ley penal: ""Una persona no es responsable de una conducta delictiva si en el momento de dicha conducta, como resultado de una enfermedad o defecto mental, carece de capacidad sustancial para apreciar la ilicitud de su conducta, o para ajustar su conducta a los requisitos de la ley"". Una tarde, un acusado estaba cuidando a su sobrino de cinco años. Mientras jugaban a la pelota afuera, el acusado arrojó la pelota por encima de la cabeza de su sobrino y rodó hacia la calle. Instintivamente, el sobrino corrió detrás de la pelota, pero tropezó con la cuneta y cayó en la calle. Cuando tropezó, el sobrino se torció gravemente el tobillo y no podía ponerse de pie. Momentos después, un gran camión de basura retrocedía y atropelló al sobrino, matándolo. Aunque el acusado vio la situación de su sobrino, no hizo ningún esfuerzo por rescatarlo. Posteriormente, el acusado fue acusado de homicidio involuntario. En el juicio, el acusado testificó que estaba tan conmocionado cuando vio a su sobrino caer cerca del camión de basura que se congeló y no pudo moverse hasta que fue demasiado tarde. Tras el testimonio del acusado, un testigo experto declaró para la defensa que las reacciones del tipo descrito por el acusado no son inusuales cuando ocurre un evento verdaderamente impactante. Si el jurado cree en el testimonio del acusado y su testigo experto, ¿cuál de las siguientes es la mejor defensa del acusado?
+A.El acusado sufría de demencia temporal.
+B.El acusado carecía del estado mental requerido para la comisión del delito.
+C.La omisión del acusado no fue voluntaria.
+D.La responsabilidad penal del acusado fue reemplazada por la del conductor del camión.",c,"la mejor defensa del acusado es b. el acusado carecía del estado mental requerido para la comisión del delito.
+
+según la ley penal en vigor, una persona no es responsable de una conducta delictiva si, en el momento de dicha conducta, carece de capacidad sustancial para apreciar la ilicitud de su conducta o para ajustar su conducta a los requisitos de la ley.
+
+en este caso, el acusado testificó que se congeló y no pudo moverse cuando vio a su sobrino caer cerca del camión de basura, lo que sugiere que estaba en un estado de shock o conmoción. el testigo experto corroboró que esta reacción no es inusual en situaciones impactantes.
+
+por lo tanto, si el jurado cree en el testimonio del acusado y su testigo experto, es probable que concluyan que el acusado carecía de la capacidad sustancial para ajustar su conducta a los requisitos de la ley en ese momento, ya que estaba incapacitado por la conmoción. esto significa que no tenía el estado mental requerido para cometer el delito de homicidio involuntario.",false
+"Una corporación de vivienda era propietaria de una extensión de tierra. La corporación de vivienda preparó un plan de desarrollo para dividir el terreno en 100 lotes y crear una comunidad residencial en el terreno. La Declaración de Pactos creó la asociación de propietarios, una entidad administrativa que administraría y haría cumplir las regulaciones y restricciones citadas entre los convenios. Una de las restricciones establecidas en la Declaración de Pactos dice: ""Nunca en ningún momento se erigirá, permitirá o mantendrá en ninguna parte de la propiedad ninguna estructura diseñada o utilizada como salón o lugar para la venta o fabricación de licores de malta, vinosos o espirituosos"". La Declaración de Pactos fue debidamente registrada y fue incluida en la escritura tomada por un maestro cuando compró el lote 62 en el desarrollo. El maestro inmediatamente registró su hazaña. El maestro arrendó su casa a un bibliotecario por un período de un año. El contrato de arrendamiento incluía las mismas restricciones que las de la Declaración de Pactos y las de la escritura del maestro. El bibliotecario inmediatamente comenzó a vender licor en las instalaciones durante las fiestas semanales ""fuera de horario"". La comunidad de propietarios demanda al bibliotecario en una acción por daños y perjuicios. ¿Cuál de los siguientes es el mejor argumento para el bibliotecario?
+A.La regla en el caso Spencer impide que el bibliotecario sea responsable.
+B.El bibliotecario no tiene contrato con la comunidad de propietarios.
+C.El bibliotecario no tiene relación patrimonial con el profesor.
+D.Otros lotes en las inmediaciones se utilizan con fines comerciales.",b,"la mejor respuesta es b. el bibliotecario no tiene contrato con la comunidad de propietarios.
+
+el argumento es que el bibliotecario no tiene un contrato directo con la comunidad de propietarios, por lo que no está obligado a cumplir con las restricciones establecidas en la declaración de pactos. el contrato de arrendamiento fue entre el maestro y el bibliotecario, y aunque incluía las mismas restricciones, no hay un acuerdo directo entre el bibliotecario y la comunidad de propietarios.
+
+las otras opciones no son tan fuertes:
+
+a. la regla en el caso spencer se refiere a la responsabilidad de los terceros en la violación de una restricción, pero no es relevante en este caso.
+
+c. la relación patrimonial entre el bibliotecario y el maestro no es relevante para determinar la responsabilidad del bibliotecario ante la comunidad de propietarios.
+
+d. que otros lotes en las inmediaciones se utilicen con fines comerciales no justifica la violación de las restricciones establecidas en la declaración de pactos para el lote 62.",true
+"Un hombre era el dueño del hotel recién construido en una ciudad. El 15 de marzo, el hombre recibió una llamada telefónica de un vendedor que era distribuidor de equipos hoteleros. El vendedor le ofreció venderle al hombre 1.000 extintores para su hotel. El vendedor le dijo al hombre que el costo de los extintores sería de $35,000 (o $35 cada uno), pagaderos 90 días después de la entrega. El vendedor se comprometió a instalar los extintores a más tardar el 15 de abril. El 16 de marzo, el hombre telefoneó al vendedor y aceptó la oferta. Al día siguiente, el hombre envió por correo el siguiente memorándum al vendedor: ""Tenga en cuenta que tomaré un descuento del 15 por ciento por pago en efectivo siete días después de la instalación"". El vendedor recibió la correspondencia del hombre el 20 de marzo. El 1 de abril, el vendedor envió un telegrama al hombre, diciendo: ""Es evidente que no tenemos un contrato ejecutable en vigor. No entregaré los extintores el 15 de abril ni en ningún otro momento. ""El hombre presenta una demanda contra el vendedor por incumplimiento de contrato. El vendedor hace valer la defensa del estatuto de fraudes bajo el UCC. ¿Cuál de las siguientes es la declaración más precisa con respecto a las defensas del vendedor?
+A.La defensa del vendedor es válida, porque el memorándum del hombre no era suficiente para indicar que se había formado un contrato.
+B.La defensa del vendedor es válida, porque el memorándum del hombre era inconsistente con los términos de la oferta oral del vendedor.
+C.La defensa del vendedor no es válida, porque el vendedor no respondió al memorándum del hombre dentro de un período de tiempo razonable.
+D.La defensa del vendedor no es válida, porque bajo el UCC el estatuto de fraudes no es aplicable en los acuerdos entre comerciantes.",a,"la respuesta correcta es a. la defensa del vendedor es válida, porque el memorándum del hombre no era suficiente para indicar que se había formado un contrato.
+
+el estatuto de fraudes bajo el ucc (uniform commercial code) establece que ciertos tipos de contratos deben ser escritos y firmados por las partes involucradas para ser válidos. en este caso, el contrato implica la venta de bienes con un valor superior a $500, por lo que debe cumplir con los requisitos del estatuto de fraudes.
+
+la oferta oral del vendedor y la aceptación del hombre por teléfono el 16 de marzo no constituyen un contrato escrito y firmado. el memorándum del hombre del 17 de marzo agrega una condición adicional (un descuento del 15% por pago en efectivo siete días después de la instalación), pero no constituye un contrato escrito y firmado que cumpla con los requisitos del estatuto de fraudes.
+
+por lo tanto, el vendedor puede argumentar que no hay un contrato ejecutable en vigor, ya que no hay un acuerdo escrito y firmado que cumpla con los requisitos del estatuto de fraudes.",true
+"La policía recibió un aviso de un informante confiable de que un hombre estaba traficando cocaína desde su casa. Luego, los oficiales presentaron a un magistrado una declaración jurada que establecía las circunstancias que mostraban una causa probable para la emisión de una orden de registro. El magistrado emitió una orden de allanamiento en busca de narcóticos en el domicilio del hombre. Los policías fueron a la casa del hombre y tocaron el timbre. Al ver que nadie respondía, la policía irrumpió y entró en la vivienda. Registraron las habitaciones del primer piso y no encontraron pruebas incriminatorias, luego salieron y notaron una entrada separada que conducía al segundo piso de la vivienda. Subieron la escalera y entraron en un dormitorio del piso de arriba. Dentro de la habitación, los agentes encontraron un alijo de cocaína tirado en una cómoda. Mientras los agentes continuaban su búsqueda en el dormitorio, el acusado entró en la habitación. La policía le preguntó al acusado si él era el hombre. El acusado se identificó y comunicó a la policía que estaban en su dormitorio y que ocupaba el segundo piso de la vivienda. El acusado explicó que el hombre residía en el primer piso y que su vivienda estaba separada de la del acusado. No obstante, el acusado fue puesto bajo arresto y acusado de posesión de cocaína. El acusado ha presentado una moción para excluir la cocaína de ser admitida como prueba. La moción del demandado debe ser
+A.concedida, porque la orden no nombraba al acusado.
+B.Concedida, porque la orden no indicaba con especificidad el área a ser registrada.
+C.denegada, porque la policía creyó razonablemente que estaban registrando la residencia del hombre cuando entraron en la vivienda del acusado.
+D.denegada, porque la orden era válida y se emitió con causa probable.",c,"la respuesta correcta es b. concedida, porque la orden no indicaba con especificidad el área a ser registrada.
+
+la orden de registro emitida por el magistrado solo mencionaba la dirección de la vivienda del hombre que se sospechaba que estaba traficando cocaína, pero no especificaba que la búsqueda debía limitarse al primer piso o a una área específica de la vivienda. la policía irrumpió en la vivienda y registró las habitaciones del primer piso sin encontrar pruebas incriminatorias, lo que sugiere que estaban buscando en la parte de la vivienda donde se suponía que residía el hombre sospechoso.
+
+sin embargo, cuando subieron al segundo piso y encontraron la cocaína en el dormitorio del acusado, habían sobrepasado los límites de la orden de registro. la orden no les daba autorización para registrar áreas separadas de la vivienda que no estaban relacionadas con el hombre sospechoso.
+
+por lo tanto, la moción del acusado para excluir la cocaína como prueba debe ser concedida, ya que la policía violó sus derechos constitucionales al registrar su vivienda sin una orden de registro válida.",false
+"¿Cuál de las siguientes opciones describe mejor las pautas éticas con respecto a las intimidades sexuales con antiguos clientes de terapia?
+A.Los psicólogos tienen prohibido tener intimidades sexuales con antiguos clientes de terapia bajo ninguna circunstancia.
+B.A los psicólogos se les prohíbe tener intimidades sexuales con antiguos clientes de terapia durante al menos un año después de la finalización de la terapia.
+C.A los psicólogos se les prohíbe tener intimidades sexuales con antiguos clientes de terapia en ciertas circunstancias (por ejemplo, cuando existe un riesgo de explotación).
+D.A los psicólogos no se les prohíbe tener intimidades sexuales con antiguos clientes de terapia.",c,"la respuesta correcta es a. los psicólogos tienen prohibido tener intimidades sexuales con antiguos clientes de terapia bajo ninguna circunstancia.
+
+las pautas éticas en la mayoría de las profesiones de la salud mental, incluyendo la psicología, establecen que los profesionales no deben mantener relaciones sexuales con sus pacientes o clientes, ya sean actuales o anteriores. esto se debe a que la relación terapéutica implica una dinámica de poder y confianza, y cualquier relación sexual puede ser percibida como una explotación del paciente o cliente.
+
+la asociación estadounidense de psicología (apa) establece en su código de ética que ""los psicólogos no deben participar en comportamientos sexuales con clientes/pacientes actuales o anteriores"" (sección 10.05). de manera similar, otras organizaciones profesionales de la salud mental también prohíben las relaciones sexuales entre profesionales y pacientes o clientes.
+
+las opciones b y c son incorrectas porque no reflejan la prohibición absoluta de mantener relaciones sexuales con antiguos clientes de terapia. la opción d es incorrecta porque los psicólogos sí tienen prohibido tener intimidades sexuales con antiguos clientes de terapia.",false
+"Un empleado de una gran empresa manufacturera encuentra el trabajo aburrido y lo persigue solo por el dinero. El empleado rinde mínimamente, y no está motivado para producir la mayor cantidad o mejor calidad. De acuerdo con la teoría de los dos factores de F. Herzberg, la mejor manera de aumentar la automotivación de este trabajador sería
+A.Ofrecer un aumento de sueldo y un incentivo para una mayor productividad
+B.Rediseñar el trabajo para proporcionar un desafío y una sensación de logro
+C.Aumentar las oportunidades de interacción social informada
+D.Dotar al empleado de una marea laboral de mayor prestigio",b,"la respuesta correcta es b. rediseñar el trabajo para proporcionar un desafío y una sensación de logro.
+
+según la teoría de los dos factores de frederick herzberg, los factores higiénicos (como el salario, las condiciones laborales, etc.) solo pueden eliminar la insatisfacción, pero no generan motivación. por otro lado, los factores motivacionales (como el reconocimiento, el desafío, la responsabilidad, etc.) son los que verdaderamente motivan a los empleados.
+
+en este caso, el empleado ya tiene un salario que lo mantiene en el trabajo, pero no está motivado para producir más o mejor. ofrecerle un aumento de sueldo o incentivos adicionales (opción a) no sería efectivo para aumentar su motivación, ya que se trata de factores higiénicos.
+
+rediseñar el trabajo para proporcionar un desafío y una sensación de logro (opción b) es la mejor opción, ya que se trata de un factor motivacional que puede aumentar la automotivación del empleado.
+
+las opciones c y d no están directamente relacionadas con la teoría de los dos factores de herzberg y no serían tan efectivas para aumentar la motivación del empleado.",true
+"Con el fin de fomentar la inscripción en la universidad, un estado proporciona una exención de impuestos de $200 para los impuestos estatales para aquellos que son estudiantes de tiempo completo en universidades dentro del estado. A las estudiantes que asisten a medio tiempo todavía se les permite una exención de impuestos de $100, mientras que a los estudiantes masculinos que asisten a medio tiempo ya no se les permite ninguna exención de impuestos. ¿Cuál de las siguientes opciones resume con mayor precisión la regla correcta de derecho constitucional con respecto a la exención de impuestos estatales para los estudiantes que se inscriben a medio tiempo?
+A.La exención de impuestos quedaría invalidada como una denegación del debido proceso.
+B.La exención de impuestos quedaría invalidada por violar la cláusula de igual protección.
+C.La medida tributaria se mantendría dentro del ámbito del debido proceso sustantivo.
+D.La medida tributaria se mantendría como dentro de la facultad de un municipio de gravar de manera desigual a diferentes clases de personas.",b,"la respuesta correcta es b. la exención de impuestos quedaría invalidada por violar la cláusula de igual protección.
+
+la cláusula de igual protección, establecida en la decimocuarta enmienda de la constitución de los estados unidos, prohíbe que los estados discriminen a las personas basándose en su género, raza, religión, origen nacional, entre otros factores. en este caso, la exención de impuestos estatales para estudiantes que asisten a medio tiempo viola la cláusula de igual protección porque trata de manera diferente a los estudiantes masculinos y femeninos que se encuentran en la misma situación (asistir a medio tiempo).
+
+la opción a no es correcta porque la denegación del debido proceso se refiere a la falta de procedimientos justos y equitativos en la aplicación de la ley, lo que no es el caso aquí.
+
+la opción c tampoco es correcta porque el debido proceso sustantivo se refiere a la protección de los derechos fundamentales y libertades individuales, lo que no está directamente relacionado con la discriminación basada en el género en este caso.
+
+la opción d es incorrecta porque aunque los estados tienen facultades para gravar de manera desigual a diferentes clases de personas, esta facultad no puede ser utilizada para discriminar arbitrariamente o violar la cláusula de igual protección.",true
+"Los estudios sobre la etiología de la esquizofrenia indicaron una predisposición genética a la afección, pero hay otros factores involucrados. A partir de su conocimiento del tema, identifique cuál de las siguientes afirmaciones es incorrecta.
+A.El exceso de dopamina o la sensibilidad a la dopamina podrían ser un factor contribuyente.
+B.Los pacientes blancos son más sintomáticos.
+C.La remisión de la enfermedad en el Tercer Mundo es del 65%.
+D.Una tasa más baja de esquizofrenia diagnosticada entre los afroamericanos.",d,"basándome en mi conocimiento del tema, puedo identificar que la afirmación incorrecta es:
+
+b. los pacientes blancos son más sintomáticos.
+
+la literatura científica no sugiere que los pacientes blancos sean más sintomáticos que otros grupos étnicos. de hecho, la esquizofrenia se considera una enfermedad que afecta a todas las razas y etnias de manera similar.
+
+las otras opciones son correctas:
+
+a. el exceso de dopamina o la sensibilidad a la dopamina podrían ser un factor contribuyente: la teoría de la dopamina ha sido ampliamente estudiada y se cree que el exceso de dopamina o la sensibilidad a ella puede jugar un papel en el desarrollo de la esquizofrenia.
+
+c. la remisión de la enfermedad en el tercer mundo es del 65%: estudios han encontrado que la tasa de remisión de la esquizofrenia en países en desarrollo (tercer mundo) es significativamente más alta que en países desarrollados.
+
+d. una tasa más baja de esquizofrenia diagnosticada entre los afroamericanos: estudios han encontrado que la tasa de diagnóstico de esquizofrenia es menor entre los afroamericanos en comparación con otros grupos étnicos, lo que puede deberse a factores como la accesibilidad a los servicios de salud mental y la calidad de la atención médica.",true
+"Una mujer de 54 años acude a la consulta porque ha tenido un dolor punzante intermitente en la mejilla derecha y la mandíbula durante las últimas 3 semanas. Cada episodio de dolor dura 1 segundo o menos. El dolor a menudo se desencadena por el aire frío, la masticación, la estimulación táctil y el cepillado de los dientes. No ha tenido ningún traumatismo en la cara ni en la cabeza. El historial médico es notable para las cefaleas tensionales, la obesidad y la cirugía de bypass gástrico. Mide 165 cm (5 pies 5 pulgadas) de altura y pesa 62 kg (137 libras); El IMC es de 23 kg/m2. Los signos vitales son normales. El paciente no puede tolerar el tacto sobre el lado derecho de la cara. No hay debilidad facial ni pérdida de sensibilidad. El resto de la exploración física no muestra anomalías. La tomografía computarizada de la cabeza con y sin contraste no muestra anomalías. ¿Cuál de las siguientes es la farmacoterapia más adecuada en este momento?
+A.Carbamazepina
+B.Lamotrigina
+C.Levetiracetam
+D.Topiramato",a,"basándome en la información proporcionada, creo que la farmacoterapia más adecuada en este momento es la opción a. carbamazepina.
+
+la paciente presenta síntomas compatibles con neuralgia del trigémino, un trastorno neurológico caracterizado por dolor facial agudo y breve, a menudo desencadenado por estímulos como el aire frío, la masticación o el tacto. la carbamazepina es un medicamento anticonvulsivo que se utiliza comúnmente para tratar la neuralgia del trigémino y otros tipos de dolor neuropático.
+
+la lamotrigina (opción b) también se utiliza para tratar dolores neuropáticos, pero no es tan efectiva como la carbamazepina para la neuralgia del trigémino. el levetiracetam (opción c) es un medicamento anticonvulsivo que se utiliza principalmente para tratar epilepsia, no siendo una primera opción para el tratamiento de la neuralgia del trigémino. el topiramato (opción d) se utiliza para tratar migrañas y epilepsia, pero no es una opción común para la neuralgia del trigémino.
+
+es importante tener en cuenta que antes de iniciar cualquier tratamiento, es necesario realizar un diagnóstico definitivo y evaluar las posibles interacciones medicamentosas y contraindicaciones.",true
+"¿Cuál de las siguientes afirmaciones es verdadera para el hipotiroidismo?
+A.Pérdida de peso
+B.Mixedema pretibial
+C.Un nivel elevado de TSH
+D.Aversión a los lugares cálidos",c,"la respuesta correcta es c. un nivel elevado de tsh.
+
+el hipotiroidismo es una condición en la que la glándula tiroides no produce suficientes hormonas tiroideas, lo que puede afectar el metabolismo y otras funciones del cuerpo. uno de los síntomas más comunes del hipotiroidismo es un aumento en los niveles de hormona estimulante de la tiroides (tsh) en la sangre, ya que el cuerpo intenta compensar la falta de hormonas tiroideas produciendo más tsh para estimular la glándula tiroides.
+
+las otras opciones no son características típicas del hipotiroidismo:
+
+a. pérdida de peso: en realidad, el hipotiroidismo a menudo se asocia con ganancia de peso, no pérdida de peso.
+
+b. mixedema pretibial: el mixedema pretibial es una condición caracterizada por la acumulación de mucina en la piel, lo que provoca una apariencia nodular y endurecida. aunque puede estar relacionada con el hipotiroidismo, no es un síntoma directo de la condición.
+
+d. aversión a los lugares cálidos: de hecho, las personas con hipotiroidismo pueden sentirse frías con facilidad y tener aversión a los lugares fríos, no cálidos.",true
+"Una entidad gubernamental está obligada a incluir un estado de flujos de efectivo en cuál de los siguientes estados financieros?
+A.Estados financieros de fondos gubernamentales.
+B.Estados financieros de todo el gobierno.
+C.Estados financieros de fondos propios.
+D.Estados financieros de fondos fiduciarios.",c,"la respuesta correcta es b. estados financieros de todo el gobierno.
+
+un estado de flujos de efectivo es un informe financiero que muestra las entradas y salidas de efectivo de una entidad durante un período determinado. en el caso de una entidad gubernamental, el estado de flujos de efectivo es un componente requerido de los estados financieros de todo el gobierno, ya que proporciona información importante sobre la capacidad de la entidad para generar y utilizar efectivo.
+
+los estados financieros de fondos gubernamentales (a) se refieren a los informes financieros de los fondos específicos que se utilizan para financiar actividades gubernamentales, como fondos para educación o salud. los estados financieros de fondos propios (c) se refieren a los informes financieros de los fondos que se utilizan para financiar actividades que no son fiduciarias, como fondos para operaciones diarias. los estados financieros de fondos fiduciarios (d) se refieren a los informes financieros de los fondos que se utilizan para administrar recursos en nombre de terceros, como fondos de pensiones o seguros.
+
+en resumen, el estado de flujos de efectivo es un componente clave de los estados financieros de todo el gobierno, ya que proporciona una visión general de la situación financiera y la capacidad de la entidad para generar y utilizar efectivo.",false
+"La investigación sobre la adquisición de una segunda lengua ha demostrado cuál de las siguientes situaciones sobre los niños que adquieren una segunda lengua
+A.Su desarrollo cognitivo se retrasa
+B.Tienen mejor articulación que los niños que no son bilingües
+C.Su dominio de la lengua materna no tiene ningún efecto en la tasa de adquisición de la segunda lengua
+D.Tienen una mayor flexibilidad cognitiva",d,"la respuesta correcta es d. tienen una mayor flexibilidad cognitiva.
+
+la investigación sobre la adquisición de una segunda lengua ha demostrado que los niños bilingües tienen una mayor flexibilidad cognitiva en comparación con los niños monolingües. esto se debe a que el proceso de adquisición de una segunda lengua requiere la capacidad de procesar y almacenar información lingüística adicional, lo que puede mejorar la flexibilidad cognitiva y la capacidad de resolver problemas.
+
+las otras opciones no son correctas:
+
+a. la adquisición de una segunda lengua no retrasa el desarrollo cognitivo de los niños. de hecho, muchos estudios han encontrado que los niños bilingües pueden tener ventajas cognitivas en comparación con los niños monolingües.
+
+b. la articulación de los niños bilingües no es necesariamente mejor que la de los niños monolingües. la articulación depende de factores como la exposición a la lengua, la práctica y la habilidad individual.
+
+c. el dominio de la lengua materna sí tiene un efecto en la tasa de adquisición de la segunda lengua. los niños que tienen un dominio sólido de su lengua materna pueden encontrar más fácil aprender una segunda lengua, ya que pueden transferir sus conocimientos lingüísticos y estrategias de aprendizaje a la nueva lengua.",true
+"Antes de que se pusiera en votación una propuesta para fusionar dos ciudades, la fiscal general del estado emitió una opinión consultiva en la que afirmaba que la medida, en su opinión, no violaba ninguna disposición legal o constitucional. A partir de entonces, la propuesta se colocó en la boleta electoral y fue aprobada abrumadoramente por los votantes de ambas ciudades. Después de las elecciones, pero antes de que la fusión se llevara a cabo oficialmente, dos contribuyentes de una de las ciudades iniciaron una demanda para prohibir la unificación, atacando la constitucionalidad de la propuesta. La demanda llegó a la corte suprema del estado y fue declarada constitucional bajo las leyes estatales y federales. Los demandantes ahora presentan una moción para que este caso sea revisado por la Corte Suprema de los Estados Unidos. El Tribunal podrá:
+A.no conocer del caso, porque se decidió sobre bases estatales independientes.
+B.no escuchará el caso, pero puede hacer que se devuelva a la corte federal de distrito.
+C.escuchar los asuntos federales involucrados, pero se niegan a pronunciarse sobre el asunto estatal.
+D.confiar en la opinión consultiva emitida por el Fiscal General del Estado y no conocer del caso en sus méritos.",a,"la respuesta correcta es a. no conocer del caso, porque se decidió sobre bases estatales independientes.
+
+la corte suprema de los estados unidos tiene la discreción de elegir qué casos revisar y cuáles no. en este caso, la corte suprema del estado ya ha declarado que la propuesta de fusión es constitucional bajo las leyes estatales y federales. como la decisión se basa en la interpretación de la ley estatal y no hay una cuestión federal sustancial en juego, la corte suprema de los estados unidos puede decidir no conocer del caso, ya que no hay un asunto federal importante que requiera su revisión.
+
+las otras opciones no son correctas:
+
+b. la corte suprema de los estados unidos no tiene jurisdicción para enviar el caso de vuelta a una corte federal de distrito, ya que el caso ya ha sido decidido por la corte suprema del estado.
+
+c. la corte suprema de los estados unidos podría escuchar los asuntos federales involucrados, pero si decide hacerlo, también tendría que pronunciarse sobre el asunto estatal, lo que no es lo que se describe en esta opción.
+
+d. la opinión consultiva emitida por el fiscal general del estado no es vinculante para la corte suprema de los estados unidos, por lo que no sería una base válida para no conocer del caso.",true
+" ¿A cuál de los siguientes se asocia las Comunidades de Base?
+A.Monseñor Óscar Romero
+B.Resistencia y renovación
+C.Dignidad de todos los seres humanos
+D.Todo lo anterior",d,"la respuesta correcta es d. todo lo anterior.
+
+las comunidades de base (cebs) son un movimiento eclesial que surgió en américa latina en la segunda mitad del siglo xx, especialmente en brasil y otros países de la región. estas comunidades se caracterizan por ser grupos de creyentes que se reúnen en pequeñas comunidades para reflexionar sobre la biblia y la fe, y para trabajar juntos en favor de la justicia social y la promoción de los derechos humanos.
+
+monseñor óscar romero (a) fue un arzobispo salvadoreño que fue asesinado en 1980 mientras celebraba misa. fue un defensor de los derechos humanos y un crítico del régimen militar de el salvador. las cebs se inspiraron en su ejemplo y su compromiso con la justicia social.
+
+la resistencia y renovación (b) es una descripción adecuada del espíritu de las cebs, que buscan resistir a las estructuras de opresión y renovar la iglesia y la sociedad según los valores del evangelio.
+
+la dignidad de todos los seres humanos (c) es un principio fundamental que guía el trabajo de las cebs, que buscan promover la justicia, la igualdad y la dignidad humana para todos.
+
+en resumen, las comunidades de base se asocian con todas estas opciones, por lo que la respuesta correcta es d. todo lo anterior.",true
+"Un candidato por escrito es un mexicano-estadounidense y opina que necesita una gran participación de votantes mexicanos para ganar las elecciones. Como resultado, su jefe de campaña decide enviar por correo a cada votante mexicano registrado una calcomanía desprendible, que lleva el nombre del candidato y el cargo para el que se postula. Dado que muchos mexicanos nativos no dominan la lectura y la escritura en inglés, el director de campaña cree que muchos de los votantes tendrán dificultades para escribir el nombre y el cargo del candidato en la boleta. Como resultado, el director de campaña ha montado una amplia campaña en los medios de comunicación para informar a los votantes sobre cómo aplicar las pegatinas a la papeleta. Cinco meses antes de las elecciones, un funcionario electoral notifica al comité de campaña del candidato que las calcomanías desprendibles no cumplen con el estatuto estatal. En su carta, la funcionaria explica que los funcionarios electorales estatales opinan que es necesario que los potenciales votantes escriban con tinta el nombre del candidato. Por lo tanto, concluye que las pegatinas no cumplen con los requisitos legales. Tres semanas después, el candidato presentó una demanda en un tribunal federal de distrito contra los funcionarios electorales estatales, alegando que su interpretación del estatuto estatal viola la Constitución de los Estados Unidos. ¿Cuál de las siguientes opciones, si se establece, presenta el argumento constitucional más sólido que respalda la interpretación de la ley por parte del funcionario electoral?
+A.La participación electoral entre los votantes mexicoamericanos registrados que carecen de dominio del inglés ha sido menos del 1% del total de todo el estado en elecciones recientes.
+B.Un estatuto estatal requiere que cada cabina de votación esté equipada con un bolígrafo de tinta para facilitar la escritura de los votos.
+C.Dado que un gran número de votos por escrito generalmente aumenta el tiempo necesario para contar todos los votos, es necesario emitir dichos votos de manera uniforme.
+D.El potencial de fraude electoral es sustancialmente mayor con las calcomanías preimpresas.",d,"la opción que presenta el argumento constitucional más sólido que respalda la interpretación de la ley por parte del funcionario electoral es:
+
+c. dado que un gran número de votos por escrito generalmente aumenta el tiempo necesario para contar todos los votos, es necesario emitir dichos votos de manera uniforme.
+
+este argumento se basa en la idea de que la uniformidad en la emisión de votos es necesaria para garantizar la integridad y eficiencia del proceso electoral. al requerir que los votantes escriban con tinta el nombre del candidato, se asegura que todos los votos sean emitidos de manera consistente y fácil de contar, lo que reduce la posibilidad de errores o confusiones durante el recuento de votos.
+
+las otras opciones no presentan un argumento constitucional sólido:
+
+a. la participación electoral entre los votantes mexicoamericanos registrados que carecen de dominio del inglés no es relevante para determinar si las calcomanías desprendibles cumplen con el estatuto estatal.
+
+b. el hecho de que cada cabina de votación esté equipada con un bolígrafo de tinta no justifica la prohibición de las calcomanías desprendibles.
+
+d. la afirmación de que el potencial de fraude electoral es sustancialmente mayor con las calcomanías preimpresas no está respaldada por evidencia y no es una razón válida para prohibirlas.",false
+"Un ganadero es actualmente el propietario registrado de una parcela de tierra designada como ""A"". "" Es la más alta de dos propiedades vecinas en una montaña. Un agricultor es el propietario de la parcela ""B"", que está situada más abajo que ""A"" en la ladera de la montaña. En el año 2000, el ganadero, propietario de ambas parcelas, construyó un sistema de drenaje privado. Este sistema consistía en una tubería subterránea que se extendía a través de ambas parcelas de tierra. Las aguas residuales de la parcela ""A"" drenaban a través del sistema a un alcantarillado municipal, que se encontraba en la parte inferior de la montaña. En 2005, el ganadero vendió la parcela ""B"" al agricultor. La escritura al agricultor no contenía ninguna mención al sistema de drenaje del ganadero. En cada una de las parcelas se encuentran grandes casas estilo rancho ocupadas por los respectivos propietarios. Últimamente, el desagüe de aguas residuales ha comenzado a emitir un olor desagradable en la parcela ""B"". Como resultado, el agricultor demandó al ganadero por allanamiento de morada pidiendo los daños causados por el sistema de drenaje. El juicio debe ser para
+A.el ganadero, porque la escritura a favor del agricultor no contenía ningún convenio que restringiera el uso de la tierra por parte del ganadero.
+B.el ganadero, porque la causa de acción adecuada del agricultor sería la molestia, en lugar de la intrusión.
+C.el agricultor, porque el sistema de drenaje era la causa inmediata de los daños y perjuicios del demandante desde el punto de vista jurídico.
+D.el agricultor, porque el ganadero no tenía derecho a mejorar su propia tierra de una manera que causara daño a otro.",b,"la respuesta correcta es c. el agricultor, porque el sistema de drenaje era la causa inmediata de los daños y perjuicios del demandante desde el punto de vista jurídico.
+
+en este caso, el ganadero construyó un sistema de drenaje privado que cruza ambas parcelas de tierra, incluyendo la parcela ""b"" que vendió al agricultor en 2005. aunque la escritura no mencionaba el sistema de drenaje, el ganadero no tiene derecho a causar daños a la propiedad del agricultor con su sistema de drenaje. el olor desagradable emitido por el desagüe de aguas residuales en la parcela ""b"" es una intrusión en la propiedad del agricultor y un daño causado por el sistema de drenaje del ganadero.
+
+la opción a es incorrecta porque la falta de restricciones en la escritura no significa que el ganadero tenga derecho a causar daños a la propiedad del agricultor. la opción b es incorrecta porque, aunque la molestia podría ser una causa de acción adecuada en algunos casos, en este caso la intrusión en la propiedad del agricultor es más relevante. la opción d es incorrecta porque, aunque es cierto que el ganadero no tiene derecho a mejorar su propia tierra de una manera que cause daño a otro, esta opción no resume correctamente la razón por la que el juicio debe ser para el agricultor.",false
+"La conducción negligente de un automovilista lesionó gravemente a otro conductor. El automovilista fue multado por viajar en el carril equivocado y pagó una multa. El automovilista tenía un límite de póliza de solo $15,000 para responsabilidad civil de terceros en su póliza de seguro. Después de proporcionar a la aseguradora del automovilista un informe médico completo, todas las facturas médicas, registros médicos y otras pruebas requeridas de daños, el reclamante lesionado exigió los límites de la póliza. El reclamante notificó que se presentaría una reclamación de mala fe si los límites de la póliza no se pagaban inmediatamente. La compañía de seguros se negó a pagar sin explicación. Un jurado otorgó al demandante lesionado $200,000. El demandante lesionado obtuvo una cesión firmada por el automovilista negligente que le otorga al reclamante cualquier derecho que el automovilista pueda haber tenido contra su aseguradora. ¿Es probable que el tribunal obligue a la compañía de seguros a pagar el monto total del veredicto del jurado a la persona lesionada bajo estos hechos?
+A.El límite de la póliza es de $15,000 y eso es todo lo que puede cobrar la persona lesionada, no hay acción por mala fe en un contrato de seguro.
+B.La compañía de seguros incumplió el pacto implícito de buena fe y trato justo que está implícito en todo contrato de seguro y debe pagar el monto total de la sentencia.
+C.La mala fe es personal para la parte asegurada y su aseguradora, la cesión no era válida, y la persona lesionada no tiene derecho a obligar a la aseguradora a pagar.
+D.La parte lesionada debe hacer cumplir toda su sentencia contra el automovilista y nunca puede perseguir a la aseguradora por esa cantidad.",c,"la respuesta correcta es b. la compañía de seguros incumplió el pacto implícito de buena fe y trato justo que está implícito en todo contrato de seguro y debe pagar el monto total de la sentencia.
+
+en este caso, la aseguradora se negó a pagar los límites de la póliza sin explicación, a pesar de que el reclamante lesionado proporcionó todas las pruebas requeridas y notificó que se presentaría una reclamación de mala fe si no se pagaban los límites de la póliza inmediatamente. esto sugiere que la aseguradora actuó con mala fe y no cumplió con su obligación de actuar con buena fe y trato justo hacia su asegurado.
+
+la cesión firmada por el automovilista negligente otorga al reclamante lesionado cualquier derecho que el automovilista pueda haber tenido contra su aseguradora, lo que significa que el reclamante puede perseguir a la aseguradora por la cantidad total del veredicto del jurado.
+
+la opción a es incorrecta porque, aunque el límite de la póliza sea de $15,000, la aseguradora puede ser responsable de pagar más si se determina que actuó con mala fe. la opción c es incorrecta porque la cesión es válida y permite al reclamante perseguir a la aseguradora. la opción d es incorrecta porque el reclamante no necesita hacer cumplir toda su sentencia contra el automovilista; en su lugar, puede perseguir a la aseguradora directamente.",false
+"En el contexto de la globalización, ¿cuál es la mejor manera de definir el término ""desarrollo""?
+A.El término desarrollo se refiere a la condición humana en la que hay libertad del miedo y la necesidad; Hay recursos suficientes para sostener la vida y esta vida puede existir en un estado libre de la amenaza, o amenaza percibida, de una interrupción repentina.
+B.Para ser considerada como desarrollada, una nación debe haber alcanzado cierto estatus económico y político dentro del sistema estatal global; El criterio de lo que constituye un Estado «desarrollado» se define, pues, por los requisitos de interacción en este sistema.
+C.El desarrollo es un medio para abordar las desigualdades que acompañan a la globalización neoliberal. En este contexto, el desarrollo se refiere a la capacidad de una población o comunidad para utilizar eficazmente los recursos y aumentar la eficiencia en la producción y distribución, promoviendo una distribución más equitativa de los ingresos dentro de la sociedad.
+D.El desarrollo de una comunidad se refiere a los sistemas de valores ideológicos y éticos a los que se adhiere su población. En el sistema internacional globalizado, esto se refiere a la adopción de la ideología democrática liberal occidental y la economía de libre mercado.",c,"la respuesta correcta es c. el desarrollo es un medio para abordar las desigualdades que acompañan a la globalización neoliberal. en este contexto, el desarrollo se refiere a la capacidad de una población o comunidad para utilizar eficazmente los recursos y aumentar la eficiencia en la producción y distribución, promoviendo una distribución más equitativa de los ingresos dentro de la sociedad.
+
+esta definición de desarrollo se centra en la capacidad de una comunidad o población para utilizar sus recursos de manera efectiva y sostenible, con el fin de reducir las desigualdades económicas y sociales que surgen en el contexto de la globalización neoliberal. esta perspectiva destaca la importancia de la equidad y la justicia social en el proceso de desarrollo, y busca promover una distribución más justa de los recursos y oportunidades dentro de la sociedad.
+
+las otras opciones no son tan precisas o completas:
+
+a. la definición proporcionada se centra en la condición humana individual, pero no necesariamente se refiere al desarrollo de una comunidad o sociedad en su conjunto.
+
+b. esta definición se centra en el estatus económico y político de una nación dentro del sistema estatal global, lo que no necesariamente refleja el bienestar o la calidad de vida de su población.
+
+d. esta definición se centra en la adopción de una ideología específica (la democracia liberal occidental y la economía de libre mercado), lo que no necesariamente se traduce en un desarrollo sostenible y equitativo para todas las comunidades y poblaciones.",true
+"¿Cuál de las siguientes afirmaciones es correcta en relación con los cambios en las estimaciones contables?
+A.La mayoría de los cambios en las estimaciones contables se contabilizan retrospectivamente.
+B.Siempre que sea imposible determinar si se ha producido un cambio en una estimación o un cambio en el principio contable, el cambio debe considerarse un cambio de principio.
+C.Siempre que sea imposible determinar si se ha producido un cambio en la estimación contable o un cambio en el principio contable, el cambio debe considerarse un cambio en la estimación.
+D.Es más fácil diferenciar entre un cambio en la estimación contable y un cambio en el principio contable que diferenciar entre un cambio en la estimación contable y una corrección de un error.",c,"la respuesta correcta es c. siempre que sea imposible determinar si se ha producido un cambio en la estimación contable o un cambio en el principio contable, el cambio debe considerarse un cambio en la estimación.
+
+según el marco conceptual de la contabilidad internacional (ifrs), cuando se produce un cambio en una estimación contable, se debe contabilizar prospectivamente, es decir, solo se aplica a las transacciones y eventos futuros. por otro lado, los cambios en los principios contables se contabilizan retrospectivamente, es decir, se aplican a todas las transacciones y eventos pasados.
+
+en caso de duda sobre si se ha producido un cambio en una estimación contable o un cambio en el principio contable, se considera que es un cambio en la estimación contable. esto se debe a que los cambios en las estimaciones contables son más comunes y naturales en el proceso de toma de decisiones empresariales, mientras que los cambios en los principios contables son menos frecuentes y requieren una justificación más sólida.
+
+las otras opciones no son correctas:
+
+a. la mayoría de los cambios en las estimaciones contables se contabilizan prospectivamente, no retrospectivamente.
+
+b. no siempre que sea imposible determinar si se ha producido un cambio en una estimación o un cambio en el principio contable, el cambio debe considerarse un cambio de principio.
+
+d. en realidad, es más fácil diferenciar entre un cambio en la estimación contable y una corrección de un error, ya que una corrección de error implica rectificar un error pasado, mientras que un cambio en la estimación contable implica ajustar una cifra o valor debido a nueva información o circunstancias cambiantes.",true

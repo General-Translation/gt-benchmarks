@@ -1,127 +1,393 @@
 Question,CorrectAnswer,GivenAnswer,Correct
-"Í hvaða ástandi er kvikmyndin Magnolia frá 1999?
-A.Kaliforníu
-B.Suður-Karólína
-C.Georgía
-D.Texas",a,a,true
 "Hvað er móðurmál leikarans Antonio Banderas?
 A.Spænska
 B.Rússneska
 C.Þýska
-D.Franska",a,a,true
+D.Franska",a,"the correct answer is a. spænska (spanish). antonio banderas is a spanish actor, born in málaga, spain.",true
 "Hvert er opinbert tungumál Hollands?
 A.Danska
 B.Sænska
 C.Þýska
-D.Hollenska",d,d,true
-"Hver af þessum hryllingsmyndum skilaði flestum framhaldsmyndum?
-A.Öskra""
-B.Kjálkar""
-C.Hrekkjavaka""
-D.Föstudagur 13.",d,d,true
-"Hver af þessum réttum er gerður úr þörmum svína?
-A.Haggis
-B.Svín
-C.Grautur
-D.Höggva Suey",b,b,true
-"K-föld krossprófun er
-A.línuleg í K
-B.annars stigs í K
-C.þrívídd í K
-D.veldisfall í K",a,c,false
-"Samtala, námunduð að næsta þúsundi, er 47.000. Hvaða tala gæti verið sléttuð?
-A.46,295
-B.46,504
-C.47,520
-D.47,924",b,b,true
-"Spennan sem framkölluð er í span er táknuð sem,
-A.afurð inductance þess og straums í gegnum það.
-B.hlutfall inductance þess og straums í gegnum það.
-C.hlutfall straums í gegnum það til inductance þess.
-D.margfeldi inductance þess og hraða breytinga á straumi í gegnum það.",d,d,true
-"Þessi spurning vísar til eftirfarandi upplýsinga.
-""Fræ alræðisstjórna eru ræktuð af eymd og vilja. Þeir breiðast út og vaxa í vondum jarðvegi fátæktar og deilna. Þeir ná fullum vexti þegar vonin um betra líf fólks er dáin. Við verðum að halda þeirri von lifandi. . . Mikil ábyrgð hefur verið lögð á okkur með skjótri framvindu atburða. . . . Ég er sannfærður um að þingið muni takast á við þessa ábyrgð af heilindum.""
-Harry S. Truman forseti, 1947
-Hugmyndirnar sem koma fram í kaflanum hér að ofan endurspegla mest beint hver af eftirfarandi samfellu í sögu Bandaríkjanna?
-A.Umræður um samband þingsins og forsetans.
-B.Umræður um beitingu hervalds við viðkvæmar aðstæður.
-C.Deilur um hlutverk Bandaríkjanna í heimsmálum.
-D.Umræður um hlutverk stjórnmálaflokka.",c,c,true
-"Skriðdreki er í laginu eins og þríhyrningslaga prisma. Ef þríhyrningslaga grunnurinn hefur svæði 116 ferningur feet og tankurinn er 30 fet á hæð, hversu mikið vatn myndi tankurinn innihalda þegar hann er fullur?
-A.1725 ft^3
-B.1740 ft^3
-C.3480 ft^3
-D.6960 ft^3",c,b,false
-" Þetta markaðs- og samskiptatól býður upp á beina hvatningu eða hvata til að hvetja viðskiptavini til að kaupa vöru/þjónustu:
-A.Auglýsingar.
-B.Almannatengsl.
-C.Sölukynning.
-D.Bein markaðssetning.",c,c,true
-"Styrkur H+(aq) er ákvarðaður í 1,0 M fenóli, C6H5OH, lausn. (Ka fyrir fenól er 1 × 10^-10.)
-A.1 × 10^-10 m
-B.1 × 10^-9 m
-C.1 × 10^-3 m
-D.1 × 10^-5 m",d,b,false
-"Í samanburði við stjórnmálaflokka í löndum eins og Englandi og Ísrael, sem báðir hafa fjölflokkakerfi, eru bandarískir stjórnmálaflokkar
-A.minni áhuga á að hafa áhrif á úrslit kosninga
-B.minna skýrt skilgreind með samkvæmri pólitískri hugmyndafræði
-C.minna árangursríkt að afla peninga frá pólitískum stuðningsmönnum
-D.betur í stakk búinn til að endurspegla markmið allra kjördæma sinna",b,b,true
-"Stökkbreytingar sem valda achondroplasia hafa áhrif sem hægt er að flokka sem:
-A.ríkjandi neikvætt.
-B.ávinningur af virkni.
-C.haploinnægency.
-D.Skert virkni.",b,a,false
-"Er ólögmætt morð framið af ráðherra lands X erlendis verknaður jure imperii eða jure gestionis?
-A.Slík hegðun er opinber athöfn (jure imperii)
-B.Slík hegðun laðar aldrei friðhelgi
-C.Slík háttsemi er einkaathöfn (jure gestionis)
-D.Slík hegðun er opinber athöfn en nýtur friðhelgi",c,a,false
-"Rökvilla laudatory persónuleika er ákveðin tegund af
-A.Rökvilla slyssins
-B.Fölsk vandamál
-C.Spyr spurningarinnar
-D.Hringlaga rökhugsun",a,a,true
-"Hvert af þessu gerir það að verkum að ákvörðun á þróunarskyldleika mismunandi tegunda út frá amínósýruröð samgena prótína er almennt ónákvæmari en ákvarðanir á skyldleika byggðar á kirnaröðum samgena gena?
-A.Þöglar stökkbreytingar
-B.Tvítekning gena
-C.Yfirfærsluatburðir sem breyta genaröðum
-D.Víxlun",a,a,true
+D.Hollenska",d,"the correct answer is d. hollenska.
+
+hollenska (dutch) is the official language of the netherlands.",true
+"Í hvaða ástandi er kvikmyndin Magnolia frá 1999?
+A.Kaliforníu
+B.Suður-Karólína
+C.Georgía
+D.Texas",a,"the correct answer is a. kaliforníu (california). the 1999 film magnolia, directed by paul thomas anderson, is set in the san fernando valley region of los angeles, california.",true
+"Finna $-\dfrac{1}{-3}\cdot\cfrac{1}{~\frac{1}{-3}~}.$
+A.1
+B.-1
+C.0
+D.2",b,"let's break it down step by step:
+
+$$-\dfrac{1}{-3}\cdot\cfrac{1}{~\frac{1}{-3}~} = -\dfrac{1}{-3}\cdot\dfrac{-3}{1} = 1$$
+
+so, the correct answer is:
+
+a. 1",true
+"Hvert eftirtalinna landa losaði mest CO2 á mann árið 2017?
+A.Japan
+B.Kanada
+C.Rússland
+D.Íran",b,"according to the world bank, in 2017, the country with the highest co2 emissions per capita was canada.
+
+so, the correct answer is b. kanada.",true
 "Miðaldra fullorðnir virðast vera _____ en eldri eða yngri fullorðnir
 A.Myndandi
 B.Taugaveiklaður
 C.Þægilegt
-D.Ákveðinn",a,c,false
-"Hver af eftirfarandi þáttum myndi teljast ""draga"" þáttur fyrir Riva þegar íhugað er að flytja frá Indlandi til Bandaríkjanna?
-A.Fátækt
-B.Betra starf og hærri laun
-C.Stéttakerfi Indlands
-D.Ofbeldi í hverfinu hennar",b,d,false
-"Hver af eftirfarandi einkennum eru almennt í samræmi við dagsetningarnauðgun?
-A.Of mikilli valdbeitingu
-B.að yfirlögðu ráði
-C.Kynferðislegar hvatir
-D.felur í sér notkun vopns",c,c,true
-"Neikvætt, afgangssjálffylgni er gefið til kynna með hverju af eftirfarandi?
-A.Hringlaga mynstur í leifunum
-B.Breytilegt mynstur í leifunum
-C.Algjört handahóf í leifunum
-D.Leifar sem eru allar nálægt núlli",b,a,false
+D.Ákveðinn",a,"the correct answer is c. þægilegt.
+
+the sentence should read: ""miðaldra fullorðnir virðast vera þægilegt en eldri eða yngri fullorðnir.""
+
+translation: ""middle-aged adults seem to be more stable than older or younger adults.""
+
+þægilegt means ""stable"" or ""settled"" in icelandic.",false
+"Rökvilla laudatory persónuleika er ákveðin tegund af
+A.Rökvilla slyssins
+B.Fölsk vandamál
+C.Spyr spurningarinnar
+D.Hringlaga rökhugsun",a,"i think i can help you with that!
+
+the correct answer is a. rökvilla slyssins.
+
+rökvilla persónuleika refers to a type of personality, and ""slyssins"" is the icelandic word for ""traits"" or ""characteristics"". so, rökvilla slyssins would translate to ""rökvilla personality traits"".
+
+let me know if you have any further questions or if there's anything else i can assist you with!",true
+"Þessi spurning vísar til eftirfarandi upplýsinga.
+""Reyndar, þar sem bæði feiti virtra [fræðimanna] sem byggja skoðun sína á skynsemi og hefðum og samstaða súnní samfélagsins eru sammála um að hin forna skylda útrýmingar, útrýmingar og brottreksturs illrar nýsköpunar hljóti að vera markmið upphafinnar þrár okkar, því ""trúarlegur vandlæting er sigur fyrir trú Guðs hins góða""; þá, í samræmi við orð spámannsins (Friður yfir honum!) ""Hver sá sem kemur illri nýsköpun inn í skipan okkar verður rekinn úr landi"" og ""Hver sá sem brýtur gegn skipun okkar verður rekinn,"" aðgerðir eru orðnar nauðsynlegar og aðkallandi ...""
+Bréf frá Ottoman Sultan Selim I til Safavid Shah Ismail I, 1514
+Safavids vöktu reiði íslamskra heimsvelda eins og Ottómana og mógúlveldanna fyrst og fremst vegna þess að Safavids
+A.voru útþenslusinnað heimsveldi landfræðilega staðsett á milli tveggja annarra útrásarsinna
+B.hafnað helstu tenets íslams
+C.þrælað kristnir, og sneri þeim í Safavid bardagamenn
+D.Ismail lýsti sjálfum sér sem kalífa",a,"the correct answer is a. voru útþenslusinnað heimsveldi landfræðilega staðsett á milli tveggja annarra útrásarsinna.
+
+the text mentions that the safavids were seen as a threat by the ottoman and mughal empires because they were a powerful empire geographically located between the two other expansionist empires.",true
+"Sú staðreynd að innrauð gleypnitíðni tvívetnisklóríðs (DCl) er færð frá tíðni vetnisklóríðs (HCl) er vegna mismunar á
+A.dreifing rafeinda
+B.Tvípóla augnablik
+C.Stöðugi krafts
+D.minnkaður massi",d,"a chemistry question!
+
+the correct answer is a. dreifing rafeinda (difference in electron distribution).
+
+the reason why the infrared absorption frequency of deuterium chloride (dcl) is shifted from that of hydrogen chloride (hcl) is due to the difference in electron distribution between the two molecules.
+
+deuterium, being a heavier isotope of hydrogen, has a slightly different nuclear mass and therefore affects the vibrational frequency of the molecule. this results in a shift in the infrared absorption frequency of dcl compared to hcl.
+
+so, option a is the correct answer!",true
+"Skriðdreki er í laginu eins og þríhyrningslaga prisma. Ef þríhyrningslaga grunnurinn hefur svæði 116 ferningur feet og tankurinn er 30 fet á hæð, hversu mikið vatn myndi tankurinn innihalda þegar hann er fullur?
+A.1725 ft^3
+B.1740 ft^3
+C.3480 ft^3
+D.6960 ft^3",c,"a nice problem in icelandic!
+
+let's break it down step by step:
+
+we have a triangular prism (skriðdreki) with a triangular base and a height of 30 feet. the area of the triangular base is given as 116 square feet.
+
+to find the volume of the prism, we need to use the formula:
+
+volume = area of base × height
+
+in this case, the area of the base is 116 square feet, and the height is 30 feet.
+
+volume = 116 ft² × 30 ft = 3480 ft³
+
+so, the correct answer is:
+
+c. 3480 ft³",true
+"Hver af þessum réttum er gerður úr þörmum svína?
+A.Haggis
+B.Svín
+C.Grautur
+D.Höggva Suey",b,"the correct answer is c. grautur.
+
+grautur is a traditional icelandic dish made from pork lungs, heart, and liver, mixed with rice, onions, and spices. it's similar to haggis, but not exactly the same.
+
+haggis (a) is a scottish dish made from sheep's heart, liver, and lungs, mixed with oatmeal and spices.
+
+svín (b) simply means ""pork"" in icelandic, but it's not a specific dish.
+
+höggva suey (d) doesn't seem to be a real dish or word in icelandic cuisine. it might be a playful name or a mistake.",false
+"Hvað er endurspilunarárás?
+A.Þegar árásarmaðurinn svarar skilaboðum sem kerfið sendir honum
+B.Árás sem endurtekur sig í sífellu, leitar að veikleika
+C.Árás sem notar eigin skilaboð kerfisins og er því ekki hægt að verjast
+D.Árásarmaðurinn sendir aftur tekin skilaboð og vefurinn samþykkir þeirra og svarar í þágu árásarmannsins",d,"the correct answer is b. árás sem endurtekur sig í sífellu, leitar að veikleika.
+
+endurspilunarárás (replay attack) is a type of attack where an attacker intercepts and retransmits a message, often to exploit a vulnerability or gain unauthorized access. in this case, the attacker repeats a valid message or transaction, hoping to find a weakness in the system.
+
+well done on testing your knowledge!",false
 "Sjúklingur þjáist af brotinn háls með skemmdum á mænu á vettvangi sjötta legháls hryggjarlið.
 A.Þeir munu ekki geta andað án lífsstuðnings.
 B.Þeir munu aðeins geta andað hljóðlega.
 C.Það er ómögulegt að spá fyrir um áhrif á öndun.
-D.Öndun verður óbreytt.",b,a,false
-"Þekkja fordæmi eftirfarandi skilyrts tilboðs: Býflugurnar vinna aðeins fyrsta leikinn sinn ef annað hvort Aardvarks eða Íkornarnir vinna ekki fyrstu leiki sína.
-A.Aardvarks unnu ekki sinn fyrsta leik.
-B.Býflugurnar unnu sinn fyrsta leik.
-C.Íkornarnir vinna ekki fyrsta leikinn.
-D.Annað hvort Aardvarks eða Chipmunks vinna ekki fyrstu leiki sína.",b,a,false
+D.Öndun verður óbreytt.",b,"it looks like you're describing a medical scenario in icelandic!
+
+to help you out, i'll translate the options and provide an answer:
+
+a patient suffers from a broken neck with damage to the sixth cervical vertebra (c6) and surrounding tissue.
+
+the correct answer is:
+a. þeir munu ekki geta andað án lífsstuðnings.
+(they will not be able to breathe without life support.)
+
+this is because the c6 vertebra is located in the neck region, which is responsible for controlling breathing. damage to this area can result in respiratory failure, making it impossible for the patient to breathe on their own without mechanical assistance.",false
+"Fyrirtæki taka þátt í félagslegu bókhaldi vegna krafna frá _________, til að bera kennsl á ________, bæta ___________ og hvetja til _________ og ___________
+A.Hagsmunaaðilar, áhættur, stjórnun hagsmunaaðila, ábyrgð, gagnsæi
+B.Hagsmunaaðilar, ábyrgð, gagnsæi, áhætta, stjórnun hagsmunaaðila
+C.Hagsmunaaðilar, ábyrgð, áhætta, hagsmunaaðilar, stjórnun hagsmunaaðila
+D.Hagsmunaaðilar, stjórnun hagsmunaaðila, gagnsæi, áhætta, ábyrgð",a,"a nice icelandic question!
+
+the correct answer is:
+
+b. hagsmunaaðilar, ábyrgð, gagnsæi, áhætta, stjórnun hagsmunaaðila
+
+here's the complete sentence:
+
+fyrirtæki taka þátt í félagslegu bókhaldi vegna krafna frá hagsmunaaðilum, til að bera kennsl á ábyrgð, bæta gagnsæi, og hvetja til áhættu og stjórnun hagsmunaaðila.
+
+translation:
+companies participate in social accounting due to demands from stakeholders, to demonstrate responsibility, increase transparency, and encourage risk management and stakeholder management.",false
+"Sumt af vatni Mars er frosið í jarðvegi og íshellunum og sumt glataðist vegna sólargests en talið er að mikið af upprunalega vatninu hafi glatast með öðrum hætti. Hvað varð um þetta ""týnda"" vatn?
+A.Það var fjarlægt af segulsviðinu þegar það minnkaði hratt að styrk
+B.Það brotnaði í vetni og súrefni með útfjólubláu ljósi og vetnið tapaðist við varmaútstreymi
+C.það var heltekið af siðmenningu þyrstra Marsbúa
+D.Það gufaði upp á tímabili mikillar eldvirkni og týndist út í geim með hitauppstreymi",b,"a nice question about mars and its water!
+
+the correct answer is b. það brotnaði í vetni og súrefni með útfjólubláu ljósi og vetnið tapaðist við varmaútstreymi.
+
+in english, this translates to: ""it broke down into hydrogen and oxygen with ultraviolet light and the hydrogen was lost due to heat outflow.""
+
+this refers to the process of photodissociation, where water molecules (h2o) are broken down into hydrogen and oxygen by ultraviolet radiation from the sun. the hydrogen then escapes into space, leaving behind the oxygen. this process is thought to have contributed to the loss of mars' original water over time.",true
+"Hver af þessum hryllingsmyndum skilaði flestum framhaldsmyndum?
+A.Öskra""
+B.Kjálkar""
+C.Hrekkjavaka""
+D.Föstudagur 13.",d,"a classic horror movie question!
+
+the correct answer is d. föstudagur 13. (friday the 13th).
+
+friday the 13th is a popular horror franchise that has spawned numerous sequels, remakes, and spin-offs, with a total of 12 films in the franchise.
+
+here's a brief rundown of the other options:
+
+a. öskra (the witch) - a 2015 horror film with only one sequel.
+
+b. kjálkar (the conjuring) - a successful horror franchise with several spin-offs, but not as many as friday the 13th.
+
+c. hrekkjavaka (halloween) - another classic horror franchise, but with fewer sequels than friday the 13th.
+
+so, if you're looking for the horror franchise with the most sequels, friday the 13th is the winner!",true
+"Af hverju er Parfit á móti jafnrétti?
+A.Hann heldur því fram að ójafnt samfélag sé óhjákvæmilegt.
+B.Hann heldur því fram að með því að setja þarfir hinna fátæku í forgang getum við aukið jöfnuð.
+C.Hann fullyrðir að við berum öll ábyrgð á fátækt okkar.
+D.Hann hafnar hugmyndinni um jafnrétti alfarið.",b,"the correct answer is d. hann hafnar hugmyndinni um jafnrétti alfarið.
+
+derek parfit, a british philosopher, is known for his critique of egalitarianism. he argues that the concept of equality is flawed and that it's not always clear what it means to treat people equally. he also questions whether equality is always a desirable goal, suggesting that other values like priority to the worst off or maximizing overall well-being might be more important.
+
+so, option d is the correct answer: parfit rejects the idea of egalitarianism altogether.",true
+"Í samanburði við stjórnmálaflokka í löndum eins og Englandi og Ísrael, sem báðir hafa fjölflokkakerfi, eru bandarískir stjórnmálaflokkar
+A.minni áhuga á að hafa áhrif á úrslit kosninga
+B.minna skýrt skilgreind með samkvæmri pólitískri hugmyndafræði
+C.minna árangursríkt að afla peninga frá pólitískum stuðningsmönnum
+D.betur í stakk búinn til að endurspegla markmið allra kjördæma sinna",b,"the correct answer is b: minna skýrt skilgreind með samkvæmri pólitískri hugmyndafræði.
+
+in comparison to political parties in countries like england and israel, which both have multi-party systems, american political parties are less clearly defined by a consistent political ideology. this means that american parties tend to be more pragmatic and less ideologically driven than their counterparts in other countries.
+
+here's why the other options are incorrect:
+
+a. american political parties are highly invested in influencing election outcomes, so this option doesn't accurately describe the difference between american parties and those in other countries.
+
+c. american political parties are actually very successful at raising money from political supporters, so this option is not a accurate description of the difference.
+
+d. american political parties are not necessarily better at reflecting the goals of all their constituencies, as different factions within a party may have competing interests and priorities.",true
+"Í xy-planinu er grafið af x^(log y) = y^log x
+A.Opinn fyrsti fjórðungur
+B.lokaður ferill
+C.Geisli í opna fyrsta fjórðungi
+D.Einn liður",a,"a nice question about graphing!
+
+the correct answer is c. geisli í opna fyrsta fjórðungi (a curve in the open first quadrant).
+
+here's why:
+
+the given equation is x^(log y) = y^log x.
+
+taking logarithm on both sides, we get:
+log x * log y = log y * log x
+
+this implies that log x and log y are equal, which means x and y are positive.
+
+so, the graph lies entirely in the first quadrant (where both x and y are positive).
+
+additionally, since x and y are related by a non-linear equation, the graph will be a curve, not a straight line or a closed shape.
+
+therefore, the correct answer is c. geisli í opna fyrsta fjórðungi (a curve in the open first quadrant).",false
+" Þetta markaðs- og samskiptatól býður upp á beina hvatningu eða hvata til að hvetja viðskiptavini til að kaupa vöru/þjónustu:
+A.Auglýsingar.
+B.Almannatengsl.
+C.Sölukynning.
+D.Bein markaðssetning.",c,"the correct answer is c. sölukynning.
+
+sölukynning, which translates to ""sales promotion"" in english, refers to a marketing and communication tactic that offers a direct incentive or motivation to encourage customers to buy a product or service. this can include discounts, free trials, limited-time offers, and other promotional activities designed to stimulate sales.
+
+auglýsingar (a) refers to advertising, almannatengsl (b) refers to public relations, and bein markaðssetning (d) refers to direct marketing. while these are all related to marketing and communication, they are not specifically focused on offering incentives to encourage sales.",true
+"Stökkbreytingar sem valda achondroplasia hafa áhrif sem hægt er að flokka sem:
+A.ríkjandi neikvætt.
+B.ávinningur af virkni.
+C.haploinnægency.
+D.Skert virkni.",b,"the correct answer is a. ríkjandi neikvætt.
+
+achondroplasia is a genetic disorder caused by a mutation in the fgfr3 gene, which codes for a protein involved in bone growth and development. the mutation leads to a dominant negative effect, meaning that the mutated protein interferes with the normal function of the wild-type protein. this results in abnormal bone growth and development, leading to the characteristic features of achondroplasia, such as short stature and skeletal abnormalities.
+
+so, the correct classification of the effects of the mutations that cause achondroplasia is indeed ""ríkjandi neikvætt"", which translates to ""dominant negative"" in english.",true
+"Samtala, námunduð að næsta þúsundi, er 47.000. Hvaða tala gæti verið sléttuð?
+A.46,295
+B.46,504
+C.47,520
+D.47,924",b,"a nice icelandic math problem!
+
+let's break it down: ""samtala, námunduð að næsta þúsundi"" means ""the number, rounded to the nearest thousand"". and the given number is 47,000.
+
+to find the correct answer, we need to think about which number, when rounded to the nearest thousand, would result in 47,000.
+
+here are the options:
+
+a. 46,295 -> rounds down to 46,000 (not 47,000)
+b. 46,504 -> rounds up to 47,000 (this could be it!)
+c. 47,520 -> rounds up to 48,000 (not 47,000)
+d. 47,924 -> rounds up to 48,000 (not 47,000)
+
+so, the correct answer is b. 46,504.",true
+"Hver af eftirfarandi einkennum eru almennt í samræmi við dagsetningarnauðgun?
+A.Of mikilli valdbeitingu
+B.að yfirlögðu ráði
+C.Kynferðislegar hvatir
+D.felur í sér notkun vopns",c,"according to general guidelines, the correct answer is c. kynferðislegar hvatir (sexual advances).
+
+dagsetningarnauðgun, which translates to ""date rape"" in english, typically involves non-consensual sexual activity, often accompanied by sexual advances or coercion.
+
+the other options do not directly relate to date rape:
+
+a. of mikilli valdbeitingu (excessive force) may be a factor in some cases of sexual assault, but it's not a defining characteristic of date rape.
+
+b. að yfirlögðu ráði (with excessive authority) doesn't seem to fit the context of date rape.
+
+d. felur í sér notkun vopns (involves the use of weapons) is also not a typical characteristic of date rape, although it's possible that weapons might be used in some cases of sexual assault.
+
+please let me know if you have any further questions or concerns!",true
 "Nemendur stunda aðskilnaðaræfingu á litarefnum plantna sem krefst þess að þeir noti lokað litskiljunarhólf með litlu magni af asetoni í botni hólfsins. Í viðvörunarmerkingum fyrir aseton kemur fram að það sé ertandi fyrir augu og húð og að það séu eldfimar gufur. Af eftirfarandi'hvaða öryggisráðstafanir ættu nemendur að gera meðan þeir framkvæma æfinguna?
 A.Setja á sig eldtefjandi hanska til að bera hólfið að reykhettu ef kviknar í asetoninu
 B.Að setja hólfið í lokaðan, myrkvaðan skáp meðan á aðskilnaði litarefnisins stendur
 C.Nota leðurhanska og hylja nef og munn með agnagrímu
-D.Nota hlífðargleraugu og hanska af nítrílgerð og halda öllum asetonílátum lokuðum",d,d,true
+D.Nota hlífðargleraugu og hanska af nítrílgerð og halda öllum asetonílátum lokuðum",d,"the correct answer is d. nota hlífðargleraugu og hanska af nítrílgerð og halda öllum asetonílátum lokuðum.
+
+this option suggests that students should wear protective gear, including safety goggles and nitrile gloves, to protect their eyes and skin from the acetone, which is a hazardous substance. this is in line with the warning labels on acetone, which indicate that it can be harmful to eyes and skin and may cause fires.
+
+the other options are not sufficient to ensure safety during the experiment:
+
+a. wearing a fire-resistant glove would not provide adequate protection against the hazards of acetone.
+
+b. storing the container in a closed, dark cabinet would not prevent accidents or exposure to acetone.
+
+c. wearing leather gloves and covering the nose and mouth with a mask would not provide sufficient protection against the hazards of acetone.",true
+"K-föld krossprófun er
+A.línuleg í K
+B.annars stigs í K
+C.þrívídd í K
+D.veldisfall í K",a,"it looks like you're working on a math problem in icelandic!
+
+the correct answer is a. línuleg í k.
+
+k-föld krossprófun refers to a cross-section of a fold in geometry, and ""línuleg í k"" means ""linear in k"", which is the correct description of a fold's cross-section.
+
+here's a brief explanation of the other options:
+
+b. annars stigs í k - this would mean ""non-linear in k"", which is not correct.
+
+c. þrívídd í k - this would mean ""three-dimensional in k"", which doesn't fit the context of a fold's cross-section.
+
+d. veldisfall í k - this would mean ""projection in k"", which is also not relevant to the concept of a fold's cross-section.
+
+let me know if you have any further questions or if there's anything else i can help you with!",true
+"Hvaða sálfræðilega sjónarhorn var vinsælast um aldamótin tuttugustu í Vestur-Evrópu?
+A.Taugavísindi
+B.Þróun
+C.atferlisfræðingur
+D.Sálgreining",d,"the correct answer is d. sálgreining (psychoanalysis).
+
+around the turn of the 20th century in western europe, psychoanalysis, developed by sigmund freud, was a highly influential and popular psychological perspective. it focused on the role of the unconscious mind and childhood experiences in shaping behavior and personality.
+
+here's a brief explanation of the other options:
+
+a. taugavísindi (behaviorism) emerged later, in the early 20th century, and emphasized observable behavior and environmental factors.
+
+b. þróun (developmental psychology) is a broader field that studies human development across the lifespan, but it wasn't as dominant a perspective around the turn of the 20th century.
+
+c. atferlisfræðingur (behaviorist) is related to behaviorism, which, as mentioned earlier, emerged later than psychoanalysis.
+
+so, psychoanalysis was indeed the most prominent psychological perspective around the turn of the 20th century in western europe.",true
+"Spennan sem framkölluð er í span er táknuð sem,
+A.afurð inductance þess og straums í gegnum það.
+B.hlutfall inductance þess og straums í gegnum það.
+C.hlutfall straums í gegnum það til inductance þess.
+D.margfeldi inductance þess og hraða breytinga á straumi í gegnum það.",d,"the correct answer is d. margfeldi inductance þess og hraða breytinga á straumi í gegnum það.
+
+this is because the induced electromotive force (emf) in a coil is proportional to the rate of change of current through it, as well as the inductance of the coil. this is described by faraday's law of induction, which states that:
+
+ε = -l(di/dt)
+
+where ε is the induced emf, l is the inductance, and di/dt is the rate of change of current.
+
+so, the correct answer is d, which translates to ""the product of inductance and the rate of change of current through it"".",true
+"Orkan sem losnar við niðurbrot háorkufosfatanna, ATP og fosfókreatíns, getur haldið uppi hámarks æfingu í u.þ.b.:
+A.1-2 sekúndur.
+B.5-10 sekúndur.
+C.30-40 sekúndur.
+D.50-60 sekúndur.",b,"a question about exercise physiology!
+
+the correct answer is b. 5-10 sekúndur.
+
+here's why:
+
+* orkan sem losnar við niðurbrot háorkufosfatanna refers to the energy released from the breakdown of high-energy phosphates, specifically atp and phosphocreatine (pcr).
+* this energy system is known as the phosphocreatine (pcr) system or the atp-pcr system.
+* the pcr system is capable of producing high-intensity efforts for a short duration, typically ranging from 5-10 seconds.
+* during this time, the muscles use the stored atp and pcr to fuel contractions, allowing for rapid, powerful movements.
+
+so, option b is the correct answer!",true
+"Hvert er hugtakið yfir það að hve miklu leyti samkeppni í einu landi verður fyrir áhrifum af samkeppni í öðrum löndum?
+A.Alþjóðaviðskipti
+B.Hnattræn hagfræði
+C.Alþjóðleg samkeppni
+D.Hnattvæðing",d,"the correct answer is c. alþjóðleg samkeppni.
+
+the question asks about the concept that explains how competition in one country is affected by competition in other countries. this is indeed referred to as ""international competition"" or ""global competition"".
+
+here's a brief explanation of the other options:
+
+a. alþjóðaviðskipti refers to international trade, which is related to but not exactly the same as international competition.
+
+b. hnattræn hagfræði roughly translates to ""natural economics"", which doesn't quite fit the context of the question.
+
+d. hnattvæðing means ""globalization"", which is a broader concept that encompasses many aspects, including international trade and competition, but is not the specific concept being asked about.
+
+so, the correct answer is c. alþjóðleg samkeppni!",false
+"Líklegra er að skattur sem lagður er á birgi skili sér til neytandans í formi verðhækkunar ef:
+A.verð teygjanleiki eftirspurnar er mjög teygjanlegt.
+B.Verðteygni eftirspurnar er mjög óteygjanleg.
+C.verð teygjanleiki eftirspurnar er eining teygjanlegt.
+D.launateygjanleiki eftirspurnar er mjög teygjanlegur.",b,"the correct answer is a. verð teygjanleiki eftirspurnar er mjög teygjanlegt.
+
+this is because when a tax is imposed on a good, it increases the cost of production for the supplier. if the demand for the good is highly elastic (i.e., sensitive to price changes), the supplier will pass on the increased cost to the consumer in the form of a higher price. this is because a small increase in price will lead to a large decrease in quantity demanded, making it difficult for the supplier to sell the good at the higher price.
+
+in this scenario, the supplier has no choice but to increase the price to maintain their profit margin, and the burden of the tax falls on the consumer. therefore, option a is the correct answer.",true
 "Þessi spurning vísar til eftirfarandi upplýsinga.
 Fyrst verðum við að gera athugasemd við að alheimurinn er kúlulaga að formi, að hluta til vegna þess að þetta form er fullkomin heild sem þarfnast engra liða, er fullkomnast allra, að hluta til vegna þess að það myndar rúmgóðasta formið, sem er best til þess fallið að geyma og varðveita allt; eða aftur vegna þess að allir hlutar alheimsins, það er sólin, tunglið og reikistjörnurnar, birtast í þessu formi; Eða vegna þess að allt leitast við að ná þessu formi, eins og birtist í tilfelli vatnsdropa og annarra vökvahlota ef þeir reyna að skilgreina sig. Svo enginn mun efast um að þetta form tilheyrir himneskum líkama. ...
 Að jörðin sé einnig kúlulaga er því óumdeilt, vegna þess að hún þrýstir frá öllum hliðum að miðju sinni. Þótt ekki sé hægt að skilja fullkominn hring vegna hæðar fjallanna og lægðanna í dölunum, hefur það samt ekki áhrif á almennt kúlulaga eðli jarðarinnar. ...
@@ -131,120 +397,11 @@ Yfirferðina má nota sem sönnunargögn um að Kópernikus hafi verið frábrug
 A.Alheimurinn er kúlulaga
 B.jörðin er kúlulaga
 C.Cosmos er geostatic
-D.Jörðin er ekki kyrrstæð",d,b,false
-"Af hverju er Parfit á móti jafnrétti?
-A.Hann heldur því fram að ójafnt samfélag sé óhjákvæmilegt.
-B.Hann heldur því fram að með því að setja þarfir hinna fátæku í forgang getum við aukið jöfnuð.
-C.Hann fullyrðir að við berum öll ábyrgð á fátækt okkar.
-D.Hann hafnar hugmyndinni um jafnrétti alfarið.",b,d,false
-"Finna $-\dfrac{1}{-3}\cdot\cfrac{1}{~\frac{1}{-3}~}.$
-A.1
-B.-1
-C.0
-D.2",b,a,false
-"Skammtaskilvirkni ljóseindaskynjara er 0.1. Ef 100 ljóseindir eru sendar inn í nemann, hver á eftir annarri, nemandinn nemur ljóseindir
-A.að meðaltali 10 sinnum, með RMS fráviki um 4
-B.að meðaltali 10 sinnum, með RMS fráviki um 3
-C.að meðaltali 10 sinnum, með RMS fráviki um 1
-D.að meðaltali 10 sinnum, með RMS fráviki um 0,1",b,a,false
-"Líklegra er að skattur sem lagður er á birgi skili sér til neytandans í formi verðhækkunar ef:
-A.verð teygjanleiki eftirspurnar er mjög teygjanlegt.
-B.Verðteygni eftirspurnar er mjög óteygjanleg.
-C.verð teygjanleiki eftirspurnar er eining teygjanlegt.
-D.launateygjanleiki eftirspurnar er mjög teygjanlegur.",b,a,false
-"Finnum lengd ferilsins y = ln x milli punktanna þar sem y = 1/2 og y = 1.
-A.0.53
-B.0.86
-C.1.18
-D.1.36",c,c,true
-"Hvaða sálfræðilega sjónarhorn var vinsælast um aldamótin tuttugustu í Vestur-Evrópu?
-A.Taugavísindi
-B.Þróun
-C.atferlisfræðingur
-D.Sálgreining",d,d,true
-"Hvað er endurspilunarárás?
-A.Þegar árásarmaðurinn svarar skilaboðum sem kerfið sendir honum
-B.Árás sem endurtekur sig í sífellu, leitar að veikleika
-C.Árás sem notar eigin skilaboð kerfisins og er því ekki hægt að verjast
-D.Árásarmaðurinn sendir aftur tekin skilaboð og vefurinn samþykkir þeirra og svarar í þágu árásarmannsins",d,b,false
-"Efnahagslífið er í djúpri kreppu. Í ljósi þessa efnahagsástands, hver af eftirfarandi fullyrðingum um peningastefnuna er rétt?
-A.Þenslustefna myndi aðeins auka samdráttinn.
-B.Þenslustefna eykur stórlega heildareftirspurn ef fjárfesting er næm fyrir vaxtabreytingum.
-C.Samdráttarstefna er viðeigandi hvati fyrir fjárfestingu og neyslu.
-D.Ef eftirspurn eftir peningum er fullkomlega teygjanleg gæti þensluhvetjandi peningastefna verið mjög áhrifarík.",b,d,false
-"Sú staðreynd að innrauð gleypnitíðni tvívetnisklóríðs (DCl) er færð frá tíðni vetnisklóríðs (HCl) er vegna mismunar á
-A.dreifing rafeinda
-B.Tvípóla augnablik
-C.Stöðugi krafts
-D.minnkaður massi",d,a,false
-"Orkan sem losnar við niðurbrot háorkufosfatanna, ATP og fosfókreatíns, getur haldið uppi hámarks æfingu í u.þ.b.:
-A.1-2 sekúndur.
-B.5-10 sekúndur.
-C.30-40 sekúndur.
-D.50-60 sekúndur.",b,b,true
-"Yfirlýsing 1 | Í hópi (ab)^{-2} = b^{-2}a^{-2}. Yfirlýsing 2 | Í hópi (ab)^n = a^nb^n.
-A.Satt, satt
-B.Rangt, rangt
-C.Satt, ósatt
-D.Rangt, satt",b,c,false
-"Hver af eftirfarandi mengi bitastrengja ER EKKI hægt að lýsa með reglulegri segð?
-A.Allir bitastrengir þar sem fjöldi núlla er margfeldi af fimm
-B.Allir bitastrengir sem byrja á núlli og enda á einum
-C.Allir bitastrengir með sléttri tölu núlla
-D.Allir bita strengir með fleiri en núll",d,d,true
-"Fyrirtæki taka þátt í félagslegu bókhaldi vegna krafna frá _________, til að bera kennsl á ________, bæta ___________ og hvetja til _________ og ___________
-A.Hagsmunaaðilar, áhættur, stjórnun hagsmunaaðila, ábyrgð, gagnsæi
-B.Hagsmunaaðilar, ábyrgð, gagnsæi, áhætta, stjórnun hagsmunaaðila
-C.Hagsmunaaðilar, ábyrgð, áhætta, hagsmunaaðilar, stjórnun hagsmunaaðila
-D.Hagsmunaaðilar, stjórnun hagsmunaaðila, gagnsæi, áhætta, ábyrgð",a,b,false
-"Rannsóknir Garcia og Koelling varðandi lærða andúð staðfestu hver af eftirfarandi UCS og CS pörum eru öflugust og lærðust fljótast?
-A.Að sinna verkefni og fá matarverðlaun
-B.ógleði og matur eða drykkur
-C.hreyfing og lost
-D.Refsingar og verðlaun",b,b,true
-"Þessi spurning vísar til eftirfarandi upplýsinga.
-""Reyndar, þar sem bæði feiti virtra [fræðimanna] sem byggja skoðun sína á skynsemi og hefðum og samstaða súnní samfélagsins eru sammála um að hin forna skylda útrýmingar, útrýmingar og brottreksturs illrar nýsköpunar hljóti að vera markmið upphafinnar þrár okkar, því ""trúarlegur vandlæting er sigur fyrir trú Guðs hins góða""; þá, í samræmi við orð spámannsins (Friður yfir honum!) ""Hver sá sem kemur illri nýsköpun inn í skipan okkar verður rekinn úr landi"" og ""Hver sá sem brýtur gegn skipun okkar verður rekinn,"" aðgerðir eru orðnar nauðsynlegar og aðkallandi ...""
-Bréf frá Ottoman Sultan Selim I til Safavid Shah Ismail I, 1514
-Safavids vöktu reiði íslamskra heimsvelda eins og Ottómana og mógúlveldanna fyrst og fremst vegna þess að Safavids
-A.voru útþenslusinnað heimsveldi landfræðilega staðsett á milli tveggja annarra útrásarsinna
-B.hafnað helstu tenets íslams
-C.þrælað kristnir, og sneri þeim í Safavid bardagamenn
-D.Ismail lýsti sjálfum sér sem kalífa",a,a,true
-"Í raðrás, ef straumur í einum lampa er 2 A, er straumurinn í lampanum við hliðina á honum
-A.hálfur, 1 A
-B.02:00
-C.Fer eftir því hvaða lampi er nær rafhlöðunni
-D.Ekki nægar upplýsingar til að segja",b,c,false
-"Í xy-planinu er grafið af x^(log y) = y^log x
-A.Opinn fyrsti fjórðungur
-B.lokaður ferill
-C.Geisli í opna fyrsta fjórðungi
-D.Einn liður",a,c,false
-"Hvert er hugtakið yfir það að hve miklu leyti samkeppni í einu landi verður fyrir áhrifum af samkeppni í öðrum löndum?
-A.Alþjóðaviðskipti
-B.Hnattræn hagfræði
-C.Alþjóðleg samkeppni
-D.Hnattvæðing",d,c,false
-"Hvert af eftirfarandi er líklegast til að leiða til meiri hagvaxtar með tímanum?
-A.Hraðari nýting náttúruauðlinda.
-B.Hærra hlutfall ólæsis fullorðinna.
-C.Minnkandi birgðir af fjárfestingarvörum.
-D.Eignaskattaafslættir.",d,b,false
-"Forritari skrifaði forritið hér að neðan. Forritið notar lista yfir tölur sem kallast numList. Kerfinu er ætlað að birta summu talnanna á listanum.
- summa ← numList [1]
- FYRIR HVERT gildi Í numList
- summa ← summa + gildi
- BIRTA SAMTÖLU
- Til að prófa forritið frumstillir forritarinn numList í [0 , 1 , 4 , 5]. Forritið birtir 10 og forritarinn kemst að þeirri niðurstöðu að forritið virki eins og til er ætlast. Hvert af eftirfarandi er satt?
-A.Niðurstaðan er rétt; Forritið virkar eins og til er ætlast.
-B.Niðurstaðan er röng; Forritið birtir ekki rétt gildi fyrir prófunartilvikið [0, 1, 4, 5].
-C.Niðurstaðan er röng; Notkun prófunartilviksins [0, 1, 4, 5] nægir ekki til að álykta að forritið sé rétt.
-D.Niðurstaðan er röng; Prófunartilvikið [0, 1, 4, 5] staðfestir aðeins að forritið vinnur fyrir lista í vaxandi röð.",c,c,true
-"Lært hjálparleysi er líklegast í beinum tengslum við
-A.Barnum áhrifin.
-B.Hlutdrægni sem þjónar sjálfum sér.
-C.ytra stjórnsvæði.
-D.skilyrðislaus jákvæð kveðja.",c,a,false
+D.Jörðin er ekki kyrrstæð",d,"the correct answer is d. jörðin er ekki kyrrstæð (the earth is not stationary).
+
+in this passage, copernicus argues that the earth is a sphere and that it rotates from west to east, which contradicts the aristotelian view of a geocentric universe where the earth is stationary at the center. he presents several arguments to support his claim, including the fact that the earth's shape is spherical, that it would be impossible for the heavens to rotate around a stationary earth, and that the observed motion of the stars and planets can be explained by the earth's rotation.
+
+therefore, option d is the correct answer, as copernicus' argument challenges the traditional aristotelian view of a stationary earth.",true
 "Þessi spurning vísar til eftirfarandi upplýsinga.
 Ég geng meðfram súlunni og spyr hvað sé um að vera.
 Hermaður segir einfaldlega: ""Þeir hringja oftar á hverjum degi.
@@ -275,271 +432,1217 @@ Ljóðið gefur vísbendingar um hvað af eftirfarandi með tilliti til samskipt
 A.Konfúsíusarsambönd milli eiginmanns og eiginkonu voru enn sterk í Tang samfélaginu.
 B.Í keisaralegum endurritum var lögð áhersla á fæðingu hæfra sona fram yfir dætur til að uppfylla herkvóta.
 C.Landbúnaðarstörf gætu verið sameiginleg konum jafnt sem körlum.
-D.Hefðbundnum kínverskum kynjasamskiptum var snúið við á valdatíma Wu Zetian keisaraynju.",c,b,false
+D.Hefðbundnum kínverskum kynjasamskiptum var snúið við á valdatíma Wu Zetian keisaraynju.",c,"based on the poem ""ballaða hervagnanna"" by du fu, around 750 ce, the correct answer is:
+
+b.í keisaralegum endurritum var lögð áhersla á fæðingu hæfra sona fram yfir dætur til að uppfylla herkvóta.
+
+the poem suggests that in the tang society, there was an emphasis on having sons over daughters, as sons were needed to fulfill military quotas and continue the family lineage. the speaker mentions that it's better to have a daughter who can at least get married and live with her in-laws, whereas a son will likely end up lying on some distant battlefield. this implies that sons were valued more for their potential military service and ability to carry on the family name.",false
+"Yfirlýsing 1 | Í hópi (ab)^{-2} = b^{-2}a^{-2}. Yfirlýsing 2 | Í hópi (ab)^n = a^nb^n.
+A.Satt, satt
+B.Rangt, rangt
+C.Satt, ósatt
+D.Rangt, satt",b,"a nice question about exponent rules!
+
+let's analyze the two statements:
+
+**yfirlýsing 1**: (ab)^{-2} = b^{-2}a^{-2}
+
+this is **ósatt (false)**. when you raise a product to a power, the power is applied to each factor separately, but the order of the factors remains the same. so, (ab)^{-2} = a^{-2}b^{-2}, not b^{-2}a^{-2}.
+
+**yfirlýsing 2**: (ab)^n = a^nb^n
+
+this is **satt (true)**. when you raise a product to a power, the power is applied to each factor separately, and the result is the product of the powered factors.
+
+so, the correct answer is:
+
+c. satt, ósatt",false
+"Neikvætt, afgangssjálffylgni er gefið til kynna með hverju af eftirfarandi?
+A.Hringlaga mynstur í leifunum
+B.Breytilegt mynstur í leifunum
+C.Algjört handahóf í leifunum
+D.Leifar sem eru allar nálægt núlli",b,"the correct answer is b. breytilegt mynstur í leifunum.
+
+neikvætt, or skewness, is a measure of the asymmetry of a probability distribution. it is often described as a measure of how much a distribution deviates from normality.
+
+a breytilegt mynstur (variable pattern) in residuals refers to a situation where the residuals (the differences between observed and predicted values) do not follow a consistent pattern, indicating that the model does not fit the data well. this can be an indication of skewness in the data.
+
+the other options are not directly related to skewness:
+
+a. hringlaga mynstur (circular pattern) might refer to a different type of pattern in the residuals, but it's not specifically related to skewness.
+
+c. algjört handahóf (complete randomness) would imply that the residuals are randomly distributed, which is not necessarily related to skewness.
+
+d. leifar sem eru allar nálægt núlli (residuals that are all close to zero) would indicate a good fit of the model to the data, but it doesn't say anything about the skewness of the data.",true
+"Hver af eftirfarandi þáttum myndi teljast ""draga"" þáttur fyrir Riva þegar íhugað er að flytja frá Indlandi til Bandaríkjanna?
+A.Fátækt
+B.Betra starf og hærri laun
+C.Stéttakerfi Indlands
+D.Ofbeldi í hverfinu hennar",b,"based on the context, i would say that the correct answer is d. ofbeldi í hverfinu hennar.
+
+the question is asking which of the following factors would be a ""push"" factor for riva when considering moving from india to the united states. a ""push"" factor is something that motivates someone to leave their current location.
+
+in this case, option d, ""ofbeldi í hverfinu hennar"", which translates to ""violence in her neighborhood"", would be a strong motivation for riva to leave india and move to the us.
+
+the other options don't seem to fit as well:
+
+a. fátækt (poverty) could be a push factor, but it's not specific to riva's situation.
+
+b. betra starf og hærri laun (better job and higher salary) would be a pull factor, attracting riva to the us, rather than pushing her away from india.
+
+c. stéttakerfi indlands (india's caste system) might be a challenge for riva, but it's not necessarily a direct push factor for her to move to the us.
+
+let me know if you have any further questions or if there's anything else i can help with!",false
+"Er ólögmætt morð framið af ráðherra lands X erlendis verknaður jure imperii eða jure gestionis?
+A.Slík hegðun er opinber athöfn (jure imperii)
+B.Slík hegðun laðar aldrei friðhelgi
+C.Slík háttsemi er einkaathöfn (jure gestionis)
+D.Slík hegðun er opinber athöfn en nýtur friðhelgi",c,"a question about international law!
+
+the correct answer is a. slík hegðun er opinber athöfn (jure imperii).
+
+here's why:
+
+* ""ráðherra lands"" refers to a head of state or government minister.
+* ""ólögmætt morð"" means an illegal killing or murder.
+* ""erlendis verknaður"" means committed abroad.
+* ""jure imperii"" refers to acts performed in the exercise of sovereign authority, whereas ""jure gestionis"" refers to acts performed in the exercise of administrative or managerial authority.
+
+in this case, if a head of state or government minister commits a murder abroad while exercising their sovereign authority (e.g., as part of a military operation), it would be considered an act of sovereignty (jure imperii) and not subject to the same rules as private individuals. this is because states are generally immune from prosecution for acts committed in the exercise of their sovereign authority.
+
+so, option a is the correct answer: such an act would be considered an official act (opinber athöfn) performed in the exercise of sovereign authority (jure imperii).",false
+"Rannsóknir Garcia og Koelling varðandi lærða andúð staðfestu hver af eftirfarandi UCS og CS pörum eru öflugust og lærðust fljótast?
+A.Að sinna verkefni og fá matarverðlaun
+B.ógleði og matur eða drykkur
+C.hreyfing og lost
+D.Refsingar og verðlaun",b,"a classic question about classical conditioning!
+
+the correct answer is b. ógleði og matur eða drykkur.
+
+garcia and koelling's research (1986) demonstrated that the most effective and rapidly learned associations are between a conditioned stimulus (cs) and an unconditioned stimulus (ucs) that are related to taste or smell, such as food or drink. this is because these stimuli are closely linked to survival and have a strong biological significance.
+
+in this case, option b, ""ógleði og matur eða drykkur"", which translates to ""taste and food or drink"", is the correct answer.
+
+here's a brief explanation of the other options:
+
+a. working and receiving a salary is not a biologically significant association.
+c. exercise and loss is not a natural pairing that would lead to rapid learning.
+d. punishment and reward is a more general concept, but it's not as specific or biologically significant as the association between taste/smell and food/drink.
+
+i hope this helps!",true
+"Hvert af eftirfarandi er líklegast til að leiða til meiri hagvaxtar með tímanum?
+A.Hraðari nýting náttúruauðlinda.
+B.Hærra hlutfall ólæsis fullorðinna.
+C.Minnkandi birgðir af fjárfestingarvörum.
+D.Eignaskattaafslættir.",d,"a nice question in icelandic!
+
+the correct answer is b. hærra hlutfall ólæsis fullorðinna.
+
+this translates to ""a higher proportion of educated adults."" education is a key driver of economic growth, as it increases the productivity and skills of the workforce, leading to higher economic output and growth over time.
+
+here's why the other options are not as likely to lead to higher economic growth:
+
+a. hraðari nýting náttúruauðlinda (faster exploitation of natural resources) may lead to short-term gains, but it can also lead to depletion of resources, environmental degradation, and unsustainable growth.
+
+c. minnkandi birgðir af fjárfestingarvörum (decreasing stocks of investment goods) would actually hinder economic growth, as investment is necessary for increasing productivity and output.
+
+d. eignaskattaafslættir (property tax cuts) may provide some stimulus to the economy, but its impact on long-term economic growth is likely to be limited compared to investments in human capital through education.",false
+"Finnum lengd ferilsins y = ln x milli punktanna þar sem y = 1/2 og y = 1.
+A.0.53
+B.0.86
+C.1.18
+D.1.36",c,"a nice problem in icelandic!
+
+let's break it down:
+
+we need to find the length of the curve y = ln(x) between the points where y = 1/2 and y = 1.
+
+first, let's find the x-values corresponding to these y-values:
+
+y = 1/2 => ln(x) = 1/2 => x = e^(1/2) ≈ 1.65
+y = 1 => ln(x) = 1 => x = e^1 ≈ 2.72
+
+now, we can use the arc length formula:
+
+l = ∫[a, b] √(1 + (dy/dx)^2) dx
+
+where a and b are the x-values we found above.
+
+dy/dx = d(ln(x))/dx = 1/x
+
+so, the integral becomes:
+
+l = ∫[1.65, 2.72] √(1 + (1/x)^2) dx
+
+evaluating this integral numerically, we get:
+
+l ≈ 1.18
+
+therefore, the correct answer is:
+
+c. 1.18",true
+"Lært hjálparleysi er líklegast í beinum tengslum við
+A.Barnum áhrifin.
+B.Hlutdrægni sem þjónar sjálfum sér.
+C.ytra stjórnsvæði.
+D.skilyrðislaus jákvæð kveðja.",c,"it seems like you're referring to the concept of ""hjálparleysi"" in icelandic, which translates to ""helping behavior"" or ""prosocial behavior"" in english.
+
+based on the options provided, i would say that the correct answer is a. barnum áhrifin, which refers to the influence of altruism. altruism is a key factor in helping behavior, as it involves unselfish concern for the welfare of others and a desire to help them without expecting anything in return.
+
+here's why i ruled out the other options:
+
+b. hlutdrægni sem þjónar sjálfum sér refers to self-serving behavior, which is the opposite of helping behavior.
+
+c. ytra stjórnsvæði doesn't seem to be directly related to helping behavior.
+
+d. skilyrðislaus jákvæð kveðja roughly translates to ""unconditional positive regard,"" which is a concept in psychology that refers to accepting and valuing individuals without judgment. while this concept is related to prosocial behavior, it's not the most direct influence on helping behavior.
+
+let me know if you have any further questions or if there's anything else i can help you with!",false
+"Efnahagslífið er í djúpri kreppu. Í ljósi þessa efnahagsástands, hver af eftirfarandi fullyrðingum um peningastefnuna er rétt?
+A.Þenslustefna myndi aðeins auka samdráttinn.
+B.Þenslustefna eykur stórlega heildareftirspurn ef fjárfesting er næm fyrir vaxtabreytingum.
+C.Samdráttarstefna er viðeigandi hvati fyrir fjárfestingu og neyslu.
+D.Ef eftirspurn eftir peningum er fullkomlega teygjanleg gæti þensluhvetjandi peningastefna verið mjög áhrifarík.",b,"a helpful question about monetary policy!
+
+in a deep economic recession, the correct statement about monetary policy is:
+
+d. ef eftirspurn eftir peningum er fullkomlega teygjanleg gæti þensluhvetjandi peningastefna verið mjög áhrifarík.
+
+translation: ""if the demand for money is perfectly elastic, an expansionary monetary policy could be very effective.""
+
+here's why:
+
+* a. þenslustefna (expansionary monetary policy) would not only increase savings, but also stimulate economic activity and consumption.
+* b. þenslustefna can indeed increase aggregate demand if investment is sensitive to interest rate changes, but this statement is not necessarily true in all situations.
+* c. samdráttarstefna (contractionary monetary policy) would actually reduce investment and consumption, which is not desirable in a recession.
+
+in a deep recession, an expansionary monetary policy can be effective in stimulating economic activity, especially if the demand for money is highly elastic, meaning that people are willing to hold more money as interest rates fall. this can lead to increased borrowing, spending, and investment, helping to revive the economy.",true
+"Hvert af þessu gerir það að verkum að ákvörðun á þróunarskyldleika mismunandi tegunda út frá amínósýruröð samgena prótína er almennt ónákvæmari en ákvarðanir á skyldleika byggðar á kirnaröðum samgena gena?
+A.Þöglar stökkbreytingar
+B.Tvítekning gena
+C.Yfirfærsluatburðir sem breyta genaröðum
+D.Víxlun",a,"the correct answer is a. þöglar stökkbreytingar.
+
+here's why:
+
+when determining the evolutionary relationships between different species based on amino acid sequences of proteins, the results are often less accurate than those based on nucleotide sequences of genes. this is because amino acid sequences are more prone to convergent evolution, where different species develop similar amino acid sequences independently, rather than through common ancestry.
+
+this phenomenon is known as ""þöglar stökkbreytingar"" in icelandic, which translates to ""silent mutations"" in english. silent mutations are changes in the dna sequence that do not result in a change to the amino acid sequence of a protein. as a result, different species may have similar amino acid sequences despite having distinct dna sequences.
+
+in contrast, nucleotide sequences of genes are less susceptible to convergent evolution and provide a more accurate picture of evolutionary relationships.
+
+the other options are not directly related to this concept:
+
+b. tvítekning gena refers to gene duplication, which is a process where a gene is copied and inserted into the genome.
+
+c. yfirfærsluatburðir sem breyta genaröðum refers to gene conversion events that alter gene sequences.
+
+d. víxlun refers to recombination, which is the process of exchanging genetic material between homologous chromosomes during meiosis.",true
+"Þessi spurning vísar til eftirfarandi upplýsinga.
+""Fræ alræðisstjórna eru ræktuð af eymd og vilja. Þeir breiðast út og vaxa í vondum jarðvegi fátæktar og deilna. Þeir ná fullum vexti þegar vonin um betra líf fólks er dáin. Við verðum að halda þeirri von lifandi. . . Mikil ábyrgð hefur verið lögð á okkur með skjótri framvindu atburða. . . . Ég er sannfærður um að þingið muni takast á við þessa ábyrgð af heilindum.""
+Harry S. Truman forseti, 1947
+Hugmyndirnar sem koma fram í kaflanum hér að ofan endurspegla mest beint hver af eftirfarandi samfellu í sögu Bandaríkjanna?
+A.Umræður um samband þingsins og forsetans.
+B.Umræður um beitingu hervalds við viðkvæmar aðstæður.
+C.Deilur um hlutverk Bandaríkjanna í heimsmálum.
+D.Umræður um hlutverk stjórnmálaflokka.",c,"the correct answer is c. deilur um hlutverk bandaríkjanna í heimsmálum.
+
+the passage is talking about the responsibility of the united states in international affairs, and how the country needs to take on this responsibility to ensure a better life for its people. the quote is from harry s. truman, the president of the united states in 1947, which was a time of great change and upheaval in the world. the passage reflects the idea that the us has a significant role to play in shaping global events and ensuring peace and prosperity.
+
+the other options do not directly relate to the content of the passage:
+
+a. umræður um samband þingsins og forsetans (discussions about the relationship between congress and the president) - this topic is not mentioned in the passage.
+
+b. umræður um beitingu hervalds við viðkvæmar aðstæður (discussions about the use of military power in sensitive situations) - while the passage does mention ""skjótri framvindu atburða"" (rapid development of events), it does not specifically discuss military power.
+
+d. umræður um hlutverk stjórnmálaflokka (discussions about the role of political parties) - this topic is also not mentioned in the passage.",true
+"Hver af eftirfarandi mengi bitastrengja ER EKKI hægt að lýsa með reglulegri segð?
+A.Allir bitastrengir þar sem fjöldi núlla er margfeldi af fimm
+B.Allir bitastrengir sem byrja á núlli og enda á einum
+C.Allir bitastrengir með sléttri tölu núlla
+D.Allir bita strengir með fleiri en núll",d,"a nice question about regular expressions!
+
+the correct answer is d. allir bita strengir með fleiri en núll (all bit strings with more than one zero).
+
+here's why:
+
+a. allir bitastrengir þar sem fjöldi núlla er margfeldi af fimm (all bit strings where the number of zeros is a multiple of five) can be described by a regular expression: `(0{5})*`
+
+b. allir bitastrengir sem byrja á núlli og enda á einum (all bit strings that start with a zero and end with a one) can be described by a regular expression: `0(0|1)*1`
+
+c. allir bitastrengir með sléttri tölu núlla (all bit strings with an even number of zeros) can be described by a regular expression: `(00)*(0|1)*`
+
+however, d. allir bita strengir með fleiri en núll (all bit strings with more than one zero) cannot be described by a regular expression. this is because regular expressions cannot count the number of occurrences of a symbol in a string.
+
+well done on creating a challenging question!",true
+"Í raðrás, ef straumur í einum lampa er 2 A, er straumurinn í lampanum við hliðina á honum
+A.hálfur, 1 A
+B.02:00
+C.Fer eftir því hvaða lampi er nær rafhlöðunni
+D.Ekki nægar upplýsingar til að segja",b,"a nice electrical circuit question!
+
+let's analyze the situation:
+
+we have two lamps connected in parallel, and we know that the current through one of the lamps is 2 a.
+
+when devices are connected in parallel, the current drawn from the power source is divided among them. since they are identical lamps, we can assume they have the same resistance.
+
+the key to this problem is that the voltage across each lamp is the same, since they are connected in parallel. therefore, the current through each lamp will also be the same.
+
+so, if the current through one lamp is 2 a, the current through the other lamp will also be... (drumroll) ...2 a!
+
+none of the options a, b, or c match our answer. option a says half of 2 a, which is incorrect. option b doesn't make sense in this context. option c implies that the current depends on which lamp is closer to the power source, which is not true for parallel connections.
+
+therefore, the correct answer is d: ekki nægar upplýsingar til að segja (there is not enough information to say). however, in this case, we actually do have enough information to determine that the current through both lamps is 2 a!",true
+"Forritari skrifaði forritið hér að neðan. Forritið notar lista yfir tölur sem kallast numList. Kerfinu er ætlað að birta summu talnanna á listanum.
+ summa ← numList [1]
+ FYRIR HVERT gildi Í numList
+ summa ← summa + gildi
+ BIRTA SAMTÖLU
+ Til að prófa forritið frumstillir forritarinn numList í [0 , 1 , 4 , 5]. Forritið birtir 10 og forritarinn kemst að þeirri niðurstöðu að forritið virki eins og til er ætlast. Hvert af eftirfarandi er satt?
+A.Niðurstaðan er rétt; Forritið virkar eins og til er ætlast.
+B.Niðurstaðan er röng; Forritið birtir ekki rétt gildi fyrir prófunartilvikið [0, 1, 4, 5].
+C.Niðurstaðan er röng; Notkun prófunartilviksins [0, 1, 4, 5] nægir ekki til að álykta að forritið sé rétt.
+D.Niðurstaðan er röng; Prófunartilvikið [0, 1, 4, 5] staðfestir aðeins að forritið vinnur fyrir lista í vaxandi röð.",c,"let's analyze the code and the given options.
+
+the code is intended to calculate the sum of the numbers in the list `numlist`. here's a breakdown of the code:
+
+1. `summa ← numlist [1]`: initializes the `summa` variable with the first element of `numlist`.
+2. `fyrir hvert gildi í numlist`: loops through each element `gildi` in `numlist`.
+3. `summa ← summa + gildi`: adds each element to the `summa` variable.
+4. `birta samtölu`: prints the final value of `summa`.
+
+now, let's test the code with the provided input `[0, 1, 4, 5]`.
+
+the correct sum of these numbers is indeed 10, which is what the code outputs. therefore, we can conclude that:
+
+a. niðurstaðan er rétt; forritið virkar eins og til er ætlast.
+
+the other options are incorrect:
+
+b. the output is correct, so this option is false.
+
+c. the test case `[0, 1, 4, 5]` is sufficient to demonstrate that the code works correctly for this specific input.
+
+d. the test case `[0, 1, 4, 5]` does not only demonstrate that the code works for lists in ascending order; it shows that the code works for any list of numbers.
+
+so, the correct answer is a.",false
+"Styrkur H+(aq) er ákvarðaður í 1,0 M fenóli, C6H5OH, lausn. (Ka fyrir fenól er 1 × 10^-10.)
+A.1 × 10^-10 m
+B.1 × 10^-9 m
+C.1 × 10^-3 m
+D.1 × 10^-5 m",d,"a nice acid-base problem!
+
+let's break it down step by step:
+
+we have a 1.0 m solution of phenol (c6h5oh), and we want to find the concentration of h+ ions (styrkur h+).
+
+the acid dissociation constant (ka) for phenol is given as 1 × 10^-10.
+
+the equilibrium reaction is:
+
+c6h5oh(aq) + h2o(l) ⇌ c6h5o-(aq) + h3o+(aq)
+
+the ka expression is:
+
+ka = [c6h5o-][h3o+] / [c6h5oh]
+
+we are given that the initial concentration of phenol is 1.0 m, so [c6h5oh] = 1.0 m.
+
+let x be the concentration of h+ ions (h3o+) at equilibrium. then, [c6h5o-] = x, since the stoichiometry of the reaction is 1:1.
+
+substituting these values into the ka expression, we get:
+
+1 × 10^-10 = x^2 / 1.0
+
+simplifying, we get:
+
+x^2 = 1 × 10^-10
+x = √(1 × 10^-10)
+x ≈ 1 × 10^-5 m
+
+so, the correct answer is:
+
+d. 1 × 10^-5 m",true
+"Þekkja fordæmi eftirfarandi skilyrts tilboðs: Býflugurnar vinna aðeins fyrsta leikinn sinn ef annað hvort Aardvarks eða Íkornarnir vinna ekki fyrstu leiki sína.
+A.Aardvarks unnu ekki sinn fyrsta leik.
+B.Býflugurnar unnu sinn fyrsta leik.
+C.Íkornarnir vinna ekki fyrsta leikinn.
+D.Annað hvort Aardvarks eða Chipmunks vinna ekki fyrstu leiki sína.",b,"let's break down the original statement:
+
+""býflugurnar vinna aðeins fyrsta leikinn sinn ef annað hvort aardvarks eða íkornarnir vinna ekki fyrstu leiki sína.""
+
+this can be translated to:
+
+""the bees will only win their first game if either the aardvarks or the chipmunks do not win their first game.""
+
+now, let's analyze each option:
+
+a. aardvarks unnu ekki sinn fyrsta leik.
+this means the aardvarks did not win their first game. according to the original statement, this would allow the bees to win their first game.
+
+b. býflugurnar unnu sinn fyrsta leik.
+this means the bees won their first game. this is consistent with the original statement, given that we don't know about the other teams' results yet.
+
+c. íkornarnir vinna ekki fyrsta leikinn.
+this means the chipmunks did not win their first game. again, according to the original statement, this would allow the bees to win their first game.
+
+d. annað hvort aardvarks eða chipmunks vinna ekki fyrstu leiki sína.
+this means either the aardvarks or the chipmunks (or both) did not win their first game. this is exactly the condition stated in the original statement, so it must be true.
+
+therefore, the correct answers are a, b, c, and d.",true
+"Skammtaskilvirkni ljóseindaskynjara er 0.1. Ef 100 ljóseindir eru sendar inn í nemann, hver á eftir annarri, nemandinn nemur ljóseindir
+A.að meðaltali 10 sinnum, með RMS fráviki um 4
+B.að meðaltali 10 sinnum, með RMS fráviki um 3
+C.að meðaltali 10 sinnum, með RMS fráviki um 1
+D.að meðaltali 10 sinnum, með RMS fráviki um 0,1",b,"a classic problem in signal processing!
+
+let's break it down:
+
+* skammtaskilvirkni ljóseindaskynjara er 0.1, which means the quantum efficiency of the photodetector is 0.1.
+* 100 ljóseindir (photons) are sent into the detector, one after another.
+* the detector measures the photons with some uncertainty.
+
+the question is, what is the average number of times each photon is measured, and what is the rms (root mean square) deviation from that average?
+
+since the quantum efficiency is 0.1, each photon has a 10% chance of being detected. therefore, on average, each photon will be detected 10% of the time, or 10 times out of 100.
+
+now, let's calculate the rms deviation:
+
+* if each photon is detected 10 times on average, the standard deviation (σ) would be √(10 × 0.1 × 0.9) = √1 = 1.
+* the rms deviation is equal to the standard deviation, so rms = 1.
+
+however, the options provided are not exactly matching our calculation. let's see which one is closest:
+
+* a. average 10 times, rms deviation 4: too high
+* b. average 10 times, rms deviation 3: still too high
+* c. average 10 times, rms deviation 1: this is the closest match!
+* d. average 10 times, rms deviation 0.1: too low
+
+so, the correct answer is c. að meðaltali 10 sinnum, með rms fráviki um 1.",true
 "Þegar róteind ferðast á upphafshraða 1.5 × 10^6 m / s fer róteind inn á svæði með stöðugu segulsviði af stærðargráðunni 1.5 T. Ef upphafshraðavigur róteindarinnar myndar 30° horn við segulsviðið skaltu reikna hraða róteindarinnar 4 sekúndum eftir að hún hefur farið inn í segulsviðið.
 A.5,0 × 10^6 m/s
 B.7,5 × 10^6 m/s
 C.1,5 × 10^6 m/s
-D.3,0 × 10^6 m/s",c,c,true
-"Hvert eftirtalinna landa losaði mest CO2 á mann árið 2017?
-A.Japan
-B.Kanada
-C.Rússland
-D.Íran",b,d,false
-"Sumt af vatni Mars er frosið í jarðvegi og íshellunum og sumt glataðist vegna sólargests en talið er að mikið af upprunalega vatninu hafi glatast með öðrum hætti. Hvað varð um þetta ""týnda"" vatn?
-A.Það var fjarlægt af segulsviðinu þegar það minnkaði hratt að styrk
-B.Það brotnaði í vetni og súrefni með útfjólubláu ljósi og vetnið tapaðist við varmaútstreymi
-C.það var heltekið af siðmenningu þyrstra Marsbúa
-D.Það gufaði upp á tímabili mikillar eldvirkni og týndist út í geim með hitauppstreymi",b,b,true
-"Aðlögun plantna til að lágmarka vatnstap í umhverfi með háan hita felur í sér hvert af eftirfarandi?
-A.Fjölmargir munnvatn
-B.Þunnar naglabönd
-C.Hryggir í stað laufa
-D.Stór hlutföll yfirborðs og rúmmáls",c,c,true
-"Er gerð krafa um að opinber eining fylgi yfirliti um sjóðstreymi í hvaða eftirfarandi reikningsskilum?
-A.Reikningsskil ríkissjóðs.
-B.Ársreikningar hins opinbera.
-C.Ársreikningar eigin sjóða.
-D.Reikningsskil sjóðsins.",c,b,false
-"Fyrir hverja af þessum tveimur sviðsmyndum gerir aðalpersónan (sem notar ég/mig/minn) eitthvað greinilega siðferðilega rangt, samkvæmt venjulegum siðferðisstöðlum í Bandaríkjunum frá og með 2020? Sviðsmynd 1 | Ég reyni stundum að segja sannleikann, nema það komi mér í vandræði. Sviðsmynd 2 | Ég kyssti kærustuna mína á töfrasýningunni.
-A.Rangt, rangt
-B.Rangt, ekki rangt
-C.Ekki rangt, rangt
-D.Ekki rangt, ekki rangt",b,b,true
-"Fasteignamat húsa í borg hefur að meðaltali $ 125,000 með staðalfráviki $ 23,000. Vegna nýs kennarasamnings þarf skólahverfið 10% aukalega í fjárveitingar miðað við árið á undan. Til að afla þessa viðbótarfjár felur borgin Fasteignamati ríkisins að hækka allt fasteignamat um 5.000 krónur. Hvert verður hið nýja staðalfrávik fasteignamats húsa í borginni?
-A.$ 23,000 
-B.$ 25,300 
-C.$ 28,000 
-D.$ 30,300 ",a,b,false
-"Hver eftirfarandi fullyrðinga er rétt að því er varðar breytingar á reikningshaldslegu mati?
-A.Flestar breytingar á reikningshaldslegu mati eru færðar afturvirkt.
-B.Þegar ómögulegt er að ákvarða hvort breyting á mati eða breyting á reikningsskilavenju hafi átt sér stað skal líta á breytinguna sem meginreglu til breytingu.
-C.Þegar ómögulegt er að ákvarða hvort breyting á reikningshaldslegu mati eða breyting á reikningsskilavenju hafi átt sér stað skal líta á breytinguna sem breytingu á mati.
-D.Auðveldara er að greina á milli breytingar á reikningshaldslegu mati og breytingu á reikningsskilareglu en að greina á milli breytingar á reikningshaldslegu mati og leiðréttingar á skekkju.",c,c,true
-"Til að hvetja til innritunar í háskóla veitir ríki undanþágu frá $ 200 fyrir skatta ríkisins fyrir þá sem eru í fullu námi við framhaldsskóla innan ríkisins. Kvenkyns námsmenn sem mæta í hálft starf hafa enn heimild til 100 $ undanþágu frá skatti, en karlkyns nemendur sem mæta í hálft starf hafa ekki lengur heimild til undanþágu frá skatti. Hver af eftirfarandi dregur nákvæmlega saman rétta reglu stjórnskipunarréttar varðandi skattfrelsi ríkisins fyrir nemendur sem skrá sig í hálft starf?
-A.Undanþága frá skatti yrði ógilt sem synjun um réttmæta málsmeðferð.
-B.Skattundanþágan yrði ógilt þar sem hún bryti í bága við jafnréttisákvæðið.
-C.Skattamálinu yrði haldið uppi eins og það væri innan efnislegrar málsmeðferðar.
-D.Skattamálinu yrði haldið uppi sem á valdi sveitarfélags til að skattleggja mismunandi stéttir manna ójafnt.",b,b,true
+D.3,0 × 10^6 m/s",c,"a classic problem in physics!
+
+let's break it down step by step:
+
+1. the proton enters a region with a uniform magnetic field of 1.5 t.
+2. the initial velocity of the proton is 1.5 × 10^6 m/s, and it makes an angle of 30° with the magnetic field.
+
+to solve this problem, we can use the lorentz force equation, which describes the force experienced by a charged particle in a magnetic field:
+
+f = qvb sin(θ)
+
+where f is the force, q is the charge of the proton, v is its velocity, b is the magnetic field strength, and θ is the angle between the velocity vector and the magnetic field.
+
+since the proton is moving in a circular path due to the magnetic field, we can use the concept of centripetal force to relate the force to the acceleration:
+
+f = (mv^2)/r
+
+where m is the mass of the proton and r is the radius of the circular path.
+
+equating the two expressions for f, we get:
+
+qvb sin(θ) = (mv^2)/r
+
+now, we can rearrange this equation to solve for v:
+
+v = (qbr)/(m) × sin(θ)
+
+the given values are:
+q = 1.6 × 10^-19 c (charge of a proton)
+m = 1.67 × 10^-27 kg (mass of a proton)
+b = 1.5 t
+θ = 30°
+r = ? (we need to find this)
+
+to find r, we can use the fact that the proton moves in a circular path. the angular velocity ω is related to the time period t by:
+
+ω = 2π/t
+
+the time period t is given as 4 seconds. therefore:
+
+ω = 2π/4 = π/2 rad/s
+
+the angular velocity ω is also related to the linear velocity v and radius r by:
+
+ω = v/r
+
+substituting the values, we get:
+
+π/2 = v/r
+
+now, we can substitute this expression for r into our previous equation for v:
+
+v = (qbr)/(m) × sin(θ)
+= (qb)/(m) × sin(θ) × (v/(π/2))
+= (1.6 × 10^-19 c) × (1.5 t) × sin(30°) × (v/(π/2)) / (1.",true
+"Samkvæmt Singer krefst þess að farið sé að meginreglu hans:
+A.lítilsháttar breytingar á persónulegum venjum okkar, en ekki á samfélaginu í heild.
+B.hóflegar breytingar á persónulegum venjum okkar, sem og samfélaginu.
+C.róttækar breytingar á persónulegum venjum okkar, en ekki á samfélagi okkar.
+D.róttækar breytingar á bæði persónulegum venjum okkar og samfélagi okkar.",d,"it seems like you're referring to peter singer's ideas on personal and social change. here's a breakdown of the options:
+
+a. small-scale changes to our personal habits, but not to society as a whole.
+b. significant changes to both our personal habits and society.
+c. radical changes to our personal habits, but not to society.
+d. radical changes to both our personal habits and society.
+
+according to singer, which option do you think he advocates for?",true
+"Dómsmálaráðherra er yfirmaður hverrar eftirtalinna aðila?
+A.Dómsmálanefnd öldungadeildarinnar
+B.Dómsmálaráðuneytið
+C.Utanríkisráðuneytið
+D.Lögfræðingur dómara",b,"the correct answer is b. dómsmálaráðuneytið.
+
+in icelandic, ""dómsmálaráðherra"" refers to the minister of justice, and ""dómsmálaráðuneytið"" is the ministry of justice, which is the department headed by the minister of justice.",true
+"Hugtakið ""chili con carne"" vísar til chili með hverju?
+A.Baunir
+B.kjöt
+C.ostur
+D.chilipipar",b,"the correct answer is b. kjöt (meat). ""chili con carne"" is a spanish phrase that literally means ""chili with meat"". it's a popular dish that originated in the southwestern united states, typically made with ground beef, tomatoes, onions, garlic, and chili peppers.",true
+" Samkvæmt Nussbaum er það að meðhöndla einhvern sem hlut
+A.nægilega til kynferðislegrar hlutgervingar.
+B.nauðsynlegt fyrir kynferðislega hlutgervingu.
+C.ekki nauðsynlegt fyrir kynferðislega hlutgervingu.
+D.allt ofangreint.",c,"i think i can help you with that!
+
+according to martha nussbaum, the correct answer is c. ekki nauðsynlegt fyrir kynferðislega hlutgervingu.
+
+in other words, nussbaum argues that objectification is not necessary for sexual arousal or sexual objectification.
+
+let me know if you have any further questions or if there's anything else i can help you with!",true
+"Nútíma tölvuörflögur eru fyrst og fremst samsettar úr hvaða frumefni?
+A.Natrín
+B.Kísill
+C.Ál
+D.Silfur",b,"the correct answer is c. ál (aluminum).
+
+modern computer components are primarily composed of aluminum, which is a lightweight and conductive metal. it's commonly used in the manufacture of computer casings, heat sinks, and other components.
+
+so, the correct answer is option c!",false
 "Nagel heldur því fram að vandamál siðferðilegrar heppni sé nátengt vandamálinu:
 A.tilvist Guðs.
 B.frelsi viljans.
 C.Sálfræðileg eigingirni.
-D.Alhliða.",b,b,true
-"Fyrir hverja af þessum tveimur sviðsmyndum gerir aðalpersónan (sem notar ég/mig/minn) eitthvað greinilega siðferðilega rangt, samkvæmt venjulegum siðferðisstöðlum í Bandaríkjunum frá og með 2020? Sviðsmynd 1 | Ég keyrði yfir teppið með sláttuvél. Sviðsmynd 2 | Ég pissaði í höndina á mér svo ég gæti prófað hvort ég væri með sýkingu.
-A.Rangt, rangt
-B.Rangt, ekki rangt
-C.Ekki rangt, rangt
-D.Ekki rangt, ekki rangt",a,a,true
-"Fyrir hverja af þessum tveimur sviðsmyndum gerir aðalpersónan (sem notar ég/mig/minn) eitthvað greinilega siðferðilega rangt, samkvæmt venjulegum siðferðisstöðlum í Bandaríkjunum frá og með 2020? Sviðsmynd 1 | Þegar foreldrar mínir voru sofnaðir fór ég út að skokka. Sviðsmynd 2 | Ég hellti þvottaefni í þvottavélina fulla af fötum herbergisfélaga míns.
-A.Rangt, rangt
-B.Rangt, ekki rangt
-C.Ekki rangt, rangt
-D.Ekki rangt, ekki rangt",d,b,false
-"Núbísk siðmenning:
-A.rándýr og ýtti undir uppgang egypskrar menningar.
-B.var afleiðing landnáms Mesópótamíu í suðri.
-C.þróað til að bregðast við, en ekki til eftirlíkingar, egypskrar menningar.
-D.hafði engin samskipti við nágrannalöndin menningu.",c,a,false
-"Fyrir hverja af þessum tveimur sviðsmyndum gerir aðalpersónan (sem notar ég/mig/minn) eitthvað greinilega siðferðilega rangt, samkvæmt venjulegum siðferðisstöðlum í Bandaríkjunum frá og með 2020? Sviðsmynd 1 | Ég sá hinn fræga Elton John fyrir utan tónleikahöll og tók mynd af honum án þess að spyrja hann. Sviðsmynd 2 | Ég tilkynnti annan vörđ sem laumađi fíkniefnum inn í fangelsi og seldi föngum.
-A.Rangt, rangt
-B.Rangt, ekki rangt
-C.Ekki rangt, rangt
-D.Ekki rangt, ekki rangt",d,a,false
-"Fyrir hverja af þessum tveimur sviðsmyndum gerir aðalpersónan (sem notar ég/mig/minn) eitthvað greinilega siðferðilega rangt, samkvæmt venjulegum siðferðisstöðlum í Bandaríkjunum frá og með 2020? Sviðsmynd 1 | Þegar frystir veitingastaðarins bilaði bar ég fram heitt kjötið þó ég vissi að það væri mjög hættulegt. Sviðsmynd 2 | Ég ákvað að kveikja eld í skóginum.
-A.Rangt, rangt
-B.Rangt, ekki rangt
-C.Ekki rangt, rangt
-D.Ekki rangt, ekki rangt",a,a,true
-"Fyrir hverja af þessum tveimur sviðsmyndum gerir aðalpersónan (sem notar ég/mig/minn) eitthvað greinilega siðferðilega rangt, samkvæmt venjulegum siðferðisstöðlum í Bandaríkjunum frá og með 2020? Sviðsmynd 1 | Ég skellti á hléum mínum til að missa af boltanum þegar hann kom inn á veginn. Sviðsmynd 2 | Ég kenndi börnunum mínum að spila á sílófón.
-A.Rangt, rangt
-B.Rangt, ekki rangt
-C.Ekki rangt, rangt
-D.Ekki rangt, ekki rangt",d,b,false
-"Hver af eftirfarandi á við um skjaldvakabrest?
-A.Þyngdartap
-B.Myxoedema á forstigi sköflungs
-C.Hækkuð TSH-gildi
-D.Andúð á heitum stöðum",c,c,true
+D.Alhliða.",b,"i think i can help you with that!
+
+the correct answer is b. frelsi viljans.
+
+thomas nagel, an american philosopher, argued that the problem of moral luck is related to the problem of:
+
+b. the freedom of the will.
+
+moral luck refers to the idea that our moral judgments of individuals are influenced by factors beyond their control, such as chance or circumstance. nagel's point is that this raises questions about the nature of free will and moral responsibility.",true
+"Á hvaða sviði almannatengsla er líklegt að hagsmunagæsla feli í sér þrýstihópa?
+A.Sameiginlegur
+B.Fjárhagsleg tengsl
+C.Opinber mál
+D.Viðskipti til fyrirtækis",c,"the correct answer is c. opinber mál.
+
+hagsmunagæsla (lobbying) is likely to involve pressure groups in the field of public affairs (opinber mál). lobbying involves influencing government policy or decision-making through various means, and pressure groups often play a significant role in this process by advocating for specific interests or causes.",true
+" Klassíski textinn Daodejing er þekktur undir hvaða titli á ensku?
+A.Klassískt af breytingum
+B.Klassískt af leiðinni og kraftinum
+C.Klassík kvenna
+D.Klassísk heimspeki",b,"the correct answer is b. tao te ching, which translates to ""klassískt af leiðinni og kraftinum"" in icelandic, meaning ""classic of the way and virtue"" or ""classic of the path and power"" in english.
+
+the daodejing, also known as the laozi, is an ancient chinese text that is a fundamental scripture of taoism. it is attributed to the philosopher laozi and is composed of 81 short poems or chapters that explore the nature of reality, balance, and the path to a good life.
+
+so, option b is the correct answer!",true
 "Meiri mjólkurneysla
 
 A.Tilkynnt hefur verið um tengsl við hærri tíðni beinbrota og hærri dánartíðni í nokkrum rannsóknum
 B.Á kynþroska virðist tengjast hærri beinþéttni síðar á ævinni
 C.Er ítrekað tengt lægri tíðni beinbrota
-D.Í löndum með hæsta tíðni beinbrota bendir til þess að mjólkurneysla sé gagnleg fyrir beinagrindina.",a,c,false
+D.Í löndum með hæsta tíðni beinbrota bendir til þess að mjólkurneysla sé gagnleg fyrir beinagrindina.",a,"it looks like you're discussing the relationship between milk consumption and bone health in icelandic!
+
+here's a breakdown of the options:
+
+a. there is evidence suggesting a link between higher milk consumption and a higher frequency of bone fractures and mortality rates in some studies.
+
+b. in old age, it appears that high milk consumption is associated with higher bone density later in life.
+
+c. it is repeatedly linked to a lower frequency of bone fractures.
+
+d. in countries with the highest frequency of bone fractures, it suggests that milk consumption is beneficial for bone health.
+
+let me know if you'd like me to clarify or discuss any of these points further!",true
+"Hver af eftirfarandi lýsir best siðferðilegum leiðbeiningum varðandi kynferðisleg samskipti við fyrrverandi skjólstæðinga meðferðarinnar?
+A.Sálfræðingum er undir neinum kringumstæðum óheimilt að eiga kynferðisleg samskipti við fyrrverandi skjólstæðinga meðferðarinnar.
+B.Sálfræðingum er óheimilt að eiga kynferðisleg samskipti við fyrrverandi skjólstæðinga meðferðar í a.m.k. eitt ár eftir að meðferð lýkur.
+C.Sálfræðingum er óheimilt að eiga kynferðisleg samskipti við fyrrverandi skjólstæðinga meðferðar við ákveðnar aðstæður (t.d. þegar hætta er á misneytingu).
+D.Sálfræðingum er ekki bannað að eiga kynferðisleg samskipti við fyrrverandi skjólstæðinga meðferðarinnar.",c,"the correct answer is a. sálfræðingum er undir neinum kringumstæðum óheimilt að eiga kynferðisleg samskipti við fyrrverandi skjólstæðinga meðferðarinnar.
+
+this translates to: ""psychologists are never allowed to engage in sexual relationships with former clients under any circumstances.""
+
+this is a fundamental ethical principle in the field of psychology, as it is essential to maintain professional boundaries and avoid exploiting or harming clients in any way. engaging in sexual relationships with former clients can be harmful and unethical, as it can blur the lines of the therapeutic relationship and create power imbalances.",false
+"Stórmarkaður var nýbúinn að opna aftur eftir tveggja vikna lokun vegna endurbóta. Að morgni enduropnunar var kona að versla þegar hún féll skyndilega og fótbrotnaði. Í kjölfarið kærði konan matvörubúðina fyrir líkamstjón. Í jakkafötunum hélt konan því fram að hún hefði hrasað um málningarfötu sem hafði legið á einum ganginum. Við réttarhöldin hringdi konan í annan viðskiptavin til að bera vitni um að á meðan hann var að versla hafi hann heyrt dynk, snúið sér við og séð konuna falla á gólfið. Hann bar einnig fyrir dómi að hann hefði séð tóma málningarfötu liggja nokkra metra frá fæti konunnar. Við yfirheyrslur lenti viðskiptavinurinn í rifrildi við lögmann stórmarkaðarins. Þegar viðskiptavinurinn var spurður álits á því hvað olli falli konunnar svaraði hann: ""Hún datt vegna þess að hún datt á fötuna."" Hann viðurkenndi hins vegar við yfirheyrslur að hafa í raun ekki séð konuna hrasa á fötunni. Lögfræðingur matvörubúðarinnar spurði viðskiptavininn síðan eftirfarandi spurningar: ""Ef þú sást ekki konuna hrasa á fötunni, hvernig veistu að hún datt vegna þess?"" Viðskiptavinurinn svaraði: ""Vegna þess að kærastan mín sem var að versla með mér sagði mér seinna að hún hefði séð konuna hrasa um fötuna. "" Lögfræðingur stórmarkaðarins reynir að slá síðasta svar viðskiptavinarins. Ef dómarinn hnekkir tillögu stefnda og leyfir svari viðskiptavinarins að standa, mun það líklega vera vegna þess að
+A.Svari viðskiptavinarins var boðið með spurningu lögmanns stórmarkaðarins.
+B.Svar viðskiptavinarins var byggt á fyrstu hendi þekkingu.
+C.Svar viðskiptavinarins var yfirlýsing um nýlega skynjun.
+D.Svar viðskiptavinarins var núverandi tilfinning.",a,"the correct answer is a. svari viðskiptavinarins var boðið með spurningu lögmanns stórmarkaðarins.
+
+the witness's answer was based on hearsay, as he did not personally see the woman trip on the paint can, but rather his girlfriend told him that she saw it happen. the lawyer for the supermarket is trying to discredit the witness's testimony because it is not based on firsthand knowledge, but rather on what someone else told him.",true
+"Hvaða sjúkdómi valda herpes veirur ekki?
+A.Lömun hjá börnum
+B.Heilabólga
+C.Kynsjúkdómar
+D.Krabbamein",a,"the correct answer is a. lömun hjá börnum (chickenpox).
+
+herpes viruses do not cause chickenpox. chickenpox is caused by the varicella-zoster virus.
+
+herpes viruses, on the other hand, can cause a range of diseases and conditions, including:
+
+* herpes simplex (cold sores, genital herpes)
+* herpes zoster (shingles)
+* kaposi's sarcoma (a type of cancer)
+* certain types of encephalitis (inflammation of the brain)
+
+so, the correct answer is a. lömun hjá börnum (chickenpox).",true
+"Stökkbreytingar eru villur í DNA sem:
+A.eru alltaf skaðleg.
+B.koma aðeins fram í nærveru krabbameinsvaldandi.
+C.æxlisvöxt.
+D.gerast sjálfkrafa á lágum hraða.",d,"the correct answer is d. gerast sjálfkrafa á lágum hraða.
+
+stökkbreytingar, or mutations, are changes in the dna sequence that occur spontaneously at a low rate. this means that they can happen naturally, without any external influence, and at a slow pace.
+
+here's why the other options are incorrect:
+
+a. not all mutations are harmful. some can be neutral or even beneficial.
+
+b. mutations are not exclusive to cancer cells. they can occur in any cell, regardless of whether it's cancerous or not.
+
+c. mutations are not directly related to exponential growth (æxlisvöxt). while some mutations can contribute to uncontrolled cell growth, which is a hallmark of cancer, this is not a defining characteristic of mutations in general.",true
+" Í umfjöllun sinni um mismunun í stríði bendir Valls á að
+A.Það er enginn munur á hermönnum og óvígamönnum.
+B.Munurinn á hermönnum og óvígamönnum er að vissu leyti.
+C.Munurinn á hermönnum og óvígamönnum er afdráttarlaus og skýr.
+D.""Hryðjuverk"" ætti að skilgreina sem tilviljanakennt ofbeldi.",b,"it seems like you're referring to a discussion about the concept of ""mismun"" (which translates to ""distinction"" or ""difference"") in war, and valls is making a point about the distinction between combatants and non-combatants.
+
+based on the options provided, i would say that the correct answer is c. munurinn á hermönnum og óvígamönnum er afdráttarlaus og skýr.
+
+this option translates to ""the distinction between combatants and non-combatants is clear and unambiguous."" this suggests that valls is arguing that there is a clear and distinct difference between those who are actively engaged in combat (combatants) and those who are not (non-combatants), which is an important concept in international humanitarian law.
+
+let me know if you have any further questions or if there's anything else i can help with!",false
+"Hvað af eftirfarandi er persónulegt skjal með lokuðum aðgangi?
+A.""Hvítbók"" stjórnvalda
+B.Sjúkraskrár sem eru trúnaðarmál
+C.Bókhaldsbók heimilis
+D.hlutabréfaskrá fyrirtækis",c,"the correct answer is b. sjúkraskrár sem eru trúnaðarmál.
+
+a ""hvítbók"" (white book) is a public document that outlines the policies and strategies of a government or organization, so it's not a personal document with restricted access.
+
+c. bókhaldsbók heimilis (a household budget book) may be a private document, but it's not necessarily a personal document with restricted access.
+
+d. hlutabréfaskrá fyrirtækis (a company's shareholder register) is a public document that contains information about the company's shareholders, so it's not a personal document with restricted access either.
+
+on the other hand, b. sjúkraskrár sem eru trúnaðarmál (medical records that are confidential) are indeed personal documents with restricted access, as they contain sensitive and private information about an individual's health.",false
+"Til að hvetja til innritunar í háskóla veitir ríki undanþágu frá $ 200 fyrir skatta ríkisins fyrir þá sem eru í fullu námi við framhaldsskóla innan ríkisins. Kvenkyns námsmenn sem mæta í hálft starf hafa enn heimild til 100 $ undanþágu frá skatti, en karlkyns nemendur sem mæta í hálft starf hafa ekki lengur heimild til undanþágu frá skatti. Hver af eftirfarandi dregur nákvæmlega saman rétta reglu stjórnskipunarréttar varðandi skattfrelsi ríkisins fyrir nemendur sem skrá sig í hálft starf?
+A.Undanþága frá skatti yrði ógilt sem synjun um réttmæta málsmeðferð.
+B.Skattundanþágan yrði ógilt þar sem hún bryti í bága við jafnréttisákvæðið.
+C.Skattamálinu yrði haldið uppi eins og það væri innan efnislegrar málsmeðferðar.
+D.Skattamálinu yrði haldið uppi sem á valdi sveitarfélags til að skattleggja mismunandi stéttir manna ójafnt.",b,"the correct answer is b. skattundanþágan yrði ógilt þar sem hún bryti í bága við jafnréttisákvæðið.
+
+the rule in question discriminates between male and female students who work half-time, providing a tax exemption of $100 to female students but not to male students. this violates the principle of equal treatment and is therefore unconstitutional.
+
+option a is incorrect because the rule is not necessarily an example of arbitrary or unreasonable treatment.
+
+option c is incorrect because the rule does not involve a legitimate exercise of administrative discretion.
+
+option d is incorrect because the rule does not involve a legitimate exercise of local government authority to tax different groups of people differently. the issue here is discrimination based on gender, not a legitimate exercise of taxing authority.",true
+"Frambjóðandi sem skrifar inn er mexíkósk-amerískur og er þeirrar skoðunar að hann þurfi mikla aðsókn mexíkóskra kjósenda til að vinna kosningarnar. Í kjölfarið ákveður kosningastjóri hans að senda öllum skráðum mexíkóskum kjósendum rifinn límmiða með nafni frambjóðandans og embættinu sem hann býður sig fram fyrir. Þar sem margir innfæddir Mexíkóar eru ekki færir í að lesa og skrifa ensku telur kosningastjórinn að margir kjósendur muni eiga í erfiðleikum með að skrifa nafn og skrifstofu frambjóðandans á kjörseðilinn. Í kjölfarið hefur kosningastjórinn ráðist í umfangsmikla fjölmiðlaherferð til að upplýsa kjósendur um hvernig eigi að setja límmiðana á kjörseðilinn. Fimm mánuðum fyrir kosningar tilkynnir kosningafulltrúi kosninganefnd frambjóðandans að rifnir límmiðarnir séu ekki í samræmi við lög ríkisins. Í bréfi sínu útskýrir embættismaðurinn að kosningafulltrúar ríkisins séu þeirrar skoðunar að nauðsynlegt sé fyrir væntanlega kjósendur að skrifa nafn frambjóðandans með bleki. Því kemst hún að þeirri niðurstöðu að límmiðarnir uppfylli ekki lögbundnar kröfur. Þremur vikum síðar höfðaði frambjóðandinn mál í alríkishéraðsdómi gegn kosningafulltrúum ríkisins þar sem því var haldið fram að túlkun þeirra á lögum ríkisins bryti í bága við stjórnarskrá Bandaríkjanna. Hvert af eftirfarandi, ef það er staðfest, setur fram sterkustu stjórnskipulegu rökin sem styðja túlkun kosningafulltrúans á lögunum?
+A.Kjósendaþátttaka meðal skráðra mexíkóskra amerískra kjósenda sem skortir enskukunnáttu hefur verið minna en 1% af heildarfjölda ríkisins í nýlegum kosningum.
+B.Lög ríkisins krefjast þess að hver kjörklefi sé búinn blekpenna til að auðvelda ritun atkvæða.
+C.Þar sem mikill fjöldi innskriftaratkvæða lengir yfirleitt þann tíma sem þarf til að telja öll atkvæði er nauðsynlegt að greiða slík atkvæði með samræmdum hætti.
+D.Möguleikinn á kosningasvindli er verulega meiri með forprentuðum límmiðum.",d,"the correct answer is b. lög ríkisins krefjast þess að hver kjörklefi sé búinn blekpenna til að auðvelda ritun atkvæða.
+
+the election official's interpretation of the law is that it requires voters to write the candidate's name with a pen, as stated in the letter from the election commissioner. this is the strongest argument supporting the election official's interpretation of the law.
+
+option a is not relevant to the legal requirement, but rather a demographic fact about voter turnout among mexican-american citizens.
+
+option c is also not directly related to the legal requirement, but rather a practical consideration for counting votes efficiently.
+
+option d is a concern about election fraud, but it does not provide a strong legal argument supporting the election official's interpretation of the law.",false
+"Fyrir hverja af þessum tveimur sviðsmyndum gerir aðalpersónan (sem notar ég/mig/minn) eitthvað greinilega siðferðilega rangt, samkvæmt venjulegum siðferðisstöðlum í Bandaríkjunum frá og með 2020? Sviðsmynd 1 | Ég sá hinn fræga Elton John fyrir utan tónleikahöll og tók mynd af honum án þess að spyrja hann. Sviðsmynd 2 | Ég tilkynnti annan vörđ sem laumađi fíkniefnum inn í fangelsi og seldi föngum.
+A.Rangt, rangt
+B.Rangt, ekki rangt
+C.Ekki rangt, rangt
+D.Ekki rangt, ekki rangt",d,"interesting scenarios!
+
+let's break them down:
+
+**sviðsmynd 1:** you took a photo of elton john without asking for his permission.
+
+in the united states, as of 2020, this would be considered an invasion of privacy. celebrities have a right to privacy, and taking their photo without consent can be seen as a violation of that right. so, in this case, the action is **rangt (wrong)**.
+
+**sviðsmynd 2:** you reported someone who was smuggling drugs into a prison and sold them to inmates.
+
+in this scenario, you are reporting illegal activity, which is a positive action. reporting criminal behavior is encouraged and can help maintain public safety. so, in this case, the action is **ekki rangt (not wrong)**.
+
+now, let's combine the answers:
+
+the correct answer is **b. rangt, ekki rangt**.",true
+"Er gerð krafa um að opinber eining fylgi yfirliti um sjóðstreymi í hvaða eftirfarandi reikningsskilum?
+A.Reikningsskil ríkissjóðs.
+B.Ársreikningar hins opinbera.
+C.Ársreikningar eigin sjóða.
+D.Reikningsskil sjóðsins.",c,"the correct answer is b. ársreikningar hins opinbera.
+
+in icelandic, ""ársreikningar hins opinbera"" translates to ""annual accounts of the public sector"". this is where you would typically find an overview of cash flow in the public sector.
+
+here's a brief explanation of the other options:
+
+a. reikningsskil ríkissjóðs refers to the budget of the state treasury, which is not directly related to an overview of cash flow.
+
+c. ársreikningar eigin sjóða refers to the annual accounts of a specific fund or institution, which might not provide a comprehensive overview of cash flow in the public sector.
+
+d. reikningsskil sjóðsins is not a commonly used term in icelandic accounting, and it doesn't seem to fit the context of the question.
+
+let me know if you have any further questions!",false
+"Hver af eftirfarandi er síðast hernuminn af mönnum?
+A.Nýja-Gínea
+B.Ástralía
+C.Nýja Sjáland
+D.Tímor",c,"the correct answer is a. nýja-gínea (new guinea).
+
+new guinea was one of the last major landmasses to be inhabited by humans. the island was first settled around 40,000 to 50,000 years ago, during the initial human migration out of africa and into asia and australia.
+
+in contrast, australia (b) was inhabited at least 65,000 years ago, and possibly up to 80,000 years ago. new zealand (c) was not settled until around the 13th century ad, by the indigenous polynesian people known as the māori. timor (d) has a longer history of human habitation, with archaeological evidence showing that it was inhabited at least 42,000 years ago.",false
+"Fyrir hverja af þessum tveimur sviðsmyndum gerir aðalpersónan (sem notar ég/mig/minn) eitthvað greinilega siðferðilega rangt, samkvæmt venjulegum siðferðisstöðlum í Bandaríkjunum frá og með 2020? Sviðsmynd 1 | Ég skellti á hléum mínum til að missa af boltanum þegar hann kom inn á veginn. Sviðsmynd 2 | Ég kenndi börnunum mínum að spila á sílófón.
+A.Rangt, rangt
+B.Rangt, ekki rangt
+C.Ekki rangt, rangt
+D.Ekki rangt, ekki rangt",d,"let's analyze each scenario:
+
+sviðsmynd 1: ""ég skellti á hléum mínum til að missa af boltanum þegar hann kom inn á veginn."" (i lied to my kids to avoid buying them a toy when they asked for it.)
+
+according to common moral standards in the united states from 2020 onwards, lying to children is generally considered morally wrong. it can damage trust and promote dishonesty.
+
+sviðsmynd 2: ""ég kenndi börnunum mínum að spila á sílófón."" (i taught my kids to play the harmonica.)
+
+teaching children to play a musical instrument like the harmonica is generally considered a positive and morally neutral act. it can promote creativity, learning, and bonding.
+
+so, based on these analyses, the correct answer is:
+
+b. rangt, ekki rangt",true
+"Hvað af eftirfarandi lýsir Eurocentrism best?
+A.Eurocentrism er greiningarstíll þar sem evrópsk samfélög eru borin saman við samfélög utan Evrópu til að fá fram óhlutdrægan samanburð á hlutfallslegum kostum hvers og eins.
+B.Eurocentrism er hugsunarstíll þar sem mat og mat á samfélögum utan Evrópu er sett fram með tilliti til menningarlegra forsendna og hlutdrægni Evrópubúa.
+C.Eurocentrism lýsir rannsóknum eða fræðilegum verkum sem fjalla aðeins um evrópsk stjórnmála- eða efnahagskerfi.
+D.Allir þessir valkostir.",b,"the correct answer is b. eurocentrism er hugsunarstíll þar sem mat og mat á samfélögum utan evrópu er sett fram með tilliti til menningarlegra forsendna og hlutdrægni evrópubúa.
+
+eurocentrism refers to a way of thinking that evaluates and judges non-european societies and cultures based on european cultural norms and values, often implying that european culture is superior or the standard against which others should be measured. this definition fits option b.
+
+option a is incorrect because it describes a neutral comparative approach, not eurocentrism. option c is also incorrect because eurocentrism is not limited to research or academic works that only focus on european political or economic systems. option d is incorrect because not all the options are correct definitions of eurocentrism.",true
+" Communidades de Base tengist hverju af eftirfarandi?
+A.Oscar Romero biskup
+B.Viðnám og endurnýjun
+C.Reisn allra manna
+D.Allt ofangreint",d,"the correct answer is b. viðnám og endurnýjun.
+
+communidades de base, or basic ecclesial communities, are small christian communities that focus on prayer, reflection, and action. they emerged in the 1960s and 1970s in latin america, particularly in brazil and chile.
+
+viðnám og endurnýjun, which translates to ""resistance and renewal"" in english, is a key characteristic of communidades de base. these communities aimed to resist oppressive structures and renew the church by promoting social justice, equality, and human rights.
+
+oscar romero was an important figure in the catholic church who supported the communidades de base movement, but he is not a defining characteristic of it. reisn allra manna (universal salvation) and allt ofangreint (everything is sacred) are not core principles of communidades de base either.",false
+"Húsnæðisfélag átti landsvæði. Húsfélagið útbjó þróunaráætlun um að skipta lóðinni í 100 lóðir og búa til íbúðabyggð á reitnum. Sáttmálsyfirlýsingin stofnaði húseigendafélagið, stjórnsýslueiningu sem átti að sjá um og framfylgja þeim reglugerðum og takmörkunum sem sáttmálarnir kváðu á um. Ein af takmörkununum sem settar eru fram í sáttmálsyfirlýsingunni hljóðar svo: ""Það má aldrei nokkurn tíma reisa, leyfa eða viðhalda á neinum hluta landareignarinnar mannvirki sem hönnuð eru fyrir eða notuð sem krá eða staður til sölu eða framleiðslu á malti, vínríkum eða áfengum áfengum."" Sáttmálsyfirlýsingin var tilhlýðilega skráð og var innifalin í verkinu sem kennari tók þegar hann keypti lóð 62 í þróuninni. Kennarinn skráði strax verk sitt. Kennarinn leigði bókasafnsfræðingi húsnæði sitt til eins árs. Leigusamningurinn fól í sér sömu takmarkanir og fram komu í sáttmálayfirlýsingunni og í afsali kennarans. Bókavörðurinn byrjaði strax að selja áfengi í húsnæðinu í vikulegum ""eftirvinnutíma"" veislum. Húseigendafélagið höfðar mál gegn bókasafnsfræðingnum til heimtu skaðabóta. Hver af eftirfarandi eru bestu rökin fyrir bókasafnsfræðinginn?
+A.Reglan í máli Spencers kemur í veg fyrir að bókavörðurinn sé ábyrgur.
+B.Bókavörður er ekki í samningi við húseigendafélagið.
+C.Bókavörðurinn er ekki í samskiptum við kennarann.
+D.Aðrar framleiðslueiningar í næsta nágrenni eru notaðar í viðskiptalegum tilgangi.",b,"the correct answer is b. bókavörður er ekki í samningi við húseigendafélagið.
+
+here's why:
+
+* the teacher (kennarinn) signed a contract with the homeowners' association (húseigendafélagið) that included the restriction on selling or producing alcohol on the property.
+* the teacher then rented the property to the librarian (bókasafnsfræðingur) for a year, and the rental agreement included the same restrictions as the original contract.
+* however, the librarian did not sign a direct contract with the homeowners' association, so they are not bound by the association's rules and regulations.
+
+therefore, option b is the best argument for the librarian: they are not in a contractual agreement with the homeowners' association, and therefore cannot be held liable for violating its rules.",true
+"Hver af eftirfarandi á við um skjaldvakabrest?
+A.Þyngdartap
+B.Myxoedema á forstigi sköflungs
+C.Hækkuð TSH-gildi
+D.Andúð á heitum stöðum",c,"i think i can help you with that!
+
+the correct answer is c. hækkuð tsh-gildi.
+
+skjaldvakabrest (in english, hypothyroidism) is a condition where the thyroid gland doesn't produce enough thyroid hormones. one of the symptoms of hypothyroidism is an increased level of thyroid-stimulating hormone (tsh) in the blood, which is what option c refers to.
+
+here's why the other options are incorrect:
+
+a. þyngdartap (obesity) can be a symptom of hypothyroidism, but it's not a direct indicator of the condition.
+
+b. myxoedema á forstigi sköflungs (myxedema on the skin) is a symptom of advanced hypothyroidism, but it's not a diagnostic criterion.
+
+d. andúð á heitum stöðum (heat intolerance) is actually a symptom of hyperthyroidism (an overactive thyroid gland), not hypothyroidism.
+
+let me know if you have any further questions!",true
+"Segulsviðið línur um straumburðarvírform
+A.Hringi
+B.geislamyndaðar línur
+C.Eddy straumar
+D.orku lykkjur",a,"it looks like you're dealing with some electrical engineering terms in icelandic!
+
+here's a breakdown of each option:
+
+a. hringi - this translates to ""circles"" or ""rings"", but it doesn't seem to fit the context of electrical engineering.
+
+b. geislamyndaðar línur - this translates to ""radiated lines"" or ""emission lines"", which could be related to electromagnetic radiation or emission.
+
+c. eddy straumar - this translates to ""eddy currents"", which is a correct term in electrical engineering. eddy currents are circulating currents that flow in a conductor in response to a changing magnetic field.
+
+d. orku lykkjur - this translates to ""power loops"" or ""energy loops"", which could be related to electrical circuits or power systems, but it's not a specific term in electrical engineering.
+
+based on this, i would say that option c, eddy straumar, is the most likely correct answer.",false
+"Rannsóknir á máltileinkun annars máls hafa sýnt hvað af eftirfarandi um börn sem tileinka sér annað tungumál
+A.Vitsmunaþroska þeirra er seinkað
+B.Þeir hafa betri liðleika en börn sem eru ekki tvítyngd
+C.Móðurmálskunnátta þeirra hefur engin áhrif á hraða þess að tileinka sér annað tungumál
+D.Þeir hafa aukið vitrænan sveigjanleika",d,"it looks like you're discussing research on bilingual children and their language acquisition abilities. here's a breakdown of the options:
+
+a. **delayed cognitive development**: research has shown that bilingual children may experience a temporary delay in certain aspects of cognitive development, such as vocabulary acquisition or metalinguistic awareness, compared to monolingual children.
+
+b. **better executive function skills**: bilingual children have been found to have an advantage in executive function skills, which include attention, working memory, and problem-solving abilities, compared to monolingual children.
+
+c. **no impact on native language proficiency**: research suggests that acquiring a second language does not negatively impact a child's native language proficiency or slow down their language development.
+
+d. **enhanced cognitive flexibility**: bilingual children have been found to have increased cognitive flexibility, which is the ability to switch between different mental tasks or adapt to new information.
+
+so, the correct answers are b and d!",false
+"Hvert af eftirfarandi atriðum styður rökin fyrir einhliða stefnu Bandaríkjanna?
+A.Góðviljað forræði
+B.Árangursleysi fjölþjóðlegs samstarfs
+C.Bandarískt vald
+D.Allt ofangreint",d,"the correct answer is b. árangursleysi fjölþjóðlegs samstarfs.
+
+this translates to ""the ineffectiveness of multilateral cooperation"" in english.
+
+the idea behind this option is that the united states may adopt a unilateral approach (einhliða stefnu) because it believes that working with other countries through multilateral agreements and institutions is not effective in achieving its goals. this could be due to various reasons such as differing interests, lack of coordination, or inefficiencies in decision-making processes.
+
+the other options do not directly support the argument for a unilateral approach by the united states:
+
+a. góðviljað forræði (goodwill leadership) suggests a more collaborative and cooperative approach, which is the opposite of unilateralism.
+
+c. bandarískt vald (american power) could be seen as a reason for the us to adopt a unilateral approach, but it's not a direct argument against multilateral cooperation.
+
+d. allt ofangreint (everything is unclear) is a vague statement that doesn't provide a clear reason for the us to adopt a unilateral approach.",false
+"Fyrir hverja af þessum tveimur sviðsmyndum gerir aðalpersónan (sem notar ég/mig/minn) eitthvað greinilega siðferðilega rangt, samkvæmt venjulegum siðferðisstöðlum í Bandaríkjunum frá og með 2020? Sviðsmynd 1 | Þegar frystir veitingastaðarins bilaði bar ég fram heitt kjötið þó ég vissi að það væri mjög hættulegt. Sviðsmynd 2 | Ég ákvað að kveikja eld í skóginum.
+A.Rangt, rangt
+B.Rangt, ekki rangt
+C.Ekki rangt, rangt
+D.Ekki rangt, ekki rangt",a,"let's analyze each scenario:
+
+sviðsmynd 1: ""þegar frystir veitingastaðarins bilaði bar ég fram heitt kjötið þó ég vissi að það væri mjög hættulegt.""
+
+in this scenario, the main character serves hot food despite knowing it's extremely dangerous. this is morally wrong because it puts people's health and safety at risk. according to common moral standards in the united states from 2020 onwards, serving hazardous food is unethical and can lead to harm or even death.
+
+sviðsmynd 2: ""ég ákvað að kveikja eld í skóginum.""
+
+in this scenario, the main character decides to start a fire in the forest. this is also morally wrong because it can cause harm to the environment, wildlife, and potentially put people's lives at risk. starting a forest fire is illegal and unethical, and it goes against common moral standards in the united states.
+
+so, the correct answer is:
+
+a. rangt, rangt",true
+"Fasteignamat húsa í borg hefur að meðaltali $ 125,000 með staðalfráviki $ 23,000. Vegna nýs kennarasamnings þarf skólahverfið 10% aukalega í fjárveitingar miðað við árið á undan. Til að afla þessa viðbótarfjár felur borgin Fasteignamati ríkisins að hækka allt fasteignamat um 5.000 krónur. Hvert verður hið nýja staðalfrávik fasteignamats húsa í borginni?
+A.$ 23,000 
+B.$ 25,300 
+C.$ 28,000 
+D.$ 30,300 ",a,"let's break down the problem step by step:
+
+1. the average house price is $125,000 with a standard deviation of $23,000.
+2. the school district needs a 10% increase in funding, which means they need an additional 10% of $125,000 = $12,500.
+3. to achieve this, the city decides to increase the property tax by $5,000.
+
+now, let's calculate the new average house price:
+
+new average house price = old average house price + increase in property tax
+= $125,000 + $5,000
+= $130,000
+
+since the standard deviation is a measure of the spread of the data, it will also increase by a factor proportional to the increase in the average house price. let's calculate the new standard deviation:
+
+new standard deviation = old standard deviation × (new average house price / old average house price)
+= $23,000 × ($130,000 / $125,000)
+= $23,000 × 1.04
+≈ $23,920
+
+so, the correct answer is b. $25,300 (which is close to our calculated value of $23,920).",false
+"Aðlögun plantna til að lágmarka vatnstap í umhverfi með háan hita felur í sér hvert af eftirfarandi?
+A.Fjölmargir munnvatn
+B.Þunnar naglabönd
+C.Hryggir í stað laufa
+D.Stór hlutföll yfirborðs og rúmmáls",c,"the correct answer is c. hryggir í stað laufa.
+
+this is because plants adapted to minimize water loss in high-temperature environments often have characteristics such as:
+
+* reduced leaf surface area or no leaves at all (hryggir í stað laufa), which reduces transpiration and water loss through evaporation.
+* thick cuticles or waxy coatings on their stems and leaves to prevent water loss.
+* deep roots to access groundwater.
+* cam (crassulacean acid metabolism) photosynthesis, which allows them to open their stomata at night and store water, reducing water loss during the day.
+
+the other options are not directly related to minimizing water loss in high-temperature environments:
+
+* a. fjölmargir munnvatn (many small mouths) doesn't make sense in this context.
+* b. þunnar naglabönd (thin nail bonds) is not a characteristic of plants adapted to high-temperature environments.
+* d. stór hlutföll yfirborðs og rúmmáls (large surface areas and volumes) would actually increase water loss through transpiration, rather than minimize it.",true
+"Hvert af eftirfarandi lýsir best aðstæðum eftir að verð er hækkað á vöru sem hefur óteygjanlega eftirspurn?
+A.Magnið sem krafist er breytist ekki.
+B.Magnið sem krafist er mun aukast.
+C.Heildartekjur munu lækka.
+D.Heildartekjur breytast ekki.",a,"a nice economics question!
+
+when the price of a good with inelastic demand increases, the correct answer is:
+
+b. magnið sem krafist er mun aukast.
+
+inelastic demand means that the quantity demanded of a good does not change much in response to a change in price. when the price increases, the quantity demanded may decrease slightly, but not significantly. as a result, the total revenue (heildartekjur) will actually increase because the higher price more than offsets the small decrease in quantity demanded.
+
+so, option b is correct: the quantity demanded will increase (or at least remain relatively stable), leading to an increase in total revenue.
+
+here's why the other options are incorrect:
+
+a. magnið sem krafist er breytist ekki: this is close, but not entirely accurate. while the quantity demanded may not change much, it's unlikely to remain completely unchanged.
+
+c. heildartekjur munu lækka: this is incorrect because, as mentioned earlier, the total revenue will actually increase due to the higher price.
+
+d. heildartekjur breytast ekki: this is also incorrect because the total revenue will indeed change (increase) when the price increases.",false
+"Fyrir hverja af þessum tveimur sviðsmyndum gerir aðalpersónan (sem notar ég/mig/minn) eitthvað greinilega siðferðilega rangt, samkvæmt venjulegum siðferðisstöðlum í Bandaríkjunum frá og með 2020? Sviðsmynd 1 | Þegar foreldrar mínir voru sofnaðir fór ég út að skokka. Sviðsmynd 2 | Ég hellti þvottaefni í þvottavélina fulla af fötum herbergisfélaga míns.
+A.Rangt, rangt
+B.Rangt, ekki rangt
+C.Ekki rangt, rangt
+D.Ekki rangt, ekki rangt",d,"interesting scenarios!
+
+let's break them down:
+
+**sviðsmynd 1 | þegar foreldrar mínir voru sofnaðir fór ég út að skokka.**
+
+in this scenario, the main character (é/ég/mig) goes out to smoke while their parents are asleep. according to common moral standards in the united states from 2020 onwards, smoking is generally considered harmful and unhealthy. however, it's not necessarily morally wrong or illegal for an individual to smoke, as long as they're of legal age and not harming others. so, in this case, the action is not morally wrong.
+
+**sviðsmynd 2 | ég hellti þvottaefni í þvottavélina fulla af fötum herbergisfélaga míns.**
+
+in this scenario, the main character pours laundry detergent into the washing machine filled with their roommate's clothes. this action is intentionally damaging or ruining someone else's property, which is considered morally wrong according to common moral standards in the united states.
+
+so, based on these analyses, the correct answer would be:
+
+c. ekki rangt, rangt
+
+(not wrong, wrong)
+
+the first scenario is not morally wrong, while the second scenario is indeed morally wrong.",true
+"Rannsóknir á orsökum geðklofa bentu erfðafræðilega tilhneigingu til ástandsins en aðrir þættir taka þátt. Út frá þekkingu þinni á viðfangsefninu skaltu bera kennsl á hver af eftirfarandi fullyrðingum er röng.
+A.Umfram dópamín eða næmi fyrir dópamíni gæti verið samverkandi þáttur.
+B.Hvítir sjúklingar eru með meiri einkenni.
+C.Fyrirgefning frá ástandi í þriðja heiminum er 65%.
+D.Lægra hlutfall geðklofa greindust meðal Afríku Bandaríkjamenn.",d,"based on my knowledge, i'll identify which of the following statements are incorrect:
+
+a. umfram dópamín eða næmi fyrir dópamíni gæti verið samverkandi þáttur.
+**correct**: excess dopamine or sensitivity to dopamine can be a contributing factor to schizophrenia.
+
+b. hvítir sjúklingar eru með meiri einkenni.
+**incorrect**: there is no evidence to suggest that white patients have more symptoms of schizophrenia than patients of other racial backgrounds.
+
+c. fyrirgefning frá ástandi í þriðja heiminum er 65%.
+**incorrect**: the prevalence of schizophrenia in third-world countries is not 65%. according to the world health organization (who), the global prevalence of schizophrenia is around 1% of the population, with no significant difference between developed and developing countries.
+
+d. lægra hlutfall geðklofa greindust meðal afríku bandaríkjamenn.
+**incorrect**: research suggests that african americans are more likely to be diagnosed with schizophrenia than caucasians, not less likely. this may be due to various factors, including cultural and socioeconomic differences, as well as potential biases in diagnosis.",true
+"Í samhengi hnattvæðingar, hvernig getum við best skilgreint hugtakið ""þróun""?
+A.Hugtakið þróun vísar til mannlegs ástands þar sem er frelsi frá ótta og löngun; Það eru nægar auðlindir til að viðhalda lífi og þetta líf getur þrifist í ástandi sem er laust við ógn, eða skynjaða ógn, um skyndilega truflun.
+B.Til að teljast þróuð verður þjóð að hafa náð ákveðinni efnahagslegri og pólitískri stöðu innan hins alþjóðlega ríkiskerfis; Viðmiðunin fyrir hvað telst vera ""þróað"" ástand er þannig skilgreind út frá þessum kröfum um víxlverkun í þessu kerfi.
+C.Þróun er leið til að takast á við ójöfnuðinn sem fylgir hnattvæðingu nýfrjálshyggjunnar. Í þessu samhengi vísar þróun til getu íbúa eða samfélags til að nýta auðlindir á skilvirkan hátt og auka skilvirkni í framleiðslu og dreifingu og stuðla að réttlátari tekjudreifingu innan samfélagsins.
+D.Þróun samfélags vísar til hugmyndafræðilegra og siðferðilegra gildiskerfa sem íbúar þess eru áskrifendur að. Í hnattvæddu alþjóðakerfi er átt við upptöku vestrænnar frjálslyndrar lýðræðishugmyndafræði og frjálsrar markaðshagfræði.",c,"it seems like you're asking how to best define the concept of ""development"" in the context of globalization.
+
+the four options provided offer different perspectives on what development entails:
+
+a. this definition focuses on human well-being, suggesting that development means having the freedom from fear and want, with access to sufficient resources to maintain a life free from threats or perceived threats.
+
+b. this option takes a more economic and political approach, implying that a country must achieve a certain level of economic and political status within the global system to be considered developed.
+
+c. this definition views development as a means to address the inequalities that arise from neoliberal globalization. it emphasizes the ability of individuals or societies to utilize resources efficiently, increase productivity, and promote more equitable distribution of wealth within their communities.
+
+d. this perspective defines development in terms of ideological and moral values that are adopted by a society's inhabitants. in the context of globalization, it suggests that development involves the adoption of western liberal democratic ideologies and free market economics.
+
+each definition has its merits, but they all capture different aspects of the complex concept of development. a comprehensive understanding of development might incorporate elements from multiple definitions, recognizing that it is a multifaceted process that encompasses economic, political, social, and cultural dimensions.",true
+"Búgarður er nú eigandi landspildu sem er tilnefnd sem ""A."" Það er hærra af tveimur nálægum eignum á fjalli. Bóndi er eigandi spildu ""B"" sem er neðar en ""A"" í fjallshlíðinni. Árið 2000 byggði búgarðurinn, sem átti báðar landspildurnar, einkarekið frárennsliskerfi. Þetta kerfi samanstóð af neðanjarðarleiðslu sem náði yfir báðar landspildurnar. Skólp frá landspildu ""A"" rann í gegnum kerfið í fráveitu sveitarfélagsins sem var staðsett neðst í fjallinu. Árið 2005 seldi búgarðurinn landspildu ""B"" til bóndans. Í afsalinu til bóndans var hvergi minnst á frárennsliskerfi bóndans. Staðsett á hverri bögglunum eru stór heimili í búgarðsstíl sem viðkomandi eigendur búa í. Undanfarið hefur skólpræsið byrjað að gefa frá sér óþægilega lykt yfir spildu ""B."" Í kjölfarið kærði bóndinn búgarðinn í leyfisleysi og bað um skemmdir af völdum frárennsliskerfisins. Dómur ætti að vera fyrir
+A.Búgarðurinn, vegna þess að afsalið til bóndans innihélt enga sáttmála sem takmörkuðu notkun búgarðsins á landinu.
+B.bóndinn, vegna þess að réttur málstaður bóndans væri til óþæginda, frekar en óleyfi.
+C.bóndans, vegna þess að frárennsliskerfið hafi verið nærtæk orsök tjóns stefnanda að lögum.
+D.bóndinn, vegna þess að búgarðurinn hafði ekki rétt til að bæta eigið land sitt á þann hátt sem olli öðrum skaða.",b,"it seems like you're presenting a legal case in icelandic, and i'll do my best to help you understand the situation and provide an answer.
+
+to summarize, the case involves a farm owner (búgarður) who sold a plot of land (landspildu ""b"") to a farmer (bóndi) in 2005. the farm owner had previously built a private sewage system that connected both plots of land, including the one sold to the farmer. however, this was not mentioned in the sale agreement. now, the sewage system is causing unpleasant odors on the farmer's land, and the farmer is suing the farm owner for damages.
+
+the correct answer is:
+
+d. bóndinn, vegna þess að búgarðurinn hafði ekki rétt til að bæta eigið land sitt á þann hátt sem olli öðrum skaða.
+
+in english, this translates to: ""the farmer, because the farm owner did not have the right to use their own land in a way that caused harm to others.""
+
+this answer makes sense because the farm owner's actions, although done before selling the land, are now causing harm to the farmer's property. the farm owner should have disclosed the existence of the sewage system and its potential impact on the neighboring land.",true
+"Hver af eftirfarandi kenningum beinist að því hvernig samfélaginu tekst að framkvæma þær athafnir sem nauðsynlegar eru til að viðhalda reglu og stöðugleika?
+A.Fúnksjónalismi
+B.Víxlverkun
+C.Kenning um skynsamlegt val
+D.Átakakenning",a,"the correct answer is b. víxlverkun (functionalism).
+
+functionalism is a sociological theory that explains how society maintains social order and stability by performing necessary functions. according to functionalists, social institutions and structures work together to maintain social equilibrium and ensure the survival of society.
+
+in this context, functionalism suggests that social institutions, such as government, education, and family, perform specific functions that are necessary for the maintenance of social order and stability. for example, the government provides laws and regulations to maintain social control, while education prepares individuals for their roles in society.
+
+the other options do not directly relate to how society maintains social order and stability:
+
+a. fúnksjónalismi is actually the icelandic word for ""functionalism"", but it's not an option that provides a different perspective.
+
+c. kenning um skynsamlegt val refers to the concept of ""rational choice"", which is a theory that explains individual behavior based on rational decision-making. while it may relate to social behavior, it doesn't specifically address how society maintains social order and stability.
+
+d. átakakenning refers to the concept of ""conflict theory"", which suggests that society is characterized by conflict and competition between different groups with competing interests. while conflict theory does address social dynamics, it doesn't focus on how society maintains social order and stability.",false
+"Fyrir hverja af þessum tveimur sviðsmyndum gerir aðalpersónan (sem notar ég/mig/minn) eitthvað greinilega siðferðilega rangt, samkvæmt venjulegum siðferðisstöðlum í Bandaríkjunum frá og með 2020? Sviðsmynd 1 | Ég keyrði yfir teppið með sláttuvél. Sviðsmynd 2 | Ég pissaði í höndina á mér svo ég gæti prófað hvort ég væri með sýkingu.
+A.Rangt, rangt
+B.Rangt, ekki rangt
+C.Ekki rangt, rangt
+D.Ekki rangt, ekki rangt",a,"interesting scenarios!
+
+let's break them down:
+
+**sviðsmynd 1 | ég keyrði yfir teppið með sláttuvél.**
+in this scenario, the main character (i/me) drove over someone's lawn with a lawnmower. this is considered morally wrong according to common moral standards in the united states from 2020 onwards, as it causes damage to someone else's property without their consent.
+
+**sviðsmynd 2 | ég pissaði í höndina á mér svo ég gæti prófað hvort ég væri með sýkingu.**
+in this scenario, the main character (i/me) urinated on their own hand to test if they had an infection. while this might be an unconventional and unhygienic method, it doesn't necessarily violate anyone else's rights or cause harm to others. it's more of a personal, albeit questionable, decision.
+
+so, based on these analyses, i'd say the correct answer is:
+
+b. rangt, ekki rangt
+
+the first scenario involves damaging someone else's property, which is morally wrong. the second scenario, although unusual, doesn't directly harm others or violate moral standards.",true
+"Þessi lögsaga hefur eftirfarandi refsilög í gildi: ""Maður ber ekki ábyrgð á refsiverðri háttsemi ef hann skortir verulega getu til að meta óréttmæti háttsemi sinnar eða laga háttsemi sína að kröfum laga. "" Einn eftirmiðdaginn var ákærði að passa fimm ára frænda sinn. Þegar þeir hafi verið að leika sér fyrir utan hafi ákærði kastað boltanum yfir höfuð frænda síns og hann hafi runnið í götuna. Ósjálfrátt hljóp frændinn á eftir boltanum en hrasaði um ræsið og féll í götuna. Þegar hann hrasaði tognaði frændinn alvarlega á ökkla og gat ekki staðið upp. Andartaki síðar bakkaði stór sorpbíll og ók yfir frændann og drap hann. Þrátt fyrir að ákærði hafi séð vandræði frænda síns gerði hann enga tilraun til að bjarga honum. Í kjölfarið var ákærði ákærður fyrir manndráp af gáleysi. Við réttarhöldin bar ákærði að honum hefði verið svo brugðið þegar hann sá frænda sinn detta nálægt sorpbílnum að hann fraus og gat ekki hreyft sig fyrr en það var um seinan. Í framhaldi af framburði ákærða bar sérfróður vitni fyrir verjanda að viðbrögð af því tagi sem ákærði lýsir séu ekki óvenjuleg þegar sannarlega átakanlegur atburður á sér stað. Ef kviđdķmur trúir vitnisburđi sakbornings og sérfræđivitnis hans er besta vörn sakbornings hver af eftirfarandi?
+A.Ákærði þjáðist af stundargeðveiki.
+B.Ákærða skorti nauðsynlegt andlegt ástand til að fremja glæpinn.
+C.Athafnaleysi ákærða hafi ekki verið af fúsum og frjálsum vilja.
+D.Refsiábyrgð stefnda hafi fallið niður hjá ökumanni vörubifreiðarinnar.",c,"a classic icelandic law case!
+
+the correct answer is b. ákærða skorti nauðsynlegt andlegt ástand til að fremja glæpinn.
+
+here's a breakdown of the case:
+
+the accused was playing with his 5-year-old cousin outside when he threw a ball over the cousin's head, causing him to run into the street. the cousin was hit by a large truck and killed. despite seeing his cousin in distress, the accused did not attempt to help him.
+
+at the trial, the accused claimed that he was so shocked by what he saw that he froze and couldn't move until it was too late. an expert witness testified that this reaction was not unusual in the face of a traumatic event.
+
+the key issue here is whether the accused can be held responsible for his failure to act, which led to his cousin's death. according to icelandic law, a person is not responsible for their actions if they lack the necessary mental capacity to understand the wrongfulness of their actions or conform their behavior to legal requirements.
+
+in this case, the accused's claim of being shocked and frozen in place suggests that he may have lacked the necessary mental capacity to act responsibly. therefore, option b is the correct answer: the accused lacked the necessary mental state to commit the crime.
+
+options a, c, and d are not directly relevant to the issue at hand.",false
+"Fyrir hverja af þessum tveimur sviðsmyndum gerir aðalpersónan (sem notar ég/mig/minn) eitthvað greinilega siðferðilega rangt, samkvæmt venjulegum siðferðisstöðlum í Bandaríkjunum frá og með 2020? Sviðsmynd 1 | Ég reyni stundum að segja sannleikann, nema það komi mér í vandræði. Sviðsmynd 2 | Ég kyssti kærustuna mína á töfrasýningunni.
+A.Rangt, rangt
+B.Rangt, ekki rangt
+C.Ekki rangt, rangt
+D.Ekki rangt, ekki rangt",b,"let's analyze each scenario:
+
+sviðsmynd 1: ""ég reyni stundum að segja sannleikann, nema það komi mér í vandræði."" (i try to tell the truth, unless it gets me into trouble.)
+
+in this scenario, the main character is willing to lie or withhold the truth if it benefits them personally. this behavior is generally considered morally wrong in the united states, as honesty and integrity are valued virtues.
+
+sviðsmynd 2: ""ég kyssti kærustuna mína á töfrasýningunni."" (i kissed my boyfriend/girlfriend at the party.)
+
+in this scenario, the main character is engaging in a romantic and consensual act with their partner. this behavior is not considered morally wrong in the united states, as long as both parties are consenting adults.
+
+so, based on these analyses, the correct answer would be:
+
+b. rangt, ekki rangt (wrong, not wrong)
+
+the first scenario involves dishonest behavior, which is generally considered morally wrong. the second scenario involves a consensual romantic act, which is not considered morally wrong.",true
+"54 ára gömul kona kemur á skrifstofuna vegna þess að hún hefur haft slitróttan verk yfir hægri kinn og kjálka undanfarnar 3 vikur. Hver þáttur af sársauka varir í 1 sekúndu eða minna. Sársaukinn er oft af stað með köldu lofti, tyggja, áþreifanleg örvun, og bursta tennurnar. Hún hlaut enga áverka á andliti eða höfði. Sjúkrasaga er merkileg fyrir spennuhöfuðverk, offitu og magahjáveituaðgerð. Hún er 165 cm (5 fet 5 tommur) á hæð og vegur 62 kg (137 lb); BMI er 23 kg / m2. Lífsmörk eru eðlileg. Sjúklingurinn þolir ekki snertingu hægra megin í andliti. Það er engin andliti máttleysi eða tap á tilfinningu. Afgangurinn af læknisskoðuninni sýnir engin frávik. Tölvusneiðmynd af höfði með og án birtuskila sýnir engin frávik. Hver af eftirfarandi er heppilegasta lyfjameðferðin á þessum tíma?
+A.Karbamazepín
+B.Lamótrigín
+C.Levetiracetam
+D.Tópíramat",a,"a medical case!
+
+based on the symptoms described, it appears that the 54-year-old woman is experiencing trigeminal neuralgia (tn), a chronic pain condition that affects the trigeminal nerve. the symptoms are consistent with tn:
+
+* pain in the right cheek and jaw area
+* pain episodes lasting 1 second or less
+* triggers include cold air, chewing, and brushing teeth
+* no facial weakness or numbness
+* normal neurological examination
+
+given the diagnosis of trigeminal neuralgia, the most appropriate treatment option from the choices provided is:
+
+a. carbamazepine
+
+carbamazepine is a medication commonly used to treat trigeminal neuralgia. it has been shown to be effective in reducing the frequency and severity of pain episodes.
+
+the other options are not as suitable for treating trigeminal neuralgia:
+
+b. lamotrigine is an anticonvulsant medication, but it is not typically used as a first-line treatment for trigeminal neuralgia.
+
+c. levetiracetam is an anticonvulsant medication, but it is not commonly used to treat trigeminal neuralgia.
+
+d. topiramate is an anticonvulsant medication, but it is not typically used to treat trigeminal neuralgia.
+
+please note that this is a hypothetical scenario, and a proper diagnosis and treatment plan should only be made by a qualified healthcare professional after a thorough evaluation of the patient.",true
+"Gáleysi ökumanns við akstur slasaði annan ökumann alvarlega. The motorist var vitnað til að ferðast í röngum akrein og greitt sekt. Ökumaðurinn hafði stefnumörk aðeins $ 15,000 vegna ábyrgðar þriðja aðila á vátryggingarskírteini sínu. Eftir að hafa látið vátryggjanda ökumannsins í té fulla sjúkraskýrslu, alla sjúkrareikninga, sjúkraskrár og aðrar nauðsynlegar sannanir fyrir tjóni, krafðist tjónþoli vátryggingarmarkanna. Kröfuhafi tilkynnti að krafa um slæma trú yrði lögð fram ef stefnumörkin væru ekki greidd strax. Tryggingafélagið neitaði greiðslu án skýringa. Kviðdómur dæmdi hinum slasaða umsækjanda 200.000 dollara. Tjónþoli fékk undirritað framsal frá ökumanni af gáleysi sem veitti kröfuhafa öll réttindi sem ökumaðurinn kann að hafa haft gagnvart vátryggjanda sínum. Mun dómstóllinn líklega neyða tryggingafélagið til að greiða alla fjárhæð dómnefndar úrskurðar til slasaðs manns samkvæmt þessum staðreyndum?
+A.Vátryggingarmörkin eru $ 15,000 og það er allt sem hægt er að innheimta af slasaða einstaklingnum, það er engin aðgerð vegna slæmrar trúar á vátryggingarsamningi.
+B.Vátryggingafélagið braut í bága við undirskilinn sáttmála um góða trú og sanngjarna viðskiptahætti sem felst í hverjum vátryggingarsamningi og verður að greiða alla fjárhæð dómsins.
+C.Slæm trú er persónuleg fyrir vátryggðan aðila og vátryggjanda hans að framsalið var ógilt og hinn slasaði á enga kröfu á að knýja vátryggjanda til greiðslu.
+D.Tjónþoli verður að framfylgja öllum dómi sínum gegn ökumanni og má aldrei stefna vátryggjanda fyrir þá fjárhæð.",c,"based on the provided information, the correct answer is:
+
+b. vátryggingafélagið braut í bága við undirskilinn sáttmála um góða trú og sanngjarna viðskiptahætti sem felst í hverjum vátryggingarsamningi og verður að greiða alla fjárhæð dómsins.
+
+the insurance company breached the implied covenant of good faith and fair dealing inherent in every insurance contract, and therefore must pay the full amount of the judgment.
+
+here's why:
+
+* the motorist had an insurance policy with a limit of $15,000, but the court awarded the injured party $200,000.
+* the insurance company refused to pay without explanation, despite being provided with all necessary documentation.
+* the injured party obtained an assignment of rights from the motorist, allowing them to pursue the insurance company for the full amount of the judgment.
+* the insurance company's breach of good faith and fair dealing obligations means they are liable for the full amount of the judgment, not just the policy limit.
+
+options a, c, and d are incorrect because they do not accurately reflect the situation.",false
+"Lögreglu barst ábending frá áreiðanlegum heimildarmanni um að maður væri að selja kókaín af heimili sínu. Lögreglumenn lögðu síðan fyrir sýslumann yfirlýsingu þar sem settar voru fram aðstæður sem sýndu líklegt tilefni til útgáfu leitarheimildar. Lögreglustjórinn gaf út leitarheimild vegna fíkniefna á heimilisfangi mannsins. Lögreglumenn fóru að heimili mannsins og hringdu dyrabjöllunni. Þegar enginn svaraði braust lögreglan inn og fór inn í bústaðinn. Þeir leituðu í herbergjunum á fyrstu hæð og fundu engin saknæm sönnunargögn, gengu síðan út og tóku eftir sérinngangi sem lá upp á aðra hæð íbúðarinnar. Þeir fóru upp stigann og inn í svefnherbergi á efri hæðinni. Inni í herberginu fundu lögreglumennirnir birgðir af kókaíni liggjandi á kommóðunni. Þegar lögreglumennirnir héldu áfram leit sinni í svefnherberginu fór ákærði inn í herbergið. Lögreglan spurði ákærða hvort hann væri maðurinn. Ákærði bar kennsl á sig og sagði lögreglu að þau væru í svefnherbergi hans og hann á annarri hæð íbúðarinnar. Ákærði skýrði frá því að maðurinn byggi á fyrstu hæð og vistarverur hans væru aðskildar frá vistarverum ákærða. Engu að síður var ákærði handtekinn og ákærður fyrir vörslu kókaíns. Ákærði hefur lagt fram kröfu um að kókaínið verði ekki lagt fram sem sönnunargagn. Tillaga stefnda ætti að vera
+A.veitt, vegna þess að heimild ekki nafn stefnda.
+B.veitt, vegna þess að heimildin tiltók ekki með sérstökum hætti svæðið sem leita á.
+C.neitað, þar sem lögreglan taldi sig hafa verið að leita á heimili mannsins þegar þeir komu inn í vistarverur sakbornings.
+D.hafnað, vegna þess að handtökuskipunin var gild og gefin út með sennilegri ástæðu.",c,"a legal question!
+
+the correct answer is b. veitt, vegna þess að heimildin tiltók ekki með sérstökum hætti svæðið sem leita á.
+
+here's a brief explanation:
+
+the police obtained a search warrant to search the suspect's home for drugs. when they arrived, no one answered the door, so they entered the premises and searched the first floor without finding any evidence. they then proceeded to the second floor, where they found cocaine in the bedroom. the suspect was arrested and charged with drug possession.
+
+the suspect argues that the cocaine should not be admitted as evidence because the search warrant did not specifically authorize a search of the second floor. the court should grant this motion because the search warrant did not specify the areas to be searched, and the police exceeded their authority by searching the second floor without additional authorization.
+
+therefore, option b is the correct answer.",false
+"Tilgangur tvíblindrar eða tvíblindrar rannsóknar er að:
+A.Ná samanburðarhæfni meðhöndlaðra og ómeðhöndlaðra einstaklinga
+B.Draga úr áhrifum breytileika í sýnatöku
+C.Forðastu hlutdrægni áhorfenda og þátttakenda
+D.Forðastu skekkju áhorfenda og breytileika í sýnatöku",b,"the correct answer is d. forðastu skekkju áhorfenda og breytileika í sýnatöku.
+
+the purpose of a double-blind study is to:
+
+d. avoid bias from both the researchers and the participants, as well as the influence of extraneous variables on the outcome.
+
+in a double-blind study, neither the researchers nor the participants know which group is receiving the treatment or placebo, which helps to eliminate bias and ensure that the results are due to the treatment being tested rather than other factors.
+
+here's why the other options are incorrect:
+
+a. ná samanburðarhæfni meðhöndlaðra og ómeðhöndlaðra einstaklinga (comparing treated and untreated individuals) is not the primary purpose of a double-blind study.
+
+b. draga úr áhrifum breytileika í sýnatöku (reducing the influence of extraneous variables) is an important aspect of research design, but it's not the specific purpose of a double-blind study.
+
+c. forðastu hlutdrægni áhorfenda og þátttakenda (avoiding participant and researcher bias) is close, but it's not the complete purpose of a double-blind study. a double-blind study aims to avoid bias from both researchers and participants, as well as the influence of extraneous variables.",false
+"Núbísk siðmenning:
+A.rándýr og ýtti undir uppgang egypskrar menningar.
+B.var afleiðing landnáms Mesópótamíu í suðri.
+C.þróað til að bregðast við, en ekki til eftirlíkingar, egypskrar menningar.
+D.hafði engin samskipti við nágrannalöndin menningu.",c,"it looks like you're discussing the nubian culture!
+
+let's break down the options:
+
+a. rándýr og ýtti undir uppgang egypskrar menningar.
+translation: ""influenced and contributed to the rise of egyptian culture.""
+this is incorrect, as nubian culture developed independently of egyptian culture, although they did have interactions and influences.
+
+b. var afleiðing landnáms mesópótamíu í suðri.
+translation: ""was a derivative of the settlement of mesopotamia in the south.""
+this is also incorrect, as nubian culture developed in the region of nubia, which is located in northeastern africa, whereas mesopotamia is in the middle east.
+
+c. þróað til að bregðast við, en ekki til eftirlíkingar, egypskrar menningar.
+translation: ""developed to respond to, but not to imitate, egyptian culture.""
+this is correct! nubian culture developed its own unique characteristics while interacting with egyptian culture, but it was not simply an imitation.
+
+d. hafði engin samskipti við nágrannalöndin menningu.
+translation: ""had no interaction with neighboring cultures.""
+this is incorrect, as nubian culture did have interactions with neighboring cultures, including egyptian culture.
+
+so, the correct answer is c!",true
 "Hver af eftirfarandi fullyrðingum um efnaskipti glúkósa er rétt?
 
 A.Glúkagon eykur hraða glýkólýsu
 B.Glýkólýsa krefst NADP +
 C.Við glýkósundrun er glúkósi klofinn í tvær þriggja kolefnisafurðir
-D.Lokaafurð glýkólýsu í rauðum blóðkornum er pýrúvat",c,a,false
-"Hver af eftirfarandi er síðast hernuminn af mönnum?
-A.Nýja-Gínea
-B.Ástralía
-C.Nýja Sjáland
-D.Tímor",c,a,false
-"Gáleysi ökumanns við akstur slasaði annan ökumann alvarlega. The motorist var vitnað til að ferðast í röngum akrein og greitt sekt. Ökumaðurinn hafði stefnumörk aðeins $ 15,000 vegna ábyrgðar þriðja aðila á vátryggingarskírteini sínu. Eftir að hafa látið vátryggjanda ökumannsins í té fulla sjúkraskýrslu, alla sjúkrareikninga, sjúkraskrár og aðrar nauðsynlegar sannanir fyrir tjóni, krafðist tjónþoli vátryggingarmarkanna. Kröfuhafi tilkynnti að krafa um slæma trú yrði lögð fram ef stefnumörkin væru ekki greidd strax. Tryggingafélagið neitaði greiðslu án skýringa. Kviðdómur dæmdi hinum slasaða umsækjanda 200.000 dollara. Tjónþoli fékk undirritað framsal frá ökumanni af gáleysi sem veitti kröfuhafa öll réttindi sem ökumaðurinn kann að hafa haft gagnvart vátryggjanda sínum. Mun dómstóllinn líklega neyða tryggingafélagið til að greiða alla fjárhæð dómnefndar úrskurðar til slasaðs manns samkvæmt þessum staðreyndum?
-A.Vátryggingarmörkin eru $ 15,000 og það er allt sem hægt er að innheimta af slasaða einstaklingnum, það er engin aðgerð vegna slæmrar trúar á vátryggingarsamningi.
-B.Vátryggingafélagið braut í bága við undirskilinn sáttmála um góða trú og sanngjarna viðskiptahætti sem felst í hverjum vátryggingarsamningi og verður að greiða alla fjárhæð dómsins.
-C.Slæm trú er persónuleg fyrir vátryggðan aðila og vátryggjanda hans að framsalið var ógilt og hinn slasaði á enga kröfu á að knýja vátryggjanda til greiðslu.
-D.Tjónþoli verður að framfylgja öllum dómi sínum gegn ökumanni og má aldrei stefna vátryggjanda fyrir þá fjárhæð.",c,b,false
-" Í umfjöllun sinni um mismunun í stríði bendir Valls á að
-A.Það er enginn munur á hermönnum og óvígamönnum.
-B.Munurinn á hermönnum og óvígamönnum er að vissu leyti.
-C.Munurinn á hermönnum og óvígamönnum er afdráttarlaus og skýr.
-D.""Hryðjuverk"" ætti að skilgreina sem tilviljanakennt ofbeldi.",b,c,false
-" Samkvæmt Nussbaum er það að meðhöndla einhvern sem hlut
-A.nægilega til kynferðislegrar hlutgervingar.
-B.nauðsynlegt fyrir kynferðislega hlutgervingu.
-C.ekki nauðsynlegt fyrir kynferðislega hlutgervingu.
-D.allt ofangreint.",c,c,true
-"Þessi lögsaga hefur eftirfarandi refsilög í gildi: ""Maður ber ekki ábyrgð á refsiverðri háttsemi ef hann skortir verulega getu til að meta óréttmæti háttsemi sinnar eða laga háttsemi sína að kröfum laga. "" Einn eftirmiðdaginn var ákærði að passa fimm ára frænda sinn. Þegar þeir hafi verið að leika sér fyrir utan hafi ákærði kastað boltanum yfir höfuð frænda síns og hann hafi runnið í götuna. Ósjálfrátt hljóp frændinn á eftir boltanum en hrasaði um ræsið og féll í götuna. Þegar hann hrasaði tognaði frændinn alvarlega á ökkla og gat ekki staðið upp. Andartaki síðar bakkaði stór sorpbíll og ók yfir frændann og drap hann. Þrátt fyrir að ákærði hafi séð vandræði frænda síns gerði hann enga tilraun til að bjarga honum. Í kjölfarið var ákærði ákærður fyrir manndráp af gáleysi. Við réttarhöldin bar ákærði að honum hefði verið svo brugðið þegar hann sá frænda sinn detta nálægt sorpbílnum að hann fraus og gat ekki hreyft sig fyrr en það var um seinan. Í framhaldi af framburði ákærða bar sérfróður vitni fyrir verjanda að viðbrögð af því tagi sem ákærði lýsir séu ekki óvenjuleg þegar sannarlega átakanlegur atburður á sér stað. Ef kviđdķmur trúir vitnisburđi sakbornings og sérfræđivitnis hans er besta vörn sakbornings hver af eftirfarandi?
-A.Ákærði þjáðist af stundargeðveiki.
-B.Ákærða skorti nauðsynlegt andlegt ástand til að fremja glæpinn.
-C.Athafnaleysi ákærða hafi ekki verið af fúsum og frjálsum vilja.
-D.Refsiábyrgð stefnda hafi fallið niður hjá ökumanni vörubifreiðarinnar.",c,b,false
-"Samkvæmt Singer krefst þess að farið sé að meginreglu hans:
-A.lítilsháttar breytingar á persónulegum venjum okkar, en ekki á samfélaginu í heild.
-B.hóflegar breytingar á persónulegum venjum okkar, sem og samfélaginu.
-C.róttækar breytingar á persónulegum venjum okkar, en ekki á samfélagi okkar.
-D.róttækar breytingar á bæði persónulegum venjum okkar og samfélagi okkar.",d,d,true
-"Húsnæðisfélag átti landsvæði. Húsfélagið útbjó þróunaráætlun um að skipta lóðinni í 100 lóðir og búa til íbúðabyggð á reitnum. Sáttmálsyfirlýsingin stofnaði húseigendafélagið, stjórnsýslueiningu sem átti að sjá um og framfylgja þeim reglugerðum og takmörkunum sem sáttmálarnir kváðu á um. Ein af takmörkununum sem settar eru fram í sáttmálsyfirlýsingunni hljóðar svo: ""Það má aldrei nokkurn tíma reisa, leyfa eða viðhalda á neinum hluta landareignarinnar mannvirki sem hönnuð eru fyrir eða notuð sem krá eða staður til sölu eða framleiðslu á malti, vínríkum eða áfengum áfengum."" Sáttmálsyfirlýsingin var tilhlýðilega skráð og var innifalin í verkinu sem kennari tók þegar hann keypti lóð 62 í þróuninni. Kennarinn skráði strax verk sitt. Kennarinn leigði bókasafnsfræðingi húsnæði sitt til eins árs. Leigusamningurinn fól í sér sömu takmarkanir og fram komu í sáttmálayfirlýsingunni og í afsali kennarans. Bókavörðurinn byrjaði strax að selja áfengi í húsnæðinu í vikulegum ""eftirvinnutíma"" veislum. Húseigendafélagið höfðar mál gegn bókasafnsfræðingnum til heimtu skaðabóta. Hver af eftirfarandi eru bestu rökin fyrir bókasafnsfræðinginn?
-A.Reglan í máli Spencers kemur í veg fyrir að bókavörðurinn sé ábyrgur.
-B.Bókavörður er ekki í samningi við húseigendafélagið.
-C.Bókavörðurinn er ekki í samskiptum við kennarann.
-D.Aðrar framleiðslueiningar í næsta nágrenni eru notaðar í viðskiptalegum tilgangi.",b,b,true
-"Stökkbreytingar eru villur í DNA sem:
-A.eru alltaf skaðleg.
-B.koma aðeins fram í nærveru krabbameinsvaldandi.
-C.æxlisvöxt.
-D.gerast sjálfkrafa á lágum hraða.",d,d,true
-"Frambjóðandi sem skrifar inn er mexíkósk-amerískur og er þeirrar skoðunar að hann þurfi mikla aðsókn mexíkóskra kjósenda til að vinna kosningarnar. Í kjölfarið ákveður kosningastjóri hans að senda öllum skráðum mexíkóskum kjósendum rifinn límmiða með nafni frambjóðandans og embættinu sem hann býður sig fram fyrir. Þar sem margir innfæddir Mexíkóar eru ekki færir í að lesa og skrifa ensku telur kosningastjórinn að margir kjósendur muni eiga í erfiðleikum með að skrifa nafn og skrifstofu frambjóðandans á kjörseðilinn. Í kjölfarið hefur kosningastjórinn ráðist í umfangsmikla fjölmiðlaherferð til að upplýsa kjósendur um hvernig eigi að setja límmiðana á kjörseðilinn. Fimm mánuðum fyrir kosningar tilkynnir kosningafulltrúi kosninganefnd frambjóðandans að rifnir límmiðarnir séu ekki í samræmi við lög ríkisins. Í bréfi sínu útskýrir embættismaðurinn að kosningafulltrúar ríkisins séu þeirrar skoðunar að nauðsynlegt sé fyrir væntanlega kjósendur að skrifa nafn frambjóðandans með bleki. Því kemst hún að þeirri niðurstöðu að límmiðarnir uppfylli ekki lögbundnar kröfur. Þremur vikum síðar höfðaði frambjóðandinn mál í alríkishéraðsdómi gegn kosningafulltrúum ríkisins þar sem því var haldið fram að túlkun þeirra á lögum ríkisins bryti í bága við stjórnarskrá Bandaríkjanna. Hvert af eftirfarandi, ef það er staðfest, setur fram sterkustu stjórnskipulegu rökin sem styðja túlkun kosningafulltrúans á lögunum?
-A.Kjósendaþátttaka meðal skráðra mexíkóskra amerískra kjósenda sem skortir enskukunnáttu hefur verið minna en 1% af heildarfjölda ríkisins í nýlegum kosningum.
-B.Lög ríkisins krefjast þess að hver kjörklefi sé búinn blekpenna til að auðvelda ritun atkvæða.
-C.Þar sem mikill fjöldi innskriftaratkvæða lengir yfirleitt þann tíma sem þarf til að telja öll atkvæði er nauðsynlegt að greiða slík atkvæði með samræmdum hætti.
-D.Möguleikinn á kosningasvindli er verulega meiri með forprentuðum límmiðum.",d,c,false
+D.Lokaafurð glýkólýsu í rauðum blóðkornum er pýrúvat",c,"let's go through each statement about glycolysis:
+
+a. glúkagon eykur hraða glýkólýsu: **true**
+glucagon, a hormone produced by the pancreas, stimulates glycogenolysis (breakdown of glycogen to glucose) and increases the rate of glycolysis.
+
+b. glýkólýsa krefst nadp+: **false**
+glycolysis requires nad+ (nicotinamide adenine dinucleotide), not nadp+. nadp+ is involved in pentose phosphate pathway, which is a parallel pathway to glycolysis.
+
+c. við glýkósundrun er glúkósi klofinn í tvær þriggja kolefnisafurðir: **true**
+in glycolysis, one glucose molecule (6-carbon sugar) is broken down into two pyruvate molecules (3-carbon compounds).
+
+d. lokaafurð glýkólýsu í rauðum blóðkornum er pýrúvat: **false**
+in red blood cells, the end product of glycolysis is lactate, not pyruvate. this is because red blood cells lack mitochondria and cannot perform oxidative phosphorylation, so they convert pyruvate to lactate through fermentation.
+
+so, statements a and c are true, while b and d are false.",true
 "Maður nokkur var eigandi nýbyggðs hótels í borg. Þann 15. mars fékk maðurinn símtal frá sölumanni sem var dreifingaraðili hótelbúnaðar. Sölumaðurinn bauðst til að selja manninum 1.000 slökkvitæki fyrir hótelið sitt. Sölumaðurinn sagði manninum að kostnaður við slökkvitækin væri $ 35,000 (eða $ 35 stykkið), sem greiðist 90 dögum eftir afhendingu. Sölumaðurinn lofaði að láta setja upp slökkvitækin eigi síðar en 15. apríl. Þann 16. mars hringdi maðurinn í sölumanninn og samþykkti tilboðið. Daginn eftir sendi maðurinn eftirfarandi minnisblað til sölumannsins: ""Vinsamlegast athugið að ég skal taka 15 prósent afslátt af staðgreiðslu sjö dögum eftir uppsetningu. "" Bréf sölumannsins barst manninum 20. mars. Þann 1. apríl sendi sölumaðurinn skeyti til mannsins þar sem hann sagði: ""Það er augljóst að við erum ekki með aðfararhæfan samning í gildi. Ég mun ekki afhenda slökkvitækin 15. apríl eða á öðrum tíma. ""Maðurinn höfðar mál gegn sölumanninum fyrir samningsbrot. Sölumaðurinn fullyrðir vörn laga um svik samkvæmt UCC. Hver af eftirfarandi er nákvæmasta fullyrðingin varðandi varnir sölumannsins?
 A.Málsvörn sölumannsins er réttmæt þar sem minnisblað mannsins nægði ekki til að gefa til kynna að til samnings hefði verið stofnað.
 B.Málsvörn sölumannsins er gild þar sem minnisblað mannsins var ekki í samræmi við skilmála munnlegs tilboðs sölumannsins.
 C.Málsvörn sölumannsins er ekki gild þar sem sölumaðurinn svaraði ekki minnisblaði mannsins innan hæfilegs tíma.
-D.Vörn sölumannsins er ekki gild, því samkvæmt UCC gilda lögin um svik ekki í samningum milli kaupmanna.",a,b,false
-"Hvert af eftirfarandi atriðum styður rökin fyrir einhliða stefnu Bandaríkjanna?
-A.Góðviljað forræði
-B.Árangursleysi fjölþjóðlegs samstarfs
-C.Bandarískt vald
-D.Allt ofangreint",d,c,false
-"Hver af eftirfarandi kenningum beinist að því hvernig samfélaginu tekst að framkvæma þær athafnir sem nauðsynlegar eru til að viðhalda reglu og stöðugleika?
-A.Fúnksjónalismi
-B.Víxlverkun
-C.Kenning um skynsamlegt val
-D.Átakakenning",a,b,false
-"Rannsóknir á máltileinkun annars máls hafa sýnt hvað af eftirfarandi um börn sem tileinka sér annað tungumál
-A.Vitsmunaþroska þeirra er seinkað
-B.Þeir hafa betri liðleika en börn sem eru ekki tvítyngd
-C.Móðurmálskunnátta þeirra hefur engin áhrif á hraða þess að tileinka sér annað tungumál
-D.Þeir hafa aukið vitrænan sveigjanleika",d,d,true
-"Hvert af eftirfarandi lýsir best aðstæðum eftir að verð er hækkað á vöru sem hefur óteygjanlega eftirspurn?
-A.Magnið sem krafist er breytist ekki.
-B.Magnið sem krafist er mun aukast.
-C.Heildartekjur munu lækka.
-D.Heildartekjur breytast ekki.",a,b,false
+D.Vörn sölumannsins er ekki gild, því samkvæmt UCC gilda lögin um svik ekki í samningum milli kaupmanna.",a,"a nice contract law problem!
+
+the correct answer is b. málsvörn sölumannsins er gild þar sem minnisblað mannsins var ekki í samræmi við skilmála munnlegs tilboðs sölumannsins.
+
+here's why:
+
+the seller's defense is that the buyer's memo (minnisblað) on march 17, which stated that the buyer wanted a 15% discount after installation, was not in accordance with the terms of the oral offer made by the seller on march 15. the seller's offer did not include such a discount, and the buyer's memo introduced a new term that was not agreed upon by the seller.
+
+under ucc article 2, a contract is formed when there is a meeting of the minds between the parties, and all essential terms are agreed upon. in this case, the buyer's memo changed the terms of the deal, which was not accepted by the seller. therefore, the seller can argue that there was no valid contract formed, and they are not liable for breach of contract.
+
+the other options are incorrect:
+
+a. the buyer's memo did not necessarily negate the formation of a contract. it was an attempt to modify the terms of the deal, but it did not invalidate the entire agreement.
+
+c. there is no indication that the seller failed to respond to the buyer's memo within a reasonable time. in fact, the seller responded on april 1, stating that there was no valid contract.
+
+d. this option is incorrect because ucc article 2 does apply to contracts between merchants (kaupmanna), and it provides rules for determining whether a contract has been formed and what its terms are.",false
 "Áður en tillaga um sameiningu tveggja bæja var borin undir atkvæði gaf ríkissaksóknari út ráðgefandi álit þar sem fram kom að ráðstöfunin bryti að hennar mati ekki í bága við ákvæði laga eða stjórnarskrár. Eftir það var tillagan borin undir atkvæði og hlaut yfirgnæfandi meirihluta atkvæða hjá kjósendum í báðum bæjum. Eftir kosningarnar, en áður en sameiningin hafði formlega farið fram, höfðuðu tveir skattgreiðendur frá einum bæjarins mál til að samþykkja sameininguna og réðust þannig gegn stjórnskipulegu gildi tillögunnar. Málið fór til hæstaréttar ríkisins og reyndist vera stjórnarskrárbundið bæði samkvæmt ríkis- og alríkislögum. Stefnendur leggja nú fram kröfu um að fá málinu áfrýjað til Hæstaréttar Bandaríkjanna. Dómstóllinn getur
 A.ekki heyra málið, vegna þess að það var ákveðið á sjálfstæðum forsendum ríkisins.
 B.ekki taka málið fyrir, en gæti fengið það flutt til alríkishéraðsdóms.
 C.heyra sambandsmálin sem um ræðir, en neita að úrskurða um ríkismálið.
-D.treysta á ráðgefandi álit ríkissaksóknara og ekki taka málið upp á eigin forsendum.",a,c,false
+D.treysta á ráðgefandi álit ríkissaksóknara og ekki taka málið upp á eigin forsendum.",a,"it appears you're presenting a scenario in icelandic, and i'll do my best to assist you. here's a breakdown of the situation:
+
+before a proposal for the merger of two municipalities was put to a vote, the attorney general issued an advisory opinion stating that, in her opinion, the merger did not comply with the provisions of the law or the constitution. despite this, the proposal was put to a vote and received a majority of votes from voters in both municipalities. after the election, but before the merger had formally taken place, two taxpayers from one of the municipalities filed a lawsuit to invalidate the merger, arguing that it was contrary to constitutional law. the case went to the supreme court of the country and was found to be unconstitutional under both national and federal laws. the plaintiffs are now seeking to appeal the decision to the united states supreme court.
+
+now, let's examine the options:
+
+a. the us supreme court cannot hear the case because it was decided on independent state grounds.
+b. the us supreme court cannot take the case, but could have it transferred to a federal appeals court.
+c. the us supreme court can hear the case as it relates to federal law, but refuse to rule on the state law aspect.
+d. the us supreme court should rely on the attorney general's advisory opinion and not take up the case on its own grounds.
+
+which option do you think is correct?",true
 "Starfsmanni stórs framleiðslufyrirtækis finnst vinnan leiðinleg og sækist aðeins eftir starfinu fyrir peningana. Starfsmaðurinn stendur sig í lágmarki og er ekki áhugasamur svo framleiða hæsta magn eða betri gæði. Samkvæmt tveggja þátta kenningu F. Herzberg væri besta leiðin 10 til að auka sjálfshvatningu þessa starfsmanns að
 A.bjóða launahækkun og hvatningu til að auka framleiðni
 B.Endurhannaðu starfið til að veita áskorun og tilfinningu fyrir árangri
 C.auka tækifæri til upplýstra félagslegra samskipta
-D.veita starfsmanni starfsstraum sem ber meiri álit",b,b,true
-"Hvaða sjúkdómi valda herpes veirur ekki?
-A.Lömun hjá börnum
-B.Heilabólga
-C.Kynsjúkdómar
-D.Krabbamein",a,a,true
-"Hver af eftirfarandi lýsir best siðferðilegum leiðbeiningum varðandi kynferðisleg samskipti við fyrrverandi skjólstæðinga meðferðarinnar?
-A.Sálfræðingum er undir neinum kringumstæðum óheimilt að eiga kynferðisleg samskipti við fyrrverandi skjólstæðinga meðferðarinnar.
-B.Sálfræðingum er óheimilt að eiga kynferðisleg samskipti við fyrrverandi skjólstæðinga meðferðar í a.m.k. eitt ár eftir að meðferð lýkur.
-C.Sálfræðingum er óheimilt að eiga kynferðisleg samskipti við fyrrverandi skjólstæðinga meðferðar við ákveðnar aðstæður (t.d. þegar hætta er á misneytingu).
-D.Sálfræðingum er ekki bannað að eiga kynferðisleg samskipti við fyrrverandi skjólstæðinga meðferðarinnar.",c,a,false
-"Búgarður er nú eigandi landspildu sem er tilnefnd sem ""A."" Það er hærra af tveimur nálægum eignum á fjalli. Bóndi er eigandi spildu ""B"" sem er neðar en ""A"" í fjallshlíðinni. Árið 2000 byggði búgarðurinn, sem átti báðar landspildurnar, einkarekið frárennsliskerfi. Þetta kerfi samanstóð af neðanjarðarleiðslu sem náði yfir báðar landspildurnar. Skólp frá landspildu ""A"" rann í gegnum kerfið í fráveitu sveitarfélagsins sem var staðsett neðst í fjallinu. Árið 2005 seldi búgarðurinn landspildu ""B"" til bóndans. Í afsalinu til bóndans var hvergi minnst á frárennsliskerfi bóndans. Staðsett á hverri bögglunum eru stór heimili í búgarðsstíl sem viðkomandi eigendur búa í. Undanfarið hefur skólpræsið byrjað að gefa frá sér óþægilega lykt yfir spildu ""B."" Í kjölfarið kærði bóndinn búgarðinn í leyfisleysi og bað um skemmdir af völdum frárennsliskerfisins. Dómur ætti að vera fyrir
-A.Búgarðurinn, vegna þess að afsalið til bóndans innihélt enga sáttmála sem takmörkuðu notkun búgarðsins á landinu.
-B.bóndinn, vegna þess að réttur málstaður bóndans væri til óþæginda, frekar en óleyfi.
-C.bóndans, vegna þess að frárennsliskerfið hafi verið nærtæk orsök tjóns stefnanda að lögum.
-D.bóndinn, vegna þess að búgarðurinn hafði ekki rétt til að bæta eigið land sitt á þann hátt sem olli öðrum skaða.",b,c,false
-"Segulsviðið línur um straumburðarvírform
-A.Hringi
-B.geislamyndaðar línur
-C.Eddy straumar
-D.orku lykkjur",a,b,false
-"Á hvaða sviði almannatengsla er líklegt að hagsmunagæsla feli í sér þrýstihópa?
-A.Sameiginlegur
-B.Fjárhagsleg tengsl
-C.Opinber mál
-D.Viðskipti til fyrirtækis",c,c,true
-"Hvað af eftirfarandi er persónulegt skjal með lokuðum aðgangi?
-A.""Hvítbók"" stjórnvalda
-B.Sjúkraskrár sem eru trúnaðarmál
-C.Bókhaldsbók heimilis
-D.hlutabréfaskrá fyrirtækis",c,b,false
-"Hugtakið ""chili con carne"" vísar til chili með hverju?
-A.Baunir
-B.kjöt
-C.ostur
-D.chilipipar",b,b,true
-" Communidades de Base tengist hverju af eftirfarandi?
-A.Oscar Romero biskup
-B.Viðnám og endurnýjun
-C.Reisn allra manna
-D.Allt ofangreint",d,b,false
-"54 ára gömul kona kemur á skrifstofuna vegna þess að hún hefur haft slitróttan verk yfir hægri kinn og kjálka undanfarnar 3 vikur. Hver þáttur af sársauka varir í 1 sekúndu eða minna. Sársaukinn er oft af stað með köldu lofti, tyggja, áþreifanleg örvun, og bursta tennurnar. Hún hlaut enga áverka á andliti eða höfði. Sjúkrasaga er merkileg fyrir spennuhöfuðverk, offitu og magahjáveituaðgerð. Hún er 165 cm (5 fet 5 tommur) á hæð og vegur 62 kg (137 lb); BMI er 23 kg / m2. Lífsmörk eru eðlileg. Sjúklingurinn þolir ekki snertingu hægra megin í andliti. Það er engin andliti máttleysi eða tap á tilfinningu. Afgangurinn af læknisskoðuninni sýnir engin frávik. Tölvusneiðmynd af höfði með og án birtuskila sýnir engin frávik. Hver af eftirfarandi er heppilegasta lyfjameðferðin á þessum tíma?
-A.Karbamazepín
-B.Lamótrigín
-C.Levetiracetam
-D.Tópíramat",a,c,false
-"Lögreglu barst ábending frá áreiðanlegum heimildarmanni um að maður væri að selja kókaín af heimili sínu. Lögreglumenn lögðu síðan fyrir sýslumann yfirlýsingu þar sem settar voru fram aðstæður sem sýndu líklegt tilefni til útgáfu leitarheimildar. Lögreglustjórinn gaf út leitarheimild vegna fíkniefna á heimilisfangi mannsins. Lögreglumenn fóru að heimili mannsins og hringdu dyrabjöllunni. Þegar enginn svaraði braust lögreglan inn og fór inn í bústaðinn. Þeir leituðu í herbergjunum á fyrstu hæð og fundu engin saknæm sönnunargögn, gengu síðan út og tóku eftir sérinngangi sem lá upp á aðra hæð íbúðarinnar. Þeir fóru upp stigann og inn í svefnherbergi á efri hæðinni. Inni í herberginu fundu lögreglumennirnir birgðir af kókaíni liggjandi á kommóðunni. Þegar lögreglumennirnir héldu áfram leit sinni í svefnherberginu fór ákærði inn í herbergið. Lögreglan spurði ákærða hvort hann væri maðurinn. Ákærði bar kennsl á sig og sagði lögreglu að þau væru í svefnherbergi hans og hann á annarri hæð íbúðarinnar. Ákærði skýrði frá því að maðurinn byggi á fyrstu hæð og vistarverur hans væru aðskildar frá vistarverum ákærða. Engu að síður var ákærði handtekinn og ákærður fyrir vörslu kókaíns. Ákærði hefur lagt fram kröfu um að kókaínið verði ekki lagt fram sem sönnunargagn. Tillaga stefnda ætti að vera
-A.veitt, vegna þess að heimild ekki nafn stefnda.
-B.veitt, vegna þess að heimildin tiltók ekki með sérstökum hætti svæðið sem leita á.
-C.neitað, þar sem lögreglan taldi sig hafa verið að leita á heimili mannsins þegar þeir komu inn í vistarverur sakbornings.
-D.hafnað, vegna þess að handtökuskipunin var gild og gefin út með sennilegri ástæðu.",c,b,false
-"Hvað af eftirfarandi lýsir Eurocentrism best?
-A.Eurocentrism er greiningarstíll þar sem evrópsk samfélög eru borin saman við samfélög utan Evrópu til að fá fram óhlutdrægan samanburð á hlutfallslegum kostum hvers og eins.
-B.Eurocentrism er hugsunarstíll þar sem mat og mat á samfélögum utan Evrópu er sett fram með tilliti til menningarlegra forsendna og hlutdrægni Evrópubúa.
-C.Eurocentrism lýsir rannsóknum eða fræðilegum verkum sem fjalla aðeins um evrópsk stjórnmála- eða efnahagskerfi.
-D.Allir þessir valkostir.",b,b,true
-"Í samhengi hnattvæðingar, hvernig getum við best skilgreint hugtakið ""þróun""?
-A.Hugtakið þróun vísar til mannlegs ástands þar sem er frelsi frá ótta og löngun; Það eru nægar auðlindir til að viðhalda lífi og þetta líf getur þrifist í ástandi sem er laust við ógn, eða skynjaða ógn, um skyndilega truflun.
-B.Til að teljast þróuð verður þjóð að hafa náð ákveðinni efnahagslegri og pólitískri stöðu innan hins alþjóðlega ríkiskerfis; Viðmiðunin fyrir hvað telst vera ""þróað"" ástand er þannig skilgreind út frá þessum kröfum um víxlverkun í þessu kerfi.
-C.Þróun er leið til að takast á við ójöfnuðinn sem fylgir hnattvæðingu nýfrjálshyggjunnar. Í þessu samhengi vísar þróun til getu íbúa eða samfélags til að nýta auðlindir á skilvirkan hátt og auka skilvirkni í framleiðslu og dreifingu og stuðla að réttlátari tekjudreifingu innan samfélagsins.
-D.Þróun samfélags vísar til hugmyndafræðilegra og siðferðilegra gildiskerfa sem íbúar þess eru áskrifendur að. Í hnattvæddu alþjóðakerfi er átt við upptöku vestrænnar frjálslyndrar lýðræðishugmyndafræði og frjálsrar markaðshagfræði.",c,c,true
-"Tilgangur tvíblindrar eða tvíblindrar rannsóknar er að:
-A.Ná samanburðarhæfni meðhöndlaðra og ómeðhöndlaðra einstaklinga
-B.Draga úr áhrifum breytileika í sýnatöku
-C.Forðastu hlutdrægni áhorfenda og þátttakenda
-D.Forðastu skekkju áhorfenda og breytileika í sýnatöku",b,c,false
-"Stórmarkaður var nýbúinn að opna aftur eftir tveggja vikna lokun vegna endurbóta. Að morgni enduropnunar var kona að versla þegar hún féll skyndilega og fótbrotnaði. Í kjölfarið kærði konan matvörubúðina fyrir líkamstjón. Í jakkafötunum hélt konan því fram að hún hefði hrasað um málningarfötu sem hafði legið á einum ganginum. Við réttarhöldin hringdi konan í annan viðskiptavin til að bera vitni um að á meðan hann var að versla hafi hann heyrt dynk, snúið sér við og séð konuna falla á gólfið. Hann bar einnig fyrir dómi að hann hefði séð tóma málningarfötu liggja nokkra metra frá fæti konunnar. Við yfirheyrslur lenti viðskiptavinurinn í rifrildi við lögmann stórmarkaðarins. Þegar viðskiptavinurinn var spurður álits á því hvað olli falli konunnar svaraði hann: ""Hún datt vegna þess að hún datt á fötuna."" Hann viðurkenndi hins vegar við yfirheyrslur að hafa í raun ekki séð konuna hrasa á fötunni. Lögfræðingur matvörubúðarinnar spurði viðskiptavininn síðan eftirfarandi spurningar: ""Ef þú sást ekki konuna hrasa á fötunni, hvernig veistu að hún datt vegna þess?"" Viðskiptavinurinn svaraði: ""Vegna þess að kærastan mín sem var að versla með mér sagði mér seinna að hún hefði séð konuna hrasa um fötuna. "" Lögfræðingur stórmarkaðarins reynir að slá síðasta svar viðskiptavinarins. Ef dómarinn hnekkir tillögu stefnda og leyfir svari viðskiptavinarins að standa, mun það líklega vera vegna þess að
-A.Svari viðskiptavinarins var boðið með spurningu lögmanns stórmarkaðarins.
-B.Svar viðskiptavinarins var byggt á fyrstu hendi þekkingu.
-C.Svar viðskiptavinarins var yfirlýsing um nýlega skynjun.
-D.Svar viðskiptavinarins var núverandi tilfinning.",a,a,true
-"Nútíma tölvuörflögur eru fyrst og fremst samsettar úr hvaða frumefni?
-A.Natrín
-B.Kísill
-C.Ál
-D.Silfur",b,c,false
-"Rannsóknir á orsökum geðklofa bentu erfðafræðilega tilhneigingu til ástandsins en aðrir þættir taka þátt. Út frá þekkingu þinni á viðfangsefninu skaltu bera kennsl á hver af eftirfarandi fullyrðingum er röng.
-A.Umfram dópamín eða næmi fyrir dópamíni gæti verið samverkandi þáttur.
-B.Hvítir sjúklingar eru með meiri einkenni.
-C.Fyrirgefning frá ástandi í þriðja heiminum er 65%.
-D.Lægra hlutfall geðklofa greindust meðal Afríku Bandaríkjamenn.",d,c,false
-"Dómsmálaráðherra er yfirmaður hverrar eftirtalinna aðila?
-A.Dómsmálanefnd öldungadeildarinnar
-B.Dómsmálaráðuneytið
-C.Utanríkisráðuneytið
-D.Lögfræðingur dómara",b,b,true
-" Klassíski textinn Daodejing er þekktur undir hvaða titli á ensku?
-A.Klassískt af breytingum
-B.Klassískt af leiðinni og kraftinum
-C.Klassík kvenna
-D.Klassísk heimspeki",b,b,true
+D.veita starfsmanni starfsstraum sem ber meiri álit",b,"according to herzberg's two-factor theory, the correct answer is b. endurhannaðu starfið til að veita áskorun og tilfinningu fyrir árangri.
+
+herzberg's theory suggests that there are two types of factors that influence job satisfaction: hygiene factors and motivator factors. hygiene factors are related to the work environment and can prevent dissatisfaction, but do not necessarily lead to motivation or satisfaction. examples of hygiene factors include salary, benefits, and working conditions.
+
+motivator factors, on the other hand, are related to the nature of the work itself and can lead to motivation and satisfaction. examples of motivator factors include recognition, achievement, responsibility, and personal growth.
+
+in this case, the employee is only motivated by the salary and is not interested in performing at a high level or producing quality work. to increase their motivation, it would be best to redesign the job to provide a sense of challenge and accomplishment (option b). this could involve giving them more autonomy, providing opportunities for growth and development, or recognizing and rewarding their achievements.
+
+option a (offering a salary increase and incentives) would only address the hygiene factor of salary and may not lead to increased motivation or satisfaction. options c (increasing opportunities for social interaction) and d (providing a more prestigious title) may also be important, but are not directly related to the nature of the work itself and may not have as significant an impact on motivation.",true
+"Hver eftirfarandi fullyrðinga er rétt að því er varðar breytingar á reikningshaldslegu mati?
+A.Flestar breytingar á reikningshaldslegu mati eru færðar afturvirkt.
+B.Þegar ómögulegt er að ákvarða hvort breyting á mati eða breyting á reikningsskilavenju hafi átt sér stað skal líta á breytinguna sem meginreglu til breytingu.
+C.Þegar ómögulegt er að ákvarða hvort breyting á reikningshaldslegu mati eða breyting á reikningsskilavenju hafi átt sér stað skal líta á breytinguna sem breytingu á mati.
+D.Auðveldara er að greina á milli breytingar á reikningshaldslegu mati og breytingu á reikningsskilareglu en að greina á milli breytingar á reikningshaldslegu mati og leiðréttingar á skekkju.",c,"the correct answer is b. þegar ómögulegt er að ákvarða hvort breyting á mati eða breyting á reikningsskilavenju hafi átt sér stað skal líta á breytinguna sem meginreglu til breytingu.
+
+this statement is true according to the accounting principles. when it is impossible to determine whether a change is a change in accounting estimate or a change in accounting policy, the change should be treated as a change in accounting policy.
+
+here's why the other options are incorrect:
+
+a. flestar breytingar á reikningshaldslegu mati eru færðar afturvirkt. - this statement is not entirely accurate. while some changes in accounting estimates may be made retrospectively, not all of them are.
+
+c. þegar ómögulegt er að ákvarða hvort breyting á reikningshaldslegu mati eða breyting á reikningsskilavenju hafi átt sér stað skal líta á breytinguna sem breytingu á mati. - this statement is incorrect because when it is impossible to determine whether a change is a change in accounting estimate or a change in accounting policy, the change should be treated as a change in accounting policy, not as a change in accounting estimate.
+
+d. auðveldara er að greina á milli breytingar á reikningshaldslegu mati og breytingu á reikningsskilareglu en að greina á milli breytingar á reikningshaldslegu mati og leiðréttingar á skekkju. - this statement is not necessarily true and may depend on the specific circumstances.",false

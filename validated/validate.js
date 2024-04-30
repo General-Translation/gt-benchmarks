@@ -1,13 +1,13 @@
 import queryOpenAI from "../models/openai/queryOpenAI.js"
 
 export default async function validate(question, correctAnswer, modelAnswer) {
-    const validationPrompt = `I have the following multiple choice question:\n${question}\n\nThe correct answer is ${correctAnswer}.\n\nDoes this answer correspond to the correct answer:${modelAnswer}.\n\nIf so, select true. Else, select false. Return a JSON formatted as {"correct": <your selection>}, where your selection is always a boolean.`;
+    const validationPrompt = `I have the following multiple choice question:\n${question}\n\nCheck this answer and associate it to one of the answers in the question:\n${modelAnswer}.\n\nReturn a JSON formatted as {"answer": <selection>}, where selection is one of A, B, C, or D.`;
     const messages = [
         {
             role: "system",
             content: "You are a helpful assistant designed to output JSON.",
         },
-        { 
+        {
             role: "user", 
             content: validationPrompt
         },

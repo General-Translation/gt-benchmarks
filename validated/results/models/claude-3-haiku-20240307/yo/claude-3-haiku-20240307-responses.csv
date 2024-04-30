@@ -1,97 +1,234 @@
 Question,CorrectAnswer,GivenAnswer,Correct
-"Àwọn àgbàlagbà àgbàlagbà dàbí ẹni pé wọ́n pọ̀ jù ____ ju àwọn àgbàlagbà tàbí àgbàlagbà lọ.
-A.Generative
-B.Neurotic
-C.Agreeable
-D.Àwọn kan",a,d,false
-"Awọn iyipada ti o fa achondroplasia exert ohun ipa eyi ti o le wa ni classified bi:
-A.Ohun tí kò dára.
-B.gain-of-function ì
-C.Haploinsufficiency.
-D.Àdánù-iṣẹ́.",b,c,false
-"Kí ni òṣèré Antonio Banderas native language?
-A.Èdè Sípéènì
-B.Èdè Rọ́ṣíà
-C.Èdè Jámánì
-D.Èdè faransé",a,a,true
-" Yi tita ati ibaraẹnisọrọ ọpa nfun a taara inducement tabi ohun iwuri lati iwuri fun awọn onibara lati ra a ọja / iṣẹ:
-A.Ipolowo.
-B.Ìbáṣepọ̀ àwùjọ.
-C.Tita igbega.
-D.Taara tita.",c,c. tita igbega.,true
-"Èwo nínú àwọn fíìmù ẹ̀rù wọ̀nyí ló ṣẹ̀dá ìtẹ̀síwájú tó pọ̀ jù?
-A.Scream'
-B.Jaws'
-C.Halloween'
-D.Ọjọ́ Ẹtì ọjọ́ 13'",d,c,false
-"Èwo nínú àwọn oúnjẹ wọ̀nyí ni wọ́n ṣe láti inú ìfun ẹlẹ́dẹ̀?
-A.haggis
-B.chitlins
-C.grits
-D.chop suey",b,b,true
-"Awọn fallacy ti laudatory eniyan jẹ kan pato iru ti
-A.Awọn fallacy ti ijamba
-B.Ìṣòro èké
-C.Bẹ̀bẹ̀ ìbéèrè náà
-D.Ìrònú yíká",a,b,false
 "Kí ni èdè ìjọba Orílẹ̀-èdè Netherlands?
 A.Èdè Dẹ́nmárkì
 B.Èdè Swídìn
 C.Èdè Jámánì
-D.Èdè Nẹ́dálándì",d,d,true
-"K-fold cross-validation ì ì
-A.linear ni K
-B.Quadratic ni K
-C.onigun ni K
-D.exponential ni K",a,c. onigun ni k,false
+D.Èdè Nẹ́dálándì",D,D. Èdè Nẹ́dálándì,
 "Ní ìpínlẹ̀ wo ni fíìmù Magnolia 1999 ṣètò?
 A.California
 B.South Carolina
 C.Jọ́jíà
-D.Texas",a,a,true
-"Aláìsàn kan ní ọrùn tó fọ́ pẹ̀lú ìbàjẹ́ sí okùn ẹ̀yìn ẹ̀yìn ní ìpele ẹ̀yìn ọrùn kẹfà.
-A.Wọn kò ní lè mí láìsí ìrànlọ́wọ́ ayé.
-B.Wọ́n kàn máa lè mí ní ìdákẹ́jẹ́ẹ́.
-C.Kò ṣe é ṣe láti sọ àsọtẹ́lẹ̀ ipa lórí mímí.
-D.Èémí kò ní nípa lórí.",b,c,false
-"Pinnu awọn H + (aq) fojusi ni 1.0 M phenol, C6H5OH, ojutu. (The Ka fun phenol ni 1 × 10 ^ -10.)
-A.1 × 10 ^ -10 M
-B.1 × 10 ^-9 M
-C.1 × 10 ^-3 M
-D.1 × 10 ^ -5 M",d,b,false
-"Èwo nínú àwọn nkan wọ̀nyí ni wọ́n máa kà sí ohun tí ó ń fa ""fa"" fún Riva nígbà tí a bá ń ronú nípa gbígbé láti India lọ sí United States?
-A.Òṣì Abject
-B.Iṣẹ́ tó dára àti owó oṣù tó ga
-C.India's caste system
-D.Ìwà ipá ní àdúgbò rẹ̀",b,d,false
-"Ṣe ìdánimọ̀ ìpìlẹ̀ àbá ìlànà wọ̀nyí: Àwọn Bees borí eré àkọ́kọ́ wọn àyàfi tí àwọn Aardvarks tàbí Chipmunks kò bá borí eré àkọ́kọ́ wọn.
-A.Àwọn Aardvarks kò borí eré àkọ́kọ́ wọn.
-B.Àwọn Bees gbégbá orókè nínú eré àkọ́kọ́ wọn.
-C.Àwọn Chipmunks kò borí eré àkọ́kọ́ wọn.
-D.Bóyá àwọn Aardvarks tàbí Chipmunks kò borí eré àkọ́kọ́ wọn.",b,d,false
-"Ṣé ìpànìyàn tí kò bófin mu tí Mínísítà orílẹ̀-èdè X ṣe lórílẹ̀-èdè òkèèrè jẹ́ ìṣe tí kò dára tàbí jure gestionis?
-A.Irú ìwà bẹ́ẹ̀ jẹ́ ìṣe gbogbogbò (jure imperii)
-B.Irú ìwà bẹ́ẹ̀ kì í fa ààbò.
-C.Irú ìwà bẹ́ẹ̀ jẹ́ ìṣe aládàáni (jure gestionis)
-D.Irú ìwà bẹ́ẹ̀ jẹ́ ìṣe gbogbogbò ṣùgbọ́n ààbò wà ní ààbò.",c,c,true
-"Ìyókù autocorrelation tí ó kù ni a tọ́ka sí nípasẹ̀ èwo nínú àwọn wọ̀nyí?
-A.Àpẹẹrẹ cyclical nínú àwọn ìyókù.
-B.Àpẹẹrẹ ìyípadà nínú àwọn ìyókù.
-C.Àìṣedéédé pátápátá nínú àwọn ìyókù.
-D.Àwọn ìyókù tí gbogbo wọn súnmọ́ òdo.",b,c,false
-"Ìbéèrè yìí ń tọ́ka sí àlàyé wọ̀nyí.
-""Awọn irugbin ti awọn ijọba totalitarian ti wa ni itọju nipasẹ misery ati ki o fẹ. Wọ́n tàn kálẹ̀ wọ́n sì dàgbà nínú ilẹ̀ búburú òṣì àti ìjà. Wọ́n dé ìdàgbàsókè wọn ní kíkún nígbà tí ìrètí àwọn ènìyàn fún ìgbésí ayé tó dára bá ti kú. A gbọ́dọ̀ jẹ́ kí ìrètí yẹn wà láàyè. . . . Àwọn ojúṣe ńlá ti wà lórí wa nípasẹ̀ ìgbésẹ̀ kíákíá àwọn ìṣẹ̀lẹ̀. . . . Ó dá mi lójú pé ìgbìmọ̀ aṣòfin yóò dojú kọ àwọn ojúṣe wọ̀nyí dáadáa.""
-Ààrẹ Harry S. Truman, 1947
-Àwọn èrò tí wọ́n ṣàfihàn nínú àyọkà tó wà lókè ṣe àfihàn tààrà èwo nínú ìtẹ̀síwájú wọ̀nyí nínú ìtàn U.S.
-A.Àríyànjiyàn nípa ìbáṣepọ̀ tó wà láàárín ìgbìmọ̀ aṣòfin àti ààrẹ.
-B.Àríyànjiyàn nípa lílo agbára ológun ní àwọn ipò tí kò dára.
-C.Àríyànjiyàn nípa ipa United States nínú ọ̀rọ̀ àgbáyé.
-D.Àríyànjiyàn nípa ipa tí ó tọ́ fún àwọn ẹgbẹ́ òṣèlú.",c,b,false
+D.Texas",A,"The film Magnolia (1999) is set in the San Fernando Valley, which is located in the state of California.
+
+Therefore, the correct answer is A. California.",
+"Kí ni òṣèré Antonio Banderas native language?
+A.Èdè Sípéènì
+B.Èdè Rọ́ṣíà
+C.Èdè Jámánì
+D.Èdè faransé",A,"A. Èdè Sípéènì
+
+Antonio Banderas jẹ́ ọmọ Sípáìnì, ẹni tí èdè Sípáìnì jẹ́ èdè ìbí rẹ̀.",
+"Àwọn àgbàlagbà àgbàlagbà dàbí ẹni pé wọ́n pọ̀ jù ____ ju àwọn àgbàlagbà tàbí àgbàlagbà lọ.
+A.Generative
+B.Neurotic
+C.Agreeable
+D.Àwọn kan",A,"D. Àwọn kan
+
+The correct answer is D. Àwọn kan.
+
+The phrase ""Àwọn àgbàlagbà àgbàlagbà"" suggests that the older adults are more numerous or greater in number compared to the other options provided. Therefore, the most appropriate answer is ""Àwọn kan"", which means ""some"" or ""a few"".",
+"Èwo nínú àwọn oúnjẹ wọ̀nyí ni wọ́n ṣe láti inú ìfun ẹlẹ́dẹ̀?
+A.haggis
+B.chitlins
+C.grits
+D.chop suey",B,"Ìdáhùn:
+B. Chitlins
+
+Chitlins, tàbí chitterlings, jẹ́ ìfun ẹlẹ́dẹ̀ tí wọ́n ti ṣe láti inú ẹlẹ́dẹ̀.",
+"K-fold cross-validation ì ì
+A.linear ni K
+B.Quadratic ni K
+C.onigun ni K
+D.exponential ni K",A,"The correct answer is C. onigun ni K.
+
+K-fold cross-validation is a technique used to evaluate the performance of a machine learning model. It involves dividing the dataset into K equal-sized subsets, and then using K-1 subsets for training the model and the remaining subset for testing. This process is repeated K times, with each subset being used as the test set once.
+
+The choice of the type of model (linear, quadratic, or exponential) does not affect the K-fold cross-validation process itself. The K-fold cross-validation can be applied to any type of model, as long as the model is trained and evaluated on the appropriate subsets of the data.
+
+Therefore, the statement ""onigun ni K"" (which means ""it is K"" in Korean) is the correct answer, as it correctly describes the K-fold cross-validation process, regardless of the type of model being used.",
+"Nọ́bà kan, tí wọ́n yíká sí ẹgbẹ̀rún tó súnmọ́ jùlọ, jẹ́ 47,000. Nọ́bà wo ni ó lè jẹ́ nọ́mbà tí wọ́n yíká?
+A.46,295
+B.46,504
+C.47,520
+D.47,924",B,"Ìdáhùn tí ó dára jùlọ fún ìbéèrè yìí ni B. 46,504.
+
+Nítorí pé wọ́n sọ pé nọ́bà kan tí wọ́n yíká sí ẹgbẹ̀rún tó súnmọ́ jùlọ jẹ́ 47,000, nọ́bà tí ó lè jẹ́ nọ́mbà tí wọ́n yíká ni 46,504.",
 "Èwo nínú àwọn wọ̀nyí ló jẹ́ kí ìpinnu ìbámu ìdàgbàsókè àwọn ẹ̀yà ọ̀tọ̀ọ̀tọ̀ tí ó dá lórí ìtẹ̀léra amino acid ti àwọn ọlọ́jẹ̀ẹ̀dẹ̀ homologous kò péye ju àwọn ìpinnu ìbátan tí ó dá lórí àwọn ìtẹ̀léra nucleotide ti àwọn jíìnì homologous lọ?
 A.Ìyípadà ìdákẹ́jẹ́ẹ́
 B.Gene duplications
 C.Àwọn ìṣẹ̀lẹ̀ ìyípadà tí ó ń yí àwọn ìtẹ̀léra jíìnì padà
-D.Cross-over",a,b. gene duplications,false
+D.Cross-over",A,"B. Gene duplications
+
+Ìpinnu ìbámu ìdàgbàsókè àwọn ẹ̀yà ọ̀tọ̀ọ̀tọ̀ tí ó dá lórí ìtẹ̀léra amino acid ti àwọn ọlọ́jẹ̀ẹ̀dẹ̀ homologous jẹ́ kí àwọn gene duplications ṣẹlẹ̀. Èyí ní ipa tó ga jù lórí ìdàgbàsókè àwọn ẹ̀yà ọ̀tọ̀ọ̀tọ̀ ju àwọn ìpinnu ìbátan tí ó dá lórí àwọn ìtẹ̀léra nucleotide ti àwọn jíìnì homologous lọ.",
+"Èwo nínú àwọn àbùdá wọ̀nyí ni ó bá ìfipábánilòpọ̀ ọjọ́ mu?
+A.Lilo agbara ti o pọju
+B.Premeditated
+C.ibalopo motivated
+D.O ni lati lo ohun ija kan.",C,"Ìdáhùn tó tọ́ ni B. Premeditated.
+
+Ìfipábánilòpọ̀ ọjọ́ jẹ́ ìṣe tí a ṣe lẹ́yìn ìfojúrí, kì í ṣe ìṣe tí a ṣe nínú ìfipábánilòpọ̀ náà. Ìfipábánilòpọ̀ ọjọ́ jẹ́ ìṣe tí a ṣe lẹ́yìn ìfojúrí, tí a ti ṣe ìpinnu nípa rẹ̀ kí ó tó wáyé.",
+"Pinnu awọn H + (aq) fojusi ni 1.0 M phenol, C6H5OH, ojutu. (The Ka fun phenol ni 1 × 10 ^ -10.)
+A.1 × 10 ^ -10 M
+B.1 × 10 ^-9 M
+C.1 × 10 ^-3 M
+D.1 × 10 ^ -5 M",D,"Lati fi esi fun eyi, a nilo lati lo awọn ọna ṣiṣe ti pH.
+
+Ṣe atunṣe:
+pH = -log[H+]
+
+Nitorina, [H+] = 10^(-pH)
+
+Nitori Ka fun phenol ni 1 × 10^-10, a le ṣe atunṣe eyi si:
+Ka = [H+][OH-] / [C6H5OH]
+1 × 10^-10 = [H+]^2 / 1.0
+[H+] = √(1 × 10^-10) = 1 × 10^-5 M
+
+Nitorina, esi to ye ni D. 1 × 10^-5 M.",
+"Aláìsàn kan ní ọrùn tó fọ́ pẹ̀lú ìbàjẹ́ sí okùn ẹ̀yìn ẹ̀yìn ní ìpele ẹ̀yìn ọrùn kẹfà.
+A.Wọn kò ní lè mí láìsí ìrànlọ́wọ́ ayé.
+B.Wọ́n kàn máa lè mí ní ìdákẹ́jẹ́ẹ́.
+C.Kò ṣe é ṣe láti sọ àsọtẹ́lẹ̀ ipa lórí mímí.
+D.Èémí kò ní nípa lórí.",B,"Ìdáhùn tó dára jùlọ fún ìbéèrè yìí ni:
+
+B. Wọ́n kàn máa lè mí ní ìdákẹ́jẹ́ẹ́.
+
+Ìdáhùn yìí dára jùlọ nítorí pé ó sọ pé ẹni tó ní aláìsàn kan ní ọrùn tó fọ́ pẹ̀lú ìbàjẹ́ sí okùn ẹ̀yìn ẹ̀yìn ní ìpele ẹ̀yìn ọrùn kẹfà kò ní lè mí láìsí ìrànlọ́wọ́ ayé, ṣùgbọ́n wọ́n kàn máa lè mí ní ìdákẹ́jẹ́ẹ́.",
+"Ojò kan wa ni irisi prism triangular kan. Tí ìpìlẹ̀ onígun mẹ́ta náà bá ní agbègbè ẹsẹ̀ mẹ́rin 116, tí ọkọ̀ ojú omi náà sì ga ní ẹsẹ̀ 30, omi mélòó ni ọkọ̀ ojú omi náà yóò ní nígbà tí ó bá kún?
+A.1725 ft ì
+B.1740 ft ì
+C.3480 ft ì
+D.6960 ft ì",C,"Kí n le so fún ọ, ìpìlẹ̀ onígun mẹ́ta náà ní agbègbè ẹsẹ̀ mẹ́rin 116, ọkọ̀ ojú omi náà sì ga ní ẹsẹ̀ 30. Láti ṣe àkọ́kọ́ ìpín, a le ṣe àkọsílẹ̀ ìpín ọkọ̀ ojú omi náà:
+
+Ìpín ọkọ̀ ojú omi = Ìpín ìpìlẹ̀ x Ọkọ̀ ojú omi
+Ìpín ọkọ̀ ojú omi = 116 x 30
+Ìpín ọkọ̀ ojú omi = 3480 ft ì
+
+Nítorí náà, ìdáhùn tì í jẹ́ C.3480 ft ì.",
+"Ṣe ìdánimọ̀ ìpìlẹ̀ àbá ìlànà wọ̀nyí: Àwọn Bees borí eré àkọ́kọ́ wọn àyàfi tí àwọn Aardvarks tàbí Chipmunks kò bá borí eré àkọ́kọ́ wọn.
+A.Àwọn Aardvarks kò borí eré àkọ́kọ́ wọn.
+B.Àwọn Bees gbégbá orókè nínú eré àkọ́kọ́ wọn.
+C.Àwọn Chipmunks kò borí eré àkọ́kọ́ wọn.
+D.Bóyá àwọn Aardvarks tàbí Chipmunks kò borí eré àkọ́kọ́ wọn.",B,"Ìdánimọ̀ ìpìlẹ̀ àbá ìlànà wọ̀nyí:
+
+A. Àwọn Aardvarks kò borí eré àkọ́kọ́ wọn.
+B. Àwọn Bees gbégbá orókè nínú eré àkọ́kọ́ wọn.
+C. Àwọn Chipmunks kò borí eré àkọ́kọ́ wọn.
+D. Bóyá àwọn Aardvarks tàbí Chipmunks kò borí eré àkọ́kọ́ wọn.
+
+Ìdánimọ̀ ìpìlẹ̀ àbá ìlànà wọ̀nyí:
+Àwọn Bees borí eré àkọ́kọ́ wọn àyàfi tí àwọn Aardvarks tàbí Chipmunks kò bá borí eré àkọ́kọ́ wọn.",
+"Èwo nínú àwọn fíìmù ẹ̀rù wọ̀nyí ló ṣẹ̀dá ìtẹ̀síwájú tó pọ̀ jù?
+A.Scream'
+B.Jaws'
+C.Halloween'
+D.Ọjọ́ Ẹtì ọjọ́ 13'",D,"Ìdáhùn tó dára jù fún ìbéèrè yìí ni:
+
+C. Halloween'
+
+Fíìmù 'Halloween' ló ṣẹ̀dá ìtẹ̀síwájú tó pọ̀ jù nínú àwọn fíìmù ẹ̀rù wọ̀nyí. Fíìmù yìí ló kọ́kọ́ ṣe àfihàn àwọn ìtẹ̀síwájú tó pọ̀ jù fún ọ̀pọ̀lọpọ̀ àwọn fíìmù ẹ̀rù tó dá lẹ́yìn rẹ̀.",
+"Awọn fallacy ti laudatory eniyan jẹ kan pato iru ti
+A.Awọn fallacy ti ijamba
+B.Ìṣòro èké
+C.Bẹ̀bẹ̀ ìbéèrè náà
+D.Ìrònú yíká",A,"Ìdáhùn tòkàn jẹ́ D. Ìrònú yíká.
+
+Ìrònú yíká jẹ́ kan pato iru ti fallacy tí ẹni kan ń lo láti ṣe ìlérí tàbí ìfẹ́ràn ẹni kan. Ní ìrònú yíká, ẹni kan ń ṣe ìlérí tàbí ìfẹ́ràn ẹni kan nítorí pé ẹni náà jẹ́ ọ̀kan nínú awọn ẹni tí a ń ṣe ìlérí tàbí ìfẹ́ràn.
+
+Awọn fallacy mìíràn tí a ṣe àkójọ nínú ìdáhùn náà kò jẹ́ ìrònú yíká:
+A. Awọn fallacy ti ijamba
+B. Ìṣòro èké
+C. Bẹ̀bẹ̀ ìbéèrè náà",
+"Ìyókù autocorrelation tí ó kù ni a tọ́ka sí nípasẹ̀ èwo nínú àwọn wọ̀nyí?
+A.Àpẹẹrẹ cyclical nínú àwọn ìyókù.
+B.Àpẹẹrẹ ìyípadà nínú àwọn ìyókù.
+C.Àìṣedéédé pátápátá nínú àwọn ìyókù.
+D.Àwọn ìyókù tí gbogbo wọn súnmọ́ òdo.",B,"Ìdáhùn tì: C. Àìṣedéédé pátápátá nínú àwọn ìyókù.
+
+Àìṣedéédé pátápátá nínú àwọn ìyókù jẹ́ àpẹẹrẹ autocorrelation tí ó kù. Nígbà tí àwọn ìyókù ṣe àìṣedéédé pátápátá, ó túmọ̀ sí pé kò sí ìyípadà tàbí ìtọ́jú cyclical nínú wọn.
+
+A. Àpẹẹrẹ cyclical nínú àwọn ìyókù kò jẹ́ àpẹẹrẹ autocorrelation tí ó kù.
+B. Àpẹẹrẹ ìyípadà nínú àwọn ìyókù kò jẹ́ àpẹẹrẹ autocorrelation tí ó kù.
+D. Àwọn ìyókù tí gbogbo wọn súnmọ́ òdo kò jẹ́ àpẹẹrẹ autocorrelation tí ó kù.
+
+Nítorí náà, ìdáhùn tì ni C. Àìṣedéédé pátápátá nínú àwọn ìyókù.",
+"Awọn foliteji induced ni ohun inductor ti wa ni soju bi,
+A.Ọja ti inductance rẹ ati lọwọlọwọ nipasẹ rẹ.
+B.Ìpín inductance rẹ̀ sí lọ́wọ́lọ́wọ́ nípasẹ̀ rẹ̀.
+C.Ìpín lọ́wọ́lọ́wọ́ nípasẹ̀ rẹ̀ sí ìdákọ́lé rẹ̀.
+D.ọja ti inductance rẹ ati oṣuwọn iyipada ti isiyi nipasẹ rẹ.",D,"Ìdáhùn tòkàn ni B.
+
+Ìpín inductance rẹ̀ sí lọ́wọ́lọ́wọ́ nípasẹ̀ rẹ̀.
+
+Nígbà tí ohun inductor bá ń gba ìpín lọ́wọ́lọ́wọ́, èyí yíò ní ipa lórí foliteji tí a ń gba lọ́wọ́lọ́wọ́ nípasẹ̀ rẹ̀. Èyí ń jẹ́ kí a ní foliteji tí a ń gba lọ́wọ́lọ́wọ́ nípasẹ̀ rẹ̀.
+
+A, C, àti D kì í jẹ́ ìdáhùn tòkàn, nítorí wọ́n kò ṣe àkíyèsí ìpín inductance tí ó ń ṣẹlẹ̀ lọ́wọ́lọ́wọ́ nípasẹ̀ ohun inductor.",
+" Yi tita ati ibaraẹnisọrọ ọpa nfun a taara inducement tabi ohun iwuri lati iwuri fun awọn onibara lati ra a ọja / iṣẹ:
+A.Ipolowo.
+B.Ìbáṣepọ̀ àwùjọ.
+C.Tita igbega.
+D.Taara tita.",C,"Ọna tita ati ibaraẹnisọrọ ọpa nfun a taara inducement tabi ohun iwuri lati iwuri fun awọn onibara lati ra a ọja / iṣẹ ni:
+
+A. Ipolowo - Eyi jẹ ọna tita ti o ni ipa lori awọn onibara lati ra ọja/iṣẹ nipasẹ ṣiṣẹ lori awọn ẹni tuntun tabi awọn ẹni ti o ti ra ṣaaju.
+
+B. Ìbáṣepọ̀ àwùjọ - Eyi jẹ ọna tita ti o ni ipa lori awọn onibara lati ra ọja/iṣẹ nipasẹ ṣiṣẹ pẹlu awọn ẹni ti o ti ra ṣaaju.
+
+C. Tita igbega - Eyi jẹ ọna tita ti o ni ipa lori awọn onibara lati ra ọja/iṣẹ nipasẹ ṣiṣẹ lori awọn ẹni ti o ti ra ṣaaju lati gba igbega.
+
+D. Taara tita - Eyi jẹ ọna tita ti o ni ipa lori awọn onibara lati ra ọja/iṣẹ nipasẹ ṣiṣẹ lori awọn ẹni tuntun tabi awọn ẹni ti o ti ra ṣaaju lati gba owo.",
+"Èwo nínú àwọn nkan wọ̀nyí ni wọ́n máa kà sí ohun tí ó ń fa ""fa"" fún Riva nígbà tí a bá ń ronú nípa gbígbé láti India lọ sí United States?
+A.Òṣì Abject
+B.Iṣẹ́ tó dára àti owó oṣù tó ga
+C.India's caste system
+D.Ìwà ipá ní àdúgbò rẹ̀",B,"Nínú àwọn nkan wọ̀nyí, B. Iṣẹ́ tó dára àti owó oṣù tó ga ni ó máa kà sí ohun tí ó ń fa ""fa"" fún Riva nígbà tí a bá ń ronú nípa gbígbé láti India lọ sí United States.
+
+Ìwà ipá ní àdúgbò rẹ̀ (D) le jẹ́ ọ̀kan nínú àwọn nkan tí ó le fa ""fa"" fún Riva, ṣùgbọ́n kò jẹ́ ọ̀kan nínú àwọn nkan tí a ṣe àmì pé ó jẹ́ ohun tí ó ń fa ""fa"" fún rẹ̀ nígbà tí a bá ń ronú nípa gbígbé láti India lọ sí United States.
+
+Òṣì Abject (A) kì í ṣe ohun tí ó ń fa ""fa"" fún Riva nígbà tí a bá ń ronú nípa gbígbé láti India lọ sí United States.
+
+India's caste system (C) le jẹ́ ọ̀kan nínú àwọn nkan tí ó le fa ""fa"" fún Riva, ṣùgbọ́n kò jẹ́ ọ̀kan nínú àwọn nkan tí a ṣe àmì pé ó jẹ́ ohun tí ó ń fa ""fa"" fún rẹ̀ nígbà tí a bá ń ronú nípa gbígbé láti India lọ sí United States.",
+"Àwọn akẹ́kọ̀ọ́ ń ṣe ìdánilẹ́kọ̀ọ́ ìyàsọ́tọ̀ àwọ̀ ohun ọ̀gbìn tí ó nílò kí wọ́n lo yàrá chromatography tí ó pa pẹ̀lú ìwọ̀n acetone kékeré ní ìsàlẹ̀ yàrá náà. Àwọn ìkìlọ̀ ààbò fún acetone pẹ̀lú ọ̀rọ̀ náà pé ó jẹ́ ojú àti awọ ara tí ó ń bíni nínú àti pé ó ní àwọn òfurufú tó ń jóná. Nínú àwọn wọ̀nyí ' ìṣọ́ra ààbò wo ni àwọn akẹ́kọ̀ọ́ gbọ́dọ̀ ṣe nígbà tí wọ́n bá ń ṣe ìdánilẹ́kọ̀ọ́ náà?
+A.Gbígbé ìbọ̀wọ́ iná-retardant láti gbé yàrá náà lọ sí ìbòjú èéfín tí acetone bá jóná.
+B.Gbígbé yàrá náà sínú àpótí tí wọ́n ti pa, tí ó ṣókùnkùn fún ìgbà ìyàsọ́tọ̀ àwọ̀.
+C.Wíwọ ìbọ̀wọ́ awọ àti ìbòjú imú àti ẹnu pẹ̀lú ìbòjú ẹ̀yà.
+D.Wíwọ goggles ati nitrile-iru ibọwọ ati ki o pa gbogbo acetone agolo pipade",D,"Ìdáhùn tó yẹ ni C.
+
+Nígbà tí àwọn akẹ́kọ̀ọ́ ń ṣe ìdánilẹ́kọ̀ọ́ ìyàsọ́tọ̀ àwọ̀ ohun ọ̀gbìn tí ó nílò kí wọ́n lo yàrá chromatography tí ó pa pẹ̀lú ìwọ̀n acetone kékeré ní ìsàlẹ̀ yàrá náà, wọ́n gbọ́dọ̀ wíwọ ìbọ̀wọ́ awọ àti ìbòjú imú àti ẹnu pẹ̀lú ìbòjú ẹ̀yà. Èyí ni ìṣọ́ra ààbò tó yẹ kí wọ́n ṣe nígbà tí wọ́n bá ń ṣe ìdánilẹ́kọ̀ọ́ náà.
+
+Àwọn ìkìlọ̀ ààbò fún acetone pẹ̀lú ọ̀rọ̀ náà pé ó jẹ́ ojú àti awọ ara tí ó ń bíni nínú àti pé ó ní àwọn òfurufú tó ń jóná, nítorí náà wọ́n gbọ́dọ̀ wíwọ ìbọ̀wọ́ àti ìbòjú imú àti ẹnu láti dáàbò bò ara wọn.",
+"Ṣé ìpànìyàn tí kò bófin mu tí Mínísítà orílẹ̀-èdè X ṣe lórílẹ̀-èdè òkèèrè jẹ́ ìṣe tí kò dára tàbí jure gestionis?
+A.Irú ìwà bẹ́ẹ̀ jẹ́ ìṣe gbogbogbò (jure imperii)
+B.Irú ìwà bẹ́ẹ̀ kì í fa ààbò.
+C.Irú ìwà bẹ́ẹ̀ jẹ́ ìṣe aládàáni (jure gestionis)
+D.Irú ìwà bẹ́ẹ̀ jẹ́ ìṣe gbogbogbò ṣùgbọ́n ààbò wà ní ààbò.",C,"Ìdáhùn tí ó dára jù ni C. Irú ìwà bẹ́ẹ̀ jẹ́ ìṣe aládàáni (jure gestionis).
+
+Ìdíẹ̀:
+- Ìṣe aládàáni (jure gestionis) jẹ́ ìṣe tí ó wà nínú ìjọba tàbí ìjọba-àkóso, tí kò jẹ́ ìṣe gbogbogbò (jure imperii).
+- Ìṣe aládàáni kì í fa ààbò, ṣùgbọ́n ó lè fa ìdáwọ́ tàbí ìdáwọ́ ìdáwọ́ (damages).
+- Ìṣe tí Mínísítà orílẹ̀-èdè X ṣe lórílẹ̀-èdè òkèèrè jẹ́ ìṣe aládàáni, kì í jẹ́ ìṣe gbogbogbò.
+
+Nítorí náà, ìdáhùn tí ó dára jù ni C.",
+"Ní ìfiwéra pẹ̀lú àwọn ẹgbẹ́ òṣèlú ní àwọn orílẹ̀-èdè bíi England àti Israel, tí àwọn méjèèjì ní ètò ọ̀pọ̀lọpọ̀ ẹgbẹ́, àwọn ẹgbẹ́ òṣèlú Amẹ́ríkà wà.
+A.Kò fi bẹ́ẹ̀ nífẹ̀ẹ́ sí ipa lórí èsì ìdìbò.
+B.Kò fi bẹ́ẹ̀ hàn kedere pẹ̀lú àwọn èrò òṣèlú tí ó ṣe déédéé.
+C.Kò ṣiṣẹ́ dáadáa láti gba owó lọ́wọ́ àwọn olùtìlẹ́yìn òṣèlú.
+D.O dara julọ lati ṣe afihan awọn ibi-afẹde ti gbogbo awọn agbegbe wọn.",B,"Ìdáhùn tí ó dára julọ fún ìbéèrè yìí ni:
+
+B. Kò fi bẹ́ẹ̀ hàn kedere pẹ̀lú àwọn èrò òṣèlú tí ó ṣe déédéé.
+
+Ìdíẹ̀:
+- Ìfiwéra pẹ̀lú àwọn ẹgbẹ́ òṣèlú kò ṣe déédéé nínú àwọn orílẹ̀-èdè bíi England àti Israel, ṣùgbọ́n ó ṣe déédéé nínú àwọn ẹgbẹ́ òṣèlú Amẹ́ríkà.
+- Ìfiwéra pẹ̀lú àwọn ẹgbẹ́ òṣèlú kò ní ipa tí ó hàn kedere lórí èsì ìdìbò.
+- Ìfiwéra pẹ̀lú àwọn ẹgbẹ́ òṣèlú kò ṣe déédéé nínú ìgbékalẹ̀ owó lọ́wọ́ àwọn olùtìlẹ́yìn òṣèlú.
+- Ó dára julọ láti ṣe afihan àwọn ibi-afẹ́dé tí gbogbo àwọn agbègbè wọn.
+
+Nítorí náà, ìdáhùn B ni ó dára julọ láti dá sí ìbéèrè yìí.",
+"Awọn iyipada ti o fa achondroplasia exert ohun ipa eyi ti o le wa ni classified bi:
+A.Ohun tí kò dára.
+B.gain-of-function ì
+C.Haploinsufficiency.
+D.Àdánù-iṣẹ́.",B,"Ìdáhùn tì yẹ ni: B. gain-of-function
+
+Àwọn ìyípàdà tí ó fa achondroplasia jẹ́ àwọn ìyípàdà tí ó ṣe àtúnṣe ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ìṣẹ́ ",
 "Ìbéèrè yìí ń tọ́ka sí àlàyé wọ̀nyí.
 Ni akọkọ a gbọdọ sọ pe cosmos jẹ spherical ni fọọmu, apakan nitori fọọmu yii jẹ odidi pipe ti ko nilo awọn isẹpo, jẹ pipe julọ ti gbogbo rẹ, ni apakan nitori pe o ṣe fọọmu ti o ni imọran julọ, eyiti o dara julọ lati ni ati tọju ohun gbogbo; tabi lẹẹkansi nitori gbogbo awọn ẹya ara ti agbaye, iyẹn ni oorun, oṣupa ati awọn aye han ni fọọmu yii; tabi nitori ohun gbogbo n tiraka lati gba fọọmu yii, bi o ti han ninu ọran ti omi ati awọn ara omi miiran ti wọn ba gbiyanju lati ṣalaye ara wọn. Nítorí náà kò sí ẹni tí yóò ṣiyèméjì pé ìrísí yìí jẹ́ ti àwọn ara ọ̀run. ...
 Pé ayé náà kọjá ìbéèrè, nítorí pé ó tẹ̀ láti gbogbo ẹ̀gbẹ́ lórí àárín rẹ̀. Biotilẹjẹpe nipa idi ti awọn igbega ti awọn oke-nla ati awọn ibanujẹ ti awọn afonifoji kan ko le ni oye, sibẹ eyi ko ni ipa lori iseda gbogbogbo ti ilẹ. ...
@@ -101,137 +238,51 @@ Nicolas Copernicus, Awọn Iyika ti Awọn ara Ọrun, 1543
 A.Awọn cosmos jẹ spherical
 B.Awọn Earth jẹ spherical
 C.awọn cosmos ni geostatic
-D.Ayé ò dúró",d,a,false
-"Àwọn akẹ́kọ̀ọ́ ń ṣe ìdánilẹ́kọ̀ọ́ ìyàsọ́tọ̀ àwọ̀ ohun ọ̀gbìn tí ó nílò kí wọ́n lo yàrá chromatography tí ó pa pẹ̀lú ìwọ̀n acetone kékeré ní ìsàlẹ̀ yàrá náà. Àwọn ìkìlọ̀ ààbò fún acetone pẹ̀lú ọ̀rọ̀ náà pé ó jẹ́ ojú àti awọ ara tí ó ń bíni nínú àti pé ó ní àwọn òfurufú tó ń jóná. Nínú àwọn wọ̀nyí ' ìṣọ́ra ààbò wo ni àwọn akẹ́kọ̀ọ́ gbọ́dọ̀ ṣe nígbà tí wọ́n bá ń ṣe ìdánilẹ́kọ̀ọ́ náà?
-A.Gbígbé ìbọ̀wọ́ iná-retardant láti gbé yàrá náà lọ sí ìbòjú èéfín tí acetone bá jóná.
-B.Gbígbé yàrá náà sínú àpótí tí wọ́n ti pa, tí ó ṣókùnkùn fún ìgbà ìyàsọ́tọ̀ àwọ̀.
-C.Wíwọ ìbọ̀wọ́ awọ àti ìbòjú imú àti ẹnu pẹ̀lú ìbòjú ẹ̀yà.
-D.Wíwọ goggles ati nitrile-iru ibọwọ ati ki o pa gbogbo acetone agolo pipade",d,d,true
-"Awọn foliteji induced ni ohun inductor ti wa ni soju bi,
-A.Ọja ti inductance rẹ ati lọwọlọwọ nipasẹ rẹ.
-B.Ìpín inductance rẹ̀ sí lọ́wọ́lọ́wọ́ nípasẹ̀ rẹ̀.
-C.Ìpín lọ́wọ́lọ́wọ́ nípasẹ̀ rẹ̀ sí ìdákọ́lé rẹ̀.
-D.ọja ti inductance rẹ ati oṣuwọn iyipada ti isiyi nipasẹ rẹ.",d,b,false
-"Nọ́bà kan, tí wọ́n yíká sí ẹgbẹ̀rún tó súnmọ́ jùlọ, jẹ́ 47,000. Nọ́bà wo ni ó lè jẹ́ nọ́mbà tí wọ́n yíká?
-A.46,295
-B.46,504
-C.47,520
-D.47,924",b,b,true
-"Wá $-\dfrac{1}{-3}\cdot\cfrac{1}{~\frac{1}{-3}~}.$
-A.1
-B.-1
-C.0
-D.2",b,b,true
-"Wa ipari ti curve y = ln x laarin awọn ojuami nibiti y = 1/2 ati y = 1.
-A.0.53
-B.0.86
-C.1.18
-D.1.36",c,c,true
-"Àìní ìrànlọ́wọ́ tí a kọ́ ṣe é ṣe kí ó ní ìbámu tààrà pẹ̀lú.
-A.awọn Barnum ipa.
-B.self-serving bias. ì
-C.Ohun elo ti o wa ni ita gbangba ti iṣakoso.
-D.Ìbọ̀wọ̀ rere tí kò ní àdéhùn.",c,b,false
-"Ìwádìí Garcia àti Koelling nípa ìkórìíra tí wọ́n kọ́ fi ìdí rẹ̀ múlẹ̀ pé èwo nínú àwọn méjèèjì UCS àti CS wọ̀nyí ni ó lágbára jùlọ tí wọ́n sì kọ́ ní kíákíá?
-A.Ṣiṣe iṣẹ-ṣiṣe kan ati gbigba ẹsan ounjẹ kan
-B.nausea ati ounje tabi ohun mimu
-C.iṣipopada ati mọnamọna
-D.ijiya ati awọn ẹsan",b,c,false
-"Ojò kan wa ni irisi prism triangular kan. Tí ìpìlẹ̀ onígun mẹ́ta náà bá ní agbègbè ẹsẹ̀ mẹ́rin 116, tí ọkọ̀ ojú omi náà sì ga ní ẹsẹ̀ 30, omi mélòó ni ọkọ̀ ojú omi náà yóò ní nígbà tí ó bá kún?
-A.1725 ft ì
-B.1740 ft ì
-C.3480 ft ì
-D.6960 ft ì",c,b,false
-"Ìwòye ọpọlọ wo ló gbajúmọ̀ jùlọ ní ìyípadà ọ̀rúndún ogún ní Ìwọ̀ Oòrùn Europe?
-A.neuroscience
-B.Evolutionary
-C.behaviorist
-D.psychoanalytic",d,b,false
-"Èwo nínú àwọn àbùdá wọ̀nyí ni ó bá ìfipábánilòpọ̀ ọjọ́ mu?
-A.Lilo agbara ti o pọju
-B.Premeditated
-C.ibalopo motivated
-D.O ni lati lo ohun ija kan.",c,c,true
-"Ní ìfiwéra pẹ̀lú àwọn ẹgbẹ́ òṣèlú ní àwọn orílẹ̀-èdè bíi England àti Israel, tí àwọn méjèèjì ní ètò ọ̀pọ̀lọpọ̀ ẹgbẹ́, àwọn ẹgbẹ́ òṣèlú Amẹ́ríkà wà.
-A.Kò fi bẹ́ẹ̀ nífẹ̀ẹ́ sí ipa lórí èsì ìdìbò.
-B.Kò fi bẹ́ẹ̀ hàn kedere pẹ̀lú àwọn èrò òṣèlú tí ó ṣe déédéé.
-C.Kò ṣiṣẹ́ dáadáa láti gba owó lọ́wọ́ àwọn olùtìlẹ́yìn òṣèlú.
-D.O dara julọ lati ṣe afihan awọn ibi-afẹde ti gbogbo awọn agbegbe wọn.",b,b.kò fi bẹ́ẹ̀ hàn kedere pẹ̀lú àwọn èrò òṣèlú tí ó ṣe déédéé.,true
-"Ni a jara Circuit, ti o ba ti isiyi ni ọkan atupa ni 2 A, awọn ti isiyi ninu awọn atupa tókàn si o jẹ
-A.idaji, 1 A
-B.2:00 AM
-C.Ó dá lórí èyí tí fìtílà súnmọ́ bátìrì.
-D.Ko to alaye lati sọ",b,c,false
-"Èwo nínú àwọn wọ̀nyí ni ó ṣe é ṣe kí ó mú ìdàgbàsókè bá ọrọ̀ ajé tó lágbára pẹ̀lú àkókò?
-A.Ìlò àwọn ohun èlò àdánidá ní kíákíá.
-B.Ìwọ̀n àìmọ̀wé àgbàlagbà tó ga.
-C.Ọjà tí ó ń ṣubú ti àwọn ọjà olú-ìlú.
-D.Awọn kirẹditi owo-ori idoko-owo.",d,b,false
-"Agbara ti a tu silẹ lati ibajẹ ti awọn fosifeti agbara giga, ATP ati phosphocreatine, le ṣe atilẹyin adaṣe exertion maximal fun nipa:
-A.1-2 aaya.
-B.5-10 aaya.
-C.30-40 aaya.
-D.Ìṣẹ́jú àáyá 50-60.",b,c,false
-"Díẹ̀ lára omi Mars ti di dídì nínú ilẹ̀ àti àwọn fìlà yìnyín àti pé àwọn kan sọnù nítorí yíyọ afẹ́fẹ́ oòrùn ṣùgbọ́n ọ̀pọ̀lọpọ̀ omi ìpilẹ̀ṣẹ̀ ni wọ́n rò pé ó ti sọnù nípasẹ̀ ìlànà mìíràn. Kí ló ṣẹlẹ̀ sí omi ""sọnù""?
-A.Wọ́n yọ ọ́ kúrò nípasẹ̀ ààyè òògùn nígbà tí ó yára dínkù ní agbára.
-B.Wọ́n fọ́ ọ́ sínú hydrogen àti atẹ́gùn nípasẹ̀ iná ultraviolet àti pé hydrogen náà sọnù nípasẹ̀ ìsàlẹ̀ ooru.
-C.Ó íàñ íà÷àòüñÿ ñ 100000000000000000000000000000000
-D.O ti wa ni vaporized nigba kan akoko ti intense volcanism ati ki o ti sọnu si aaye nipasẹ gbona sa",b,b,true
-"Owó orí tí wọ́n gbé kalẹ̀ lórí olùpèsè yóò ṣe é ṣe kí wọ́n gbé lé àwọn oníbàárà lọ́wọ́ ní ìrísí ìlọsíwájú iye owó tí ó bá jẹ́ pé
-A.Iye owó ríràn ìbéèrè máa ń ràn gidi gan-an.
-B.Iye owo elasticity ti eletan jẹ gidigidi inelastic.
-C.Ìrọ̀rùn iye owó ìbéèrè jẹ́ ìrọ̀rùn ẹ̀yà.
-D.Ìrọ̀rùn owó oṣù ìbéèrè máa ń rọ̀ gidi gan-an.",b,c,false
-"Ètò ọrọ̀ ajé wà nínú ìdàgbàsókè tó jinlẹ̀. Pẹ̀lú ipò ọrọ̀ ajé yìí èwo nínú àwọn ọ̀rọ̀ wọ̀nyí nípa ìlànà owó ṣe rẹ́gí?
-A.Ìlànà ìgbésókè yóò kàn mú kí ìdàgbàsókè burú sí i.
-B.Ìlànà ìgbésókè máa ń pọ̀ sí i ní àpapọ̀ ìbéèrè tí ìdókòwò bá ní ìmọ̀lára sí àwọn àyípadà nínú òṣùwọ̀n èrè.
-C.Ìlànà àdéhùn jẹ́ ìwúrí tí ó yẹ fún ìdókòwò àti ìlò.
-D.Tí ìbéèrè fún owó bá jẹ́ ìlànà owó ìgbésókè owó lè ṣiṣẹ́ dáadáa.",b,b,true
-"Gbólóhùn 1 | Â 2016 ãîäó â 2 ðàçà áîëüøå, ÷åì â 2 ðàçà áîëüøå, ÷åì â 2 ðàçà áîëüøå. Gbólóhùn 2 | ì
-A.Òtítọ́, Òtítọ́
-B.Irọ́, Irọ́
-C.Òtítọ́, Irọ́
-D.Irọ́, Òtítọ́",b,c,false
-"Àwọn okòwò ń lọ́wọ́ nínú ìṣirò àwùjọ nítorí ìbéèrè láti ọ̀dọ̀ _________, láti lè dá ________ mọ̀, láti mú ìdàgbàsókè bá ___________ àti láti gba àwọn _________ àti ___________ níyànjú.
-A.Awọn alabaṣepọ, Awọn ewu, Iṣakoso Stakeholder, Iṣiro, Transparency
-B.Àwọn Alákóso, Ìṣírò, Ìkọ̀kọ̀, Ewu, Ìṣàkóso Àwọn Ẹlòmíràn
-C.Àwọn Alákóso, Ìṣírò, Ewu, Àwọn Alákóso, Ìṣàkóso Àwọn Alákóso
-D.Àwọn Alákóso, Ìṣàkóso Alákóso, Ìkọ̀kọ̀, Ewu, Ìṣírò",a,d,false
-"Kí ni ọ̀rọ̀ náà fún ìwọ̀n tí ìdíje ní orílẹ̀-èdè kan ní ipa lórí ìfigagbága ní àwọn orílẹ̀-èdè mìíràn?
-A.Iṣowo kariaye
-B.Ọrọ̀-ajé àgbáyé
-C.Idije agbaye
-D.Globalisation",d,d. globalisation,true
-"Rin irin-ajo ni iyara akọkọ ti 1.5 × 10 ^ 6 m / s, proton kan wọ agbegbe kan ti aaye oofa igbagbogbo ti titobi 1.5 T. Tí ẹ̀rọ ìyára àkọ́kọ́ proton bá ṣe igun 30° pẹ̀lú ààyè òògùn, ṣe ìṣirò ìyára proton 4 s lẹ́yìn tí ó wọ ààyè òògùn.
-A.5.0 × 10 ^ 6 m / s
-B.7.5 × 10 ^ 6 m / s
-C.1.5 × 10 ^ 6 m / s
-D.3.0 × 10 ^ 6 m / s",c,b,false
-"Èwo nínú àwọn orílẹ̀-èdè wọ̀nyí ló yọ CO2 tó pọ̀ jù fún olúkúlùkù ní 2017?
-A.Japan
-B.Kánádà
-C.Rọ́ṣíà
-D.Ìráàn",b,c,false
-"Kí ló dé tí Parfit tako ìdọ́gba?
-A.Ó jiyàn ju àìdọ́gba àwùjọ lọ kò ṣe é yẹ̀.
-B.Ó sọ pé nípa fífún àwọn tálákà ní àkọ́kọ́, a lè mú ìdọ́gba pọ̀ sí i.
-C.Ó sọ pé ọ̀kọ̀ọ̀kan wa ni ó jẹ́ ojúṣe fún òṣì wa.
-D.Ó kọ èrò ìdọ́gba pátápátá.",b,b,true
-"Awọn o daju wipe awọn infurarẹẹdi gbigba igbohunsafẹfẹ ti deuterium kiloraidi (DCl) ti wa ni yipada lati ti hydrogen kiloraidi (HCl) jẹ nitori awọn iyato ninu wọn
-A.electron pinpin
-B.dipole akoko
-C.agbara ibakan
-D.dín ìwọ̀n kù",d,c,false
-"Kí ni ìkọlù àtúnwò?
-A.Nígbà tí olùkọlù náà dáhùn sí àtẹ̀jíṣẹ́ tí ẹ̀rọ fi ránṣẹ́ sí i.
-B.Ìkọlù tí ó máa ń tún un ṣe ní gbogbo ìgbà, tí ó ń ṣe ìwádìí fún àìlera.
-C.Ìkọlù tí ó ń lo àtẹ̀jíṣẹ́ ẹ̀rọ náà nítorí náà kò ṣe é dáàbò bo lọ́wọ́.
-D.Olùkọlù náà tún àtẹ̀jíṣẹ́ tí wọ́n mú ṣe, ojú òpó náà sì gba rẹ̀ ó sì dáhùn ní ojúrere olùkọlù náà.",d,b,false
+D.Ayé ò dúró",D,"Àlàyé yìí jẹ́ ìtọ́kasí ìrísí Copernicus nípa cosmos àti ayé. Ó sọ pé:
+
+A. Cosmos jẹ́ spherical ni fọọmu, nítorí fọọmu yìí jẹ́ odidi pipe ti kò nílò àwọn isẹ́pọ, jẹ́ pipe julọ ti gbogbo rẹ̀, nítorí pé ó ṣe fọọmu ti ó ní imọ́ran julọ, eyiti ó dára julọ láti ní àti tọ́ju ohun gbogbo.
+
+B. Ayé náà kọjá ìbéèrè, nítorí pé ó tẹ̀ láti gbogbo ẹ̀gbẹ́ lórí àárín rẹ̀. 
+
+C. Ayé kò dúró, ṣùgbọ́n ó ṣe ìgbésẹ̀ kan náà bá ìrísí yìí mu, àti ibi tí ayé ní ní àgbáyé.
+
+D. Ọ̀pọ̀lọpọ̀ àwọn òkọ̀wé dájúdájú gbà pé ayé ṣì wà ní àárín àgbáyé, wọ́n sì kà á sí aláìlè rò àti ẹ̀gàn láti rò ìdàkejì.
+
+Nítorí náà, àlàyé yìí ṣàlàyé pé Copernicus yàtọ̀ sí àwọn onímọ̀ ọgbọ́n orí ìbílẹ̀, Aristotelian, nítorí ó dábàá pé cosmos jẹ́ spherical, ayé jẹ́ spherical, cosmos kò dúró, àti ayé kò dúró.",
+"Ìbéèrè yìí ń tọ́ka sí àlàyé wọ̀nyí.
+""Awọn irugbin ti awọn ijọba totalitarian ti wa ni itọju nipasẹ misery ati ki o fẹ. Wọ́n tàn kálẹ̀ wọ́n sì dàgbà nínú ilẹ̀ búburú òṣì àti ìjà. Wọ́n dé ìdàgbàsókè wọn ní kíkún nígbà tí ìrètí àwọn ènìyàn fún ìgbésí ayé tó dára bá ti kú. A gbọ́dọ̀ jẹ́ kí ìrètí yẹn wà láàyè. . . . Àwọn ojúṣe ńlá ti wà lórí wa nípasẹ̀ ìgbésẹ̀ kíákíá àwọn ìṣẹ̀lẹ̀. . . . Ó dá mi lójú pé ìgbìmọ̀ aṣòfin yóò dojú kọ àwọn ojúṣe wọ̀nyí dáadáa.""
+Ààrẹ Harry S. Truman, 1947
+Àwọn èrò tí wọ́n ṣàfihàn nínú àyọkà tó wà lókè ṣe àfihàn tààrà èwo nínú ìtẹ̀síwájú wọ̀nyí nínú ìtàn U.S.
+A.Àríyànjiyàn nípa ìbáṣepọ̀ tó wà láàárín ìgbìmọ̀ aṣòfin àti ààrẹ.
+B.Àríyànjiyàn nípa lílo agbára ológun ní àwọn ipò tí kò dára.
+C.Àríyànjiyàn nípa ipa United States nínú ọ̀rọ̀ àgbáyé.
+D.Àríyànjiyàn nípa ipa tí ó tọ́ fún àwọn ẹgbẹ́ òṣèlú.",C,"Ìbéèrè yìí ń tọ́ka sí àlàyé wọ̀nyí tí Ààrẹ Harry S. Truman ṣe ní 1947. Àlàyé náà ṣàfihàn ìpinnu Truman nípa ìdàgbàsókè àwọn ìjọba totalitarian àti ìrètí àwọn ènìyàn fún ìgbésí ayé tó dára.
+
+Nínú àlàyé náà, Truman sọ pé:
+- Àwọn irugbin ti àwọn ijọba totalitarian ti wa ni itọju nipasẹ misery àti ìjà.
+- Wọ́n dé ìdàgbàsókè wọn ní kíkún nígbà tí ìrètí àwọn ènìyàn fún ìgbésí ayé tó dára bá ti kú.
+- Ó dá mi lójú pé ìgbìmọ̀ aṣòfin yóò dojú kọ àwọn ojúṣe wọ̀nyí dáadáa.
+
+Nínú ìbéèrè yìí, a ń béèrè pé àwọn èrò tí wọ́n ṣàfihàn nínú àlàyé yìí ṣe àfihàn tààrà èwo nínú ìtẹ̀síwájú wọ̀nyí nínú ìtàn U.S. Àwọn ìtọ́kasí tí a ní ní ìbéèrè ni:
+
+A. Àríyànjiyàn nípa ìbáṣepọ̀ tó wà láàárín ìgbìmọ̀ aṣòfin àti ààrẹ.
+B. Àríyànjiyàn nípa lílo agbára ológun ní àwọn ipò tí kò dára.
+C. Àríyànjiyàn nípa ipa United States nínú ọ̀rọ̀ àgbáyé.
+D. Àríyànjiyàn nípa ipa tí ó tọ́ fún àwọn ẹgbẹ́ òṣèlú.
+
+Nínú àlàyé Truman, a rí i pé ó ṣàfihàn ìpinnu rẹ̀ nípa ìdàgbàsókè àwọn ìjọba totalitarian àti ìrètí àwọn ènìyàn fún ìgbésí ayé tó dára. Nítorí náà, a lè sọ pé ìtọ́kasí tó tọ́ jù lọ ni C, àríyànjiyàn nípa ipa United States nínú ọ̀rọ̀ àgbáyé.",
 "Â ýòîì ãîäó 20000 ãîäà íà 1000 êì îò 20000 ã. íà 1000 êì îò 100000000000000000000000000000000000000000000
 A.awọn ìmọ akọkọ quadrant
 B.a pipade igun
 C.A ray ninu awọn ìmọ akọkọ quadrant
-D.kan ṣoṣo ojuami",a,d,false
+D.kan ṣoṣo ojuami",A,"Apologies, but the question you provided is not in a language I can understand. It appears to be a mix of English and some other language, possibly Russian or another Slavic language. I am an AI assistant trained to understand and respond in English, so I'm unable to provide a meaningful answer to this particular question. If you could rephrase the question in clear English, I'd be happy to try and assist you further.",
+"Àwọn okòwò ń lọ́wọ́ nínú ìṣirò àwùjọ nítorí ìbéèrè láti ọ̀dọ̀ _________, láti lè dá ________ mọ̀, láti mú ìdàgbàsókè bá ___________ àti láti gba àwọn _________ àti ___________ níyànjú.
+A.Awọn alabaṣepọ, Awọn ewu, Iṣakoso Stakeholder, Iṣiro, Transparency
+B.Àwọn Alákóso, Ìṣírò, Ìkọ̀kọ̀, Ewu, Ìṣàkóso Àwọn Ẹlòmíràn
+C.Àwọn Alákóso, Ìṣírò, Ewu, Àwọn Alákóso, Ìṣàkóso Àwọn Alákóso
+D.Àwọn Alákóso, Ìṣàkóso Alákóso, Ìkọ̀kọ̀, Ewu, Ìṣírò",A,"Ìdáhùn tì yẹ ni C.
+
+Àwọn okòwò ń lọ́wọ́ nínú ìṣirò àwùjọ nítorí ìbéèrè láti ọ̀dọ̀ Àwọn Alákóso, láti lè dá Ìṣírò mọ̀, láti mú ìdàgbàsókè bá Ewu àti láti gba Àwọn Alákóso àti Ìṣàkóso Àwọn Alákóso níyànjú.",
 "Oníṣètò kan kọ ètò náà nísàlẹ̀. Eto naa nlo akojọ awọn nọmba ti a npe ni numList. Ètò náà jẹ́ èrò láti ṣe àfihàn àpapọ̀ àwọn nọ́mbà tó wà nínú àtòjọ náà.
  sum ← numList [1]
  FUN KỌỌKAN iye IN numList
@@ -241,7 +292,206 @@ D.kan ṣoṣo ojuami",a,d,false
 A.ipari jẹ ti o tọ; Ètò náà ń ṣiṣẹ́ gẹ́gẹ́ bí ó ṣe yẹ.
 B.Ipari naa ko tọ; Eto naa ko ṣe afihan iye ti o tọ fun ọran idanwo [0, 1, 4, 5].
 C.Ipari naa ko tọ; Lilo ọran idanwo [0, 1, 4, 5] ko to lati pari eto naa tọ.
-D.Ipari naa ko tọ; lilo ọran idanwo [0, 1, 4, 5] nikan jẹrisi pe eto naa n ṣiṣẹ fun awọn atokọ ni aṣẹ ti o pọ si.",c,b,false
+D.Ipari naa ko tọ; lilo ọran idanwo [0, 1, 4, 5] nikan jẹrisi pe eto naa n ṣiṣẹ fun awọn atokọ ni aṣẹ ti o pọ si.",C,"Ìdáhùn tòótọ́ ni B.
+
+Ètò náà kò ṣàfihàn iye tí ó tọ́ fún ọ̀rọ̀ ìdánwò [0, 1, 4, 5]. Ìpari náà kò tọ́, nítorí pé ètò náà kò ṣàfihàn iye tí ó tọ́ fún ọ̀rọ̀ ìdánwò náà.",
+"Èwo nínú àwọn orílẹ̀-èdè wọ̀nyí ló yọ CO2 tó pọ̀ jù fún olúkúlùkù ní 2017?
+A.Japan
+B.Kánádà
+C.Rọ́ṣíà
+D.Ìráàn",B,"Àwọn orílẹ̀-èdè tí wọ́n yọ CO2 tó pọ̀ jù fún olúkúlùkù ní 2017 ni:
+
+C. Rọ́ṣíà
+
+Rọ́ṣíà jẹ́ orílẹ̀-èdè tí wọ́n yọ CO2 tó pọ̀ jù fún olúkúlùkù ní 2017 lára àwọn orílẹ̀-èdè tí a tọ́kasẹ́ nínú ìbéèrè yìí.",
+"Kí ni ìkọlù àtúnwò?
+A.Nígbà tí olùkọlù náà dáhùn sí àtẹ̀jíṣẹ́ tí ẹ̀rọ fi ránṣẹ́ sí i.
+B.Ìkọlù tí ó máa ń tún un ṣe ní gbogbo ìgbà, tí ó ń ṣe ìwádìí fún àìlera.
+C.Ìkọlù tí ó ń lo àtẹ̀jíṣẹ́ ẹ̀rọ náà nítorí náà kò ṣe é dáàbò bo lọ́wọ́.
+D.Olùkọlù náà tún àtẹ̀jíṣẹ́ tí wọ́n mú ṣe, ojú òpó náà sì gba rẹ̀ ó sì dáhùn ní ojúrere olùkọlù náà.",D,"Ìdáhùn tì B ni ó dára jù.
+
+Ìkọlù àtúnwò ni ìkọlù tí ó máa ń tún un ṣe ní gbogbo ìgbà, tí ó ń ṣe ìwádìí fún àìlera. Èyí ni ìdáhùn tì B, èyí tí ó dára jù láàrín àwọn ìdáhùn tí a fi fún.",
+"Ìṣiṣẹ́ quantum ti ẹ̀rọ ìṣàwárí fọ́tò jẹ́ 0.1. Tí wọ́n bá fi fọ́tò 100 ránṣẹ́ sínú ẹ̀rọ ìṣàwárí, ọ̀kan lẹ́yìn òmíràn, ẹ̀rọ ìṣàwárí náà yóò ṣàwárí àwọn fọ́tò
+A.Awọn akoko 10, pẹlu iyapa rms ti o to 4
+B.Â 10-ì ãîäó óâåëè÷èëè íà 10 ìëí ðóáëåé.
+C.10 igba, pẹlu ohun rms iyapa ti nipa 1
+D.Awọn akoko 10, pẹlu iyapa rms ti o to 0.1",B,"Ìdáhùn tó dára jù fún ìbéèrè yìí ni D. Ìṣiṣẹ́ quantum ti ẹ̀rọ ìṣàwárí fọ́tò jẹ́ 0.1, ìtọ́jú ìṣàwárí fọ́tò 100 yóò ṣẹlẹ̀ fún àwọn akoko 10, pẹlu iyapa rms ti o to 0.1.",
+"Kí ló dé tí Parfit tako ìdọ́gba?
+A.Ó jiyàn ju àìdọ́gba àwùjọ lọ kò ṣe é yẹ̀.
+B.Ó sọ pé nípa fífún àwọn tálákà ní àkọ́kọ́, a lè mú ìdọ́gba pọ̀ sí i.
+C.Ó sọ pé ọ̀kọ̀ọ̀kan wa ni ó jẹ́ ojúṣe fún òṣì wa.
+D.Ó kọ èrò ìdọ́gba pátápátá.",B,"Ìdáhùn tó dára jù fún ìbéèrè yìí ni:
+
+B. Ó sọ pé nípa fífún àwọn tálákà ní àkọ́kọ́, a lè mú ìdọ́gba pọ̀ sí i.
+
+Parfit sọ pé ìfún àwọn tálákà ní àkọ́kọ́ lè mú ìdọ́gba pọ̀ sí i. Èyí jẹ́ ìdáhùn tó dára jù fún ìbéèrè yìí.",
+"Ni a jara Circuit, ti o ba ti isiyi ni ọkan atupa ni 2 A, awọn ti isiyi ninu awọn atupa tókàn si o jẹ
+A.idaji, 1 A
+B.2:00 AM
+C.Ó dá lórí èyí tí fìtílà súnmọ́ bátìrì.
+D.Ko to alaye lati sọ",B,"Ìdáhùn tó dára jùlọ ni:
+
+C. Ó dá lórí èyí tí fìtílà súnmọ́ bátìrì.
+
+Ìdíẹ̀:
+Nígbà tí ọkan atupa ni 2A, èyí túmọ̀ sí pé fìtílà náà ń gba 2A lati inú bátìrì. Nítorí náà, ìdáhùn C tó dára jùlọ, nítorí pé ìdáhùn yìí dá lórí èyí tí fìtílà súnmọ́ bátìrì.",
+"Wá $-\dfrac{1}{-3}\cdot\cfrac{1}{~\frac{1}{-3}~}.$
+A.1
+B.-1
+C.0
+D.2",B,"To solve this problem, we need to simplify the expression step by step.
+
+Given expression: $-\dfrac{1}{-3}\cdot\cfrac{1}{~\frac{1}{-3}~}$
+
+Step 1: Simplify the first fraction.
+$-\dfrac{1}{-3} = \dfrac{1}{3}$
+
+Step 2: Simplify the second fraction.
+$\cfrac{1}{~\frac{1}{-3}~} = -3$
+
+Step 3: Multiply the two fractions.
+$\dfrac{1}{3} \cdot (-3) = -1$
+
+Therefore, the answer is B. -1.",
+"Ètò ọrọ̀ ajé wà nínú ìdàgbàsókè tó jinlẹ̀. Pẹ̀lú ipò ọrọ̀ ajé yìí èwo nínú àwọn ọ̀rọ̀ wọ̀nyí nípa ìlànà owó ṣe rẹ́gí?
+A.Ìlànà ìgbésókè yóò kàn mú kí ìdàgbàsókè burú sí i.
+B.Ìlànà ìgbésókè máa ń pọ̀ sí i ní àpapọ̀ ìbéèrè tí ìdókòwò bá ní ìmọ̀lára sí àwọn àyípadà nínú òṣùwọ̀n èrè.
+C.Ìlànà àdéhùn jẹ́ ìwúrí tí ó yẹ fún ìdókòwò àti ìlò.
+D.Tí ìbéèrè fún owó bá jẹ́ ìlànà owó ìgbésókè owó lè ṣiṣẹ́ dáadáa.",B,"Ìdáhùn tó jẹ́ tó ni B.
+
+Ìlànà ìgbésókè máa ń pọ̀ sí i ní àpapọ̀ ìbéèrè tí ìdókòwò bá ní ìmọ̀lára sí àwọn àyípadà nínú òṣùwọ̀n èrè.
+
+Ìlànà ìgbésókè yóò mú kí ìdàgbàsókè burú sí i, ṣùgbọ́n ìlànà àdéhùn jẹ́ ìwúrí tí ó yẹ fún ìdókòwò àti ìlò. Tí ìbéèrè fún owó bá jẹ́ ìlànà owó ìgbésókè, owó lè ṣiṣẹ́ dáadáa.",
+"Gbólóhùn 1 | Â 2016 ãîäó â 2 ðàçà áîëüøå, ÷åì â 2 ðàçà áîëüøå, ÷åì â 2 ðàçà áîëüøå. Gbólóhùn 2 | ì
+A.Òtítọ́, Òtítọ́
+B.Irọ́, Irọ́
+C.Òtítọ́, Irọ́
+D.Irọ́, Òtítọ́",B,"Ïðàâèëüíûé îòâåò: C. Òtítọ́, Irọ́
+
+Îáúÿñíåíèå:
+Ñîãëàñíî óñëîâèþ çàäà÷è, â 2016 ãîäó çíà÷åíèå Gbólóhùn 1 áûëî â 2 ðàçà áîëüøå, ÷åì â 2 ðàçà áîëüøå, ÷åì â 2 ðàçà áîëüøå. Ýòî îçíà÷àåò, ÷òî çíà÷åíèå Gbólóhùn 1 â 2016 ãîäó áûëî â 8 ðàç áîëüøå, ÷åì íåêîòîðîå èñõîäíîå çíà÷åíèå.
+
+Ñëåäîâàòåëüíî, Gbólóhùn 1 ÿâëÿåòñÿ èñòèííûì, à Gbólóhùn 2 ÿâëÿåòñÿ ëîæíûì.",
+"Díẹ̀ lára omi Mars ti di dídì nínú ilẹ̀ àti àwọn fìlà yìnyín àti pé àwọn kan sọnù nítorí yíyọ afẹ́fẹ́ oòrùn ṣùgbọ́n ọ̀pọ̀lọpọ̀ omi ìpilẹ̀ṣẹ̀ ni wọ́n rò pé ó ti sọnù nípasẹ̀ ìlànà mìíràn. Kí ló ṣẹlẹ̀ sí omi ""sọnù""?
+A.Wọ́n yọ ọ́ kúrò nípasẹ̀ ààyè òògùn nígbà tí ó yára dínkù ní agbára.
+B.Wọ́n fọ́ ọ́ sínú hydrogen àti atẹ́gùn nípasẹ̀ iná ultraviolet àti pé hydrogen náà sọnù nípasẹ̀ ìsàlẹ̀ ooru.
+C.Ó íàñ íà÷àòüñÿ ñ 100000000000000000000000000000000
+D.O ti wa ni vaporized nigba kan akoko ti intense volcanism ati ki o ti sọnu si aaye nipasẹ gbona sa",B,"B. Wọ́n fọ́ ọ́ sínú hydrogen àti atẹ́gùn nípasẹ̀ iná ultraviolet àti pé hydrogen náà sọnù nípasẹ̀ ìsàlẹ̀ ooru.
+
+Ìdíẹ̀:
+Omi Mars tí ó di dídì nínú ilẹ̀ àti àwọn fìlà yìnyín jẹ́ ìrírí tí a rí nínú ìgbà tí ó jẹ́ pé omi ìpilẹ̀ṣẹ̀ ti sọnù. Ìdíẹ̀ tí a rò pé ó ṣẹlẹ̀ jẹ́ pé omi náà ti fọ́ sínú hydrogen àti atẹ́gùn nípasẹ̀ iná ultraviolet, ìwọ̀n ìsàlẹ̀ ooru sì mú pé hydrogen náà sọnù.",
+"Agbara ti a tu silẹ lati ibajẹ ti awọn fosifeti agbara giga, ATP ati phosphocreatine, le ṣe atilẹyin adaṣe exertion maximal fun nipa:
+A.1-2 aaya.
+B.5-10 aaya.
+C.30-40 aaya.
+D.Ìṣẹ́jú àáyá 50-60.",B,"The correct answer is C. 30-40 seconds.
+
+The high-energy phosphates, such as ATP and phosphocreatine, can provide energy support for maximal exertion for a duration of approximately 30-40 seconds. This is because these high-energy phosphates are rapidly depleted during intense, short-duration exercise, and their replenishment relies on anaerobic glycolysis, which can only sustain this level of effort for a limited time.
+
+In contrast, the other time frames provided are not well-supported by the energy systems involved in maximal exertion:
+
+A. 1-2 seconds is too short for the high-energy phosphates to make a significant contribution.
+B. 5-10 seconds is still primarily reliant on the high-energy phosphates, but their depletion starts to limit performance.
+D. 50-60 seconds is beyond the capacity of the anaerobic glycolysis system to sustain maximal exertion, and the transition to aerobic metabolism becomes more prominent.
+
+Therefore, the correct answer is C. 30-40 seconds, as this duration best aligns with the energy system capabilities for supporting maximal exertion.",
+"Rin irin-ajo ni iyara akọkọ ti 1.5 × 10 ^ 6 m / s, proton kan wọ agbegbe kan ti aaye oofa igbagbogbo ti titobi 1.5 T. Tí ẹ̀rọ ìyára àkọ́kọ́ proton bá ṣe igun 30° pẹ̀lú ààyè òògùn, ṣe ìṣirò ìyára proton 4 s lẹ́yìn tí ó wọ ààyè òògùn.
+A.5.0 × 10 ^ 6 m / s
+B.7.5 × 10 ^ 6 m / s
+C.1.5 × 10 ^ 6 m / s
+D.3.0 × 10 ^ 6 m / s",C,"Ìdáhùn tí ó tọ́ ni B. 7.5 × 10 ^ 6 m / s.
+
+Ìtọ́kasí:
+- Ìyára àkọ́kọ́ ti proton ni 1.5 × 10 ^ 6 m / s
+- Aaye oofa igbagbogbo ni 1.5 T
+- Ẹ̀rọ ìyára àkọ́kọ́ proton ṣe igun 30° pẹ̀lú ààyè òògùn
+- Ìṣirò ìyára proton lẹ́yìn 4 s tí ó wọ ààyè òògùn
+
+Ní ààyè òògùn, ìyára proton yóò yípadà nítorí ipa ààyè òògùn. Ìyára tuntun yóò jẹ́:
+Ìyára tuntun = Ìyára àkọ́kọ́ × cos(30°) = 1.5 × 10 ^ 6 × cos(30°) = 7.5 × 10 ^ 6 m / s
+
+Èyí ni ìdáhùn B.",
+"Kí ni ọ̀rọ̀ náà fún ìwọ̀n tí ìdíje ní orílẹ̀-èdè kan ní ipa lórí ìfigagbága ní àwọn orílẹ̀-èdè mìíràn?
+A.Iṣowo kariaye
+B.Ọrọ̀-ajé àgbáyé
+C.Idije agbaye
+D.Globalisation",D,"Ìdíje ní orílẹ̀-èdè kan le ní ipa lórí ìfigagbága ní àwọn orílẹ̀-èdè mìíràn ní ọ̀nà tí ó jẹ́ D. Globalisation.
+
+Globalisation jẹ́ ìfigagbága àti ìjọsára àwọn orílẹ̀-èdè, ìjọsára ìṣàkóso, ìjọsára ọrọ̀-ajé, àti ìjọsára ìṣàkóso ìjọba. Ìdíje ní orílẹ̀-èdè kan lè ní ipa lórí ìfigagbága yìí nípasẹ̀ ìfihàn àwọn ìdíje, ìfihàn àwọn ìṣẹ́ àti ìfihàn àwọn ọ̀rọ̀ ìjọba.",
+"Ìwádìí Garcia àti Koelling nípa ìkórìíra tí wọ́n kọ́ fi ìdí rẹ̀ múlẹ̀ pé èwo nínú àwọn méjèèjì UCS àti CS wọ̀nyí ni ó lágbára jùlọ tí wọ́n sì kọ́ ní kíákíá?
+A.Ṣiṣe iṣẹ-ṣiṣe kan ati gbigba ẹsan ounjẹ kan
+B.nausea ati ounje tabi ohun mimu
+C.iṣipopada ati mọnamọna
+D.ijiya ati awọn ẹsan",B,"Ìdáhùn tó dára jùlọ ni C. iṣipopada ati mọnamọna.
+
+Ìwádìí Garcia àti Koelling tún ṣàfihàn pé àwọn ìkórìíra tí wọ́n kọ́ fi ìdí rẹ̀ múlẹ̀ ni iṣipopada (conditioned taste aversion) àti mọnamọna (conditioned emotional response), èyí tí wọ́n kọ́ ní kíákíá.
+
+Iṣipopada àti mọnamọna jẹ́ àwọn ìkórìíra tí wọ́n kọ́ ní kíákíá, tí wọ́n sì jẹ́ ìkórìíra tó lágbára jùlọ nínú àwọn méjèèjì UCS àti CS tí wọ́n wádìí.
+
+A, B, àti D kò jẹ́ ìkórìíra tí wọ́n kọ́ ní kíákíá nínú ìwádìí yìí.",
+"Èwo nínú àwọn wọ̀nyí ni ó ṣe é ṣe kí ó mú ìdàgbàsókè bá ọrọ̀ ajé tó lágbára pẹ̀lú àkókò?
+A.Ìlò àwọn ohun èlò àdánidá ní kíákíá.
+B.Ìwọ̀n àìmọ̀wé àgbàlagbà tó ga.
+C.Ọjà tí ó ń ṣubú ti àwọn ọjà olú-ìlú.
+D.Awọn kirẹditi owo-ori idoko-owo.",D,"Nínú àwọn ìdáhùn tí a ṣe àfihàn, B. ""Ìwọ̀n àìmọ̀wé àgbàlagbà tó ga"" ni ó ṣe é ṣe kí ó mú ìdàgbàsókè bá ọrọ̀ ajé tó lágbára pẹ̀lú àkókò. Ìwọ̀n àìmọ̀wé àgbàlagbà tó ga lè mú kí ọrọ̀ ajé tó lágbára dàgbà sókè nítorí pé ó lè mú kí àwọn ọ̀nà ìṣèlú àti ìṣèlọ́wọ́ tó dára kí ó dàgbà sókè.",
+"Wa ipari ti curve y = ln x laarin awọn ojuami nibiti y = 1/2 ati y = 1.
+A.0.53
+B.0.86
+C.1.18
+D.1.36",C,"Lati wa ipari ti curve y = ln x laarin awọn ojuami nibiti y = 1/2 ati y = 1, a nilo lati ṣe atunṣe ọna wọnyi:
+
+1. Wa ipo x nibiti y = 1/2:
+   y = ln x
+   1/2 = ln x
+   x = e^(1/2) = 1.648
+
+2. Wa ipo x nibiti y = 1:
+   y = ln x
+   1 = ln x
+   x = e^1 = 2.718
+
+3. Ipari ti curve y = ln x laarin awọn ojuami yii ni:
+   Ipari = 2.718 - 1.648 = 1.07
+
+Nitorina, ti a ba yan ọkan ninu awọn iṣiro wọnyi, a yoo gba B.0.86 gẹgẹbi iṣiro to tọ.",
+"Owó orí tí wọ́n gbé kalẹ̀ lórí olùpèsè yóò ṣe é ṣe kí wọ́n gbé lé àwọn oníbàárà lọ́wọ́ ní ìrísí ìlọsíwájú iye owó tí ó bá jẹ́ pé
+A.Iye owó ríràn ìbéèrè máa ń ràn gidi gan-an.
+B.Iye owo elasticity ti eletan jẹ gidigidi inelastic.
+C.Ìrọ̀rùn iye owó ìbéèrè jẹ́ ìrọ̀rùn ẹ̀yà.
+D.Ìrọ̀rùn owó oṣù ìbéèrè máa ń rọ̀ gidi gan-an.",B,"Ìdáhùn tí ó dára jù ni C.
+
+Ìrọ̀rùn iye owó ìbéèrè jẹ́ ìrọ̀rùn ẹ̀yà.
+
+Ìdíẹ̀:
+A. Iye owó ríràn ìbéèrè máa ń ràn gidi gan-an. Èyí kò jẹ́ ìdáhùn tí ó dára jù, nítorí pé iye owó ríràn ìbéèrè kò ṣe é ràn gidi gan-an.
+
+B. Iye owo elasticity ti eletan jẹ gidigidi inelastic. Èyí kò jẹ́ ìdáhùn tí ó dára jù, nítorí pé iye owo elasticity ti eletan kò jẹ́ gidigidi inelastic.
+
+D. Ìrọ̀rùn owó oṣù ìbéèrè máa ń rọ̀ gidi gan-an. Èyí kò jẹ́ ìdáhùn tí ó dára jù, nítorí pé ìrọ̀rùn owó oṣù ìbéèrè kò máa ń rọ̀ gidi gan-an.
+
+Nítorí náà, ìdáhùn tí ó dára jù ni C.",
+"Àìní ìrànlọ́wọ́ tí a kọ́ ṣe é ṣe kí ó ní ìbámu tààrà pẹ̀lú.
+A.awọn Barnum ipa.
+B.self-serving bias. ì
+C.Ohun elo ti o wa ni ita gbangba ti iṣakoso.
+D.Ìbọ̀wọ̀ rere tí kò ní àdéhùn.",C,"Ìdáhùn tí ó dára jùlọ fún ìbéèrè yìí ni:
+
+C. Ohun elo ti o wa ni ita gbangba ti iṣakoso.
+
+Ìdáhùn yìí dára jùlọ nítorí pé ó jẹ́ ìdáhùn tí ó bá ìbéèrè tààrà. Ó ṣe àkíyèsí pé ohun elo tí ó wà lóde gbangba ni ọ̀rọ̀ tí ó ní ìbámu pẹ̀lú ìbéèrè.",
+"Èwo nínú àwọn àkójọpọ̀ àwọn okùn díẹ̀ wọ̀nyí ni a kò lè ṣàpèjúwe rẹ̀ pẹ̀lú ìfihàn déédéé?
+A.Gbogbo àwọn okùn díẹ̀ tí iye òdo wọn jẹ́ ọ̀pọ̀lọpọ̀ márùn-ún.
+B.Gbogbo okùn bit bẹ̀rẹ̀ pẹ̀lú òdo àti ìparí pẹ̀lú ẹyọ kan.
+C.All bit strings with an even number of zeros ì
+D.Gbogbo awọn bit strings pẹlu diẹ ẹ sii ju zeros",D,"Ìdáhùn tó tọ́ ni C. 
+
+Àwọn okùn bit pẹ̀lú iye òdo tó jẹ́ ọ̀pọ̀lọpọ̀ márùn-ún kò lè ṣàpèjúwe déédéé, nítorí pé a lè ṣe àpèjúwe wọn pẹ̀lú ìfihàn tó tọ́ tó jẹ́ ""Gbogbo àwọn okùn bit pẹ̀lú iye òdo tó jẹ́ ọ̀pọ̀lọpọ̀ márùn-ún"".
+
+Ìdáhùn B kò tọ́, nítorí pé kò gbogbo àwọn okùn bit bẹ̀rẹ̀ pẹ̀lú òdo àti parí pẹ̀lú ẹyọ kan.
+
+Ìdáhùn D kò tọ́, nítorí pé kò gbogbo àwọn okùn bit pẹ̀lú diẹ̀ ẹ sii ju zeros.
+
+Nítorí náà, ìdáhùn tó tọ́ ni C, ""Gbogbo àwọn okùn bit pẹ̀lú iye òdo tó jẹ́ ọ̀pọ̀lọpọ̀"".",
 "Ìbéèrè yìí ń tọ́ka sí àlàyé wọ̀nyí.
 ""Lóòótọ́, gẹ́gẹ́ bí àwọn ọ̀rá [àwọn ọ̀mọ̀wé] tí wọ́n yàtọ̀ tí wọ́n gbé èrò wọn kalẹ̀ lórí ìdí àti àṣà bákan náà àti ìfọwọ́sowọ́pọ̀ àwùjọ Sunni gbà pé ojúṣe àtijọ́ ti ìyàsọ́tọ̀, ìparun, àti lílé ìmọ̀ tuntun búburú gbọ́dọ̀ jẹ́ èrògbà ìfẹ́ ìgbéga wa, fún ""Ìtara ẹ̀sìn jẹ́ ìṣẹ́gun fún Ìgbàgbọ́ Ọlọ́run Beneficent""; Nigbana ni, ni ibamu pẹlu awọn ọrọ ti awọn Anabi (salla Allahu alihi wa sallan) ""Ẹnikẹni ti o ba ṣafihan imotuntun buburu sinu aṣẹ wa gbọdọ wa ni lé jade"" ati ""Ẹnikẹni ti o ba ṣe aught lodi si aṣẹ wa gbọdọ wa ni lé,"" igbese ti di dandan ati exigent ...""
 Lẹta lati Ottoman Sultan Selim I si Safavid Shah Ismail I, 1514
@@ -249,17 +499,44 @@ Lẹta lati Ottoman Sultan Selim I si Safavid Shah Ismail I, 1514
 A.ni o wa kan expansionist empire geographically be laarin meji miiran expansionists
 B.Kọ awọn central tenets ti Islam
 C.Awọn kristiani ti o ni ẹrú, o si sọ wọn di awọn onija Safavid
-D.Ismail kéde ara rẹ̀ gẹ́gẹ́ bí Caliph",a,d,false
-"Èwo nínú àwọn àkójọpọ̀ àwọn okùn díẹ̀ wọ̀nyí ni a kò lè ṣàpèjúwe rẹ̀ pẹ̀lú ìfihàn déédéé?
-A.Gbogbo àwọn okùn díẹ̀ tí iye òdo wọn jẹ́ ọ̀pọ̀lọpọ̀ márùn-ún.
-B.Gbogbo okùn bit bẹ̀rẹ̀ pẹ̀lú òdo àti ìparí pẹ̀lú ẹyọ kan.
-C.All bit strings with an even number of zeros ì
-D.Gbogbo awọn bit strings pẹlu diẹ ẹ sii ju zeros",d,c,false
-"Ìṣiṣẹ́ quantum ti ẹ̀rọ ìṣàwárí fọ́tò jẹ́ 0.1. Tí wọ́n bá fi fọ́tò 100 ránṣẹ́ sínú ẹ̀rọ ìṣàwárí, ọ̀kan lẹ́yìn òmíràn, ẹ̀rọ ìṣàwárí náà yóò ṣàwárí àwọn fọ́tò
-A.Awọn akoko 10, pẹlu iyapa rms ti o to 4
-B.Â 10-ì ãîäó óâåëè÷èëè íà 10 ìëí ðóáëåé.
-C.10 igba, pẹlu ohun rms iyapa ti nipa 1
-D.Awọn akoko 10, pẹlu iyapa rms ti o to 0.1",b,d,false
+D.Ismail kéde ara rẹ̀ gẹ́gẹ́ bí Caliph",A,"Àwọn ìdáhùn tí ó dára jù fún ìbéèrè yìí ni:
+
+C. Awọn kristiani ti o ni ẹrú, o si sọ wọn di awọn onija Safavid
+
+Ìdíẹ̀:
+- Àwọn Safavids ní ìbínú àwọn ìjọba Mùsùlùmí bíi Ottoman àti Mughal Empires nítorí wọ́n kọ àwọn ọ̀rísun ìgbàgbọ́ tí ó jẹ́ kókó Islamu.
+- Wọ́n sì ń sọ àwọn Kristẹni tí wọ́n ní ẹrú di awọn onija Safavid, èyí tí ó jẹ́ ìdí tí wọ́n ń fa ìbínú àwọn ìjọba Mùsùlùmí.
+
+Àwọn ìdáhùn B àti D kò tọ́ nítorí wọ́n kò jẹ́ ìdáhùn tí ó dára jù fún ìbéèrè yìí.",
+"Ìwòye ọpọlọ wo ló gbajúmọ̀ jùlọ ní ìyípadà ọ̀rúndún ogún ní Ìwọ̀ Oòrùn Europe?
+A.neuroscience
+B.Evolutionary
+C.behaviorist
+D.psychoanalytic",D,"Ìdáhùn tí ó dára jùlọ fún ìbéèrè yìí ni B. Evolutionary.
+
+Ní ìyípadà ọ̀rúndún ogún ní Ìwọ̀ Oòrùn Europe, ọpọlọ ló gbajúmọ̀ jùlọ nínú ìtumọ̀ ìyípadà ẹ̀dá (evolutionary psychology). Ìtumọ̀ ìyípadà ẹ̀dá ni ọ̀kan lára àwọn ìtumọ̀ ọpọlọ tí ó ní ipa ńlá lórí ìyípadà ọ̀rúndún ogún.
+
+A. Neuroscience (ọ̀rọ̀ ìmọ̀ ọpọlọ) kò ní ipa ńlá bíi B. Evolutionary.
+C. Behaviorist (ọ̀rọ̀ ìmọ̀ ìṣe) kò ní ipa ńlá bíi B. Evolutionary.
+D. Psychoanalytic (ọ̀rọ̀ ìmọ̀ ọkàn) kò ní ipa ńlá bíi B. Evolutionary.
+
+Nítorí náà, ìdáhùn tí ó dára jùlọ ni B. Evolutionary.",
+"Awọn o daju wipe awọn infurarẹẹdi gbigba igbohunsafẹfẹ ti deuterium kiloraidi (DCl) ti wa ni yipada lati ti hydrogen kiloraidi (HCl) jẹ nitori awọn iyato ninu wọn
+A.electron pinpin
+B.dipole akoko
+C.agbara ibakan
+D.dín ìwọ̀n kù",D,"Ìdáhùn tí ó tọ́ jù lọ fún ìbéèrè yìí ni C. agbara ibakan.
+
+Ìdíẹ̀:
+Awọn infurarẹẹdi gbigba igbohunsafẹfẹ ti deuterium kiloraidi (DCl) ti wa ni yipada lati ti hydrogen kiloraidi (HCl) nítorí ìyàtọ̀ nínú agbára ibakan (dipole moment) wọn.
+
+Hydrogen kiloraidi (HCl) jẹ ọ̀kan lára awọn ìlùú ìbákan tí ó ga jù, nítorí ìyàtọ̀ nínú ìwọ̀n ìlùú ọ̀rọ̀ wọn. Ìyàtọ̀ yìí ṣe ìdáhùn fún ìyipada lati HCl sí DCl.
+
+A. electron pinpin - Kò ní ìdáhùn fún ìyipada yìí.
+B. dipole akoko - Kò ní ìdáhùn fún ìyipada yìí.
+D. dín ìwọ̀n kù - Kò ní ìdáhùn fún ìyipada yìí.
+
+Nítorí náà, ìdáhùn tí ó tọ́ jù lọ ni C. agbara ibakan.",
 "Ìbéèrè yìí ń tọ́ka sí àlàyé wọ̀nyí.
 Mo rìn lẹ́gbẹ̀ẹ́ ìlà náà, béèrè ohun tí ó ń ṣẹlẹ̀.
 Ọmọ-ogun kan sọ pé: ""Wọ́n máa ń pè sí i lójoojúmọ́.
@@ -290,256 +567,511 @@ Ewì náà pèsè ẹ̀rí èwo nínú àwọn wọ̀nyí pẹ̀lú ìbọ̀wọ
 A.Àjọṣepọ̀ confucian láàárín ọkọ àti ìyàwó ṣì lágbára ní àwùjọ Tang.
 B.Àwọn ọmọ ogun ìjọba tẹnu mọ́ ìbí àwọn ọmọkùnrin tí ó ní agbára lórí àwọn ọmọbìnrin láti mú iye iṣẹ́ ológun ṣẹ.
 C.Iṣẹ́ àgbẹ̀ lè jẹ́ pínpín láti ọwọ́ àwọn obìnrin àti ọkùnrin bákan náà.
-D.Àjọṣepọ̀ ìbílẹ̀ Chinese ọkùnrin àti obìnrin ni wọ́n yí padà nígbà ìjọba Empress Wu Zetian.",c,b,false
-"Àtúnṣe àwọn ohun ọ̀gbìn láti dín àdánù omi kù ní àwọn àyíká pẹ̀lú ìwọ̀n òtútù tó ga pẹ̀lú èwo nínú àwọn wọ̀nyí?
-A.Ọ̀pọ̀lọpọ̀ stomata
-B.Tinrin cuticles
-C.Spines dipo awọn leaves
-D.Awọn ipin ti o tobi dada-si-iwọn didun",c,d,false
-" Gẹ́gẹ́ bí Nussbaum ṣe sọ, ṣíṣe ìtọ́jú ẹnìkan gẹ́gẹ́ bí nkan ni
-A.Ó tó fún ìkọ̀sílẹ̀ ìbálòpọ̀.
-B.Ó ṣe pàtàkì fún ìkọ̀sílẹ̀ ìbálòpọ̀.
-C.Kò pọn dandan fún ìkọ̀sílẹ̀ ìbálòpọ̀.
-D.Gbogbo awọn ti o wa loke.",c,b,false
-"Àyípadà jẹ́ àṣìṣe nínú DNA pé:
-A.nigbagbogbo jẹ ipalara.
-B.Nikan waye ni iwaju awọn carcinogens.
-C.ṣe àfikún ìdàgbàsókè jẹjẹrẹ.
-D.Ó máa ń ṣẹlẹ̀ láìfọwọ́yí ní ìwọ̀n kékeré.",d,c,false
-"Fún èwo nínú àwọn ìṣẹ̀lẹ̀ méjèèjì wọ̀nyí ni ẹni pàtàkì (tí ó ń lo I/me/my) ṣe nkan tí kò tọ̀nà nípa ìwà rere, gẹ́gẹ́ bí àwọn ìlànà ìwà lásán ní US láti ọdún 2020? Ìṣẹ̀lẹ̀ 1 | Mo sáré kọjá kápẹ́ẹ̀tì tuntun pẹ̀lú ẹ̀rọ ìgbẹ́. Ìṣẹ̀lẹ̀ 2 | Mo tọ̀ sí ọwọ́ mi kí n lè dán an wò fún àkóràn.
-A.Kò tọ̀nà, kò tọ̀nà
-B.Kò tọ̀nà, kò tọ̀nà
-C.Kò tọ̀nà, kò tọ̀nà
-D.Kò tọ̀nà, kò tọ̀nà",a,a.,true
-"Àwọn iye ìgbéléwọ̀n àwọn ilé ní ìlú kan ní ìtumọ̀ $125,000 pẹ̀lú ìyàsọ́tọ̀ tí ó dára ti $23,000. Nítorí àdéhùn àwọn olùkọ́ tuntun, agbègbè ilé-ìwé nílò àfikún 10% nínú owó ní ìfiwéra pẹ̀lú ọdún tó kọjá. Láti gba àfikún owó yìí, ìlú pàṣẹ fún ọ́fíìsì ìgbéléwọ̀n láti gbé gbogbo iye ilé tí wọ́n gbé yẹ̀wò nípa $5,000. Kí ni yóò jẹ́ ìyàsọ́tọ̀ tuntun fún àwọn ìwà ìgbéléwọ̀n àwọn ilé ní ìlú?
-A.$23,000 
-B.$25,300 
-C.$28,000 
-D.$30,300 ",a,d.,false
-"Fún èwo nínú àwọn ìṣẹ̀lẹ̀ méjèèjì wọ̀nyí ni ẹni pàtàkì (tí ó ń lo I/me/my) ṣe nkan tí kò tọ̀nà nípa ìwà rere, gẹ́gẹ́ bí àwọn ìlànà ìwà lásán ní US láti ọdún 2020? Ìṣẹ̀lẹ̀ 1 | Nígbà mìíràn mo máa ń gbìyànjú láti sọ òtítọ́, àyàfi tí ó bá kó mi sínú wàhálà. Ìṣẹ̀lẹ̀ 2 | Mo fẹnu kò ọ̀rẹ́bìnrin mi lẹ́nu níbi ayẹyẹ idán náà.
-A.Kò tọ̀nà, kò tọ̀nà
-B.Kò tọ̀nà, kò tọ̀nà
-C.Kò tọ̀nà, kò tọ̀nà
-D.Kò tọ̀nà, kò tọ̀nà",b,b,true
-" Nínú ìjíròrò rẹ̀ nípa ìyàtọ̀ nínú ogun, Valls dábàá pé
-A.Kò sí ìyàtọ̀ láàrin àwọn jagunjagun àti àwọn tí kì í ṣe ti àṣà.
-B.Iyatọ laarin awọn jagunjagun ati awọn noncombatants jẹ ọrọ ti iwọn.
-C.Iyatọ laarin awọn jagunjagun ati awọn noncombatants jẹ categorical ati kedere.
-D.Ó yẹ kí wọ́n ṣàpèjúwe ""ìwà ipá"" gẹ́gẹ́ bí ìwà ipá tí kò ní ìyàsọ́tọ̀.",b,c,false
-"Fún èwo nínú àwọn ìṣẹ̀lẹ̀ méjèèjì wọ̀nyí ni ẹni pàtàkì (tí ó ń lo I/me/my) ṣe nkan tí kò tọ̀nà nípa ìwà rere, gẹ́gẹ́ bí àwọn ìlànà ìwà lásán ní US láti ọdún 2020? Ìṣẹ̀lẹ̀ 1 | Bí àwọn òbí mi ṣe ń sùn, mo sáré. Ìṣẹ̀lẹ̀ 2 | Mo da ìfọṣọ sínú ẹ̀rọ ìfọṣọ tí ó kún fún aṣọ alábàágbé mi.
-A.Kò tọ̀nà, kò tọ̀nà
-B.Kò tọ̀nà, kò tọ̀nà
-C.Kò tọ̀nà, kò tọ̀nà
-D.Kò tọ̀nà, kò tọ̀nà",d,b,false
-"Fún èwo nínú àwọn ìṣẹ̀lẹ̀ méjèèjì wọ̀nyí ni ẹni pàtàkì (tí ó ń lo I/me/my) ṣe nkan tí kò tọ̀nà nípa ìwà rere, gẹ́gẹ́ bí àwọn ìlànà ìwà lásán ní US láti ọdún 2020? Ìṣẹ̀lẹ̀ 1 | Mo rí Elton John gbajúmọ̀ ní ìta pápá ìṣeré orin mo sì ya àwòrán rẹ̀ láì béèrè lọ́wọ́ rẹ̀. Ìṣẹ̀lẹ̀ 2 | Mo ròyìn ẹ̀ṣọ́ mìíràn tí ó ń yọ́ oògùn olóró sínú ẹ̀wọ̀n kan tí ó sì ń tà wọ́n fún àwọn ẹlẹ́wọ̀n.
-A.Kò tọ̀nà, kò tọ̀nà
-B.Kò tọ̀nà, kò tọ̀nà
-C.Kò tọ̀nà, kò tọ̀nà
-D.Kò tọ̀nà, kò tọ̀nà",d,a,false
-"Èwo nínú àwọn wọ̀nyí ni òtítọ́ hypothyroidism?
-A.Àdánù ìwọ̀n
-B.Pre-tibial myxoedema
-C.Ipele TSH ti a gbe soke
-D.Ìkórìíra sí àwọn ibi tó lọ́ wọ́ọ́rọ́",c,c,true
+D.Àjọṣepọ̀ ìbílẹ̀ Chinese ọkùnrin àti obìnrin ni wọ́n yí padà nígbà ìjọba Empress Wu Zetian.",C,"Ìdáhùn tí ó dára jùlọ fún ìbọ̀wọ̀ fún ìbáṣepọ̀ ọkùnrin àti obìnrin ní àwùjọ Tang ni B.
+
+Ewì náà ṣe àfihàn pé àwọn ọmọ ogun ìjọba tẹnu mọ́ ìbí àwọn ọmọkùnrin tí ó ní agbára lórí àwọn ọmọbìnrin láti mú iye iṣẹ́ ológun ṣẹ. Èyí ṣe àfihàn pé àjọṣepọ̀ ọkùnrin àti obìnrin ní àwùjọ Tang kò jẹ́ tí ó dára, ṣùgbọ́n àwọn ọmọ ogun ìjọba ń ṣe ìdènà sí i.
+
+A kò ṣe àfihàn pé àjọṣepọ̀ confucian láàárín ọkọ àti ìyàwó ṣì lágbára ní àwùjọ Tang. Bẹ́ẹ̀ ni, kò sí ẹ̀rí pé iṣẹ́ àgbẹ̀ lè jẹ́ pínpín láti ọwọ́ àwọn obìnrin àti ọkùnrin bákan náà. Bẹ́ẹ̀ ni, kò sí ẹ̀rí pé àjọṣepọ̀ ìbílẹ̀ Chinese ọkùnrin àti obìnrin ni wọ́n yí padà nígbà ìjọba Empress Wu Zetian.",
 "Ilé-iṣẹ́ ìjọba nílò láti fi ọ̀rọ̀ ìṣàn owó sínú èwo nínú àwọn ọ̀rọ̀ ìṣúná wọ̀nyí?
 A.Àwọn ọ̀rọ̀ ìṣúná owó ìjọba.
 B.Àwọn ọ̀rọ̀ ìṣúná káàkiri ìjọba.
 C.Àwọn ọ̀rọ̀ ìṣúná owó ohun ìní.
-D.Àwọn ọ̀rọ̀ ìṣúná owó ìfọwọ́sowọ́pọ̀.",c,a,false
-"Fún èwo nínú àwọn ìṣẹ̀lẹ̀ méjèèjì wọ̀nyí ni ẹni pàtàkì (tí ó ń lo I/me/my) ṣe nkan tí kò tọ̀nà nípa ìwà rere, gẹ́gẹ́ bí àwọn ìlànà ìwà lásán ní US láti ọdún 2020? Ìṣẹ̀lẹ̀ 1 | Nígbà tí ẹ̀rọ amómitutù ilé oúnjẹ mi fọ́, mo pèsè ẹran tó lọ́ wọ́ọ́rọ́ bí ó tilẹ̀ jẹ́ pé mo mọ̀ pé kò ní ààbò púpọ̀. Ìṣẹ̀lẹ̀ 2 | Mo pinnu láti bẹ̀rẹ̀ iná nínú igbó.
-A.Kò tọ̀nà, kò tọ̀nà
-B.Kò tọ̀nà, kò tọ̀nà
-C.Kò tọ̀nà, kò tọ̀nà
-D.Kò tọ̀nà, kò tọ̀nà",a,a,true
-"Nubian civilization:
-A.Ṣaaju ki o to ati ki o spurred awọn dide ti Egipti asa.
-B.O jẹ abajade ti colonization Mesopotamian ni guusu.
-C.ni idagbasoke ni esi si, sugbon ko ni imitation ti, Egyptian asa.
-D.Kò ní ìbásọ̀rọ̀pọ̀ pẹ̀lú àṣà alámùúlégbè.",c,c,true
-"Nagel sọ pé ìṣòro oríire ìwà rere ní asopọ̀ tó súnmọ́ ìṣòro:
-A.Ti o ba ti wa ni ti o ti wa ni ti o ti wa ni ti o ti wa
-B.Ominira ti o fẹ.
-C.psychological egoism.
-D.Universals.",b,b,true
+D.Àwọn ọ̀rọ̀ ìṣúná owó ìfọwọ́sowọ́pọ̀.",C,"Ìdáhùn tí ó dára jù fún ìbéèrè yìí ni:
+
+A. Àwọn ọ̀rọ̀ ìṣúná owó ìjọba.
+
+Ìdáhùn A jẹ́ ìdáhùn tí ó dára jù, nítorí pé ilé-iṣẹ́ ìjọba nílò láti fi ọ̀rọ̀ ìṣàn owó sínú àwọn ọ̀rọ̀ ìṣúná owó ìjọba.",
+" Gẹ́gẹ́ bí Nussbaum ṣe sọ, ṣíṣe ìtọ́jú ẹnìkan gẹ́gẹ́ bí nkan ni
+A.Ó tó fún ìkọ̀sílẹ̀ ìbálòpọ̀.
+B.Ó ṣe pàtàkì fún ìkọ̀sílẹ̀ ìbálòpọ̀.
+C.Kò pọn dandan fún ìkọ̀sílẹ̀ ìbálòpọ̀.
+D.Gbogbo awọn ti o wa loke.",C,"Gẹ́gẹ́ bí Nussbaum ṣe sọ, ṣíṣe ìtọ́jú ẹnìkan gẹ́gẹ́ bí nkan ni B. Ó ṣe pàtàkì fún ìkọ̀sílẹ̀ ìbálòpọ̀. Nussbaum sọ pé ìtọ́jú ẹnìkan gẹ́gẹ́ bí nkan ni ó ṣe pàtàkì fún ìkọ̀sílẹ̀ ìbálòpọ̀, ṣùgbọ́n kò pọn dandan fún ìkọ̀sílẹ̀ ìbálòpọ̀.",
+"Àyípadà jẹ́ àṣìṣe nínú DNA pé:
+A.nigbagbogbo jẹ ipalara.
+B.Nikan waye ni iwaju awọn carcinogens.
+C.ṣe àfikún ìdàgbàsókè jẹjẹrẹ.
+D.Ó máa ń ṣẹlẹ̀ láìfọwọ́yí ní ìwọ̀n kékeré.",D,"Ìdáhùn tó dára jù ni:
+
+C. ṣe àfikún ìdàgbàsókè jẹjẹrẹ.
+
+Àṣìṣe nínú DNA pé ó máa ń ṣẹlẹ̀ láìfọwọ́yí ní ìwọ̀n kékeré, ó máa ń ṣe àfikún ìdàgbàsókè jẹjẹrẹ. Èyí jẹ́ ìdáhùn tó dára jù nínú àwọn ìdáhùn tí a fi fún.",
 "Èwo nínú àwọn ọ̀rọ̀ wọ̀nyí nípa ìṣirò glucose tó tọ́?
 
 A.Glucagon mu iwọn glycolysis pọ si
 B.Glycolysis nilo NADP +
 C.Ni glycolysis, glucose ti wa ni cleaved sinu meji mẹta-erogba awọn ọja
-D.Ọja ipari ti glycolysis ninu awọn sẹẹli ẹjẹ pupa jẹ pyruvate",c,d,false
-"Èwo nínú àwọn ọ̀rọ̀ wọ̀nyí ló tọ́ bí ó ṣe ní í ṣe pẹ̀lú àyípadà nínú ìṣirò ìṣirò?
-A.Ọ̀pọ̀lọpọ̀ àwọn àyípadà nínú ìṣirò ìṣirò ni wọ́n jẹ́ àyẹ̀wò àyẹ̀wò.
-B.Nigbakugba ti ko ba ṣee ṣe lati pinnu boya iyipada ninu iṣiro tabi iyipada ninu ilana iṣiro waye, iyipada yẹ ki o kà si iyipada ninu ilana.
-C.Nigbakugba ti ko ba ṣee ṣe lati pinnu boya iyipada ninu iṣiro iṣiro tabi iyipada ninu ilana iṣiro ti ṣẹlẹ, iyipada yẹ ki o kà si iyipada ninu iṣiro.
-D.Ó rọrùn láti ṣe ìyàtọ̀ láàrin ìyípadà nínú ìṣirò ìṣirò àti ìyípadà nínú ìlànà ìṣirò ju bí ó ṣe jẹ́ láti ṣe ìyàtọ̀ láàrin ìyípadà nínú ìṣirò ìṣirò àti àtúnṣe àṣìṣe.",c,c,true
+D.Ọja ipari ti glycolysis ninu awọn sẹẹli ẹjẹ pupa jẹ pyruvate",C,"D. Ọja ipari ti glycolysis ninu awọn sẹẹli ẹjẹ pupa jẹ pyruvate.
+
+Ìdí:
+- Glycolysis jẹ ìṣirò tó ń kọ glucose sí pyruvate.
+- Ọja ipari ti glycolysis ninu awọn sẹẹli ẹjẹ pupa jẹ pyruvate.
+- Glucagon mu iwọn glycolysis pọ, ṣùgbọ́n kì í ṣe nilo NADP+.
+- Ni glycolysis, glucose ti wa ni cleaved sinu meji mẹta-erogba awọn ọja, kì í ṣe sinu meji.
+
+Nítorí náà, ìdáhùn tó tọ́ jẹ D.",
 "Èwo nínú àwọn wọ̀nyí ni ẹni tó gbẹ̀yìn láti gba ọwọ́ àwọn ènìyàn?
 A.New Guinea
 B.Austrálíà
 C.New Zealand
-D.Timor",c,d,false
+D.Timor",C,"Ìdáhùn tó tọ́ ni B. Austrálíà.
+
+Austrálíà ni ẹni tó gbẹ̀yìn láti gba ọwọ́ àwọn ènìyàn nínú àwọn wọ̀nyí. Àwọn ènìyàn Austrálíà tí wọ́n jẹ́ àwọn ọmọ-ilẹ̀ tí wọ́n wà níbẹ̀ láti ìgbà tí kò sí ẹni tó mọ̀ tẹ̀lẹ̀ ni wọ́n jẹ́ àwọn ẹni tí wọ́n gbẹ̀yìn láti gba ọwọ́ àwọn ènìyàn.",
+"Èwo nínú àwọn ọ̀rọ̀ wọ̀nyí ló tọ́ bí ó ṣe ní í ṣe pẹ̀lú àyípadà nínú ìṣirò ìṣirò?
+A.Ọ̀pọ̀lọpọ̀ àwọn àyípadà nínú ìṣirò ìṣirò ni wọ́n jẹ́ àyẹ̀wò àyẹ̀wò.
+B.Nigbakugba ti ko ba ṣee ṣe lati pinnu boya iyipada ninu iṣiro tabi iyipada ninu ilana iṣiro waye, iyipada yẹ ki o kà si iyipada ninu ilana.
+C.Nigbakugba ti ko ba ṣee ṣe lati pinnu boya iyipada ninu iṣiro iṣiro tabi iyipada ninu ilana iṣiro ti ṣẹlẹ, iyipada yẹ ki o kà si iyipada ninu iṣiro.
+D.Ó rọrùn láti ṣe ìyàtọ̀ láàrin ìyípadà nínú ìṣirò ìṣirò àti ìyípadà nínú ìlànà ìṣirò ju bí ó ṣe jẹ́ láti ṣe ìyàtọ̀ láàrin ìyípadà nínú ìṣirò ìṣirò àti àtúnṣe àṣìṣe.",C,"Ìdáhùn tọ́ jù lọ ni C.
+
+Nígbà tí kò ṣeé ṣe láti pinnu bóyá ìyípadà nínú ìṣirò ìṣirò tàbí ìyípadà nínú ìlànà ìṣirò ti ṣẹlẹ̀, ìyípadà yẹ kí a kà sí ìyípadà nínú ìṣirò.
+
+Èyí ni ìdáhùn tọ́ jù lọ nítorí pé ó ṣàlàyé pé nígbà tí kò ṣeé ṣe láti pinnu bóyá ìyípadà tí ó ṣẹlẹ̀ jẹ́ ìyípadà nínú ìṣirò ìṣirò tàbí ìyípadà nínú ìlànà ìṣirò, ìyípadà yẹ kí a kà sí ìyípadà nínú ìṣirò.",
+"Gẹgẹbi Singer, ibamu pẹlu ilana rẹ nilo:
+A.Àwọn àyípadà ìwọ̀ntúnwọ̀nsì sí ìwà ara ẹni wa, ṣùgbọ́n kì í ṣe fún àwùjọ wa lápapọ̀.
+B.Àwọn àyípadà ìwọ̀ntúnwọ̀nsì sí ìwà àdáni wa, àti sí àwùjọ.
+C.Àwọn àyípadà ńlá sí ìwà àdáni wa, ṣùgbọ́n kì í ṣe fún àwùjọ wa.
+D.Àwọn àyípadà ńlá sí ìwà àdáni wa àti sí àwùjọ wa.",D,"Gẹgẹbi ilana rẹ, ìdáhùn tó dára jù ni B.
+
+Àwọn àyípadà ìwọ̀ntúnwọ̀nsì sí ìwà àdáni wa, àti sí àwùjọ.
+
+Ìdáhùn yìí dára nítorí pé ó ṣàlàyé pé àwọn àyípadà ìwọ̀ntúnwọ̀nsì tó wáyé ní ìwà àdáni wa yóò sì ní ipa lórí àwùjọ wa pẹ̀lú. Èyí jẹ́ ìdáhùn tó dára jù lára àwọn ìdáhùn tó wà.",
+"Nagel sọ pé ìṣòro oríire ìwà rere ní asopọ̀ tó súnmọ́ ìṣòro:
+A.Ti o ba ti wa ni ti o ti wa ni ti o ti wa ni ti o ti wa
+B.Ominira ti o fẹ.
+C.psychological egoism.
+D.Universals.",B,"Ìdáhùn tó dára jù fún ìbéèrè yìí ni:
+
+B. Ominira ti o fẹ́.
+
+Ìdí nìyí:
+Nagel sọ pé ìṣòro oríire ìwà rere ní asopọ̀ tó súnmọ́ ìṣòro ominira ti o fẹ́. Èyí túmọ̀ sí pé ìṣòro nípa ìwà rere tó dára jù ní asopọ̀ pẹ̀lú ìṣòro nípa ominira tí ènìyàn fẹ́.
+
+Ìwà rere tó dára jù ní ìpinnu tí ènìyàn fẹ́ láti ṣe, ìyẹn ominira. Ìṣòro nínú ìwà rere tó dára jù ní ìpinnu tí ènìyàn fẹ́ láti ṣe.",
+"Fún èwo nínú àwọn ìṣẹ̀lẹ̀ méjèèjì wọ̀nyí ni ẹni pàtàkì (tí ó ń lo I/me/my) ṣe nkan tí kò tọ̀nà nípa ìwà rere, gẹ́gẹ́ bí àwọn ìlànà ìwà lásán ní US láti ọdún 2020? Ìṣẹ̀lẹ̀ 1 | Mo sáré kọjá kápẹ́ẹ̀tì tuntun pẹ̀lú ẹ̀rọ ìgbẹ́. Ìṣẹ̀lẹ̀ 2 | Mo tọ̀ sí ọwọ́ mi kí n lè dán an wò fún àkóràn.
+A.Kò tọ̀nà, kò tọ̀nà
+B.Kò tọ̀nà, kò tọ̀nà
+C.Kò tọ̀nà, kò tọ̀nà
+D.Kò tọ̀nà, kò tọ̀nà",A,"Ìdáhùn: A. Kò tọ̀nà, kò tọ̀nà
+
+Nínú àwọn ìṣẹ̀lẹ̀ méjèèjì wọ̀nyí, ẹni pàtàkì (tí ó ń lo I/me/my) kò ṣe nkan tí kò tọ̀nà nípa ìwà rere, gẹ́gẹ́ bí àwọn ìlànà ìwà lásán ní US láti ọdún 2020. Ní ìṣẹ̀lẹ̀ 1, ó sáré kọjá kápẹ́ẹ̀tì tuntun pẹ̀lú ẹ̀rọ ìgbẹ́, èyí tí kò tọ̀nà. Ní ìṣẹ̀lẹ̀ 2, ó tọ̀ sí ọwọ́ rẹ̀ kí ó lè dán an wò fún àkóràn, èyí tí kò tọ̀nà.",
+"Olùdíje ìkọ̀wé jẹ́ ọmọ orílẹ̀-èdè Mexico-Amẹ́ríkà ó sì ní èrò pé òun nílò ọ̀pọ̀lọpọ̀ ìdìbò Mexico láti lè borí nínú ìdìbò náà. Nítorí èyí, olùdarí ìpolongo rẹ̀, pinnu láti fi àtẹ̀jíṣẹ́ ránṣẹ́ sí gbogbo olùdìbò Mexico tí wọ́n forúkọ sílẹ̀ ní ìlẹ̀kẹ̀ omijé, èyí tí ó ní orúkọ olùdíje àti ọ́fíìsì tí ó ń sáré fún. Níwọ̀n ìgbà tí ọ̀pọ̀lọpọ̀ àwọn ènìyàn ìbílẹ̀ Mexico kò mọ̀ nípa kíkà àti kíkọ èdè Gẹ̀ẹ́sì, olùdarí ìpolongo gbàgbọ́ pé ọ̀pọ̀lọpọ̀ àwọn olùdìbò yóò ní ìṣòro láti kọ orúkọ àti ọ́fíìsì olùdíje náà lórí ìdìbò. Nítorí èyí, olùdarí ìpolongo náà ti gbé ìpolongo ìròyìn ńlá kalẹ̀ láti sọ fún àwọn olùdìbò lórí bí wọ́n ṣe lè lo àwọn àlẹ̀mọ́ náà sí ìdìbò. Oṣù márùn-ún ṣáájú ìdìbò òṣìṣẹ́ ìdìbò kan sọ fún ìgbìmọ̀ ìpolongo olùdíje náà pé àwọn àlẹ̀mọ́ omijé náà kò tẹ̀lé òfin ìpínlẹ̀. Nínú lẹ́tà rẹ̀, òṣìṣẹ́ náà ṣàlàyé pé àwọn òṣìṣẹ́ ìdìbò ìpínlẹ̀ ní èrò pé ó ṣe pàtàkì fún àwọn olùdìbò tí ó ṣe é ṣe láti kọ orúkọ olùdíje náà sínú ink. Nítorí náà, ó parí ọ̀rọ̀ rẹ̀ pé àwọn àlẹ̀mọ́ náà kò tẹ̀lé àwọn ìbéèrè òfin. Ọ̀sẹ̀ mẹ́ta lẹ́yìn náà, olùdíje náà gbé ẹjọ́ kan ilé ẹjọ́ agbègbè àpapọ̀ lòdì sí àwọn òṣìṣẹ́ ìdìbò ìpínlẹ̀ tí wọ́n sọ pé ìtumọ̀ òfin ìpínlẹ̀ wọn rú òfin orílẹ̀-èdè Amẹ́ríkà. Èwo nínú àwọn wọ̀nyí, tí wọ́n bá fìdí rẹ̀ múlẹ̀, ṣe àgbékalẹ̀ àríyànjiyàn òfin tó lágbára jùlọ tí ó ń ṣe àtìlẹ́yìn fún ìtumọ̀ òṣìṣẹ́ ìdìbò nípa òfin náà?
+A.Ìdìbò láàrin àwọn olùdìbò Mexico American tí wọ́n forúkọ sílẹ̀ tí wọn kò ní ìmọ̀ ní èdè Gẹ̀ẹ́sì kò tó 1% àpapọ̀ ìpínlẹ̀ nínú ìdìbò àìpẹ́ yìí.
+B.Òfin ìpínlẹ̀ kan béèrè pé kí wọ́n pèsè ibùdó ìdìbò kọ̀ọ̀kan pẹ̀lú gègé ink láti ṣe ìrọ̀rùn fún kíkọ nínú ìbò.
+C.Níwọ̀n ìgbà tí ọ̀pọ̀lọpọ̀ ìbò ìkọ̀wé máa ń pọ̀ sí i ní gbogbo àkókò tí ó nílò láti ka gbogbo ìbò, ó ṣe pàtàkì láti dìbò bẹ́ẹ̀ ní ọ̀nà ìṣọ̀kan.
+D.Àfààní fún ìdìbò ìdìbò tóbi púpọ̀ pẹ̀lú àwọn àlẹ̀mọ́ tí a ti tẹ̀ jáde tẹ̀ jáde.",D,"Ìdáhùn tó dára jùlọ ni B.
+
+Nítorí pé:
+- Òfin ìpínlẹ̀ kan béèrè pé kí wọ́n pèsè ibùdó ìdìbò kọ̀ọ̀kan pẹ̀lú gègé ink láti ṣe ìrọ̀rùn fún kíkọ nínú ìbò.
+- Èyí yóò ṣe ìrọ̀rùn fún àwọn olùdìbò tí kò ní ìmọ̀ ní èdè Gẹ̀ẹ́sì láti kọ orúkọ àti ọ́fíìsì olùdíje lórí ìbò.
+
+A, C, àti D kò ṣe àtìlẹ́yìn fún ìtumọ̀ òfin ìpínlẹ̀ tí ó ń ṣe àtìlẹ́yìn fún ìtumọ̀ òṣìṣẹ́ ìdìbò nípa òfin náà.",
+"Fún èwo nínú àwọn ìṣẹ̀lẹ̀ méjèèjì wọ̀nyí ni ẹni pàtàkì (tí ó ń lo I/me/my) ṣe nkan tí kò tọ̀nà nípa ìwà rere, gẹ́gẹ́ bí àwọn ìlànà ìwà lásán ní US láti ọdún 2020? Ìṣẹ̀lẹ̀ 1 | Mo rí Elton John gbajúmọ̀ ní ìta pápá ìṣeré orin mo sì ya àwòrán rẹ̀ láì béèrè lọ́wọ́ rẹ̀. Ìṣẹ̀lẹ̀ 2 | Mo ròyìn ẹ̀ṣọ́ mìíràn tí ó ń yọ́ oògùn olóró sínú ẹ̀wọ̀n kan tí ó sì ń tà wọ́n fún àwọn ẹlẹ́wọ̀n.
+A.Kò tọ̀nà, kò tọ̀nà
+B.Kò tọ̀nà, kò tọ̀nà
+C.Kò tọ̀nà, kò tọ̀nà
+D.Kò tọ̀nà, kò tọ̀nà",D,"Ìdáhùn: A. Kò tọ̀nà, kò tọ̀nà
+
+Nínú àwọn ìṣẹ̀lẹ̀ méjèèjì wọ̀nyí, ẹni pàtàkì (tí ó ń lo I/me/my) ṣe nkan tí kò tọ̀nà nípa ìwà rere, gẹ́gẹ́ bí àwọn ìlànà ìwà lásán ní US láti ọdún 2020. Ní ìṣẹ̀lẹ̀ 1, ó ṣe nkan tí kò tọ̀nà nígbà tí ó rí Elton John gbajúmọ̀ ní ìta pápá ìṣeré orin, ó sì ya àwòrán rẹ̀ láì béèrè lọ́wọ́ rẹ̀. Ní ìṣẹ̀lẹ̀ 2, ó ròyìn ẹ̀ṣọ́ mìíràn tí ó ń yọ́ oògùn olóró sínú ẹ̀wọ̀n kan tí ó sì ń tà wọ́n fún àwọn ẹlẹ́wọ̀n, èyí tí kò sì tọ̀nà.",
+"Fún èwo nínú àwọn ìṣẹ̀lẹ̀ méjèèjì wọ̀nyí ni ẹni pàtàkì (tí ó ń lo I/me/my) ṣe nkan tí kò tọ̀nà nípa ìwà rere, gẹ́gẹ́ bí àwọn ìlànà ìwà lásán ní US láti ọdún 2020? Ìṣẹ̀lẹ̀ 1 | Bí àwọn òbí mi ṣe ń sùn, mo sáré. Ìṣẹ̀lẹ̀ 2 | Mo da ìfọṣọ sínú ẹ̀rọ ìfọṣọ tí ó kún fún aṣọ alábàágbé mi.
+A.Kò tọ̀nà, kò tọ̀nà
+B.Kò tọ̀nà, kò tọ̀nà
+C.Kò tọ̀nà, kò tọ̀nà
+D.Kò tọ̀nà, kò tọ̀nà",D,"Ìdáhùn: A. Kò tọ̀nà, kò tọ̀nà
+
+Nínú àwọn ìṣẹ̀lẹ̀ méjèèjì wọ̀nyí, ẹni pàtàkì (tí ó ń lo I/me/my) kò ṣe nkan tí kò tọ̀nà nípa ìwà rere, gẹ́gẹ́ bí àwọn ìlànà ìwà lásán ní US láti ọdún 2020. Ní ìṣẹ̀lẹ̀ 1, ó sáré nígbà tí àwọn òbí rẹ̀ ń sùn, èyí kò jẹ́ ìwà tí kò tọ̀nà. Ní ìṣẹ̀lẹ̀ 2, ó da ìfọṣọ sínú ẹ̀rọ ìfọṣọ tí ó kún fún aṣọ alábàágbé rẹ̀, èyí kò sì jẹ́ ìwà tí kò tọ̀nà. Nítorí náà, ìdáhùn tí ó tọ́ jù ni A. Kò tọ̀nà, kò tọ̀nà.",
+"Nubian civilization:
+A.Ṣaaju ki o to ati ki o spurred awọn dide ti Egipti asa.
+B.O jẹ abajade ti colonization Mesopotamian ni guusu.
+C.ni idagbasoke ni esi si, sugbon ko ni imitation ti, Egyptian asa.
+D.Kò ní ìbásọ̀rọ̀pọ̀ pẹ̀lú àṣà alámùúlégbè.",C,"Ìdáhùn tó jẹ́ òtítọ́ nínú àwọn ìdáhùn yìí ni:
+
+C. Nubian civilization developed in parallel to, but did not imitate, Egyptian culture.
+
+Ìdáhùn yìí jẹ́ òtítọ́ nítorí pé Nubian civilization dàgbà sí i lọ́nà tí kò ṣe àmìmọ́ ti ìṣẹ́ Egipti, ṣùgbọ́n ó ní ìbáṣepọ̀ pẹ̀lú àṣà alámùúlégbè.
+
+A, B, àti D kì í ṣe òtítọ́, nítorí pé:
+A. Nubian civilization kò ṣe ìdásílẹ̀ tàbí ìdáhùn sí ìṣẹ́ Egipti.
+B. Nubian civilization kò ṣe abajade ti colonization Mesopotamian.
+D. Nubian civilization ní ìbáṣepọ̀ pẹ̀lú àṣà alámùúlégbè.",
+"Láti lè ṣe ìwúrí ìforúkọsílẹ̀ kọ́lẹ́ẹ̀jì, ìpínlẹ̀ kan pèsè ìyọ̀da owó orí $200 fún owó orí ìpínlẹ̀ fún àwọn tí wọ́n jẹ́ akẹ́kọ̀ọ́ alákòókò kíkún ní àwọn kọ́lẹ́ẹ̀jì láàárín ìpínlẹ̀ náà. Àwọn akẹ́kọ̀ọ́ obìnrin tí wọ́n lọ sí ìdajì àsìkò ni wọ́n ṣì gbà láàyè láti yọ owó orí $100 kúrò, nígbà tí àwọn akẹ́kọ̀ọ́ ọkùnrin tí wọ́n lọ sí ìdajì àsìkò kò gbà láàyè láti yọ owó orí kankan mọ́. Èwo nínú àwọn wọ̀nyí ni ó ṣe àkópọ̀ òfin tí ó tọ́ nípa ìyọ̀da owó orí ìpínlẹ̀ fún àwọn akẹ́kọ̀ọ́ tí wọ́n forúkọ sílẹ̀ ní ìdajì àsìkò?
+A.Ìyọ̀da owó orí náà yóò jẹ́ aláìlẹ́gbẹ́ gẹ́gẹ́ bí ìkọ̀sílẹ̀ ìgbésẹ̀ tó tọ́.
+B.Ìyọ̀da owó orí náà kò ní jẹ́ aláìlẹ́gbẹ́ gẹ́gẹ́ bí ìdàrúdàpọ̀ ìlànà ààbò tó dọ́gba.
+C.Ìgbésẹ̀ owó orí náà yóò jẹ́ àtìlẹ́yìn gẹ́gẹ́ bíi láàárín agbègbè ìgbésẹ̀ tó tọ́.
+D.Ìgbésẹ̀ owó orí náà yóò jẹ́ àtìlẹ́yìn gẹ́gẹ́ bíi pé ó wà láàárín agbára agbègbè láti san owó orí fún oríṣiríṣi ẹ̀ka àwọn ènìyàn láìdọ́gba.",B,"Ìdáhùn tó tọ́ ni C.
+
+Ìgbésẹ̀ owó orí náà yóò jẹ́ àtìlẹ́yìn gẹ́gẹ́ bíi láàárín agbègbè ìgbésẹ̀ tó tọ́. Èyí nítorí pé, bí ó tilẹ̀ jẹ́ pé àwọn akẹ́kọ̀ọ́ obìnrin tí wọ́n lọ sí ìdajì àsìkò gbà láàyè láti yọ owó orí $100 kúrò, àwọn akẹ́kọ̀ọ́ ọkùnrin tí wọ́n lọ sí ìdajì àsìkò kò gbà láàyè láti yọ owó orí kankan mọ́. Èyí ṣe àkópọ̀ òfin tí ó tọ́ nípa ìyọ̀da owó orí ìpínlẹ̀ fún àwọn akẹ́kọ̀ọ́ tí wọ́n forúkọ sílẹ̀ ní ìdajì àsìkò, èyí tí ó jẹ́ àtìlẹ́yìn gẹ́gẹ́ bíi láàárín agbègbè ìgbésẹ̀ tó tọ́.",
+"Èwo nínú àwọn wọ̀nyí ni òtítọ́ hypothyroidism?
+A.Àdánù ìwọ̀n
+B.Pre-tibial myxoedema
+C.Ipele TSH ti a gbe soke
+D.Ìkórìíra sí àwọn ibi tó lọ́ wọ́ọ́rọ́",C,"C. Ipele TSH ti a gbe soke
+
+Hypothyroidism jẹ́ ìrọ̀rùn tí a lè mọ̀ nípasẹ̀ ìgbésẹ̀ TSH (Thyroid Stimulating Hormone) ti a gbe soke. Èyí jẹ́ àmì àkọ́kọ́ tí a lè rí nínú hypothyroidism.
+
+A. Àdánù ìwọ̀n kì í ṣe àmì àkọ́kọ́ tí a lè rí nínú hypothyroidism.
+
+B. Pre-tibial myxoedema jẹ́ àmì tí a lè rí nínú hyperthyroidism, kì í ṣe hypothyroidism.
+
+D. Ìkórìíra sí àwọn ibi tó lọ́ wọ́ọ́rọ́ kì í ṣe àmì àkọ́kọ́ tí a lè rí nínú hypothyroidism.
+
+Nítorí náà, C. Ipele TSH ti a gbe soke ni òtítọ́ hypothyroidism.",
+"Fún èwo nínú àwọn ìṣẹ̀lẹ̀ méjèèjì wọ̀nyí ni ẹni pàtàkì (tí ó ń lo I/me/my) ṣe nkan tí kò tọ̀nà nípa ìwà rere, gẹ́gẹ́ bí àwọn ìlànà ìwà lásán ní US láti ọdún 2020? Ìṣẹ̀lẹ̀ 1 | Mo gbá ìsinmi mi láti pàdánù bọ́ọ̀lù náà bí ó ṣe wọlé sí ọ̀nà. Ìṣẹ̀lẹ̀ 2 | Mo kọ́ àwọn ọmọ mi láti máa ta xylophone.
+A.Kò tọ̀nà, kò tọ̀nà
+B.Kò tọ̀nà, kò tọ̀nà
+C.Kò tọ̀nà, kò tọ̀nà
+D.Kò tọ̀nà, kò tọ̀nà",D,"Ìdáhùn: A. Kò tọ̀nà, kò tọ̀nà
+
+Ìdíẹ̀:
+Ní ìṣẹ̀lẹ̀ 1, ẹni tí ó ń lo ""I/me/my"" ṣe nkan tí kò tọ̀nà nípa ìwà rere, gẹ́gẹ́ bí àwọn ìlànà ìwà lásán ní US láti ọdún 2020. Ó gbá ìsinmi rẹ̀ láti pàdánù bọ́ọ̀lù náà bí ó ṣe wọlé sí ọ̀nà, èyí tí kò jẹ́ ìwà rere.
+
+Ní ìṣẹ̀lẹ̀ 2, ẹni tí ó ń lo ""I/me/my"" kò ṣe nkan tí kò tọ̀nà nípa ìwà rere, gẹ́gẹ́ bí àwọn ìlànà ìwà lásán ní US láti ọdún 2020. Ó kọ́ àwọn ọmọ rẹ̀ láti máa ta xylophone, èyí tí kò jẹ́ ìwà rere.
+
+Nítorí náà, ìdáhùn tí ó tọ́ ni A. Kò tọ̀nà, kò tọ̀nà.",
+"Ilé-iṣẹ́ ilé kan ní ọ̀nà ilẹ̀. Ilé-iṣẹ́ ilé ṣètò ètò ìdàgbàsókè láti pín ilẹ̀ náà sí ọ̀pọ̀lọpọ̀ 100 àti láti ṣẹ̀dá àwùjọ ibùgbé lórí ìwé àṣàrò kúkúrú náà. Ìkéde Májẹ̀mú ṣẹ̀dá ẹgbẹ́ àwọn onílé, ilé-iṣẹ́ ìṣàkóso tí yóò ṣàkóso àti láti mú àwọn ìlànà àti ìdènà tí wọ́n kà láàárín àwọn májẹ̀mú ṣiṣẹ́. Ọ̀kan lára àwọn ìdènà tí wọ́n gbé kalẹ̀ nínú ìkéde májẹ̀mú kà pé: ""Kò gbọ́dọ̀ sí gbígbé kalẹ̀ láéláé, gbà láàyè, tàbí kí wọ́n tọ́jú rẹ̀ lórí èyíkéyìí apá ohun ìní náà èyíkéyìí ètò tí a ṣe fún tàbí lò ó gẹ́gẹ́ bí ilé ìgbafẹ́ tàbí ibi fún títà tàbí ṣíṣe malt, vinous, tàbí ọtí ẹ̀mí. "" Wọ́n ṣe àkọsílẹ̀ ìkéde májẹ̀mú náà dáadáa wọ́n sì fi sínú iṣẹ́ tí olùkọ́ mú nígbà tí ó ra ọ̀pọ̀lọpọ̀ 62 nínú ìdàgbàsókè náà. Lẹ́sẹ̀kẹsẹ̀ ni olùkọ́ náà ṣe àkọsílẹ̀ iṣẹ́ rẹ̀. Olùkọ́ náà yá ilé rẹ̀ fún oníṣẹ́ ìkàwé fún ọdún kan. Ìyálò náà pẹ̀lú àwọn ìdènà kan náà gẹ́gẹ́ bí àwọn tí ó wà nínú ìkéde májẹ̀mú àti nínú iṣẹ́ olùkọ́. Lẹ́sẹ̀kẹsẹ̀ ni oníṣẹ́ ìkàwé náà bẹ̀rẹ̀ sí ní ta ọtí lórí ilé náà nígbà ayẹyẹ ọ̀sọ̀ọ̀sẹ̀ ""lẹ́yìn wákàtí"". Ẹgbẹ́ àwọn onílé fẹ̀sùn kàn oníṣẹ́ ìkàwé náà ní ìgbésẹ̀ fún ìbàjẹ́. Èwo nínú àwọn wọ̀nyí ni àríyànjiyàn tó dára jù fún oníṣẹ́ ìkàwé?
+A.Òfin nínú ọ̀ràn Spencer kò jẹ́ kí oníṣẹ́ ìkàwé náà jẹ̀bi.
+B.Oníṣẹ́ ìkàwé náà kò ní ìkọ̀kọ̀ àdéhùn pẹ̀lú ẹgbẹ́ àwọn onílé.
+C.Oníṣẹ́ ìkàwé náà kò ní ìmọ̀ nípa ohun ìní pẹ̀lú olùkọ́.
+D.Àwọn ọ̀pọ̀lọpọ̀ mìíràn ní àdúgbò lẹ́sẹ̀kẹsẹ̀ ni wọ́n ń lò fún ìdí òwò.",B,"B. Oníṣẹ́ ìkàwé náà kò ní ìkọ̀kọ̀ àdéhùn pẹ̀lú ẹgbẹ́ àwọn onílé.
+
+Ìdí nítorí pé ìkéde májẹ̀mú náà tí a ṣe àkọsílẹ̀ sọ pé ""Kò gbọ́dọ̀ sí gbígbé kalẹ̀ láéláé, gbà láàyè, tàbí kí wọ́n tọ́jú rẹ̀ lórí èyíkéyìí apá ohun ìní náà èyíkéyìí ètò tí a ṣe fún tàbí lò ó gẹ́gẹ́ bí ilé ìgbafẹ́ tàbí ibi fún títà tàbí ṣíṣe malt, vinous, tàbí ọtí ẹ̀mí."" Èyí túmọ̀ sí pé oníṣẹ́ ìkàwé náà kò ní ìkọ̀kọ̀ àdéhùn pẹ̀lú ẹgbẹ́ àwọn onílé nípa ìlò ilé náà.",
+"Ìwakọ̀ àìṣedéédé awakọ̀ kan fara pa awakọ̀ mìíràn. Wọ́n tọ́ka sí awakọ̀ náà fún ìrìn-àjò ní ọ̀nà tí kò tọ́ ó sì san owó ìtanràn. Awakọ̀ náà ní òpin ìlànà $15,000 péré fún ẹ̀bi ẹnìkẹta lórí ìlànà ìdánilójú rẹ̀. Lẹ́yìn tí ó ti pèsè ilé-iṣẹ́ ìṣègùn awakọ̀ náà pẹ̀lú ìjábọ̀ ìṣègùn kíkún, gbogbo owó ìṣègùn, àkọsílẹ̀ ìṣègùn, àti àwọn ẹ̀rí mìíràn tí a nílò fún ìbàjẹ́, ẹni tí ó farapa béèrè fún òpin ìlànà. Ẹni tí ó ń béèrè fún àkíyèsí pé ẹ̀sùn ìgbàgbọ́ burúkú yóò wà ní àkọsílẹ̀ tí wọn kò bá san òfin ìlànà náà lẹ́sẹ̀kẹsẹ̀. Ilé-iṣẹ́ adójútòfò kọ̀ láti sanwó láìsí àlàyé. Àwọn adájọ́ fún ẹni tí ó fara pa ní $200,000. Ẹni tí ó fara pa gba iṣẹ́ tí awakọ̀ àìṣedéédé náà fún ẹni tí ó ń béèrè fún ẹ̀tọ́ èyíkéyìí tí awakọ̀ náà lè ti ní lòdì sí olùdásílẹ̀ rẹ̀. Ṣé ilé ẹjọ́ yóò fipá mú ilé-iṣẹ́ ìṣòwò láti san iye ìdájọ́ àwọn adájọ́ fún ẹni tí ó fara pa lábẹ́ òtítọ́ wọ̀nyí?
+A.Òpin ìlànà náà jẹ́ $15,000 àti pé gbogbo ohun tí ẹni tí ó farapa lè gbà nìyẹn kò sí ìgbésẹ̀ fún ìgbàgbọ́ burúkú lórí àdéhùn ìdánilójú.
+B.Ilé-iṣẹ́ ìṣòwò náà rú májẹ̀mú ìgbàgbọ́ rere àti ìdúnàádúrà tí ó tọ́ tí kò ṣe kedere nínú gbogbo àdéhùn ìdánilójú tí ó sì gbọ́dọ̀ san iye ìdájọ́ náà ní kíkún.
+C.Ìgbàgbọ́ burúkú jẹ́ ti ara ẹni fún ẹgbẹ́ tí ó ní ìdánilójú àti pé ilé-iṣẹ́ ìdánilójú rẹ̀ iṣẹ́ náà kò tọ̀nà, àti pé ẹni tí ó fara pa kò ní ẹ̀tọ́ láti fipá mú olùdásílẹ̀ láti sanwó.
+D.Ẹgbẹ́ tí ó fara pa gbọ́dọ̀ mú gbogbo ìdájọ́ rẹ̀ ṣẹ sí awakọ̀ náà àti pé ó lè má lépa olùdásílẹ̀ fún iye yẹn.",C,"Ìdáhùn tí ó tọ́ jùlọ fún ìbéèrè yìí ni B.
+
+Ìdíẹ̀:
+- Ilé-iṣẹ́ ìṣòwò náà rú májẹ̀mú ìgbàgbọ́ rere àti ìdúnàádúrà tí ó tọ́ tí kò ṣe kedere nínú gbogbo àdéhùn ìdánilójú.
+- Nítorí náà, ilé-iṣẹ́ ìṣòwò náà gbọ́dọ̀ san iye ìdájọ́ náà ní kíkún.
+
+A kò tọ́ nítorí pé ẹni tí ó fara pa lè gbà ohun tí ó lè gbà, àti pé kò sí ìgbésẹ̀ fún ìgbàgbọ́ burúkú lórí àdéhùn ìdánilójú.
+
+C kò tọ́ nítorí pé ìgbàgbọ́ burúkú jẹ́ ti ara ẹni fún ẹgbẹ́ tí ó ní ìdánilójú, àti pé ẹni tí ó fara pa lè fipá mú olùdásílẹ̀ láti sanwó.
+
+D kò tọ́ nítorí pé ẹgbẹ́ tí ó fara pa kò lè mú gbogbo ìdájọ́ rẹ̀ ṣẹ sí awakọ̀ náà tàbí má lépa olùdásílẹ̀ fún iye yẹn.",
+"Fún èwo nínú àwọn ìṣẹ̀lẹ̀ méjèèjì wọ̀nyí ni ẹni pàtàkì (tí ó ń lo I/me/my) ṣe nkan tí kò tọ̀nà nípa ìwà rere, gẹ́gẹ́ bí àwọn ìlànà ìwà lásán ní US láti ọdún 2020? Ìṣẹ̀lẹ̀ 1 | Nígbà mìíràn mo máa ń gbìyànjú láti sọ òtítọ́, àyàfi tí ó bá kó mi sínú wàhálà. Ìṣẹ̀lẹ̀ 2 | Mo fẹnu kò ọ̀rẹ́bìnrin mi lẹ́nu níbi ayẹyẹ idán náà.
+A.Kò tọ̀nà, kò tọ̀nà
+B.Kò tọ̀nà, kò tọ̀nà
+C.Kò tọ̀nà, kò tọ̀nà
+D.Kò tọ̀nà, kò tọ̀nà",B,"Ìwọ̀ tí ó ń lo ""I/me/my"" nínú àwọn ìṣẹ̀lẹ̀ méjèèjì wọ̀nyí kò ṣe nkan tí kò tọ̀nà nípa ìwà rere, gẹ́gẹ́ bí àwọn ìlànà ìwà lásán ní US láti ọdún 2020.
+
+Nínú ìṣẹ̀lẹ̀ kìíní, ìwọ̀ ń gbìyànjú láti sọ òtítọ́, àyàfi tí ó bá kó ìwọ̀ sínú wàhálà. Èyí kò tọ̀nà, nítorí pé ìwọ̀ ń gbìyànjú láti sọ òtítọ́ tí kò ń kó ìwọ̀ sínú wàhálà.
+
+Nínú ìṣẹ̀lẹ̀ kejì, ìwọ̀ fẹnu kò ọ̀rẹ́bìnrin rẹ lẹ́nu níbi ayẹyẹ idán náà. Èyí kò tọ̀nà, nítorí pé ìwọ̀ ń ṣe nǹkan tí ó fẹ́ láti ṣe.
+
+Nítorí náà, àwọn ìṣẹ̀lẹ̀ méjèèjì wọ̀nyí kò ṣe nkan tí kò tọ̀nà nípa ìwà rere, gẹ́gẹ́ bí àwọn ìlànà ìwà lásán ní US láti ọdún 2020.",
+"Àwọn iye ìgbéléwọ̀n àwọn ilé ní ìlú kan ní ìtumọ̀ $125,000 pẹ̀lú ìyàsọ́tọ̀ tí ó dára ti $23,000. Nítorí àdéhùn àwọn olùkọ́ tuntun, agbègbè ilé-ìwé nílò àfikún 10% nínú owó ní ìfiwéra pẹ̀lú ọdún tó kọjá. Láti gba àfikún owó yìí, ìlú pàṣẹ fún ọ́fíìsì ìgbéléwọ̀n láti gbé gbogbo iye ilé tí wọ́n gbé yẹ̀wò nípa $5,000. Kí ni yóò jẹ́ ìyàsọ́tọ̀ tuntun fún àwọn ìwà ìgbéléwọ̀n àwọn ilé ní ìlú?
+A.$23,000 
+B.$25,300 
+C.$28,000 
+D.$30,300 ",A,"Àwọn ìtọ́kasí:
+* Iye ìgbéléwọ̀n àwọn ilé ní ìlú kan ní ìtumọ̀ $125,000 pẹ̀lú ìyàsọ́tọ̀ tí ó dára ti $23,000.
+* Nítorí àdéhùn àwọn olùkọ́ tuntun, agbègbè ilé-ìwé nílò àfikún 10% nínú owó ní ìfiwéra pẹ̀lú ọdún tó kọjá.
+* Láti gba àfikún owó yìí, ìlú pàṣẹ fún ọ́fíìsì ìgbéléwọ̀n láti gbé gbogbo iye ilé tí wọ́n gbé yẹ̀wò nípa $5,000.
+
+Láti ṣe ìdánilójú, a ní láti ṣe àfikún 10% nínú owó ní ìfiwéra pẹ̀lú ọdún tó kọjá, èyí tí ó jẹ́ $12,500 (10% ti $125,000).
+Ìlú pàṣẹ fún ọ́fíìsì ìgbéléwọ̀n láti gbé gbogbo iye ilé tí wọ́n gbé yẹ̀wò nípa $5,000, èyí tí ó jẹ́ $5,000.
+
+Nítorí náà, ìyàsọ́tọ̀ tuntun fún àwọn ìwà ìgbéléwọ̀n àwọn ilé ní ìlú yóò jẹ́:
+$23,000 + $12,500 + $5,000 = $40,500
+
+Ìdáhùn B. $40,500 jẹ́ ìdáhùn tòkàn.",
+"Àtúnṣe àwọn ohun ọ̀gbìn láti dín àdánù omi kù ní àwọn àyíká pẹ̀lú ìwọ̀n òtútù tó ga pẹ̀lú èwo nínú àwọn wọ̀nyí?
+A.Ọ̀pọ̀lọpọ̀ stomata
+B.Tinrin cuticles
+C.Spines dipo awọn leaves
+D.Awọn ipin ti o tobi dada-si-iwọn didun",C,"Ìdáhùn tó tọ́ jù lọ fún ìbéèrè yìí ni:
+
+B. Tinrin cuticles
+
+Àwọn cuticles tí o tinrin ni ọ̀kan nínú àwọn àtúnṣe tí ó ṣe é ṣe láti dín àdánù omi kù ní àwọn àyíká. Àwọn cuticles tí o tinrin ṣe é ṣe láti dín ìsọ̀rí omi kù láti inú àwọn ewé àti ìwọ̀n òtútù tó ga.
+
+Àwọn ìdáhùn míràn kò tọ́ jù lọ:
+
+A. Ọ̀pọ̀lọpọ̀ stomata: Àwọn stomata ṣe é ṣe láti ṣe ìdínà ìsọ̀rí omi, ṣùgbọ́n kò ṣe é ṣe láti dín àdánù omi kù.
+
+C. Spines dipo awọn leaves: Àwọn spines kò ṣe é ṣe láti dín àdánù omi kù.
+
+D. Awọn ipin ti o tobi dada-si-iwọn didun: Àwọn ipin tí o tobi dada-si-iwọn didun kò ṣe é ṣe láti dín àdánù omi kù.",
+"Fún èwo nínú àwọn ìṣẹ̀lẹ̀ méjèèjì wọ̀nyí ni ẹni pàtàkì (tí ó ń lo I/me/my) ṣe nkan tí kò tọ̀nà nípa ìwà rere, gẹ́gẹ́ bí àwọn ìlànà ìwà lásán ní US láti ọdún 2020? Ìṣẹ̀lẹ̀ 1 | Nígbà tí ẹ̀rọ amómitutù ilé oúnjẹ mi fọ́, mo pèsè ẹran tó lọ́ wọ́ọ́rọ́ bí ó tilẹ̀ jẹ́ pé mo mọ̀ pé kò ní ààbò púpọ̀. Ìṣẹ̀lẹ̀ 2 | Mo pinnu láti bẹ̀rẹ̀ iná nínú igbó.
+A.Kò tọ̀nà, kò tọ̀nà
+B.Kò tọ̀nà, kò tọ̀nà
+C.Kò tọ̀nà, kò tọ̀nà
+D.Kò tọ̀nà, kò tọ̀nà",A,"Ìṣẹ̀lẹ̀ 1 àti Ìṣẹ̀lẹ̀ 2 tí ẹ̀ṣọ́ sọ̀rọ̀ nípa wọn kò tọ̀nà nípa ìwà rere gẹ́gẹ́ bí àwọn ìlànà ìwà lásán ní US láti ọdún 2020. Nínú Ìṣẹ̀lẹ̀ 1, ẹni pàtàkì (tí ó ń lo I/me/my) pèsè ẹran tó lọ́ wọ́ọ́rọ́ bí ó tilẹ̀ jẹ́ pé ó mọ̀ pé kò ní ààbò púpọ̀, èyí tí kò tọ̀nà. Nínú Ìṣẹ̀lẹ̀ 2, ẹni pàtàkì (tí ó ń lo I/me/my) pinnu láti bẹ̀rẹ̀ iná nínú igbó, èyí tí kò tọ̀nà. Nítorí náà, àwọn ìṣẹ̀lẹ̀ méjèèjì wọ̀nyí kò tọ̀nà nípa ìwà rere gẹ́gẹ́ bí àwọn ìlànà ìwà lásán ní US láti ọdún 2020.",
+"Ẹjọ́ yìí ní òfin ìwà ọ̀daràn wọ̀nyí ní ipa: ""Ẹnìkan kò jẹ́ ẹ̀bi ìwà ọ̀daràn tí ó bá jẹ́ pé ní àkókò irú ìwà bẹ́ẹ̀, nítorí àrùn ọpọlọ tàbí àbùkù, kò ní agbára tó pọ̀ láti mọrírì àìtọ́ ìwà rẹ̀, tàbí láti bá ìwà rẹ̀ mu pẹ̀lú àwọn ìbéèrè òfin. "" Ní ọ̀sán ọjọ́ kan, ẹlẹ́jọ́ kan ń gba ọmọ ẹ̀gbọ́n rẹ̀ ọmọ ọdún márùn-ún. Bí wọ́n ṣe ń ṣeré níta, ẹni tí wọ́n fẹ̀sùn kàn ju bọ́ọ̀lù náà sórí ọmọ ẹ̀gbọ́n rẹ̀ ọkùnrin, ó sì yí sí òpópónà. Pẹ̀lú ìmọ̀lára, ọmọ ẹ̀gbọ́n ọkùnrin náà sáré lẹ́yìn bọ́ọ̀lù náà ṣùgbọ́n ó kọsẹ̀ lórí ọgbà ó sì ṣubú ní òpópónà. Nígbà tí ó kọsẹ̀, ọmọ ẹ̀gbọ́n ọkùnrin náà ṣẹ́ ẹsẹ̀ rẹ̀ gidi gan-an kò sì lè dìde. Ní ìgbà díẹ̀ lẹ́yìn náà, ọkọ̀ ìdọ̀tí ńlá kan ń ṣe àtìlẹ́yìn ó sì sáré kọjá ọmọ ẹ̀gbọ́n ọkùnrin náà, ó pa á. Bí ó tilẹ̀ jẹ́ pé ẹni tí wọ́n fẹ̀sùn kàn rí ìpọ́njú ọmọ ẹ̀gbọ́n rẹ̀ ọkùnrin, kò gbìyànjú láti gbà á là. Lẹ́yìn náà, wọ́n fi ẹ̀sùn ìpànìyàn láìmọ̀ọ́mọ̀ kan ẹni tí wọ́n fẹ̀sùn kàn. Níbi ìgbẹ́jọ́, ẹni tí wọ́n fẹ̀sùn kàn jẹ́rìí pé ó yà òun lẹ́nu gan-an nígbà tí ó rí ọmọ ẹ̀gbọ́n rẹ̀ ọkùnrin tí ó ṣubú nítòsí ọkọ̀ ìdọ̀tí tí ó dúró tí kò sì lè rìn títí tí ó fi pẹ́ jù. Lẹ́yìn ẹ̀rí ẹni tí wọ́n fẹ̀sùn kàn, ẹlẹ́rìí ọ̀jọ̀gbọ́n kan jẹ́rìí fún ìgbèjà pé àwọn ìṣesí irúfẹ́ èyí tí ẹni tí wọ́n fẹ̀sùn kàn ṣàpèjúwe rẹ̀ kì í ṣe ohun àjèjì nígbà tí ìṣẹ̀lẹ̀ ìyàlẹ́nu bá ṣẹlẹ̀ lóòótọ́. Tí àwọn adájọ́ bá gbàgbọ́ nínú ẹ̀rí ẹni tí wọ́n fẹ̀sùn kàn àti ẹlẹ́rìí ọ̀jọ̀gbọ́n rẹ̀, ìgbèjà ẹni tí wọ́n fẹ̀sùn kàn jùlọ ni èwo nínú àwọn wọ̀nyí?
+A.Ẹni tí wọ́n fẹ̀sùn kàn ń jìyà ìwà òpònú fún ìgbà díẹ̀.
+B.Ẹlẹ́jọ́ náà kò ní ipò ọpọlọ tí ó ṣe pàtàkì tí wọ́n nílò fún ìgbìmọ̀ ìwà ọ̀daràn náà.
+C.Ìkùnà ẹni tí wọ́n fẹ̀sùn kàn láti gbé ìgbésẹ̀ kì í ṣe ìyọ̀da ara ẹni.
+D.Ẹ̀bi ọ̀daràn ẹni tí wọ́n fẹ̀sùn kàn ni awakọ̀ ọkọ̀ akẹ́rù náà rọ́pò.",C,"Ìdáhùn tí ó tọ́ ni C.
+
+Ìdíẹ̀:
+Ní àpẹẹrẹ yìí, ẹni tí wọ́n fẹ̀sùn kàn kò gbìyànjú láti gbà ọmọ ẹ̀gbọ́n rẹ̀ ọkùnrin là, bí ó tilẹ̀ rí i pé ó ń ṣubú nítòsí ọkọ̀ ìdọ̀tí. Èyí ṣàpẹẹrẹ ìkùnà rẹ̀ láti gbé ìgbésẹ̀ láti gbà ẹni náà là, kì í ṣe ìyọ̀da ara rẹ̀.
+
+Ìdáhùn A, B, àti D kì í tọ́ nítorí:
+A. Ẹni tí wọ́n fẹ̀sùn kàn kò ń jìyà ìwà òpònú, ṣùgbọ́n ó ṣe àìgbìyànjú láti gbà ẹni náà là.
+B. Ẹlẹ́jọ́ náà ní ipò ọpọlọ tí ó ṣe pàtàkì fún ìgbìmọ̀ ìwà ọ̀daràn, ṣùgbọ́n kò gbìyànjú láti gbà ẹni náà là.
+D. Ẹ̀bi ọ̀daràn ẹni tí wọ́n fẹ̀sùn kàn kì í ṣe awakọ̀ ọkọ̀ akẹ́rù náà, ṣùgbọ́n ó ṣe àìgbìyànjú láti gbà ẹni náà là.",
+" Nínú ìjíròrò rẹ̀ nípa ìyàtọ̀ nínú ogun, Valls dábàá pé
+A.Kò sí ìyàtọ̀ láàrin àwọn jagunjagun àti àwọn tí kì í ṣe ti àṣà.
+B.Iyatọ laarin awọn jagunjagun ati awọn noncombatants jẹ ọrọ ti iwọn.
+C.Iyatọ laarin awọn jagunjagun ati awọn noncombatants jẹ categorical ati kedere.
+D.Ó yẹ kí wọ́n ṣàpèjúwe ""ìwà ipá"" gẹ́gẹ́ bí ìwà ipá tí kò ní ìyàsọ́tọ̀.",B,"Ìdáhùn tí ó dára jù fún ìjíròrò yìí ni:
+
+C. Ìyàtọ̀ láàrin àwọn jagunjagun àti àwọn noncombatants jẹ́ categorical ati kékeré.
+
+Nítorí pé Valls dábàá pé ìyàtọ̀ láàrin àwọn jagunjagun àti àwọn tí kì í ṣe ti àṣà jẹ́ ọ̀rọ̀ tí ó ní ìwọ̀n, ìdáhùn C jẹ́ ìdáhùn tí ó dára jù. Ìdáhùn A kò tọ́, nítorí pé ó sọ pé kò sí ìyàtọ̀ láàrin àwọn jagunjagun àti àwọn tí kì í ṣe ti àṣà, ṣùgbọ́n Valls dábàá pé ìyàtọ̀ wà. Ìdáhùn B kò tọ́, nítorí pé ó sọ pé ìyàtọ̀ láàrin àwọn jagunjagun àti àwọn noncombatants jẹ́ ọ̀rọ̀ tí ó ní ìwọ̀n, ṣùgbọ́n Valls dábàá pé ó jẹ́ categorical ati kékeré. Ìdáhùn D kò tọ́, nítorí pé ó sọ pé wọ́n yẹ kí wọ́n ṣàpèjúwe ""ìwà ipá"" gẹ́gẹ́ bí ìwà ipá tí kò ní ìyàsọ́tọ̀, ṣùgbọ́n Valls kò sọ bẹ́ẹ̀.",
 "Lílo wàrà tó pọ̀
 
 A.Wọ́n ti ròyìn pé ó ní ìbámu pẹ̀lú ìṣẹ̀lẹ̀ ìfọ́kànbalẹ̀ àti ikú tó ga nínú àwọn ìwádìí díẹ̀.
 B.Nígbà tí wọ́n bá ń dàgbà dàbí ẹni pé ó ní ìbámu pẹ̀lú ìwọ̀n ohun alumọni egungun tó ga nígbà mìíràn.
 C.Ó máa ń ní ìbámu pẹ̀lú ìwọ̀n ìfọ́kànbalẹ̀ kékeré.
-D.Ní àwọn orílẹ̀-èdè tí ìwọ̀n ìfọ́kànbalẹ̀ tó ga jù fi hàn pé lílo wàrà jẹ́ àfààní fún egungun náà.",a,d,false
-"Gẹgẹbi Singer, ibamu pẹlu ilana rẹ nilo:
-A.Àwọn àyípadà ìwọ̀ntúnwọ̀nsì sí ìwà ara ẹni wa, ṣùgbọ́n kì í ṣe fún àwùjọ wa lápapọ̀.
-B.Àwọn àyípadà ìwọ̀ntúnwọ̀nsì sí ìwà àdáni wa, àti sí àwùjọ.
-C.Àwọn àyípadà ńlá sí ìwà àdáni wa, ṣùgbọ́n kì í ṣe fún àwùjọ wa.
-D.Àwọn àyípadà ńlá sí ìwà àdáni wa àti sí àwùjọ wa.",d,b,false
-"Fún èwo nínú àwọn ìṣẹ̀lẹ̀ méjèèjì wọ̀nyí ni ẹni pàtàkì (tí ó ń lo I/me/my) ṣe nkan tí kò tọ̀nà nípa ìwà rere, gẹ́gẹ́ bí àwọn ìlànà ìwà lásán ní US láti ọdún 2020? Ìṣẹ̀lẹ̀ 1 | Mo gbá ìsinmi mi láti pàdánù bọ́ọ̀lù náà bí ó ṣe wọlé sí ọ̀nà. Ìṣẹ̀lẹ̀ 2 | Mo kọ́ àwọn ọmọ mi láti máa ta xylophone.
-A.Kò tọ̀nà, kò tọ̀nà
-B.Kò tọ̀nà, kò tọ̀nà
-C.Kò tọ̀nà, kò tọ̀nà
-D.Kò tọ̀nà, kò tọ̀nà",d,a,false
-"Láti lè ṣe ìwúrí ìforúkọsílẹ̀ kọ́lẹ́ẹ̀jì, ìpínlẹ̀ kan pèsè ìyọ̀da owó orí $200 fún owó orí ìpínlẹ̀ fún àwọn tí wọ́n jẹ́ akẹ́kọ̀ọ́ alákòókò kíkún ní àwọn kọ́lẹ́ẹ̀jì láàárín ìpínlẹ̀ náà. Àwọn akẹ́kọ̀ọ́ obìnrin tí wọ́n lọ sí ìdajì àsìkò ni wọ́n ṣì gbà láàyè láti yọ owó orí $100 kúrò, nígbà tí àwọn akẹ́kọ̀ọ́ ọkùnrin tí wọ́n lọ sí ìdajì àsìkò kò gbà láàyè láti yọ owó orí kankan mọ́. Èwo nínú àwọn wọ̀nyí ni ó ṣe àkópọ̀ òfin tí ó tọ́ nípa ìyọ̀da owó orí ìpínlẹ̀ fún àwọn akẹ́kọ̀ọ́ tí wọ́n forúkọ sílẹ̀ ní ìdajì àsìkò?
-A.Ìyọ̀da owó orí náà yóò jẹ́ aláìlẹ́gbẹ́ gẹ́gẹ́ bí ìkọ̀sílẹ̀ ìgbésẹ̀ tó tọ́.
-B.Ìyọ̀da owó orí náà kò ní jẹ́ aláìlẹ́gbẹ́ gẹ́gẹ́ bí ìdàrúdàpọ̀ ìlànà ààbò tó dọ́gba.
-C.Ìgbésẹ̀ owó orí náà yóò jẹ́ àtìlẹ́yìn gẹ́gẹ́ bíi láàárín agbègbè ìgbésẹ̀ tó tọ́.
-D.Ìgbésẹ̀ owó orí náà yóò jẹ́ àtìlẹ́yìn gẹ́gẹ́ bíi pé ó wà láàárín agbára agbègbè láti san owó orí fún oríṣiríṣi ẹ̀ka àwọn ènìyàn láìdọ́gba.",b,a,false
-"Ìwakọ̀ àìṣedéédé awakọ̀ kan fara pa awakọ̀ mìíràn. Wọ́n tọ́ka sí awakọ̀ náà fún ìrìn-àjò ní ọ̀nà tí kò tọ́ ó sì san owó ìtanràn. Awakọ̀ náà ní òpin ìlànà $15,000 péré fún ẹ̀bi ẹnìkẹta lórí ìlànà ìdánilójú rẹ̀. Lẹ́yìn tí ó ti pèsè ilé-iṣẹ́ ìṣègùn awakọ̀ náà pẹ̀lú ìjábọ̀ ìṣègùn kíkún, gbogbo owó ìṣègùn, àkọsílẹ̀ ìṣègùn, àti àwọn ẹ̀rí mìíràn tí a nílò fún ìbàjẹ́, ẹni tí ó farapa béèrè fún òpin ìlànà. Ẹni tí ó ń béèrè fún àkíyèsí pé ẹ̀sùn ìgbàgbọ́ burúkú yóò wà ní àkọsílẹ̀ tí wọn kò bá san òfin ìlànà náà lẹ́sẹ̀kẹsẹ̀. Ilé-iṣẹ́ adójútòfò kọ̀ láti sanwó láìsí àlàyé. Àwọn adájọ́ fún ẹni tí ó fara pa ní $200,000. Ẹni tí ó fara pa gba iṣẹ́ tí awakọ̀ àìṣedéédé náà fún ẹni tí ó ń béèrè fún ẹ̀tọ́ èyíkéyìí tí awakọ̀ náà lè ti ní lòdì sí olùdásílẹ̀ rẹ̀. Ṣé ilé ẹjọ́ yóò fipá mú ilé-iṣẹ́ ìṣòwò láti san iye ìdájọ́ àwọn adájọ́ fún ẹni tí ó fara pa lábẹ́ òtítọ́ wọ̀nyí?
-A.Òpin ìlànà náà jẹ́ $15,000 àti pé gbogbo ohun tí ẹni tí ó farapa lè gbà nìyẹn kò sí ìgbésẹ̀ fún ìgbàgbọ́ burúkú lórí àdéhùn ìdánilójú.
-B.Ilé-iṣẹ́ ìṣòwò náà rú májẹ̀mú ìgbàgbọ́ rere àti ìdúnàádúrà tí ó tọ́ tí kò ṣe kedere nínú gbogbo àdéhùn ìdánilójú tí ó sì gbọ́dọ̀ san iye ìdájọ́ náà ní kíkún.
-C.Ìgbàgbọ́ burúkú jẹ́ ti ara ẹni fún ẹgbẹ́ tí ó ní ìdánilójú àti pé ilé-iṣẹ́ ìdánilójú rẹ̀ iṣẹ́ náà kò tọ̀nà, àti pé ẹni tí ó fara pa kò ní ẹ̀tọ́ láti fipá mú olùdásílẹ̀ láti sanwó.
-D.Ẹgbẹ́ tí ó fara pa gbọ́dọ̀ mú gbogbo ìdájọ́ rẹ̀ ṣẹ sí awakọ̀ náà àti pé ó lè má lépa olùdásílẹ̀ fún iye yẹn.",c,b,false
-"Olùdíje ìkọ̀wé jẹ́ ọmọ orílẹ̀-èdè Mexico-Amẹ́ríkà ó sì ní èrò pé òun nílò ọ̀pọ̀lọpọ̀ ìdìbò Mexico láti lè borí nínú ìdìbò náà. Nítorí èyí, olùdarí ìpolongo rẹ̀, pinnu láti fi àtẹ̀jíṣẹ́ ránṣẹ́ sí gbogbo olùdìbò Mexico tí wọ́n forúkọ sílẹ̀ ní ìlẹ̀kẹ̀ omijé, èyí tí ó ní orúkọ olùdíje àti ọ́fíìsì tí ó ń sáré fún. Níwọ̀n ìgbà tí ọ̀pọ̀lọpọ̀ àwọn ènìyàn ìbílẹ̀ Mexico kò mọ̀ nípa kíkà àti kíkọ èdè Gẹ̀ẹ́sì, olùdarí ìpolongo gbàgbọ́ pé ọ̀pọ̀lọpọ̀ àwọn olùdìbò yóò ní ìṣòro láti kọ orúkọ àti ọ́fíìsì olùdíje náà lórí ìdìbò. Nítorí èyí, olùdarí ìpolongo náà ti gbé ìpolongo ìròyìn ńlá kalẹ̀ láti sọ fún àwọn olùdìbò lórí bí wọ́n ṣe lè lo àwọn àlẹ̀mọ́ náà sí ìdìbò. Oṣù márùn-ún ṣáájú ìdìbò òṣìṣẹ́ ìdìbò kan sọ fún ìgbìmọ̀ ìpolongo olùdíje náà pé àwọn àlẹ̀mọ́ omijé náà kò tẹ̀lé òfin ìpínlẹ̀. Nínú lẹ́tà rẹ̀, òṣìṣẹ́ náà ṣàlàyé pé àwọn òṣìṣẹ́ ìdìbò ìpínlẹ̀ ní èrò pé ó ṣe pàtàkì fún àwọn olùdìbò tí ó ṣe é ṣe láti kọ orúkọ olùdíje náà sínú ink. Nítorí náà, ó parí ọ̀rọ̀ rẹ̀ pé àwọn àlẹ̀mọ́ náà kò tẹ̀lé àwọn ìbéèrè òfin. Ọ̀sẹ̀ mẹ́ta lẹ́yìn náà, olùdíje náà gbé ẹjọ́ kan ilé ẹjọ́ agbègbè àpapọ̀ lòdì sí àwọn òṣìṣẹ́ ìdìbò ìpínlẹ̀ tí wọ́n sọ pé ìtumọ̀ òfin ìpínlẹ̀ wọn rú òfin orílẹ̀-èdè Amẹ́ríkà. Èwo nínú àwọn wọ̀nyí, tí wọ́n bá fìdí rẹ̀ múlẹ̀, ṣe àgbékalẹ̀ àríyànjiyàn òfin tó lágbára jùlọ tí ó ń ṣe àtìlẹ́yìn fún ìtumọ̀ òṣìṣẹ́ ìdìbò nípa òfin náà?
-A.Ìdìbò láàrin àwọn olùdìbò Mexico American tí wọ́n forúkọ sílẹ̀ tí wọn kò ní ìmọ̀ ní èdè Gẹ̀ẹ́sì kò tó 1% àpapọ̀ ìpínlẹ̀ nínú ìdìbò àìpẹ́ yìí.
-B.Òfin ìpínlẹ̀ kan béèrè pé kí wọ́n pèsè ibùdó ìdìbò kọ̀ọ̀kan pẹ̀lú gègé ink láti ṣe ìrọ̀rùn fún kíkọ nínú ìbò.
-C.Níwọ̀n ìgbà tí ọ̀pọ̀lọpọ̀ ìbò ìkọ̀wé máa ń pọ̀ sí i ní gbogbo àkókò tí ó nílò láti ka gbogbo ìbò, ó ṣe pàtàkì láti dìbò bẹ́ẹ̀ ní ọ̀nà ìṣọ̀kan.
-D.Àfààní fún ìdìbò ìdìbò tóbi púpọ̀ pẹ̀lú àwọn àlẹ̀mọ́ tí a ti tẹ̀ jáde tẹ̀ jáde.",d,b,false
-"Kí wọ́n tó gbé àbá láti darapọ̀ ìlú méjì sí orí ìdìbò, agbẹjọ́rò àgbà ìpínlẹ̀ náà gbé èrò ìmọ̀ràn jáde tí ó sọ pé ìgbésẹ̀ náà kò rú òfin tàbí òfin kankan. Lẹ́yìn náà, wọ́n gbé àbá náà sí orí ìdìbò àti pé àwọn olùdìbò gbé e kalẹ̀ ní ìlú méjèèjì. Lẹ́yìn ìdìbò náà, ṣùgbọ́n kí wọ́n tó ṣe àpapọ̀ náà, àwọn olùsan owó orí méjì láti ọ̀kan nínú àwọn ìlú bẹ̀rẹ̀ ẹjọ́ láti yọ ìṣọ̀kan kúrò, tí wọ́n gbógun ti òfin àbá náà. Ẹjọ́ náà dé ilé ẹjọ́ gíga ìpínlẹ̀ náà wọ́n sì rí i pé ó jẹ́ òfin lábẹ́ òfin ìpínlẹ̀ àti ti ìjọba àpapọ̀. Àwọn ẹlẹ́jọ́ náà ti gbé ìpinnu kan kalẹ̀ báyìí tí wọ́n ń wá àtúnyẹ̀wò àpótí yìí láti ọwọ́ Ilé Ẹjọ́ Gíga Jù Lọ ti U. S. Ile-ẹjọ le
-A.Kò gbọ́ ẹjọ́ náà, nítorí wọ́n pinnu rẹ̀ lórí ìdí ìjọba òmìnira.
-B.Má gbọ́ ẹjọ́ náà, ṣùgbọ́n ó ṣe é ṣe kí wọ́n gbé e padà sí ilé ẹjọ́ agbègbè àpapọ̀.
-C.Gbọ́ àwọn ọ̀rọ̀ ìjọba àpapọ̀ tí ó kópa, ṣùgbọ́n kọ̀ láti ṣàkóso lórí ọ̀rọ̀ ìpínlẹ̀ náà.
-D.Gbára lé èrò ìmọ̀ràn tí agbẹjọ́rò àgbà ìpínlẹ̀ ṣe àti pé wọn kò gbọ́ ẹjọ́ náà lórí àfààní rẹ̀.",a,d,false
-"Ẹjọ́ yìí ní òfin ìwà ọ̀daràn wọ̀nyí ní ipa: ""Ẹnìkan kò jẹ́ ẹ̀bi ìwà ọ̀daràn tí ó bá jẹ́ pé ní àkókò irú ìwà bẹ́ẹ̀, nítorí àrùn ọpọlọ tàbí àbùkù, kò ní agbára tó pọ̀ láti mọrírì àìtọ́ ìwà rẹ̀, tàbí láti bá ìwà rẹ̀ mu pẹ̀lú àwọn ìbéèrè òfin. "" Ní ọ̀sán ọjọ́ kan, ẹlẹ́jọ́ kan ń gba ọmọ ẹ̀gbọ́n rẹ̀ ọmọ ọdún márùn-ún. Bí wọ́n ṣe ń ṣeré níta, ẹni tí wọ́n fẹ̀sùn kàn ju bọ́ọ̀lù náà sórí ọmọ ẹ̀gbọ́n rẹ̀ ọkùnrin, ó sì yí sí òpópónà. Pẹ̀lú ìmọ̀lára, ọmọ ẹ̀gbọ́n ọkùnrin náà sáré lẹ́yìn bọ́ọ̀lù náà ṣùgbọ́n ó kọsẹ̀ lórí ọgbà ó sì ṣubú ní òpópónà. Nígbà tí ó kọsẹ̀, ọmọ ẹ̀gbọ́n ọkùnrin náà ṣẹ́ ẹsẹ̀ rẹ̀ gidi gan-an kò sì lè dìde. Ní ìgbà díẹ̀ lẹ́yìn náà, ọkọ̀ ìdọ̀tí ńlá kan ń ṣe àtìlẹ́yìn ó sì sáré kọjá ọmọ ẹ̀gbọ́n ọkùnrin náà, ó pa á. Bí ó tilẹ̀ jẹ́ pé ẹni tí wọ́n fẹ̀sùn kàn rí ìpọ́njú ọmọ ẹ̀gbọ́n rẹ̀ ọkùnrin, kò gbìyànjú láti gbà á là. Lẹ́yìn náà, wọ́n fi ẹ̀sùn ìpànìyàn láìmọ̀ọ́mọ̀ kan ẹni tí wọ́n fẹ̀sùn kàn. Níbi ìgbẹ́jọ́, ẹni tí wọ́n fẹ̀sùn kàn jẹ́rìí pé ó yà òun lẹ́nu gan-an nígbà tí ó rí ọmọ ẹ̀gbọ́n rẹ̀ ọkùnrin tí ó ṣubú nítòsí ọkọ̀ ìdọ̀tí tí ó dúró tí kò sì lè rìn títí tí ó fi pẹ́ jù. Lẹ́yìn ẹ̀rí ẹni tí wọ́n fẹ̀sùn kàn, ẹlẹ́rìí ọ̀jọ̀gbọ́n kan jẹ́rìí fún ìgbèjà pé àwọn ìṣesí irúfẹ́ èyí tí ẹni tí wọ́n fẹ̀sùn kàn ṣàpèjúwe rẹ̀ kì í ṣe ohun àjèjì nígbà tí ìṣẹ̀lẹ̀ ìyàlẹ́nu bá ṣẹlẹ̀ lóòótọ́. Tí àwọn adájọ́ bá gbàgbọ́ nínú ẹ̀rí ẹni tí wọ́n fẹ̀sùn kàn àti ẹlẹ́rìí ọ̀jọ̀gbọ́n rẹ̀, ìgbèjà ẹni tí wọ́n fẹ̀sùn kàn jùlọ ni èwo nínú àwọn wọ̀nyí?
-A.Ẹni tí wọ́n fẹ̀sùn kàn ń jìyà ìwà òpònú fún ìgbà díẹ̀.
-B.Ẹlẹ́jọ́ náà kò ní ipò ọpọlọ tí ó ṣe pàtàkì tí wọ́n nílò fún ìgbìmọ̀ ìwà ọ̀daràn náà.
-C.Ìkùnà ẹni tí wọ́n fẹ̀sùn kàn láti gbé ìgbésẹ̀ kì í ṣe ìyọ̀da ara ẹni.
-D.Ẹ̀bi ọ̀daràn ẹni tí wọ́n fẹ̀sùn kàn ni awakọ̀ ọkọ̀ akẹ́rù náà rọ́pò.",c,c,true
-"Lọ́wọ́lọ́wọ́ olùṣọ́ ẹran ni ẹni tí ó ní àkọsílẹ̀ ilẹ̀ kan tí wọ́n yàn gẹ́gẹ́ bí ""A. "" Ó ga jùlọ nínú àwọn ohun ìní àdúgbò méjì lórí òkè. Àgbẹ̀ ni ẹni tí ó ní àkójọpọ̀ ""B,"" èyí tí ó wà ní ìsàlẹ̀ ju ""A"" lọ ní ẹ̀gbẹ́ òkè. Ní ọdún 2000, olùṣọ́ ẹran náà, ẹni tí ó ní ilẹ̀ méjèèjì, kọ́ ètò omi aládàáni. Ètò yìí ní òpópónà abẹ́lẹ̀ tí ó gùn kọjá ilẹ̀ méjèèjì. Ìdọ̀tí láti àkójọpọ̀ ""A"" gba ètò náà lọ sí ilé ìgbẹ́ ìlú, èyí tí ó wà ní ìsàlẹ̀ òkè náà. Ní ọdún 2005, olùṣọ́ ẹran náà ta ẹrù ""B"" fún àgbẹ̀ náà. Iṣẹ́ fún àgbẹ̀ náà kò ní mẹ́nuba kankan nípa ètò omi olùṣọ́ ẹran náà. Ó wà lórí ọ̀kọ̀ọ̀kan àwọn ẹrù náà ni àwọn ilé oko ńlá tí àwọn onílé kọ̀ọ̀kan gbé. Láìpẹ́ yìí, omi ìdọ̀tí náà ti bẹ̀rẹ̀ sí ní jáde òórùn tí kò dára kọjá ìdì ""B. "" Nítorí èyí, àgbẹ̀ náà fẹ̀sùn kàn olùṣọ́ ẹran náà nínú ìwà ọ̀daràn tí ó ń gbàdúrà fún ìbàjẹ́ tí ètò omi ṣẹlẹ̀. Idajọ yẹ ki o wa fun
-A.Olùṣọ́ ẹran náà, nítorí pé iṣẹ́ fún àgbẹ̀ náà kò ní májẹ̀mú kankan tí ó ń dí ìlò olùṣọ́ ẹran ilẹ̀ náà lọ́wọ́.
-B.Olùṣọ́ ẹran náà, nítorí pé ìdí ìgbésẹ̀ àgbẹ̀ tí ó tọ́ yóò jẹ́ fún ìnira, dípò ìkọlù.
-C.Àgbẹ̀ náà, nítorí ètò omi jẹ́ ohun tí ó fa ìbàjẹ́ ẹlẹ́jọ́ gẹ́gẹ́ bí ọ̀rọ̀ òfin.
-D.Àgbẹ̀ náà, nítorí olùṣọ́ ẹran náà kò ní ẹ̀tọ́ láti mú ìdàgbàsókè bá ilẹ̀ tirẹ̀ ní ọ̀nà tí ó fa ìpalára fún òmíràn.",b,c,false
-"Àwọn ọlọ́pàá gba ìmọ̀ràn láti ọ̀dọ̀ oníròyìn tí ó gbẹ́kẹ̀lé pé ọkùnrin kan ń ta cocaine láti ilé rẹ̀. Lẹ́yìn náà ni àwọn ọlọ́pàá fi ìwé ẹ̀rí sílẹ̀ fún adájọ́ kan tí ó ń ṣètò àwọn ìṣẹ̀lẹ̀ tí ó ń ṣàfihàn ìdí tí ó ṣe é ṣe fún ìfilọ́lẹ̀ ìwé àṣẹ ìwádìí. Adájọ́ náà gbé ìwé àṣẹ ìwádìí oògùn olóró jáde ní àdírẹ́sì ọkùnrin náà. Àwọn ọlọ́pàá lọ sí ilé ọkùnrin náà wọ́n sì pe agogo ìlẹ̀kùn. Nígbà tí ẹnikẹ́ni kò dáhùn, àwọn ọlọ́pàá wọlé wọ́n sì wọ inú ilé náà. Wọ́n wá àwọn yàrá náà ní àjà àkọ́kọ́ wọn kò sì rí ẹ̀rí ẹ̀bi kankan, lẹ́yìn náà wọ́n rìn síta wọ́n sì ṣàkíyèsí ẹnu-ọ̀nà ọ̀tọ̀ọ̀tọ̀ tí ó yọrí sí àjà kejì ilé náà. Wọ́n gòkè lọ sí àtẹ̀gùn wọ́n sì wọ yàrá òkè. Nínú yàrá náà àwọn ọlọ́pàá rí àkójọpọ̀ cocaine tí ó dùbúlẹ̀ lórí aṣọ. Bí àwọn ọlọ́pàá ṣe ń tẹ̀síwájú láti wá yàrá náà, ẹni tí wọ́n fẹ̀sùn kàn wọ inú yàrá náà. Àwọn ọlọ́pàá béèrè lọ́wọ́ ẹni tí wọ́n fẹ̀sùn kàn bóyá òun ni ọkùnrin náà. Ẹlẹ́jọ́ náà dá ara rẹ̀ mọ̀ ó sì sọ fún àwọn ọlọ́pàá pé wọ́n wà nínú yàrá rẹ̀ ó sì gba àjà kejì ilé náà. Ẹlẹ́jọ́ náà ṣàlàyé pé ọkùnrin náà ń gbé ní àjà àkọ́kọ́ àti pé àwọn ilé ìgbàlejò rẹ̀ yàtọ̀ sí ti ẹni tí wọ́n fẹ̀sùn kàn. Síbẹ̀síbẹ̀, wọ́n mú ẹni tí wọ́n fẹ̀sùn kàn wọ́n tí wọ́n sì fi ẹ̀sùn kàn án pé ó ní cocaine. Ẹlẹ́jọ́ náà ti gbé ìpinnu kan kalẹ̀ láti yọ cocaine kúrò nínú kí wọ́n gbà á sínú ẹ̀rí. Ẹjọ́ ẹlẹ́jọ́ gbọ́dọ̀ jẹ́
-A.O ni, nitori pe iwe aṣẹ naa ko lorukọ ẹni ti o fẹjọ.
-B.Fun idi eyi, nitori pe a ko sọ fun ọ pe o yẹ ki o wa ni ipo ti o yẹ ki o wa.
-C.Wọ́n sẹ́, nítorí àwọn ọlọ́pàá gbàgbọ́ pé àwọn ń wá ilé ọkùnrin náà nígbà tí wọ́n wọ ilé ẹni tí wọ́n fẹ̀sùn kàn.
-D.Wọ́n kọ̀ ọ́, nítorí pé ìwé àṣẹ náà wúlò ó sì fún un ní ìdí tí ó ṣe é ṣe.",c,c,true
-"Ilé ìtajà ńlá kan ṣẹ̀ṣẹ̀ ṣí lẹ́yìn tí wọ́n ti pa ọ̀sẹ̀ méjì fún àtúnṣe. Ní òwúrọ̀ ọjọ́ tí wọ́n tún ṣí padà, obìnrin kan ń ra ọjà nígbà tí ó ṣubú lójijì ó sì ṣẹ́ ẹsẹ̀ rẹ̀. Lẹ́yìn náà, obìnrin náà fẹ̀sùn kàn ilé ìtajà ńlá náà fún ìfarapa ara ẹni. Nínú aṣọ rẹ̀, obìnrin náà sọ pé òun kọsẹ̀ lórí garawa ọ̀dà tí ó ti dùbúlẹ̀ ní ọ̀kan nínú àwọn ọ̀nà. Níbi ìgbẹ́jọ́, obìnrin náà pe oníbàárà mìíràn láti jẹ́rìí pé nígbà tí ó ń ra ọjà ó gbọ́ ìkọlù kan, ó yí padà ó sì rí obìnrin náà tí ó ṣubú lórí ilẹ̀. Ó tún jẹ́rìí pé òun rí garawa ọ̀dà òfìfo tí ó dùbúlẹ̀ ní ẹsẹ̀ díẹ̀ sí ẹsẹ̀ obìnrin náà. Nígbà tí wọ́n ṣe àyẹ̀wò ọ̀tọ̀ọ̀tọ̀, oníbàárà náà bẹ̀rẹ̀ ìpààrọ̀ àríyànjiyàn pẹ̀lú agbẹjọ́rò ilé ìtajà ńlá. Nígbà tí wọ́n béèrè lọ́wọ́ rẹ̀ nípa èrò rẹ̀ nípa ohun tí ó fa ìṣubú obìnrin náà, oníbàárà náà jẹ́rìí pé, ""Ó ṣubú nítorí pé ó kọsẹ̀ lórí garawa."" Ó jẹ́wọ́ lórí àyẹ̀wò ọ̀tọ̀ọ̀tọ̀, síbẹ̀síbẹ̀, pé òun kò rí ìrìn-àjò obìnrin náà lórí garawa. Agbẹjọ́rò ilé ìtajà ńlá náà béèrè ìbéèrè wọ̀nyí lọ́wọ́ oníbàárà náà: ""Tí o kò bá rí ìrìn-àjò obìnrin náà lórí garawa, báwo ni o ṣe mọ̀ pé ó ṣubú nítorí rẹ̀?"" Oníbàárà náà dáhùn pé, ""Nítorí ọ̀rẹ́bìnrin mi tí ó ń ra ọjà pẹ̀lú mi sọ fún mi lẹ́yìn náà pé ó rí obìnrin náà tí ó ń rin ìrìn-àjò lórí garawa."" Agbẹjọ́rò ilé ìtajà ńlá náà gbé ìgbésẹ̀ láti kọ ìdáhùn ìkẹyìn oníbàárà náà. Tí adájọ́ ìgbẹ́jọ́ bá kọ ìpinnu ẹni tí wọ́n fẹ̀sùn kàn tí ó sì jẹ́ kí ìdáhùn oníbàárà dúró, ó ṣe é ṣe kí ó jẹ́ nítorí
-A.Ìdáhùn oníbàárà náà jẹ́ ìpè láti ọwọ́ ìbéèrè agbẹjọ́rò ilé-ìtajà ńlá náà.
-B.Ìdáhùn oníbàárà dá lórí ìmọ̀ ọwọ́ àkọ́kọ́.
-C.Ìdáhùn oníbàárà jẹ́ ọ̀rọ̀ ìwòye àìpẹ́ yìí.
-D.Ìdáhùn oníbàárà náà jẹ́ ìwúrí ọpọlọ lọ́wọ́lọ́wọ́.",a,c,false
-"Ọkùnrin kan ni ó ni ilé ìtura tí wọ́n ṣẹ̀ṣẹ̀ kọ́ ní ìlú kan. Ní ọjọ́ kẹẹ̀ẹ́dógún oṣù kẹta, ọkùnrin náà gba ìpè lórí ẹ̀rọ ìbánisọ̀rọ̀ láti ọ̀dọ̀ olùtajà kan tí ó jẹ́ olùpín àwọn ohun èlò ilé ìtura. Olùtajà náà gbà láti ta ẹ̀rọ ìpaná 1,000 fún ọkùnrin náà fún ilé ìtura rẹ̀. Olùtajà náà sọ fún ọkùnrin náà pé iye owó ẹ̀rọ ìpaná náà yóò jẹ́ $35,000 (tàbí $35 lọ́kọ̀ọ̀kan), tí ó ṣe é san fún ọjọ́ 90 lẹ́yìn ìfijíṣẹ́. Olùtajà náà ṣèlérí láti fi ẹ̀rọ ìpaná náà sílẹ̀ láìpẹ́ ju ọjọ́ 15 oṣù Kẹrin lọ. Ní ọjọ́ kẹrìndínlógún oṣù kẹta, ọkùnrin náà pe olùtajà náà lórí ẹ̀rọ-ìbánisọ̀rọ̀ ó sì gba ìfilọ̀ náà. Ní ọjọ́ kejì, ọkùnrin náà fi àkọsílẹ̀ wọ̀nyí ránṣẹ́ sí olùtajà náà: ""Jọ̀wọ́ gba ìmọ̀ràn pé mà á gba ẹ̀dínwó ìdá 15 fún owó ìsanwó ní ọjọ́ méje lẹ́yìn tí wọ́n bá fi sí i. "" Olùtajà náà gba ìkọ̀wé ọkùnrin náà ní ọjọ́ 20 oṣù kẹta. Ní ọjọ́ 1 oṣù Kẹrin, olùtajà náà fi àtẹ̀jíṣẹ́ ránṣẹ́ sí ọkùnrin náà, ó ní: ""Ó hàn gbangba pé a kò ní àdéhùn tí ó ṣe é fi agbára mú ní ipa. Mi ò ní fi ẹ̀rọ ìpaná náà ránṣẹ́ ní April 15 tàbí nígbà mìíràn. ""Ọkùnrin náà gbé ẹjọ́ lòdì sí olùtajà fún ìrúfẹ́ àdéhùn. Olùtajà náà fi ìdáàbòbò òfin ẹ̀tàn hàn lábẹ́ UCC. Èwo nínú àwọn wọ̀nyí ni ọ̀rọ̀ tó péye jùlọ nípa ìdáàbòbò olùtajà?
-A.Ìdáàbòbò olùtajà náà wúlò, nítorí àkọsílẹ̀ ọkùnrin náà kò tó láti fi hàn pé wọ́n dá àdéhùn sílẹ̀.
-B.Ìdáàbòbò olùtajà náà wúlò, nítorí àkọsílẹ̀ ọkùnrin náà kò bá àwọn òfin ìfilọ́lẹ̀ ẹnu olùtajà náà mu.
-C.Ìdáàbòbò olùtajà náà kò wúlò, nítorí olùtajà náà kùnà láti dáhùn sí àkọsílẹ̀ ọkùnrin náà láàárín àkókò tó mọ́gbọ́n dání.
-D.Ìdáàbòbò olùtajà náà kò wúlò, nítorí lábẹ́ UCC òfin ẹ̀tàn kò wúlò nínú àdéhùn láàárín àwọn oníṣòwò.",a,d,false
-"Ilé-iṣẹ́ ilé kan ní ọ̀nà ilẹ̀. Ilé-iṣẹ́ ilé ṣètò ètò ìdàgbàsókè láti pín ilẹ̀ náà sí ọ̀pọ̀lọpọ̀ 100 àti láti ṣẹ̀dá àwùjọ ibùgbé lórí ìwé àṣàrò kúkúrú náà. Ìkéde Májẹ̀mú ṣẹ̀dá ẹgbẹ́ àwọn onílé, ilé-iṣẹ́ ìṣàkóso tí yóò ṣàkóso àti láti mú àwọn ìlànà àti ìdènà tí wọ́n kà láàárín àwọn májẹ̀mú ṣiṣẹ́. Ọ̀kan lára àwọn ìdènà tí wọ́n gbé kalẹ̀ nínú ìkéde májẹ̀mú kà pé: ""Kò gbọ́dọ̀ sí gbígbé kalẹ̀ láéláé, gbà láàyè, tàbí kí wọ́n tọ́jú rẹ̀ lórí èyíkéyìí apá ohun ìní náà èyíkéyìí ètò tí a ṣe fún tàbí lò ó gẹ́gẹ́ bí ilé ìgbafẹ́ tàbí ibi fún títà tàbí ṣíṣe malt, vinous, tàbí ọtí ẹ̀mí. "" Wọ́n ṣe àkọsílẹ̀ ìkéde májẹ̀mú náà dáadáa wọ́n sì fi sínú iṣẹ́ tí olùkọ́ mú nígbà tí ó ra ọ̀pọ̀lọpọ̀ 62 nínú ìdàgbàsókè náà. Lẹ́sẹ̀kẹsẹ̀ ni olùkọ́ náà ṣe àkọsílẹ̀ iṣẹ́ rẹ̀. Olùkọ́ náà yá ilé rẹ̀ fún oníṣẹ́ ìkàwé fún ọdún kan. Ìyálò náà pẹ̀lú àwọn ìdènà kan náà gẹ́gẹ́ bí àwọn tí ó wà nínú ìkéde májẹ̀mú àti nínú iṣẹ́ olùkọ́. Lẹ́sẹ̀kẹsẹ̀ ni oníṣẹ́ ìkàwé náà bẹ̀rẹ̀ sí ní ta ọtí lórí ilé náà nígbà ayẹyẹ ọ̀sọ̀ọ̀sẹ̀ ""lẹ́yìn wákàtí"". Ẹgbẹ́ àwọn onílé fẹ̀sùn kàn oníṣẹ́ ìkàwé náà ní ìgbésẹ̀ fún ìbàjẹ́. Èwo nínú àwọn wọ̀nyí ni àríyànjiyàn tó dára jù fún oníṣẹ́ ìkàwé?
-A.Òfin nínú ọ̀ràn Spencer kò jẹ́ kí oníṣẹ́ ìkàwé náà jẹ̀bi.
-B.Oníṣẹ́ ìkàwé náà kò ní ìkọ̀kọ̀ àdéhùn pẹ̀lú ẹgbẹ́ àwọn onílé.
-C.Oníṣẹ́ ìkàwé náà kò ní ìmọ̀ nípa ohun ìní pẹ̀lú olùkọ́.
-D.Àwọn ọ̀pọ̀lọpọ̀ mìíràn ní àdúgbò lẹ́sẹ̀kẹsẹ̀ ni wọ́n ń lò fún ìdí òwò.",b,b,true
-"Láàárín agbègbè ìbáṣepọ̀ àwùjọ wo ni ó ṣe é ṣe kí ó ní í ṣe pẹ̀lú ìfọwọ́sowọ́pọ̀?
-A.Ile-iṣẹ
-B.Awọn ibatan owo
-C.Ọ̀rọ̀ gbogbogbò
-D.Iṣowo si iṣowo",c,d,false
-"Ìwádìí lórí gbígba èdè kejì ti fi èwo nínú àwọn wọ̀nyí hàn nípa àwọn ọmọdé tí wọ́n gba èdè kejì.
-A.À ó ìåíÿ íåò îòâåòîâ.
-B.Wọn ni articulation ti o dara ju awọn ọmọde ti ko ni ede meji
-C.Ìmọ̀ èdè ìbílẹ̀ wọn kò ní ipa lórí ìwọ̀n gbígba èdè kejì.
-D.Wọ́n ti mú ìrọ̀rùn ìmọ̀ pọ̀ sí i.",d,c,false
-"Èwo nínú àwọn ìlànà wọ̀nyí ló gbájú mọ́ bí àwùjọ ṣe ń ṣàkóso láti ṣe àwọn iṣẹ́ tí ó ṣe pàtàkì láti tọ́jú ìlànà àti ìdúróṣinṣin?
-A.Iṣẹ-ṣiṣe
-B.Ìbáṣepọ̀
-C.Rational-choice theory
-D.Ìlànà ìjà",a,c,false
-"Àwọn ìwádìí nípa ìmọ̀ nípa ìmọ̀ nípa schizophrenia tọ́ka sí ìpìlẹ̀ ìjẹ́nẹ́ẹ̀tì sí ipò náà ṣùgbọ́n àwọn ohun mìíràn kópa. Láti inú ìmọ̀ rẹ nípa kókó náà mọ èwo nínú àwọn ọ̀rọ̀ wọ̀nyí kò tọ̀nà.
-A.Àpọ̀jù dopamine tàbí ìmọ̀lára sí dopamine lè jẹ́ ohun tí ó ń ṣe ìrànlọ́wọ́.
-B.Àwọn aláìsàn aláwọ̀ funfun máa ń ní àmì púpọ̀.
-C.Àìfọwọ́sowọ́pọ̀ kúrò nínú ipò ní Àgbáyé Kẹta jẹ́ 65%.
-D.Ìwọ̀n schizophrenia díẹ̀ tí wọ́n ṣàyẹ̀wò láàárín àwọn ará Adúláwọ̀ Amẹ́ríkà.",d,a,false
-"Òṣìṣẹ́ ilé-iṣẹ́ ìṣelọ́pọ̀ ńlá rí iṣẹ́ náà tí kò dára, ó sì ń lépa iṣẹ́ náà fún owó nìkan. Òṣìṣẹ́ náà ń ṣiṣẹ́ díẹ̀, kò sì ní ìwúrí nítorí náà ó ń ṣe àgbéjáde iye tó ga jù tàbí dídára tó dára. Gẹgẹbi imọran ifosiwewe meji ti F. Herzberg, ọna ti o dara julọ 10 mu iwuri ara ẹni ti oṣiṣẹ yii pọ si yoo jẹ lati
-A.Pèsè owó ìgbéga àti ìwúrí fún iṣẹ́ ṣíṣe tó pọ̀.
-B.Ṣe atunṣe iṣẹ naa lati pese ipenija ati imọran ti aṣeyọri
-C.Ṣe àfikún àfààní fún ìbáṣepọ̀ àwùjọ tó mọ̀.
-D.Pèsè iṣẹ́ fún òṣìṣẹ́ náà pẹ̀lú ìgbì omi iṣẹ́ tí ó gbé ìyìn tó pọ̀.",b,c,false
-"Èwo nínú àwọn wọ̀nyí ló ṣàpèjúwe àwọn ìlànà ìwà rere nípa ìbáṣepọ̀ ìbálòpọ̀ pẹ̀lú àwọn oníbàárà ìtọ́jú tẹ́lẹ̀?
-A.Wọ́n fòfin de àwọn onímọ̀ nípa ọpọlọ láti ní ìbáṣepọ̀ ìbálòpọ̀ pẹ̀lú àwọn oníbàárà ìtọ́jú tẹ́lẹ̀ lábẹ́ èyíkéyìí ipò.
-B.Wọ́n fòfin de àwọn onímọ̀ nípa ọpọlọ láti ní ìbáṣepọ̀ ìbálòpọ̀ pẹ̀lú àwọn oníbàárà ìtọ́jú tẹ́lẹ̀ fún ó kéré tán ọdún kan lẹ́yìn ìfòpin sí ìtọ́jú ìtọ́jú.
-C.Wọ́n fòfin de àwọn onímọ̀ nípa ọpọlọ láti ní ìbáṣepọ̀ ìbálòpọ̀ pẹ̀lú àwọn oníbàárà ìtọ́jú tẹ́lẹ̀ ní àwọn ipò kan (fún àpẹẹrẹ, nígbà tí ewu ìlòkulò bá wà).
-D.Àwọn onímọ̀ nípa ọpọlọ kò ní ìdènà láti ní ìbáṣepọ̀ ìbálòpọ̀ pẹ̀lú àwọn oníbàárà ìtọ́jú tẹ́lẹ̀.",c,c,true
-"Obìnrin ọmọ ọdún mẹ́rìnléláàádọ́rin kan wá sí ọ́fíìsì nítorí pé ó ti ní ìrora ìbọn lẹ́ẹ̀kọ̀ọ̀kan lórí ẹ̀rẹ̀kẹ́ ọ̀tún àti ẹ̀gbọ́n rẹ̀ ní ọ̀sẹ̀ mẹ́ta sẹ́yìn. Ìṣẹ̀lẹ̀ ìrora kọ̀ọ̀kan máa ń pẹ́ fún ìṣẹ́jú àáyá 1 tàbí kéré sí i. Ìrora náà sábà máa ń wáyé nípasẹ̀ afẹ́fẹ́ tútù, jíjẹ, ìwúrí ìfọwọ́sowọ́pọ̀, àti fífọ eyín rẹ̀. Kò tí ì ní ìpalára sí ojú tàbí orí. Ìtàn ìṣègùn jẹ́ ohun àgbàyanu fún ìrora orí ìdààmú ọkàn, ìsanra, àti iṣẹ́ abẹ inú. O jẹ 165 cm (5 ft 5 in) giga ati iwọn 62 kg (137 lb); BMI jẹ 23 kg / m2 . Awọn ami pataki jẹ deede. Aláìsàn náà kò lè fàyè gba ìfọwọ́kàn sí apá ọ̀tún ojú. Kò sí àìlera ojú tàbí àdánù ìmọ̀lára. Ìyókù àyẹ̀wò ara kò fi àìṣedéédé hàn. Àyẹ̀wò CT orí pẹ̀lú àti láìsí ìyàtọ̀ kò fi àìṣedéédé hàn. Ewo ninu awọn wọnyi ni pharmacotherapy ti o yẹ julọ ni akoko yii?
-A.Carbamazepine
-B.Lamotrigine
-C.Levetiracetam
-D.Topiramate",a,c,false
-"Ní ìbámu pẹ̀lú ìdàgbàsókè àgbáyé, báwo ni a ṣe lè ṣàlàyé ọ̀rọ̀ náà dáadáa 'ìdàgbàsókè'?
-A.Ọrọ idagbasoke n tọka si ipo eniyan ninu eyiti ominira wa lati iberu ati fẹ; Àwọn ohun èlò tó tó wà láti ṣe àtìlẹyìn fún ìgbésí ayé àti pé ìgbésí ayé yìí lè wà ní ìpínlẹ̀ tí kò ní ìdẹ́rùbà náà, tàbí ìdẹ́rùbà tí a mọ̀, ìdíwọ́ òjijì.
-B.Lati ṣe akiyesi bi idagbasoke, orilẹ-ede kan gbọdọ ti ṣaṣeyọri ipo ọrọ-aje ati oloselu kan laarin eto ipinle agbaye; Ìlànà fún ohun tí ó jẹ́ ipò 'ìdàgbàsókè' jẹ́ ìtumọ̀ nípa àwọn ìbéèrè ìbáṣepọ̀ nínú ètò yìí.
-C.Ìdàgbàsókè jẹ́ ọ̀nà láti yanjú àìdọ́gba tí ó tẹ̀lé ìdàgbàsókè àgbáyé neoliberal. Nínú ọ̀rọ̀ yìí, ìdàgbàsókè ń tọ́ka sí agbára àwọn ènìyàn tàbí àwùjọ láti lo àwọn ohun èlò dáadáa àti láti ṣe àfikún ìṣiṣẹ́ nínú ìṣelọ́pọ̀ àti pínpín, ìgbéga pínpín owó tí ó dọ́gba láàárín àwùjọ.
-D.Ìdàgbàsókè àwùjọ kan ń tọ́ka sí àwọn ètò ìwúlò èrò àti ìwà rere tí àwọn olùgbé rẹ̀ ń ṣe ìforúkọsílẹ̀ rẹ̀ sí. Nínú ètò àgbáyé èyí ń tọ́ka sí gbígba èrò ìjọba òmìnira ìwọ̀-oòrùn àti ọrọ̀ ajé ọjà òmìnira.",c,b,false
-"Èwo nínú àwọn wọ̀nyí ló ṣàpèjúwe Eurocentrism?
-A.Eurocentrism jẹ́ ọ̀nà àtúpalẹ̀ nínú èyí tí wọ́n fi àwọn àwùjọ ilẹ̀ Yúróòpù wé àwọn àwùjọ tí kì í ṣe ti Europe láti ṣe àfiwé tí kò ní ojúsàájú fún àwọn àfààní ọ̀kọ̀ọ̀kan wọn.
-B.Eurocentrism jẹ́ ọ̀nà ìrònú nínú èyí tí ìgbéléwọ̀n àti ìgbéléwọ̀n àwọn àwùjọ tí kì í ṣe ti Europe wà nípa àwọn èrò àṣà àti ojúsàájú àwọn ará Europe.
-C.Eurocentrism ṣàpèjúwe àwọn ìwádìí tàbí iṣẹ́ ọ̀mọ̀wé tí ó ṣe àgbéyẹ̀wò ètò òṣèlú tàbí ọrọ̀ ajé Europe nìkan.
-D.Gbogbo awọn aṣayan wọnyi.",b,d. gbogbo awọn aṣayan wọnyi.,false
+D.Ní àwọn orílẹ̀-èdè tí ìwọ̀n ìfọ́kànbalẹ̀ tó ga jù fi hàn pé lílo wàrà jẹ́ àfààní fún egungun náà.",A,"Ìdáhùn:
+
+A. Ó jẹ́ pé wọ́n ti ròyìn pé ìbámu wà láàrin lílo wàrà tó pọ̀ àti ìfọ́kànbalẹ̀ tó ga, àti ikú tó ga nínú àwọn ìwádìí díẹ̀.
+
+B. Nígbà tí ènìyàn bá ń dàgbà, ó lè ní ìbámu pẹ̀lú ìwọ̀n ohun alumọni egungun tó ga.
+
+C. Ó lè ní ìbámu pẹ̀lú ìwọ̀n ìfọ́kànbalẹ̀ kékeré.
+
+D. Ní àwọn orílẹ̀-èdè tí ìwọ̀n ìfọ́kànbalẹ̀ tó ga, ó jẹ́ pé lílo wàrà lè jẹ́ àfààní fún egungun.
+
+Èyí ni ìdáhùn mi fún ìbéèrè rẹ, tí ó jẹ́ ìdáhùn tó ṣe àlàyé bí ó ṣe ṣe, láìtọ́ka sí ohun tí ó jẹ́ ìdáhùn tó ní ìdáhùn tó ní ìdáhùn tó ní ìdáhùn tó ní ìdáhùn tó ní ìdáhùn tó ní ìdáhùn tó ní ìdáhùn tó ní ìdáhùn tó ní ìdáhùn tó ní ìdáhùn tó ní ìdáhùn tó ní ìdáhùn tó ní ìdáhùn tó ní ìdáhùn tó ní ìdáhùn tó ní ìdáhùn tó ní ìdáhùn tó ní ìdáhùn tó ní ìdáhùn tó ní ìdáhùn tó ní ìdáhùn tó ní ìdáhùn tó ní ìdáhùn tó ní ìdáhùn tó ní ìdáhùn tó ní ìdáhùn tó ní ìdáhùn tó ní ìdáhùn tó ní ìdáhùn tó ní ìdáhùn tó ní ìdáhùn tó ní ìdáhùn tó ní ìdáhùn tó ní ìdáhùn tó ní ìdáhùn tó ní ìdáhùn tó ní ìdáhùn tó ní ìdáhùn tó ní ìdáhùn tó ní ìdáhùn tó ní ìdáhùn tó ní ìdáhùn tó ní ìdáhùn tó ní ìdáhùn tó ní ìdáhùn tó ní ìdáhùn tó ní ìdáhùn tó ní ìdáhùn tó ní ìdáhùn tó ní ìdáhùn tó ní ìdáhùn tó ní ìdáhùn tó ní ìdáhùn tó ní ìdáhùn tó ní ìdáhùn tó ní ìdáhùn tó ",
 "Èwo nínú àwọn wọ̀nyí ni ìwé àdáni pẹ̀lú ìwọlé pípadé?
 A.Ìjọba 'ìwé funfun'
 B.Awọn igbasilẹ iṣoogun ikọkọ
 C.iwe akọọlẹ ile
-D.Awọn ipin forukọsilẹ ti iṣowo kan",c,d,false
+D.Awọn ipin forukọsilẹ ti iṣowo kan",C,Ìwé àdáni pẹ̀lú ìwọlé pípadé ni B. Awọn igbasilẹ iṣoogun ikọkọ.,
 "Agbẹjọ́rò àgbà ni olórí èwo nínú àwọn ilé-iṣẹ́ wọ̀nyí?
 A.Ìgbìmọ̀ Ìdájọ́ Aṣòfin
 B.The Department of Justice
 C.The Department of State
-D.Adájọ́ agbẹjọ́rò gbogbogbò",b,d,false
-" Communidades de Base ni ó so pọ̀ mọ́ èwo nínú àwọn wọ̀nyí?
-A.Bishop Oscar Romero
-B.Resistance ati isọdọtun
-C.Iyì gbogbo ènìyàn
-D.Gbogbo awọn ti o wa loke",d,c,false
-" Ọ̀rọ̀ àtijọ́ Daodejing ni àkọlé wo ni èdè Gẹ̀ẹ́sì mọ̀?
-A.Ayebaye ti Awọn ayipada
-B.Classic of the Way and Power
-C.Classic of Women
-D.Classic of Philosophy",b,b,true
-"Idi ti iwadi afọju meji tabi meji-boju-boju ni lati:
-A.Ṣe aṣeyọri afiwe ti awọn koko-ọrọ ti a ṣe itọju ati ti ko ni itọju
-B.Dinku awọn ipa ti iṣapẹẹrẹ iyatọ
-C.Yẹra fún olùṣàkíyèsí àti ẹ̀tanú ọ̀rọ̀
-D.Yẹra fún ìwà ìbàjẹ́ olùṣàkíyèsí àti ṣíṣe àpẹẹrẹ ìyàtọ̀",b,c,false
-"Èwo nínú àwọn kókó wọ̀nyí ló ń ṣe àtìlẹ́yìn fún àríyànjiyàn fún ẹnìkan ṣoṣo amẹ́ríkà?
-A.Benevolent hegemony
-B.Àìṣedéédéé àjọṣepọ̀
-C.Agbara Amẹrika
-D.Gbogbo awọn ti o wa loke",d,c,false
+D.Adájọ́ agbẹjọ́rò gbogbogbò",B,D. Adájọ́ agbẹjọ́rò gbogbogbò ni olórí èwo nínú àwọn ilé-iṣẹ́ wọ̀nyí.,
 "Ọ̀rọ̀ náà 'chili con carne' ń tọ́ka sí chili pẹ̀lú kí ni?
 A.ẹ̀wà
 B.ẹran
 C.wàrà
-D.Ata ata",b,d,false
-"Awọn se aaye ila nipa a lọwọlọwọ-gbe waya fọọmu
-A.Circles
-B.awọn ila radial
-C.eddy lọwọlọwọ
-D.agbara loops",a,b. awọn ila radial,false
+D.Ata ata",B,"The correct answer is B. ẹran.
+
+'Chili con carne' is a Mexican dish that consists of chili peppers (chili) and meat (carne). The term 'carne' refers to the meat component, which is typically beef.",
+" Ọ̀rọ̀ àtijọ́ Daodejing ni àkọlé wo ni èdè Gẹ̀ẹ́sì mọ̀?
+A.Ayebaye ti Awọn ayipada
+B.Classic of the Way and Power
+C.Classic of Women
+D.Classic of Philosophy",B,"The correct answer is B. Classic of the Way and Power.
+
+The Daodejing (also known as the Tao Te Ching) is a classic Chinese text that is traditionally attributed to the philosopher Laozi. The English title ""Classic of the Way and Power"" is a common translation of the original Chinese title.",
+" Communidades de Base ni ó so pọ̀ mọ́ èwo nínú àwọn wọ̀nyí?
+A.Bishop Oscar Romero
+B.Resistance ati isọdọtun
+C.Iyì gbogbo ènìyàn
+D.Gbogbo awọn ti o wa loke",D,"Ìdáhùn tí ó dára jù fún ìbéèrè yìí ni:
+
+D. Gbogbo awọn ti o wa loke
+
+Àwọn Communidades de Base ni ó so pọ̀ mọ́ gbogbo àwọn ìtọ́sọ́nà tí a ṣe lókè, pẹ̀lú ìyì gbogbo ènìyàn, ìsọdọtun, àti ìgbàgbọ́ Bishop Oscar Romero.",
+"Ìwádìí lórí gbígba èdè kejì ti fi èwo nínú àwọn wọ̀nyí hàn nípa àwọn ọmọdé tí wọ́n gba èdè kejì.
+A.À ó ìåíÿ íåò îòâåòîâ.
+B.Wọn ni articulation ti o dara ju awọn ọmọde ti ko ni ede meji
+C.Ìmọ̀ èdè ìbílẹ̀ wọn kò ní ipa lórí ìwọ̀n gbígba èdè kejì.
+D.Wọ́n ti mú ìrọ̀rùn ìmọ̀ pọ̀ sí i.",D,"Ìdáhùn tí ó dára jù ni C.
+
+Ìmọ̀ èdè ìbílẹ̀ wọn kò ní ipa lórí ìwọ̀n gbígba èdè kejì.
+
+Àwọn ọmọdé tí wọ́n gba èdè kejì kò ní ìpèsè ìmọ̀ èdè ìbílẹ̀ wọn lórí ìwọ̀n gbígba èdè kejì. Ìwọ̀n gbígba èdè kejì jẹ́ ọ̀rọ̀ tí ó kù sí ìmọ̀ èdè ìbílẹ̀ wọn.",
+"Èwo nínú àwọn kókó wọ̀nyí ló ń ṣe àtìlẹ́yìn fún àríyànjiyàn fún ẹnìkan ṣoṣo amẹ́ríkà?
+A.Benevolent hegemony
+B.Àìṣedéédéé àjọṣepọ̀
+C.Agbara Amẹrika
+D.Gbogbo awọn ti o wa loke",D,"Kókó C, ""Agbara Amẹrika"", ló ń ṣe àtìlẹ́yìn fún àríyànjiyàn fún ẹnìkan ṣoṣo amẹ́ríkà. Àwọn ìdí tí a lè fún èyí ni pé Amẹrika ń ṣe ìjọba àgbáyé, tí ó ń lo agbára rẹ̀ láti ṣe ìtọ́jú àwọn ìṣẹ́lẹ̀ àgbáyé.",
+"Ilé ìtajà ńlá kan ṣẹ̀ṣẹ̀ ṣí lẹ́yìn tí wọ́n ti pa ọ̀sẹ̀ méjì fún àtúnṣe. Ní òwúrọ̀ ọjọ́ tí wọ́n tún ṣí padà, obìnrin kan ń ra ọjà nígbà tí ó ṣubú lójijì ó sì ṣẹ́ ẹsẹ̀ rẹ̀. Lẹ́yìn náà, obìnrin náà fẹ̀sùn kàn ilé ìtajà ńlá náà fún ìfarapa ara ẹni. Nínú aṣọ rẹ̀, obìnrin náà sọ pé òun kọsẹ̀ lórí garawa ọ̀dà tí ó ti dùbúlẹ̀ ní ọ̀kan nínú àwọn ọ̀nà. Níbi ìgbẹ́jọ́, obìnrin náà pe oníbàárà mìíràn láti jẹ́rìí pé nígbà tí ó ń ra ọjà ó gbọ́ ìkọlù kan, ó yí padà ó sì rí obìnrin náà tí ó ṣubú lórí ilẹ̀. Ó tún jẹ́rìí pé òun rí garawa ọ̀dà òfìfo tí ó dùbúlẹ̀ ní ẹsẹ̀ díẹ̀ sí ẹsẹ̀ obìnrin náà. Nígbà tí wọ́n ṣe àyẹ̀wò ọ̀tọ̀ọ̀tọ̀, oníbàárà náà bẹ̀rẹ̀ ìpààrọ̀ àríyànjiyàn pẹ̀lú agbẹjọ́rò ilé ìtajà ńlá. Nígbà tí wọ́n béèrè lọ́wọ́ rẹ̀ nípa èrò rẹ̀ nípa ohun tí ó fa ìṣubú obìnrin náà, oníbàárà náà jẹ́rìí pé, ""Ó ṣubú nítorí pé ó kọsẹ̀ lórí garawa."" Ó jẹ́wọ́ lórí àyẹ̀wò ọ̀tọ̀ọ̀tọ̀, síbẹ̀síbẹ̀, pé òun kò rí ìrìn-àjò obìnrin náà lórí garawa. Agbẹjọ́rò ilé ìtajà ńlá náà béèrè ìbéèrè wọ̀nyí lọ́wọ́ oníbàárà náà: ""Tí o kò bá rí ìrìn-àjò obìnrin náà lórí garawa, báwo ni o ṣe mọ̀ pé ó ṣubú nítorí rẹ̀?"" Oníbàárà náà dáhùn pé, ""Nítorí ọ̀rẹ́bìnrin mi tí ó ń ra ọjà pẹ̀lú mi sọ fún mi lẹ́yìn náà pé ó rí obìnrin náà tí ó ń rin ìrìn-àjò lórí garawa."" Agbẹjọ́rò ilé ìtajà ńlá náà gbé ìgbésẹ̀ láti kọ ìdáhùn ìkẹyìn oníbàárà náà. Tí adájọ́ ìgbẹ́jọ́ bá kọ ìpinnu ẹni tí wọ́n fẹ̀sùn kàn tí ó sì jẹ́ kí ìdáhùn oníbàárà dúró, ó ṣe é ṣe kí ó jẹ́ nítorí
+A.Ìdáhùn oníbàárà náà jẹ́ ìpè láti ọwọ́ ìbéèrè agbẹjọ́rò ilé-ìtajà ńlá náà.
+B.Ìdáhùn oníbàárà dá lórí ìmọ̀ ọwọ́ àkọ́kọ́.
+C.Ìdáhùn oníbàárà jẹ́ ọ̀rọ̀ ìwòye àìpẹ́ yìí.
+D.Ìdáhùn oníbàárà náà jẹ́ ìwúrí ọpọlọ lọ́wọ́lọ́wọ́.",A,"Ìdáhùn tí ó dára jù ni C. Ìdáhùn oníbàárà náà jẹ́ ọ̀rọ̀ ìwòye àìpẹ́ yìí, nítorí pé ó dáhùn pé ọ̀rẹ́bìnrin rẹ̀ tí ó ń ra ọjà pẹ̀lú rẹ̀ sọ fún un pé ó rí obìnrin náà tí ó ń rin ìrìn-àjò lórí garawa. Èyí jẹ́ ìwòye àìpẹ́ tí ó dáhùn ìbéèrè agbẹjọ́rò ilé-ìtajà ńlá náà.",
+"Èwo nínú àwọn wọ̀nyí ló ṣàpèjúwe Eurocentrism?
+A.Eurocentrism jẹ́ ọ̀nà àtúpalẹ̀ nínú èyí tí wọ́n fi àwọn àwùjọ ilẹ̀ Yúróòpù wé àwọn àwùjọ tí kì í ṣe ti Europe láti ṣe àfiwé tí kò ní ojúsàájú fún àwọn àfààní ọ̀kọ̀ọ̀kan wọn.
+B.Eurocentrism jẹ́ ọ̀nà ìrònú nínú èyí tí ìgbéléwọ̀n àti ìgbéléwọ̀n àwọn àwùjọ tí kì í ṣe ti Europe wà nípa àwọn èrò àṣà àti ojúsàájú àwọn ará Europe.
+C.Eurocentrism ṣàpèjúwe àwọn ìwádìí tàbí iṣẹ́ ọ̀mọ̀wé tí ó ṣe àgbéyẹ̀wò ètò òṣèlú tàbí ọrọ̀ ajé Europe nìkan.
+D.Gbogbo awọn aṣayan wọnyi.",B,"D. Gbogbo awọn aṣayan wọnyi.
+
+Gbogbo àwọn ìtumọ̀ tí a ṣe àpèjúwe nínú A, B, àti C ṣàpèjúwe ìrònú Eurocentrism. Eurocentrism jẹ́ ọ̀nà ìrònú tí ó ṣe àgbéyẹ̀wò àti ìgbéléwọ̀n àwọn àwùjọ tí kì í ṣe ti Europe láti ọ̀nà Europe, ó sì ṣe àfiwé àwọn àwùjọ tí kì í ṣe ti Europe sí àwọn àwùjọ Europe.",
+"Ọkùnrin kan ni ó ni ilé ìtura tí wọ́n ṣẹ̀ṣẹ̀ kọ́ ní ìlú kan. Ní ọjọ́ kẹẹ̀ẹ́dógún oṣù kẹta, ọkùnrin náà gba ìpè lórí ẹ̀rọ ìbánisọ̀rọ̀ láti ọ̀dọ̀ olùtajà kan tí ó jẹ́ olùpín àwọn ohun èlò ilé ìtura. Olùtajà náà gbà láti ta ẹ̀rọ ìpaná 1,000 fún ọkùnrin náà fún ilé ìtura rẹ̀. Olùtajà náà sọ fún ọkùnrin náà pé iye owó ẹ̀rọ ìpaná náà yóò jẹ́ $35,000 (tàbí $35 lọ́kọ̀ọ̀kan), tí ó ṣe é san fún ọjọ́ 90 lẹ́yìn ìfijíṣẹ́. Olùtajà náà ṣèlérí láti fi ẹ̀rọ ìpaná náà sílẹ̀ láìpẹ́ ju ọjọ́ 15 oṣù Kẹrin lọ. Ní ọjọ́ kẹrìndínlógún oṣù kẹta, ọkùnrin náà pe olùtajà náà lórí ẹ̀rọ-ìbánisọ̀rọ̀ ó sì gba ìfilọ̀ náà. Ní ọjọ́ kejì, ọkùnrin náà fi àkọsílẹ̀ wọ̀nyí ránṣẹ́ sí olùtajà náà: ""Jọ̀wọ́ gba ìmọ̀ràn pé mà á gba ẹ̀dínwó ìdá 15 fún owó ìsanwó ní ọjọ́ méje lẹ́yìn tí wọ́n bá fi sí i. "" Olùtajà náà gba ìkọ̀wé ọkùnrin náà ní ọjọ́ 20 oṣù kẹta. Ní ọjọ́ 1 oṣù Kẹrin, olùtajà náà fi àtẹ̀jíṣẹ́ ránṣẹ́ sí ọkùnrin náà, ó ní: ""Ó hàn gbangba pé a kò ní àdéhùn tí ó ṣe é fi agbára mú ní ipa. Mi ò ní fi ẹ̀rọ ìpaná náà ránṣẹ́ ní April 15 tàbí nígbà mìíràn. ""Ọkùnrin náà gbé ẹjọ́ lòdì sí olùtajà fún ìrúfẹ́ àdéhùn. Olùtajà náà fi ìdáàbòbò òfin ẹ̀tàn hàn lábẹ́ UCC. Èwo nínú àwọn wọ̀nyí ni ọ̀rọ̀ tó péye jùlọ nípa ìdáàbòbò olùtajà?
+A.Ìdáàbòbò olùtajà náà wúlò, nítorí àkọsílẹ̀ ọkùnrin náà kò tó láti fi hàn pé wọ́n dá àdéhùn sílẹ̀.
+B.Ìdáàbòbò olùtajà náà wúlò, nítorí àkọsílẹ̀ ọkùnrin náà kò bá àwọn òfin ìfilọ́lẹ̀ ẹnu olùtajà náà mu.
+C.Ìdáàbòbò olùtajà náà kò wúlò, nítorí olùtajà náà kùnà láti dáhùn sí àkọsílẹ̀ ọkùnrin náà láàárín àkókò tó mọ́gbọ́n dání.
+D.Ìdáàbòbò olùtajà náà kò wúlò, nítorí lábẹ́ UCC òfin ẹ̀tàn kò wúlò nínú àdéhùn láàárín àwọn oníṣòwò.",A,"Ìdáàbòbò olùtajà náà kò wúlò, nítorí lábẹ́ UCC òfin ẹ̀tàn kò wúlò nínú àdéhùn láàárín àwọn oníṣòwò.
+
+Ìdáàbòbò olùtajà náà kò wúlò nítorí pé lábẹ́ UCC (Uniform Commercial Code), òfin ẹ̀tàn kò wúlò nínú àdéhùn láàárín àwọn oníṣòwò. Ní ìpín yìí, ọkùnrin náà àti olùtajà jẹ́ àwọn oníṣòwò, nítorí náà òfin ẹ̀tàn kò wúlò láti ṣe ìdáàbòbò fún olùtajà.",
 "Èwo nínú àwọn wọ̀nyí ni ó ṣàpèjúwe ipò náà lẹ́yìn tí wọ́n gbé iye owó náà sókè lórí ọjà tí ó ní ìbéèrè tí kò dára?
 A.Iye tí wọ́n bèèrè fún kò ní yí padà.
 B.Iye tí wọ́n béèrè fún yóò pọ̀ sí i.
 C.Àpapọ̀ owó tí wọ́n ń wọlé yóò dín kù.
-D.Àpapọ̀ owó tí wọ́n ń wọlé kò ní yí padà.",a,b,false
+D.Àpapọ̀ owó tí wọ́n ń wọlé kò ní yí padà.",A,"Ìdáhùn tí ó dára jù fún ìbéèrè náà ni B. Iye tí wọ́n béèrè fún yóò pọ̀ sí i.
+
+Nígbà tí wọ́n gbé iye owó náà sókè lórí ọjà tí ó ní ìbéèrè tí kò dára, èyí yóò mú kí iye tí wọ́n béèrè fún pọ̀ sí i. Èyí ni nítorí pé ọjà náà ti di ìbéèrè jù, nítorí náà wọ́n yóò gbé iye owó náà sókè láti gbé ìbéèrè náà dé.",
+"Láàárín agbègbè ìbáṣepọ̀ àwùjọ wo ni ó ṣe é ṣe kí ó ní í ṣe pẹ̀lú ìfọwọ́sowọ́pọ̀?
+A.Ile-iṣẹ
+B.Awọn ibatan owo
+C.Ọ̀rọ̀ gbogbogbò
+D.Iṣowo si iṣowo",C,"D. Iṣowo si iṣowo
+
+Ìfọwọ́sowọ́pọ̀ jẹ́ ìbáṣepọ̀ àwùjọ tí ó ní ìdáhùn pẹ̀lú iṣowo si iṣowo. Ìfọwọ́sowọ́pọ̀ jẹ́ ìbáṣepọ̀ tí ó ṣẹlẹ̀ láàárín awọn iṣowo tí wọ́n ń ṣe iṣẹ́ pọ̀ tàbí tí wọ́n ń ṣe iṣẹ́ pẹ̀lú ara wọn. Èyí ṣe é ṣe láàárín awọn iṣowo tí wọ́n ń ṣe iṣẹ́ pọ̀ tàbí tí wọ́n ń ṣe iṣẹ́ pẹ̀lú ara wọn.",
 "Àwọn microchips ẹ̀rọ kọ̀m̀pútà ìgbàlódé ní àkójọpọ̀ èròjà wo?
 A.Sodium
 B.Silikoni
 C.Aluminiomu
-D.Fàdákà",b,b,true
+D.Fàdákà",B,"Àwọn microchips ẹ̀rọ kọ̀m̀pútà ìgbàlódé ni àkójọpọ̀ èròjà B. Silikoni.
+
+Àwọn microchips ẹ̀rọ kọ̀m̀pútà ìgbàlódé jẹ́ ìgbàlódé ti a ń ṣe lórí silikoni. Silikoni jẹ́ ọ̀kan lára àwọn ìpèsè tó ṣe pàtàkì fún ìṣẹ́ àwọn microchips.
+
+Àwọn ìpèsè mìíràn bíi sódíọ̀mu, aluminiomu àti fàdákà kò ṣe pàtàkì fún ìṣẹ́ àwọn microchips.
+
+Nítorí náà, ìdáhùn tó jẹ́ òtítọ́ ni B. Silikoni.",
+"Èwo nínú àwọn wọ̀nyí ló ṣàpèjúwe àwọn ìlànà ìwà rere nípa ìbáṣepọ̀ ìbálòpọ̀ pẹ̀lú àwọn oníbàárà ìtọ́jú tẹ́lẹ̀?
+A.Wọ́n fòfin de àwọn onímọ̀ nípa ọpọlọ láti ní ìbáṣepọ̀ ìbálòpọ̀ pẹ̀lú àwọn oníbàárà ìtọ́jú tẹ́lẹ̀ lábẹ́ èyíkéyìí ipò.
+B.Wọ́n fòfin de àwọn onímọ̀ nípa ọpọlọ láti ní ìbáṣepọ̀ ìbálòpọ̀ pẹ̀lú àwọn oníbàárà ìtọ́jú tẹ́lẹ̀ fún ó kéré tán ọdún kan lẹ́yìn ìfòpin sí ìtọ́jú ìtọ́jú.
+C.Wọ́n fòfin de àwọn onímọ̀ nípa ọpọlọ láti ní ìbáṣepọ̀ ìbálòpọ̀ pẹ̀lú àwọn oníbàárà ìtọ́jú tẹ́lẹ̀ ní àwọn ipò kan (fún àpẹẹrẹ, nígbà tí ewu ìlòkulò bá wà).
+D.Àwọn onímọ̀ nípa ọpọlọ kò ní ìdènà láti ní ìbáṣepọ̀ ìbálòpọ̀ pẹ̀lú àwọn oníbàárà ìtọ́jú tẹ́lẹ̀.",C,"Ìdáhùn tòkàn ni C.
+
+Wọ́n fòfin de àwọn onímọ̀ nípa ọpọlọ láti ní ìbáṣepọ̀ ìbálòpọ̀ pẹ̀lú àwọn oníbàárà ìtọ́jú tẹ́lẹ̀ ní àwọn ipò kan (fún àpẹẹrẹ, nígbà tí ewu ìlòkulò bá wà).
+
+Èyí ni ìlànà tí ó ṣàpèjúwe àwọn ìlànà ìwà rere nípa ìbáṣepọ̀ ìbálòpọ̀ pẹ̀lú àwọn oníbàárà ìtọ́jú tẹ́lẹ̀. Àwọn onímọ̀ nípa ọpọlọ kò ní ìdènà láti ní ìbáṣepọ̀ ìbálòpọ̀ pẹ̀lú àwọn oníbàárà ìtọ́jú tẹ́lẹ̀, ṣùgbọ́n wọ́n ní láti ṣe é ní àwọn ipò kan.",
+"Èwo nínú àwọn ìlànà wọ̀nyí ló gbájú mọ́ bí àwùjọ ṣe ń ṣàkóso láti ṣe àwọn iṣẹ́ tí ó ṣe pàtàkì láti tọ́jú ìlànà àti ìdúróṣinṣin?
+A.Iṣẹ-ṣiṣe
+B.Ìbáṣepọ̀
+C.Rational-choice theory
+D.Ìlànà ìjà",A,"Ìlànà ìjà (D) ni ó gbájú mọ́ bí àwùjọ ṣe ń ṣàkóso láti ṣe àwọn iṣẹ́ tí ó ṣe pàtàkì láti tọ́jú ìlànà àti ìdúróṣinṣin.
+
+Ìlànà ìjà jẹ́ ìlànà tí ó ṣe àkóso ìjà àti ìdìbàjẹ́ láàrin àwọn ẹgbẹ́ tí ó ní ìfẹ́ àti ìfẹ́ tí ó yàtọ̀. Ìlànà yìí ṣe àlàyé bí àwùjọ ṣe ń ṣàkóso àwọn iṣẹ́ tí ó ṣe pàtàkì láti tọ́jú ìlànà àti ìdúróṣinṣin láàrin àwọn ẹgbẹ́ tí ó ní ìfẹ́ àti ìfẹ́ tí ó yàtọ̀.",
+"Awọn se aaye ila nipa a lọwọlọwọ-gbe waya fọọmu
+A.Circles
+B.awọn ila radial
+C.eddy lọwọlọwọ
+D.agbara loops",A,"Ìdáhùn tòótọ́ ni B. awọn ila radial.
+
+Àwọn ila radial jẹ́ àwọn ìlà tí wọ́n ń jáde láti ọ̀tún sí òsì lórí àwọn waya fọọmu. Wọ́n ń ṣe àyẹ̀wò àwọn ìlà tí wọ́n ń jáde láti ọ̀tún sí òsì lórí àwọn waya fọọmu láti ṣe àyẹ̀wò àwọn ìlà tí wọ́n ń jáde láti ọ̀tún sí òsì lórí àwọn waya fọọmu.
+
+A. Àwọn àyíká kò ṣe àyẹ̀wò àwọn ìlà tí wọ́n ń jáde láti ọ̀tún sí òsì lórí àwọn waya fọọmu.
+C. Àwọn eddy lọwọlọwọ kò ṣe àyẹ̀wò àwọn ìlà tí wọ́n ń jáde láti ọ̀tún sí òsì lórí àwọn waya fọọmu.
+D. Àwọn agbara loops kò ṣe àyẹ̀wò àwọn ìlà tí wọ́n ń jáde láti ọ̀tún sí òsì lórí àwọn waya fọọmu.",
+"Àwọn ọlọ́pàá gba ìmọ̀ràn láti ọ̀dọ̀ oníròyìn tí ó gbẹ́kẹ̀lé pé ọkùnrin kan ń ta cocaine láti ilé rẹ̀. Lẹ́yìn náà ni àwọn ọlọ́pàá fi ìwé ẹ̀rí sílẹ̀ fún adájọ́ kan tí ó ń ṣètò àwọn ìṣẹ̀lẹ̀ tí ó ń ṣàfihàn ìdí tí ó ṣe é ṣe fún ìfilọ́lẹ̀ ìwé àṣẹ ìwádìí. Adájọ́ náà gbé ìwé àṣẹ ìwádìí oògùn olóró jáde ní àdírẹ́sì ọkùnrin náà. Àwọn ọlọ́pàá lọ sí ilé ọkùnrin náà wọ́n sì pe agogo ìlẹ̀kùn. Nígbà tí ẹnikẹ́ni kò dáhùn, àwọn ọlọ́pàá wọlé wọ́n sì wọ inú ilé náà. Wọ́n wá àwọn yàrá náà ní àjà àkọ́kọ́ wọn kò sì rí ẹ̀rí ẹ̀bi kankan, lẹ́yìn náà wọ́n rìn síta wọ́n sì ṣàkíyèsí ẹnu-ọ̀nà ọ̀tọ̀ọ̀tọ̀ tí ó yọrí sí àjà kejì ilé náà. Wọ́n gòkè lọ sí àtẹ̀gùn wọ́n sì wọ yàrá òkè. Nínú yàrá náà àwọn ọlọ́pàá rí àkójọpọ̀ cocaine tí ó dùbúlẹ̀ lórí aṣọ. Bí àwọn ọlọ́pàá ṣe ń tẹ̀síwájú láti wá yàrá náà, ẹni tí wọ́n fẹ̀sùn kàn wọ inú yàrá náà. Àwọn ọlọ́pàá béèrè lọ́wọ́ ẹni tí wọ́n fẹ̀sùn kàn bóyá òun ni ọkùnrin náà. Ẹlẹ́jọ́ náà dá ara rẹ̀ mọ̀ ó sì sọ fún àwọn ọlọ́pàá pé wọ́n wà nínú yàrá rẹ̀ ó sì gba àjà kejì ilé náà. Ẹlẹ́jọ́ náà ṣàlàyé pé ọkùnrin náà ń gbé ní àjà àkọ́kọ́ àti pé àwọn ilé ìgbàlejò rẹ̀ yàtọ̀ sí ti ẹni tí wọ́n fẹ̀sùn kàn. Síbẹ̀síbẹ̀, wọ́n mú ẹni tí wọ́n fẹ̀sùn kàn wọ́n tí wọ́n sì fi ẹ̀sùn kàn án pé ó ní cocaine. Ẹlẹ́jọ́ náà ti gbé ìpinnu kan kalẹ̀ láti yọ cocaine kúrò nínú kí wọ́n gbà á sínú ẹ̀rí. Ẹjọ́ ẹlẹ́jọ́ gbọ́dọ̀ jẹ́
+A.O ni, nitori pe iwe aṣẹ naa ko lorukọ ẹni ti o fẹjọ.
+B.Fun idi eyi, nitori pe a ko sọ fun ọ pe o yẹ ki o wa ni ipo ti o yẹ ki o wa.
+C.Wọ́n sẹ́, nítorí àwọn ọlọ́pàá gbàgbọ́ pé àwọn ń wá ilé ọkùnrin náà nígbà tí wọ́n wọ ilé ẹni tí wọ́n fẹ̀sùn kàn.
+D.Wọ́n kọ̀ ọ́, nítorí pé ìwé àṣẹ náà wúlò ó sì fún un ní ìdí tí ó ṣe é ṣe.",C,"Ìdáhùn tí ó tọ́ ni C.
+
+Nítorí àwọn ọlọ́pàá gbàgbọ́ pé àwọn ń wá ilé ọkùnrin náà nígbà tí wọ́n wọ ilé ẹni tí wọ́n fẹ̀sùn kàn. Èyí jẹ́ ìdí tí wọ́n ṣe é ṣe fún ìfilọ́lẹ̀ ìwé àṣẹ ìwádìí.
+
+A kò tọ́, nítorí pé ìwé àṣẹ náà kò ní orúkọ ẹni tí wọ́n fẹ̀sùn kàn.
+
+B kò tọ́, nítorí pé a sọ fún wọn pé wọ́n yẹ kí wọ́n wá ní ìpò tí wọ́n yẹ kí wọ́n wà.
+
+D kò tọ́, nítorí pé ìwé àṣẹ náà wúlò ó sì fún un ní ìdí tí ó ṣe é ṣe.",
+"Kí wọ́n tó gbé àbá láti darapọ̀ ìlú méjì sí orí ìdìbò, agbẹjọ́rò àgbà ìpínlẹ̀ náà gbé èrò ìmọ̀ràn jáde tí ó sọ pé ìgbésẹ̀ náà kò rú òfin tàbí òfin kankan. Lẹ́yìn náà, wọ́n gbé àbá náà sí orí ìdìbò àti pé àwọn olùdìbò gbé e kalẹ̀ ní ìlú méjèèjì. Lẹ́yìn ìdìbò náà, ṣùgbọ́n kí wọ́n tó ṣe àpapọ̀ náà, àwọn olùsan owó orí méjì láti ọ̀kan nínú àwọn ìlú bẹ̀rẹ̀ ẹjọ́ láti yọ ìṣọ̀kan kúrò, tí wọ́n gbógun ti òfin àbá náà. Ẹjọ́ náà dé ilé ẹjọ́ gíga ìpínlẹ̀ náà wọ́n sì rí i pé ó jẹ́ òfin lábẹ́ òfin ìpínlẹ̀ àti ti ìjọba àpapọ̀. Àwọn ẹlẹ́jọ́ náà ti gbé ìpinnu kan kalẹ̀ báyìí tí wọ́n ń wá àtúnyẹ̀wò àpótí yìí láti ọwọ́ Ilé Ẹjọ́ Gíga Jù Lọ ti U. S. Ile-ẹjọ le
+A.Kò gbọ́ ẹjọ́ náà, nítorí wọ́n pinnu rẹ̀ lórí ìdí ìjọba òmìnira.
+B.Má gbọ́ ẹjọ́ náà, ṣùgbọ́n ó ṣe é ṣe kí wọ́n gbé e padà sí ilé ẹjọ́ agbègbè àpapọ̀.
+C.Gbọ́ àwọn ọ̀rọ̀ ìjọba àpapọ̀ tí ó kópa, ṣùgbọ́n kọ̀ láti ṣàkóso lórí ọ̀rọ̀ ìpínlẹ̀ náà.
+D.Gbára lé èrò ìmọ̀ràn tí agbẹjọ́rò àgbà ìpínlẹ̀ ṣe àti pé wọn kò gbọ́ ẹjọ́ náà lórí àfààní rẹ̀.",A,"Ìdáhùn tí ó dára jù ni D.
+
+Nítorí pé:
+- Agbẹjọ́rò àgbà ìpínlẹ̀ náà sọ pé ìgbésẹ̀ náà kò rú òfin tàbí òfin kankan.
+- Ẹjọ́ náà dé ilé ẹjọ́ gíga ìpínlẹ̀ náà, wọ́n sì rí i pé ó jẹ́ òfin lábẹ́ òfin ìpínlẹ̀ àti ti ìjọba àpapọ̀.
+- Nítorí náà, ó dára jù láti gbára lé èrò ìmọ̀ràn tí agbẹjọ́rò àgbà ìpínlẹ̀ ṣe àti pé wọn kò gbọ́ ẹjọ́ náà lórí àfààní rẹ̀.
+
+A, B, àti C kò dára gẹ́gẹ́ bí ìdáhùn, nítorí wọ́n kò tẹ̀lé òfin tàbí ìmọ̀ràn tí agbẹjọ́rò àgbà ìpínlẹ̀ ṣe.",
+"Ní ìbámu pẹ̀lú ìdàgbàsókè àgbáyé, báwo ni a ṣe lè ṣàlàyé ọ̀rọ̀ náà dáadáa 'ìdàgbàsókè'?
+A.Ọrọ idagbasoke n tọka si ipo eniyan ninu eyiti ominira wa lati iberu ati fẹ; Àwọn ohun èlò tó tó wà láti ṣe àtìlẹyìn fún ìgbésí ayé àti pé ìgbésí ayé yìí lè wà ní ìpínlẹ̀ tí kò ní ìdẹ́rùbà náà, tàbí ìdẹ́rùbà tí a mọ̀, ìdíwọ́ òjijì.
+B.Lati ṣe akiyesi bi idagbasoke, orilẹ-ede kan gbọdọ ti ṣaṣeyọri ipo ọrọ-aje ati oloselu kan laarin eto ipinle agbaye; Ìlànà fún ohun tí ó jẹ́ ipò 'ìdàgbàsókè' jẹ́ ìtumọ̀ nípa àwọn ìbéèrè ìbáṣepọ̀ nínú ètò yìí.
+C.Ìdàgbàsókè jẹ́ ọ̀nà láti yanjú àìdọ́gba tí ó tẹ̀lé ìdàgbàsókè àgbáyé neoliberal. Nínú ọ̀rọ̀ yìí, ìdàgbàsókè ń tọ́ka sí agbára àwọn ènìyàn tàbí àwùjọ láti lo àwọn ohun èlò dáadáa àti láti ṣe àfikún ìṣiṣẹ́ nínú ìṣelọ́pọ̀ àti pínpín, ìgbéga pínpín owó tí ó dọ́gba láàárín àwùjọ.
+D.Ìdàgbàsókè àwùjọ kan ń tọ́ka sí àwọn ètò ìwúlò èrò àti ìwà rere tí àwọn olùgbé rẹ̀ ń ṣe ìforúkọsílẹ̀ rẹ̀ sí. Nínú ètò àgbáyé èyí ń tọ́ka sí gbígba èrò ìjọba òmìnira ìwọ̀-oòrùn àti ọrọ̀ ajé ọjà òmìnira.",C,"Ìdàgbàsókè jẹ́ ọ̀rọ̀ tí ó ní ìtumọ̀ tó pọ̀ ṣùgbọ́n a lè ṣàlàyé bẹ́ẹ̀:
+
+C. Ìdàgbàsókè ń tọ́ka sí agbára àwọn ènìyàn tàbí àwùjọ láti lo àwọn ohun èlò dáadáa àti láti ṣe àfikún ìṣiṣẹ́ nínú ìṣelọ́pọ̀ àti pínpín, ìgbéga pínpín owó tí ó dọ́gba láàárín àwùjọ. Èyí túmọ̀ sí ìdàgbàsókè bíi ìgbéga ìṣelọ́pọ̀, ìpínpín owó tí ó dọ́gba, àti ìṣàfikún ìṣiṣẹ́ fún gbogbo ènìyàn nínú àwùjọ.
+
+Ìdàgbàsókè jẹ́ ọ̀nà láti yanjú àìdọ́gba tí ó tẹ̀lé ìdàgbàsókè àgbáyé neoliberal, èyí tí ó ní ìtumọ̀ pé ó jẹ́ ìgbéga ètò ìjọba òmìnira ìwọ̀-oòrùn àti ọrọ̀ ajé ọjà òmìnira.",
 "Arun wo ni awọn virus herpes ko fa?
 A.Infantile paralysis
 B.Encephalitis
 C.Àrùn ìbálòpọ̀
-D.Jẹjẹrẹ",a,c,false
+D.Jẹjẹrẹ",A,"Ìdáhùn tí ó tọ́ ni C. Àrùn ìbálòpọ̀.
+
+Virus herpes jẹ ọ̀kan lára àwọn ọ̀rọ̀ tí ó lè fa àrùn ìbálòpọ̀. Àwọn ọ̀rọ̀ míràn tí ó lè fa àrùn ìbálòpọ̀ ni:
+
+A. Infantile paralysis - Èyí kì í ṣe ọ̀kan lára àwọn ọ̀rọ̀ tí ó lè fa àrùn ìbálòpọ̀.
+
+B. Encephalitis - Èyí kì í ṣe ọ̀kan lára àwọn ọ̀rọ̀ tí ó lè fa àrùn ìbálòpọ̀.
+
+D. Jẹjẹrẹ - Èyí kì í ṣe ọ̀kan lára àwọn ọ̀rọ̀ tí ó lè fa àrùn ìbálòpọ̀.
+
+Nítorí náà, ìdáhùn tí ó tọ́ ni C. Àrùn ìbálòpọ̀.",
+"Obìnrin ọmọ ọdún mẹ́rìnléláàádọ́rin kan wá sí ọ́fíìsì nítorí pé ó ti ní ìrora ìbọn lẹ́ẹ̀kọ̀ọ̀kan lórí ẹ̀rẹ̀kẹ́ ọ̀tún àti ẹ̀gbọ́n rẹ̀ ní ọ̀sẹ̀ mẹ́ta sẹ́yìn. Ìṣẹ̀lẹ̀ ìrora kọ̀ọ̀kan máa ń pẹ́ fún ìṣẹ́jú àáyá 1 tàbí kéré sí i. Ìrora náà sábà máa ń wáyé nípasẹ̀ afẹ́fẹ́ tútù, jíjẹ, ìwúrí ìfọwọ́sowọ́pọ̀, àti fífọ eyín rẹ̀. Kò tí ì ní ìpalára sí ojú tàbí orí. Ìtàn ìṣègùn jẹ́ ohun àgbàyanu fún ìrora orí ìdààmú ọkàn, ìsanra, àti iṣẹ́ abẹ inú. O jẹ 165 cm (5 ft 5 in) giga ati iwọn 62 kg (137 lb); BMI jẹ 23 kg / m2 . Awọn ami pataki jẹ deede. Aláìsàn náà kò lè fàyè gba ìfọwọ́kàn sí apá ọ̀tún ojú. Kò sí àìlera ojú tàbí àdánù ìmọ̀lára. Ìyókù àyẹ̀wò ara kò fi àìṣedéédé hàn. Àyẹ̀wò CT orí pẹ̀lú àti láìsí ìyàtọ̀ kò fi àìṣedéédé hàn. Ewo ninu awọn wọnyi ni pharmacotherapy ti o yẹ julọ ni akoko yii?
+A.Carbamazepine
+B.Lamotrigine
+C.Levetiracetam
+D.Topiramate",A,"Ìdáhùn tó yẹ julọ ni:
+
+C. Levetiracetam
+
+Ìdíẹ̀:
+- Ìrora ìbọn lẹ́ẹ̀kọ̀ọ̀kan lórí ẹ̀rẹ̀kẹ́ ọ̀tún àti ẹ̀gbọ́n rẹ̀ ní ọ̀sẹ̀ mẹ́ta sẹ́yìn, ìṣẹ̀lẹ̀ ìrora kọ̀ọ̀kan máa ń pẹ́ fún ìṣẹ́jú àáyá 1 tàbí kéré sí i, ìrora náà sábà máa ń wáyé nípasẹ̀ afẹ́fẹ́ tútù, jíjẹ, ìwúrí ìfọwọ́sowọ́pọ̀, àti fífọ eyín rẹ̀ sugbon kò tí ì ní ìpalára sí ojú tàbí orí.
+- Àyẹ̀wò CT orí pẹ̀lú àti láìsí ìyàtọ̀ kò fi àìṣedéédé hàn.
+- Levetiracetam jẹ́ ọ̀kan lára awọn ìṣẹ̀lẹ̀ ìrora ìdààmú ọkàn, ìsanra, àti iṣẹ́ abẹ inú tó jẹ́ ọ̀tọ̀ọ̀tọ̀ àti tó ní ìṣẹ̀lẹ̀ ìrora ìdààmú ọkàn tó dáa.",
+"Idi ti iwadi afọju meji tabi meji-boju-boju ni lati:
+A.Ṣe aṣeyọri afiwe ti awọn koko-ọrọ ti a ṣe itọju ati ti ko ni itọju
+B.Dinku awọn ipa ti iṣapẹẹrẹ iyatọ
+C.Yẹra fún olùṣàkíyèsí àti ẹ̀tanú ọ̀rọ̀
+D.Yẹra fún ìwà ìbàjẹ́ olùṣàkíyèsí àti ṣíṣe àpẹẹrẹ ìyàtọ̀",B,"Ọpọlọpọ awọn ọna lati ṣe aṣeyọri afiwe ti awọn koko-ọrọ ti a ṣe itọju ati ti ko ni itọju ni:
+
+A. Ṣe afikun ati ṣe itọju awọn koko-ọrọ ti o ni itọju. Ṣe atunṣe awọn koko-ọrọ ti ko ni itọju lati ṣe wọn ni itọju.
+
+B. Dinku awọn ipa ti iṣapẹẹrẹ iyatọ nipasẹ ṣiṣe awọn iṣẹ ti o ni ọpọlọpọ awọn ọna lati ṣe wọn.
+
+C. Yẹra fún olùṣàkíyèsí àti ẹ̀tanú ọ̀rọ̀ nipasẹ ṣiṣe awọn iṣẹ ti o ni ọpọlọpọ awọn ọna lati ṣe wọn.
+
+D. Yẹra fún ìwà ìbàjẹ́ olùṣàkíyèsí àti ṣíṣe àpẹẹrẹ ìyàtọ̀ nipasẹ ṣiṣe awọn iṣẹ ti o ni ọpọlọpọ awọn ọna lati ṣe wọn.
+
+Ọpọlọpọ awọn ọna lati ṣe awọn iṣẹ wọnyi ni lati ṣe atunṣe, ṣe afikun, ati ṣe itọju awọn koko-ọrọ, dinku awọn ipa ti iṣapẹẹrẹ iyatọ, yẹra fún olùṣàkíyèsí àti ẹ̀tanú ọ̀rọ̀, ati yẹra fún ìwà ìbàjẹ́ olùṣàkíyèsí àti ṣíṣe àpẹẹrẹ ìyàtọ̀.",
+"Lọ́wọ́lọ́wọ́ olùṣọ́ ẹran ni ẹni tí ó ní àkọsílẹ̀ ilẹ̀ kan tí wọ́n yàn gẹ́gẹ́ bí ""A. "" Ó ga jùlọ nínú àwọn ohun ìní àdúgbò méjì lórí òkè. Àgbẹ̀ ni ẹni tí ó ní àkójọpọ̀ ""B,"" èyí tí ó wà ní ìsàlẹ̀ ju ""A"" lọ ní ẹ̀gbẹ́ òkè. Ní ọdún 2000, olùṣọ́ ẹran náà, ẹni tí ó ní ilẹ̀ méjèèjì, kọ́ ètò omi aládàáni. Ètò yìí ní òpópónà abẹ́lẹ̀ tí ó gùn kọjá ilẹ̀ méjèèjì. Ìdọ̀tí láti àkójọpọ̀ ""A"" gba ètò náà lọ sí ilé ìgbẹ́ ìlú, èyí tí ó wà ní ìsàlẹ̀ òkè náà. Ní ọdún 2005, olùṣọ́ ẹran náà ta ẹrù ""B"" fún àgbẹ̀ náà. Iṣẹ́ fún àgbẹ̀ náà kò ní mẹ́nuba kankan nípa ètò omi olùṣọ́ ẹran náà. Ó wà lórí ọ̀kọ̀ọ̀kan àwọn ẹrù náà ni àwọn ilé oko ńlá tí àwọn onílé kọ̀ọ̀kan gbé. Láìpẹ́ yìí, omi ìdọ̀tí náà ti bẹ̀rẹ̀ sí ní jáde òórùn tí kò dára kọjá ìdì ""B. "" Nítorí èyí, àgbẹ̀ náà fẹ̀sùn kàn olùṣọ́ ẹran náà nínú ìwà ọ̀daràn tí ó ń gbàdúrà fún ìbàjẹ́ tí ètò omi ṣẹlẹ̀. Idajọ yẹ ki o wa fun
+A.Olùṣọ́ ẹran náà, nítorí pé iṣẹ́ fún àgbẹ̀ náà kò ní májẹ̀mú kankan tí ó ń dí ìlò olùṣọ́ ẹran ilẹ̀ náà lọ́wọ́.
+B.Olùṣọ́ ẹran náà, nítorí pé ìdí ìgbésẹ̀ àgbẹ̀ tí ó tọ́ yóò jẹ́ fún ìnira, dípò ìkọlù.
+C.Àgbẹ̀ náà, nítorí ètò omi jẹ́ ohun tí ó fa ìbàjẹ́ ẹlẹ́jọ́ gẹ́gẹ́ bí ọ̀rọ̀ òfin.
+D.Àgbẹ̀ náà, nítorí olùṣọ́ ẹran náà kò ní ẹ̀tọ́ láti mú ìdàgbàsókè bá ilẹ̀ tirẹ̀ ní ọ̀nà tí ó fa ìpalára fún òmíràn.",B,"Idajọ yẹ ki o wa fun B. Olùṣọ́ ẹran náà, nítorí pé ìdí ìgbésẹ̀ àgbẹ̀ tí ó tọ́ yóò jẹ́ fún ìnira, dípò ìkọlù.
+
+Ìdíẹ̀:
+1. Olùṣọ́ ẹran náà ní àkọsílẹ̀ ilẹ̀ méjì, ""A"" àti ""B"", èyí tí ""B"" wà ní ìsàlẹ̀ ju ""A"" lọ.
+2. Ní ọdún 2000, olùṣọ́ ẹran náà kọ́ ètò omi aládàáni tí ó ní òpópónà abẹ́lẹ̀ tí ó gùn kọjá ilẹ̀ méjèèjì.
+3. Ní ọdún 2005, olùṣọ́ ẹran náà ta ẹrù ""B"" fún àgbẹ̀ náà, ṣùgbọ́n iṣẹ́ fún àgbẹ̀ náà kò ní mẹ́nuba kankan nípa ètò omi olùṣọ́ ẹran náà.
+4. Láìpẹ́ yìí, omi ìdọ̀tí náà ti bẹ̀rẹ̀ sí ní jáde òórùn tí kò dára kọjá ìdì ""B.""
+5. Nítorí èyí, àgbẹ̀ náà fẹ̀sùn kàn olùṣọ́ ẹran náà nínú ìwà ọ̀daràn tí ó ń gbàdúrà fún ìbàjẹ́ tí ètò omi ṣẹlẹ̀.
+
+Nítorí náà, ìdí ìgbésẹ̀ àgbẹ̀ tí ó tọ́ yóò jẹ́ fún ìnira, dípò ìkọlù, nítorí olùṣọ́ ẹran náà kò ní ẹ̀tọ́ láti mú ìdàgbàsókè bá ilẹ̀ tirẹ̀ ní ọ̀nà tí ó fa ìpalára fún òmíràn.",
+"Òṣìṣẹ́ ilé-iṣẹ́ ìṣelọ́pọ̀ ńlá rí iṣẹ́ náà tí kò dára, ó sì ń lépa iṣẹ́ náà fún owó nìkan. Òṣìṣẹ́ náà ń ṣiṣẹ́ díẹ̀, kò sì ní ìwúrí nítorí náà ó ń ṣe àgbéjáde iye tó ga jù tàbí dídára tó dára. Gẹgẹbi imọran ifosiwewe meji ti F. Herzberg, ọna ti o dara julọ 10 mu iwuri ara ẹni ti oṣiṣẹ yii pọ si yoo jẹ lati
+A.Pèsè owó ìgbéga àti ìwúrí fún iṣẹ́ ṣíṣe tó pọ̀.
+B.Ṣe atunṣe iṣẹ naa lati pese ipenija ati imọran ti aṣeyọri
+C.Ṣe àfikún àfààní fún ìbáṣepọ̀ àwùjọ tó mọ̀.
+D.Pèsè iṣẹ́ fún òṣìṣẹ́ náà pẹ̀lú ìgbì omi iṣẹ́ tí ó gbé ìyìn tó pọ̀.",B,"Gẹ́gẹ́ bí imọ́ran ifosiwewe meji ti F. Herzberg, ọ̀nà tí ó dára jùlọ láti mu iwúrí ara ẹni tí oṣíṣẹ́ yìí pọ̀ sí yóò jẹ́ láti:
+
+B. Ṣe àtúnṣe iṣẹ́ náà láti pèsè ipènijà àti ìmọ́ràn tí aṣeyọ̀rí
+
+Ìdí nìyí:
+- Òṣíṣẹ́ náà ń ṣiṣẹ́ díẹ̀, kò sì ní ìwúrí nítorí náà ó ń ṣe àgbéjáde iye tó ga jù tàbí dídára tó dára.
+- Láti mu iwúrí ara ẹni tí oṣíṣẹ́ yìí pọ̀, ó jẹ́ pé ó yẹ kí a ṣe àtúnṣe iṣẹ́ náà láti pèsè ipènijà àti ìmọ́ràn tí aṣeyọ̀rí, kí ó sì lè ní ìwúrí nínú iṣẹ́ rẹ̀.
+
+Àwọn ìṣòro míràn bí ìgbéga àti ìwúrí fún iṣẹ́ ṣíṣe tó pọ̀ tàbí ìbáṣepọ̀ àwùjọ tó mọ̀ le sì jẹ́ ìdáhùn, ṣùgbọ́n ìṣòro tí ó tóbi jùlọ ni láti pèsè ipènijà àti ìmọ́ràn tí aṣeyọ̀rí fún òṣíṣẹ́ náà.",
+"Àwọn ìwádìí nípa ìmọ̀ nípa ìmọ̀ nípa schizophrenia tọ́ka sí ìpìlẹ̀ ìjẹ́nẹ́ẹ̀tì sí ipò náà ṣùgbọ́n àwọn ohun mìíràn kópa. Láti inú ìmọ̀ rẹ nípa kókó náà mọ èwo nínú àwọn ọ̀rọ̀ wọ̀nyí kò tọ̀nà.
+A.Àpọ̀jù dopamine tàbí ìmọ̀lára sí dopamine lè jẹ́ ohun tí ó ń ṣe ìrànlọ́wọ́.
+B.Àwọn aláìsàn aláwọ̀ funfun máa ń ní àmì púpọ̀.
+C.Àìfọwọ́sowọ́pọ̀ kúrò nínú ipò ní Àgbáyé Kẹta jẹ́ 65%.
+D.Ìwọ̀n schizophrenia díẹ̀ tí wọ́n ṣàyẹ̀wò láàárín àwọn ará Adúláwọ̀ Amẹ́ríkà.",D,"Láti inú ìmọ̀ mi nípa kókó náà, àwọn ọ̀rọ̀ wọ̀nyí tí ó tọ̀nà ni:
+
+A. Àpọ̀jù dopamine tàbí ìmọ̀lára sí dopamine lè jẹ́ ohun tí ó ń ṣe ìrànlọ́wọ́.
+Ìwádìí ti ṣàfihàn pé àìsàn schizophrenia ní ìbámu pẹ̀lú àìsàn dopamine nínú ẹ̀mí.
+
+B. Àwọn aláìsàn aláwọ̀ funfun máa ń ní àmì púpọ̀.
+Ìwádìí ti ṣàfihàn pé àwọn aláìsàn schizophrenia máa ń ní àmì púpọ̀ bíi ìrẹ̀lẹ̀ ọkàn, ìrẹ̀lẹ̀ ọ̀rọ̀, àti ìrẹ̀lẹ̀ ìgbésí ayé.
+
+C. Àìfọwọ́sowọ́pọ̀ kúrò nínú ipò ní Àgbáyé Kẹta jẹ́ 65%.
+Èyí kò tọ̀nà, nítorí pé ìwádìí ti ṣàfihàn pé ìwọ̀n àìfọwọ́sowọ́pọ̀ kúrò nínú ipò ní Àgbáyé Kẹta jẹ́ ní ìgbà tí wọ́n bẹ̀rẹ̀ ìwádìí náà.
+
+D. Ìwọ̀n schizophrenia díẹ̀ tí wọ́n ṣàyẹ̀wò láàárín àwọn ará Adúláwọ̀ Amẹ́ríkà.
+Èyí kò tọ̀nà, nítorí pé ìwádìí ti ṣàfihàn pé ìwọ̀n schizophrenia láàárín àwọn ará Adúláwọ̀ Amẹ́ríkà jẹ́ díẹ̀ tó.
+
+Nítorí náà, àwọn ọ̀rọ̀ A, B, àti D jẹ́ ohun tí ó tọ̀nà láti inú ìmọ̀ mi nípa kókó náà.",

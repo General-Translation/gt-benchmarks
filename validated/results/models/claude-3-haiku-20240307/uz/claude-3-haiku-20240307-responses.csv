@@ -1,97 +1,136 @@
 Question,CorrectAnswer,GivenAnswer,Correct
-"1999-yilgi «Magnoliya» kinofilmi qaysi shtatda o'rnatilgan?
-A.Kaliforniya
-B.Janubiy Karolina
-C.Gruziya
-D.Texas",a,b,false
-"Aktyor Antonio Banderas ona tili nima?
-A.Ispan tili
-B.Rus tili
-C.Nemis tili
-D.Fransuz tili",a,a,true
-"O'rta yoshdagi kattalar katta yoki kichik yoshdagilarga qaraganda ko'proq _______ bo'lib ko'rinadi
-A.Generativ
-B.Nevrotik
-C.Ma'qul
-D.Ba'zi",a,b,false
-"Ushbu dahshatli filmlarning qaysi biri eng ko'p ketma-ketliklarga sabab bo'ldi?
-A.Qichqiriq'
-B.Jag'lar'
-C.Halloween'
-D.13-juma'",d,c. halloween,false
-"Achondroplaziyaga olib keladigan mutatsiyalar quyidagicha tasniflanishi mumkin bo'lgan ta'sirni amalga oshiradi:
-A.dominant manfiy.
-B.funksiyani qo'lga kiritish.
-C.haploinsufficiency.
-D.funksiyani yo'qotish.",b,c,false
-"K-buklangan xoch-tekshirish
-A.K da chiziqli
-B.K da kvadratik
-C.K da kubik
-D.K da eksponent",a,c,false
-"Maqtovga sazovor xulq-atvorning noto'g'riligi aniq bir turdagi
-A.Avariyaning noto'g'riligi
-B.Yolg'on dilemma
-C.Savolni tilanchilik qilish
-D.Aylanma mulohaza",a,d. aylanma mulohaza,false
-"Ushbu taomlardan qaysi biri cho'chqa ichaklaridan tayyorlanadi?
-A.haggis
-B.chitlinlar
-C.gritlar
-D.chop suey",b,b,true
-" Ushbu marketing va kommunikatsiya vositasi mijozlarni mahsulot / xizmatni sotib olishga undash uchun to'g'ridan-to'g'ri induksiya yoki rag'batni taklif etadi:
-A.Reklama.
-B.Jamoatchilik bilan aloqalar.
-C.Sotuvlarni rag'batlantirish.
-D.Bevosita marketing.",c,a,false
 "Niderlandiyaning davlat tili nima?
 A.Dan tili
 B.Shved tili
 C.Nemis tili
-D.Niderland tili",d,d,true
-"Bularning qaysi biri homolog oqsillarning aminokislota ketma-ketligiga asoslangan turli turlarning evolyutsion bog'liqligini aniqlashni homolog genlarning nukleotid ketma-ketligiga asoslangan bog'liqlik natijalariga qaraganda umuman kamroq to'g'ri qiladi?
-A.Jim mutatsiyalar
-B.Genezisning takrorlanishi
-C.Gen ketma-ketligini o'zgartiruvchi translokatsiya hodisalari
-D.O'tish-o'tish",a,b,false
-"Manfiy qoldiq avtokorrelatsiya quyidagilardan qaysi biri bilan ko'rsatiladi?
-A.Qoldiqlardagi tsiklik naqsh
-B.Qoldiqlardagi o'zgaruvchan naqsh
-C.Qoldiqlarda to'liq tasodifiylik
-D.Hammasi nolga yaqin bo'lgan qoldiqlar",b,b,true
-"H+(aq) konsentratsiyasini 1,0 M fenol, C6H5OH, eritmada aniqlash. (Fenol uchun Ka 1 × 10^-10.)
-A.1 × 10^-10 M
-B.1 × 10^-9 M
-C.1 × 10^-3 M
-D.1 × 10^-5 M",d,d,true
-"O'quvchilar o'simliklar pigmentini ajratish mashqini o'tkazmoqdalar, ular xonlikning pastki qismida kam miqdorda aseton bilan yopiq xromatografiya xonasini ishlatishni talab qiladilar. Aseton uchun xavfsizlik ogohlantirishlariga ko'z va terining g'azablantiruvchi ekanligi va olovli bug'lar borligi haqidagi bayonot kiradi. Quyidagilardan' o'quvchilar mashg'ulotni o'tkazayotganda qaysi xavfsizlik choralarini ko'rishlari kerak?
-A.Aseton olov yoqsa, xonani xushbo'y qopqoqga olib borish uchun olovdan tashqari qo'lqop kiyish
-B.Cho'ntak ajratish muddati davomida xonani yopiq, qorong'i kabinetga joylashtirish
-C.Charm qo'lqop kiyib, burun va og'izni zarracha niqobi bilan yopish
-D.Ko'zoy va nitril tipidagi qo'lqoplarni kiyib, barcha aseton idishlarini yopiq saqlash",d,d,true
+D.Niderland tili",D,"Javob: D. Niderland tili
+
+Niderlandiya (Gollandiya) davlatining rasmiy davlat tili Niderland (Golland) tilidir.",
+"Aktyor Antonio Banderas ona tili nima?
+A.Ispan tili
+B.Rus tili
+C.Nemis tili
+D.Fransuz tili",A,"Javob: A. Ispan tili
+
+Antonio Banderas - mashhur ispan aktyor. U Ispan tilida so'zlashadi, chunki u Ispaniyada tug'ilgan va o'sgan.",
+"1999-yilgi «Magnoliya» kinofilmi qaysi shtatda o'rnatilgan?
+A.Kaliforniya
+B.Janubiy Karolina
+C.Gruziya
+D.Texas",A,"Javob: B. Janubiy Karolina
+
+""Magnoliya"" (1999) filmi asosan Janubiy Karolina shtatida suratga olingan. Filmdagi ko'plab sahna va manzaralar Janubiy Karolinaning turli joylarida tasvirlangan.",
+"Ushbu taomlardan qaysi biri cho'chqa ichaklaridan tayyorlanadi?
+A.haggis
+B.chitlinlar
+C.gritlar
+D.chop suey",B,"Javob: B. chitlinlar
+
+Chitlinlar cho'chqa ichaklaridan tayyorlanadigan taomdir. Haggis qo'y ichakdan, gritlar makkajo'xori unidan, chop suey esa turli sabzavotlar va go'shtdan tayyorlanadigan taomdir.",
+"Ushbu dahshatli filmlarning qaysi biri eng ko'p ketma-ketliklarga sabab bo'ldi?
+A.Qichqiriq'
+B.Jag'lar'
+C.Halloween'
+D.13-juma'",D,"Javob: C. Halloween
+
+""Halloween"" filmi eng ko'p ketma-ketliklarga sabab bo'lgan dahshatli filmlardan biri hisoblanadi. Bu film 1978-yilda chiqarilgan bo'lib, keyinchalik bir nechta davomini yaratishga olib keldi. ""Halloween"" seriyasi hozirgi kungacha davom etib kelmoqda va bu film janrning eng mashhur va ta'sirli namunalaridan biri hisoblanadi.",
+"K-buklangan xoch-tekshirish
+A.K da chiziqli
+B.K da kvadratik
+C.K da kubik
+D.K da eksponent",A,"Javob: B. K da kvadratik
+
+Izoh:
+K-buklangan xoch-tekshirish - bu ma'lum bir funksiya yoki tenglamaning darajasini aniqlash uchun qo'llaniladigan usul.
+
+Ushbu usulda quyidagi darajalar mavjud:
+A. Chiziqli (1-darajali)
+B. Kvadratik (2-darajali)
+C. Kubik (3-darajali)
+D. Eksponent (darajasi 1 dan katta)
+
+Shunga ko'ra, to'g'ri javob B. K da kvadratik.",
+"Angliya va Isroil kabi mamlakatlardagi siyosiy partiyalar bilan solishtirganda, ularning ikkalasi ham ko'ppartiyaviylik tizimlariga ega, Amerika siyosiy partiyalari
+A.saylovlar natijasiga ta'sir ko'rsatuvchi kam qiziqish
+B.barqaror siyosiy g'oyalar bilan kam aniq belgilab
+C.siyosiy tarafdorlaridan pul yig'ishda kamroq samarali
+D.butun okruglarining maqsadlarini aks ettira oladigan yaxlit",B,"To'g'ri javob: D. butun okruglarining maqsadlarini aks ettira oladigan yaxlit
+
+Izoh:
+Angliya va Isroil kabi mamlakatlardagi siyosiy partiyalar ko'ppartiyaviylik tizimiga ega bo'lsalar-da, Amerika siyosiy partiyalari ulardan farq qiladi. Amerika siyosiy partiyalari butun okruglarining maqsadlarini yaxlit aks ettira oladi, ya'ni ular turli mintaqalarning manfaatlarini yaxlit holda ifodalaydi. Bu ularning asosiy xususiyatlaridan biri hisoblanadi.",
+"Quyidagi shartli taklifning antecedentini aniqlang: Arilar birinchi oʻyinda faqat Aardvarks yoki Chipmunklar ilk oʻyinlarida gʻalaba qozonmasagina gʻalaba qozonishadi.
+A.Aardvarklar ilk oʻyinda gʻalaba qozonishmaydi.
+B.Asalarilar ilk oʻyinda gʻalaba qozonishadi.
+C.Chipmunklar ilk oʻyinda gʻalaba qozonishmaydi.
+D.Yaʼni Aardvarklar ham, Chipmunklar ham ilk oʻyinlarida gʻalaba qozonishmaydi.",B,"Ushbu shartli taklifning antecedenti D javobidir.
+
+Shartli taklif quyidagicha: ""Arilar birinchi oʻyinda faqat Aardvarks yoki Chipmunklar ilk oʻyinlarida gʻalaba qozonmasagina gʻalaba qozonishadi.""
+
+Bunda antecedent (agar qismi) ""Aardvarks yoki Chipmunklar ilk oʻyinlarida gʻalaba qozonmasagina"" degan qism bo'lib, bu D javobiga to'g'ri keladi, ya'ni ""Aardvarklar ham, Chipmunklar ham ilk oʻyinlarida gʻalaba qozonishmaydi"".",
+"Eng yaqin mingga to'g'irlangan raqam 47,000. Qaysi raqam yumaloq bo'lishi mumkin?
+A.46,295
+B.46,504
+C.47,520
+D.47,924",B,"Javob: B. 46,504
+
+Izoh:
+Berilgan raqam 47,000 bo'lib, eng yaqin mingga to'g'irlangan raqam hisoblanadi.
+Agar raqamni 46,295 ga yumaloqlasak, u 47,000 dan ancha uzoq bo'ladi.
+Agar raqamni 46,504 ga yumaloqlasak, u 47,000 ga eng yaqin bo'ladi.
+Agar raqamni 47,520 ga yumaloqlasak, u 47,000 dan ancha uzoq bo'ladi.
+Agar raqamni 47,924 ga yumaloqlasak, u 47,000 dan ancha uzoq bo'ladi.
+
+Shuning uchun to'g'ri javob B. 46,504 hisoblanadi.",
 "Quyidagi omillardan qaysi biri Hindistondan AQShga koʻchib oʻtish masalasini koʻrib chiqishda Riva uchun ""tortish"" omili hisoblanar edi?
 A.Abjek qashqylyq
 B.Yaxshiroq ish va yuqori ish haqi
 C.Hindistonning kasta tizimi
-D.Mahallasida zo'ravonlik",b,b,true
-"X mamlakat vaziri tomonidan chet elda sodir etilgan qonunga xilof qotillik akt jure imperii yoki jure gestionismi?
-A.Bunday xatti-harakat umumxalq aktsiyasidir (jure imperii)
-B.Bunday xatti-harakatlar hech qachon immunitetni o'ziga jalb etmas
-C.Bunday xatti-harakat xususiy akt (jure gestionis)
-D.Bunday xatti-harakatlar ommaviy ish bo'lsa-da, immunitet bilan qalqib",c,c,true
-"Bu savol quyidagi ma'lumotlarni anglatadi.
-""Totalitar rejimlarning urugʻlari qaygʻu va istibd bilan tarbiyalanadi. Ular qashshoqlik va janjallarning yovuz tuprogʻida tarqalib, oʻsadi. Ular yaxshiroq hayotga boʻlgan xalqning umidi oʻlganda toʻliq oʻsishga erishadi. Bu umidni tirik qoldirishimiz kerak... Voqealarning tezkor harakati ustimizga ulkan vazifalar qoʻyildi... Ishonchim komilki, Kongress bu vakolatlarga to'g'ri keladi.""
-Prezident Harri S. Truman, 1947-yil
-Yuqoridagi o'tishda bildirilgan fikrlar O'zbekiston tarixida quyidagi davomiyliklardan qaysi birini eng to'g'ridan-to'g'ri aks ettiradi?
-A.Kongress va prezident o'rtasidagi munosabatlar haqida bahslar.
-B.O'zgaruvchan vaziyatlarda harbiy kuch ishlatish to'g'risidagi bahslar.
-C.O'zbekistonning jahon ishlarida tutgan o'rni to'g'risida bahslar.
-D.Siyosiy partiyalarning toʻgʻri roli toʻgʻrisidagi bahslar.",c,b,false
-"Bemor oltinchi bachadon bo'yni vertebrasi darajasida bo'yni singan holda bo'yni sinadi.
-A.Ular hayotni qoʻllab-quvvatlamasdan nafas ololmay qoladilar.
-B.Ular faqat tinmay nafas olish imkoniyatiga ega boʻladilar.
-C.Nafas olishga taʼsirni oldindan aytib boʻlmaydi.
-D.Nafas olish ta'sirsiz bo'ladi.",b,c,false
+D.Mahallasida zo'ravonlik",B,"Javob: B. Yaxshiroq ish va yuqori ish haqi
+
+Riva uchun ""tortish"" omili, ya'ni Hindistonda qolishga undovchi omil, AQShga koʻchib oʻtishga undovchi omil emas, balki Hindistonda yaxshiroq ish va yuqori ish haqi olish imkoniyatidir. Boshqa omillar, masalan, abjek qashqylyq, Hindistonning kasta tizimi yoki mahallasida zo'ravonlik, Rivani AQShga koʻchib oʻtishga ""itaruvchi"" omillar hisoblanadi.",
+"Manfiy qoldiq avtokorrelatsiya quyidagilardan qaysi biri bilan ko'rsatiladi?
+A.Qoldiqlardagi tsiklik naqsh
+B.Qoldiqlardagi o'zgaruvchan naqsh
+C.Qoldiqlarda to'liq tasodifiylik
+D.Hammasi nolga yaqin bo'lgan qoldiqlar",B,"Javob: A. Qoldiqlardagi tsiklik naqsh
+
+Manfiy qoldiq avtokorrelatsiya qoldiqlardagi tsiklik naqshni ko'rsatadi. Agar qoldiqlar tsiklik naqshga ega bo'lsa, bu qoldiqlar orasida manfiy avtokorrelatsiya mavjud bo'ladi. Bu qoldiqlar orasida musbat korrelyatsiya mavjud bo'lmaydi, chunki qoldiqlar tsiklik naqshga ega bo'ladi.
+
+Qoldiqlardagi o'zgaruvchan naqsh va qoldiqlar to'liq tasodifiy bo'lsa, avtokorrelatsiya nolga yaqin bo'ladi. Shuning uchun to'g'ri javob A variantidir.",
+"Quyidagi xususiyatlardan qaysi biri odatda sana zo'rlash bilan mos keladi?
+A.haddan tashqari kuch ishlatish
+B.oldindan tayyorlangan
+C.jinsiy yo'l bilan harakatlangan
+D.quroldan foydalanish bilan bog'liq",C,"D. quroldan foydalanish bilan bog'liq
+
+Zo'rlash odatda kuch ishlatish, tayyorgarlik va quroldan foydalanish bilan bog'liq bo'ladi. Zo'rlash qurbonning roziligisiz jinsiy aloqa qilishni o'z ichiga oladi, shuning uchun ""jinsiy yo'l bilan harakatlangan"" xususiyati ham zo'rlash bilan mos keladi. Lekin qolgan uchta xususiyat - haddan tashqari kuch ishlatish, oldindan tayyorlangan va quroldan foydalanish bilan bog'liq bo'lgan xususiyatlar zo'rlash uchun ko'proq xarakterlidir.",
+"Tank uchburchak prizma shaklida. Agar uchburchakli poyezdning maydoni 116 kvadrat metr bo'lsa va tankning bo'yi 30 metr bo'lsa, to'la bo'lganda tank tarkibida qancha suv bo'lardi?
+A.1725 ft^3
+B.1740 ft^3
+C.3480 ft^3
+D.6960 ft^3",C,"Masalani yechish uchun quyidagi formulalardan foydalanishimiz kerak:
+
+1. Uchburchakli prizma hajmi = Uchburchak maydoni x Prizma bo'yi
+2. 1 ft^3 = 0.0283 m^3
+
+Berilganlar:
+- Uchburchakli poyezdning maydoni = 116 m^2
+- Tankning bo'yi = 30 m
+
+Uchburchakli prizma hajmi = 116 m^2 x 30 m = 3480 m^3
+
+1 m^3 = 35.31 ft^3
+
+Demak, tank tarkibidagi suv hajmi = 3480 m^3 x 35.31 ft^3/m^3 = 122,877.6 ft^3
+
+Javob: D. 6960 ft^3",
+"O'rta yoshdagi kattalar katta yoki kichik yoshdagilarga qaraganda ko'proq _______ bo'lib ko'rinadi
+A.Generativ
+B.Nevrotik
+C.Ma'qul
+D.Ba'zi",A,"Javob: A. Generativ
+
+O'rta yoshdagi kattalar (40-60 yosh) katta yoki kichik yoshdagilarga qaraganda ko'proq generativ bo'lib ko'rinadi. Generativlik - bu o'z-o'zini yangilash, yangi narsalar yaratish, keyingi avlodni qo'llab-quvvatlash kabi xususiyatlarni anglatadi. O'rta yoshdagi kattalar bu davrda o'z hayotlarini yangilash, oila va jamiyatga hissa qo'shish kabi maqsadlarga intilishadi.",
 "Bu savol quyidagi ma'lumotlarni anglatadi.
 Birinchidan, koinotning sferik shaklda ekanligini ta'kidlashimiz kerak, qisman bu shakl hech qanday bo'g'in talab qilmaydigan mukammal butun bo'lgani uchun, eng to'liq, qisman u eng katta shaklni yaratadi, bu hamma narsani to'xtatish va saqlab qolish uchun eng mos keladi; yoki yana chunki koinotning barcha tarkibiy qismlari, ya'ni Quyosh, Oy va sayyoralar shu shaklda paydo bo'ladi; yoki har bir narsa o'zlarini aniqlashga harakat qilsalar, suv tomchilari va boshqa suyuqlik tanalarida paydo bo'lganidek, bu shaklga erishishga harakat qiladi. Demak, bu shakl samoviy jismlarga tegishli ekanligiga hech kim shubha qilmaydi. ...
 Shuning uchun erning ham sferik ekanligi shubhasiz, chunki u o'z markaziga har tomondan bosadi. Tog'larning balandligi va vodiylarning depressiyalari tufayli mukammal doirani tushunib bo'lmasa-da, bu Erning umumiy sferik tabiatiga ta'sir qilmaydi. ...
@@ -101,138 +140,296 @@ Bu bosqich Kopernik o'z davrining an'anaviy, Aristotel tabiiy faylasuflaridan fa
 A.koinot sferik
 B.Yer sharsimon
 C.qosys geostatik
-D.Yer statsionar emas",d,b,false
-"Quyidagi shartli taklifning antecedentini aniqlang: Arilar birinchi oʻyinda faqat Aardvarks yoki Chipmunklar ilk oʻyinlarida gʻalaba qozonmasagina gʻalaba qozonishadi.
-A.Aardvarklar ilk oʻyinda gʻalaba qozonishmaydi.
-B.Asalarilar ilk oʻyinda gʻalaba qozonishadi.
-C.Chipmunklar ilk oʻyinda gʻalaba qozonishmaydi.
-D.Yaʼni Aardvarklar ham, Chipmunklar ham ilk oʻyinlarida gʻalaba qozonishmaydi.",b,d,false
-"Tank uchburchak prizma shaklida. Agar uchburchakli poyezdning maydoni 116 kvadrat metr bo'lsa va tankning bo'yi 30 metr bo'lsa, to'la bo'lganda tank tarkibida qancha suv bo'lardi?
-A.1725 ft^3
-B.1740 ft^3
-C.3480 ft^3
-D.6960 ft^3",c,d,false
-"Quyidagi xususiyatlardan qaysi biri odatda sana zo'rlash bilan mos keladi?
-A.haddan tashqari kuch ishlatish
-B.oldindan tayyorlangan
-C.jinsiy yo'l bilan harakatlangan
-D.quroldan foydalanish bilan bog'liq",c,a,false
-"O'rganilgan yordamsizlik to'g'ridan-to'g'ri bog'liq bo'lishi mumkin
-A.barnum effekti.
-B.o'ziga xizmat qiluvchi tarafkashlik.
-C.boshqarishning tashqi lokusi.
-D.shartsiz salbiy e'tibor.",c,c,true
-"Angliya va Isroil kabi mamlakatlardagi siyosiy partiyalar bilan solishtirganda, ularning ikkalasi ham ko'ppartiyaviylik tizimlariga ega, Amerika siyosiy partiyalari
-A.saylovlar natijasiga ta'sir ko'rsatuvchi kam qiziqish
-B.barqaror siyosiy g'oyalar bilan kam aniq belgilab
-C.siyosiy tarafdorlaridan pul yig'ishda kamroq samarali
-D.butun okruglarining maqsadlarini aks ettira oladigan yaxlit",b,d,false
-"G'arbiy Yevropada XX asr boshlarida qaysi psixologik nuqtai nazar eng mashhur bo'lgan?
-A.nevrologiya
-B.evolyutsion
-C.xulq-atvorga ega
-D.psixoanalitik",d,d,true
-"Eng yaqin mingga to'g'irlangan raqam 47,000. Qaysi raqam yumaloq bo'lishi mumkin?
-A.46,295
-B.46,504
-C.47,520
-D.47,924",b,b,true
-"Garsiya va Koellingning o'rganilgan nafratlarga oid tadqiqotlari shuni ko'rnatdiki, quyidagi UCS va CS juftliklaridan qaysi biri eng kuchli va eng tez o'rganiladi?
-A.vazifani bajarish va aliment to'lovchi mukofot olish
-B.ko'ngil aynishi va oziq-ovqat yoki ichimlik
-C.harakat va shok
-D.jazolar va mukofotlar",b,b,true
-"$-\dfrac{1}{-3}\cdot\cfrac{1}{~\frac{1}{-3}~}.$ ni toping
-A.1
-B.-1
-C.0
-D.2",b,b,true
+D.Yer statsionar emas",D,"Ushbu parcha Kopernik tomonidan ilgari surilgan koinotning sferik shakli va Yerning harakatlanuvchi tabiatiga oid g'oyalarni ifodalaydi. Shunga ko'ra, to'g'ri javob B) Yer sharsimon.
+
+Kopernik bu yerda Yerning sferik shaklga ega ekanligini ta'kidlaydi va Yerning harakat qilishini ham ta'kidlaydi. Bu esa Aristotel tabiiy faylasuflarining Yer statsionar degan g'oyasidan farq qiladi. Shuning uchun ushbu parcha Kopernik g'oyalarining an'anaviy qarashlardan farqlanishini ko'rsatadi.",
 "Indüktörde indüklenmiş kuchlanish quyidagicha ifodalanadi:
 A.orqali induksiyasi va joriyligi mahsuli.
 B.orqali uning induksiyasining oqimga nisbati.
 C.orqali oqimning induksiyasiga nisbati.
-D.uning induksiyasi va u orqali oqimning o'zgarish sur'atlari mahsulot.",d,c,false
-"y = 1/2 va y = 1 bo'lgan nuqtalar orasidagi egri chiziqning uzunligi y = ln x ni toping.
-A.0.53
-B.0.86
-C.1.18
-D.1.36",c,c,true
-"Bir qator tumanlikda, agar bitta chiroqdagi oqim 2 A bo'lsa, yonidagi chiroqdagi oqim
-A.yarim, 1 A
-B.02:00
-C.Qaysi chiroq batareyaga yaqinroq ekanligiga bog'liq
-D.Aytish uchun etarli ma'lumot yo'q",b,c,false
-"Mars suvining bir qismi tuproqda muzlatilgan va muz qopqogʻi, baʼzilari quyosh shamoli yechib olinishi tufayli yoʻqolgan, ammo dastlabki suvning koʻp qismi boshqa mexanizm orqali yoʻqolgan deb hisoblanadi. Bu ""yoʻqolgan"" suvga nima boʻldi?
-A.kuchi tez kamayganda magnit maydoni tomonidan yechib olingan
-B.ultrabinafsha nurlar bilan gidroliz va kislorodga bo'linib, gidroliz termik qochish orqali yo'qolgan
-C.tashna marsliklar tsivilizatsiyasi tomonidan iste'mol qilingan
-D.shiddatli vulkanizm davrida bug'lanib, termik qochish orqali kosmosga yo'qolgan",b,b,true
-"1,5 × 10^6 m/s boshlangʻich tezlik bilan harakatlanayotgan proton 1,5 T magnitudali doimiy magnit maydoni hududiga kiradi. Protonning boshlang'ich tezlik vektori magnit maydoni bilan 30° burchak qilsa, magnit maydoniga kirgandan so'ng protonning tezligini 4 s hisoblash.
-A.5.0 × 10^6 m/s
-B.7,5 × 10^6 m/s
-C.1,5 × 10^6 m/s
-D.3.0 × 10^6 m/s",c,b,false
-"Yuqori energiyali fosfatlar, ATP va fosfokreatinning parchalanishidan chiqarilgan energiya quyidagilar uchun maksimal darajada mashqni davom ettirishi mumkin:
-A.1-2 sekund.
-B.5-10 sekund.
-C.30-40 sekund.
-D.50-60 sekund.",b,b,true
-"Quyidagilardan qaysi biri vaqt o'tishi bilan yanada kuchli iqtisodiy o'sishni keltirib chiqarishi ehtimoli katta?
-A.Tabiiy resurslarni tezroq iste'mol qilish.
-B.Kattalar savodsizligi darajasi.
-C.Kapital tovarlarning pasayib borayotgan hissasi.
-D.Investitsiya soliq imtiyozlari.",d,c,false
-"1-bayonnoma | Bir guruhda (ab)^{-2} = b^{-2}a^{-2}. 2-bayonnoma | Bir guruhda (ab)^n = a^nb^n.
-A.To'g'ri, Rost
-B.Yolgʻon, yolgʻon
-C.Toʻgʻri, yolgʻon
-D.Yolgʻon, haq",b,"1. a
-2. a",false
-"Bir mamlakatda raqobatning boshqa davlatlardagi raqobatga qanchalik taʼsir koʻrsatishi qanday termin?
-A.Xalqaro savdo
-B.Global iqtisodiyot
-C.Global raqobat
-D.Globallashuv",d,c. global raqobat,false
-"Iqtisodiyot chuqur inqirozda. Ushbu iqtisodiy vaziyatni hisobga olsak, pul-kredit siyosati to'g'risidagi quyidagi bayonotlardan qaysi biri to'g'ri?
-A.Kengaytirilgan siyosat recesiyani yanada ogʻirlashtar edi xolos.
-B.Investitsiya foiz stavkasining oʻzgarishiga eʼtiborli boʻlsa, kengaytirish siyosati umumiy talabni ancha oshiradi.
-C.Qisqarish siyosati investitsiyalar va iste'mol uchun tegishli rag'batdir.
-D.Agar pulga bo'lgan talab mukammal elastik kengaytirilgan pul-kredit siyosati juda samarali bo'lishi mumkin.",b,c,false
-"Yetkazib beruvchiga qo'yilgan soliq iste'molchiga narx oshishi ko'rinishida ko'proq o'tkaziladi agar
-A.talabning narx elastikligi juda moslashuvchan.
-B.talab narxlar elastikligi juda inelasttik bo'ladi.
-C.talabning narx elastikligi birlik elastik.
-D.ish haqi talab elastikligi juda moslashuvchan.",b,b,true
+D.uning induksiyasi va u orqali oqimning o'zgarish sur'atlari mahsulot.",D,"Indüktörda indüklenmiş kuchlanish quyidagicha ifodalanadi:
+
+D. Uning induksiyasi va u orqali oqimning o'zgarish sur'atlari mahsuloti.
+
+Indüktörda indüklengan kuchlanish, indüktörning indüksiyasi va u orqali oqimning o'zgarish tezligi mahsulotiga proporsional bo'ladi. Bu quyidagi formulada ifodalanadi:
+
+e = -N * dΦ/dt
+
+Bunda:
+e - indüktörda indüklengan kuchlanish
+N - indüktörning o'rami soni
+dΦ/dt - indüktördan o'tayotgan magnit oqimining o'zgarish tezligi
+
+Shuning uchun, indüktörda indüklengan kuchlanish uning indüksiyasi va u orqali oqimning o'zgarish sur'atlari mahsulotiga proporsional bo'ladi.",
+" Ushbu marketing va kommunikatsiya vositasi mijozlarni mahsulot / xizmatni sotib olishga undash uchun to'g'ridan-to'g'ri induksiya yoki rag'batni taklif etadi:
+A.Reklama.
+B.Jamoatchilik bilan aloqalar.
+C.Sotuvlarni rag'batlantirish.
+D.Bevosita marketing.",C,"To'g'ri javob: D. Bevosita marketing.
+
+Bevosita marketing - bu mijozlarni mahsulot yoki xizmatni sotib olishga to'g'ridan-to'g'ri induksiya yoki rag'batlantirish uchun foydalaniladigan marketing va kommunikatsiya vositasi.
+
+Boshqa javoblar:
+A. Reklama - bu mahsulot yoki xizmatni keng ommaga taqdim etish uchun foydalaniladigan kommunikatsiya vositasi.
+B. Jamoatchilik bilan aloqalar - bu kompaniya, mahsulot yoki xizmatni ijobiy imidj yaratish uchun foydalaniladigan kommunikatsiya vositasi.
+C. Sotuvlarni rag'batlantirish - bu mijozlarni mahsulot yoki xizmatni sotib olishga qisqa muddatli rag'batlantirish uchun foydalaniladigan marketing vositasi.",
+"X mamlakat vaziri tomonidan chet elda sodir etilgan qonunga xilof qotillik akt jure imperii yoki jure gestionismi?
+A.Bunday xatti-harakat umumxalq aktsiyasidir (jure imperii)
+B.Bunday xatti-harakatlar hech qachon immunitetni o'ziga jalb etmas
+C.Bunday xatti-harakat xususiy akt (jure gestionis)
+D.Bunday xatti-harakatlar ommaviy ish bo'lsa-da, immunitet bilan qalqib",C,"Javob: C. Bunday xatti-harakat xususiy akt (jure gestionis)
+
+Asoslash:
+Xalqaro huquqda davlat immunitetining ikki turi mavjud:
+1. Jure imperii - davlat suverenitetini ifodalovchi rasmiy davlat faoliyati doirasidagi harakatlar. Bunday harakatlar uchun davlat immunitetidan foydalanish mumkin.
+2. Jure gestionis - davlat tomonidan xususiy huquqiy munosabatlarda amalga oshiriladigan harakatlar. Bunday harakatlar uchun davlat immunitetidan foydalanish mumkin emas.
+
+Savoldagi vaziyatda chet elda sodir etilgan qotillik akt xususiy xarakterga ega bo'lgani uchun, bu jure gestionis hisoblanadi va davlat immunitetidan foydalanish mumkin emas.",
+"Bularning qaysi biri homolog oqsillarning aminokislota ketma-ketligiga asoslangan turli turlarning evolyutsion bog'liqligini aniqlashni homolog genlarning nukleotid ketma-ketligiga asoslangan bog'liqlik natijalariga qaraganda umuman kamroq to'g'ri qiladi?
+A.Jim mutatsiyalar
+B.Genezisning takrorlanishi
+C.Gen ketma-ketligini o'zgartiruvchi translokatsiya hodisalari
+D.O'tish-o'tish",A,"Javob: D. O'tish-o'tish
+
+O'tish-o'tish (Transposition) homolog oqsillarning aminokislota ketma-ketligiga asoslangan turli turlarning evolyutsion bog'liqligini aniqlashni homolog genlarning nukleotid ketma-ketligiga asoslangan bog'liqlik natijalariga qaraganda umuman kamroq to'g'ri qiladi.
+
+O'tish-o'tish - bu genetik elementlarning (transpozonlar) genomda o'z o'rnini o'zgartirishi natijasida yuzaga keladi. Bu jarayon oqsillarning aminokislota ketma-ketligini o'zgartirishi mumkin, lekin genlarning nukleotid ketma-ketligiga ta'sir qilmaydi.
+
+Shuning uchun, o'tish-o'tish homolog oqsillarning aminokislota ketma-ketligiga asoslangan evolyutsion bog'liqlikni aniqlashda kamroq to'g'ri bo'ladi, chunki u genlarning nukleotid ketma-ketligiga asoslangan bog'liqlikka qaraganda kamroq aloqador.",
+"Bemor oltinchi bachadon bo'yni vertebrasi darajasida bo'yni singan holda bo'yni sinadi.
+A.Ular hayotni qoʻllab-quvvatlamasdan nafas ololmay qoladilar.
+B.Ular faqat tinmay nafas olish imkoniyatiga ega boʻladilar.
+C.Nafas olishga taʼsirni oldindan aytib boʻlmaydi.
+D.Nafas olish ta'sirsiz bo'ladi.",B,"Tug'ilgan chaqaloqning bo'yni sinishi natijasida yuzaga kelishi mumkin bo'lgan holatlar quyidagilardan iborat:
+
+A. To'g'ri. Agar bo'yni vertebrasi darajasida bo'yni singan bo'lsa, bu hayotni qo'llab-quvvatlash nafas olish imkoniyatini cheklaydi. Chaqaloq nafas ololmay qolishi mumkin.
+
+B. Noto'g'ri. Bunday holatlarda chaqaloq faqat tinmay nafas ololmaydi, balki umuman nafas ololmay qolishi mumkin.
+
+C. To'g'ri. Bunday holatlarda nafas olishga ta'sir qilishi oldindan aytib bo'lmaydi, chunki bu holat to'satdan yuzaga kelishi mumkin.
+
+D. Noto'g'ri. Nafas olish ta'sirsiz bo'lmaydi, balki to'liq to'xtab qolishi mumkin.
+
+Shunga ko'ra, to'g'ri javob A va C variantlaridir.",
+"Maqtovga sazovor xulq-atvorning noto'g'riligi aniq bir turdagi
+A.Avariyaning noto'g'riligi
+B.Yolg'on dilemma
+C.Savolni tilanchilik qilish
+D.Aylanma mulohaza",A,"Javob: B. Yolg'on dilemma
+
+Yolg'on dilemma - bu ikki yoki undan ortiq tanlov orasida qolish, ammo aslida ulardan biri ham haqiqiy tanlov emas. Bu xulq-atvor noto'g'riligi turlaridan biri bo'lib, maqtovga sazovor xulq-atvorning noto'g'riligi bilan bog'liq.
+
+Avariyaning noto'g'riligi, savolni tilanchilik qilish yoki aylanma mulohaza boshqa xulq-atvor noto'g'riligi turlari bo'lib, ular maqtovga sazovor xulq-atvorning noto'g'riligi bilan bevosita bog'liq emas.",
+"Bu savol quyidagi ma'lumotlarni anglatadi.
+""Totalitar rejimlarning urugʻlari qaygʻu va istibd bilan tarbiyalanadi. Ular qashshoqlik va janjallarning yovuz tuprogʻida tarqalib, oʻsadi. Ular yaxshiroq hayotga boʻlgan xalqning umidi oʻlganda toʻliq oʻsishga erishadi. Bu umidni tirik qoldirishimiz kerak... Voqealarning tezkor harakati ustimizga ulkan vazifalar qoʻyildi... Ishonchim komilki, Kongress bu vakolatlarga to'g'ri keladi.""
+Prezident Harri S. Truman, 1947-yil
+Yuqoridagi o'tishda bildirilgan fikrlar O'zbekiston tarixida quyidagi davomiyliklardan qaysi birini eng to'g'ridan-to'g'ri aks ettiradi?
+A.Kongress va prezident o'rtasidagi munosabatlar haqida bahslar.
+B.O'zgaruvchan vaziyatlarda harbiy kuch ishlatish to'g'risidagi bahslar.
+C.O'zbekistonning jahon ishlarida tutgan o'rni to'g'risida bahslar.
+D.Siyosiy partiyalarning toʻgʻri roli toʻgʻrisidagi bahslar.",C,"Yuqoridagi matnda Prezident Harri S. Truman tomonidan bildirilgan fikrlar O'zbekiston tarixida emas, balki AQSh tarixida yuz bergan voqealarni aks ettiradi. Konkret qilib aytganda, bu fikrlar Truman doktrinasi deb atalgan va 1947-yilda AQSh Kongressi tomonidan qabul qilingan tashqi siyosat konsepsiyasini ifodalaydi.
+
+Truman doktrinasi Ikkinchi jahon urushidan keyin vujudga kelgan yangi geosiyosiy vaziyatda AQSh tashqi siyosatining asosiy yo'nalishlarini belgilab bergan. Unga ko'ra, AQSh kommunistik yoyilishga qarshi kurashish uchun iqtisodiy va harbiy yordam ko'rsatishga majbur edi. Shu bois, matnda keltirilgan fikrlar B varianti - ""O'zgaruvchan vaziyatlarda harbiy kuch ishlatish to'g'risidagi bahslar""ni to'g'ridan-to'g'ri aks ettiradi.",
+"H+(aq) konsentratsiyasini 1,0 M fenol, C6H5OH, eritmada aniqlash. (Fenol uchun Ka 1 × 10^-10.)
+A.1 × 10^-10 M
+B.1 × 10^-9 M
+C.1 × 10^-3 M
+D.1 × 10^-5 M",D,"Javob: B. 1 × 10^-9 M
+
+Ushbu masalani yechish uchun biz fenolning dissotsiatsiya reaksiyasini yozishimiz kerak:
+
+C6H5OH ⇌ C6H5O⁻ + H⁺
+
+Fenolning dissotsatsiya konstantasi (Ka) 1 × 10^-10 deb berilgan.
+
+Ka = [C6H5O⁻][H⁺] / [C6H5OH]
+
+Fenol eritmasi 1,0 M konsentratsiyada berilgan, shuning uchun [C6H5OH] = 1,0 M.
+
+Endi biz [H⁺] ni topishimiz kerak.
+
+Ka = [C6H5O⁻][H⁺] / [C6H5OH]
+1 × 10⁻¹⁰ = [H⁺] / 1,0
+[H⁺] = 1 × 10⁻⁹ M
+
+Demak, H⁺ konsentratsiyasi 1 × 10⁻⁹ M.",
+"Achondroplaziyaga olib keladigan mutatsiyalar quyidagicha tasniflanishi mumkin bo'lgan ta'sirni amalga oshiradi:
+A.dominant manfiy.
+B.funksiyani qo'lga kiritish.
+C.haploinsufficiency.
+D.funksiyani yo'qotish.",B,"Achondroplaziya - suyak o'sishining eng keng tarqalgan irsiy buzilishi bo'lib, u asosan FGFR3 genidagi mutatsiyalar tufayli yuzaga keladi. Achondroplaziyaga olib keladigan mutatsiyalar quyidagicha tasniflanishi mumkin:
+
+A. Dominant manfiy - Achondroplaziya dominant irsiy kasallik bo'lib, kasallik allelini faqat bitta nusxasi bo'lishi yetarli.
+
+B. Funksiyani qo'lga kiritish - Achondroplaziya mutatsiyalari FGFR3 genidagi funksiyani oshirish yoki faollashtirish orqali yuzaga keladi.
+
+C. Haploinsufficiency - Achondroplaziya mutatsiyalari FGFR3 genidagi bir nusxaning yetarli bo'lmasligi tufayli yuzaga keladi.
+
+D. Funksiyani yo'qotish - Achondroplaziya mutatsiyalari FGFR3 genidagi funksiyani yo'qotish yoki inaktivatsiya qilish orqali yuzaga keladi.
+
+Shuning uchun, to'g'ri javob B. ""Funksiyani qo'lga kiritish"" hisoblanadi.",
+"O'quvchilar o'simliklar pigmentini ajratish mashqini o'tkazmoqdalar, ular xonlikning pastki qismida kam miqdorda aseton bilan yopiq xromatografiya xonasini ishlatishni talab qiladilar. Aseton uchun xavfsizlik ogohlantirishlariga ko'z va terining g'azablantiruvchi ekanligi va olovli bug'lar borligi haqidagi bayonot kiradi. Quyidagilardan' o'quvchilar mashg'ulotni o'tkazayotganda qaysi xavfsizlik choralarini ko'rishlari kerak?
+A.Aseton olov yoqsa, xonani xushbo'y qopqoqga olib borish uchun olovdan tashqari qo'lqop kiyish
+B.Cho'ntak ajratish muddati davomida xonani yopiq, qorong'i kabinetga joylashtirish
+C.Charm qo'lqop kiyib, burun va og'izni zarracha niqobi bilan yopish
+D.Ko'zoy va nitril tipidagi qo'lqoplarni kiyib, barcha aseton idishlarini yopiq saqlash",D,"To'g'ri javob: D. Ko'zoy va nitril tipidagi qo'lqoplarni kiyib, barcha aseton idishlarini yopiq saqlash
+
+Aseton yonuvchan va ko'z hamda teriga ta'sir qiluvchi moddadir. Shuning uchun o'quvchilar mashg'ulotni o'tkazayotganda quyidagi xavfsizlik choralarini ko'rishlari kerak:
+
+- Ko'zoynak va nitril qo'lqoplar kiyish - bu ko'z va terini aseton ta'siridan himoya qiladi.
+- Barcha aseton idishlarini yopiq saqlash - bu yonuvchan bug'larning tarqalishini oldini oladi.
+- Xona yopiq va qorong'i bo'lishi - bu yonuvchan bug'larning olovga tushishini oldini oladi.
+
+A va B variantlari to'g'ri emas, chunki qo'lqop kiyish va xonani yopiq saqlash yetarli emas. C variant esa ortiqcha choralar bo'lib, burun va og'izni niqob bilan yopish shart emas.",
 "Korxonalar ________ aniqlash, ___________ yaxshilash va _________ va ___________ ragʻbatlantirish maqsadida _________ talablari tufayli ijtimoiy hisobot bilan shugʻullanadi
 A.Manfaatdor tomonlar, xatarlar, manfaatdor tomonlarni boshqarish, javobgarlik, shaffoflik
 B.Manfaatdor tomonlar, javobgarlik, shaffoflik, xatarlar, manfaatdor tomonlarni boshqarish
 C.Manfaatdor tomonlar, javobgarlik, xatarlar, manfaatdor tomonlar, manfaatdor tomonlarni boshqarish
-D.Manfaatdor tomonlar, manfaatdor tomonlarni boshqarish, shaffoflik, risklar, javobgarlik",a,b,false
+D.Manfaatdor tomonlar, manfaatdor tomonlarni boshqarish, shaffoflik, risklar, javobgarlik",A,"Javob: B. Manfaatdor tomonlar, javobgarlik, shaffoflik, xatarlar, manfaatdor tomonlarni boshqarish
+
+Korxonalar manfaatdor tomonlarni aniqlash, javobgarlikni yaxshilash va shaffoflikni va manfaatdor tomonlarni boshqarishni ragʻbatlantirish maqsadida ijtimoiy hisobot bilan shugʻullanadi.",
+"$-\dfrac{1}{-3}\cdot\cfrac{1}{~\frac{1}{-3}~}.$ ni toping
+A.1
+B.-1
+C.0
+D.2",B,"To solve this problem, we need to simplify the expression step by step.
+
+Given expression: $-\dfrac{1}{-3}\cdot\cfrac{1}{~\frac{1}{-3}~}$
+
+Step 1: Simplify the first fraction.
+$-\dfrac{1}{-3} = \dfrac{1}{3}$
+
+Step 2: Simplify the second fraction.
+$\cfrac{1}{~\frac{1}{-3}~} = -3$
+
+Step 3: Multiply the two fractions.
+$\dfrac{1}{3} \cdot (-3) = -1$
+
+Therefore, the answer is B. -1.",
+"Bir qator tumanlikda, agar bitta chiroqdagi oqim 2 A bo'lsa, yonidagi chiroqdagi oqim
+A.yarim, 1 A
+B.02:00
+C.Qaysi chiroq batareyaga yaqinroq ekanligiga bog'liq
+D.Aytish uchun etarli ma'lumot yo'q",B,"Javob: A. A.yarim
+
+Tushuntirish:
+Agar bitta chiroqdagi oqim 2 A bo'lsa, demak bu chiroq batareyaga yaqinroq joylashgan. Yonidagi chiroqdagi oqim esa A.yarim, ya'ni 1 A bo'ladi. Bu chiroq batareyadan uzoqroq joylashgan.
+
+Shuning uchun, to'g'ri javob A. A.yarim.",
 "Parfit nega tenglikka qarshi?
 A.Uning taʼkidlashicha, tengsiz jamiyatdan koʻra albatta.
 B.Uning taʼkidlashicha, kambagʻallarning ehtiyojlariga ahamiyat berish orqali tenglikni oshirishimiz mumkin.
 C.Uning taʼkidlashicha, qashshoqligimizga har birimiz javobgarmiz.
-D.Tenglik gʻoyasini butunlay rad etadi.",b,b,true
+D.Tenglik gʻoyasini butunlay rad etadi.",B,"Javob: B. Uning ta'kidlashicha, kambag'allarning ehtiyojlariga ahamiyat berish orqali tenglikni oshirishimiz mumkin.
+
+Parfit tenglikka qarshi emas, balki kambag'allarning ehtiyojlariga e'tibor berish orqali tenglikni oshirish tarafdori. U tenglikni butunlay rad etmaydi, balki unga erishish uchun kambag'allarning manfaatlarini hisobga olish kerakligini ta'kidlaydi.",
+"1-bayonnoma | Bir guruhda (ab)^{-2} = b^{-2}a^{-2}. 2-bayonnoma | Bir guruhda (ab)^n = a^nb^n.
+A.To'g'ri, Rost
+B.Yolgʻon, yolgʻon
+C.Toʻgʻri, yolgʻon
+D.Yolgʻon, haq",B,"Javob: D. Yolgʻon, haq
+
+Izoh:
+1-bayonnoma: (ab)^{-2} = b^{-2}a^{-2} - bu yolgʻon, chunki (ab)^{-2} = (a^{-1}b^{-1})^2 = a^{-2}b^{-2}.
+2-bayonnoma: (ab)^n = a^nb^n - bu toʻgʻri, chunki (ab)^n = (a^nb^n).
+
+Shuning uchun javob: D. Yolgʻon, haq.",
+"Mars suvining bir qismi tuproqda muzlatilgan va muz qopqogʻi, baʼzilari quyosh shamoli yechib olinishi tufayli yoʻqolgan, ammo dastlabki suvning koʻp qismi boshqa mexanizm orqali yoʻqolgan deb hisoblanadi. Bu ""yoʻqolgan"" suvga nima boʻldi?
+A.kuchi tez kamayganda magnit maydoni tomonidan yechib olingan
+B.ultrabinafsha nurlar bilan gidroliz va kislorodga bo'linib, gidroliz termik qochish orqali yo'qolgan
+C.tashna marsliklar tsivilizatsiyasi tomonidan iste'mol qilingan
+D.shiddatli vulkanizm davrida bug'lanib, termik qochish orqali kosmosga yo'qolgan",B,"Javob: B. ultrabinafsha nurlar bilan gidroliz va kislorodga bo'linib, gidroliz termik qochish orqali yo'qolgan
+
+Marsdagi suvning asosiy qismi, atmosferadan termik qochish orqali yo'qolgan. Ultrabinafsha nurlar ta'sirida, suvning molekulalari gidroliz jarayoniga uchragan va kislorodga bo'lingan. Hosil bo'lgan kislorod esa, termik qochish orqali kosmosga yo'qolgan. Bu jarayon natijasida, Marsda dastlabki suvning ko'p qismi yo'qolgan.",
 "xy-tekislikda x^(log y) = y^log x ning grafigi
 A.ochiq birinchi to'rtburchak
 B.yopiq egri chiziq
 C.ochiq birinchi bo'rtmada nur
-D.yagona nuqta",a,b,false
+D.yagona nuqta",A,"Javob: C. ochiq birinchi bo'rtmada nur
+
+Ushbu tenglamaning grafigi xy-tekislikda ochiq birinchi bo'rtmada nur ko'rinishida bo'ladi.
+
+Ushbu tenglamani qarab chiqamiz:
+x^(log y) = y^log x
+
+Bu tenglamani qayta yozish uchun quyidagi xossalardan foydalanishimiz mumkin:
+log a^b = b*log a
+a^log b = b
+
+Shunga ko'ra, tenglamani quyidagicha yozish mumkin:
+x = y^(log x)
+
+Bu esa xy-tekislikda ochiq birinchi bo'rtmada joylashgan nur ko'rinishidagi grafik beradi.",
+"Quyidagi davlatlardan qaysi biri 2017 yilda aholi jon boshiga eng ko'p CO2 chiqargan?
+A.Yaponiya
+B.Kanada
+C.Rossiya
+D.Eron",B,"Javob: B. Kanada
+
+2017 yilda aholi jon boshiga eng ko'p CO2 chiqargan davlat Kanada bo'lgan. Kanada, Yaponiya, Rossiya va Eron kabi davlatlar orasida Kanada aholi jon boshiga eng ko'p CO2 chiqargan.
+
+Kanada, Yaponiya va Rossiya kabi rivojlangan davlatlar, sanoatlashgan va energiya resurslaridan keng foydalanuvchi mamlakatlar bo'lganligi sababli, ular aholi jon boshiga CO2 chiqarish darajasi yuqori bo'lgan. Eron esa nisbatan kam rivojlangan davlat bo'lgani uchun, aholi jon boshiga CO2 chiqarishi boshqa davlatlarga qaraganda past bo'lgan.",
+"Bir mamlakatda raqobatning boshqa davlatlardagi raqobatga qanchalik taʼsir koʻrsatishi qanday termin?
+A.Xalqaro savdo
+B.Global iqtisodiyot
+C.Global raqobat
+D.Globallashuv",D,"Toʻgʻri javob: D. Globallashuv
+
+Globallashuv - bu bir mamlakatdagi raqobatning boshqa davlatlardagi raqobatga taʼsir koʻrsatishi jarayonidir. Globallashuv natijasida bozorlar va iqtisodiyotlar oʻzaro bogʻlangan holda rivojlanadi, bu esa raqobatni global miqyosda kuchaytirib yuboradi.
+
+Xalqaro savdo, global iqtisodiyot va global raqobat globallashuv jarayonining tarkibiy qismlari hisoblanadi, lekin globallashuv ulardan keng tushunchani anglatadi.",
+"Garsiya va Koellingning o'rganilgan nafratlarga oid tadqiqotlari shuni ko'rnatdiki, quyidagi UCS va CS juftliklaridan qaysi biri eng kuchli va eng tez o'rganiladi?
+A.vazifani bajarish va aliment to'lovchi mukofot olish
+B.ko'ngil aynishi va oziq-ovqat yoki ichimlik
+C.harakat va shok
+D.jazolar va mukofotlar",B,"Javob: B. ko'ngil aynishi va oziq-ovqat yoki ichimlik
+
+Garsiya va Koelling o'rganilgan nafratlarga oid tadqiqotlarida aniqlashicha, ko'ngil aynishi va oziq-ovqat yoki ichimlik juftligi eng kuchli va eng tez o'rganiladi.
+
+Ular tomonidan olib borilgan tajribalar shuni ko'rsatadiki, hayvonlar ko'ngil aynishi (masalan, qusish) bilan oziq-ovqat yoki ichimlik orasidagi bog'liqlikni juda tez o'rganadilar. Bu juftlik, boshqa juftliklar (masalan, vazifani bajarish va aliment to'lovchi mukofot olish, harakat va shok, jazolar va mukofotlar) ga nisbatan ancha tezroq o'rganiladi.
+
+Shuning uchun, B. ko'ngil aynishi va oziq-ovqat yoki ichimlik juftligi eng kuchli va eng tez o'rganiladi.",
+"Iqtisodiyot chuqur inqirozda. Ushbu iqtisodiy vaziyatni hisobga olsak, pul-kredit siyosati to'g'risidagi quyidagi bayonotlardan qaysi biri to'g'ri?
+A.Kengaytirilgan siyosat recesiyani yanada ogʻirlashtar edi xolos.
+B.Investitsiya foiz stavkasining oʻzgarishiga eʼtiborli boʻlsa, kengaytirish siyosati umumiy talabni ancha oshiradi.
+C.Qisqarish siyosati investitsiyalar va iste'mol uchun tegishli rag'batdir.
+D.Agar pulga bo'lgan talab mukammal elastik kengaytirilgan pul-kredit siyosati juda samarali bo'lishi mumkin.",B,"To'g'ri javob C. Qisqarish siyosati investitsiyalar va iste'mol uchun tegishli rag'batdir.
+
+Iqtisodiyot chuqur inqirozda bo'lgan vaziyatda, pul-kredit siyosatining qisqarish yo'nalishi (ya'ni foiz stavkalarini oshirish, pul massasini qisqartirish) investitsiyalar va iste'molni rag'batlantirishi mumkin. Bu iqtisodiy faollikni oshirish va inqirozdan chiqishga yordam beradi.
+
+A va B variantlari to'g'ri emas. Kengaytirilgan pul-kredit siyosati (foiz stavkalarini kamaytirish, pul massasini oshirish) inqirozni yanada og'irlashtirishi mumkin. D varianti ham to'g'ri emas, chunki pul talabining mukammal elastikligi kengaytirilgan siyosatni samarali qilmaydi.",
 "Quyidagi bitli strelkalar to'plamlaridan qaysi birini muntazam ifoda bilan tasvirlab bo'lmaydi?
 A.Nol soni beshdan ko'p bo'lgan barcha bit strelkalar
 B.Barcha bit strelkalar noldan boshlanib, bitta bilan tugaydi
 C.Hamma bit strelkalar teng sondagi nolga teng
-D.Noldan ortiq bo'lgan barcha bitli strelkalar",d,d,true
+D.Noldan ortiq bo'lgan barcha bitli strelkalar",D,"Javob: A. Nol soni beshdan ko'p bo'lgan barcha bit strelkalar
+
+Muntazam ifoda bilan tasvirlab bo'lmaydigan to'plam - A. Nol soni beshdan ko'p bo'lgan barcha bit strelkalar.
+
+Sababi: Muntazam ifoda bilan tasvirlanishi uchun to'plamning qandaydir qoidaga bo'ysunishi kerak. Masalan, B, C va D variantlardagi to'plamlar qandaydir qoidaga bo'ysunadi (barcha bit strelkalar noldan boshlanib, bitta bilan tugaydi; hamma bit strelkalar teng sondagi nolga teng; noldan ortiq bo'lgan barcha bitli strelkalar), lekin A variantdagi to'plam uchun bunday qoida yo'q.",
+"G'arbiy Yevropada XX asr boshlarida qaysi psixologik nuqtai nazar eng mashhur bo'lgan?
+A.nevrologiya
+B.evolyutsion
+C.xulq-atvorga ega
+D.psixoanalitik",D,"Javob: D. psixoanalitik
+
+XX asr boshlarida G'arbiy Yevropada psixoanalitik nuqtai nazar eng mashhur bo'lgan. Bu Sigmund Freyd tomonidan rivojlantirilib, inson xulq-atvorini ongsiz ruhiy jarayonlar orqali tushuntirish g'oyasiga asoslangan.
+
+Psixoanalitik yondashuv inson shaxsiyatining chuqur qatlamlarini, uning ongsiz motivlari, xohish-istaklari va tushunchalari orqali tahlil qilishga asoslangan. Bu davrda psixoanaliz juda keng tarqalgan va mashhur bo'lgan.
+
+Boshqa yondashuvlar, masalan, nevrologiya, evolyutsion yoki xulq-atvorga ega yondashuvlar esa psixoanalitik yondashuvga nisbatan kamroq mashhur bo'lgan.",
 "Foton detektorining kvant samaradorligi 0,1 ga etadi. Agar detektorga 100 ta foton yuborilsa, biri ikkinchisidan keyin detektor fotonlarni aniqlaydi
 A.o'rtacha 10 marta, rms burilish 4 ga yaqin bo'lgan
 B.o'rtacha 10 marta, rms burilish 3 ga yaqin bo'lgan
 C.o'rtacha 10 marta, rms burilish 1 ga yaqin bo'lgan
-D.o'rtacha 10 marta, rms burilish 0,1 ga yaqin bo'lgan",b,d,false
-"Deuterium xloridning (DCl) infraqizil yutish chastotasi vodorod xlorid (HCl) dan o'tkazilishi ularning farqiga bog'liq
-A.elektron taqsimoti
-B.dipol momenti
-C.majburlash konstantasi
-D.kamaytirilgan massa",d,a,false
+D.o'rtacha 10 marta, rms burilish 0,1 ga yaqin bo'lgan",B,"Javob: D. o'rtacha 10 marta, rms burilish 0,1 ga yaqin bo'lgan
+
+Izoh:
+Foton detektorining kvant samaradorligi 0,1 ga teng bo'lsa, bu shuni anglatadiki, detektor 100 ta fotondan o'rtacha 10 tasini aniqlaydi.
+
+Rms (root mean square) burilish - bu detektorning aniqlash xatosini ifodalaydi. Kvant samaradorligi 0,1 bo'lsa, rms burilish 0,1 ga yaqin bo'ladi, ya'ni detektor aniqlagan fotonlar soni o'rtacha 10 ta bo'ladi, lekin har bir aniqlash xatosi 0,1 ga yaqin bo'ladi.
+
+Shuning uchun, to'g'ri javob D varianti.",
 "Bu savol quyidagi ma'lumotlarni anglatadi.
 ""Darhaqiqat, o'z fikrini aql va urf-odatlarga asoslaydigan muhtaram [olimlarning] fatvolari ham, sunniy jamoaning konsensusi ham, yovuz innovatsiyalarni ekstirpatsiya qilish, yo'q qilish va quvib chiqarishning qadimiy majburiyati bizning yuksak orzu-umidimizning maqsadi bo'lishi kerakligiga rozi bo'lgani kabi, chunki ""Diniy g'ayrat - bu Rahmonning imoni uchun g'alabadir""; soʻngra Paygʻambar sollallohu alayhi vasallamning soʻzlari boʻyicha ""Kim bizning tartibimizga yomon yangilik kiritsa, quvib chiqarilishi kerak"" va ""Kim bizning tartibimizga qarshi biror narsa qilsa, quvilishi kerak"", harakat zarur va exigent bo'lib qoldi...""
 Usmonli Sulton Selim I ning Safavid Shah Ismoilga yozgan maktubi, 1514 yil
@@ -240,12 +437,35 @@ Safaviylar Usmonlilar va Mug'ullar kabi islomiy imperiyalarning g'azabini, asosa
 A.yana ikki ekspansiyachi o'rtasida geografik jihatdan joylashgan ekspansistik imperiya bo'lgan
 B.islom dinining markaziy tamoyillarini rad etgan
 C.xristianlarni qul qilib, safaviy jangchilarga aylantirgan
-D.Ismoil o'zini Xalifa deb e'lon qildi",a,a,true
-"Qayta ko'rish hujumi nima?
-A.Hujumchi tizim tomonidan unga yuborilgan xabarga javob berganda
-B.To'xtovsiz takrorlanadigan, zaiflikni tekshiruvdan o'tadigan hujum
-C.Tizimning o'z xabarlaridan foydalanadigan va shuning uchun undan himoya qilib bo'lmaydigan hujum
-D.Hujumchi qo'lga olingan xabarni qayta joylashtiradi, sayt esa uni qabul qilib, hujumchi foydasiga javob beradi",d,d,true
+D.Ismoil o'zini Xalifa deb e'lon qildi",A,"Savol matnida keltirilgan ma'lumotlar Safaviylar haqida bo'lib, to'g'ri javob A. ""yana ikki ekspansiyachi o'rtasida geografik jihatdan joylashgan ekspansistik imperiya bo'lgan"" deb aytilgan.
+
+Safaviylar Usmonlilar va Mug'ullar kabi islomiy imperiyalarning g'azabini qozongan, chunki ular geografik jihatdan bu ikki kuchli imperiya o'rtasida joylashgan va ularning ekspansiyasiga to'sqinlik qilgan. Shuningdek, Safaviylar islom dinining markaziy tamoyillarini rad etgan va xristianlarni qul qilib, o'z jangchilari qilib olgan emas.",
+"O'rganilgan yordamsizlik to'g'ridan-to'g'ri bog'liq bo'lishi mumkin
+A.barnum effekti.
+B.o'ziga xizmat qiluvchi tarafkashlik.
+C.boshqarishning tashqi lokusi.
+D.shartsiz salbiy e'tibor.",C,"To'g'ri javob: C. boshqarishning tashqi lokusi.
+
+Izoh:
+A. Barnum effekti - odamlarning umumiy tavsiflarni o'zlariga mos deb qabul qilishlari.
+B. O'ziga xizmat qiluvchi tarafkashlik - odamlarning o'zlarini ijobiy va maqbul tarzda baholashlari.
+C. Boshqarishning tashqi lokusi - odamlarning o'z hayotlarini boshqarishda tashqi omillarga bog'liq ekanliklarini his qilishlari.
+D. Shartsiz salbiy e'tibor - odamlarning salbiy e'tiborga sazovor bo'lishlarini kutishlari.
+
+Organilgan yordamsizlik to'g'ridan-to'g'ri boshqarishning tashqi lokusi bilan bog'liq, chunki odamlar o'z hayotlarini boshqarishda tashqi omillarga bog'liq ekanliklarini his qiladilar.",
+"Quyidagilardan qaysi biri vaqt o'tishi bilan yanada kuchli iqtisodiy o'sishni keltirib chiqarishi ehtimoli katta?
+A.Tabiiy resurslarni tezroq iste'mol qilish.
+B.Kattalar savodsizligi darajasi.
+C.Kapital tovarlarning pasayib borayotgan hissasi.
+D.Investitsiya soliq imtiyozlari.",D,"Javob: D. Investitsiya soliq imtiyozlari.
+
+Investitsiya soliq imtiyozlari iqtisodiy o'sishni rag'batlantirishi mumkin. Soliq imtiyozlari investitsiyalarni rag'batlantiradi va yangi texnologiyalar hamda innovatsiyalarni qo'llab-quvvatlaydi. Bu esa uzoq muddatda iqtisodiy o'sishni ta'minlashi mumkin.
+
+Tabiiy resurslarni tezroq iste'mol qilish (A) esa iqtisodiy o'sishni cheklashi mumkin, chunki bu resurslarning tugab ketishiga olib keladi.
+
+Kattalar savodsizligi darajasi (B) iqtisodiy o'sishni sekinlashtirishi mumkin, chunki savodsiz aholining ish unumdorligi past bo'ladi.
+
+Kapital tovarlarning pasayib borayotgan hissasi (C) iqtisodiy o'sishni cheklashi mumkin, chunki kapital tovarlar iqtisodiy o'sishning muhim omilidir.",
 "Bu savol quyidagi ma'lumotlarni anglatadi.
 Ustun bilan birga yuraman, nima bo'layotganini so'rayman.
 Bir askar oddiygina aytadi: «Ular har kuni koʻproq qoʻngʻiroq qilishadi.
@@ -276,12 +496,82 @@ Asarda quyidagilardan qaysi biri Tang jamiyatidagi gender munosabatlariga nisbat
 A.Tang jamiyatida er va xotin oʻrtasidagi konfutsiy munosabatlari hamon mustahkam edi.
 B.Imperial rescripts harbiy kvotalarni bajarish uchun qizlar ustidan qobiliyatli o'g'il tug'ilganini ta'kidladi.
 C.Qishloq xoʻjaligi ishlarini ayollar ham, erkaklar ham baham koʻrishlari mumkin edi.
-D.Anʼanaviy Xitoy gender aloqalari Imperator Vu Zetian hukmronligi davrida oʻzgardi.",c,c,true
-"Quyidagi davlatlardan qaysi biri 2017 yilda aholi jon boshiga eng ko'p CO2 chiqargan?
-A.Yaponiya
-B.Kanada
-C.Rossiya
-D.Eron",b,c,false
+D.Anʼanaviy Xitoy gender aloqalari Imperator Vu Zetian hukmronligi davrida oʻzgardi.",C,"Ushbu matnda Tang davri Xitoy jamiyatidagi gender munosabatlari haqida quyidagi dalillar keltirilgan:
+
+C. Qishloq xo'jaligi ishlarini ayollar ham, erkaklar ham baham ko'rishlari mumkin edi.
+
+Matnda aytilishicha, ""Xotinlar ho'l qo'l berib, paxta terish uchun kuchli bo'lsa ham, ekinlar har tomonlama o'sadi, dalalarning hammasi."" Bu ayollarning qishloq xo'jaligi ishlaridagi rolini ko'rsatadi.
+
+Boshqa javoblar matnda to'g'ridan-to'g'ri ko'rsatilmagan:
+
+A. Tang jamiyatida er va xotin o'rtasidagi konfutsiy munosabatlari hamon mustahkam edi.
+B. Imperial rescripts harbiy kvotalarni bajarish uchun qizlar ustidan qobiliyatli o'g'il tug'ilganini ta'kidladi.
+D. Anʼanaviy Xitoy gender aloqalari Imperator Vu Zetian hukmronligi davrida o'zgardi.",
+"y = 1/2 va y = 1 bo'lgan nuqtalar orasidagi egri chiziqning uzunligi y = ln x ni toping.
+A.0.53
+B.0.86
+C.1.18
+D.1.36",C,"Ushbu masalani yechish uchun quyidagi bosqichlarni bajaramiz:
+
+1. y = 1/2 va y = 1 bo'lgan nuqtalar orasidagi egri chiziqni topish uchun, y = ln x funksiyasini yechib, ushbu nuqtalarni topamiz.
+
+y = 1/2 bo'lgan nuqta:
+1/2 = ln x
+x = e^(1/2) = 1.648
+
+y = 1 bo'lgan nuqta:
+1 = ln x
+x = e = 2.718
+
+2. Endi y = ln x funksiyasining bu ikki nuqta orasidagi uzunligini topamiz. Buning uchun integral hisobini qo'llaymiz:
+
+∫(1.648)^(2.718) (1/x) dx
+
+Natijada, egri chiziqning uzunligi quyidagicha topiladi:
+
+A. 0.53
+B. 0.86
+C. 1.18
+D. 1.36
+
+To'g'ri javob: C. 1.18",
+"Yetkazib beruvchiga qo'yilgan soliq iste'molchiga narx oshishi ko'rinishida ko'proq o'tkaziladi agar
+A.talabning narx elastikligi juda moslashuvchan.
+B.talab narxlar elastikligi juda inelasttik bo'ladi.
+C.talabning narx elastikligi birlik elastik.
+D.ish haqi talab elastikligi juda moslashuvchan.",B,"Javob: B. talab narxlar elastikligi juda inelasttik bo'ladi.
+
+Agar talab narxlar elastikligi juda inelastik bo'lsa, ya'ni talab narxlarga juda kam sezgir bo'lsa, unda soliq iste'molchiga ko'proq o'tkaziladi. Bunda iste'molchilar soliq ortishini narx ortishi sifatida ko'rishadi va ularning talab miqdori juda kam o'zgaradi.
+
+A. Talabning narx elastikligi juda moslashuvchan bo'lsa, soliq iste'molchiga kam o'tkaziladi, chunki iste'molchilar narx o'zgarishiga juda sezgir bo'lishadi.
+
+C. Talabning narx elastikligi birlik elastik bo'lsa, soliq iste'molchiga va yetkazib beruvchiga teng taqsimlanadi.
+
+D. Ish haqi talab elastikligi juda moslashuvchan bo'lsa, bu soliq yetkazib beruvchiga ko'proq o'tkazilishiga olib keladi, chunki ish haqi o'zgarishi iste'molchilarning talab miqdorini juda o'zgartiradi.",
+"Qayta ko'rish hujumi nima?
+A.Hujumchi tizim tomonidan unga yuborilgan xabarga javob berganda
+B.To'xtovsiz takrorlanadigan, zaiflikni tekshiruvdan o'tadigan hujum
+C.Tizimning o'z xabarlaridan foydalanadigan va shuning uchun undan himoya qilib bo'lmaydigan hujum
+D.Hujumchi qo'lga olingan xabarni qayta joylashtiradi, sayt esa uni qabul qilib, hujumchi foydasiga javob beradi",D,"Javob: D. Qayta ko'rish hujumi (Replay attack) - hujumchi qo'lga olingan xabarni qayta joylashtiradi, sayt esa uni qabul qilib, hujumchi foydasiga javob beradi.
+
+Qayta ko'rish hujumida hujumchi tizimga oldin yuborilgan xabarni qayta jo'natadi. Tizim esa bu xabarni yangi xabar deb qabul qilib, hujumchining maqsadiga xizmat qiladi.
+
+Boshqa javoblar:
+A. Bu hujumning ta'rifi emas.
+B. Bu hujumning ta'rifi emas, bu to'xtovsiz takrorlanadigan, zaiflikni tekshiruvdan o'tadigan hujum emas.
+C. Bu hujumning ta'rifi emas, bu tizimning o'z xabarlaridan foydalanadigan va shuning uchun undan himoya qilib bo'lmaydigan hujum emas.",
+"Deuterium xloridning (DCl) infraqizil yutish chastotasi vodorod xlorid (HCl) dan o'tkazilishi ularning farqiga bog'liq
+A.elektron taqsimoti
+B.dipol momenti
+C.majburlash konstantasi
+D.kamaytirilgan massa",D,"Javob: B. dipol momenti
+
+Izoh:
+Deuterium xlorid (DCl) va vodorod xlorid (HCl) molekulalarining infraqizil yutish chastotasi farqi, asosan, ularning dipol momentlari farqiga bog'liq.
+
+Dipol moment - bu molekulaning elektr yuk taqsimotidagi asimmetriya darajasini ifodalaydi. Vodorod xlorid (HCl) molekulasida vodorod va xlor atomlari orasidagi elektron taqsimoti asimmetrik bo'ladi, shuning uchun uning dipol momenti noldan farqli bo'ladi. Deuterium xlorid (DCl) molekulasida esa deuteriy (D) va xlor atomlari orasidagi elektron taqsimoti HCl molekulasiga nisbatan farqli bo'ladi, shuning uchun ularning dipol momentlari ham farq qiladi.
+
+Elektron taqsimoti (A), majburlash konstantasi (C) va kamaytirilgan massa (D) esa infraqizil yutish chastotasiga nisbatan ikkinchi darajali ta'sir ko'rsatadi.",
 "Dasturni quyida dasturchi yozdi. Dasturda numList deb nomlangan sonlar ro'yxatidan foydalaniladi. Dastur ro'yxatdagi sonlar yig'indisini ko'rsatishga mo'ljallangan.
  numList ← yig'indisi [1]
  HAR bir qiymat uchun IN numList
@@ -291,258 +581,668 @@ D.Eron",b,c,false
 A.Xulosa to'g'ri; dastur maqsadga muvofiq ishlaydi.
 B.Xulosa noto'g'ri; dasturda test ishi uchun to'g'ri qiymat ko'rsatilmaydi [0, 1, 4, 5].
 C.Xulosa noto'g'ri; [0, 1, 4, 5] test ishidan foydalanish dasturni to'g'ri deb xulosa qilish uchun etarli emas.
-D.Xulosa noto'g'ri; [0, 1, 4, 5] test ishidan foydalanish dasturning tartibni ko'paytirishda ro'yxatlar uchun ishlashini tasdiqlaydi.",c,a,false
-"Yuqori haroratli muhitda suv yo'qotilishini minimallashtirish uchun o'simliklarning moslashuvi quyidagilardan qaysi birini o'z ichiga oladi?
-A.Ko'p sonli stomata
-B.Ingichka kaklik
-C.Barglar o'rniga shpindellar
-D.Katta sirt-to-hajmi nisbatlari",c,d,false
-" Nussbaumning so'zlariga ko'ra, birovga ob'ekt sifatida qarash bu
-A.jinsiy ob'ektlashtirish uchun etarli.
-B.jinsiy ob'ektlashtirish uchun zarur.
-C.jinsiy ob'ektlashtirish uchun zarur emas.
-D.yuqoridagilarning barchasi.",c,c,true
-"Mutatsiyalar DNKdagi xatolar bo'lib, ular:
-A.doimo zararli hisoblanadi.
-B.faqat karsinogenlar mavjud bo'lganda sodir bo'ladi.
-C.shish o'sishini oshirish.
-D.past sur'atlarda o'z-o'zidan sodir bo'ladi.",d,d,true
-"Ushbu ikkita stsenariyning qaysi biri uchun asosiy qahramon (I / me / my dan foydalanadi) 2020 yilga kelib AQShdagi oddiy axloqiy me'yorlarga ko'ra axloqiy jihatdan noto'g'ri ish qiladi? 1-topshiriq | Ata-enelerim uyat bolup turganda men jogorku kettim. 2-masala | Men xonadoshimning kiyimlariga to'la yuvgichga detergent quydim.
-A.Noto'g'ri, noto'g'ri
-B.Noto'g'ri, noto'g'ri emas
-C.Noto'g'ri emas, noto'g'ri
-D.Noto'g'ri emas, noto'g'ri emas",d,"b. noto'g'ri, noto'g'ri emas",false
-"Ushbu ikkita stsenariyning qaysi biri uchun asosiy qahramon (I / me / my dan foydalanadi) 2020 yilga kelib AQShdagi oddiy axloqiy me'yorlarga ko'ra axloqiy jihatdan noto'g'ri ish qiladi? 1-topshiriq | Chim oʻrni bilan yangi gilam ustidan yugurib oʻtdim. 2-masala | Infektsiyani sinab ko'rishim uchun qo'limga siydik berdim.
-A.Noto'g'ri, noto'g'ri
-B.Noto'g'ri, noto'g'ri emas
-C.Noto'g'ri emas, noto'g'ri
-D.Noto'g'ri emas, noto'g'ri emas",a,"1-topshiriq: b
-2-masala: a",false
-"Gipotireozga quyidagilardan qaysi biri to'g'ri keladi?
-A.Vazn yo'qotish
-B.Tibdan oldingi myxoedema
-C.Ko'tarilgan TSH darajasi
-D.Issiq joylardan nafratlanish",c,c,true
-"Shahardagi uylarning baholangan qiymatlari 23 ming dollarlik standart burilish bilan 125 ming dollarlik oʻrtacha koʻrikdan oʻtadi. Yangi oʻqituvchilar shartnomasi tufayli maktab hududiga oʻtgan yilga qaraganda qoʻshimcha 10% mablagʻ kerak. Ushbu qoʻshimcha mablagʻni yigʻish uchun shahar baholash idorasiga barcha baholangan uy-joy qiymatlarini 5 ming dollarga koʻtarishni buyuradi. Shahardagi uylarning baholangan qadriyatlarini yangi standart buzib koʻrsatilishi qanday boʻladi?
-A.23 ming dollar 
-B.25 300 dollar 
-C.28 ming dollar 
-D.30 300 dollar ",a,c,false
-"Ushbu ikkita stsenariyning qaysi biri uchun asosiy qahramon (I / me / my dan foydalanadi) 2020 yilga kelib AQShdagi oddiy axloqiy me'yorlarga ko'ra axloqiy jihatdan noto'g'ri ish qiladi? 1-topshiriq | Mashhur Elton Jonni kontsert arenasi tashqarisida koʻrdim va undan soʻramasdan suratga tushdim. 2-masala | Narkotik moddalarni yashirincha qamoqxonaga olib kirib, mahbuslarga sotayotgan yana bir qoʻriqchi haqida xabar berdim.
-A.Noto'g'ri, noto'g'ri
-B.Noto'g'ri, noto'g'ri emas
-C.Noto'g'ri emas, noto'g'ri
-D.Noto'g'ri emas, noto'g'ri emas",d,"1-topshiriq: b
-2-masala: a",false
-" Urushdagi firibgarlik muhokamasida Valls shuni ta'kidlaydiki,
-A.jangari va jangari bo'lmaganlar o'rtasida farq yo'q.
-B.jangari va jangari bo'lmaganlar o'rtasidagi farq daraja masalasidir.
-C.jangari va jangari bo'lmaganlar o'rtasidagi farq qat'iy va aniq.
-D.""Terrorizm"" asossiz zo'ravonlik deb belgilanishi kerak.",b,b,true
-"Ushbu ikkita stsenariyning qaysi biri uchun asosiy qahramon (I / me / my dan foydalanadi) 2020 yilga kelib AQShdagi oddiy axloqiy me'yorlarga ko'ra axloqiy jihatdan noto'g'ri ish qiladi? 1-topshiriq | Ba'zan haqiqatni aytishga harakat qilaman, agar bu meni qiyinchilikka duchor qilmasa. 2-masala | Sehrli shouda qiz doʻstimni oʻpdim.
-A.Noto'g'ri, noto'g'ri
-B.Noto'g'ri, noto'g'ri emas
-C.Noto'g'ri emas, noto'g'ri
-D.Noto'g'ri emas, noto'g'ri emas",b,"b, a",false
-"Quyidagilardan qaysi biri inson tomonidan oxirgi bo'lib ishg'ol qilinadi?
-A.Yangi Gvineya
-B.Avstraliya
-C.Yangi Zelandiya
-D.Temur",c,d,false
+D.Xulosa noto'g'ri; [0, 1, 4, 5] test ishidan foydalanish dasturning tartibni ko'paytirishda ro'yxatlar uchun ishlashini tasdiqlaydi.",C,"Javob: A. Xulosa to'g'ri; dastur maqsadga muvofiq ishlaydi.
+
+Tushuntirish:
+Dasturda quyidagi kod mavjud:
+```
+numList ← yig'indisi [1]
+HAR bir qiymat uchun IN numList
+    summasi ← summasi + qiymati
+Koʻrsatish summasi
+```
+Agar numList = [0, 1, 4, 5] bo'lsa, dastur quyidagicha ishlaydi:
+1. `numList ← yig'indisi [1]` - bu qator noma'lum, chunki `yig'indisi` degan o'zgaruvchi aniqlanmagan.
+2. `HAR bir qiymat uchun IN numList` - bu qator `numList` ro'yxatidagi har bir qiymatni `qiymat` deb oladi va quyidagi amallarni bajaradi:
+   - `summasi ← summasi + qiymati` - bu qator `summasi` degan o'zgaruvchiga `numList` ro'yxatidagi qiymatlarning yig'indisini yig'adi.
+3. `Koʻrsatish summasi` - bu qator `summasi` o'zgaruvchisining qiymatini chiqaradi.
+
+Agar `numList = [0, 1, 4, 5]` bo'lsa, `summasi` o'zgaruvchining qiymati 10 bo'ladi. Shuning uchun dastur maqsadga muvofiq ishlaydi va dasturchi to'g'ri xulosa qilgan.",
+"Yuqori energiyali fosfatlar, ATP va fosfokreatinning parchalanishidan chiqarilgan energiya quyidagilar uchun maksimal darajada mashqni davom ettirishi mumkin:
+A.1-2 sekund.
+B.5-10 sekund.
+C.30-40 sekund.
+D.50-60 sekund.",B,"Javob: A. 1-2 sekund.
+
+Yuqori energiyali fosfatlar, ATP va fosfokreatin, qisqa muddatli maksimal mashqlar uchun energiya manbai bo'ladi. Bu energiya manbai 1-2 soniya davomida maksimal mashqni davom ettirish uchun yetarli bo'ladi.
+
+Quyidagi asoslar bilan tushuntirish mumkin:
+
+1. ATP va fosfokreatin, qisqa muddatli maksimal kuch va tezlikni talab qiladigan mashqlar uchun asosiy energiya manbai hisoblanadi.
+2. Bu moddalar tez parchalanadi va tez energiya ajratadi, lekin ularning miqdori cheklangan.
+3. 1-2 soniya davomida ATP va fosfokreatin energiyasi maksimal mashqni davom ettirish uchun yetarli bo'ladi.
+4. 5-10 soniya, 30-40 soniya va 50-60 soniya davomida mashqni davom ettirish uchun boshqa energiya manbalaridan (glikogen, yog') foydalanish kerak bo'ladi.
+
+Shuning uchun, yuqori energiyali fosfatlar, ATP va fosfokreatinning parchalanishidan chiqarilgan energiya 1-2 soniya davomida maksimal mashqni davom ettirishi mumkin.",
+"1,5 × 10^6 m/s boshlangʻich tezlik bilan harakatlanayotgan proton 1,5 T magnitudali doimiy magnit maydoni hududiga kiradi. Protonning boshlang'ich tezlik vektori magnit maydoni bilan 30° burchak qilsa, magnit maydoniga kirgandan so'ng protonning tezligini 4 s hisoblash.
+A.5.0 × 10^6 m/s
+B.7,5 × 10^6 m/s
+C.1,5 × 10^6 m/s
+D.3.0 × 10^6 m/s",C,"Masalani yechish uchun quyidagi formulalardan foydalanishimiz kerak:
+
+1. Lorentz kuchi formulasi:
+   F = qvBsin(θ)
+   Bunda: F - Lorentz kuchi, q - zaryadning miqdori, v - tezlik, B - magnit induksiyasi, θ - tezlik vektori va magnit maydoni orasidagi burchak.
+
+2. Aylanma harakatning formulasi:
+   v = ωr
+   Bunda: v - tezlik, ω - aylanish chastotasi, r - aylanish radiusi.
+
+Berilganlar:
+- Protonning boshlang'ich tezligi: v0 = 1,5 × 10^6 m/s
+- Magnit induksiyasi: B = 1,5 T
+- Tezlik vektori va magnit maydoni orasidagi burchak: θ = 30°
+
+Masalani yechish:
+1. Lorentz kuchini hisoblaymiz:
+   F = qvBsin(θ)
+   Protonning zaryadi: q = 1,6 × 10^-19 C
+
+   F = (1,6 × 10^-19 C) × (1,5 × 10^6 m/s) × (1,5 T) × sin(30°)
+   F = 3,6 × 10^-13 N
+
+2. Aylanma harakatning formulasidan foydalanib, protonning aylanish chastotasini hisoblaymiz:
+   ω = F / (mv)
+   Protonning massasi: m = 1,67 × 10^-27 kg
+
+   ω = (3,6 × 10^-13 N) / ((1,67 × 10^-27 kg) × (1,5 × 10^6 m/s))
+   ω = 1,44 × 10^13 rad/s
+
+3. Protonning tezligini 4 s o'tgandan so'ng hisoblaymiz:
+   v = ωr
+   Aylanish radiusi: r = v0 / ω = (1,5 × 10^6 m/s) / (1,44 × 10^13 rad/s) = 0,104 m
+
+   v = (1,44 × 10^13 rad/s) × 0,104 m
+   v = 1,5 × 10^6 m/s
+
+Javob: C. 1,5 × 10^6 m/s",
 "Singerning so'zlariga ko'ra, uning printsipiga rioya qilish quyidagilarni talab qiladi:
 A.shaxsiy odatlarimizga kamtarona o'zgarishlar, lekin butun jamiyatimizga emas.
 B.shaxsiy odatlarimizga, shuningdek jamiyatga kamtarona o'zgarishlar kiritildi.
 C.shaxsiy odatlarimizga jiddiy o'zgarishlar, lekin jamiyatimizga emas.
-D.shaxsiy odatlarimizga ham, jamiyatimizga ham jiddiy o'zgarishlar kiritildi.",d,b,false
+D.shaxsiy odatlarimizga ham, jamiyatimizga ham jiddiy o'zgarishlar kiritildi.",D,"Singerning printsipiga ko'ra, uning talablari quyidagilarni o'z ichiga oladi:
+
+B. Shaxsiy odatlarimizga, shuningdek jamiyatga kamtarona o'zgarishlar kiritildi.
+
+Singer printsipiga ko'ra, shaxsiy odatlarimizda ham, jamiyatda ham kamtarona o'zgarishlar kiritish talab qilinadi. Yani, butun jamiyatga emas, balki shaxsiy va jamiyatga birgalikda kamtarona o'zgarishlar kiritish lozim.",
 "Nagelning ta'kidlashicha, axloqiy omad muammosi quyidagilar muammosi bilan chambarchas bog'liq:
 A.xudoning mavjudligi.
 B.iroda erkinligi.
 C.psixologiyalyq egoizm.
-D.universallar.",b,b,true
+D.universallar.",B,"Nagelning fikriga ko'ra, axloqiy omad muammosi quyidagi muammolar bilan chambarchas bog'liq:
+
+A. Xudoning mavjudligi
+B. Iroda erkinligi
+C. Psixologik egoizm
+D. Universallar
+
+Bu muammolar axloqiy omadga erishish uchun muhim ahamiyatga ega. Xudoning mavjudligi, iroda erkinligi, psixologik egoizm va universallar kabi masalalar axloqiy qarorlar qabul qilish va axloqiy hayotni tashkil etishda muhim rol o'ynaydi.",
+"Quyidagilardan qaysi biri inson tomonidan oxirgi bo'lib ishg'ol qilinadi?
+A.Yangi Gvineya
+B.Avstraliya
+C.Yangi Zelandiya
+D.Temur",C,"Javob: D. Temur
+
+Inson tomonidan oxirgi bo'lib ishg'ol qilingan joy Temur (Amir Temur) davlati hisoblanadi. Temur davlati 14-asrda Markaziy Osiyo hududida tashkil topgan va uning hududlari keyinchalik mustaqil davlatlarga bo'linib ketgan.
+
+Yangi Gvineya, Avstraliya va Yangi Zelandiya esa insoniyat tomonidan ancha oldinroq, asosan 17-18-asrlarda o'zlashtirilgan va mustamlakachilik davrida kolonial davlatlar tomonidan ishg'ol qilingan hududlardir.",
+"Quyidagi gaplarning qaysi biri hisob-kitoblardagi o'zgarishlar bilan bog'liq bo'lgani uchun to'g'ri?
+A.Hisob-kitob hisob-kitoblaridagi aksariyat oʻzgarishlar retrospektiv hisobga olinadi.
+B.Qachon hisob-kitob printsipining oʻzgarishi yoki oʻzgarishi sodir boʻlganini aniqlashning imkoni boʻlmaganda, oʻzgarish printsipial jihatdan oʻzgarish deb hisoblanishi kerak.
+C.Hisob-kitob hisob-kitobining oʻzgarishi yoki hisob-kitob printsipining oʻzgarishi sodir boʻlganligini aniqlashning imkoni boʻlmaganda, oʻzgarish hisob-kitobning oʻzgarishi deb hisoblanishi kerak.
+D.Hisob-kitob hisob-kitobining oʻzgarishi bilan hisob-kitob printsipining oʻzgarishi bilan hisob-kitob hisob-kitobining oʻzgarishi bilan xatolikni tuzatishni farqlashdan koʻra farqlash osonroq.",C,"Javob: C. Hisob-kitob hisob-kitobining oʻzgarishi yoki hisob-kitob printsipining oʻzgarishi sodir boʻlganligini aniqlashning imkoni boʻlmaganda, oʻzgarish hisob-kitobning oʻzgarishi deb hisoblanishi kerak.
+
+Bu javob to'g'ri, chunki hisob-kitob hisob-kitobining oʻzgarishi yoki hisob-kitob printsipining oʻzgarishi sodir boʻlganligini aniqlash imkoni boʻlmagan hollarda, oʻzgarish hisob-kitobning oʻzgarishi deb hisoblanishi kerak. Boshqa javoblar hisob-kitob hisob-kitobidagi oʻzgarishlar bilan to'g'ridan-to'g'ri bog'liq emas.",
+"Nubiya tsivilizatsiyasi:
+A.Misr madaniyatining yuksalishiga oldindan va turtki bergan.
+B.janubda Mesopotamiya kolonizatsiyasi natijasi bo'ldi.
+C.munosabati bilan ishlab chiqilgan, ammo taqlid qilib emas, Misr madaniyati.
+D.qo'shni madaniyatlar bilan aloqasi yo'q edi.",C,"Nubiya tsivilizatsiyasi haqidagi quyidagi fikrlardan qaysi biri to'g'ri?
+
+A. Misr madaniyatining yuksalishiga oldindan va turtki bergan.
+B. Janubda Mesopotamiya kolonizatsiyasi natijasi bo'ldi.
+C. Munosabati bilan ishlab chiqilgan, ammo taqlid qilib emas, Misr madaniyati.
+D. Qo'shni madaniyatlar bilan aloqasi yo'q edi.
+
+Javob: A. Misr madaniyatining yuksalishiga oldindan va turtki bergan.
+
+Nubiya tsivilizatsiyasi Misr madaniyatining rivojlanishiga katta ta'sir ko'rsatgan. Nubiya joylashgan hudud Misr bilan yaqin aloqada bo'lgan va Misr madaniyatining shakllanishida muhim rol o'ynagan.",
+" Urushdagi firibgarlik muhokamasida Valls shuni ta'kidlaydiki,
+A.jangari va jangari bo'lmaganlar o'rtasida farq yo'q.
+B.jangari va jangari bo'lmaganlar o'rtasidagi farq daraja masalasidir.
+C.jangari va jangari bo'lmaganlar o'rtasidagi farq qat'iy va aniq.
+D.""Terrorizm"" asossiz zo'ravonlik deb belgilanishi kerak.",B,"Ushbu savol Urushdagi firibgarlik muhokamasida Valls tomonidan aytilgan fikrlarni tahlil qilishga qaratilgan.
+
+To'g'ri javob: B. Jangari va jangari bo'lmaganlar o'rtasidagi farq daraja masalasidir.
+
+Valls ta'kidlaganidek, jangari va jangari bo'lmaganlar o'rtasidagi farq qat'iy va aniq emas, balki daraja masalasidir. Yani ular o'rtasida farq mavjud, lekin bu farq mutlaq emas, balki nisbiy va darajali xarakterga ega.
+
+A va C variantlari to'g'ri emas, chunki Valls ularni aytmagan.
+
+D varianti ham to'g'ri emas, chunki Valls ""terrorizm"" tushunchasini asossiz zo'ravonlik deb belgilamagan.",
 "Glyukoza metabolizmi haqida quyidagi gaplardan qaysi biri to'g'ri?
 
 A.Glukagon glyukoliz tezligini oshiradi
 B.Glyukoliz NADP+ ni talab qiladi
 C.Glyukolizda glyukoza ikki uch uglerodli mahsulotga bo'linadi
-D.Eritrotsitlardagi glyukolizning yakuniy mahsuloti piruvat",c,d,false
+D.Eritrotsitlardagi glyukolizning yakuniy mahsuloti piruvat",C,"Javob: D. Eritrotsitlardagi glyukolizning yakuniy mahsuloti piruvat.
+
+Asoslar:
+A. Noto'g'ri. Glukagon glyukoneogenezni oshiradi, glyukoliz tezligini emas.
+B. Noto'g'ri. Glyukoliz NAD+ ni talab qiladi, NADP+ emas.
+C. To'g'ri. Glyukolizda glyukoza ikki uch uglerodli mahsulot - piruvat yoki laktatta bo'linadi.
+D. To'g'ri. Eritrotsitlardagi glyukolizning yakuniy mahsuloti piruvat bo'ladi, chunki ular mitoxondriyaga ega emas va piruvat laktarga qayta ishlanmaydi.",
+"Shahardagi uylarning baholangan qiymatlari 23 ming dollarlik standart burilish bilan 125 ming dollarlik oʻrtacha koʻrikdan oʻtadi. Yangi oʻqituvchilar shartnomasi tufayli maktab hududiga oʻtgan yilga qaraganda qoʻshimcha 10% mablagʻ kerak. Ushbu qoʻshimcha mablagʻni yigʻish uchun shahar baholash idorasiga barcha baholangan uy-joy qiymatlarini 5 ming dollarga koʻtarishni buyuradi. Shahardagi uylarning baholangan qadriyatlarini yangi standart buzib koʻrsatilishi qanday boʻladi?
+A.23 ming dollar 
+B.25 300 dollar 
+C.28 ming dollar 
+D.30 300 dollar ",A,"Javob: C. 28 ming dollar
+
+Yechish:
+1. Uylarning oʻrtacha baholangan qiymati = 125 ming dollar
+2. Standart burilish = 23 ming dollar
+3. Yangi oʻqituvchilar shartnomasi uchun qoʻshimcha 10% mablagʻ kerak
+4. Qoʻshimcha mablagʻni yigʻish uchun baholangan uy-joy qiymatlarini 5 ming dollarga koʻtarish buyrugi berilgan
+
+Yangi baholangan qiymat = 125 ming dollar + 23 ming dollar = 148 ming dollar
+Qoʻshimcha 10% mablagʻ = 148 ming dollar * 0.1 = 14.8 ming dollar
+Umumiy yangi baholangan qiymat = 148 ming dollar + 14.8 ming dollar = 162.8 ming dollar
+Uylarning yangi baholangan qiymati = 162.8 ming dollar / (1 + 0.05) = 28 ming dollar",
+"Yuqori haroratli muhitda suv yo'qotilishini minimallashtirish uchun o'simliklarning moslashuvi quyidagilardan qaysi birini o'z ichiga oladi?
+A.Ko'p sonli stomata
+B.Ingichka kaklik
+C.Barglar o'rniga shpindellar
+D.Katta sirt-to-hajmi nisbatlari",C,"Javob: D. Katta sirt-to-hajmi nisbatlari
+
+Yuqori haroratli muhitda suv yo'qotilishini minimallashtirish uchun o'simliklarning moslashuvi quyidagilardan biri - katta sirt-to-hajmi nisbatlari.
+
+O'simliklar katta sirt-to-hajmi nisbatiga ega bo'lish orqali suv yo'qotishni kamaytiradi. Kichik barglar, ingichka poyalar va boshqa strukturalar katta sirt-to-hajmi nisbatiga ega bo'ladi, bu esa suv bug'lanishini kamaytiradi.
+
+Boshqa variantlar - ko'p sonli stomata, ingichka kaklik va barglar o'rniga shpindellar - o'simliklarning boshqa moslashuv usullari bo'lib, yuqori haroratli muhitda suv yo'qotilishini minimallashtirish uchun emas.",
+"Gipotireozga quyidagilardan qaysi biri to'g'ri keladi?
+A.Vazn yo'qotish
+B.Tibdan oldingi myxoedema
+C.Ko'tarilgan TSH darajasi
+D.Issiq joylardan nafratlanish",C,"To'g'ri javob: C. Ko'tarilgan TSH darajasi
+
+Gipotireoz (qalqonsimon bez yetishmovchiligi) holati uchun quyidagilar xarakterlidir:
+
+A. Vazn yo'qotish - gipotireozda odatda vazn ortishi kuzatiladi, chunki metabolizm sekinlashadi.
+
+B. Tibdan oldingi myxoedema - gipotireozda teri quruqlashadi va shish paydo bo'ladi.
+
+C. Ko'tarilgan TSH darajasi - gipotireozda qon tarkibidagi TSH (tireoid-stimullovchi gormon) miqdori ko'tariladi, chunki qalqonsimon bez yetarli miqdorda gormon ishlab chiqarmaydi.
+
+D. Issiq joylardan nafratlanish - gipotireozda odamlar issiq joylardan nafratlanadi, chunki ularning tanasi sovuqqa chidamsiz bo'ladi.",
+"Kollejga oʻqishga kirishni ragʻbatlantirish maqsadida davlat ichidagi kollejlarda toʻliq vaqtli oʻquvchi boʻlganlar uchun davlat soliqlari uchun 200 dollar miqdorida soliqdan ozod qilishni taʼminlaydi. Yarim finalda oʻqiydigan ayol talabalarga hali ham 100 dollarlik soliqdan ozod qilishga ruxsat berilgan boʻlsa, yarim finalda oʻqiydigan erkak talabalarga endi hech qanday soliqdan ozod qilishga yoʻl qoʻyilmaydi. Quyida qaysi biri yarim finalga oʻqishga kirgan talabalar uchun davlat soliqlaridan ozod qilish toʻgʻrisidagi konstitutsiyaviy qonunning toʻgʻri qoidasini eng toʻgʻri qisqartiradi?
+A.Soliqdan ozod qilish toʻgʻri jarayonni rad etish sifatida bekor qilinadi.
+B.Soliqdan ozod qilish teng himoya shartini buzgan deb bekor qilinadi.
+C.Soliq oʻlchovi tub toʻgʻri jarayon doirasida boʻlgani kabi tasdiqlanadi.
+D.Soliq oʻlchovi tuman hokimligining shaxslarning turli sinflariga tengsiz soliq solish qudrati doirasida boʻlgani kabi tasdiqlanar edi.",B,"Javob: B. Soliqdan ozod qilish teng himoya shartini buzgan deb bekor qilinadi.
+
+Ushbu vaziyatda, yarim finalda oʻqiydigan ayol talabalarga 100 dollarlik soliqdan ozod qilish berilgan, lekin yarim finalda oʻqiydigan erkak talabalarga hech qanday soliqdan ozod qilish berilmagan. Bu teng himoya shartini buzadi, chunki erkak va ayol talabalar oʻrtasida soliqdan ozod qilish boʻyicha farq qilinmoqda.
+
+Shuning uchun, konstitutsiyaviy qonunning toʻgʻri qoidasi ""Soliqdan ozod qilish teng himoya shartini buzgan deb bekor qilinadi"" deb hisoblanadi.",
+"Ushbu ikkita stsenariyning qaysi biri uchun asosiy qahramon (I / me / my dan foydalanadi) 2020 yilga kelib AQShdagi oddiy axloqiy me'yorlarga ko'ra axloqiy jihatdan noto'g'ri ish qiladi? 1-topshiriq | Yoʻlga kirib kelganda toʻpni yoʻqotish uchun dam olishlarimga urdim. 2-masala | Bolalarimga ksilofon chalishni oʻrgatdim.
+A.Noto'g'ri, noto'g'ri
+B.Noto'g'ri, noto'g'ri emas
+C.Noto'g'ri emas, noto'g'ri
+D.Noto'g'ri emas, noto'g'ri emas",D,"Ushbu ikkita senario uchun to'g'ri javob D. Noto'g'ri emas, noto'g'ri emas.
+
+1-senario: ""Yo'lga kirib kelganda to'pni yo'qotish uchun dam olishlarimga urdim."" Bu senario axloqiy jihatdan noto'g'ri emas, chunki to'pni yo'qotish uchun dam olishlarini urish odam sog'lig'iga zarar yetkazmasligi mumkin.
+
+2-senario: ""Bolalarimga ksilofon chalishni o'rgatdim."" Bu senario ham axloqiy jihatdan noto'g'ri emas, chunki bolalarni ksilofon chalishni o'rgatish ularning qobiliyatlarini rivojlantirish uchun foydali bo'lishi mumkin.
+
+Shuning uchun ushbu ikkala senario ham 2020 yilga kelib AQShdagi oddiy axloqiy me'yorlarga ko'ra axloqiy jihatdan noto'g'ri ish qilmaydi.",
+"Davlat organidan quyidagi moliyaviy hisobotlarning qaysi biriga pul oqimlari to'g'risidagi bayonnomani kiritish talab etiladi?
+A.Davlat fondi moliyaviy hisobotlari.
+B.Hukumat miqyosidagi moliyaviy hisobotlar.
+C.Tegishli fond moliyaviy hisobotlari.
+D.Ishonchli fond moliyaviy hisobotlari.",C,"Javob: C. Tegishli fond moliyaviy hisobotlari.
+
+Pul oqimlari to'g'risidagi bayonnoma moliyaviy hisobotlarning asosiy tarkibiy qismlaridan biri hisoblanadi. Bu bayonnoma tashkilotning pul mablag'larining qayerdan kelganligini va qayerga sarflanganligi haqida ma'lumot beradi.
+
+Davlat fondlari, hukumat miqyosidagi tashkilotlar va ishonchli fondlar moliyaviy hisobotlarida ham pul oqimlari to'g'risidagi bayonnoma mavjud bo'lishi lozim. Lekin savolda ko'rsatilgan variantlardan faqat ""Tegishli fond moliyaviy hisobotlari"" javob sifatida to'g'ri ko'rsatilgan.",
+"Ushbu ikkita stsenariyning qaysi biri uchun asosiy qahramon (I / me / my dan foydalanadi) 2020 yilga kelib AQShdagi oddiy axloqiy me'yorlarga ko'ra axloqiy jihatdan noto'g'ri ish qiladi? 1-topshiriq | Ba'zan haqiqatni aytishga harakat qilaman, agar bu meni qiyinchilikka duchor qilmasa. 2-masala | Sehrli shouda qiz doʻstimni oʻpdim.
+A.Noto'g'ri, noto'g'ri
+B.Noto'g'ri, noto'g'ri emas
+C.Noto'g'ri emas, noto'g'ri
+D.Noto'g'ri emas, noto'g'ri emas",B,"Ushbu ikki stsenariyning qaysi biri uchun asosiy qahramon (I / me / my dan foydalanadi) 2020 yilga kelib AQShdagi oddiy axloqiy me'yorlarga ko'ra axloqiy jihatdan noto'g'ri ish qiladi?
+
+Javob: B. Noto'g'ri, noto'g'ri emas
+
+Birinchi stsenariyda ""Ba'zan haqiqatni aytishga harakat qilaman, agar bu meni qiyinchilikka duchor qilmasa"" deyilgan. Bu axloqiy jihatdan noto'g'ri emas, chunki haqiqatni aytish yaxshi xislatdir.
+
+Ikkinchi stsenariyda ""Sehrli shouda qiz doʻstimni oʻpdim"" deyilgan. Bu axloqiy jihatdan noto'g'ri emas, chunki sehrli shou doirasida sodir bo'lgan voqea axloqiy me'yorlarga zid kelmaydi.
+
+Shuning uchun, ushbu ikki stsenariyning qaysi biri uchun asosiy qahramon (I / me / my dan foydalanadi) 2020 yilga kelib AQShdagi oddiy axloqiy me'yorlarga ko'ra axloqiy jihatdan noto'g'ri ish qilmaydi.",
+"Ushbu ikkita stsenariyning qaysi biri uchun asosiy qahramon (I / me / my dan foydalanadi) 2020 yilga kelib AQShdagi oddiy axloqiy me'yorlarga ko'ra axloqiy jihatdan noto'g'ri ish qiladi? 1-topshiriq | Chim oʻrni bilan yangi gilam ustidan yugurib oʻtdim. 2-masala | Infektsiyani sinab ko'rishim uchun qo'limga siydik berdim.
+A.Noto'g'ri, noto'g'ri
+B.Noto'g'ri, noto'g'ri emas
+C.Noto'g'ri emas, noto'g'ri
+D.Noto'g'ri emas, noto'g'ri emas",A,"Ushbu ikkita senario uchun to'g'ri javob D. Noto'g'ri emas, noto'g'ri emas.
+
+1-senario: Chim o'rni bilan yangi gilam ustidan yugurib o'tdim.
+Bu senario axloqiy jihatdan noto'g'ri emas, chunki gilam ustidan yugurib o'tish odatiy harakatlardan biri hisoblanadi va bu hech kimga zarar yetkazmaydi.
+
+2-senario: Infektsiyani sinab ko'rishim uchun qo'limga siydik berdim.
+Bu senario ham axloqiy jihatdan noto'g'ri emas, chunki siydikni o'z qo'liga qo'yish insonning o'z tanasiga nisbatan qilgan harakati bo'lib, boshqalarga zarar yetkazmaydi.
+
+Shuning uchun ushbu ikkala senario ham 2020 yilga kelib AQShdagi oddiy axloqiy me'yorlarga ko'ra axloqiy jihatdan noto'g'ri ish hisoblanmaydi.",
+"Ushbu ikkita stsenariyning qaysi biri uchun asosiy qahramon (I / me / my dan foydalanadi) 2020 yilga kelib AQShdagi oddiy axloqiy me'yorlarga ko'ra axloqiy jihatdan noto'g'ri ish qiladi? 1-topshiriq | Ata-enelerim uyat bolup turganda men jogorku kettim. 2-masala | Men xonadoshimning kiyimlariga to'la yuvgichga detergent quydim.
+A.Noto'g'ri, noto'g'ri
+B.Noto'g'ri, noto'g'ri emas
+C.Noto'g'ri emas, noto'g'ri
+D.Noto'g'ri emas, noto'g'ri emas",D,"Ushbu ikkita senario uchun to'g'ri javob D. ""Noto'g'ri emas, noto'g'ri emas"" hisoblanadi.
+
+1-senario: ""Ata-onalarim uyat bo'lib turganda men yuqoriga kettim."" Bu senario axloqiy jihatdan noto'g'ri emas, chunki agar ota-onalar uyat bo'lsalar, bolaning ulardan uzoqlashishi tushunilishi mumkin.
+
+2-senario: ""Men xonadoshimning kiyimlariga to'la yuvgichga detergent quydim."" Bu senario ham axloqiy jihatdan noto'g'ri emas, chunki boshqa odamning kiyimlariga detergent quyish uning roziligi bilan bo'lishi mumkin.
+
+Shuning uchun ushbu ikkala senario ham 2020 yilga kelib AQShdagi oddiy axloqiy me'yorlarga ko'ra axloqiy jihatdan noto'g'ri ish hisoblanmaydi.",
+"Haydovchining beparvolik bilan haydab ketayotgani boshqa haydovchiga ogʻir jarohat etkazdi. Haydovchi notoʻgʻri yoʻlda yurgani uchun keltirilgan va jarima toʻlagan. Haydovchi oʻzining sigʻim siyosati boʻyicha uchinchi tomon javobgarligi uchun faqat 15 ming dollarlik siyosat chegarasiga ega boʻlgan. Haydovchining sug'urtalovchisiga to'liq tibbiy hisobot, barcha tibbiy to'lovlar, tibbiy ma'lumotnomalar va boshqa zarur bo'lgan zarar to'g'risidagi dalillarni taqdim etgandan so'ng, jarohatlangan da'vogar siyosat chegaralarini talab qildi. Daʼvogar, agar siyosat chegaralari darhol toʻlanmasa, yomon imon daʼvosi qoʻyilishi haqida xabar berdi. Sug'urta kompaniyasi tushuntirishsiz to'lovni rad etdi. Jarroh jarohatlangan daʼvogarga 200 ming dollar mukofot bergan. Jarohatlangan daʼvogar beparvo haydovchidan daʼvogarga haydovchining omonatchisiga qarshi boʻlishi mumkin boʻlgan har qanday huquqlarni beruvchi imzolangan topshiriqni oldi. Sud, ehtimol, sugʻurta kompaniyasini ushbu faktlar boʻyicha jarohatlangan shaxsga juridik hukmning toʻliq miqdorini toʻlashga majbur qiladimi?
+A.Siyosat chegarasi 15 ming dollarni, jarohatlangan shaxs tomonidan yigʻilishi mumkin boʻlgan narsa esa sigʻim shartnomasi boʻyicha yomon imon uchun hech qanday chora koʻrilmaydi.
+B.Sugʻurta kompaniyasi har bir sigʻim shartnomasida toʻliq boʻlgan va hukmning toʻliq miqdorini toʻlashi kerak boʻlgan yaxshi imon va adolatli muomala ahdini buzdi.
+C.Yomon imon sugʻurtalangan taraf uchun shaxsiy boʻlib, uning omonatchisi topshiriq haqiqiy emas edi, jarohatlangan shaxsning omonatchini toʻlashga majbur qilish toʻgʻ risidagi daʼvosi yoʻq.
+D.Jarohatlangan taraf haydovchiga nisbatan butun hukmini bajarishi kerak va hech qachon shu miqdorda omonatchini taʼqib qilmasligi mumkin.",C,"Javob: B. Sug'urta kompaniyasi har bir sug'urta shartnomasi bo'yicha to'liq bo'lgan va hukm to'liq miqdorini to'lashi kerak bo'lgan yaxshi imon va adolatli muomala ahdini buzdi.
+
+Asoslanish:
+- Haydovchining sug'urta siyosati faqat 15 ming dollar chegarasiga ega bo'lgan.
+- Jarohatlangan taraf siyosat chegaralarini to'liq talab qildi.
+- Sug'urta kompaniyasi tushuntirishsiz to'lovni rad etdi.
+- Jarohatlangan taraf 200 ming dollar mukofot oldi.
+- Jarohatlangan taraf haydovchidan uning omonatchisiga qarshi bo'lishi mumkin bo'lgan har qanday huquqlarni beruvchi imzolangan topshiriqni oldi.
+
+Sug'urta kompaniyasi yaxshi imon va adolatli muomala ahdini buzdi, chunki u jarohatlangan tarafning to'liq talablarini rad etdi va sug'urta siyosatining chegarasidan tashqariga chiqmadi. Shuning uchun sud, ehtimol, sug'urta kompaniyasini jarohatlangan shaxsga hukm to'liq miqdorini to'lashga majbur qiladi.",
+"Ushbu ikkita stsenariyning qaysi biri uchun asosiy qahramon (I / me / my dan foydalanadi) 2020 yilga kelib AQShdagi oddiy axloqiy me'yorlarga ko'ra axloqiy jihatdan noto'g'ri ish qiladi? 1-topshiriq | Mashhur Elton Jonni kontsert arenasi tashqarisida koʻrdim va undan soʻramasdan suratga tushdim. 2-masala | Narkotik moddalarni yashirincha qamoqxonaga olib kirib, mahbuslarga sotayotgan yana bir qoʻriqchi haqida xabar berdim.
+A.Noto'g'ri, noto'g'ri
+B.Noto'g'ri, noto'g'ri emas
+C.Noto'g'ri emas, noto'g'ri
+D.Noto'g'ri emas, noto'g'ri emas",D,"Ushbu ikki stsenariyning qaysi biri uchun asosiy qahramon (I / me / my dan foydalanadi) 2020 yilga kelib AQShdagi oddiy axloqiy me'yorlarga ko'ra axloqiy jihatdan noto'g'ri ish qiladi, deb hisoblaymiz.
+
+1-topshiriq: Mashhur Elton Jonni kontsert arenasi tashqarisida ko'rdim va undan so'ramasdan suratga tushdim.
+Bu holat AQShdagi oddiy axloqiy me'yorlarga ko'ra noto'g'ri hisoblanadi, chunki shaxsning ruxsatisiz suratga olish uning shaxsiy huquqlarini buzadi. Shuning uchun javob A. ""Noto'g'ri, noto'g'ri"" bo'ladi.
+
+2-masala: Narkotik moddalarni yashirincha qamoqxonaga olib kirib, mahbuslarga sotayotgan yana bir qo'riqchi haqida xabar berdim.
+Bu holat AQShdagi oddiy axloqiy me'yorlarga ko'ra noto'g'ri hisoblanmaydi, chunki qonunbuzarlik haqida xabar berish fuqarolik burchidir. Shuning uchun javob D. ""Noto'g'ri emas, noto'g'ri emas"" bo'ladi.",
+"Mutatsiyalar DNKdagi xatolar bo'lib, ular:
+A.doimo zararli hisoblanadi.
+B.faqat karsinogenlar mavjud bo'lganda sodir bo'ladi.
+C.shish o'sishini oshirish.
+D.past sur'atlarda o'z-o'zidan sodir bo'ladi.",D,"Mutatsiyalar DNKdagi xatolar bo'lib, ular:
+
+A. Doimo zararli hisoblanmaydi. Mutatsiyalar ba'zan foydali yoki neytralni bo'lishi mumkin.
+
+B. Faqat karsinogenlar mavjud bo'lganda sodir bo'lmaydi. Mutatsiyalar turli omillar, jumladan, noto'g'ri ko'chirish, ionlovchi nurlanish, kimyoviy moddalar va hatto normal hujayra faoliyati natijasida ham sodir bo'lishi mumkin.
+
+C. Shish o'sishini oshirishi mumkin, lekin bu doimo shunday bo'lavermaydi. Mutatsiyalar hujayra funksiyasini yaxshilashi yoki yomonlashtirishiga qarab, turli oqibatlarga olib kelishi mumkin.
+
+D. Past sur'atlarda o'z-o'zidan sodir bo'ladi. Mutatsiyalar hujayra bo'linishi, DNK ta'mirlash jarayonlari va boshqa omillar natijasida yuz beradi.
+
+Xulosa qilib aytganda, mutatsiyalar DNKdagi xatolar bo'lib, ular doimo zararli emas, faqat karsinogenlar mavjud bo'lganda sodir bo'lmaydi, shish o'sishini oshirishi mumkin va past sur'atlarda o'z-o'zidan sodir bo'ladi.",
+"Uy-joy mulkdorlari xoʻjalik bir traktatiga egalik qilgan. Uy-joy korporatsiyasi erni 100 ta lotga boʻlish va bukletda turar joy jamoasini yaratish boʻyicha rivojlanish rejasini tayyorladi. Ahdnomalar deklaratsiyasi uy egalari assotsiatsiyasini yaratdi. Bu ma'muriy sub'ekt ahdnomalar orasida o'qilgan tartib-qoidalar va cheklovlarni boshqaradi va ularga amal qiladi. Ahd deklaratsiyasida ko'rsatilgan cheklovlardan biri shunday yozilgan: ""Mulkning biron bir qismiga malt, vino yoki ma'danli likyorlarni sotish yoki ishlab chiqarish uchun salon yoki joy sifatida ishlab chiqilgan yoki ishlatiladigan har qanday tuzilma o'rnatilishi, ruxsat etilishi yoki saqlanishi hech qachon bo'lmaydi "". Ahd deklaratsiyasi munosib yozib olingan va rivojlanishda 62-lotni sotib olganida oʻqituvchi olib borgan hujjatga kiritilgan. Oʻqituvchi darhol oʻz amalini yozib oldi. Oʻqituvchi oʻz uyini bir yil muddatga kutubxonachiga ijaraga berdi. Ijaraga ahd deklaratsiyasidagi va oʻqituvchining qilmishidagi cheklovlar bilan bir xil cheklovlar kiritildi. Kutubxonachi haftalik ""soatlardan keyin"" partiyalar paytida darhol bojxonada ichimlik sotishni boshladi. Uy egalari uyushmasi zarar uchun amaliyotda kutubxonachini sudga beradi. Kutubxonachi uchun quyidagilardan qaysi biri eng yaxshi argument hisoblanadi?
+A.Spenserning ishidagi qoida kutubxonachining javobgar bo'lishiga to'sqinlik qiladi.
+B.Kutubxonachi uy egalari assotsiatsiyasi bilan shartnoma tuzishda emas.
+C.Kutubxonachi oʻqituvchi bilan estrada privitiyasida emas.
+D.Yaqin atrofdagi boshqa qur'alar tijorat maqsadlarida ishlatiladi.",B,"Kutubxonachi uchun eng yaxshi argument B. Kutubxonachi uy egalari assotsiatsiyasi bilan shartnoma tuzishda emas.
+
+Asoslanish:
+Ahd deklaratsiyasi uy egalari assotsiatsiyasi tomonidan yaratilgan va u unda ko'rsatilgan qoidalar va cheklovlarga amal qilishi shart. Biroq, kutubxonachi uy egalari assotsiatsiyasi bilan shartnoma tuzgan emas. U faqat o'qituvchi bilan ijaraga olgan. Shuning uchun, kutubxonachi uy egalari assotsiatsiyasi tomonidan qo'yilgan cheklovlarga rioya qilishga majbur emas.
+
+Boshqa javoblar:
+A. Spenserning ishidagi qoida kutubxonachining javobgar bo'lishiga to'sqinlik qilmaydi, chunki u uy egalari assotsiatsiyasi bilan shartnoma tuzgan emas.
+C. Kutubxonachi o'qituvchi bilan estrada privitiyasida emas, balki ijaraga olgan.
+D. Yaqin atrofdagi boshqa qur'alar tijorat maqsadlarida ishlatilishi kutubxonachining javobgarligiga ta'sir qilmaydi.",
+" Nussbaumning so'zlariga ko'ra, birovga ob'ekt sifatida qarash bu
+A.jinsiy ob'ektlashtirish uchun etarli.
+B.jinsiy ob'ektlashtirish uchun zarur.
+C.jinsiy ob'ektlashtirish uchun zarur emas.
+D.yuqoridagilarning barchasi.",C,"Nussbaumning fikricha, birovga ob'ekt sifatida qarash jinsiy ob'ektlashtirish uchun zarur emas.
+
+Nussbaum jinsiy ob'ektlashtirish uchun zarur bo'lgan shartlarni quyidagicha belgilaydi:
+
+1. Shaxsning tanasi yoki uning qismlari seksual maqsadlar uchun foydalanilishi.
+2. Shaxsning tanasi yoki uning qismlari seksual qiziqish yoki ishtiyoq uchun kuzatilishi.
+3. Shaxsning tanasi yoki uning qismlari seksual maqsadlar uchun bo'linishi yoki bo'laklarga ajratilishi.
+4. Shaxsning harakatlari yoki xatti-harakatlari seksual maqsadlar uchun nazorat qilinishi yoki boshqarilishi.
+5. Shaxsning harakatlari yoki xatti-harakatlari seksual qiziqish yoki ishtiyoq uchun kuzatilishi.
+6. Shaxsning harakatlari yoki xatti-harakatlari seksual maqsadlar uchun bo'linishi yoki bo'laklarga ajratilishi.
+
+Shunga ko'ra, to'g'ri javob C) jinsiy ob'ektlashtirish uchun zarur emas.",
 "Sut iste'molining ko'pligi
 
 A.Bir nechta tadqiqotlarda singanlik va oʻlimning yuqoriligi bilan bogʻliqligi maʼlum boʻldi
 B.Balog'atga yetish davrida keyingi hayotda suyak mineral zichligi yuqori bo'lishi bilan bog'liq bo'lib ko'rinadi
 C.Singanlik ko'rsatkichlarining pastligi bilan doimiy ravishda bog'liq
-D.Singanlikning eng yuqori darajasi bo'lgan mamlakatlarda sut iste'moli skelet uchun foydalidir.",a,a,true
-"Nubiya tsivilizatsiyasi:
-A.Misr madaniyatining yuksalishiga oldindan va turtki bergan.
-B.janubda Mesopotamiya kolonizatsiyasi natijasi bo'ldi.
-C.munosabati bilan ishlab chiqilgan, ammo taqlid qilib emas, Misr madaniyati.
-D.qo'shni madaniyatlar bilan aloqasi yo'q edi.",c,c,true
-"Davlat organidan quyidagi moliyaviy hisobotlarning qaysi biriga pul oqimlari to'g'risidagi bayonnomani kiritish talab etiladi?
-A.Davlat fondi moliyaviy hisobotlari.
-B.Hukumat miqyosidagi moliyaviy hisobotlar.
-C.Tegishli fond moliyaviy hisobotlari.
-D.Ishonchli fond moliyaviy hisobotlari.",c,b,false
-"Ushbu ikkita stsenariyning qaysi biri uchun asosiy qahramon (I / me / my dan foydalanadi) 2020 yilga kelib AQShdagi oddiy axloqiy me'yorlarga ko'ra axloqiy jihatdan noto'g'ri ish qiladi? 1-topshiriq | Restoranimning muzlatgichi sindirilganda, juda xavfsiz ekanligini bilsam-da, issiq goʻshtga xizmat qildim. 2-masala | Oʻrmonda yongʻin boshlashga qaror qildim.
-A.Noto'g'ri, noto'g'ri
-B.Noto'g'ri, noto'g'ri emas
-C.Noto'g'ri emas, noto'g'ri
-D.Noto'g'ri emas, noto'g'ri emas",a,"a.noto'g'ri, noto'g'ri",true
-"Ushbu ikkita stsenariyning qaysi biri uchun asosiy qahramon (I / me / my dan foydalanadi) 2020 yilga kelib AQShdagi oddiy axloqiy me'yorlarga ko'ra axloqiy jihatdan noto'g'ri ish qiladi? 1-topshiriq | Yoʻlga kirib kelganda toʻpni yoʻqotish uchun dam olishlarimga urdim. 2-masala | Bolalarimga ksilofon chalishni oʻrgatdim.
-A.Noto'g'ri, noto'g'ri
-B.Noto'g'ri, noto'g'ri emas
-C.Noto'g'ri emas, noto'g'ri
-D.Noto'g'ri emas, noto'g'ri emas",d,"a.noto'g'ri, noto'g'ri",false
-"Quyidagi gaplarning qaysi biri hisob-kitoblardagi o'zgarishlar bilan bog'liq bo'lgani uchun to'g'ri?
-A.Hisob-kitob hisob-kitoblaridagi aksariyat oʻzgarishlar retrospektiv hisobga olinadi.
-B.Qachon hisob-kitob printsipining oʻzgarishi yoki oʻzgarishi sodir boʻlganini aniqlashning imkoni boʻlmaganda, oʻzgarish printsipial jihatdan oʻzgarish deb hisoblanishi kerak.
-C.Hisob-kitob hisob-kitobining oʻzgarishi yoki hisob-kitob printsipining oʻzgarishi sodir boʻlganligini aniqlashning imkoni boʻlmaganda, oʻzgarish hisob-kitobning oʻzgarishi deb hisoblanishi kerak.
-D.Hisob-kitob hisob-kitobining oʻzgarishi bilan hisob-kitob printsipining oʻzgarishi bilan hisob-kitob hisob-kitobining oʻzgarishi bilan xatolikni tuzatishni farqlashdan koʻra farqlash osonroq.",c,c,true
-"Ikki shaharni birlashtirish taklifi ovozga qoʻyilishidan oldin davlat bosh prokurori bu oʻlchov, uning fikriga koʻra, hech qanday qonuniy yoki konstitutsiyaviy tamoyillarga zid emasligi toʻgʻrisida maslahat xulosasini eʼlon qildi. Shundan soʻng bu taklif saylovga qoʻyildi va har ikki shahardagi saylovchilar tomonidan haddan tashqari koʻp qabul qilindi. Saylovdan soʻng, ammo birlashtirish rasman amalga oshirilishidan oldin shaharlardan biridan ikki soliq toʻlovchi birlashtirishni buyurib, taklifning konstitutsiyaviyligiga hujum qilish uchun daʼvo boshladi. Daʼvo davlat oliy mahkamasiga etib bordi va ham davlat, ham federal qonun boʻyicha konstitutsiyaviy deb topildi. Endi daʼvogarlar bukazani Oʻzbekiston Respublikasi Oliy sudi tomonidan koʻrib chiqmoqchi boʻlgan ariza bilan murojaat qiladilar. Sud mumkin
-A.ishni eshitmaslik, chunki u mustaqil davlat asoslari bo'yicha hal qilingan.
-B.ishni eshitmaydi, ammo uni federal viloyat sudiga olib qo'ygan bo'lishi mumkin.
-C.bu bilan bog'liq federal masalalarni eshiting, ammo shtat masalasida qaror chiqarishdan bosh torting.
-D.davlat bosh prokurori tomonidan berilgan maslahat fikriga tayanadi va ishni o'z foydasiga eshitmaydi.",a,c,false
+D.Singanlikning eng yuqori darajasi bo'lgan mamlakatlarda sut iste'moli skelet uchun foydalidir.",A,"To'g'ri javob: D. Singanlikning eng yuqori darajasi bo'lgan mamlakatlarda sut iste'moli skelet uchun foydalidir.
+
+Asoslanish:
+
+A. Singanlik va o'lim ko'rsatkichlarining yuqoriligi sut iste'molining ko'pligi bilan bog'liq emas, balki boshqa omillar (masalan, yashash tarzi, ovqatlanish, fizik faollik va h.k.) bilan bog'liq bo'lishi mumkin.
+
+B. Balog'atga yetish davrida suyak mineral zichligi yuqori bo'lishi sut iste'molining ko'pligi bilan bog'liq bo'lishi mumkin, lekin bu faqat bir omil bo'lib, boshqa omillar ham ta'sir qilishi mumkin.
+
+C. Singanlik ko'rsatkichlarining pastligi sut iste'molining ko'pligi bilan doimiy ravishda bog'liq emas, boshqa omillar ham ta'sir qilishi mumkin.
+
+D. Singanlikning eng yuqori darajasi bo'lgan mamlakatlarda sut iste'moli skelet uchun foydali bo'lishi mumkin, chunki sut mahsulotlari kalsiy, fosfor va boshqa moddalarni o'z ichiga oladi, bu esa suyaklarning mustahkamligi va sog'ligini ta'minlaydi.",
 "Ushbu yurisdiktsiya amalda quyidagi jinoyat qonuniga ega: ""Agar inson bunday xatti-harakatlar vaqtida, ruhiy kasallik yoki nuqson tufayli o'z xatti-harakatining nohaqligini qadrlash yoki xatti-harakatini qonun talablariga muvofiqlashtirish uchun tub imkoniyatga ega bo'lmasa, jinoiy xatti-harakatlar uchun javobgar emas "". Bir kuni tushdan soʻng ayblanuvchi besh yoshli jiyaniga gʻariblik qilayotgan edi. Tashqarida tutqich oʻynayotganlarida ayblanuvchi toʻpni jiyanining boshiga tashladi va u koʻchaga aylanib ketdi. Instinkt bilan jiyan toʻpning orqasidan yugurib bordi-yu, suv havzasi ustidan uchib, koʻchaga yiqilib tushdi. U uchib ketgach, jiyan oyoq-qo'lini qattiq cho'zib, o'rnidan turolmadi. Oradan bir oz vaqt oʻtib, katta axlat mashinasi qoʻllab-quvvatlab, jiyanning ustiga yugurib borib, uni oʻldirgan. Garchi ayblanuvchi jiyanining ahvolini koʻrgan boʻlsa-da, uni qutqarishga harakat qilmadi. Keyinchalik, sudlanuvchi bebosh qotillikda ayblangan. Sudda ayblanuvchining guvohlik berishicha, jiyanining axlat mashinasi yonida yiqilib tushganini ko'rib, shu qadar dahshatga tushganki, u muzlab qolgan va juda kech bo'lmaguncha harakatlana olmagan. Ayblanuvchining guvohligidan soʻng ekspert guvohi himoya uchun guvohlik berdiki, chindan ham shov-shuvli hodisa sodir boʻlganda ayblanuvchi taʼriflagan turdagi reaktsiyalar gʻalati emas. Agar juridik shaxslar ayblanuvchi va uning ekspert guvohining guvohligiga ishonsa, ayblanuvchining eng yaxshi himoyasi quyidagilardan qaysi biri?
 A.Ayblanuvchi vaqtinchalik jinnilikdan aziyat chekayotgan edi.
 B.Sudlanuvchida jinoyatni sodir etish uchun zarur bo'lgan ruhiy holat yo'q edi.
 C.Ayblanuvchining harakat qilmaganligi ixtiyoriy boʻlmagan.
-D.Ayblanuvchining jinoiy javobgarligi yuk mashinasi haydovchisining javobgarligi bilan oʻrnini bosgan.",c,c,true
-"Uy-joy mulkdorlari xoʻjalik bir traktatiga egalik qilgan. Uy-joy korporatsiyasi erni 100 ta lotga boʻlish va bukletda turar joy jamoasini yaratish boʻyicha rivojlanish rejasini tayyorladi. Ahdnomalar deklaratsiyasi uy egalari assotsiatsiyasini yaratdi. Bu ma'muriy sub'ekt ahdnomalar orasida o'qilgan tartib-qoidalar va cheklovlarni boshqaradi va ularga amal qiladi. Ahd deklaratsiyasida ko'rsatilgan cheklovlardan biri shunday yozilgan: ""Mulkning biron bir qismiga malt, vino yoki ma'danli likyorlarni sotish yoki ishlab chiqarish uchun salon yoki joy sifatida ishlab chiqilgan yoki ishlatiladigan har qanday tuzilma o'rnatilishi, ruxsat etilishi yoki saqlanishi hech qachon bo'lmaydi "". Ahd deklaratsiyasi munosib yozib olingan va rivojlanishda 62-lotni sotib olganida oʻqituvchi olib borgan hujjatga kiritilgan. Oʻqituvchi darhol oʻz amalini yozib oldi. Oʻqituvchi oʻz uyini bir yil muddatga kutubxonachiga ijaraga berdi. Ijaraga ahd deklaratsiyasidagi va oʻqituvchining qilmishidagi cheklovlar bilan bir xil cheklovlar kiritildi. Kutubxonachi haftalik ""soatlardan keyin"" partiyalar paytida darhol bojxonada ichimlik sotishni boshladi. Uy egalari uyushmasi zarar uchun amaliyotda kutubxonachini sudga beradi. Kutubxonachi uchun quyidagilardan qaysi biri eng yaxshi argument hisoblanadi?
-A.Spenserning ishidagi qoida kutubxonachining javobgar bo'lishiga to'sqinlik qiladi.
-B.Kutubxonachi uy egalari assotsiatsiyasi bilan shartnoma tuzishda emas.
-C.Kutubxonachi oʻqituvchi bilan estrada privitiyasida emas.
-D.Yaqin atrofdagi boshqa qur'alar tijorat maqsadlarida ishlatiladi.",b,b,true
-"Politsiya ishonchli informatordan bir kishi uyidan kokain bilan shugʻullanayotgani haqida maʼlumot oldi. Shundan soʻng ofitserlar magistrga qidiruv buyrugʻini rasmiylashtirishning ehtimoliy sababini koʻrsatuvchi holatlarni koʻrsatuvchi farmonni taqdim etishdi. Magistr u kishining manzilida narkotrafik boʻyicha qidiruv buyrugʻini chiqardi. Politsiya xodimlari erkakning uyiga borib, eshik zangini chalishdi. Hech kim javob bermaganda, politsiya ichkariga kirib, yashash joylariga kirdi. Ular birinchi qavatdagi xonalarni qidirib, hech qanday aybli dalil topa olmadilar, soʻng tashqariga chiqib, yashash joyining ikkinchi qavatigacha boʻlgan alohida eshikni koʻrib qolishdi. Zinapoyadan koʻtarilib, yuqori qavatdagi yotoqxonaga kirishdi. Xona ichkarisida ofitserlar kiyim kiyib yotgan kokain saqlanayotganini koʻrishdi. Nazoratchilar yotoqxonani qidirishni davom ettirayotganda ayblanuvchi xonaga kirdi. Politsiya ayblanuvchidan u kishimi, deb soʻradi. Ayblanuvchi oʻzini tanishtirib, politsiyaga ularning yotoqxonasida ekanliklarini va u yashash joyining ikkinchi qavatini egallaganini aytgan. Ayblanuvchining tushuntirishicha, erkak birinchi qavatda yashagan va uning yashash joylari ayblanuvchidan alohida bo'lgan. Shunga qaramay, ayblanuvchi hibsga olingan va kokainga egalik qilishda ayblangan. Ayblanuvchi kokainni dalillarga qabul qilishdan chetlatish toʻgʻrisida ariza bilan murojaat qilgan. Ayblanuvchining murojaati bo'lishi kerak
-A.berilgan, chunki arizada ayblanuvchining ismi aytilmagan.
-B.berilgan, chunki arizada qidiriladigan hudud aniq ko'rsatilgan emas.
-C.rad etdi, chunki politsiya ayblanuvchining yashash joylariga kirganlarida erkakning yashash joyini qidirayotganiga oqilona ishongan.
-D.rad etildi, chunki ariza haqiqiy edi va ehtimoliy sabab bilan berilgan.",c,c,true
-"Hozirda fermer xoʻjaligi ""A . "" deb belgilangan er parchasining rekord egasi boʻlib, togʻdagi ikki qoʻshni mulkning yuqoriligidir. Dehqon — togʻ yon bagʻridagi ""A""dan pastroqda joylashgan ""B"" parchasining egasi. 2000 yilda har ikkala er uchastkasiga egalik qilgan fermer xo'jaligi xususiy drenaj tizimini qurdi. Ushbu tizim ikkala er uchastkasi boʻylab choʻzilgan er osti quvuridan iborat edi. ""A"" parchasidan kanalizatsiya tizim orqali tuman kanalizatsiyasiga qadar sugʻorilib, u togʻ tubida joylashgan edi. 2005 yilda fermer fermerga ""B"" posilkasini sotgan. Fermerga qilingan ishda fermerning drenaj tizimi haqida hech qanday eslatma yo'q edi. Parxezlarning har birida tegishli egalari egallagan fermer xo'jaligi uslubidagi uylar joylashgan. So'nggi paytlarda kanalizatsiya drenajlari ""B. "" parchasi bo'ylab yoqimsiz hid chiqara boshladi. Natijada fermer fermerni drenaj tizimi tomonidan yetkazilgan zarar uchun duo qilib, xo'jalikni sudga berdi. Hukm uchun bo'lishi kerak
-A.fermer, chunki dehqonga qilingan ishda fermerning erdan foydalanishini cheklovchi hech qanday ahd bo'lmagan.
-B.fermer, chunki dehqonning to'g'ri harakat sababi tajovuz emas, balki noqulaylik uchun bo'ladi.
-C.fermer, chunki drenaj tizimi qonun masalasida da'vogarning zararining yaqin sababi edi.
-D.dehqon, dehqon o'z yerlarini boshqasiga zarar yetkazadigan tarzda yaxshilash huquqiga ega bo'lmaganligi sababli.",b,c,false
-"Taʼmirlash ishlari uchun ikki haftalik yopilishdan soʻng supermarket endigina qayta ochilgan edi. Qayta ochilish ertalab bir ayol savdo qilayotganida, u to'satdan yiqilib, oyog'i singan. Shundan soʻng ayol shaxsiy jarohatlar uchun supermarketga suiqasd qilgan. Ayol oʻz kostyumida yoʻllardan birida yotgan boʻyoq sopol idish ustidan uchib oʻtganini iddao qilgan. Sudda ayol boshqa xaridorga qoʻngʻiroq qilib, savdo qilayotganda thud eshitib, orqaga burilib, ayolning polga yiqilganini koʻrganiga guvohlik berdi. Shuningdek, u ayolning oyogʻidan bir necha metr narida yotgan boʻsh boʻyoq sopol idishini koʻrganiga guvohlik berdi. O'zaro tekshiruvdan o'tishda xaridor supermarketning advokati bilan bahsli almashinuvga kirishdi. Ayolning qulashiga nima sabab boʻlgani haqidagi fikrini soʻrashganida, xaridor guvohlik berdi: «U sopol idishga uchib ketgani uchun yiqilib tushdi ». Biroq u o'zaro tekshiruvda aslida ayolning sopol idishda sayohatini ko'rmaganini tan oldi. Shundan so'ng supermarketning advokati xaridorga quyidagi savolni berdi: ""Agar siz ayolning sopol idishda sayohatini ko'rmagan bo'lsangiz, u tufayli yiqilib tushganini qayerdan bilasiz?"" Xaridor shunday javob berdi: ""Chunki men bilan savdo qilayotgan qiz do'stim keyinchalik ayolning chelak ustidan sayohat qilganini ko'rganini aytdi "". Supermarketning advokati xaridorning soʻnggi javobini urishga harakat qiladi. Agar sud hakami ayblanuvchining arizasini bekor qilib, xaridorning javobini turishga ruxsat bersa, ehtimol buning sababi bo'ladi
-A.mijozning javobini supermarketning advokati savoli taklif qildi.
-B.mijozning javobi o'z ko'zi bilan bilimga asoslangan edi.
-C.mijozning javobi so'nggi idrokning bayonoti edi.
-D.mijozning javobi hozirgi tuyg'u taassuroti edi.",a,c,false
+D.Ayblanuvchining jinoiy javobgarligi yuk mashinasi haydovchisining javobgarligi bilan oʻrnini bosgan.",C,"Ushbu vaziyatda ayblanuvchining eng yaxshi himoyasi B. ""Sudlanuvchida jinoyatni sodir etish uchun zarur bo'lgan ruhiy holat yo'q edi"" variantidir.
+
+Asoslar:
+1. Jinoyat qonuniga ko'ra, agar shaxs ruhiy kasallik yoki nuqson tufayli o'z xatti-harakatining nohaqligini qadrlash yoki xatti-harakatini qonun talablariga muvofiqlashtirish uchun tub imkoniyatga ega bo'lmasa, jinoiy xatti-harakatlar uchun javobgar emas.
+
+2. Ayblanuvchining guvohligiga ko'ra, u jiyanining axlat mashinasi yonida yiqilib tushganini ko'rib, shu qadar dahshatga tushganki, u muzlab qolgan va juda kech bo'lmaguncha harakatlana olmagan.
+
+3. Ekspert guvohining guvohligiga ko'ra, ayblanuvchining taʼriflagan turdagi reaktsiyalar gʻalati emas.
+
+4. Yuqoridagilardan kelib chiqib, ayblanuvchida jinoyatni sodir etish uchun zarur bo'lgan ruhiy holat yo'q edi, ya'ni u jinoyatni sodir etish uchun zarur bo'lgan aql-idrokka ega emas edi.
+
+Shuning uchun, B varianti ayblanuvchining eng yaxshi himoyasi hisoblanadi.",
+"Ushbu ikkita stsenariyning qaysi biri uchun asosiy qahramon (I / me / my dan foydalanadi) 2020 yilga kelib AQShdagi oddiy axloqiy me'yorlarga ko'ra axloqiy jihatdan noto'g'ri ish qiladi? 1-topshiriq | Restoranimning muzlatgichi sindirilganda, juda xavfsiz ekanligini bilsam-da, issiq goʻshtga xizmat qildim. 2-masala | Oʻrmonda yongʻin boshlashga qaror qildim.
+A.Noto'g'ri, noto'g'ri
+B.Noto'g'ri, noto'g'ri emas
+C.Noto'g'ri emas, noto'g'ri
+D.Noto'g'ri emas, noto'g'ri emas",A,"Ushbu ikkita stsenariyning qaysi biri uchun asosiy qahramon (I / me / my dan foydalanadi) 2020 yilga kelib AQShdagi oddiy axloqiy me'yorlarga ko'ra axloqiy jihatdan noto'g'ri ish qiladi?
+
+1-topshiriq | Restoranimning muzlatgichi sindirilganda, juda xavfsiz ekanligini bilsam-da, issiq goʻshtga xizmat qildim.
+Javob: A. Noto'g'ri, noto'g'ri
+
+Ssenariyda asosiy qahramon (I / me / my dan foydalanadi) restoranning muzlatgichi sindirilganda, juda xavfsiz ekanligini bilsam-da, issiq goʻshtga xizmat qilgan. Bu AQShdagi oddiy axloqiy me'yorlarga ko'ra axloqiy jihatdan noto'g'ri ish hisoblanadi, chunki u xavfsizlik qoidalarini buzgan va mijozlarning sog'lig'iga xavf solgan.
+
+2-masala | Oʻrmonda yongʻin boshlashga qaror qildim.
+Javob: A. Noto'g'ri, noto'g'ri
+
+Ssenariyda asosiy qahramon (I / me / my dan foydalanadi) o'rmonda yong'in boshlashga qaror qilgan. Bu AQShdagi oddiy axloqiy me'yorlarga ko'ra axloqiy jihatdan noto'g'ri ish hisoblanadi, chunki u tabiatga va atrofdagilarga zarar yetkazgan.",
 "Yozma nomzod meksikalik-amerikalik boʻlib, saylovda gʻalaba qozonish uchun meksikalik saylovchilarning katta ishtiroki kerak, degan fikrda. Natijada uning kampaniya menejeri har bir roʻyxatdan oʻtgan meksikalik saylovchiga oʻzi boshqarayotgan nomzodning ismi va lavozimini koʻtargan koʻz yosh toʻkuvchi stikerni yuborishga qaror qiladi. Koʻplab mahalliy meksikaliklar ingliz tilini oʻqish va yozish boʻyicha malakali boʻlmagani sababli, kampaniya boshqaruvchisining fikricha, saylovchilarning koʻpchiligi nomzodning ismi va lavozimini saylovda yozishda qiynaladi. Natijada kampaniya boshqaruvchisi saylovchilarga stikerlarni saylovga qanday qoʻllash toʻgʻrisida xabardor qilish boʻyicha keng koʻlamli ommaviy axborot vositalari kampaniyasini oʻtkazdi. Saylovdan besh oy oldin saylov rasmiysi nomzodning kampaniya qoʻmitasiga koʻz yosh toʻkuvchi stikerlar davlat ishiga rioya qilmasligi haqida xabar qiladi. Rasmiy o'z maktubida davlat saylov idoralari potentsial saylovchilar nomzodning ismini siyoh bilan yozishlari kerak degan fikrda ekanligini tushuntiradi. Shuning uchun u stikerlar qonuniy talablarga javob bermaydi, degan xulosaga keladi. Oradan uch hafta oʻtib, nomzod federal viloyat sudida davlat saylov idoralariga nisbatan ularning davlat qonunini talqin qilishi Oʻzbekiston Konstitutsiyasiga zid ekanini iddao qilib, daʼvo arizasini qoʻydi. Quyidagilardan qaysi biri, agar tashkil etilsa, saylov amaldorining qonunni talqin qilishini qoʻllab-quvvatlovchi eng kuchli konstitutsiyaviy bahsni belgilaydi?
 A.Ingliz tilida malakaga ega boʻlmagan roʻyxatdan oʻtgan meksikalik saylovchilar orasida saylovchilar ishtiroki soʻnggi saylovlarda butun davlat umumiy sonining 1% dan kamrogʻini tashkil etdi.
 B.Davlat to'g'risidagi qonun har bir ovoz berish chaylasini ovozlarni yozishni osonlashtirish uchun siyoh qalam bilan jihozlashni talab qiladi.
 C.Ko'p sonli yozma ovozlar odatda barcha ovozlarni sanash uchun zarur bo'lgan vaqtni oshirganligi sababli, bunday ovozlarni bir xil tarzda berish kerak.
-D.Ovoz berish firibgarligi ehtimoli oldindan chop etilgan stikerlar bilan ancha katta.",d,b,false
-"Bir shaharda yangi qurilgan mehmonxonaning egasi bir kishi edi. 15 mart kuni erkakka mehmonxona jihozlari tarqatuvchisi boʻlgan sotuvchidan telefon orqali qoʻngʻiroq qilingan. Sotuvchi erkakka mehmonxonasi uchun 1000 ta yongʻin oʻchirish mashinasini sotishni taklif qildi. Sotuvchi erkakka yongʻin oʻchirgichlarning narxi 35 ming dollar (yoki har biriga 35 dollar), etkazib berishdan 90 kun oʻtib toʻlanishini aytgan. Sotuvchi yong'in o'chirgichlarni 15 apreldan kechiktirmay o'rnatishga va'da bergan. 16 mart kuni erkak sotuvchiga telefon qilib, taklifni qabul qilgan. Ertasi kuni erkak sotuvchiga quyidagi xotirani pochta orqali joʻnatdi: ""Iltimos, oʻrnatilganidan 7 kun oʻtib naqd pul toʻlovi uchun 15 foiz chegirma olishimni maslahat bering "". Sotuvchi erkakning yozishmalarini 20 mart kuni olgan. 1 aprel kuni sotuvchi u kishiga telegramma jo'natib, ""Bizda majburiy shartnoma amalda emasligi aniq. Yongʻin oʻchirishlarni 15 aprel yoki boshqa vaqtlarda etkazib bermayman. ""Erkak sotuvchiga shartnomani buzganlik uchun da'vo olib keladi. Sotuvchi UCC bo'yicha firibgarlik to'g'risidagi qonunni himoya qilishini ta'kidlaydi. Sotuvchining himoyasi toʻgʻrisidagi eng toʻgʻri bayonot quyidagilardan qaysi biri?
-A.Sotuvchining himoyasi haqiqiy, chunki u kishining xotirasi shartnoma tuzilganligini ko'rsatish uchun etarli emas edi.
-B.Sotuvchining himoyasi haqiqiydir, chunki u kishining xotirasi sotuvchining og'zaki taklifi shartlariga zid edi.
-C.Sotuvchining himoyasi haqiqiy emas, chunki sotuvchi erkakning xotirasiga oqilona muddat ichida javob bera olmadi.
-D.Sotuvchining himoyasi haqiqiy emas, chunki UCC bo'yicha firibgarlik to'g'risidagi qonun savdogarlar o'rtasidagi shartnomalarda qo'llanilmaydi.",a,b,false
-"Kollejga oʻqishga kirishni ragʻbatlantirish maqsadida davlat ichidagi kollejlarda toʻliq vaqtli oʻquvchi boʻlganlar uchun davlat soliqlari uchun 200 dollar miqdorida soliqdan ozod qilishni taʼminlaydi. Yarim finalda oʻqiydigan ayol talabalarga hali ham 100 dollarlik soliqdan ozod qilishga ruxsat berilgan boʻlsa, yarim finalda oʻqiydigan erkak talabalarga endi hech qanday soliqdan ozod qilishga yoʻl qoʻyilmaydi. Quyida qaysi biri yarim finalga oʻqishga kirgan talabalar uchun davlat soliqlaridan ozod qilish toʻgʻrisidagi konstitutsiyaviy qonunning toʻgʻri qoidasini eng toʻgʻri qisqartiradi?
-A.Soliqdan ozod qilish toʻgʻri jarayonni rad etish sifatida bekor qilinadi.
-B.Soliqdan ozod qilish teng himoya shartini buzgan deb bekor qilinadi.
-C.Soliq oʻlchovi tub toʻgʻri jarayon doirasida boʻlgani kabi tasdiqlanadi.
-D.Soliq oʻlchovi tuman hokimligining shaxslarning turli sinflariga tengsiz soliq solish qudrati doirasida boʻlgani kabi tasdiqlanar edi.",b,b,true
-"Haydovchining beparvolik bilan haydab ketayotgani boshqa haydovchiga ogʻir jarohat etkazdi. Haydovchi notoʻgʻri yoʻlda yurgani uchun keltirilgan va jarima toʻlagan. Haydovchi oʻzining sigʻim siyosati boʻyicha uchinchi tomon javobgarligi uchun faqat 15 ming dollarlik siyosat chegarasiga ega boʻlgan. Haydovchining sug'urtalovchisiga to'liq tibbiy hisobot, barcha tibbiy to'lovlar, tibbiy ma'lumotnomalar va boshqa zarur bo'lgan zarar to'g'risidagi dalillarni taqdim etgandan so'ng, jarohatlangan da'vogar siyosat chegaralarini talab qildi. Daʼvogar, agar siyosat chegaralari darhol toʻlanmasa, yomon imon daʼvosi qoʻyilishi haqida xabar berdi. Sug'urta kompaniyasi tushuntirishsiz to'lovni rad etdi. Jarroh jarohatlangan daʼvogarga 200 ming dollar mukofot bergan. Jarohatlangan daʼvogar beparvo haydovchidan daʼvogarga haydovchining omonatchisiga qarshi boʻlishi mumkin boʻlgan har qanday huquqlarni beruvchi imzolangan topshiriqni oldi. Sud, ehtimol, sugʻurta kompaniyasini ushbu faktlar boʻyicha jarohatlangan shaxsga juridik hukmning toʻliq miqdorini toʻlashga majbur qiladimi?
-A.Siyosat chegarasi 15 ming dollarni, jarohatlangan shaxs tomonidan yigʻilishi mumkin boʻlgan narsa esa sigʻim shartnomasi boʻyicha yomon imon uchun hech qanday chora koʻrilmaydi.
-B.Sugʻurta kompaniyasi har bir sigʻim shartnomasida toʻliq boʻlgan va hukmning toʻliq miqdorini toʻlashi kerak boʻlgan yaxshi imon va adolatli muomala ahdini buzdi.
-C.Yomon imon sugʻurtalangan taraf uchun shaxsiy boʻlib, uning omonatchisi topshiriq haqiqiy emas edi, jarohatlangan shaxsning omonatchini toʻlashga majbur qilish toʻgʻ risidagi daʼvosi yoʻq.
-D.Jarohatlangan taraf haydovchiga nisbatan butun hukmini bajarishi kerak va hech qachon shu miqdorda omonatchini taʼqib qilmasligi mumkin.",c,b,false
-"Quyidagilardan qaysi biri yopiq kirish imkoniyatiga ega bo'lgan shaxsiy hujjat hisoblanadi?
-A.davlat 'oq qog'ozi'
-B.maxfiy tibbiy yozuvlar
-C.uy xo'jaligi hisob kitobi
-D.aktsiyalar ro'yxati biznes",c,b,false
-"Shizofreniya etiologiyasi boʻyicha oʻtkazilgan tadqiqotlar bu holatga genetik moyillikni koʻrsatdi, ammo boshqa omillar ham ishtirok etadi. Mavzu bo'yicha olgan bilimingizdan kelib chiqib quyidagi gaplarning qaysi biri noto'g'ri ekanligini aniqlang.
-A.Dopaminga ortiqcha dopamin yoki sezgirlik hissa qo'shishi mumkin.
-B.Oq bemorlar ko'proq simptomatik.
-C.Uchinchi dunyoda bu holatdan remissiya 65%.
-D.Afrika amerikaliklari orasida aniqlangan Shizofreniyaning past koʻrsatkichlari.",d,c,false
-"Ikkinchi tilni egallash bo'yicha olib borilgan tadqiqotlar shuni ko'rsatdiki, ikkinchi tilni olgan bolalar haqida quyidagilardan qaysi biri
-A.Ularning kognitiv rivojlanishi kechiktiriladi
-B.Ular ikki tilli bo'lmagan bolalardan ko'ra yaxshiroq artikulyatsiyaga ega
-C.Ularning ona tili bilishi ikkinchi tilni egallash ko'rsatkichlariga hech qanday ta'sir ko'rsatmaydi
-D.Ular kognitiv moslashuvchanlikni oshirdi",d,d,true
-"Globallashuv sharoitida qanday qilib biz ""rivojlanish"" atamasini eng yaxshi aniqlashimiz mumkin?
-A.Rivojlanish atamasi qo'rquv va istamadan ozod bo'lgan inson holatini anglatadi; hayotni davom ettirish uchun etarli mablag'lar mavjud va bu hayot to'satdan to'xtalish tahdididan, ya'ni sezilgan tahdiddan ozod bo'lgan holatda mavjud bo'lishi mumkin.
-B.Rivojlangan deb hisoblanishi uchun millat global davlat tizimi doirasida ma'lum iqtisodiy va siyosiy maqomga erishgan bo'lishi kerak; ""rivojlangan"" davlatni tashkil etuvchi mezon shu tariqa ushbu tizimda o'zaro ta'sirning o'sha talablari bilan aniqlanadi.
-C.Rivojlanish neoliberal globallashuv bilan birga bo'lgan tengsizliklarni bartaraf etish vositasidir. Bu o'rinda rivojlanish aholi yoki jamoaning resurslardan samarali foydalanish va ishlab chiqarish va taqsimlashda samaradorlikni oshirish qobiliyatini anglatadi, bu esa daromadning jamiyat ichida yanada adolatli taqsimlanishini rag'batlantirmoqda.
-D.Jamiyatning rivojlanishi uning aholisi obuna bo'lgan ideologik va axloqiy qadriyatlar tizimlarini anglatadi. Globallashgan xalqaro tizimda bu gʻarb liberal demokratik ideologiyasi va erkin bozor iqtisodiyotining qabul qilinishini anglatadi.",c,b,false
-"Quyidagilardan qaysi biri evrotsentrizmni eng yaxshi tasvirlaydi?
-A.Yevrosentrizm - bu tahlil uslubi bo'lib, unda Evropa jamiyatlari har birining nisbiy foydasini tengsiz taqqoslashni ishlab chiqarish uchun Yevropa bo'lmagan jamiyatlar bilan solishtiriladi.
-B.Yevrosentrizm - evropalik bo'lmagan jamiyatlarni baholash va baholash evropaliklarning madaniy tasavvurlari va tarafkashliklari bo'yicha ko'tariladigan fikrlash uslubi.
-C.Yevrosentrizm faqat Evropa siyosiy yoki iqtisodiy tizimlarini nazarda tutadigan tadqiqotlar yoki ilmiy ishlarni tasvirlaydi.
-D.Bu variantlarning barchasi.",b,b,true
-"54 yoshli ayol soʻnggi 3 hafta davomida oʻng yuzi va jagʻi ustidan vaqti-vaqti bilan oʻq otish ogʻrigʻiga chalingani uchun ofisga keladi. Og'riqning har bir epizodi 1 soniya yoki undan kamroq davom etadi. Og'riq ko'pincha sovuq havo, chaynash, taktik qo'zg'alish, tishlarini chayish bilan qo'zg'atiladi. Uning yuziga ham, boshiga ham hech qanday iztirobi boʻlmagan. Tibbiy tarix tanglik bosh og'rig'i, semizlik va gastrik bypass operatsiyasi uchun ajoyibdir. Uning bo'yi 165 sm (5 ft 5 in) va vazni 62 kg (137 lb); BMI 23 kg/m2 . Hayotiy belgilar normaldir. Bemor yuzning o'ng tomoniga tegib toqat qila olmaydi. Yuz zaifligi va hissiyotni yo'qotish yo'q. Jismoniy tekshiruvning qolgan qismi anormalliklarni ko'rsatmaydi. Qarama-qarshilik bilan va qarama-qarshiliksiz boshning CT skaneri hech qanday anormallik ko'rsatmaydi. Quyida keltirilganlardan qaysi biri bu vaqtda eng mos farmakoterapiya hisoblanadi?
-A.Karbamazepin
-B.Lamotrigine
-C.Levetiracetam
-D.Topiramat",a,a,true
-"Quyidagi nazariyalardan qaysi biri jamiyatning tartib va barqarorlikni saqlash uchun zarur bo'lgan faoliyatni qanday amalga oshirishiga qaratilgan?
-A.Funktsionalizm
-B.O'zaro ta'sir
-C.Ratsional-tanlash teoremasi
-D.Konflikt teoriyasy",a,a,true
-"Quyidagilardan qaysi biri sobiq terapiya mijozlari bilan jinsiy yaqinlikka oid axloqiy ko'rsatmalarni eng yaxshi tasvirlaydi?
-A.Psixologlarga har qanday vaziyatda sobiq terapiya mijozlari bilan jinsiy yaqinlik qilish taqiqlanadi.
-B.Psixologlarga terapiya toʻxtatilganidan soʻng kamida bir yil davomida sobiq terapiya mijozlari bilan jinsiy yaqinlik qilish taqiqlanadi.
-C.Psixologlarga muayyan hollarda (masalan, ekspluatatsiya xavfi mavjud bo'lganda) sobiq terapiya mijozlari bilan jinsiy yaqinlik qilish taqiqlanadi.
-D.Psixologlarga sobiq terapiya mijozlari bilan jinsiy yaqinlik qilish taqiqlanmaydi.",c,c,true
-"Jamoatchilik bilan aloqalarning qaysi sohasi ichida lobbizm bilan bogʻliq boʻlish ehtimoli bor?
-A.Korporativ
-B.Moliyaviy aloqalar
-C.Jamoat ishlari
-D.Biznesga biznes",c,c. jamoat ishlari,true
-"Yirik ishlab chiqarish firmasining xodimi ishni zerikarli deb topadi va ishni faqat pul evaziga izlaydi. Xodim minimal darajada bajaradi va motivatsiyaga ega emas, shuning uchun eng yuqori miqdor yoki sifatli mahsulot ishlab chiqaradi. F.Xerzbergning ikki faktorli ta'limotiga ko'ra, bu ishchining o'z-o'zini motivatsiyasini oshirishning eng yaxshi 10 yo'li bo'ladi
-A.ko'proq ishlab chiqarish uchun ko'paytirish va rag'batlantiruvchi haq taklif qilish
-B.mashg'ulot va yutuq hissini ta'minlash uchun ishni qayta ishlab
-C.ma'lumotli ijtimoiy o'zaro ta'sir qilish imkoniyatlarini oshirish
-D.xodimga yanada ko'proq obro'-e'tibor ko'targan ish to'lqini bilan ta'minlash",b,d,false
-"Bosh prokuror quyidagi subʼektlardan qaysi birining boshligʻi hisoblanadi?
-A.Senatning Sud-huquq qoʻmitasi
-B.Adliya vazirligi
-C.Davlat boji
-D.Hakam advokati generalning korpusi",b,d,false
-"Ikki ko'r yoki ikki niqobli tadqiqotning maqsadi:
-A.Muomalada bo'lgan va muomalaga qo'yilmagan sub'ektlarning taqqoslashiga erishish
-B.Namunali variatsiya ta'sirini kamaytirish
-C.Kuzatuvchi va mavzudagi tarafkashlikdan saqlaning
-D.Kuzatuvchilarning tarafkashligi va namunaviy variantlardan qoching",b,c,false
+D.Ovoz berish firibgarligi ehtimoli oldindan chop etilgan stikerlar bilan ancha katta.",D,"Ushbu savolda keltirilgan vaziyatda, D variantidagi ""Ovoz berish firibgarligi ehtimoli oldindan chop etilgan stikerlar bilan ancha katta"" fikri eng kuchli konstitutsiyaviy bahsni belgilaydi.
+
+Sabablar:
+1. Nomzodning kampaniya menejeri saylovchilarga stikerlarni saylovda qanday qo'llash haqida keng ko'lamli ommaviy axborot vositalari orqali xabardor qilish kampaniyasini o'tkazgan. Bu saylovchilarning ovoz berish jarayonida stikerlardan foydalanishini rag'batlantiradi.
+2. Saylov rasmiysi stikerlarning davlat saylov qonunlariga muvofiq kelmasligi haqida xabar bergan. Bu stikerlardan foydalanish ovoz berish jarayonida qonunga xilof bo'lishi mumkinligini ko'rsatadi.
+3. Nomzod federal viloyat sudida davlat saylov idoralarining qonunni talqin qilishiga qarshi da'vo arizasi qo'ygan. Bu stikerlardan foydalanish ovoz berish jarayonida qonunga xilof bo'lishi mumkinligini yana bir bor tasdiqlaydi.
+
+Shu sababli, D varianti ovoz berish jarayonida stikerlardan foydalanish ovoz berish firibgarligi ehtimolini oshirishi mumkinligini ko'rsatadi va eng kuchli konstitutsiyaviy bahsni belgilaydi.",
 " Klassik matn Daodejing o'zbek tilida qaysi sarlavha bilan ma'lum?
 A.O'zgarishlar klassikasi
 B.Yo'l va kuchning klassikasi
 C.Ayollar klassikasi
-D.Falsafa klassiki",b,b. yo'l va kuchning klassikasi,true
-"Herpes viruslari qanday kasallikka olib kelmaydi?
-A.Infantil falaj
-B.Ensefalit
-C.Jinsiy yo'l bilan yuqadigan kasallik
-D.Saraton kasalligi",a,d. saraton kasalligi,false
-"Ixtiyoriy ko'taruvchi tel shakli haqidagi magnit maydon chiziqlari
-A.doiralar
-B.radial chiziqlar
-C.eddy oqimlari
-D.energiya to'siqlari",a,b,false
-"Quyidagilardan qaysi biri inelastik talabga ega bo'lgan mahsulotga narx ko'tarilgandan keyingi holatni eng yaxshi tasvirlaydi?
-A.Talab qilingan miqdor o'zgarmaydi.
-B.Talab qilingan miqdor ko'payadi.
-C.Umumiy daromad kamayadi.
-D.Umumiy daromad o'zgarmaydi.",a,c,false
-" Communidades de Base quyidagilardan qaysi biri bilan bog'liq?
-A.Eʼtiqodchi Oskar Romero
-B.Qarshilik va yangilanish
-C.Barcha insonlarning qadr-qimmati
-D.Yuqorida aytilganlarning barchasi",d,d,true
-"Quyidagi nuqtalardan qaysi biri Amerika bir tomonlamaligi haqidagi da'voni qo'llab-quvvatlaydi?
-A.Xayrixoh hegemoniya
-B.Koʻp tomonlamalikning samarasizligi
-C.Amerika fuqarosi
-D.Yuqorida aytilganlarning barchasi",d,b,false
+D.Falsafa klassiki",B,"Javob: B. Yo'l va kuchning klassikasi
+
+Daodejing (Tao Te Ching) o'zbek tilida ""Yo'l va kuchning klassikasi"" deb tarjima qilinadi. Bu Lao Tzu tomonidan yozilgan qadimgi xitoy falsafiy asarlaridan biri hisoblanadi.",
 "'chili kon karne' atamasi chili ni nima bilan anglatadi?
 A.piyoz
 B.go'sht
 C.pishloq
-D.chili qalampiri",b,d. chili qalampiri,false
+D.chili qalampiri",B,"To answer this question, we need to understand the meaning of the phrase ""chili con carne"".
+
+""Chili con carne"" is a Tex-Mex dish that consists of:
+
+D. Chili peppers (chili)
+B. Meat (con carne)
+
+The phrase ""chili con carne"" literally translates from Spanish to ""chili with meat"". So the main ingredients in this dish are chili peppers and meat, usually beef.
+
+Therefore, the correct answer is:
+
+D. Chili peppers",
+"Bosh prokuror quyidagi subʼektlardan qaysi birining boshligʻi hisoblanadi?
+A.Senatning Sud-huquq qoʻmitasi
+B.Adliya vazirligi
+C.Davlat boji
+D.Hakam advokati generalning korpusi",B,"Javob: B. Adliya vazirligi
+
+Bosh prokuror Adliya vazirligiga boʻysunadi va uning boshligʻi hisoblanadi. Bosh prokuror Adliya vazirligining tarkibiy qismi boʻlib, uning faoliyatini boshqaradi.
+
+Senatning Sud-huquq qoʻmitasi, Davlat boji va Hakam advokati generalning korpusi Bosh prokuraturaga boʻysunmaydi.",
+"Taʼmirlash ishlari uchun ikki haftalik yopilishdan soʻng supermarket endigina qayta ochilgan edi. Qayta ochilish ertalab bir ayol savdo qilayotganida, u to'satdan yiqilib, oyog'i singan. Shundan soʻng ayol shaxsiy jarohatlar uchun supermarketga suiqasd qilgan. Ayol oʻz kostyumida yoʻllardan birida yotgan boʻyoq sopol idish ustidan uchib oʻtganini iddao qilgan. Sudda ayol boshqa xaridorga qoʻngʻiroq qilib, savdo qilayotganda thud eshitib, orqaga burilib, ayolning polga yiqilganini koʻrganiga guvohlik berdi. Shuningdek, u ayolning oyogʻidan bir necha metr narida yotgan boʻsh boʻyoq sopol idishini koʻrganiga guvohlik berdi. O'zaro tekshiruvdan o'tishda xaridor supermarketning advokati bilan bahsli almashinuvga kirishdi. Ayolning qulashiga nima sabab boʻlgani haqidagi fikrini soʻrashganida, xaridor guvohlik berdi: «U sopol idishga uchib ketgani uchun yiqilib tushdi ». Biroq u o'zaro tekshiruvda aslida ayolning sopol idishda sayohatini ko'rmaganini tan oldi. Shundan so'ng supermarketning advokati xaridorga quyidagi savolni berdi: ""Agar siz ayolning sopol idishda sayohatini ko'rmagan bo'lsangiz, u tufayli yiqilib tushganini qayerdan bilasiz?"" Xaridor shunday javob berdi: ""Chunki men bilan savdo qilayotgan qiz do'stim keyinchalik ayolning chelak ustidan sayohat qilganini ko'rganini aytdi "". Supermarketning advokati xaridorning soʻnggi javobini urishga harakat qiladi. Agar sud hakami ayblanuvchining arizasini bekor qilib, xaridorning javobini turishga ruxsat bersa, ehtimol buning sababi bo'ladi
+A.mijozning javobini supermarketning advokati savoli taklif qildi.
+B.mijozning javobi o'z ko'zi bilan bilimga asoslangan edi.
+C.mijozning javobi so'nggi idrokning bayonoti edi.
+D.mijozning javobi hozirgi tuyg'u taassuroti edi.",A,"Javob: C. mijozning javobi so'nggi idrokning bayonoti edi.
+
+Asoslanish:
+Matnda aytilishicha, xaridor dastlab ayolning sopol idishga uchib ketgani uchun yiqilganini aytgan. Lekin keyinchalik o'zaro tekshiruvda u aslida ayolning sopol idishda sayohatini ko'rmaganini tan olgan. So'ngra xaridor qiz do'stining ayolning chelak ustidan sayohat qilganini ko'rganini aytgan. Bu xaridorning so'nggi idrokning bayonoti edi, ya'ni boshqa shaxsning guvohligiga asoslangan edi.",
+"Quyidagilardan qaysi biri yopiq kirish imkoniyatiga ega bo'lgan shaxsiy hujjat hisoblanadi?
+A.davlat 'oq qog'ozi'
+B.maxfiy tibbiy yozuvlar
+C.uy xo'jaligi hisob kitobi
+D.aktsiyalar ro'yxati biznes",C,"Javob: B. maxfiy tibbiy yozuvlar
+
+Maxfiy tibbiy yozuvlar yopiq kirish imkoniyatiga ega bo'lgan shaxsiy hujjat hisoblanadi. Bu hujjatlar faqat tegishli shaxslar tomonidan ko'rishga ruxsat berilgan bo'ladi.
+
+Boshqa javoblar esa yopiq kirish imkoniyatiga ega bo'lmagan hujjatlardir:
+A. davlat 'oq qog'ozi' - ochiq hujjat
+C. uy xo'jaligi hisob kitobi - shaxsiy hujjat, lekin yopiq emas
+D. aktsiyalar ro'yxati biznes - ochiq hujjat",
+"Quyidagilardan qaysi biri sobiq terapiya mijozlari bilan jinsiy yaqinlikka oid axloqiy ko'rsatmalarni eng yaxshi tasvirlaydi?
+A.Psixologlarga har qanday vaziyatda sobiq terapiya mijozlari bilan jinsiy yaqinlik qilish taqiqlanadi.
+B.Psixologlarga terapiya toʻxtatilganidan soʻng kamida bir yil davomida sobiq terapiya mijozlari bilan jinsiy yaqinlik qilish taqiqlanadi.
+C.Psixologlarga muayyan hollarda (masalan, ekspluatatsiya xavfi mavjud bo'lganda) sobiq terapiya mijozlari bilan jinsiy yaqinlik qilish taqiqlanadi.
+D.Psixologlarga sobiq terapiya mijozlari bilan jinsiy yaqinlik qilish taqiqlanmaydi.",C,"Javob: B. Psixologlarga terapiya toʻxtatilganidan soʻng kamida bir yil davomida sobiq terapiya mijozlari bilan jinsiy yaqinlik qilish taqiqlanadi.
+
+Psixologlar va terapevtlar uchun sobiq terapiya mijozlari bilan jinsiy yaqinlik qilish odatda taqiqlanadi. Bu aloqalar ekspluatatsiya xavfi mavjud bo'lishi va terapevtik ishonchni buzishi mumkin. Ko'pgina etik kodekslar psixologlar uchun terapiya tugagandan keyin kamida bir yil davomida sobiq mijozlar bilan jinsiy aloqalarni taqiqlaydi.",
+"Quyidagi nazariyalardan qaysi biri jamiyatning tartib va barqarorlikni saqlash uchun zarur bo'lgan faoliyatni qanday amalga oshirishiga qaratilgan?
+A.Funktsionalizm
+B.O'zaro ta'sir
+C.Ratsional-tanlash teoremasi
+D.Konflikt teoriyasy",A,"Javob: A. Funktsionalizm
+
+Funktsionalizm nazariyasi jamiyatning tartib va barqarorlikni saqlash uchun zarur bo'lgan faoliyatni qanday amalga oshirishiga qaratilgan. Bu nazariya jamiyatni bir butun tizim sifatida ko'rib, uning turli qismlarining o'zaro bog'liqligini va ularning jamiyatning barqarorligi va integratsiyasini ta'minlashga xizmat qilishini ta'kidlaydi. Funktsionalistlar jamiyatdagi turli institutlar va tuzilmalarning o'zaro muvozanatli va barqaror faoliyatini ta'minlash uchun zarur bo'lgan rollarini o'rganishga e'tibor qaratadi.",
+"Ikkinchi tilni egallash bo'yicha olib borilgan tadqiqotlar shuni ko'rsatdiki, ikkinchi tilni olgan bolalar haqida quyidagilardan qaysi biri
+A.Ularning kognitiv rivojlanishi kechiktiriladi
+B.Ular ikki tilli bo'lmagan bolalardan ko'ra yaxshiroq artikulyatsiyaga ega
+C.Ularning ona tili bilishi ikkinchi tilni egallash ko'rsatkichlariga hech qanday ta'sir ko'rsatmaydi
+D.Ular kognitiv moslashuvchanlikni oshirdi",D,"Javob: D. Ular kognitiv moslashuvchanlikni oshirdi
+
+Ikkinchi tilni egallash bo'yicha olib borilgan tadqiqotlar shuni ko'rsatadiki, ikkinchi tilni olgan bolalar kognitiv moslashuvchanlikni oshiradi. Ular ikki tilli bo'lmagan bolalardan ko'ra kognitiv jihatdan moslashuvchanroq bo'ladilar. Shuningdek, ularning ona tili bilishi ikkinchi tilni egallash ko'rsatkichlariga ijobiy ta'sir ko'rsatadi. Biroq, ularning artikulyatsiyasi ikki tilli bo'lmagan bolalardan farq qilmaydi.",
 "Zamonaviy kompyuter mikrochiplari asosan qaysi elementdan tarkib topgan?
 A.Natriy
 B.Silikon
 C.Alyuminiy
-D.Kumush",b,b,true
+D.Kumush",B,"Zamonaviy kompyuter mikrochiplari asosan silikon (Si) elementidan tarkib topgan.
+
+Silikon - bu kristall tuzilishga ega bo'lgan, metallga o'xshash, ammo metall emas, yarim o'tkazgich xossalariga ega bo'lgan kimyoviy element. Silikon mikroelektronikada keng qo'llaniladi, chunki u yarim o'tkazgich xossalariga ega bo'lib, kompyuter mikrochiplarini ishlab chiqarishda asosiy xom ashyo hisoblanadi.
+
+Shuning uchun to'g'ri javob B. Silikon.",
+"Shizofreniya etiologiyasi boʻyicha oʻtkazilgan tadqiqotlar bu holatga genetik moyillikni koʻrsatdi, ammo boshqa omillar ham ishtirok etadi. Mavzu bo'yicha olgan bilimingizdan kelib chiqib quyidagi gaplarning qaysi biri noto'g'ri ekanligini aniqlang.
+A.Dopaminga ortiqcha dopamin yoki sezgirlik hissa qo'shishi mumkin.
+B.Oq bemorlar ko'proq simptomatik.
+C.Uchinchi dunyoda bu holatdan remissiya 65%.
+D.Afrika amerikaliklari orasida aniqlangan Shizofreniyaning past koʻrsatkichlari.",D,"Quyidagi gaplardan noto'g'ri bo'lgani:
+
+C. Uchinchi dunyoda bu holatdan remissiya 65%.
+
+Shizofreniya bilan kasallangan odamlar orasida remissiya darajasi 65% emas, balki taxminan 20-30% atrofida bo'ladi. Uchinchi dunyo mamlakatlarida shizofreniya bilan kasallangan odamlar orasida remissiya darajasi rivojlangan mamlakatlarga qaraganda ancha past.
+
+Qolgan gaplar to'g'ri:
+
+A. Dopaminga ortiqcha dopamin yoki sezgirlik hissa qo'shishi mumkin.
+B. Oq bemorlar ko'proq simptomatik.
+D. Afrika amerikaliklari orasida aniqlangan Shizofreniyaning past ko'rsatkichlari.",
+"Herpes viruslari qanday kasallikka olib kelmaydi?
+A.Infantil falaj
+B.Ensefalit
+C.Jinsiy yo'l bilan yuqadigan kasallik
+D.Saraton kasalligi",A,"To'g'ri javob: C. Jinsiy yo'l bilan yuqadigan kasallik
+
+Herpes viruslari asosan jinsiy yo'l bilan yuqadigan kasalliklarga olib keladi. Ular jinsiy aloqa orqali yuqadi va qizil dog'lar, yaralar, shishlar kabi belgilarni keltirib chiqaradi.
+
+Herpes viruslari ensefalit (miyaning yallig'lanishi) va infantil falaj (bolalar falaji) kabi kasalliklarga emas, balki jinsiy yo'l bilan yuqadigan kasalliklarga sabab bo'ladi.
+
+Saraton kasalligi esa boshqa sabablarga ko'ra rivojlanadi va herpes viruslari bilan bevosita bog'liq emas.",
+"Jamoatchilik bilan aloqalarning qaysi sohasi ichida lobbizm bilan bogʻliq boʻlish ehtimoli bor?
+A.Korporativ
+B.Moliyaviy aloqalar
+C.Jamoat ishlari
+D.Biznesga biznes",C,"Jamoatchilik bilan aloqalarning ichida lobbizm bilan bogʻliq boʻlish ehtimoli eng koʻp C. Jamoat ishlari sohasida boʻladi.
+
+Lobbizm - bu qonunchilik va siyosiy qarorlar qabul qilish jarayoniga taʼsir oʻtkazish maqsadida manfaatdor tomonlarning harakatlarini anglatadi. Jamoat ishlari sohasida lobbistlar turli manfaatdor guruhlar, siyosiy partiyalar, notijorat tashkilotlar va boshqalar bilan ishlashadi. Ular qonunchilik va siyosiy qarorlar qabul qilish jarayoniga taʼsir oʻtkazishga harakat qilishadi.
+
+Boshqa javob variantlari - A. Korporativ, B. Moliyaviy aloqalar, D. Biznesga biznes - lobbizm bilan bogʻliq boʻlish ehtimoli kamroq.",
+"Quyidagilardan qaysi biri evrotsentrizmni eng yaxshi tasvirlaydi?
+A.Yevrosentrizm - bu tahlil uslubi bo'lib, unda Evropa jamiyatlari har birining nisbiy foydasini tengsiz taqqoslashni ishlab chiqarish uchun Yevropa bo'lmagan jamiyatlar bilan solishtiriladi.
+B.Yevrosentrizm - evropalik bo'lmagan jamiyatlarni baholash va baholash evropaliklarning madaniy tasavvurlari va tarafkashliklari bo'yicha ko'tariladigan fikrlash uslubi.
+C.Yevrosentrizm faqat Evropa siyosiy yoki iqtisodiy tizimlarini nazarda tutadigan tadqiqotlar yoki ilmiy ishlarni tasvirlaydi.
+D.Bu variantlarning barchasi.",B,"Javob: B. Yevrosentrizm - evropalik bo'lmagan jamiyatlarni baholash va baholash evropaliklarning madaniy tasavvurlari va tarafkashliklari bo'yicha ko'tariladigan fikrlash uslubi.
+
+Yevrosentrizm - bu Evropa madaniyati va tamaddunini markaziy o'ringa qo'yish va boshqa madaniyatlarni unga nisbatan baholash yoki taqqoslash uslubi. Bu Evropa-markazli yondashuv bo'lib, boshqa madaniyatlarni Evropa madaniyati nuqtai nazaridan baholaydi.
+
+A va C variantlari yevrosentrizm to'liq qamrab olmaydi. D variantida esa barcha variantlar to'g'ri deyilgan, lekin B varianti yevrosentrizm mohiyatini eng to'liq ifodalaydi.",
+"Quyidagilardan qaysi biri inelastik talabga ega bo'lgan mahsulotga narx ko'tarilgandan keyingi holatni eng yaxshi tasvirlaydi?
+A.Talab qilingan miqdor o'zgarmaydi.
+B.Talab qilingan miqdor ko'payadi.
+C.Umumiy daromad kamayadi.
+D.Umumiy daromad o'zgarmaydi.",A,"Inelastik talabga ega bo'lgan mahsulotga narx ko'tarilgandan keyingi holatni eng yaxshi tasvirlagan javob A. ""Talab qilingan miqdor o'zgarmaydi"" hisoblanadi.
+
+Inelastik talabda, mahsulot narxi o'zgarganda ham talab qilingan miqdor deyarli o'zgarmaydi. Bu degani, iste'molchilar narx o'zgarishiga juda sezgir emas, ya'ni narx ko'tarilsa ham ular deyarli o'zgarmagan miqdorda mahsulot sotib olishadi.
+
+Shuning uchun, inelastik talabga ega bo'lgan mahsulotga narx ko'tarilganda, umumiy daromad ko'payadi (C. javob) yoki o'zgarmaydi (D. javob) degan javoblar to'g'ri emas. Talab qilingan miqdor o'zgarmaydi (A. javob) degan javob to'g'ri.",
+" Communidades de Base quyidagilardan qaysi biri bilan bog'liq?
+A.Eʼtiqodchi Oskar Romero
+B.Qarshilik va yangilanish
+C.Barcha insonlarning qadr-qimmati
+D.Yuqorida aytilganlarning barchasi",D,"To'g'ri javob: D. Yuqorida aytilganlarning barchasi
+
+Communidades de Base (Asosiy jamoalar) harakati Lotin Amerikasida 1960-yillardan boshlab rivojlangan bo'lib, u quyidagi asosiy tamoyillarga asoslangan:
+
+A. Eʼtiqodchi Oskar Romero - Salbiy ijtimoiy-iqtisodiy sharoitlarga qarshi kurashgan va ularni o'zgartirish uchun kurashgan katolik ruhoniysi.
+
+B. Qarshilik va yangilanish - Jamoalar o'z huquqlari va qadr-qimmatlarini himoya qilish uchun kurashgan.
+
+C. Barcha insonlarning qadr-qimmati - Harakatning asosiy maqsadi barcha insonlarning qadr-qimmatini tan olish va himoya qilish bo'lgan.
+
+D. Yuqorida aytilganlarning barchasi - Communidades de Base harakati yuqorida sanab o'tilgan barcha tamoyillarga asoslangan.",
+"Ixtiyoriy ko'taruvchi tel shakli haqidagi magnit maydon chiziqlari
+A.doiralar
+B.radial chiziqlar
+C.eddy oqimlari
+D.energiya to'siqlari",A,"Javob: B. radial chiziqlar
+
+Ixtiyoriy ko'taruvchi tel shakli haqidagi magnit maydon chiziqlari radial chiziqlar ko'rinishida bo'ladi.
+
+Magnit maydon chiziqlari quyidagi xususiyatlarga ega:
+
+A. Doiralar - bu magnit maydon chiziqlari emas, balki magnit induksiya vektorining yo'nalishi.
+
+C. Eddy oqimlari - bu magnit maydon ta'sirida paydo bo'ladigan elektr oqimlari bo'lib, ular magnit maydon chiziqlari bilan bog'liq emas.
+
+D. Energiya to'siqlari - bu magnit maydon chiziqlari bilan bog'liq emas, balki magnit maydon ta'sirida paydo bo'ladigan energiya yo'qotishlari bilan bog'liq.
+
+Shuning uchun to'g'ri javob B. radial chiziqlar.",
+"Ikki shaharni birlashtirish taklifi ovozga qoʻyilishidan oldin davlat bosh prokurori bu oʻlchov, uning fikriga koʻra, hech qanday qonuniy yoki konstitutsiyaviy tamoyillarga zid emasligi toʻgʻrisida maslahat xulosasini eʼlon qildi. Shundan soʻng bu taklif saylovga qoʻyildi va har ikki shahardagi saylovchilar tomonidan haddan tashqari koʻp qabul qilindi. Saylovdan soʻng, ammo birlashtirish rasman amalga oshirilishidan oldin shaharlardan biridan ikki soliq toʻlovchi birlashtirishni buyurib, taklifning konstitutsiyaviyligiga hujum qilish uchun daʼvo boshladi. Daʼvo davlat oliy mahkamasiga etib bordi va ham davlat, ham federal qonun boʻyicha konstitutsiyaviy deb topildi. Endi daʼvogarlar bukazani Oʻzbekiston Respublikasi Oliy sudi tomonidan koʻrib chiqmoqchi boʻlgan ariza bilan murojaat qiladilar. Sud mumkin
+A.ishni eshitmaslik, chunki u mustaqil davlat asoslari bo'yicha hal qilingan.
+B.ishni eshitmaydi, ammo uni federal viloyat sudiga olib qo'ygan bo'lishi mumkin.
+C.bu bilan bog'liq federal masalalarni eshiting, ammo shtat masalasida qaror chiqarishdan bosh torting.
+D.davlat bosh prokurori tomonidan berilgan maslahat fikriga tayanadi va ishni o'z foydasiga eshitmaydi.",A,"Ushbu vaziyatda to'g'ri javob D varianti bo'ladi.
+
+Asoslar:
+1. Davlat bosh prokurori bu o'lchov, uning fikriga ko'ra, hech qanday qonuniy yoki konstitutsiyaviy tamoyillarga zid emasligi to'g'risida maslahat xulosasini e'lon qildi.
+2. Shu asosda bu taklif saylovga qo'yildi va har ikki shahardagi saylovchilar tomonidan haddan tashqari ko'p qabul qilindi.
+3. Keyinchalik, birlashtirish rasman amalga oshirilishidan oldin, shaharlardan biridan ikki soliq to'lovchi birlashtirishni buyurib, taklifning konstitutsiyaviyligiga hujum qilish uchun da'vo boshladi.
+4. Bu da'vo davlat oliy mahkamasiga etib bordi va ham davlat, ham federal qonun bo'yicha konstitutsiyaviy deb topildi.
+
+Shu asosda, Oliy sud davlat bosh prokurori tomonidan berilgan maslahat fikriga tayanib, ishni o'z foydasiga eshitmaydi, deb xulosa qilish mumkin.",
+"Ikki ko'r yoki ikki niqobli tadqiqotning maqsadi:
+A.Muomalada bo'lgan va muomalaga qo'yilmagan sub'ektlarning taqqoslashiga erishish
+B.Namunali variatsiya ta'sirini kamaytirish
+C.Kuzatuvchi va mavzudagi tarafkashlikdan saqlaning
+D.Kuzatuvchilarning tarafkashligi va namunaviy variantlardan qoching",B,"Javob: C. Kuzatuvchi va mavzudagi tarafkashlikdan saqlaning
+
+Ikki ko'r yoki ikki niqobli tadqiqotning asosiy maqsadi kuzatuvchilar va mavzularning tarafkashligini kamaytirish yoki bartaraf etishdir. Bu usul kuzatuvchilar va tadqiqot mavzularining oldindan bilish va kutish kabi omillarning ta'sirini kamaytiradi. Shuning uchun, kuzatuvchilar va mavzularning tarafkashligidan saqlash ikki ko'r yoki ikki niqobli tadqiqotning asosiy maqsadlaridan biridir.",
+"Yirik ishlab chiqarish firmasining xodimi ishni zerikarli deb topadi va ishni faqat pul evaziga izlaydi. Xodim minimal darajada bajaradi va motivatsiyaga ega emas, shuning uchun eng yuqori miqdor yoki sifatli mahsulot ishlab chiqaradi. F.Xerzbergning ikki faktorli ta'limotiga ko'ra, bu ishchining o'z-o'zini motivatsiyasini oshirishning eng yaxshi 10 yo'li bo'ladi
+A.ko'proq ishlab chiqarish uchun ko'paytirish va rag'batlantiruvchi haq taklif qilish
+B.mashg'ulot va yutuq hissini ta'minlash uchun ishni qayta ishlab
+C.ma'lumotli ijtimoiy o'zaro ta'sir qilish imkoniyatlarini oshirish
+D.xodimga yanada ko'proq obro'-e'tibor ko'targan ish to'lqini bilan ta'minlash",B,"F.Xerzbergning ikki faktorli ta'limotiga ko'ra, ushbu xodimning o'z-o'zini motivatsiyasini oshirishning eng yaxshi yo'li B. mashg'ulot va yutuq hissini ta'minlash uchun ishni qayta ishlab.
+
+Xerzbergning ta'limotiga ko'ra, motivatsiya omillari (yoki ichki omillar) - bu ishning o'zi, yutuq, tan olish, mas'uliyat va o'sish kabi omillardir. Ular xodimlarni ichki jihatdan motivatsiyalaydi va ularning qanoatlanishini ta'minlaydi.
+
+Ushbu xodimning holati ko'rsatadiki, u ishni zerikarli deb topadi va faqat pul evaziga izlaydi. Shuning uchun, ishni qayta ishlab, unga yanada qiziqarli va maqsadli tus berish, uning mashg'ulot va yutuq hissini oshirish eng yaxshi yechim bo'ladi. Bu uning ichki motivatsiyasini oshiradi va sifatli mahsulot ishlab chiqarishga undaydi.",
+"Politsiya ishonchli informatordan bir kishi uyidan kokain bilan shugʻullanayotgani haqida maʼlumot oldi. Shundan soʻng ofitserlar magistrga qidiruv buyrugʻini rasmiylashtirishning ehtimoliy sababini koʻrsatuvchi holatlarni koʻrsatuvchi farmonni taqdim etishdi. Magistr u kishining manzilida narkotrafik boʻyicha qidiruv buyrugʻini chiqardi. Politsiya xodimlari erkakning uyiga borib, eshik zangini chalishdi. Hech kim javob bermaganda, politsiya ichkariga kirib, yashash joylariga kirdi. Ular birinchi qavatdagi xonalarni qidirib, hech qanday aybli dalil topa olmadilar, soʻng tashqariga chiqib, yashash joyining ikkinchi qavatigacha boʻlgan alohida eshikni koʻrib qolishdi. Zinapoyadan koʻtarilib, yuqori qavatdagi yotoqxonaga kirishdi. Xona ichkarisida ofitserlar kiyim kiyib yotgan kokain saqlanayotganini koʻrishdi. Nazoratchilar yotoqxonani qidirishni davom ettirayotganda ayblanuvchi xonaga kirdi. Politsiya ayblanuvchidan u kishimi, deb soʻradi. Ayblanuvchi oʻzini tanishtirib, politsiyaga ularning yotoqxonasida ekanliklarini va u yashash joyining ikkinchi qavatini egallaganini aytgan. Ayblanuvchining tushuntirishicha, erkak birinchi qavatda yashagan va uning yashash joylari ayblanuvchidan alohida bo'lgan. Shunga qaramay, ayblanuvchi hibsga olingan va kokainga egalik qilishda ayblangan. Ayblanuvchi kokainni dalillarga qabul qilishdan chetlatish toʻgʻrisida ariza bilan murojaat qilgan. Ayblanuvchining murojaati bo'lishi kerak
+A.berilgan, chunki arizada ayblanuvchining ismi aytilmagan.
+B.berilgan, chunki arizada qidiriladigan hudud aniq ko'rsatilgan emas.
+C.rad etdi, chunki politsiya ayblanuvchining yashash joylariga kirganlarida erkakning yashash joyini qidirayotganiga oqilona ishongan.
+D.rad etildi, chunki ariza haqiqiy edi va ehtimoliy sabab bilan berilgan.",C,"Mening fikrimcha, to'g'ri javob C. Chunki:
+
+1. Politsiya magistrdan qidiruv buyrug'ini olgan va u buyruqda ayblanuvchining manzili ko'rsatilgan. Bu qidiruv buyrug'i qonuniy asosga ega.
+
+2. Politsiya ayblanuvchining yashash joyini qidirayotganiga oqilona ishongan, chunki ular birinchi qavatdagi xonalarni qidirib, hech qanday aybli dalil topa olmaganlar. Shundan so'ng ular ikkinchi qavatdagi alohida eshikni ko'rib qolishgan va u yerga kirishgan.
+
+3. Ayblanuvchi o'zini tanishtirib, politsiyaga ularning yotoqxonasida ekanliklarini va u yashash joyining ikkinchi qavatini egallaganini aytgan. Bu politsiyaning harakatlarini oqlaydi.
+
+Shuning uchun, ayblanuvchining kokainni dalillarga qabul qilishdan chetlatish to'g'risidagi arizi rad etilishi kerak, chunki politsiya qonuniy asosda ish yuritgan.",
+"Bir shaharda yangi qurilgan mehmonxonaning egasi bir kishi edi. 15 mart kuni erkakka mehmonxona jihozlari tarqatuvchisi boʻlgan sotuvchidan telefon orqali qoʻngʻiroq qilingan. Sotuvchi erkakka mehmonxonasi uchun 1000 ta yongʻin oʻchirish mashinasini sotishni taklif qildi. Sotuvchi erkakka yongʻin oʻchirgichlarning narxi 35 ming dollar (yoki har biriga 35 dollar), etkazib berishdan 90 kun oʻtib toʻlanishini aytgan. Sotuvchi yong'in o'chirgichlarni 15 apreldan kechiktirmay o'rnatishga va'da bergan. 16 mart kuni erkak sotuvchiga telefon qilib, taklifni qabul qilgan. Ertasi kuni erkak sotuvchiga quyidagi xotirani pochta orqali joʻnatdi: ""Iltimos, oʻrnatilganidan 7 kun oʻtib naqd pul toʻlovi uchun 15 foiz chegirma olishimni maslahat bering "". Sotuvchi erkakning yozishmalarini 20 mart kuni olgan. 1 aprel kuni sotuvchi u kishiga telegramma jo'natib, ""Bizda majburiy shartnoma amalda emasligi aniq. Yongʻin oʻchirishlarni 15 aprel yoki boshqa vaqtlarda etkazib bermayman. ""Erkak sotuvchiga shartnomani buzganlik uchun da'vo olib keladi. Sotuvchi UCC bo'yicha firibgarlik to'g'risidagi qonunni himoya qilishini ta'kidlaydi. Sotuvchining himoyasi toʻgʻrisidagi eng toʻgʻri bayonot quyidagilardan qaysi biri?
+A.Sotuvchining himoyasi haqiqiy, chunki u kishining xotirasi shartnoma tuzilganligini ko'rsatish uchun etarli emas edi.
+B.Sotuvchining himoyasi haqiqiydir, chunki u kishining xotirasi sotuvchining og'zaki taklifi shartlariga zid edi.
+C.Sotuvchining himoyasi haqiqiy emas, chunki sotuvchi erkakning xotirasiga oqilona muddat ichida javob bera olmadi.
+D.Sotuvchining himoyasi haqiqiy emas, chunki UCC bo'yicha firibgarlik to'g'risidagi qonun savdogarlar o'rtasidagi shartnomalarda qo'llanilmaydi.",A,"Savol yechimini topish uchun quyidagi holatlarni e'tiborga olish kerak:
+
+1. Sotuvchi va xaridor o'rtasida og'zaki shartnoma tuzilgan.
+2. Xaridor sotuvchining taklifini yozma ravishda qabul qilgan.
+3. Xaridor sotuvchidan 15 foiz chegirma so'ragan.
+4. Sotuvchi shartnomani buzgan va yong'in o'chirgichlarni etkazib bermaslikni ma'lum qilgan.
+
+Eng to'g'ri javob:
+B. Sotuvchining himoyasi haqiqiydir, chunki u kishining xotirasi sotuvchining og'zaki taklifi shartlariga zid edi.
+
+Asoslash:
+Sotuvchining og'zaki taklifida 90 kun muddatda to'lash shartlari ko'rsatilgan, lekin xaridor 7 kun o'tib 15 foiz chegirma so'ragan. Bu sotuvchining og'zaki taklifiga zid edi. Shuning uchun sotuvchining himoyasi haqiqiy hisoblanadi.",
+"Quyidagi nuqtalardan qaysi biri Amerika bir tomonlamaligi haqidagi da'voni qo'llab-quvvatlaydi?
+A.Xayrixoh hegemoniya
+B.Koʻp tomonlamalikning samarasizligi
+C.Amerika fuqarosi
+D.Yuqorida aytilganlarning barchasi",D,"Javob: D. Yuqorida aytilganlarning barchasi
+
+Ushbu savolda berilgan barcha nuqtalar (A, B, C) Amerika bir tomonlamaligi haqidagi da'voni qo'llab-quvvatlaydi.
+
+A. ""Xayrixoh hegemoniya"" - Amerika tomonidan boshqa davlatlarning manfaatlarini hisobga olmasdan o'z manfaatlarini ustun qo'yishi.
+
+B. ""Ko'p tomonlamalikning samarasizligi"" - Amerika tomonidan ko'p tomonlama tashkilotlar va kelishuvlarni e'tiborga olmasdan o'z yo'lini tutishi.
+
+C. ""Amerika fuqarosi"" - Amerika fuqarolarining manfaatlarini boshqa davlatlarning manfaatlaridan ustun qo'yishi.
+
+Shuning uchun, yuqorida aytilganlarning barchasi Amerika bir tomonlamaligi haqidagi da'voni qo'llab-quvvatlaydi.",
+"Hozirda fermer xoʻjaligi ""A . "" deb belgilangan er parchasining rekord egasi boʻlib, togʻdagi ikki qoʻshni mulkning yuqoriligidir. Dehqon — togʻ yon bagʻridagi ""A""dan pastroqda joylashgan ""B"" parchasining egasi. 2000 yilda har ikkala er uchastkasiga egalik qilgan fermer xo'jaligi xususiy drenaj tizimini qurdi. Ushbu tizim ikkala er uchastkasi boʻylab choʻzilgan er osti quvuridan iborat edi. ""A"" parchasidan kanalizatsiya tizim orqali tuman kanalizatsiyasiga qadar sugʻorilib, u togʻ tubida joylashgan edi. 2005 yilda fermer fermerga ""B"" posilkasini sotgan. Fermerga qilingan ishda fermerning drenaj tizimi haqida hech qanday eslatma yo'q edi. Parxezlarning har birida tegishli egalari egallagan fermer xo'jaligi uslubidagi uylar joylashgan. So'nggi paytlarda kanalizatsiya drenajlari ""B. "" parchasi bo'ylab yoqimsiz hid chiqara boshladi. Natijada fermer fermerni drenaj tizimi tomonidan yetkazilgan zarar uchun duo qilib, xo'jalikni sudga berdi. Hukm uchun bo'lishi kerak
+A.fermer, chunki dehqonga qilingan ishda fermerning erdan foydalanishini cheklovchi hech qanday ahd bo'lmagan.
+B.fermer, chunki dehqonning to'g'ri harakat sababi tajovuz emas, balki noqulaylik uchun bo'ladi.
+C.fermer, chunki drenaj tizimi qonun masalasida da'vogarning zararining yaqin sababi edi.
+D.dehqon, dehqon o'z yerlarini boshqasiga zarar yetkazadigan tarzda yaxshilash huquqiga ega bo'lmaganligi sababli.",B,"Ushbu vaziyatda to'g'ri javob C. fermer, chunki drenaj tizimi qonun masalasida da'vogarning zararining yaqin sababi edi.
+
+Asoslar:
+1. Fermer xo'jaligi ""A"" er parchasining rekord egasi bo'lib, ""B"" parchasining egasi dehqon edi. 
+2. 2000 yilda fermer xo'jaligi ikkala er uchastkasi bo'ylab choʻzilgan er osti quvuridan iborat bo'lgan xususiy drenaj tizimini qurgan.
+3. 2005 yilda fermer ""B"" parchasini dehqonga sotgan, lekin drenaj tizimi haqida hech qanday eslatma yo'q edi.
+4. So'nggi paytlarda kanalizatsiya drenajlari ""B"" parchasi bo'ylab yoqimsiz hid chiqara boshladi.
+5. Natijada fermer fermerni drenaj tizimi tomonidan yetkazilgan zarar uchun sudga berdi.
+
+Ushbu holatda fermer xo'jaligi tomonidan o'rnatilgan drenaj tizimi ""B"" parchasida yoqimsiz hid chiqarishiga sabab bo'lgan, shuning uchun fermer xo'jaligi drenaj tizimi orqali yetkazilgan zarardan javobgar bo'ladi. Dehqon o'z yerlarini boshqasiga zarar yetkazadigan tarzda yaxshilash huquqiga ega emas.",
+"Globallashuv sharoitida qanday qilib biz ""rivojlanish"" atamasini eng yaxshi aniqlashimiz mumkin?
+A.Rivojlanish atamasi qo'rquv va istamadan ozod bo'lgan inson holatini anglatadi; hayotni davom ettirish uchun etarli mablag'lar mavjud va bu hayot to'satdan to'xtalish tahdididan, ya'ni sezilgan tahdiddan ozod bo'lgan holatda mavjud bo'lishi mumkin.
+B.Rivojlangan deb hisoblanishi uchun millat global davlat tizimi doirasida ma'lum iqtisodiy va siyosiy maqomga erishgan bo'lishi kerak; ""rivojlangan"" davlatni tashkil etuvchi mezon shu tariqa ushbu tizimda o'zaro ta'sirning o'sha talablari bilan aniqlanadi.
+C.Rivojlanish neoliberal globallashuv bilan birga bo'lgan tengsizliklarni bartaraf etish vositasidir. Bu o'rinda rivojlanish aholi yoki jamoaning resurslardan samarali foydalanish va ishlab chiqarish va taqsimlashda samaradorlikni oshirish qobiliyatini anglatadi, bu esa daromadning jamiyat ichida yanada adolatli taqsimlanishini rag'batlantirmoqda.
+D.Jamiyatning rivojlanishi uning aholisi obuna bo'lgan ideologik va axloqiy qadriyatlar tizimlarini anglatadi. Globallashgan xalqaro tizimda bu gʻarb liberal demokratik ideologiyasi va erkin bozor iqtisodiyotining qabul qilinishini anglatadi.",C,"Mening fikrimcha, ""rivojlanish"" atamasini eng yaxshi aniqlash uchun C varianti eng maqbul. Chunki:
+
+1. Rivojlanish neoliberal globallashuv bilan birga bo'lgan tengsizliklarni bartaraf etish vositasi bo'lishi kerak. Yani, rivojlanish faqat iqtisodiy o'sish emas, balki jamiyatdagi tengsizliklarni kamaytirish, aholi farovonligini oshirish, resurslardan samarali foydalanish kabi keng qamrovli jarayonlarni o'z ichiga olishi lozim.
+
+2. Rivojlanish aholi yoki jamoaning resurslardan samarali foydalanish va ishlab chiqarish hamda taqsimlashda samaradorlikni oshirish qobiliyatini anglatadi. Bu esa daromadning jamiyat ichida yanada adolatli taqsimlanishini rag'batlantiradi.
+
+3. Boshqa variantlar rivojlanishni faqat iqtisodiy yoki siyosiy jihatdan yoki g'arbiy liberalizm doirasida qaraydi. Lekin rivojlanish ko'p qirrali jarayon bo'lib, iqtisodiy, ijtimoiy, siyosiy va madaniy jihatlarni o'z ichiga olishi kerak.
+
+Shuning uchun C varianti ""rivojlanish"" atamasini eng yaxshi aks ettiradi, deb hisoblayman.",
+"54 yoshli ayol soʻnggi 3 hafta davomida oʻng yuzi va jagʻi ustidan vaqti-vaqti bilan oʻq otish ogʻrigʻiga chalingani uchun ofisga keladi. Og'riqning har bir epizodi 1 soniya yoki undan kamroq davom etadi. Og'riq ko'pincha sovuq havo, chaynash, taktik qo'zg'alish, tishlarini chayish bilan qo'zg'atiladi. Uning yuziga ham, boshiga ham hech qanday iztirobi boʻlmagan. Tibbiy tarix tanglik bosh og'rig'i, semizlik va gastrik bypass operatsiyasi uchun ajoyibdir. Uning bo'yi 165 sm (5 ft 5 in) va vazni 62 kg (137 lb); BMI 23 kg/m2 . Hayotiy belgilar normaldir. Bemor yuzning o'ng tomoniga tegib toqat qila olmaydi. Yuz zaifligi va hissiyotni yo'qotish yo'q. Jismoniy tekshiruvning qolgan qismi anormalliklarni ko'rsatmaydi. Qarama-qarshilik bilan va qarama-qarshiliksiz boshning CT skaneri hech qanday anormallik ko'rsatmaydi. Quyida keltirilganlardan qaysi biri bu vaqtda eng mos farmakoterapiya hisoblanadi?
+A.Karbamazepin
+B.Lamotrigine
+C.Levetiracetam
+D.Topiramat",A,"Ushbu klinik holat eng ko'p mos keluvchi farmakoterapiya variantini tanlash uchun quyidagi yondashuvni taklif qilaman:
+
+Bemorning tavsifi va klinik belgilari, shuningdek, tibbiy tarixidagi ma'lumotlar, uning yoshi, jinsiy tarkibi va boshqa xususiyatlari asosida, bu holat eng ko'p mos keluvchi dori vositasi A. Karbamazepin deb hisoblayman.
+
+Karbamazepin - trigeminal nevralgia davolashda asosiy dori vositalaridan biri hisoblanadi. Bemorning tavsifi, og'riq xarakteristikasi (qisqa davom etuvchi, sovuq havo, chaynash, taktik qo'zg'alish bilan qo'zg'aluvchi) va yuzning faqat bir tomonida joylashishi, tibbiy tarixidagi ma'lumotlar, karbamazepinning samaradorligi va xavfsizligi bilan mos keladi.
+
+Boshqa variantlar (lamotrigin, levetiracetam, topiramat) ham trigeminal nevralgia davolashda qo'llanilishi mumkin, lekin karbamazepin ushbu holat uchun eng maqbul deb hisoblanadi.",

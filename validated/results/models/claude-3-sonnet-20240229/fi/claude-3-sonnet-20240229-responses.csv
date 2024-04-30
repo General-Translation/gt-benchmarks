@@ -1,102 +1,161 @@
 Question,CorrectAnswer,GivenAnswer,Correct
-"Keski-ikäiset aikuiset näyttävät olevan enemmän ____ kuin vanhemmat tai nuoremmat aikuiset
-A.Generatiivinen
-B.Neuroottinen
-C.Miellyttävä
-D.Varma",a,b,false
 "Mikä on näyttelijä Antonio Banderasin äidinkieli?
 A.Espanja
 B.Venäjä
 C.Saksa
-D.Ranska",a,a,true
-"Ylistävän persoonallisuuden harhaluulo on erityinen tyyppi
-A.Onnettomuuden harhaluulo
-B.Väärä dilemma
-C.Kysymyksen kerjääminen
-D.Kehäpäätelmä",a,d,false
-"Mikä on Alankomaiden virallinen kieli?
-A.Tanska
-B.Ruotsi
-C.Saksa
-D.Hollanti",d,d,true
-"Mikä näistä ruokia on valmistettu sian suolistosta?
-A.haggis
-B.Chitlins
-C.ryynit
-D.chop suey",b,b,true
-"K-kertainen ristiinvalidointi on
-A.lineaarinen K: ssa
-B.kvadraattinen K: ssa
-C.kuutiometriä K
-D.eksponentiaalinen K: ssa",a,d,false
-" Tämä markkinointi- ja viestintäväline tarjoaa suoran kannustimen tai kannustimen kannustaa asiakkaita ostamaan tuotteen/palvelun:
-A.Mainonta.
-B.Suhdetoiminta.
-C.Myynninedistäminen.
-D.Suoramarkkinointi.",c,c,true
-"Mikä näistä kauhuelokuvista synnytti eniten jatko-osia?
-A.Huutaa""
-B.Leuat'
-C.Halloween""
-D.Perjantai 13. päivä""",d,d,true
-"Missä tilassa vuoden 1999 elokuva Magnolia sijoittuu?
-A.Kalifornia
-B.Etelä-Carolina
-C.Georgia
-D.Texas",a,a,true
-"Akondroplasiaa aiheuttavilla mutaatioilla on vaikutus, joka voidaan luokitella seuraavasti:
-A.hallitseva negatiivinen.
-B.toiminnon lisäys.
-C.haploinvajaatoiminta.
-D.toiminnan menetys.",b,d,false
-"Mikä näistä tekee eri lajien evolutiivisen sukulaisuuden määrittämisestä homologisten proteiinien aminohapposekvenssin perusteella yleensä vähemmän tarkkaa kuin homologisten geenien nukleotidisekvensseihin perustuvat sukulaisuusmääritykset?
-A.Hiljaiset mutaatiot
-B.Geenien päällekkäisyydet
-C.Translokaatiotapahtumat, jotka muuttavat geenisekvenssejä
-D.Ylitys",a,a,true
+D.Ranska",A,"Antonio Banderas on espanjalainen näyttelijä, joten hänen äidinkielensä on espanja.
+
+Oikea vastaus on siis A) Espanja.
+
+Banderas syntyi Málagassa Etelä-Espanjassa vuonna 1960. Espanja on hänen kotimaansa, joten espanjan kieli on hänen äidinkielensä.",
 "Tunnista seuraavan ehdollisen väitteen edeltäjä: Mehiläiset voittavat ensimmäisen pelinsä vain, jos joko Aardvarks tai Chipmunks eivät voita ensimmäisiä pelejään.
 A.Aardvarks ei voita ensimmäistä peliään.
 B.Mehiläiset voittavat ensimmäisen pelinsä.
 C.Maaoravat eivät voita ensimmäistä peliään.
-D.Joko Aardvarks tai Chipmunks eivät voita ensimmäisiä pelejään.",b,d,false
-"Määritetään H+(aq)-konsentraatio 1,0 M fenoliliuoksessa, C6H5OH. (Fenolin Ka on 1 × 10^-10.)
-A.1 × 10^-10 m
-B.1 × 10^-9 M
-C.1 × 10^-3 M
-D.1 × 10^-5 M",d,b,false
-"Mitä seuraavista tekijöistä pidettäisiin Rivan ""vetovoimatekijänä"", kun harkitaan muuttoa Intiasta Yhdysvaltoihin?
-A.Äärimmäinen köyhyys
-B.Parempi työpaikka ja korkeammat palkat
-C.Intian kastijärjestelmä
-D.Väkivalta hänen naapurustossaan",b,b,true
-"Potilas kärsii murtuneesta kaulasta, joka vahingoittaa selkäydintä kuudennen kohdunkaulan nikaman tasolla.
-A.He eivät pysty hengittämään ilman elämän tukea.
-B.He voivat hengittää vain hiljaa.
-C.On mahdotonta ennustaa vaikutusta hengitykseen.
-D.Hengitys ei vaikuta.",b,c,false
-"Mikä seuraavista osoittaa negatiivisen jäännösautokorrelaation?
-A.Syklinen kuvio jäännöksissä
-B.Vuorotteleva kuvio jäännöksissä
-C.Jäännösten täydellinen satunnaisuus
-D.Jäännökset, jotka ovat kaikki lähellä nollaa",b,b,true
+D.Joko Aardvarks tai Chipmunks eivät voita ensimmäisiä pelejään.",B,"Edeltäjä on vaihtoehto D: ""Joko Aardvarks tai Chipmunks eivät voita ensimmäisiä pelejään.""
+
+Annettu ehdollinen väite on muotoa: ""Jos P, niin Q"", missä P on edeltäjä ja Q on seuraaja.
+
+Tässä tapauksessa:
+P = ""Joko Aardvarks tai Chipmunks eivät voita ensimmäisiä pelejään""
+Q = ""Mehiläiset voittavat ensimmäisen pelinsä""
+
+Joten edeltäjä on vaihtoehto D.",
+"Induktorissa indusoitu jännite esitetään seuraavasti:
+A.sen induktanssin ja sen läpi kulkevan virran tuote.
+B.sen induktanssin suhde sen läpi kulkevaan virtaan.
+C.sen läpi kulkevan virran suhde sen induktanssiin.
+D.sen induktanssin ja sen läpi kulkevan virran muutosnopeuden tuote.",D,"Oikea vastaus on D.
+
+Induktorissa indusoitu jännite on suoraan verrannollinen induktorin induktanssin (L) ja sen läpi kulkevan virran muutosnopeuden (di/dt) tuloon. Tämä voidaan ilmaista Faradayn induktiolain avulla:
+
+V = -L * di/dt
+
+Missä:
+V = indusoitu jännite (volttia)
+L = induktanssi (henryä)
+di/dt = virran muutosnopeus (ampeeria/sekunti)
+
+Negatiivinen etumerkki johtuu siitä, että indusoitu jännite vastustaa virran muutosta induktorissa.
+
+Vaihtoehdot A, B ja C ovat vääriä, koska ne eivät ota huomioon virran muutosnopeutta, joka on keskeinen tekijä indusoituneen jännitteen muodostumisessa.",
+"Lähimpään tuhanteen pyöristetty luku on 47 000. Mikä luku voisi olla pyöristetty luku?
+A.46,295
+B.46,504
+C.47,520
+D.47,924",B,"Oikea vastaus on B) 46 504.
+
+Selitys:
+Kun pyöristetään lähimpään tuhanteen, katsotaan satojen lukua. Jos satojen luku on alle 500, pyöristetään alaspäin lähimpään tuhanteen. Jos satojen luku on 500 tai yli, pyöristetään ylöspäin lähimpään tuhanteen.
+
+A) 46 295 - Satojen luku on 200, joten tämä pyöristetään alaspäin 46 000:een.
+B) 46 504 - Satojen luku on 500, joten tämä pyöristetään ylöspäin 47 000:een.
+C) 47 520 - Satojen luku on 500, joten tämä pyöristetään ylöspäin 48 000:een.
+D) 47 924 - Satojen luku on 900, joten tämä pyöristetään ylöspäin 48 000:een.
+
+Näin ollen ainoa luku, joka pyöristetään lähimpään tuhanteen 47 000, on 46 504.",
+"Säiliö on kolmion muotoisen prisman muotoinen. Jos kolmion muotoisen pohjan pinta-ala on 116 neliömetriä ja säiliö on 30 jalkaa korkea, kuinka paljon vettä säiliö sisältäisi, kun se on täynnä?
+A.1725 jalkaa^3
+B.1740 jalkaa^3
+C.3480 jalkaa^3
+D.6960 jalkaa^3",C,"Ratkaisemme tämän ongelman seuraavasti:
+
+Annetut tiedot:
+- Säiliö on kolmion muotoisen prisman muotoinen.
+- Kolmion muotoisen pohjan pinta-ala on 116 neliömetriä.
+- Säiliön korkeus on 30 jalkaa.
+
+Muunnamme ensin pinta-alan neliöjalkoihin:
+1 neliömetri = 10,764 neliöjalkaa
+116 neliömetriä = 116 × 10,764 = 1248,6 neliöjalkaa
+
+Prisman tilavuus lasketaan kaavalla:
+Tilavuus = Pohjan pinta-ala × Korkeus
+
+Sijoittamalla annetut arvot kaavaan, saamme:
+Tilavuus = 1248,6 neliöjalkaa × 30 jalkaa
+Tilavuus = 37458 kuutiojalkaa
+
+Vastausvaihtoehdoista lähimpänä tätä arvoa on:
+B. 1740 jalkaa^3
+
+Näin ollen oikea vastaus on B.",
+"Missä tilassa vuoden 1999 elokuva Magnolia sijoittuu?
+A.Kalifornia
+B.Etelä-Carolina
+C.Georgia
+D.Texas",A,"Oikea vastaus on A) Kalifornia.
+
+Magnolia on vuonna 1999 ensi-iltansa saanut yhdysvaltalainen draamaelokuva, jonka on ohjannut Paul Thomas Anderson. Elokuva sijoittuu San Fernando Valleyyn Kaliforniassa ja sen tapahtumat keskittyvät useiden eri henkilöiden elämään ja kohtaloihin, jotka kietoutuvat yhteen yllättävällä tavalla.
+
+Elokuvan tapahtumat sijoittuvat Los Angelesin esikaupunkialueelle San Fernando Valleyyn, joka sijaitsee Kalifornian osavaltiossa. Elokuva kuvaa näiden eri henkilöiden tarinoita rinnakkain ja niiden yhteen kietoutumista yhden päivän aikana. Magnolia sai valmistumisvuonnaan 1999 useita palkintoja ja tunnustuksia, ja se on yksi ohjaaja Paul Thomas Andersonin arvostetuimmista elokuvista.",
+"Mitkä seuraavista ominaisuuksista ovat yleensä yhdenmukaisia taateliraiskauksen kanssa?
+A.liiallisen voiman käyttö
+B.harkittu
+C.seksuaalisesti motivoitunut
+D.sisältää aseen käytön",C,"Taateliraiskaukseen liittyy yleensä seuraavat ominaisuudet:
+
+A. Liiallisen voiman käyttö - Kyllä, taateliraiskauksissa käytetään usein liiallista voimaa uhria kohtaan.
+
+B. Harkittu - Ei välttämättä. Taateliraiskaukset voivat olla myös impulsiivisia tekoja.
+
+C. Seksuaalisesti motivoitunut - Kyllä, taateliraiskaukset ovat seksuaalirikoksia ja niiden motiivina on seksuaalinen väkivalta.
+
+D. Sisältää aseen käytön - Ei aina, mutta aseita voidaan käyttää uhrin alistamiseen.
+
+Taateliraiskaukset ovat erittäin vakavia rikoksia, joissa käytetään seksuaalista väkivaltaa ja pakottamista. Ne aiheuttavat uhrille syvää henkistä ja fyysistä traumaa. On tärkeää, että uhrit saavat asianmukaista tukea ja apua toipumiseen.",
+"K-kertainen ristiinvalidointi on
+A.lineaarinen K: ssa
+B.kvadraattinen K: ssa
+C.kuutiometriä K
+D.eksponentiaalinen K: ssa",A,"K-kertainen ristiinvalidointi on lineaarinen K:ssa.
+
+Ristiinvalidoinnissa data jaetaan K osaan, ja malli koulutetaan ja evaluoidaan K kertaa. Jokaisella kierroksella yksi osa datasta jätetään validointidataksi, ja loput K-1 osaa käytetään mallin kouluttamiseen. Tämä prosessi toistetaan K kertaa, kunnes jokainen osa on käytetty kerran validointidatana.
+
+Koska tämä prosessi suoritetaan K kertaa, sen aikavaativuus on lineaarinen K:n suhteen. Toisin sanoen, jos K kaksinkertaistuu, prosessin suoritusaika kaksinkertaistuu. Siksi vaihtoehto A on oikein.
+
+Vaihtoehdot B (kvadraattinen K:ssa), C (kuutiometriä K) ja D (eksponentiaalinen K:ssa) eivät ole oikeita, koska ne eivät vastaa ristiinvalidoinnin aikavaativuutta.",
+"Mikä näistä ruokia on valmistettu sian suolistosta?
+A.haggis
+B.Chitlins
+C.ryynit
+D.chop suey",B,"Oikea vastaus on B) Chitlins.
+
+Chitlins on ruokalaji, joka on valmistettu sian suolistosta. Se on perinteinen ruoka erityisesti eteläosissa Yhdysvaltoja.
+
+A) Haggis on skotlantilainen ruoka, joka koostuu lampaanmaksasta, sydämestä, keuhkoista ja kauraryyneistä lampaanmahalaukussa kypsennettynä.
+
+C) Ryynit ovat jyvistä kuten rukiista, ohrasta tai kaurasta valmistettua murennettua viljaa.
+
+D) Chop suey on kiinalainen ruoka, joka koostuu haudutetuista vihanneksista ja lihasta kastikkeen kera.
+
+Joten chitlins eli sian suolistosta valmistettu ruoka on ainoa näistä vaihtoehdoista, joka on tehty sian suolistosta.",
 "Onko maan X ministerin ulkomailla tekemä laiton henkirikos teko iure imperii vai jure gestionis?
 A.Tällainen menettely on julkinen teko (iure imperii)
 B.Tällainen käytös ei koskaan johda koskemattomuuteen
 C.Tällainen menettely on yksityinen toimi (iure gestionis)
-D.Tällainen toiminta on julkinen teko, mutta sitä suojaa koskemattomuus",c,c,true
-"Tämä kysymys koskee seuraavia tietoja.
-""Totalitaaristen hallintojen siemeniä ruokkii kurjuus ja puute. Ne leviävät ja kasvavat köyhyyden ja riitojen pahassa maaperässä. He saavuttavat täyden kasvunsa, kun kansan toivo paremmasta elämästä on kuollut. Meidän on pidettävä tämä toivo elossa. . . Tapahtumien nopea eteneminen on asettanut meille suuren vastuun. Olen varma, että kongressi kohtaa nämä velvollisuudet suoraan.""
-Presidentti Harry S. Truman, 1947
-Yllä olevassa kappaleessa ilmaistut ajatukset heijastavat suorimmin mitä seuraavista jatkuvuuksista Yhdysvaltain historiassa?
-A.Keskustelut kongressin ja presidentin välisestä suhteesta.
-B.Keskustelut sotilaallisen voiman käytöstä tulenaroissa tilanteissa.
-C.Keskustelut Yhdysvaltojen roolista maailman asioissa.
-D.Keskustelut poliittisten puolueiden asianmukaisesta roolista.",c,c,true
-"Opiskelijat suorittavat kasvipigmenttien erotusharjoituksen, joka vaatii heitä käyttämään suljettua kromatografiakammiota, jossa on pieni määrä asetonia kammion pohjassa. Asetonin turvallisuusvaroituksiin sisältyy maininta siitä, että se ärsyttää silmiä ja ihoa ja sisältää syttyviä höyryjä. Mitä turvatoimia opiskelijoiden tulisi noudattaa harjoituksen aikana?
-A.Paloa hidastavien käsineiden asettaminen kammion kuljettamiseksi vetokaappiin, jos asetoni syttyy tuleen
-B.Kammion asettaminen suljettuun, tummennettuun kaappiin pigmentin erotuksen ajaksi
-C.Nahkakäsineiden käyttäminen ja nenän ja suun peittäminen hiukkasmaskilla
-D.Käytä suojalaseja ja nitriilityyppisiä käsineitä ja pidä kaikki asetonisäiliöt suljettuina",d,d,true
+D.Tällainen toiminta on julkinen teko, mutta sitä suojaa koskemattomuus",C,"Ministerin ulkomailla tekemä laiton henkirikos ei ole virkatoimintaa, vaan yksityinen rikos. Siksi se luokitellaan iure gestionis -teoksi eli yksityiseksi toimeksi.
+
+Oikea vastaus on siis C. Tällainen menettely on yksityinen toimi (iure gestionis).
+
+Valtionpäämiehet ja diplomaatit nauttivat koskemattomuutta vain virkatoimissaan (iure imperii). Yksityiset rikokset, kuten henkirikokset, eivät kuulu tämän koskemattomuuden piiriin. Niistä voidaan syyttää ja tuomita samalla tavalla kuin muitakin kansalaisia.
+
+Valtioiden edustajien koskemattomuus virkatoimissaan perustuu kansainväliseen tapaoikeuteen ja moniin kansainvälisiin sopimuksiin. Sen tarkoituksena on taata diplomaattisten suhteiden häiriötön toiminta. Mutta se ei anna kenellekään immuuniteettia rikkoa toisen maan lakeja yksityishenkilönä.",
+" Tämä markkinointi- ja viestintäväline tarjoaa suoran kannustimen tai kannustimen kannustaa asiakkaita ostamaan tuotteen/palvelun:
+A.Mainonta.
+B.Suhdetoiminta.
+C.Myynninedistäminen.
+D.Suoramarkkinointi.",C,"Oikea vastaus on C. Myynninedistäminen.
+
+Myynninedistäminen tarkoittaa markkinointitoimenpiteitä, joiden tarkoituksena on kannustaa asiakkaita ostamaan tuote tai palvelu tarjoamalla heille suoria kannustimia tai etuja. Tällaisia kannustimia voivat olla esimerkiksi alennukset, kupongit, ilmaisnäytteet, kilpailut tai lisäedut.
+
+Myynninedistämisen tavoitteena on lisätä tuotteen tai palvelun myyntiä lyhyellä aikavälillä ja houkutella uusia asiakkaita kokeilemaan tuotetta. Se on yksi markkinointiviestinnän keinoista mainonnan, suhdetoiminnan ja suoramarkkinoinnin ohella.
+
+Vaihtoehdot:
+
+A. Mainonta on maksettua, samanaikaisesti suurelle kohdeyleisölle suunnattua viestintää.
+B. Suhdetoiminta keskittyy organisaation ja sen sidosryhmien välisten suhteiden ylläpitämiseen.
+D. Suoramarkkinointi on suoraan kuluttajille kohdistettua markkinointiviestintää.",
 "Tämä kysymys koskee seuraavia tietoja.
 Ensinnäkin meidän on huomautettava, että kosmos on muodoltaan pallomainen, osittain siksi, että tämä muoto on täydellinen kokonaisuus, joka ei vaadi liitoksia, on täydellisin kaikista, osittain siksi, että se muodostaa tilavimman muodon, joka sopii parhaiten kaiken säilyttämiseen ja säilyttämiseen; tai jälleen siksi, että kaikki maailmankaikkeuden rakenneosat, eli aurinko, kuu ja planeetat, näkyvät tässä muodossa; tai koska kaikki pyrkii saavuttamaan tämän muodon, kuten ilmenee vesipisaroiden ja muiden nestemäisten kappaleiden tapauksessa, jos he yrittävät määritellä itsensä. Joten kukaan ei epäile, että tämä muoto kuuluu taivaankappaleisiin. ...
 Se, että maa on myös pallomainen, on siis kiistaton, koska se painaa keskustaansa joka puolelta. Vaikka vuorten korkeuden ja laaksojen syvennysten vuoksi täydellistä ympyrää ei voida ymmärtää, tämä ei kuitenkaan vaikuta maan yleiseen pallomaiseen luonteeseen. ...
@@ -106,160 +165,223 @@ Kohtaa voidaan käyttää todisteena siitä, että Kopernikus erosi aikansa peri
 A.Kosmos on pallomainen
 B.maa on pallomainen
 C.Kosmos on geostaattinen
-D.maapallo ei ole paikallaan",d,d,true
-"Mitkä seuraavista ominaisuuksista ovat yleensä yhdenmukaisia taateliraiskauksen kanssa?
-A.liiallisen voiman käyttö
-B.harkittu
-C.seksuaalisesti motivoitunut
-D.sisältää aseen käytön",c,c,true
+D.maapallo ei ole paikallaan",D,"Tämän katkelman perusteella oikea vastaus on D) maapallo ei ole paikallaan.
+
+Katkelmassa Kopernikus kyseenalaistaa perinteisen käsityksen siitä, että maa seisoo paikallaan maailmankaikkeuden keskellä. Hän esittää, että jos maa pyöriikin lännestä itään, se selittäisi auringon, kuun ja tähtien näennäisen liikkeen paremmin kuin oletus, että koko taivas kiertää maan ympäri.
+
+Kopernikus siis erosi perinteisestä aristoteelisesta näkemyksestä ehdottamalla, että maapallo ei olekaan paikallaan vaan kiertää akselinsa ympäri. Tämä oli mullistava ajatus hänen aikanaan.
+
+Muut vaihtoehdot (A-C) eivät suoraan liity Kopernikuksen uuteen ehdotukseen maan liikkeestä, vaan ne kuvaavat perinteisiä käsityksiä, joita Kopernikus ei varsinaisesti kyseenalaistanut.",
+"Ylistävän persoonallisuuden harhaluulo on erityinen tyyppi
+A.Onnettomuuden harhaluulo
+B.Väärä dilemma
+C.Kysymyksen kerjääminen
+D.Kehäpäätelmä",A,"Oikea vastaus on C. Kysymyksen kerjääminen.
+
+Ylistävän persoonallisuuden harhaluulo on eräs kysymyksen kerjäämisen muoto. Se tarkoittaa, että kysymys muotoillaan siten, että se sisältää jo ennakko-oletuksen tai väittämän, jota ei ole vielä perusteltu.
+
+Esimerkki ylistävän persoonallisuuden harhaluulosta:
+
+""Kuinka paljon ihailet presidenttiämme, joka on tehnyt mahtavaa työtä maamme hyväksi?""
+
+Tässä kysymyksessä oletetaan jo valmiiksi, että presidentti on tehnyt ""mahtavaa työtä"", vaikka tätä väitettä ei ole vielä perusteltu. Kysymyksen muotoilu siis johdattelee vastaajaa tiettyyn suuntaan.
+
+Kysymyksen kerjääminen on argumentointivirhe, koska se pyrkii saamaan vastaajan hyväksymään ennakko-oletuksen ilman asianmukaisia perusteluja. Se on harhaanjohtava tapa esittää kysymyksiä.",
+"Keski-ikäiset aikuiset näyttävät olevan enemmän ____ kuin vanhemmat tai nuoremmat aikuiset
+A.Generatiivinen
+B.Neuroottinen
+C.Miellyttävä
+D.Varma",A,"Oikea vastaus on B) Neuroottinen.
+
+Neuroottisuus viittaa persoonallisuuden piirteeseen, joka liittyy ahdistuneisuuteen, huoleen ja epävakauteen. Tutkimusten mukaan keski-ikäiset aikuiset näyttävät olevan keskimäärin neuroottisuudeltaan korkeampia kuin vanhemmat tai nuoremmat aikuiset.
+
+Tämä voi johtua monista tekijöistä, kuten keski-iän tuomista haasteista ja paineista työelämässä, perhe-elämässä ja taloudellisissa vastuissa. Keski-ikäisillä voi olla myös enemmän huolia liittyen terveyteen, ikääntymiseen ja tulevaisuuteen.
+
+Neuroottisuus ei kuitenkaan ole pysyvä tila, vaan se voi vaihdella elämänvaiheiden ja olosuhteiden mukaan. Vanhemmalla iällä neuroottisuus usein vähenee, kun elämäntilanne vakiintuu ja paineet hellittävät.",
+"Tämä kysymys koskee seuraavia tietoja.
+""Totalitaaristen hallintojen siemeniä ruokkii kurjuus ja puute. Ne leviävät ja kasvavat köyhyyden ja riitojen pahassa maaperässä. He saavuttavat täyden kasvunsa, kun kansan toivo paremmasta elämästä on kuollut. Meidän on pidettävä tämä toivo elossa. . . Tapahtumien nopea eteneminen on asettanut meille suuren vastuun. Olen varma, että kongressi kohtaa nämä velvollisuudet suoraan.""
+Presidentti Harry S. Truman, 1947
+Yllä olevassa kappaleessa ilmaistut ajatukset heijastavat suorimmin mitä seuraavista jatkuvuuksista Yhdysvaltain historiassa?
+A.Keskustelut kongressin ja presidentin välisestä suhteesta.
+B.Keskustelut sotilaallisen voiman käytöstä tulenaroissa tilanteissa.
+C.Keskustelut Yhdysvaltojen roolista maailman asioissa.
+D.Keskustelut poliittisten puolueiden asianmukaisesta roolista.",C,"Oikea vastaus on C. Keskustelut Yhdysvaltain roolista maailman asioissa.
+
+Perustelut:
+
+Kappaleessa puhutaan ""totalitaarisista hallinnoista"", jotka saavat jalansijaa kurjuudesta ja puutteesta. Tämä viittaa siihen, että Yhdysvaltojen tulisi toimia estääkseen tällaisten hallintojen nousun maailmalla edistämällä vaurautta ja vakautta.
+
+Truman mainitsee myös ""tapahtumien nopean etenemisen"" ja ""suuren vastuun"", mikä viittaa Yhdysvaltojen kasvavaan rooliin maailmanpolitiikassa toisen maailmansodan jälkeen ja kylmän sodan alkuvaiheessa.
+
+Kappale ei suoraan käsittele kongressin ja presidentin välistä suhdetta (A), sotilaallisen voiman käyttöä (B) tai puolueiden roolia (D). Sen sijaan se keskittyy Yhdysvaltojen laajempaan rooliin ja vastuuseen maailmalla, mikä heijastaa keskusteluja tuon ajan ulkopolitiikasta.",
+"Akondroplasiaa aiheuttavilla mutaatioilla on vaikutus, joka voidaan luokitella seuraavasti:
+A.hallitseva negatiivinen.
+B.toiminnon lisäys.
+C.haploinvajaatoiminta.
+D.toiminnan menetys.",B,"Akondroplasiaa aiheuttavat mutaatiot kuuluvat luokkaan D. toiminnan menetys.
+
+Akondroplasiassa on kyse mutaatioista FGFR3-geenissä (fibroblastikasvutekijäreseptori 3), joka säätelee luuston kasvua. Nämä mutaatiot johtavat FGFR3-proteiinin jatkuvaan aktivoitumiseen, mikä häiritsee luuston normaalia kehitystä ja kasvua.
+
+Toiminnan menetys tarkoittaa tässä tapauksessa sitä, että mutaatio estää FGFR3-proteiinin normaalin toiminnan ja aiheuttaa sen jatkuvan aktivoitumisen. Tämä johtaa luuston epänormaaliin kehitykseen ja lyhytkasvuisuuteen.
+
+Vaihtoehdot A (hallitseva negatiivinen) ja C (haploinvajaatoiminta) eivät sovellu tähän tapaukseen. Vaihtoehto B (toiminnon lisäys) ei myöskään ole oikea, koska kyseessä on ennemminkin proteiinin toiminnan häiriintyminen kuin lisäys.",
+"Mitä seuraavista tekijöistä pidettäisiin Rivan ""vetovoimatekijänä"", kun harkitaan muuttoa Intiasta Yhdysvaltoihin?
+A.Äärimmäinen köyhyys
+B.Parempi työpaikka ja korkeammat palkat
+C.Intian kastijärjestelmä
+D.Väkivalta hänen naapurustossaan",B,"Kun harkitaan muuttoa Intiasta Yhdysvaltoihin, parempi työpaikka ja korkeammat palkat (vaihtoehto B) olisivat Rivan todennäköisimpiä ""vetovoimatekijöitä"".
+
+Muuttoliikkeen vetovoimatekijät ovat tekijöitä, jotka houkuttelevat ihmisiä muuttamaan tiettyyn paikkaan parempien elinolosuhteiden ja mahdollisuuksien toivossa. Korkeammat palkat ja paremmat työmahdollisuudet ovat tyypillisiä taloudellisia vetovoimatekijöitä, jotka houkuttelevat ihmisiä muuttamaan kehittyneempiin maihin.
+
+Vaihtoehdot A (äärimmäinen köyhyys), C (Intian kastijärjestelmä) ja D (väkivalta naapurustossa) ovat pikemminkin työntövoimatekijöitä, jotka saattavat pakottaa ihmisiä lähtemään kotimaastaan, mutta eivät niinkään houkuttele heitä muuttamaan juuri Yhdysvaltoihin.
+
+Joten parempi työpaikka ja korkeammat palkat Yhdysvalloissa olisivat Rivalle todennäköisimpiä vetovoimatekijöitä harkittaessa muuttoa Intiasta.",
+"Opiskelijat suorittavat kasvipigmenttien erotusharjoituksen, joka vaatii heitä käyttämään suljettua kromatografiakammiota, jossa on pieni määrä asetonia kammion pohjassa. Asetonin turvallisuusvaroituksiin sisältyy maininta siitä, että se ärsyttää silmiä ja ihoa ja sisältää syttyviä höyryjä. Mitä turvatoimia opiskelijoiden tulisi noudattaa harjoituksen aikana?
+A.Paloa hidastavien käsineiden asettaminen kammion kuljettamiseksi vetokaappiin, jos asetoni syttyy tuleen
+B.Kammion asettaminen suljettuun, tummennettuun kaappiin pigmentin erotuksen ajaksi
+C.Nahkakäsineiden käyttäminen ja nenän ja suun peittäminen hiukkasmaskilla
+D.Käytä suojalaseja ja nitriilityyppisiä käsineitä ja pidä kaikki asetonisäiliöt suljettuina",D,"Oikea vastaus on D. Käytä suojalaseja ja nitriilityyppisiä käsineitä ja pidä kaikki asetonisäiliöt suljettuina.
+
+Tämä on paras vaihtoehto, koska:
+
+1. Suojalasit suojaavat silmiä asetonin ärsyttäviltä höyryiltä.
+
+2. Nitriilihansikkaat suojaavat ihoa asetonin ärsyttäviltä vaikutuksilita. Nahkakäsineet eivät ole sopivia, koska asetoni voi imeytyä niihin.
+
+3. Pitämällä asetonisäiliöt suljettuina minimoidaan höyryjen vapautuminen ja syttymisvaara.
+
+Muut vaihtoehdot eivät ole sopivia:
+
+A. Ei ole tarpeen siirtää kammiota vetokaappiin, jos noudatetaan asianmukaisia varotoimia. Palosuojahansikkaat eivät myöskään ole tarpeellisia.
+
+B. Suljettu, tummennettu kaappi ei suojaa asetonin höyryiltä.
+
+C. Nahkakäsineet eivät suojaa asianmukaisesti asetonilta. Hiukkasmaskia ei tarvita, koska asetoni ei ole hiukkasmuodossa.",
+"Mikä on Alankomaiden virallinen kieli?
+A.Tanska
+B.Ruotsi
+C.Saksa
+D.Hollanti",D,"Oikea vastaus on D. Hollanti.
+
+Alankomaiden virallinen kieli on hollanti. Se kuuluu germaanisiin kieliin ja on läheistä sukua saksalle ja englannille. Hollannin kieli on saanut nimensä Hollannin maakunnasta, joka oli Alankomaiden vaikutusvaltaisin maakunta keskiajalla.
+
+Vaikka Alankomaissa puhutaan myös muita kieliä kuten friisiä, hollanti on maan ainoa virallinen kieli kansallisella tasolla. Se on opetuksen, hallinnon ja median pääkieli Alankomaissa.",
+"Määritetään H+(aq)-konsentraatio 1,0 M fenoliliuoksessa, C6H5OH. (Fenolin Ka on 1 × 10^-10.)
+A.1 × 10^-10 m
+B.1 × 10^-9 M
+C.1 × 10^-3 M
+D.1 × 10^-5 M",D,"Fenoli (C6H5OH) on heikko happo, joka ionisoituu vedessä seuraavasti:
+
+C6H5OH + H2O ⇌ C6H5O- + H3O+
+
+Tasapainovakio Ka ilmaisee hapon ionisoitumisasteen:
+
+Ka = [C6H5O-][H3O+] / [C6H5OH]
+
+Annettu fenolin Ka-arvo on 1 × 10^-10.
+
+Koska fenoliliuoksen konsentraatio on 1,0 M, voimme olettaa, että suurin osa fenolista on ionisoitumattomassa muodossa [C6H5OH] ≈ 1,0 M. Tällöin voimme laskea [H3O+]-konsentraation seuraavasti:
+
+Ka = [C6H5O-][H3O+] / [C6H5OH]
+1 × 10^-10 = [C6H5O-][H3O+] / 1,0
+
+Olettaen, että [C6H5O-] ≈ [H3O+], saamme:
+
+[H3O+] = √(Ka × [C6H5OH])
+[H3O+] = √(1 × 10^-10 × 1,0)
+[H3O+] = 1 × 10^-5 M
+
+Näin ollen H+(aq)-konsentraatio 1,0 M fenoliliuoksessa on 1 × 10^-5 M, joten oikea vastaus on D.",
+"Mikä näistä tekee eri lajien evolutiivisen sukulaisuuden määrittämisestä homologisten proteiinien aminohapposekvenssin perusteella yleensä vähemmän tarkkaa kuin homologisten geenien nukleotidisekvensseihin perustuvat sukulaisuusmääritykset?
+A.Hiljaiset mutaatiot
+B.Geenien päällekkäisyydet
+C.Translokaatiotapahtumat, jotka muuttavat geenisekvenssejä
+D.Ylitys",A,"Oikea vastaus on A. Hiljaiset mutaatiot.
+
+Selitys:
+
+A. Hiljaiset mutaatiot ovat mutaatioita geenin koodaavassa sekvenssissa, jotka eivät muuta proteiinin aminohapposekvenssiä. Tämä johtuu siitä, että useat erilaiset nukleotiditriplettikoodit (kodonikodonit) koodaavat samaa aminohappoa. Hiljaiset mutaatiot kertyvät ajan myötä geenisekvensseihin, mutta eivät näy proteiinisekvensseissä. Tämän vuoksi proteiinisekvenssien vertailu voi aliarvioida lajien välistä evolutiivista etäisyyttä verrattuna geenisekvenssien vertailuun.
+
+B. Geenien päällekkäisyydet eivät suoraan vaikuta proteiinisekvenssien ja geenisekvenssien vertailun tarkkuuteen.
+
+C. Translokaatiotapahtumat muuttavat geenisekvenssejä, mutta eivät vaikuta suoraan proteiinisekvenssien ja geenisekvenssien vertailun tarkkuuteen.
+
+D. Ylitys ei liity proteiinisekvenssien ja geenisekvenssien vertailuun.
+
+Hiljaiset mutaatiot ovat siis pääsyy siihen, miksi proteiinisekvenssien vertailu voi olla vähemmän tarkkaa kuin geenisekvenssien vertailu lajien evolutiivisen sukulaisuuden määrittämisessä.",
 "Verrattuna poliittisiin puolueisiin sellaisissa maissa kuin Englanti ja Israel, joissa molemmissa on monipuoluejärjestelmä, amerikkalaiset poliittiset puolueet ovat
 A.vähemmän kiinnostunut vaikuttamaan vaalien tulokseen
 B.vähemmän selvästi samaistettu johdonmukaisiin poliittisiin ideologioihin
 C.vähemmän tehokas keräämään rahaa poliittisilta kannattajilta
-D.pystyy paremmin heijastamaan koko vaalipiirinsä tavoitteita",b,b,true
-"Etsi käyrän y = ln x pituus pisteiden välillä, joissa y = 1/2 ja y = 1.
-A.0.53
-B.0.86
-C.1.18
-D.1.36",c,c,true
-"Induktorissa indusoitu jännite esitetään seuraavasti:
-A.sen induktanssin ja sen läpi kulkevan virran tuote.
-B.sen induktanssin suhde sen läpi kulkevaan virtaan.
-C.sen läpi kulkevan virran suhde sen induktanssiin.
-D.sen induktanssin ja sen läpi kulkevan virran muutosnopeuden tuote.",d,d,true
-"Garcian ja Koellingin tutkimus opituista vastenmielisyyksistä osoitti, että mitkä seuraavista UCS- ja CS-pareista ovat tehokkaimpia ja oppivat nopeimmin?
-A.Tehtävän suorittaminen ja ruokapalkkion saaminen
-B.pahoinvointi ja ruoka tai juoma
-C.Liike ja shokki
-D.Rangaistukset ja palkinnot",b,b,true
-"Mikä psykologinen näkökulma oli suosituin kahdennenkymmenennen vuosisadan vaihteessa Länsi-Euroopassa?
-A.neurotiede
-B.kehitysopillinen
-C.behavioristi
-D.psykoanalyyttinen",d,d,true
-"Opittu avuttomuus liittyy todennäköisimmin suoraan
-A.Barnum-vaikutus.
-B.itsekäs puolueellisuus.
-C.ulkoinen valvontapaikka.
-D.ehdoton myönteinen kunnioitus.",c,c,true
-"Lähimpään tuhanteen pyöristetty luku on 47 000. Mikä luku voisi olla pyöristetty luku?
-A.46,295
-B.46,504
-C.47,520
-D.47,924",b,b,true
-"Etsi $-\dfrac{1}{-3}\cdot\cfrac{1}{~\frac{1}{-3}~}.$
-A.1
-B.-1
-C.0
-D.2",b,b,true
-"Säiliö on kolmion muotoisen prisman muotoinen. Jos kolmion muotoisen pohjan pinta-ala on 116 neliömetriä ja säiliö on 30 jalkaa korkea, kuinka paljon vettä säiliö sisältäisi, kun se on täynnä?
-A.1725 jalkaa^3
-B.1740 jalkaa^3
-C.3480 jalkaa^3
-D.6960 jalkaa^3",c,b,false
-"Yritykset harjoittavat sosiaalista kirjanpitoa _________ vaatimusten mukaisesti tunnistaakseen ________, parantaakseen ___________ ja kannustaakseen _________ ja ___________
-A.Sidosryhmät, riskit, sidosryhmien hallinta, vastuullisuus, läpinäkyvyys
-B.Sidosryhmät, vastuullisuus, avoimuus, riskit, sidosryhmien hallinta
-C.Sidosryhmät, vastuullisuus, riskit, sidosryhmät, sidosryhmien hallinta
-D.Sidosryhmät, sidosryhmien hallinta, avoimuus, riskit, vastuullisuus",a,a,true
-"Lausuma 1 | Ryhmässä (ab)^{-2} = b^{-2}a^{-2}. Lausuma 2 | Ryhmässä (ab)^n = a^nb^n.
-A.Totta, totta
-B.Epätosi, epätosi
-C.Totta, väärää
-D.Epätosi, tosi",b,d,true
+D.pystyy paremmin heijastamaan koko vaalipiirinsä tavoitteita",B,"B. vähemmän selvästi samaistettu johdonmukaisiin poliittisiin ideologioihin
+
+Tämä väite pitää paikkansa. Yhdysvalloissa kaksi pääpuoluetta, demokraatit ja republikaanit, ovat ideologisesti melko laajoja koalitioita, joiden sisällä on useita eri suuntauksia ja näkemyseroja. Niiden ideologiat eivät ole yhtä selkeitä ja johdonmukaisia kuin monien Euroopan maiden puolueiden.
+
+Monipuoluejärjestelmissä, kuten Englannissa ja Israelissa, puolueet edustavat tyypillisesti tarkemmin määriteltyjä ideologisia linjoja, kuten konservatismi, liberalismi, sosialismi jne. Puolueiden kannat eri kysymyksissä ovat johdonmukaisempia, koska ne heijastavat tiettyä ideologista suuntausta.
+
+Yhdysvalloissa puolueet sen sijaan yrittävät vedota laajempaan äänestäjäkuntaan, mikä johtaa siihen, että niiden ideologiat ovat väljempiä ja sisältävät erilaisia näkemyksiä. Tämä vastausvaihtoehto kuvaa hyvin tätä eroa Yhdysvaltojen ja monipuoluejärjestelmien välillä.",
+"Potilas kärsii murtuneesta kaulasta, joka vahingoittaa selkäydintä kuudennen kohdunkaulan nikaman tasolla.
+A.He eivät pysty hengittämään ilman elämän tukea.
+B.He voivat hengittää vain hiljaa.
+C.On mahdotonta ennustaa vaikutusta hengitykseen.
+D.Hengitys ei vaikuta.",B,"Selkäytimen vaurion sijainti ja vaikeusaste vaikuttavat siihen, miten se vaikuttaa hengitykseen. Kuudennen kaulanikaman (C6) tasolla oleva vaurio voi vaikuttaa hengitykseen seuraavasti:
+
+A. Oikea vastaus. Kuudennen kaulanikaman tason vaurio voi vahingoittaa hengitystä säätelevää hermostoa, jolloin potilas ei välttämättä pysty hengittämään itsenäisesti ja tarvitsee hengityskoneen tai muun elämän tuen.
+
+B. Väärä vastaus. Vaurio tällä tasolla ei välttämättä rajoita hengitystä vain hiljaiseen hengittämiseen, vaan voi estää hengityksen kokonaan.
+
+C. Väärä vastaus. Vaikka jokainen tapaus on yksilöllinen, selkäytimen vaurion sijainti ja vaikeusaste antavat viitteitä siitä, miten se vaikuttaa hengitykseen.
+
+D. Väärä vastaus. Selkäytimen vaurio tällä tasolla vaikuttaa todennäköisesti hengitykseen, koska se voi vahingoittaa hengitystä sääteleviä hermostollisia rakenteita.
+
+Joten oikea vastaus on A. Potilas ei välttämättä pysty hengittämään itsenäisesti ja tarvitsee elämän tukea, kuten hengityskoneen.",
+"Mikä näistä kauhuelokuvista synnytti eniten jatko-osia?
+A.Huutaa""
+B.Leuat'
+C.Halloween""
+D.Perjantai 13. päivä""",D,"Oikea vastaus on D) Perjantai 13. päivä.
+
+Perjantai 13. päivä -kauhuelokuvasarja on yksi menestyneimmistä ja pitkäikäisimmistä kauhuelokuvasarjoista. Alkuperäinen Perjantai 13. päivä -elokuva julkaistiin vuonna 1980, ja sen jälkeen on tehty lukuisia jatko-osia:
+
+- Yhteensä 12 elokuvaa pääsarjassa vuosien 1980-2009 välillä
+- Lukuisia spin-off- ja risteyselokuvia
+- Uudelleenlämmitettyjä versioita ja rebooteja
+
+Muut vaihtoehdot ovat myös tunnettuja kauhuelokuvasarjoja, mutta eivät ole synnyttäneet yhtä montaa jatko-osaa kuin Perjantai 13. päivä:
+
+A) Huutaa - 5 pääelokuvaa vuosina 1996-2022
+B) Leuat - 4 pääelokuvaa vuosina 1975-1987 
+C) Halloween - 12 pääelokuvaa vuosina 1978-2022, mutta vähemmän kuin Perjantai 13. päivä -sarja
+
+Perjantai 13. päivä on siis selkeästi synnyttänyt eniten jatko-osia näistä vaihtoehdoista pitkän historiansa aikana.",
+"Mikä seuraavista osoittaa negatiivisen jäännösautokorrelaation?
+A.Syklinen kuvio jäännöksissä
+B.Vuorotteleva kuvio jäännöksissä
+C.Jäännösten täydellinen satunnaisuus
+D.Jäännökset, jotka ovat kaikki lähellä nollaa",B,"Negatiivinen jäännösautokorrelaatio tarkoittaa sitä, että mallin jäännöstermit eivät ole täysin riippumattomia toisistaan, vaan niillä on taipumus vaihdella vastakkaisiin suuntiin peräkkäisillä ajanhetkillä. Tämä voi johtua esimerkiksi mallin puutteellisesta spesifikaatiosta tai joistakin mallin oletuksista.
+
+Annetuista vaihtoehdoista B. Vuorotteleva kuvio jäännöksissä osoittaa negatiivista jäännösautokorrelaatiota.
+
+A. Syklinen kuvio jäännöksissä viittaa siihen, että jäännöksissä on toistuva syklinen malli, mikä voi johtua mallin puutteellisesta spesifikaatiosta tai selittävien muuttujien puuttumisesta.
+
+C. Jäännösten täydellinen satunnaisuus on ihanteellinen tilanne, jossa jäännöstermit ovat riippumattomia toisistaan ja noudattavat normaalijakaumaa.
+
+D. Jäännökset, jotka ovat kaikki lähellä nollaa, eivät välttämättä viittaa negatiiviseen autokorrelaatioon, vaan pikemminkin siihen, että malli sopii hyvin aineistoon.
+
+Negatiivinen jäännösautokorrelaatio voi johtaa mallin tehokkuuden heikkenemiseen ja estimaattien harhaisuuteen, joten se on tärkeää huomioida mallinnuksessa.",
 "Sarjapiirissä, jos yhden lampun virta on 2 A, sen vieressä olevan lampun virta on
 A.puolikas, 1 A
 B.02:00
 C.Riippuu siitä, mikä lamppu on lähempänä akkua
-D.Ei tarpeeksi tietoa sanottavaksi",b,c,false
-"Protoni kulkee alkunopeudella 1,5 × 10^6 m/s, ja se saapuu alueelle, jolla on vakio magneettikenttä, jonka voimakkuus on 1,5 T. Jos protonin alkunopeusvektori tekee 30° kulman magneettikentän kanssa, laske protonin nopeus 4 s magneettikenttään saapumisen jälkeen.
-A.5.0 × 10^6 m/s
-B.7.5 × 10^6 m/s
-C.1,5 × 10^6 m/s
-D.3.0 × 10^6 m/s",c,a,true
-"Mikä on termi sille, missä määrin kilpailu yhdessä maassa vaikuttaa kilpailuun muissa maissa?
-A.Kansainvälinen kauppa
-B.Globaali talous
-C.Maailmanlaajuinen kilpailu
-D.Globalisaatio",d,d,true
-"Korkean energian fosfaattien, ATP: n ja fosfokreatiinin, hajoamisesta vapautuva energia voi ylläpitää maksimaalista rasitusta noin:
-A.1-2 sekuntia.
-B.5-10 sekuntia.
-C.30-40 sekuntia.
-D.50-60 sekuntia.",b,b,true
-"Elinkeinonharjoittajalle määrätty vero siirretään todennäköisemmin kuluttajalle hinnankorotuksen muodossa, jos
-A.Kysynnän hintajousto on erittäin joustavaa.
-B.Kysynnän hintajousto on erittäin joustamatonta.
-C.Kysynnän hintajousto on yksikköelastinen.
-D.Kysynnän palkkajousto on hyvin joustavaa.",b,b,true
-"Mikä seuraavista todennäköisimmin tuottaa vahvempaa talouskasvua ajan myötä?
-A.Luonnonvarojen nopeampi kulutus.
-B.Aikuisten lukutaidottomuusasteen nousu.
-C.Tuotantohyödykkeiden varaston pieneneminen.
-D.Investointien verohyvitykset.",d,d,true
-"Talous on syvässä taantumassa. Mikä seuraavista rahapolitiikkaa koskevista väitteistä pitää paikkansa tässä taloudellisessa tilanteessa?
-A.Lakaiseva politiikka vain pahentaisi taantumaa.
-B.Ekspansiivinen politiikka lisää huomattavasti kokonaiskysyntää, jos investoinnit ovat herkkiä korkotason muutoksille.
-C.Supistava politiikka on sopiva kannustin investoinneille ja kulutukselle.
-D.Jos rahan kysyntä on täysin joustavaa, ekspansiivinen rahapolitiikka voi olla varsin tehokasta.",b,b,true
-"Osa Marsin vedestä on jäätynyt maaperään ja jääpeitteisiin ja osa menetettiin aurinkotuulen poistumisen vuoksi, mutta suuren osan alkuperäisestä vedestä uskotaan kadonneen toisen mekanismin kautta. Mitä tapahtui tälle ""menetetylle"" vedelle?
-A.Magneettikenttä riisui sen pois, kun sen voimakkuus väheni nopeasti
-B.Se hajosi vedyksi ja hapeksi ultraviolettivalossa ja vety menetettiin termisen pakenemisen kautta
-C.sitä kulutti janoisten marsilaisten sivilisaatio
-D.Se höyrystyi voimakkaan vulkaanisuuden aikana ja katosi avaruuteen lämpöpaon kautta",b,b,true
-"Mitkä seuraavista maista aiheuttivat eniten CO2-päästöjä asukasta kohden vuonna 2017?
-A.Japani
-B.Kanada
-C.Venäjä
-D.Iran",b,b,true
-"Mitä seuraavista bittimerkkijonojoukoista EI voi kuvata säännöllisellä lausekkeella?
-A.Kaikki bittimerkkijonot, joiden nollien lukumäärä on viiden kerrannainen
-B.Kaikki bittimerkkijonot, jotka alkavat nollasta ja päättyvät yhteen
-C.Kaikki bittimerkkijonot, joissa on parillinen määrä nollia
-D.Kaikki bittimerkkijonot, joissa on enemmän ykkösiä kuin nollia",d,b,true
-"Mikä on uusintahyökkäys?
-A.Kun hyökkääjä vastaa järjestelmän lähettämään viestiin
-B.Hyökkäys, joka toistuu jatkuvasti ja tutkii heikkoutta
-C.Hyökkäys, joka käyttää järjestelmän omia viestejä, joten sitä vastaan ei voi puolustautua
-D.Hyökkääjä lähettää kaapatun viestin uudelleen, ja sivusto hyväksyy sen ja vastaa hyökkääjän hyväksi",d,b,false
-"Se, että deuteriumkloridin (DCl) infrapuna-absorptiotaajuus siirtyy kloorivedyn (HCl) taajuudesta, johtuu niiden eroista.
-A.elektronien jakautuminen
-B.dipolimomentti
-C.voiman vakio
-D.pienempi massa",d,b,false
-"xy-tasossa x^(log y) = y^log x kuvaaja on
-A.Avoin ensimmäinen neljännes
-B.suljettu käyrä
-C.säde avoimessa ensimmäisessä neljänneksessä
-D.Yksi piste",a,c,false
-"Fotoni-ilmaisimen kvanttihyötysuhde on 0,1. Jos ilmaisimeen lähetetään 100 fotonia peräkkäin, ilmaisin havaitsee fotonit
-A.Keskimäärin 10 kertaa, RMS-poikkeama noin 4
-B.Keskimäärin 10 kertaa, RMS-poikkeama noin 3
-C.Keskimäärin 10 kertaa, RMS-poikkeama noin 1
-D.Keskimäärin 10 kertaa, RMS-poikkeama noin 0,1",b,b,true
-"Miksi Parfit vastustaa tasa -arvoa?
-A.Hän väittää, että epätasa-arvoinen yhteiskunta on väistämätön.
-B.Hän väittää, että asettamalla köyhien tarpeet etusijalle voimme lisätä tasa-arvoa.
-C.Hän vakuuttaa, että me kaikki olemme vastuussa köyhyydestämme.
-D.Hän torjuu ajatuksen tasa-arvosta kokonaan.",b,d,false
-"Tämä kysymys koskee seuraavia tietoja.
-""Todellakin, koska sekä arvostettujen [tutkijoiden] fatwat, jotka perustavat mielipiteensä järkeen ja perinteeseen, että sunniyhteisön yksimielisyys ovat yhtä mieltä siitä, että muinaisen velvollisuuden hävittää, tuhota ja karkottaa paha innovaatio täytyy olla korotetun pyrkimyksemme tavoite, sillä ""uskonnollinen into on voitto hyväntahtoisen Jumalan uskolle""; sitten Profeetan sanojen mukaisesti (rauha hänelle!) ""Jokainen, joka tuo pahaa innovaatiota järjestykseemme, on karkotettava"" ja ""Jokainen, joka tekee jotain järjestystämme vastaan, on karkotettava"", toiminnasta on tullut välttämätöntä ja vaativaa...""
-Ottomaanien sulttaani Selim I: n kirje Safavid Shah Ismail I: lle, 1514
-Safavidit herättivät islamilaisten imperiumien, kuten ottomaanien ja Mogolien valtakuntien, vihan pääasiassa siksi, että safavidit
-A.olivat ekspansionistinen imperiumi, joka sijaitsi maantieteellisesti kahden muun ekspansionistin välissä
-B.hylkäsi islamin keskeiset opinkappaleet
-C.orjuutti kristittyjä ja muutti heidät safaviditaistelijoiksi
-D.Ismail julisti olevansa kalifi",a,d,false
-"Ohjelmoija kirjoitti alla olevan ohjelman. Ohjelma käyttää numeroluetteloa nimeltä numList. Ohjelma on tarkoitettu näyttämään luettelossa olevien numeroiden summa.
- summa ← numList [1]
- JOKAISELLE NUMList-arvolle
- Summa ← summa + arvo
- NÄYTÄ summa
- Ohjelman testaamiseksi ohjelmoija alustaa numList-arvoksi [0, 1, 4, 5]. Ohjelma näyttää 10, ja ohjelmoija päättelee, että ohjelma toimii tarkoitetulla tavalla. Mikä seuraavista pitää paikkansa?
-A.Johtopäätös on oikea; Ohjelma toimii tarkoitetulla tavalla.
-B.Johtopäätös on virheellinen; Ohjelma ei näytä oikeaa arvoa testitapaukselle [0, 1, 4, 5].
-C.Johtopäätös on virheellinen; Testitapauksen [0, 1, 4, 5] käyttäminen ei riitä päättelemään, että ohjelma on oikea.
-D.Johtopäätös on virheellinen; Testitapauksen [0, 1, 4, 5] käyttäminen vahvistaa vain, että ohjelma toimii luetteloissa kasvavassa järjestyksessä.",c,c,true
+D.Ei tarpeeksi tietoa sanottavaksi",B,"Sarjakytkennässä virta on sama kaikissa komponenteissa. Tämä johtuu siitä, että virran on kuljettava jokaisen komponentin läpi, jotta virtapiiri olisi suljettu.
+
+Jos yhden lampun virta on 2 A, niin kaikkien muiden lamppujen virta on myös 2 A sarjakytkennässä.
+
+Näin ollen oikea vastaus on:
+
+C. Riippuu siitä, mikä lamppu on lähempänä akkua
+
+Lampun sijainti sarjakytkennässä ei vaikuta sen läpi kulkevaan virtaan. Virta pysyy samana koko virtapiirissä.",
 "Tämä kysymys koskee seuraavia tietoja.
 Kävelen pylvään viereen ja kysyn, mitä tapahtuu.
 Sotilas sanoo yksinkertaisesti: ""He kutsuvat lisää joka päivä.
@@ -290,262 +412,1083 @@ Runo tarjoaa todisteita siitä, mikä seuraavista sukupuolten välisistä suhtei
 A.Konfutselaiset suhteet aviomiehen ja vaimon välillä olivat edelleen vahvoja Tang -yhteiskunnassa.
 B.Keisarilliset kirjoitukset korostivat kykenevien poikien syntymistä tyttärien yli asevelvollisuuskiintiöiden täyttämiseksi.
 C.Maataloustyö voisi olla sekä naisten että miesten yhteistä.
-D.Perinteiset kiinalaiset sukupuolisuhteet käännettiin keisarinna Wu Zetianin hallituskaudella.",c,c,true
-"Kumpaa näistä kahdesta skenaariosta varten päähenkilö (joka käyttää minä/minä/minun) tekee jotain selvästi moraalisesti väärin tavallisten moraalisten standardien mukaan Yhdysvalloissa vuodesta 2020 lähtien? Skenaario 1 | Joskus yritän kertoa totuuden, ellei se saa minua vaikeuksiin. Skenaario 2 | Suutelin tyttöystävääni taikanäyttelyssä.
-A.Väärin, väärin
-B.Väärin, Ei väärin
-C.Ei väärin, väärin
-D.Ei väärin, Ei väärin",b,d,true
-"Kumpaa näistä kahdesta skenaariosta varten päähenkilö (joka käyttää minä/minä/minun) tekee jotain selvästi moraalisesti väärin tavallisten moraalisten standardien mukaan Yhdysvalloissa vuodesta 2020 lähtien? Skenaario 1 | Juoksin ruohonleikkurilla tuoreen maton yli. Skenaario 2 | Virtsasin käteeni, jotta voisin testata sen infektion varalta.
-A.Väärin, väärin
-B.Väärin, Ei väärin
-C.Ei väärin, väärin
-D.Ei väärin, Ei väärin",a,c,false
-"Mikä seuraavista pätee kilpirauhasen vajaatoimintaan?
-A.Painonpudotus
-B.Pre-tibiaalinen myksoedeema
-C.Kohonnut TSH-taso
-D.Vastenmielisyys lämpimiin paikkoihin",c,c,true
-"Kumpaa näistä kahdesta skenaariosta varten päähenkilö (joka käyttää minä/minä/minun) tekee jotain selvästi moraalisesti väärin tavallisten moraalisten standardien mukaan Yhdysvalloissa vuodesta 2020 lähtien? Skenaario 1 | Näin kuuluisan Elton Johnin konserttiareenan ulkopuolella ja otin hänestä kuvan kysymättä häneltä. Skenaario 2 | Ilmoitin toisesta vartijasta, joka hiipi huumeita vankilaan ja myy niitä vangeille.
-A.Väärin, väärin
-B.Väärin, Ei väärin
-C.Ei väärin, väärin
-D.Ei väärin, Ei väärin",d,c,false
-"Kumpaa näistä kahdesta skenaariosta varten päähenkilö (joka käyttää minä/minä/minun) tekee jotain selvästi moraalisesti väärin tavallisten moraalisten standardien mukaan Yhdysvalloissa vuodesta 2020 lähtien? Skenaario 1 | Kun vanhempani nukkuivat, lähdin lenkille. Skenaario 2 | Kaadoin pesuainetta pesukoneeseen, joka oli täynnä huonetoverini vaatteita.
-A.Väärin, väärin
-B.Väärin, Ei väärin
-C.Ei väärin, väärin
-D.Ei väärin, Ei väärin",d,c,false
-"Mikä seuraavista on kasvien mukauttaminen vesihävikin minimoimiseksi korkeissa lämpötiloissa?
-A.Lukuisia stomata
-B.Ohuet kynsinauhat
-C.Piikit lehtien sijaan
-D.Suuret pinta-tilavuussuhteet",c,c,true
-"Mutaatiot ovat DNA-virheitä, jotka:
-A.ovat aina haitallisia.
-B.esiintyy vain syöpää aiheuttavien aineiden läsnä ollessa.
-C.lisätä kasvaimen kasvua.
-D.esiintyy spontaanisti alhaisella nopeudella.",d,d,true
+D.Perinteiset kiinalaiset sukupuolisuhteet käännettiin keisarinna Wu Zetianin hallituskaudella.",C,"Runon perusteella oikea vastaus on C. Maataloustyö voisi olla sekä naisten että miesten yhteistä.
+
+Runo viittaa tähän seuraavilla riveillä:
+
+""Vaikka vaimot ovat tarpeeksi vahvoja käsittelemään kuokkaa ja auraa,
+Sato kasvaa joka suuntaan, pellot ovat kaikki sotkuisia.""
+
+Tämä viittaa siihen, että naiset tekivät maataloustöitä miesten ollessa sodassa. Runo ei suoraan tue muita vaihtoehtoja sukupuolten välisistä suhteista Tang-yhteiskunnassa.",
+"Etsi käyrän y = ln x pituus pisteiden välillä, joissa y = 1/2 ja y = 1.
+A.0.53
+B.0.86
+C.1.18
+D.1.36",C,"Ratkaisemme tämän integroimalla käyrän yhtälöä y = ln x rajojen välillä, joissa y = 1/2 ja y = 1.
+
+Annettu: y = ln x
+
+Asetetaan y = 1/2
+1/2 = ln x
+x = e^(1/2) ≈ 1.65 (alakraja)
+
+Asetetaan y = 1
+1 = ln x
+x = e^1 ≈ 2.72 (yläraja)
+
+Käyrän pituus pisteiden välillä saadaan integroimalla yhtälöä:
+
+Pituus = ∫(1/2)^1 √(1 + (1/x)^2) dx
+
+Laskemalla tämän integraalin saamme tulokseksi noin 1.36.
+
+Näin ollen oikea vastaus on D) 1.36.",
+"xy-tasossa x^(log y) = y^log x kuvaaja on
+A.Avoin ensimmäinen neljännes
+B.suljettu käyrä
+C.säde avoimessa ensimmäisessä neljänneksessä
+D.Yksi piste",A,"Tässä kysymyksessä tarkastellaan yhtälön x^(log y) = y^log x kuvaajaa xy-tasossa.
+
+Ratkaisemme tämän seuraavasti:
+
+1) Otetaan logaritmit puolittain:
+log(x^(log y)) = log(y^log x)
+
+2) Käyttämällä logaritmien laskusääntöjä saamme:
+log y * log x = log x * log y
+
+3) Jakamalla puolittain log x:llä (olettaen, että log x ≠ 0) saamme:
+log y = log x
+
+4) Tämä yhtälö toteuttaa vain silloin, kun x = y.
+
+Näin ollen kuvaaja on yksi piste, jossa x = y. Tämä piste sijaitsee ensimmäisessä neljänneksessä.
+
+Vastaus on siis D. Yksi piste.",
+"Lausuma 1 | Ryhmässä (ab)^{-2} = b^{-2}a^{-2}. Lausuma 2 | Ryhmässä (ab)^n = a^nb^n.
+A.Totta, totta
+B.Epätosi, epätosi
+C.Totta, väärää
+D.Epätosi, tosi",B,"Tarkastellaan näitä lausumia yksi kerrallaan:
+
+Lausuma 1: (ab)^{-2} = b^{-2}a^{-2}
+
+Tämä lausuma on totta ryhmissä. Ryhmäteoriassa pätee, että (ab)^{-1} = b^{-1}a^{-1}, joten korottamalla tämä yhtälö toiseen potenssiin (-2) saadaan (ab)^{-2} = (b^{-1}a^{-1})^2 = b^{-2}a^{-2}.
+
+Lausuma 2: (ab)^n = a^nb^n
+
+Tämä lausuma on väärä ryhmissä yleisesti. Ryhmäteoriassa pätee, että (ab)^n = a^nb^n vain silloin, kun a ja b kommutoivat, eli ab = ba. Jos a ja b eivät kommutoi, tämä yhtälö ei päde.
+
+Näin ollen oikea vastaus on C. Totta, väärää.",
+"Etsi $-\dfrac{1}{-3}\cdot\cfrac{1}{~\frac{1}{-3}~}.$
+A.1
+B.-1
+C.0
+D.2",B,"Ratkaistaan tämä askel askeleelta:
+
+1) Lauseke on muotoa: $-\dfrac{1}{-3}\cdot\cfrac{1}{~\frac{1}{-3}~}$
+
+2) Ensimmäinen termi $-\dfrac{1}{-3}$ voidaan sieventää:
+$-\dfrac{1}{-3} = \dfrac{-1}{-3} = \dfrac{1}{3}$
+
+3) Toinen termi $\cfrac{1}{~\frac{1}{-3}~}$ voidaan sieventää käyttämällä käänteislukua:
+$\cfrac{1}{~\frac{1}{-3}~} = \cfrac{1}{\dfrac{-1}{3}} = -3$
+
+4) Nyt lauseke on muodossa: $\dfrac{1}{3}\cdot(-3)$
+
+5) Kerrotaan vastaluvut ja jaetaan nimittäjät:
+$\dfrac{1}{3}\cdot(-3) = \dfrac{-3}{3} = -1$
+
+Siis vastaus on B) -1.",
+"Mikä on termi sille, missä määrin kilpailu yhdessä maassa vaikuttaa kilpailuun muissa maissa?
+A.Kansainvälinen kauppa
+B.Globaali talous
+C.Maailmanlaajuinen kilpailu
+D.Globalisaatio",D,"Oikea vastaus on D. Globalisaatio.
+
+Globalisaatio viittaa siihen, miten eri maiden taloudet, markkinat ja tuotantojärjestelmät ovat yhä tiiviimmin yhteydessä toisiinsa. Kilpailu yhdessä maassa vaikuttaa siis väistämättä kilpailuun muissa maissa, kun yritykset, tuotteet, pääomat ja työvoima liikkuvat vapaasti rajojen yli.
+
+Globalisaatio on johtanut siihen, että yritysten on kilpailtava entistä enemmän kansainvälisillä markkinoilla pärjätäkseen. Yhden maan kilpailutilanne ei ole enää irrallinen muista maista, vaan kytköksissä maailmanlaajuiseen kilpailutilanteeseen.
+
+Vaihtoehdot A-C kuvaavat myös kansainvälistä taloudellista toimintaa, mutta eivät suoraan viittaa siihen, miten kilpailu yhdessä maassa vaikuttaa muihin maihin.",
+"Mikä psykologinen näkökulma oli suosituin kahdennenkymmenennen vuosisadan vaihteessa Länsi-Euroopassa?
+A.neurotiede
+B.kehitysopillinen
+C.behavioristi
+D.psykoanalyyttinen",D,"Psykoanalyyttinen näkökulma oli suosituin kahdennenkymmenennen vuosisadan vaihteessa Länsi-Euroopassa.
+
+Psykoanalyysin isänä pidetään itävaltalaista Sigmund Freudia, joka kehitti psykoanalyyttisen teorian ja menetelmän 1800-luvun lopulla ja 1900-luvun alussa. Freudin teoriat tiedostamattoman mielen vaikutuksesta käyttäytymiseen ja persoonallisuuden kehitykseen saivat laajaa huomiota ja kannatusta erityisesti Keski-Euroopassa.
+
+Vaikka psykoanalyysi on sittemmin saanut osakseen myös paljon kritiikkiä, se oli vallitseva psykologinen suuntaus Länsi-Euroopassa 1900-luvun alkupuolella ennen kuin muut koulukunnat, kuten behaviorismi ja humanistinen psykologia, nousivat esiin.
+
+Näin ollen oikea vastaus on D) psykoanalyyttinen näkökulma.",
+"Mikä on uusintahyökkäys?
+A.Kun hyökkääjä vastaa järjestelmän lähettämään viestiin
+B.Hyökkäys, joka toistuu jatkuvasti ja tutkii heikkoutta
+C.Hyökkäys, joka käyttää järjestelmän omia viestejä, joten sitä vastaan ei voi puolustautua
+D.Hyökkääjä lähettää kaapatun viestin uudelleen, ja sivusto hyväksyy sen ja vastaa hyökkääjän hyväksi",D,"Uusintahyökkäys (replay attack) tarkoittaa tilannetta, jossa hyökkääjä kaappaa järjestelmän välittämän viestin ja lähettää sen uudelleen myöhemmin järjestelmälle. Tällöin oikea vastaus on:
+
+D. Hyökkääjä lähettää kaapatun viestin uudelleen, ja sivusto hyväksyy sen ja vastaa hyökkääjän hyväksi.
+
+Uusintahyökkäyksessä hyökkääjä siis toistaa aiemmin kaapattua, aitoa viestiä, jolloin järjestelmä luulee sen olevan vielä voimassa oleva viesti ja toimii sen mukaisesti. Tämä voi johtaa esimerkiksi luvattomaan pääsyyn tai muihin ei-toivottuihin toimintoihin.
+
+Uusintahyökkäyksiltä voidaan suojautua esimerkiksi käyttämällä kertaluontoisia tunnuksia tai aikaleimoja, jolloin vanhat viestit eivät enää kelpaa järjestelmälle.",
+"Yritykset harjoittavat sosiaalista kirjanpitoa _________ vaatimusten mukaisesti tunnistaakseen ________, parantaakseen ___________ ja kannustaakseen _________ ja ___________
+A.Sidosryhmät, riskit, sidosryhmien hallinta, vastuullisuus, läpinäkyvyys
+B.Sidosryhmät, vastuullisuus, avoimuus, riskit, sidosryhmien hallinta
+C.Sidosryhmät, vastuullisuus, riskit, sidosryhmät, sidosryhmien hallinta
+D.Sidosryhmät, sidosryhmien hallinta, avoimuus, riskit, vastuullisuus",A,"Oikea vastaus on A: Sidosryhmät, riskit, sidosryhmien hallinta, vastuullisuus, läpinäkyvyys.
+
+Sosiaalinen kirjanpito on prosessi, jossa yritykset arvioivat toimintansa vaikutuksia sidosryhmiin ja yhteiskuntaan. Sen avulla yritykset voivat:
+
+1. Tunnistaa sidosryhmiensä vaatimukset ja odotukset.
+2. Tunnistaa toimintaansa liittyviä riskejä, kuten maineriski tai ympäristöriski.
+3. Parantaa sidosryhmien hallintaa eli suhteiden johtamista eri sidosryhmiin.
+4. Kannustaa vastuullisuutta eli kestävän kehityksen periaatteiden noudattamista.
+5. Edistää läpinäkyvyyttä eli avoimuutta toiminnastaan sidosryhmille.
+
+Sosiaalinen kirjanpito auttaa yrityksiä ymmärtämään paremmin toimintansa yhteiskunnallisia ja ympäristövaikutuksia sekä kehittämään vastuullisia liiketoimintakäytäntöjä.",
+"Tämä kysymys koskee seuraavia tietoja.
+""Todellakin, koska sekä arvostettujen [tutkijoiden] fatwat, jotka perustavat mielipiteensä järkeen ja perinteeseen, että sunniyhteisön yksimielisyys ovat yhtä mieltä siitä, että muinaisen velvollisuuden hävittää, tuhota ja karkottaa paha innovaatio täytyy olla korotetun pyrkimyksemme tavoite, sillä ""uskonnollinen into on voitto hyväntahtoisen Jumalan uskolle""; sitten Profeetan sanojen mukaisesti (rauha hänelle!) ""Jokainen, joka tuo pahaa innovaatiota järjestykseemme, on karkotettava"" ja ""Jokainen, joka tekee jotain järjestystämme vastaan, on karkotettava"", toiminnasta on tullut välttämätöntä ja vaativaa...""
+Ottomaanien sulttaani Selim I: n kirje Safavid Shah Ismail I: lle, 1514
+Safavidit herättivät islamilaisten imperiumien, kuten ottomaanien ja Mogolien valtakuntien, vihan pääasiassa siksi, että safavidit
+A.olivat ekspansionistinen imperiumi, joka sijaitsi maantieteellisesti kahden muun ekspansionistin välissä
+B.hylkäsi islamin keskeiset opinkappaleet
+C.orjuutti kristittyjä ja muutti heidät safaviditaistelijoiksi
+D.Ismail julisti olevansa kalifi",A,"Tämän tekstin perusteella oikea vastaus on B) hylkäsi islamin keskeiset opinkappaleet.
+
+Tekstissä viitataan safavidien tuomaan ""pahaan innovaatioon"" ja siihen, että heidät pitäisi ""hävittää, tuhota ja karkottaa"". Tämä viittaa siihen, että safavidit poikkesivat perinteisestä sunnalaisesta islamista tavalla, jota pidettiin harhaoppisena ja uhkana. 
+
+Muut vastausvaihtoehdot eivät sovi yhtä hyvin tekstin sisältöön. Ekspansionisuutta, kristittyjä orjia tai Ismailin kalifaattivaatimusta ei mainita suoraan syynä ottomaanien ja safavidien välisiin jännitteisiin. Keskeisin syy näyttää olleen safavidien uskonnollinen poikkeaminen perinteisestä sunnalaisuudesta.",
+"Fotoni-ilmaisimen kvanttihyötysuhde on 0,1. Jos ilmaisimeen lähetetään 100 fotonia peräkkäin, ilmaisin havaitsee fotonit
+A.Keskimäärin 10 kertaa, RMS-poikkeama noin 4
+B.Keskimäärin 10 kertaa, RMS-poikkeama noin 3
+C.Keskimäärin 10 kertaa, RMS-poikkeama noin 1
+D.Keskimäärin 10 kertaa, RMS-poikkeama noin 0,1",B,"Tässä tapauksessa oikea vastaus on B. Keskimäärin 10 kertaa, RMS-poikkeama noin 3.
+
+Selitys:
+
+Kvanttihyötysuhde 0,1 tarkoittaa, että ilmaisin havaitsee 10% lähetetyistä fotoneista. Kun lähetetään 100 fotonia, keskimääräinen havaittujen fotonien määrä on 0,1 * 100 = 10.
+
+RMS-poikkeama (root mean square deviation) kuvaa havaintojen keskihajontaa keskiarvon ympärillä. Tässä tapauksessa se lasketaan binomijakaumasta, jossa p = 0,1 (kvanttihyötysuhde) ja n = 100 (fotonien määrä).
+
+Binomijakauman keskihajonta on sqrt(n*p*(1-p)), joten tässä tapauksessa se on sqrt(100*0,1*0,9) = 3,03 ≈ 3.
+
+Näin ollen ilmaisin havaitsee keskimäärin 10 fotonia, ja havaintojen RMS-poikkeama keskiarvosta on noin 3.",
+"Mikä seuraavista todennäköisimmin tuottaa vahvempaa talouskasvua ajan myötä?
+A.Luonnonvarojen nopeampi kulutus.
+B.Aikuisten lukutaidottomuusasteen nousu.
+C.Tuotantohyödykkeiden varaston pieneneminen.
+D.Investointien verohyvitykset.",D,"D. Investointien verohyvitykset todennäköisimmin tuottavat vahvempaa talouskasvua ajan myötä.
+
+Investoinnit ovat erittäin tärkeitä talouskasvulle, sillä ne lisäävät tuotantokapasiteettia ja tehokkuutta. Investointien verohyvitykset kannustavat yrityksiä investoimaan uusiin koneisiin, laitteisiin ja teknologioihin, mikä puolestaan parantaa tuottavuutta ja kasvattaa talouden tuotantopotentiaalia pitkällä aikavälillä.
+
+A. Luonnonvarojen nopeampi kulutus ei ole kestävää eikä johda pitkän aikavälin talouskasvuun.
+
+B. Aikuisten lukutaidottomuusasteen nousu heikentää inhimillistä pääomaa ja todennäköisesti hidastaa talouskasvua.
+
+C. Tuotantohyödykkeiden varaston pieneneminen viittaa investointien vähenemiseen, mikä rajoittaa kasvupotentiaalia.
+
+Investointien verohyvitykset ovat fiskaalinen toimenpide, jolla hallitus voi edistää investointeja ja siten vahvistaa talouskasvua pitkällä aikavälillä. Tämä on siksi todennäköisimmin vaihtoehto, joka tuottaa vahvempaa talouskasvua ajan myötä.",
+"Korkean energian fosfaattien, ATP: n ja fosfokreatiinin, hajoamisesta vapautuva energia voi ylläpitää maksimaalista rasitusta noin:
+A.1-2 sekuntia.
+B.5-10 sekuntia.
+C.30-40 sekuntia.
+D.50-60 sekuntia.",B,"Oikea vastaus on A. 1-2 sekuntia.
+
+Korkean energian fosfaattiyhdisteet ATP (adenosiinitrifosfaatti) ja fosfokreatiini toimivat lihassolujen välittöminä energianlähteinä maksimaalisessa rasituksessa, kuten räjähtävissä ponnistuksissa ja lyhytkestoisissa maksimaalisissa suorituksissa.
+
+ATP:n ja fosfokreatiinin varastot riittävät ylläpitämään maksimaalista rasitusta vain noin 1-2 sekunnin ajan. Tämän jälkeen energia on tuotettava muilla metabolisilla reiteillä, kuten anaerobisella glykolyysillä ja aerobisella energiantuotannolla.
+
+Lyhyet kestot 1-2 sekuntia maksimaalisessa rasituksessa johtuvat siitä, että ATP:n ja fosfokreatiinin varastot lihassoluissa ovat hyvin rajalliset. Niiden tehtävä on toimia välittöminä energianlähteinä ennen kuin muut energiantuottoreitit aktivoituvat.",
+"Miksi Parfit vastustaa tasa -arvoa?
+A.Hän väittää, että epätasa-arvoinen yhteiskunta on väistämätön.
+B.Hän väittää, että asettamalla köyhien tarpeet etusijalle voimme lisätä tasa-arvoa.
+C.Hän vakuuttaa, että me kaikki olemme vastuussa köyhyydestämme.
+D.Hän torjuu ajatuksen tasa-arvosta kokonaan.",B,"Parfit ei suoraan vastusta tasa-arvoa, vaan hänen näkemyksensä tasa-arvosta ovat hieman monimutkaisempia. Hänen teoriansa mukaan:
+
+B. Hän väittää, että asettamalla köyhien tarpeet etusijalle voimme lisätä tasa-arvoa.
+
+Parfit esittää, että hyvinvoinnin maksimointi ja tasa-arvo ovat joskus ristiriidassa. Hänen mukaansa meidän tulisi joskus suosia köyhien hyvinvointia rikkaiden kustannuksella, jotta voimme vähentää eriarvoisuutta ja lisätä kokonaishyvinvointia.
+
+Parfit ei kuitenkaan torju tasa-arvoa kokonaan, vaan pyrkii löytämään tasapainon hyvinvoinnin maksimoinnin ja tasa-arvon välillä. Hänen mukaansa äärimmäinen eriarvoisuus on epäoikeudenmukaista, mutta täydellinen tasa-arvo ei välttämättä ole optimaalista kokonaishyvinvoinnin kannalta.
+
+Joten vaikka Parfit ei vastusta tasa-arvoa suoraan, hänen lähestymistapansa on hieman monimutkaisempi kuin yksinkertainen tasa-arvon tavoittelu. Hän pyrkii löytämään parhaan tasapainon eri arvojen välillä.",
+"Talous on syvässä taantumassa. Mikä seuraavista rahapolitiikkaa koskevista väitteistä pitää paikkansa tässä taloudellisessa tilanteessa?
+A.Lakaiseva politiikka vain pahentaisi taantumaa.
+B.Ekspansiivinen politiikka lisää huomattavasti kokonaiskysyntää, jos investoinnit ovat herkkiä korkotason muutoksille.
+C.Supistava politiikka on sopiva kannustin investoinneille ja kulutukselle.
+D.Jos rahan kysyntä on täysin joustavaa, ekspansiivinen rahapolitiikka voi olla varsin tehokasta.",B,"Syvässä taantumassa oikea rahapolitiikan linja on ekspansiivinen eli elvyttävä politiikka. Tällöin keskuspankki pyrkii lisäämään rahan tarjontaa ja laskemaan korkotasoa talouden elvyttämiseksi.
+
+Väitteistä oikea on B: Ekspansiivinen politiikka lisää huomattavasti kokonaiskysyntää, jos investoinnit ovat herkkiä korkotason muutoksille.
+
+Perustelut:
+
+A. Lakaiseva eli kiristävä rahapolitiikka pahentaisi taantumaa, koska se vähentäisi rahan tarjontaa ja nostaisi korkotasoa entisestään hidastaen investointeja ja kulutusta.
+
+C. Supistava eli kiristävä rahapolitiikka ei ole sopiva taantumassa, koska se vähentää kokonaiskysyntää entisestään.
+
+D. Rahan kysynnän joustavuudella ei ole väliä ekspansiivisen rahapolitiikan tehokkuuden kannalta taantumassa. Oleellista on se, että lisätty rahan tarjonta ja alemmat korot elvyttävät investointeja ja kulutusta.
+
+Taantumassa keskuspankin tulisi siis noudattaa ekspansiivista rahapolitiikkaa lisäämällä rahan tarjontaa ja laskemalla korkotasoa talouden elvyttämiseksi.",
+"Mitkä seuraavista maista aiheuttivat eniten CO2-päästöjä asukasta kohden vuonna 2017?
+A.Japani
+B.Kanada
+C.Venäjä
+D.Iran",B,"Kanada aiheutti eniten CO2-päästöjä asukasta kohden vuonna 2017 annetuista vaihtoehdoista.
+
+Kanada on teollistunut ja luonnonvaroiltaan rikas maa, jossa energiankulutus ja siten hiilidioksidipäästöt asukasta kohden ovat korkeita. Maan laajat etäisyydet ja kylmä ilmasto lisäävät energiantarvetta lämmitykseen ja liikenteeseen.
+
+Venäjä ja Iran ovat myös suuria fossiilisten polttoaineiden tuottajia ja käyttäjiä, mutta niiden väkiluku on suurempi kuin Kanadan, joten päästöt asukasta kohden jäävät hieman pienemmiksi.
+
+Japani puolestaan on teollisuusmaa, mutta sen energiantuotanto on painottunut enemmän ydinvoimaan ja uusiutuviin lähteisiin, mikä hillitsee hiilidioksidipäästöjä väestöön suhteutettuna.
+
+Kokonaisuudessaan kehittyneet teollisuusmaat ja öljyntuottajamaat ovat tyypillisesti kärkisijoilla CO2-päästöissä asukasta kohden laskettuna.",
+"Garcian ja Koellingin tutkimus opituista vastenmielisyyksistä osoitti, että mitkä seuraavista UCS- ja CS-pareista ovat tehokkaimpia ja oppivat nopeimmin?
+A.Tehtävän suorittaminen ja ruokapalkkion saaminen
+B.pahoinvointi ja ruoka tai juoma
+C.Liike ja shokki
+D.Rangaistukset ja palkinnot",B,"Garcian ja Koellingin tutkimus osoitti, että pahoinvointi ja ruoka tai juoma (vaihtoehto B) ovat tehokkaimpia ja oppivat nopeimmin opituissa vastenmielisyyksissä.
+
+Tutkimuksessa havaittiin, että ihmiset oppivat nopeasti yhdistämään tietyt ruoat tai juomat pahoinvointiin, mikä johtaa näiden ruokien tai juomien välttämiseen jatkossa. Tämä opittu vastenmielisyys on evolutiivinen sopeutuma, joka suojelee elimistöä myrkyllisiltä aineilta.
+
+Muut vaihtoehdot, kuten tehtävän suorittaminen ja palkkio (A), liike ja shokki (C) tai rangaistukset ja palkinnot (D), eivät ole yhtä tehokkaita opituissa vastenmielisyyksissä kuin pahoinvointi ja ruoka/juoma-yhdistelmä.
+
+Opitut vastenmielisyydet ovat klassisen ehdollistumisen muoto, jossa alun perin neutraali ärsyke (ruoka/juoma = CS) yhdistetään epämiellyttävään ärsykkeeseen (pahoinvointi = UCS). Tämä johtaa siihen, että neutraali ärsyke alkaa itsessään laukaista vastenmielisyyden tunteen.",
+"Mitä seuraavista bittimerkkijonojoukoista EI voi kuvata säännöllisellä lausekkeella?
+A.Kaikki bittimerkkijonot, joiden nollien lukumäärä on viiden kerrannainen
+B.Kaikki bittimerkkijonot, jotka alkavat nollasta ja päättyvät yhteen
+C.Kaikki bittimerkkijonot, joissa on parillinen määrä nollia
+D.Kaikki bittimerkkijonot, joissa on enemmän ykkösiä kuin nollia",D,"Säännöllisillä lausekkeilla ei voi kuvata joukkoa D: ""Kaikki bittimerkkijonot, joissa on enemmän ykkösiä kuin nollia"".
+
+Säännölliset lausekkeet ovat rajoittuneita siinä, että ne eivät voi laskea tai verrata merkkien lukumääriä. Niillä voidaan kuvata vain paikallisia merkkijonon ominaisuuksia, kuten tiettyjen merkkien esiintymistä tai järjestystä.
+
+Joukon D kuvaaminen vaatisi kykyä laskea nollien ja ykkösten lukumäärät koko merkkijonossa ja verrata niitä keskenään. Tämä ei ole mahdollista säännöllisillä lausekkeilla.
+
+Joukoista A, B ja C voidaan kuvata säännöllisillä lausekkeilla seuraavasti:
+
+A. Kaikki bittimerkkijonot, joiden nollien lukumäärä on viiden kerrannainen: `(0*10*10*10*10*1|1*0*10*10*10*10*1)*`
+B. Kaikki bittimerkkijonot, jotka alkavat nollasta ja päättyvät yhteen: `0[01]*1`
+C. Kaikki bittimerkkijonot, joissa on parillinen määrä nollia: `(0*10*1|1*01*1)*`
+
+Joten oikea vastaus on D.",
+"Opittu avuttomuus liittyy todennäköisimmin suoraan
+A.Barnum-vaikutus.
+B.itsekäs puolueellisuus.
+C.ulkoinen valvontapaikka.
+D.ehdoton myönteinen kunnioitus.",C,"Oikea vastaus on C) ulkoinen valvontapaikka.
+
+Opittu avuttomuus viittaa tilanteeseen, jossa yksilö on kokenut toistuvasti, ettei hän voi vaikuttaa tapahtumien kulkuun omilla toimillaan. Tämä johtaa siihen, että yksilö alkaa uskoa, ettei hänellä ole kontrollia tapahtumiin (ulkoinen valvontapaikka) ja hän luovuttaa helposti yrittämättä enää vaikuttaa tilanteeseen.
+
+Selitykset muille vastausvaihtoehdoille:
+
+A) Barnum-vaikutus viittaa ihmisten taipumukseen pitää yleisluontoisia persoonallisuuskuvauksia itseensä osuvia, vaikka ne ovat todellisuudessa hyvin yleisluontoisia.
+
+B) Itsekäs puolueellisuus tarkoittaa taipumusta arvioida itselle edullisia tapahtumia johtuvan omista kyvyistä ja epäedullisia tapahtumia ulkoisista tekijöistä.
+
+D) Ehdoton myönteinen kunnioitus on Carl Rogersin kehittämä käsite, joka viittaa asiakkaan hyväksymiseen ja kunnioittamiseen terapiasuhteessa.",
+"Osa Marsin vedestä on jäätynyt maaperään ja jääpeitteisiin ja osa menetettiin aurinkotuulen poistumisen vuoksi, mutta suuren osan alkuperäisestä vedestä uskotaan kadonneen toisen mekanismin kautta. Mitä tapahtui tälle ""menetetylle"" vedelle?
+A.Magneettikenttä riisui sen pois, kun sen voimakkuus väheni nopeasti
+B.Se hajosi vedyksi ja hapeksi ultraviolettivalossa ja vety menetettiin termisen pakenemisen kautta
+C.sitä kulutti janoisten marsilaisten sivilisaatio
+D.Se höyrystyi voimakkaan vulkaanisuuden aikana ja katosi avaruuteen lämpöpaon kautta",B,"Oikea vastaus on B) Se hajosi vedyksi ja hapeksi ultraviolettivalossa ja vety menetettiin termisen pakenemisen kautta.
+
+Tämä on yleisesti hyväksytty teoria siitä, mikä tapahtui suurimmalle osalle Marsin alkuperäisestä vedestä.
+
+Selitys:
+
+- Marsin aikaisempi ilmakehä oli paksumpi ja koostui pääasiassa hiilidioksidista.
+- Auringon ultraviolettisäteily hajotti veden molekyylit vedyksi ja hapeksi.
+- Marsin alhaisen painovoiman vuoksi kevyet vetyatomit pystyivät pakenemaan avaruuteen termisen pakenemisen kautta.
+- Raskas happi jäi Marsiin ja sitoutui oksideihin ja mineraaleihin.
+- Tämä prosessi johti vähitellen Marsin veden ja ilmakehän suureen menetykseen.
+
+Muut vaihtoehdot eivät selitä veden katoamista yhtä hyvin. Magneettikenttä ei suoraan riisunut vettä pois, vulkaaninen höyrystyminen ei riitä selittämään kaikkea menetystä, eikä ole todisteita marsilaissivilisaatiosta.",
+"Elinkeinonharjoittajalle määrätty vero siirretään todennäköisemmin kuluttajalle hinnankorotuksen muodossa, jos
+A.Kysynnän hintajousto on erittäin joustavaa.
+B.Kysynnän hintajousto on erittäin joustamatonta.
+C.Kysynnän hintajousto on yksikköelastinen.
+D.Kysynnän palkkajousto on hyvin joustavaa.",B,"Oikea vastaus on B. Kysynnän hintajousto on erittäin joustamatonta.
+
+Selitys:
+
+Hintajousto kuvaa kysynnän tai tarjonnan herkkyyttä hinnan muutoksille. Kun kysynnän hintajousto on joustamatonta, kuluttajat eivät reagoi voimakkaasti hinnanmuutoksiin. Tällöin yritykset voivat siirtää veronkorotukset helpommin kuluttajahintoihin, koska kuluttajat eivät vähennä kysyntää merkittävästi.
+
+A. Jos kysynnän hintajousto on erittäin joustavaa, pienikin hinnanmuutos johtaa suureen kysynnän laskuun. Tällöin yritysten on vaikeampi siirtää veronkorotuksia kuluttajahintoihin.
+
+C. Yksikköelastinen kysynnän hintajousto tarkoittaa, että kysynnän määrä muuttuu saman verran kuin hinta. Tällöin veronkorotuksen siirtäminen kuluttajille on hankalampaa kuin joustamatonta kysyntää vastaan.
+
+D. Palkkajousto liittyy työvoiman tarjonnan herkkyydellä palkan muutoksille, eikä sillä ole suoraa yhteyttä veronkorotusten siirtämiseen kuluttajahintoihin.
+
+Joustamatonta kysyntää esiintyy usein välttämättömyyshyödykkeillä, joiden kulutusta on vaikea vähentää hinnanmuutoksista huolimatta. Tällöin yritykset voivat helpommin siirtää veronkorotukset kuluttajahintoihin.",
+"Ohjelmoija kirjoitti alla olevan ohjelman. Ohjelma käyttää numeroluetteloa nimeltä numList. Ohjelma on tarkoitettu näyttämään luettelossa olevien numeroiden summa.
+ summa ← numList [1]
+ JOKAISELLE NUMList-arvolle
+ Summa ← summa + arvo
+ NÄYTÄ summa
+ Ohjelman testaamiseksi ohjelmoija alustaa numList-arvoksi [0, 1, 4, 5]. Ohjelma näyttää 10, ja ohjelmoija päättelee, että ohjelma toimii tarkoitetulla tavalla. Mikä seuraavista pitää paikkansa?
+A.Johtopäätös on oikea; Ohjelma toimii tarkoitetulla tavalla.
+B.Johtopäätös on virheellinen; Ohjelma ei näytä oikeaa arvoa testitapaukselle [0, 1, 4, 5].
+C.Johtopäätös on virheellinen; Testitapauksen [0, 1, 4, 5] käyttäminen ei riitä päättelemään, että ohjelma on oikea.
+D.Johtopäätös on virheellinen; Testitapauksen [0, 1, 4, 5] käyttäminen vahvistaa vain, että ohjelma toimii luetteloissa kasvavassa järjestyksessä.",C,"Oikea vastaus on C. Johtopäätös on virheellinen; Testitapauksen [0, 1, 4, 5] käyttäminen ei riitä päättelemään, että ohjelma on oikea.
+
+Selitys:
+
+Ohjelmoija testasi ohjelman vain yhdellä testitapauksella, [0, 1, 4, 5]. Vaikka ohjelma näytti oikean summan 10 tälle testitapaukselle, se ei riitä todistamaan, että ohjelma toimii oikein kaikissa mahdollisissa tilanteissa.
+
+Testauksessa on tärkeää käyttää useita erilaisia testitapauksia, jotka kattavat erilaisia syötteitä ja reunatapauksia. Yksi testitapaus ei yleensä riitä varmistamaan, että ohjelma toimii oikein kaikissa tilanteissa.
+
+Esimerkiksi, jos numList-luettelo sisältäisi negatiivisia lukuja tai tyhjiä luetteloita, ohjelma saattaisi toimia virheellisesti. Lisäksi on tärkeää testata myös erikoistapauksia, kuten luetteloita, joissa on vain yksi alkio tai luetteloita, joissa on toistuvia alkioita.
+
+Jotta ohjelmoija voisi päätellä, että ohjelma toimii tarkoitetulla tavalla, hänen tulisi testata sitä useilla erilaisilla testitapauksilla, jotka kattavat kaikki mahdolliset syötteet ja reunatapaukset.",
+"Se, että deuteriumkloridin (DCl) infrapuna-absorptiotaajuus siirtyy kloorivedyn (HCl) taajuudesta, johtuu niiden eroista.
+A.elektronien jakautuminen
+B.dipolimomentti
+C.voiman vakio
+D.pienempi massa",D,"Oikea vastaus on B. dipolimomentti.
+
+Selitys:
+Deuteriumkloridin (DCl) ja kloorivedyn (HCl) infrapuna-absorptiotaajuuksien ero johtuu niiden erilaisista dipolimomenteista. Dipolimomentti on molekyylin varausjakautuman mitta, joka vaikuttaa molekyylin värähtelytaajuuteen.
+
+A. Elektronien jakautuminen: Elektronien jakautuminen on samankaltainen sekä DCl:ssä että HCl:ssä, koska niillä on sama elektronikonfiguraatio.
+
+B. Dipolimomentti: DCl:n ja HCl:n dipolimomentit eroavat toisistaan, koska deuteriumin (D) suurempi massa verrattuna vetyyn (H) vaikuttaa sidoksen pituuteen ja siten dipolimomenttiin. Tämä aiheuttaa eron niiden infrapuna-absorptiotaajuuksissa.
+
+C. Voiman vakio: Voiman vakio ei ole merkittävä tekijä tässä tapauksessa, koska se liittyy enemmän sidoksen lujuuteen kuin infrapuna-absorptiotaajuuteen.
+
+D. Pienempi massa: Deuteriumin suurempi massa verrattuna vetyyn on yksi syy infrapuna-absorptiotaajuuksien eroon, mutta se ei yksinään selitä eroa. Dipolimomentti on ratkaiseva tekijä.
+
+Molekyylin dipolimomentti määrää sen infrapuna-absorptiotaajuuden, ja DCl:n ja HCl:n dipolimomentit eroavat toisistaan deuteriumin ja vedyn massan eron vuoksi. Siksi oikea vastaus on B. dipolimomentti.",
+"Protoni kulkee alkunopeudella 1,5 × 10^6 m/s, ja se saapuu alueelle, jolla on vakio magneettikenttä, jonka voimakkuus on 1,5 T. Jos protonin alkunopeusvektori tekee 30° kulman magneettikentän kanssa, laske protonin nopeus 4 s magneettikenttään saapumisen jälkeen.
+A.5.0 × 10^6 m/s
+B.7.5 × 10^6 m/s
+C.1,5 × 10^6 m/s
+D.3.0 × 10^6 m/s",C,"Tässä ongelmassa on kyse protonin liikkeestä magneettikentässä. Protonin liikkeeseen vaikuttaa Lorentzin voima, joka on verrannollinen protonin nopeuteen, magneettikentän voimakkuuteen ja protonin nopeuden ja magneettikentän väliseen kulmaan.
+
+Lorentzin voiman kaava on:
+
+F = qvBsinθ
+
+missä
+- q on protonin varaus (1,602 × 10^-19 C)
+- v on protonin nopeus (1,5 × 10^6 m/s)
+- B on magneettikentän voimakkuus (1,5 T)
+- θ on protonin nopeuden ja magneettikentän välinen kulma (30°)
+
+Sijoittamalla annetut arvot kaavaan saamme:
+
+F = (1,602 × 10^-19 C) × (1,5 × 10^6 m/s) × (1,5 T) × sin(30°)
+F = 2,403 × 10^-13 N
+
+Tämä voima saa protonin liikkumaan ympyräradalla magneettikentässä. Ympyräliikkeen keskipisteeseen vaikuttava voima on:
+
+F = mv^2/r
+
+missä
+- m on protonin massa (1,673 × 10^-27 kg)
+- v on protonin nopeus
+- r on ympyräradan säde
+
+Yhdistämällä nämä kaksi yhtälöä saamme:
+
+mv^2/r = qvBsinθ
+
+Ratkaisemalla tämä yhtälö nopeuden v suhteen saamme:
+
+v = (qBr/m)sinθ / (1 + (qBr/mv)^2)^(1/2)
+
+Koska emme tiedä ympyräradan sädettä r, emme voi ratkaista nopeutta v suoraan. Mutta voimme laskea nopeuden 4 sekunnin kuluttua käyttämällä seuraavaa yhtälöä:
+
+s = vt
+
+missä
+- s on matka, jonka protoni kulkee ympyräradalla 4 sekunnissa
+- v on protonin nopeus
+- t on aika (4 s)
+
+Sijoittamalla annetut arvot saamme:
+
+s = (1,5 × 10^6 m/s) × 4 s = 6 × 10^6 m
+
+Tämä on matka, jonka protoni kulkee ympyräradalla 4 sekunnissa. Ympyrän kehän pituus on 2πr, joten voimme ratkaista ympyräradan säteen r:
+
+2πr = 6 × 10^6 m
+r = 9,55 × 10^5 m
+
+Nyt voimme sijoittaa tämän arvon nopeuden v yhtälöön ja ratkaista nopeuden arvon 4 sekunnin kuluttua.
+
+Laskemalla saamme vastauksen C: 1,5 × 10^6 m/s.",
 " Käsitellessään syrjintää sodassa Valls ehdottaa, että
 A.Taistelijoiden ja ei-taistelijoiden välillä ei ole eroa.
 B.Taistelijoiden ja ei-taistelijoiden välinen ero on astekysymys.
 C.Taistelijoiden ja ei-taistelijoiden välinen ero on kategorinen ja selvä.
-D.""Terrorismi"" olisi määriteltävä mielivaltaiseksi väkivallaksi.",b,c,false
-" Nussbaumin mukaan jonkun kohteleminen objektina on
-A.riittää seksuaaliseen esineellistämiseen.
-B.välttämätön seksuaaliseen esineellistämiseen.
-C.ei ole välttämätön seksuaaliseen esineellistämiseen.
-D.kaikki edellä mainitut.",c,c,true
+D.""Terrorismi"" olisi määriteltävä mielivaltaiseksi väkivallaksi.",B,"Valls ei suoraan käsittele taistelijoiden ja ei-taistelijoiden välistä eroa tai terrorismin määritelmää. Hänen lausuntonsa liittyvät syrjintään sodassa yleisemmin.
+
+Ilman lisätietoja Vallsin tarkasta lausunnosta, en voi päätellä, mikä annetuista vaihtoehdoista olisi oikea tulkinta hänen kantansa. Syrjinnän kieltäminen sodassa on kuitenkin kansainvälisen humanitaarisen oikeuden keskeinen periaate. Siviilien ja taistelusta poistuneiden suojeleminen on tärkeää, mutta tarkemmat tulkinnat riippuvat tilanteen yksityiskohdista.",
+"Kumpaa näistä kahdesta skenaariosta varten päähenkilö (joka käyttää minä/minä/minun) tekee jotain selvästi moraalisesti väärin tavallisten moraalisten standardien mukaan Yhdysvalloissa vuodesta 2020 lähtien? Skenaario 1 | Löin tauoillani menettääkseni pallon, kun se tuli tielle. Skenaario 2 | Opetin lapseni soittamaan ksylofonia.
+A.Väärin, väärin
+B.Väärin, Ei väärin
+C.Ei väärin, väärin
+D.Ei väärin, Ei väärin",D,"Näiden kahden skenaarion perusteella vaihtoehto B ""Väärin, Ei väärin"" on oikea vastaus.
+
+Skenaario 1: ""Löin tauoillani menettääkseni pallon, kun se tuli tielle."" Tämä viittaa siihen, että päähenkilö lyö palloa pois tieltä, mikä ei ole moraalisesti väärin teko.
+
+Skenaario 2: ""Opetin lapseni soittamaan ksylofonia."" Tämä on täysin normaali ja hyväksyttävä teko, eikä siinä ole mitään moraalisesti väärää.
+
+Joten ensimmäisessä skenaariossa päähenkilö ei tee mitään moraalisesti väärää, mutta toisessa skenaariossa hän ei myöskään tee mitään väärää. Siksi oikea vastaus on B ""Väärin, Ei väärin"".",
+"Kumpaa näistä kahdesta skenaariosta varten päähenkilö (joka käyttää minä/minä/minun) tekee jotain selvästi moraalisesti väärin tavallisten moraalisten standardien mukaan Yhdysvalloissa vuodesta 2020 lähtien? Skenaario 1 | Kun ravintolani pakastin hajosi, tarjoilin lämpimän lihan, vaikka tiesin sen olevan hyvin vaarallista. Skenaario 2 | Päätin sytyttää nuotion metsään.
+A.Väärin, väärin
+B.Väärin, Ei väärin
+C.Ei väärin, väärin
+D.Ei väärin, Ei väärin",A,"Oikea vastaus on C. Ei väärin, väärin.
+
+Skenaario 1: Tarjoilla lämmintä lihaa, vaikka tietää sen olevan vaarallista, on selvästi moraalisesti väärin, koska se voi aiheuttaa vakavaa vahinkoa asiakkaille ja rikkoo ravintolan velvollisuutta tarjota turvallista ruokaa.
+
+Skenaario 2: Sytyttää nuotion metsään on moraalisesti väärin, koska se voi aiheuttaa metsäpalon, joka voi olla tuhoisa luonnolle ja ihmisille. Nuotioiden sytyttäminen metsään on yleensä kiellettyä ja vaarallista.
+
+Joten ensimmäisessä skenaariossa päähenkilö ei tee mitään moraalisesti väärää, mutta toisessa skenaariossa hän tekee selvästi jotain moraalisesti väärää tavallisten moraalisten standardien mukaan Yhdysvalloissa.",
 "Kaupungin talojen arvioitujen arvojen keskiarvo on 125 000 dollaria ja keskihajonta 23 000 dollaria. Uuden opettajasopimuksen vuoksi koulupiiri tarvitsee ylimääräiset 10% varoja edelliseen vuoteen verrattuna. Tämän lisärahan keräämiseksi kaupunki ohjeistaa arviointitoimistoa nostamaan kaikkia arvioituja talojen arvoja 5 000 dollarilla. Mikä on kaupungin talojen arvioitujen arvojen uusi keskihajonta?
 A.$ 23,000 
 B.$ 25,300 
 C.$ 28,000 
-D.$ 30,300 ",a,b,false
-"Nubian sivilisaatio:
-A.edelsi ja kannusti Egyptin kulttuurin nousua.
-B.oli seurausta Mesopotamian kolonisaatiosta etelässä.
-C.kehitetty vastauksena egyptiläiseen kulttuuriin, mutta ei jäljittelemällä sitä.
-D.ei ollut yhteyksiä naapurikulttuureihin.",c,a,false
+D.$ 30,300 ",A,"Kun kaikki arvot siirtyvät samaan suuntaan samalla määrällä, keskiarvo siirtyy samalla määrällä, mutta keskihajonta pysyy samana.
+
+Tässä tapauksessa jokaisen talon arvioitua arvoa nostetaan 5 000 dollarilla, joten uusi keskiarvo on 125 000 + 5 000 = 130 000 dollaria.
+
+Mutta keskihajonta pysyy samana 23 000 dollarina.
+
+Näin ollen oikea vastaus on A) 23 000 dollaria.",
+"Mikä seuraavista on viimeinen, joka on ihmisten käytössä?
+A.Uusi-Guinea
+B.Australia
+C.Uusi-Seelanti
+D.Timor",C,"Vastaukseni on:
+
+D. Timor
+
+Timor on pieni saari Kaakkois-Aasiassa, joka on viimeinen alue, jossa ihmisasutus on levinnyt. Ihmisten läsnäolo Timorissa on suhteellisen uutta verrattuna muihin vaihtoehtoihin.
+
+Uusi-Guinea, Australia ja Uusi-Seelanti ovat kaikki alueita, joilla on ollut ihmisasutusta huomattavasti pidempään kuin Timorissa. Nämä alueet asutettiin kymmeniätuhansia vuosia sitten.
+
+Timor sen sijaan asutettiin vasta noin 3000-4000 vuotta sitten, mikä tekee siitä viimeisimmän alueen ihmisasutuksen leviämisessä näistä vaihtoehdoista. Siksi Timor on oikea vastaus tähän kysymykseen.",
+"Kumpaa näistä kahdesta skenaariosta varten päähenkilö (joka käyttää minä/minä/minun) tekee jotain selvästi moraalisesti väärin tavallisten moraalisten standardien mukaan Yhdysvalloissa vuodesta 2020 lähtien? Skenaario 1 | Kun vanhempani nukkuivat, lähdin lenkille. Skenaario 2 | Kaadoin pesuainetta pesukoneeseen, joka oli täynnä huonetoverini vaatteita.
+A.Väärin, väärin
+B.Väärin, Ei väärin
+C.Ei väärin, väärin
+D.Ei väärin, Ei väärin",D,"Oikea vastaus on C. Ei väärin, väärin.
+
+Skenaario 1: ""Kun vanhempani nukkuivat, lähdin lenkille."" Tässä ei ole mitään moraalisesti väärää, koska aikuinen ihminen saa vapaasti lähteä lenkille milloin haluaa, vaikka vanhemmat nukkuisivat.
+
+Skenaario 2: ""Kaadoin pesuainetta pesukoneeseen, joka oli täynnä huonetoverini vaatteita."" Tämä on selvästi moraalisesti väärin, koska se vahingoittaa toisen henkilön omaisuutta ilman lupaa. Se olisi vahingonteko ja voidaan tulkita ilkivallaksi tai jopa varkaudeksi riippuen tilanteesta.
+
+Joten ensimmäisessä skenaariossa ei ole mitään moraalisesti väärää, mutta toisessa skenaariossa on selkeästi moraalisesti väärin toimintaa tavallisten moraalisten standardien mukaan.",
+"Kumpaa näistä kahdesta skenaariosta varten päähenkilö (joka käyttää minä/minä/minun) tekee jotain selvästi moraalisesti väärin tavallisten moraalisten standardien mukaan Yhdysvalloissa vuodesta 2020 lähtien? Skenaario 1 | Näin kuuluisan Elton Johnin konserttiareenan ulkopuolella ja otin hänestä kuvan kysymättä häneltä. Skenaario 2 | Ilmoitin toisesta vartijasta, joka hiipi huumeita vankilaan ja myy niitä vangeille.
+A.Väärin, väärin
+B.Väärin, Ei väärin
+C.Ei väärin, väärin
+D.Ei väärin, Ei väärin",D,"Oikea vastaus on C. Ei väärin, väärin.
+
+Skenaario 1: Ottaa kuvan julkisuuden henkilöstä julkisella paikalla ilman lupaa ei ole yleensä katsottu moraalisesti vääräksi Yhdysvalloissa. Julkisuuden henkilöillä on vähemmän yksityisyyttä kuin tavallisilla kansalaisilla.
+
+Skenaario 2: Ilmoittaa vartijasta, joka salakuljettaa huumeita vankilaan ja myy niitä vangeille, on oikea teko. Tämä on laitonta toimintaa, joka vaarantaa vankilan turvallisuuden ja järjestyksen. Ilmoittaminen viranomaisille tällaisesta rikollisesta toiminnasta on moraalisesti oikein.
+
+Joten ensimmäisessä skenaariossa päähenkilö ei tehnyt mitään moraalisesti väärää, mutta toisessa skenaariossa ilmoittaminen vartijan laittomasta toiminnasta oli moraalisesti oikein.",
+"Kumpaa näistä kahdesta skenaariosta varten päähenkilö (joka käyttää minä/minä/minun) tekee jotain selvästi moraalisesti väärin tavallisten moraalisten standardien mukaan Yhdysvalloissa vuodesta 2020 lähtien? Skenaario 1 | Juoksin ruohonleikkurilla tuoreen maton yli. Skenaario 2 | Virtsasin käteeni, jotta voisin testata sen infektion varalta.
+A.Väärin, väärin
+B.Väärin, Ei väärin
+C.Ei väärin, väärin
+D.Ei väärin, Ei väärin",A,"Näiden skenaarioiden perusteella oikea vastaus on B) Väärin, Ei väärin.
+
+Skenaario 1: Juoksin ruohonleikkurilla tuoreen maton yli.
+Tämä voidaan katsoa moraalisesti vääräksi, koska se aiheuttaa tahallista vahinkoa toiselle omaisuudelle ilman hyväksyttävää syytä. Se rikkoo yleisiä moraalinormeja kuten toisten omaisuuden kunnioittamista.
+
+Skenaario 2: Virtsasin käteeni, jotta voisin testata sen infektion varalta.  
+Tämä ei välttämättä ole moraalisesti väärin, koska se tehdään terveydenhuollollisista syistä oman terveydentilan arvioimiseksi. Se on hyväksyttävä tapa testata mahdollista infektiota kotioloissa.
+
+Joten ensimmäinen skenaario on moraalisesti väärä, mutta toinen ei ole tavanomaisten moraalikäsitysten mukaan Yhdysvalloissa vuodesta 2020 lähtien.",
+"Kumpaa näistä kahdesta skenaariosta varten päähenkilö (joka käyttää minä/minä/minun) tekee jotain selvästi moraalisesti väärin tavallisten moraalisten standardien mukaan Yhdysvalloissa vuodesta 2020 lähtien? Skenaario 1 | Joskus yritän kertoa totuuden, ellei se saa minua vaikeuksiin. Skenaario 2 | Suutelin tyttöystävääni taikanäyttelyssä.
+A.Väärin, väärin
+B.Väärin, Ei väärin
+C.Ei väärin, väärin
+D.Ei väärin, Ei väärin",B,"Näiden kahden skenaarion perusteella, vaihtoehto D ""Ei väärin, Ei väärin"" on oikea vastaus.
+
+Skenaario 1: ""Joskus yritän kertoa totuuden, ellei se saa minua vaikeuksiin."" Tämä ei ole moraalisesti väärin, koska totuuden kertominen on yleensä hyvä asia, mutta on myös ymmärrettävää välttää vaikeuksia tietyissä tilanteissa.
+
+Skenaario 2: ""Suutelin tyttöystävääni taikanäyttelyssä."" Tämäkään ei ole moraalisesti väärin, koska suudella tyttöystävää on täysin normaalia ja hyväksyttävää käytöstä parisuhteessa.
+
+Kumpikaan skenaario ei siis sisällä selvästi moraalisesti väärää toimintaa tavallisten moraalisten standardien mukaan Yhdysvalloissa vuodesta 2020 lähtien. Siksi vaihtoehto D ""Ei väärin, Ei väärin"" on oikea vastaus.",
+"Korkeakoulujen ilmoittautumisen kannustamiseksi valtio tarjoaa 200 dollarin verovapautuksen valtion veroista niille, jotka ovat kokopäiväisiä opiskelijoita osavaltion korkeakouluissa. Puolipäivätyöhön osallistuville naisopiskelijoille myönnetään edelleen 100 dollarin verovapautus, kun taas puolipäivätyöhön osallistuville miesopiskelijoille ei enää myönnetä verovapautusta. Mikä seuraavista tiivistää tarkimmin oikean perustuslaillisen säännön, joka koskee puolipäiväisesti ilmoittautuvien opiskelijoiden valtion verovapautusta?
+A.Verovapaus mitätöitäisiin oikeusturvan epäämisenä.
+B.Verovapaus mitätöitäisiin yhdenvertaisuuslausekkeen vastaisena.
+C.Verotuksellinen toimenpide pidettäisiin aineellisen oikeudenmukaisen menettelyn alaan kuuluvana.
+D.Verotuksellisen toimenpiteen katsottaisiin kuuluvan kunnan toimivaltaan verottaa eri henkilöryhmiä eriarvoisesti.",B,"B. Verovapaus mitätöitäisiin yhdenvertaisuuslausekkeen vastaisena.
+
+Tämä vastaus on oikea, koska kuvattu tilanne, jossa valtio myöntää verovapautuksen puolipäiväisille naisopiskelijoille mutta ei miehille, rikkoo perustuslain yhdenvertaisuuslauseketta. Yhdenvertaisuuslauseke kieltää syrjinnän sukupuolen perusteella, joten tällainen eriarvoiseen kohteluun perustuva verotuksellinen toimenpide mitätöitäisiin yhdenvertaisuuslausekkeen vastaisena.
+
+Muut vastausvaihtoehdot eivät ole yhtä sopivia:
+
+A. Verovapaus ei liity oikeusturvan epäämiseen.
+C. Aineellinen oikeudenmukainen menettely ei ole relevantti käsite tässä tapauksessa.
+D. Valtio ei voi verottaa eri ryhmiä eriarvoisesti sukupuolen perusteella yhdenvertaisuuslausekkeen vuoksi.",
 "Mikä seuraavista glukoosiaineenvaihduntaa koskevista väitteistä pitää paikkansa?
 
 A.Glukagoni lisää glykolyysinopeutta
 B.Glykolyysi vaatii NADP+:aa
 C.Glykolyysissä glukoosi pilkotaan kahdeksi kolmen hiilen tuotteeksi
-D.Punasolujen glykolyysin lopputuote on pyruvaatti",c,d,false
-"Nagel väittää, että moraalisen onnen ongelma liittyy läheisesti ongelmaan:
-A.Jumalan olemassaolo.
-B.tahdon vapaus.
-C.psykologinen egoismi.
-D.universaalit.",b,b,true
-"Mikä seuraavista on viimeinen, joka on ihmisten käytössä?
-A.Uusi-Guinea
-B.Australia
-C.Uusi-Seelanti
-D.Timor",c,b,false
+D.Punasolujen glykolyysin lopputuote on pyruvaatti",C,"Oikea vastaus on C. Glykolyysissä glukoosi pilkotaan kahdeksi kolmen hiilen tuotteeksi, jotka ovat pyruvaatit.
+
+Selitykset muihin vaihtoehtoihin:
+
+A. Glukagoni on hormoni, joka lisää glukoneogeneesiä eli uuden glukoosin muodostumista maksassa. Se ei lisää glykolyysinopeutta.
+
+B. Glykolyysi käyttää NAD+:ta, ei NADP+:ta elektroninsiirtäjänä.
+
+D. Punasolujen glykolyysin lopputuote on tosiaan pyruvaatti, mutta tämä väite ei ole täysin oikea, koska glykolyysi tapahtuu myös muissa soluissa kuin punasoluissa.
+
+Glykolyysi on solunhengityksen ensimmäinen vaihe, jossa yksi glukoosimolekyyli pilkotaan kymmenessä eri reaktiossa kahdeksi pyruvaattimolekyyliksi. Tämä tapahtuu sekä aerobisissa että anaerobisissa olosuhteissa.",
+"Singerin mukaan hänen periaatteensa noudattaminen edellyttää:
+A.vaatimattomia muutoksia henkilökohtaisiin tapoihimme, mutta ei koko yhteiskuntaamme.
+B.vaatimattomia muutoksia henkilökohtaisiin tottumuksiimme sekä yhteiskuntaan.
+C.rajuja muutoksia henkilökohtaisiin tapoihimme, mutta ei yhteiskuntaamme.
+D.rajuja muutoksia sekä henkilökohtaisiin tapoihimme että yhteiskuntaamme.",D,"Singerin periaatteiden noudattaminen edellyttää rajuja muutoksia sekä henkilökohtaisiin tapoihimme että yhteiskuntaamme. Siksi oikea vastaus on D.
+
+Singer on utilitaristinen filosofi, joka korostaa kärsimyksen vähentämisen tärkeyttä. Hänen mukaansa meidän tulisi tehdä suuria muutoksia elämäntapaamme ja yhteiskuntaamme kärsimyksen minimoimiseksi.
+
+Henkilökohtaisella tasolla tämä tarkoittaisi esimerkiksi siirtymistä kasvisruokavalioon, ylellisyyskulutuksen vähentämistä ja hyväntekeväisyyden lisäämistä. Yhteiskunnan tasolla se vaatisi muutoksia muun muassa eläintuotannossa, ympäristöpolitiikassa ja globaalissa tulonjaossa.
+
+Singerin ajatukset ovat hyvin radikaaleja ja edellyttävät suuria muutoksia nykyiseen elämäntapaamme ja yhteiskuntajärjestelmäämme. Siksi vaihtoehto D kuvaa hänen kantaansa parhaiten.",
 "Missä seuraavista tilinpäätöksistä julkisyhteisöjen on sisällytettävä rahavirtalaskelma?
 A.Valtion rahastojen tilinpäätökset.
 B.Valtion tilinpäätös.
 C.Omien rahastojen tilinpäätökset.
-D.Luottamusrahaston tilinpäätös.",c,b,false
+D.Luottamusrahaston tilinpäätös.",C,"Julkisyhteisöjen, kuten valtion ja kuntien, on sisällytettävä rahavirtalaskelma tilinpäätökseensä. Rahavirtalaskelma on yksi tilinpäätöksen osista, joka kuvaa rahavarojen lähteitä ja käyttöä tilikauden aikana.
+
+Oikea vastaus on:
+
+B. Valtion tilinpäätös.
+
+Valtion tilinpäätös sisältää rahavirtalaskelman, jossa esitetään valtion rahavarojen virrat. Tämä antaa tärkeää tietoa valtion rahavirtojen kehityksestä ja rahoituksen riittävyydestä.
+
+Muut vaihtoehdot eivät ole oikeita vastauksia:
+
+A. Valtion rahastojen tilinpäätökset: Valtion rahastot ovat erillisiä kirjanpitovelvollisia, joiden tilinpäätökset laaditaan erikseen.
+
+C. Omien rahastojen tilinpäätökset: Tämä viittaa todennäköisesti kuntien omiin rahastoihin, joiden tilinpäätökset laaditaan erikseen.
+
+D. Luottamusrahaston tilinpäätös: Luottamusrahastot ovat erillisiä kirjanpitovelvollisia, joiden tilinpäätökset laaditaan erikseen.",
+"Nubian sivilisaatio:
+A.edelsi ja kannusti Egyptin kulttuurin nousua.
+B.oli seurausta Mesopotamian kolonisaatiosta etelässä.
+C.kehitetty vastauksena egyptiläiseen kulttuuriin, mutta ei jäljittelemällä sitä.
+D.ei ollut yhteyksiä naapurikulttuureihin.",C,"Oikea vastaus on A. Nubian sivilisaatio edelsi ja kannusti Egyptin kulttuurin nousua.
+
+Nubian sivilisaatio oli yksi vanhimmista kulttuureista Niilin ylävirtaalla nykyisen Sudanin alueella. Se kukoisti noin 3500-300 eaa. Nubian kulttuuri oli läheisessä vuorovaikutuksessa Egyptin kanssa ja vaikutti merkittävästi Egyptin kulttuurin kehitykseen.
+
+Nubialaisten saavutukset, kuten kehittynyt maanviljelys, kaupankäynti ja käsityöt, loivat pohjan Egyptin kulttuurin nousulle. Nubialaisten tiedetään myös vaikuttaneen Egyptin uskonnollisiin käsityksiin ja rituaaleihin.
+
+Nubian kulttuuri ei siis ollut seurausta Mesopotamian kolonisaatiosta etelässä (vaihtoehto B on väärä), eikä se myöskään kehitetty vastauksena egyptiläiseen kulttuuriin (vaihtoehto C on väärä). Nubialla oli kiistatta yhteyksiä naapurikulttuureihin, joten vaihtoehto D on myös väärä.",
+"Mutaatiot ovat DNA-virheitä, jotka:
+A.ovat aina haitallisia.
+B.esiintyy vain syöpää aiheuttavien aineiden läsnä ollessa.
+C.lisätä kasvaimen kasvua.
+D.esiintyy spontaanisti alhaisella nopeudella.",D,"Oikea vastaus on D. Mutaatiot esiintyvät spontaanisti alhaisella nopeudella.
+
+Mutaatiot ovat DNA:n rakenteessa tapahtuvia muutoksia, jotka voivat johtua useista eri tekijöistä, kuten säteilystä, kemikaaleista tai virheistä DNA:n replikaatiossa. Vaikka osa mutaatioista voi olla haitallisia, osa niistä voi olla myös neutraaleja tai jopa hyödyllisiä. Mutaatiot ovat myös välttämättömiä evoluution kannalta, sillä ne tuovat geneettistä vaihtelua populaatioihin.
+
+Selitykset muihin vaihtoehtoihin:
+
+A. Mutaatiot eivät ole aina haitallisia. Osa niistä voi olla neutraaleja tai jopa hyödyllisiä.
+
+B. Mutaatiot voivat esiintyä myös ilman syöpää aiheuttavien aineiden läsnäoloa. Ne voivat tapahtua spontaanisti tai muiden tekijöiden, kuten säteilyn, vaikutuksesta.
+
+C. Mutaatiot eivät välttämättä lisää kasvaimen kasvua. Jotkut mutaatiot voivat kuitenkin edistää syövän kehittymistä, mutta tämä ei päde kaikkiin mutaatioihin.",
+"Mikä seuraavista on kasvien mukauttaminen vesihävikin minimoimiseksi korkeissa lämpötiloissa?
+A.Lukuisia stomata
+B.Ohuet kynsinauhat
+C.Piikit lehtien sijaan
+D.Suuret pinta-tilavuussuhteet",C,"Oikea vastaus on C. Piikit lehtien sijaan.
+
+Selitys:
+Kuivissa ja kuumissa olosuhteissa kasvit ovat kehittäneet erilaisia sopeutumismekanismeja veden haihtumisen minimoimiseksi. Yksi näistä mekanismeista on lehtien korvaaminen piikeillä tai neulasmaisilla rakenteilla.
+
+A. Lukuisat stomat (ilmaraot) eivät auta vähentämään vesihävikkiä, vaan päinvastoin lisäävät haihduntaa.
+
+B. Ohuet kynsinauhat eivät liity veden säästämiseen.
+
+C. Piikit lehtien sijaan vähentävät haihduttavaa pinta-alaa ja siten vähentävät vesihävikkiä.
+
+D. Suuri pinta-tilavuussuhde tarkoittaa suurta pinta-alaa suhteessa tilavuuteen, mikä lisää haihduntaa eikä vähennä sitä.
+
+Monet kuivilla alueilla kasvavat kasvit, kuten kaktukset, ovat kehittäneet piikkejä tai neulasten kaltaisia rakenteita lehtien sijaan. Tämä pienentää haihduttavaa pinta-alaa ja auttaa säästämään vettä kuivissa ja kuumissa olosuhteissa.",
+"Mikä seuraavista pätee kilpirauhasen vajaatoimintaan?
+A.Painonpudotus
+B.Pre-tibiaalinen myksoedeema
+C.Kohonnut TSH-taso
+D.Vastenmielisyys lämpimiin paikkoihin",C,"Kilpirauhasen vajaatoiminnassa eli hypotyreoosissa pätee seuraava:
+
+C. Kohonnut TSH-taso
+
+Tyreotropiini eli TSH (thyroid stimulating hormone) on aivolisäkkeen erittämä hormoni, joka säätelee kilpirauhasen toimintaa. Kilpirauhasen vajaatoiminnassa kilpirauhasen tuottamien hormonien (tyroksiini ja trijodityroniini) pitoisuudet laskevat. Tämä saa elimistössä aikaan negatiivisen palautemekanismin, jolloin aivolisäke yrittää lisätä kilpirauhasen toimintaa erittämällä enemmän TSH:ta. Siksi kilpirauhasen vajaatoiminnassa TSH-taso on kohonnut.
+
+A. Painonpudotus ei päde vajaatoimintaan, vaan päinvastoin kilpirauhasen vajaatoimintaan liittyy usein painonnousua.
+
+B. Pre-tibiaalinen myksoedeema eli turvotus säärissä voi liittyä vajaatoimintaan, mutta se ei ole varsinainen oire vaan komplikaatio.
+
+D. Vastenmielisyys lämpimiin paikkoihin ei myöskään päde vajaatoimintaan, vaan päinvastoin monet vajaatoimintapotilaat kärsivät kylmänarkuudesta.",
+"Nagel väittää, että moraalisen onnen ongelma liittyy läheisesti ongelmaan:
+A.Jumalan olemassaolo.
+B.tahdon vapaus.
+C.psykologinen egoismi.
+D.universaalit.",B,"Nagelin mukaan moraalisen onnen ongelma liittyy läheisesti ongelmaan tahdon vapaudesta (B).
+
+Moraalisen onnen ongelma koskee sitä, miten voimme olla moraalisesti onnellisia eli miten voimme elää hyvää ja moraalisesti oikeutettua elämää. Nagel näkee tämän ongelman kytkeytyvän läheisesti tahdon vapauden ongelmaan.
+
+Tahdon vapaus liittyy siihen, ovatko tekomme ja valintamme todella vapaita vai ohjautuvatko ne deterministisistä syistä tai ulkoisista tekijöistä. Jos meillä ei ole aitoa tahdon vapautta, voidaanko meitä pitää moraalisesti vastuullisina teoistamme?
+
+Nagel esittää, että moraalinen onni edellyttää jonkinasteista tahdon vapautta. Jotta voisimme elää hyvää ja moraalisesti ansiokasta elämää, meidän on kyettävä tekemään aitoja valintoja ja kantamaan niistä moraalinen vastuu. Ilman tahdon vapautta emme voisi olla moraalisesti onnellisia.
+
+Näin ollen moraalisen onnen ongelma ja tahdon vapauden ongelma kietoutuvat yhteen. Ratkaisu tahdon vapauden ongelmaan vaikuttaa siihen, miten moraalinen onni on ylipäätään mahdollista.",
+"Mikä seuraavista väittämistä pitää paikkansa kirjanpidollisten arvioiden muutosten osalta?
+A.Suurin osa kirjanpidollisten arvioiden muutoksista kirjataan takautuvasti.
+B.Jos on mahdotonta määrittää, onko arvio muuttunut vai onko tilinpäätöksen laatimisperiaate muuttunut, muutosta olisi pidettävä periaatteellisena muutoksena.
+C.Jos on mahdotonta määrittää, onko kirjanpidollisessa arviossa tai tilinpäätöksen laatimisperiaatteessa tapahtunut muutos, muutosta olisi pidettävä arvion muutoksena.
+D.Kirjanpidollisen arvion muutos ja kirjanpitoperiaatteen muutos on helpompi erottaa toisistaan kuin kirjanpidollisen arvion muutos ja virheen korjaus.",C,"Oikea vastaus on C: Jos on mahdotonta määrittää, onko kirjanpidollisessa arviossa tai tilinpäätöksen laatimisperiaatteessa tapahtunut muutos, muutosta olisi pidettävä arvion muutoksena.
+
+Tämä perustuu kirjanpitolakiin ja hyvään kirjanpitotapaan. Kun on epäselvää, onko kyseessä arvion vai periaatteen muutos, oletetaan muutoksen olevan arvion muutos. Tämä johtuu siitä, että arvion muutokset käsitellään prospektiivisesti eli vaikuttavat vain tuleviin kausiin, kun taas periaatteen muutokset käsitellään pääsääntöisesti takautuvasti.
+
+Vastausvaihtoehdot A ja D ovat vääriä, sillä suurin osa arvioiden muutoksista käsitellään prospektiivisesti eikä takautuvasti. Lisäksi arvion muutoksen ja virheen korjauksen erottaminen on yleensä helpompaa kuin arvion muutoksen ja periaatteen muutoksen erottaminen.
+
+Vaihtoehto B on myös väärä, sillä epäselvissä tapauksissa muutosta pidetään nimenomaan arvion muutoksena eikä periaatteen muutoksena.",
+"Asunto-osakeyhtiö omisti maa-alueen. Asuntoyhtiö laati kehityssuunnitelman maan jakamiseksi 100 tonttiin ja asuinyhteisön luomiseksi alueelle. Liittojen julistuksella perustettiin asunnonomistajien yhdistys, hallinnollinen yksikkö, joka hallinnoisi ja panisi täytäntöön liittojen joukossa mainittuja määräyksiä ja rajoituksia. Yksi liittojulistuksessa asetetuista rajoituksista kuuluu: ""Kiinteistön millekään osalle ei milloinkaan saa pystyttää, sallia tai ylläpitää rakennelmia, jotka on suunniteltu tai joita käytetään salonkina tai paikkana mallas-, viini- tai alkoholijuomien myyntiin tai valmistukseen. "" Liittojulistus merkittiin asianmukaisesti muistiin, ja se sisällytettiin asiakirjaan, jonka opettaja teki ostaessaan tontin 62 rakennuksesta. Opettaja kirjasi heti tekonsa. Opettaja vuokrasi kotinsa kirjastonhoitajalle vuodeksi. Vuokrasopimus sisälsi samat rajoitukset kuin liittojulistuksessa ja opettajan asiakirjassa. Kirjastonhoitaja alkoi heti myydä viinaa tiloissa viikoittaisten ""aukioloaikojen"" juhlien aikana. Asunnonomistajien yhdistys haastaa kirjastonhoitajan oikeuteen vahingonkorvauskanteessa. Mikä seuraavista on paras argumentti kirjastonhoitajalle?
+A.Spencerin tapauksessa sääntö estää kirjastonhoitajaa olemasta vastuussa.
+B.Kirjastonhoitajalla ei ole sopimusta asunnonomistajien yhdistyksen kanssa.
+C.Kirjastonhoitaja ei ole väärässä asemassa opettajan kanssa.
+D.Muita välittömässä läheisyydessä sijaitsevia tontteja käytetään kaupallisiin tarkoituksiin.",B,"Paras argumentti kirjastonhoitajalle tässä tapauksessa on B) Kirjastonhoitajalla ei ole sopimusta asunnonomistajien yhdistyksen kanssa.
+
+Perustelut:
+
+A) Spencerin tapaus ei ole relevantti tässä yhteydessä, koska se ei liity suoraan tähän tapaukseen.
+
+B) Kirjastonhoitajalla on sopimus opettajan kanssa, mutta ei suoraa sopimusta asunnonomistajien yhdistyksen kanssa. Yhdistys ei siis voi suoraan haastaa kirjastonhoitajaa oikeuteen, koska heillä ei ole sopimuksellista suhdetta.
+
+C) Kirjastonhoitaja on väärässä asemassa opettajan kanssa, koska hän rikkoo vuokrasopimuksen ehtoja myymällä alkoholia tiloissa. Tämä ei kuitenkaan ole paras argumentti.
+
+D) Muiden tonttien käyttö kaupallisiin tarkoituksiin ei ole relevanttia, koska liittojulistuksessa on selkeä kielto alkoholin myyntiin tai valmistukseen alueella.
+
+Koska kirjastonhoitajalla ei ole suoraa sopimusta asunnonomistajien yhdistyksen kanssa, yhdistys ei voi suoraan haastaa häntä oikeuteen. Yhdistyksen tulisi sen sijaan haastaa opettaja oikeuteen, koska opettaja on rikkonut liittojulistuksen ehtoja vuokraamalla tilat kirjastonhoitajalle, joka myy alkoholia.",
 "Suurempi maidonkulutus
 
 A.On raportoitu liittyvän suurempaan murtumien esiintyvyyteen ja suurempaan kuolleisuuteen muutamissa tutkimuksissa
 B.Murrosiän aikana näyttää liittyvän suurempaan luun mineraalitiheyteen myöhemmällä iällä
 C.Liittyy johdonmukaisesti pienempään murtumamäärään
-D.Maissa, joissa murtumaaste on korkein, viittaa siihen, että maidon kulutus on hyödyllistä luustolle.",a,b,false
-"Kumpaa näistä kahdesta skenaariosta varten päähenkilö (joka käyttää minä/minä/minun) tekee jotain selvästi moraalisesti väärin tavallisten moraalisten standardien mukaan Yhdysvalloissa vuodesta 2020 lähtien? Skenaario 1 | Kun ravintolani pakastin hajosi, tarjoilin lämpimän lihan, vaikka tiesin sen olevan hyvin vaarallista. Skenaario 2 | Päätin sytyttää nuotion metsään.
-A.Väärin, väärin
-B.Väärin, Ei väärin
-C.Ei väärin, väärin
-D.Ei väärin, Ei väärin",a,c,false
-"Singerin mukaan hänen periaatteensa noudattaminen edellyttää:
-A.vaatimattomia muutoksia henkilökohtaisiin tapoihimme, mutta ei koko yhteiskuntaamme.
-B.vaatimattomia muutoksia henkilökohtaisiin tottumuksiimme sekä yhteiskuntaan.
-C.rajuja muutoksia henkilökohtaisiin tapoihimme, mutta ei yhteiskuntaamme.
-D.rajuja muutoksia sekä henkilökohtaisiin tapoihimme että yhteiskuntaamme.",d,b,false
-"Kumpaa näistä kahdesta skenaariosta varten päähenkilö (joka käyttää minä/minä/minun) tekee jotain selvästi moraalisesti väärin tavallisten moraalisten standardien mukaan Yhdysvalloissa vuodesta 2020 lähtien? Skenaario 1 | Löin tauoillani menettääkseni pallon, kun se tuli tielle. Skenaario 2 | Opetin lapseni soittamaan ksylofonia.
-A.Väärin, väärin
-B.Väärin, Ei väärin
-C.Ei väärin, väärin
-D.Ei väärin, Ei väärin",d,b,false
-"Mikä seuraavista väittämistä pitää paikkansa kirjanpidollisten arvioiden muutosten osalta?
-A.Suurin osa kirjanpidollisten arvioiden muutoksista kirjataan takautuvasti.
-B.Jos on mahdotonta määrittää, onko arvio muuttunut vai onko tilinpäätöksen laatimisperiaate muuttunut, muutosta olisi pidettävä periaatteellisena muutoksena.
-C.Jos on mahdotonta määrittää, onko kirjanpidollisessa arviossa tai tilinpäätöksen laatimisperiaatteessa tapahtunut muutos, muutosta olisi pidettävä arvion muutoksena.
-D.Kirjanpidollisen arvion muutos ja kirjanpitoperiaatteen muutos on helpompi erottaa toisistaan kuin kirjanpidollisen arvion muutos ja virheen korjaus.",c,c,true
-"Ennen kuin ehdotus kahden kaupungin yhdistämisestä äänestettiin, osavaltion oikeusministeri antoi neuvoa-antavan lausunnon, jossa todettiin, että toimenpide ei hänen mielestään rikkonut mitään lakisääteisiä tai perustuslaillisia määräyksiä. Sen jälkeen ehdotus asetettiin äänestykseen, ja molempien kaupunkien äänestäjät hyväksyivät sen ylivoimaisesti. Vaalien jälkeen, mutta ennen kuin sulautuminen oli virallisesti toteutettu, kaksi veronmaksajaa yhdestä kaupungista aloitti kanteen yhdistämisen määräämiseksi ja hyökkäsi ehdotuksen perustuslaillisuutta vastaan. Kanne saapui osavaltion korkeimpaan oikeuteen, ja sen todettiin olevan perustuslaillinen sekä osavaltion että liittovaltion lain mukaan. Kantajat jättävät nyt hakemuksen, jossa he pyytävät tämän tapauksen käsittelyä Yhdysvaltain korkeimmassa oikeudessa. Yhteisön tuomioistuin voi
-A.olla kuulematta tapausta, koska siitä päätettiin itsenäisin valtion perustein.
-B.ei käsittele tapausta, mutta se voidaan palauttaa liittovaltion käräjäoikeuteen.
-C.Kuule asiaan liittyvät liittovaltion kysymykset, mutta kieltäydy päättämästä osavaltion asiasta.
-D.luottaa osavaltion ylimmän syyttäjän antamaan neuvoa-antavaan lausuntoon eikä käsitellä asiaa sen asiasisällön perusteella.",a,c,false
-"Tällä lainkäyttöalueella on voimassa seuraava rikoslaki:""Henkilö ei ole vastuussa rikollisesta toiminnasta, jos hänellä ei tällaisen käyttäytymisen aikana ole mielisairauden tai vian vuoksi huomattavaa kykyä arvioida käyttäytymisensä laittomuutta tai mukauttaa käyttäytymistään lain vaatimuksiin. "" Eräänä iltapäivänä syytetty vahti viisivuotiasta veljenpoikaansa. Kun he pelasivat saalis ulkona, vastaaja heitti pallon veljenpoikansa pään yli, ja se vieri kadulle. Vaistomaisesti veljenpoika juoksi pallon perään, mutta kompastui kourun yli ja putosi kadulle. Kun hän kompastui, veljenpoika nyrjäytti nilkkansa vakavasti eikä pystynyt seisomaan. Hetkeä myöhemmin suuri roska-auto peruutti ja juoksi veljenpojan yli tappaen hänet. Vaikka vastaaja näki veljenpoikansa ahdingon, hän ei yrittänyt pelastaa häntä. Myöhemmin vastaajaa syytettiin tahattomasta taposta. Oikeudenkäynnissä vastaaja todisti, että hän oli niin järkyttynyt nähdessään veljenpoikansa putoavan roska-auton lähelle, että hän jäätyi eikä pystynyt liikkumaan ennen kuin oli liian myöhäistä. Vastaajan lausunnon jälkeen asiantuntijatodistaja todisti puolustukselle, että vastaajan kuvaaman kaltaiset reaktiot eivät ole epätavallisia, kun todella järkyttävä tapahtuma tapahtuu. Jos valamiehistö uskoo vastaajan ja hänen asiantuntijatodistajansa lausuntoon, vastaajan paras puolustus on mikä seuraavista?
-A.Vastaaja kärsi tilapäisestä mielenvikaisuudesta.
-B.Vastaajalta puuttui rikoksen tekemiseen vaadittava henkinen tila.
-C.Vastaajan laiminlyönti ei ollut vapaaehtoista.
-D.Vastaajan rikosoikeudellinen vastuu korvautui kuorma-autonkuljettajan vastuulla.",c,b,false
-"Poliisi sai luotettavalta ilmiantajalta vihjeen, jonka mukaan mies välitti kokaiinia kotoaan. Tämän jälkeen virkamiehet toimittivat tuomarille valaehtoisen todistuksen, jossa esitettiin olosuhteet, jotka osoittivat todennäköisen syyn etsintäluvan antamiseen. Tuomari antoi etsintäluvan huumausaineisiin miehen osoitteessa. Poliisit menivät miehen kotiin ja soittivat ovikelloa. Kun kukaan ei vastannut, poliisi murtautui sisään ja meni asuntoon. He tutkivat ensimmäisen kerroksen huoneet eivätkä löytäneet raskauttavia todisteita, kävelivät sitten ulos ja huomasivat erillisen sisäänkäynnin, joka johti asunnon toiseen kerrokseen. He nousivat portaikkoa ja menivät yläkerran makuuhuoneeseen. Huoneen sisältä poliisit löysivät lipastolla makaavan kokaiinikätkön. Kun poliisit jatkoivat etsintää makuuhuoneessa, syytetty meni huoneeseen. Poliisi kysyi syytetyltä, oliko hän mies. Vastaaja tunnisti itsensä ja kertoi poliisille, että he olivat hänen makuuhuoneessaan ja hän asui asunnon toisessa kerroksessa. Vastaaja selitti, että mies asui ensimmäisessä kerroksessa ja hänen asuintilansa olivat erillään vastaajan asuintiloista. Siitä huolimatta vastaaja pidätettiin ja häntä syytettiin kokaiinin hallussapidosta. Vastaaja on esittänyt, että kokaiinia ei hyväksytä todisteeksi. Vastaajan esityksen tulisi olla
-A.myönnettiin, koska pidätysmääräyksessä ei mainittu vastaajan nimeä.
-B.myönnettiin, koska etsintäkuulutuksessa ei täsmennetty, mitä aluetta etsitään.
-C.kieltäytyi, koska poliisi uskoi perustellusti tutkineensa miehen asunnon, kun he menivät vastaajan asuintiloihin.
-D.evättiin, koska pidätysmääräys oli pätevä ja annettu todennäköisin syin.",c,c,true
-"Asunto-osakeyhtiö omisti maa-alueen. Asuntoyhtiö laati kehityssuunnitelman maan jakamiseksi 100 tonttiin ja asuinyhteisön luomiseksi alueelle. Liittojen julistuksella perustettiin asunnonomistajien yhdistys, hallinnollinen yksikkö, joka hallinnoisi ja panisi täytäntöön liittojen joukossa mainittuja määräyksiä ja rajoituksia. Yksi liittojulistuksessa asetetuista rajoituksista kuuluu: ""Kiinteistön millekään osalle ei milloinkaan saa pystyttää, sallia tai ylläpitää rakennelmia, jotka on suunniteltu tai joita käytetään salonkina tai paikkana mallas-, viini- tai alkoholijuomien myyntiin tai valmistukseen. "" Liittojulistus merkittiin asianmukaisesti muistiin, ja se sisällytettiin asiakirjaan, jonka opettaja teki ostaessaan tontin 62 rakennuksesta. Opettaja kirjasi heti tekonsa. Opettaja vuokrasi kotinsa kirjastonhoitajalle vuodeksi. Vuokrasopimus sisälsi samat rajoitukset kuin liittojulistuksessa ja opettajan asiakirjassa. Kirjastonhoitaja alkoi heti myydä viinaa tiloissa viikoittaisten ""aukioloaikojen"" juhlien aikana. Asunnonomistajien yhdistys haastaa kirjastonhoitajan oikeuteen vahingonkorvauskanteessa. Mikä seuraavista on paras argumentti kirjastonhoitajalle?
-A.Spencerin tapauksessa sääntö estää kirjastonhoitajaa olemasta vastuussa.
-B.Kirjastonhoitajalla ei ole sopimusta asunnonomistajien yhdistyksen kanssa.
-C.Kirjastonhoitaja ei ole väärässä asemassa opettajan kanssa.
-D.Muita välittömässä läheisyydessä sijaitsevia tontteja käytetään kaupallisiin tarkoituksiin.",b,c,false
-"Supermarket oli juuri avattu uudelleen kahden viikon sulkemisen jälkeen remonttia varten. Uudelleen avaamisen aamuna nainen oli ostoksilla, kun hän yhtäkkiä kaatui ja hänen jalkansa murtui. Sen jälkeen nainen haastoi supermarketin oikeuteen henkilövahingoista. Puvussaan nainen väitti kompastuneensa maaliämpäriin, joka oli lojunut yhdessä käytävistä. Oikeudenkäynnissä nainen soitti toiselle asiakkaalle todistaakseen, että ostoksilla ollessaan hän kuuli tömähdyksen, kääntyi ympäri ja näki naisen kaatuvan lattialle. Hän todisti myös nähneensä tyhjän maaliämpärin makaavan muutaman metrin päässä naisen jalasta. Ristikuulustelussa asiakas joutui riidanalaiseen sananvaihtoon supermarketin asianajajan kanssa. Kun asiakkaalta kysyttiin hänen mielipidettään siitä, mikä aiheutti naisen kaatumisen, hän todisti: ""Hän kaatui, koska kompastui ämpäriin. "" Hän myönsi kuitenkin ristikuulustelussa, ettei nähnyt naisen kompastuvan ämpäriin. Supermarketin asianajaja kysyi sitten asiakkaalta seuraavan kysymyksen: ""Jos et nähnyt naisen kompastuvan ämpäriin, mistä tiedät, että hän kaatui sen takia?"" Asiakas vastasi: ""Koska tyttöystäväni, joka oli ostoksilla kanssani, kertoi minulle myöhemmin, että hän näki naisen kompastuvan ämpärin yli. "" Supermarketin asianajaja siirtyy lyömään asiakkaan viimeisen vastauksen. Jos oikeudenkäynnin tuomari kumoaa vastaajan esityksen ja antaa asiakkaan vastauksen pysyä, se johtuu todennäköisesti siitä, että
-A.Asiakkaan vastausta pyydettiin supermarketin asianajajan kysymyksellä.
-B.Asiakkaan vastaus perustui ensikäden tietoon.
-C.Asiakkaan vastaus oli lausunto viimeaikaisesta käsityksestä.
-D.Asiakkaan vastaus oli nykyaistivaikutelma.",a,c,false
-"Autoilijan huolimaton ajaminen loukkasi vakavasti toista kuljettajaa. Autoilija mainittiin väärällä kaistalla matkustamisesta ja maksoi sakon. Autoilijan vakuutusraja oli vain 15 000 dollaria kolmannen osapuolen vastuusta vakuutuksessaan. Toimitettuaan autoilijan vakuutuksenantajalle täydellisen lääkärinlausunnon, kaikki lääkärilaskut, potilastiedot ja muut vaaditut todisteet vahingoista, loukkaantunut kantaja vaati vakuutusrajoja. Kantaja ilmoitti, että vilpillistä mieltä koskeva vaatimus esitetään, jos vakuutusrajoja ei makseta välittömästi. Vakuutusyhtiö kieltäytyi maksamasta ilman selitystä. Valamiehistö myönsi loukkaantuneelle kantajalle 200 000 dollaria. Vahinkoa kärsinyt kantaja sai huolimattomalta autoilijalta allekirjoitetun toimeksiannon, joka antoi kantajalle kaikki oikeudet, joita autoilijalla on saattanut olla vakuutuksenantajaansa vastaan. Pakottaako tuomioistuin todennäköisesti vakuutusyhtiön maksamaan valamiehistön tuomion koko summan loukkaantuneelle näiden tosiseikkojen perusteella?
-A.Vakuutusraja on 15 000 dollaria, ja se on kaikki, mitä vahingoittunut voi periä, vakuutussopimuksessa ei ole toimia vilpillisessä mielessä.
-B.Vakuutusyhtiö rikkoi jokaiseen vakuutussopimukseen sisältyvää implisiittistä vilpittömän ja vilpittömän menettelyn sitoumusta, ja sen on maksettava tuomion koko määrä.
-C.Vilpillinen mieli on vakuutettu ja hänen vakuutuksenantajansa henkilökohtainen, toimeksianto oli pätemätön, eikä vahingon kärsineellä ole oikeutta pakottaa vakuutuksenantajaa maksamaan.
-D.Vahingon kärsineen osapuolen on pantava koko tuomionsa täytäntöön autoilijaa vastaan, eikä hän saa koskaan vaatia vakuutuksenantajalta kyseistä määrää.",c,b,false
-"Mies oli äskettäin rakennetun hotellin omistaja kaupungissa. 15. maaliskuuta mies sai puhelun myyjältä, joka oli hotellilaitteiden jakelija. Myyjä tarjoutui myymään miehelle 1 000 sammutinta hotelliinsa. Myyjä kertoi miehelle, että sammuttimien hinta olisi 35 000 dollaria (tai 35 dollaria kappaleelta), joka maksetaan 90 päivää toimituksen jälkeen. Myyjä lupasi asentaa sammuttimet viimeistään 15. huhtikuuta. 16. maaliskuuta mies soitti myyjälle ja hyväksyi tarjouksen. Seuraavana päivänä mies postitti myyjälle seuraavan muistion:""Huomaa, että otan 15 prosentin alennuksen käteismaksusta seitsemän päivää asennuksen jälkeen. "" Myyjä sai miehen kirjeenvaihdon 20. maaliskuuta. Huhtikuun 1. päivänä myyjä lähetti miehelle sähkeen, jossa todettiin: ""On ilmeistä, että meillä ei ole voimassa täytäntöönpanokelpoista sopimusta. En toimita sammuttimia 15. huhtikuuta tai muulloinkaan. ""Mies nostaa kanteen myyjää vastaan sopimusrikkomuksesta. Myyjä puolustaa UTK: n mukaista petossääntöä. Mikä seuraavista on tarkin väite myyjän puolustuksesta?
-A.Myyjän puolustus on pätevä, koska miehen muistio ei riittänyt osoittamaan, että sopimus on syntynyt.
-B.Myyjän puolustus on pätevä, koska miehen muistio oli ristiriidassa myyjän suullisen tarjouksen ehtojen kanssa.
-C.Myyjän puolustus ei ole pätevä, koska myyjä ei ole vastannut miehen muistioon kohtuullisessa ajassa.
-D.Myyjän puolustus ei ole pätevä, koska UTK: n mukaan petoslakia ei sovelleta kauppiaiden välisiin sopimuksiin.",a,b,false
-"Korkeakoulujen ilmoittautumisen kannustamiseksi valtio tarjoaa 200 dollarin verovapautuksen valtion veroista niille, jotka ovat kokopäiväisiä opiskelijoita osavaltion korkeakouluissa. Puolipäivätyöhön osallistuville naisopiskelijoille myönnetään edelleen 100 dollarin verovapautus, kun taas puolipäivätyöhön osallistuville miesopiskelijoille ei enää myönnetä verovapautusta. Mikä seuraavista tiivistää tarkimmin oikean perustuslaillisen säännön, joka koskee puolipäiväisesti ilmoittautuvien opiskelijoiden valtion verovapautusta?
-A.Verovapaus mitätöitäisiin oikeusturvan epäämisenä.
-B.Verovapaus mitätöitäisiin yhdenvertaisuuslausekkeen vastaisena.
-C.Verotuksellinen toimenpide pidettäisiin aineellisen oikeudenmukaisen menettelyn alaan kuuluvana.
-D.Verotuksellisen toimenpiteen katsottaisiin kuuluvan kunnan toimivaltaan verottaa eri henkilöryhmiä eriarvoisesti.",b,b,true
+D.Maissa, joissa murtumaaste on korkein, viittaa siihen, että maidon kulutus on hyödyllistä luustolle.",A,"Maidonkulutuksen vaikutuksista luuston terveyteen on esitetty erilaisia tutkimustuloksia. Vastausvaihtoehdoista:
+
+A) Joissakin tutkimuksissa on raportoitu suuremman maidonkulutuksen liittyvän suurempaan murtumien esiintyvyyteen ja kuolleisuuteen. Tämä viittaisi siihen, että runsas maidonkulutus ei välttämättä olisi hyväksi luustolle.
+
+B) Murrosiässä suurempi maidonkulutus näyttäisi liittyvän suurempaan luun mineraalitiheyteen myöhemmällä iällä, mikä viittaisi maidon hyödyllisyyteen luuston kehitykselle nuoruusiässä.
+
+C) Suurempi maidonkulutus liittyy johdonmukaisesti pienempään murtumamäärään. Tämä tukisi käsitystä, että maidon kulutus on hyödyllistä luuston terveydelle.
+
+D) Maissa, joissa murtumaaste on korkein, maidon kulutus viittaa siihen, että se on hyödyllistä luustolle. Tämä väite vaikuttaa hieman epäloogiselta, sillä korkea murtumaaste ei viittaisi maidon hyödyllisyyteen.
+
+Kokonaisuudessaan tutkimustulokset maidonkulutuksen vaikutuksista luuston terveyteen ovat jossain määrin ristiriitaisia. Vaihtoehdoista C vaikuttaisi kuitenkin parhaiten tukevan käsitystä maidon hyödyllisyydestä luustolle.",
 "Kirjoitettu ehdokas on meksikolais-amerikkalainen ja on sitä mieltä, että hän tarvitsee suuren määrän meksikolaisia äänestäjiä voittaakseen vaalit. Tämän seurauksena hänen kampanjapäällikkönsä päättää postittaa jokaiselle rekisteröityneelle meksikolaiselle äänestäjälle repäisytarran, jossa on ehdokkaan nimi ja toimisto, jossa hän on ehdolla. Koska monet syntyperäiset meksikolaiset eivät osaa lukea ja kirjoittaa englantia, kampanjapäällikkö uskoo, että monilla äänestäjillä on vaikeuksia kirjoittaa ehdokkaan nimi ja toimisto äänestyslippuun. Tämän seurauksena kampanjapäällikkö on käynnistänyt laajan mediakampanjan tiedottaakseen äänestäjille, miten tarrat kiinnitetään äänestyslippuun. Viisi kuukautta ennen vaaleja vaalivirkailija ilmoittaa ehdokkaan kampanjakomitealle, että repäisytarrat eivät ole osavaltion sääntöjen mukaisia. Kirjeessään virkamies selittää, että osavaltioiden vaalivirkailijat ovat sitä mieltä, että potentiaalisten äänestäjien on kirjoitettava ehdokkaan nimi musteella. Siksi hän päättelee, että tarrat eivät täytä lakisääteisiä vaatimuksia. Kolme viikkoa myöhemmin ehdokas nosti kanteen liittovaltion käräjäoikeudessa osavaltion vaaliviranomaisia vastaan väittäen, että heidän tulkintansa osavaltion perussäännöstä rikkoo Yhdysvaltain perustuslakia. Mikä seuraavista väitteistä esittää vahvimman perustuslaillisen argumentin, joka tukee vaalitoimitsijan tulkintaa ohjesäännöstä?
 A.Rekisteröityjen meksikolaisamerikkalaisten äänestäjien äänestysaktiivisuus, joilla ei ole englannin kielen taitoa, on ollut alle 1% koko osavaltion kokonaismäärästä viime vaaleissa.
 B.Osavaltion laki edellyttää, että jokainen äänestyskoppi on varustettu mustekynällä äänten kirjoittamisen helpottamiseksi.
 C.Koska kirjoitusäänten suuri määrä yleensä pidentää kaikkien äänten laskemiseen tarvittavaa aikaa, tällaiset äänet on annettava yhdenmukaisella tavalla.
-D.Äänestysvilpin mahdollisuus on huomattavasti suurempi esipainetuilla tarroilla.",d,"d
+D.Äänestysvilpin mahdollisuus on huomattavasti suurempi esipainetuilla tarroilla.",D,"Vahvin perustuslaillinen argumentti, joka tukee vaalitoimitsijan tulkintaa ohjesäännöstä, on vaihtoehto C: ""Koska kirjoitusäänten suuri määrä yleensä pidentää kaikkien äänten laskemiseen tarvittavaa aikaa, tällaiset äänet on annettava yhdenmukaisella tavalla.""
 
-vahvin perustelu vaalitoimitsijan tulkinnalle on äänestysvilpin mahdollisuus esipainetuilla tarroilla. tämä on perustuslaillinen huolenaihe, joka liittyy vaalimenettelyn oikeudenmukaisuuteen ja rehellisyyteen. muut vaihtoehdot eivät esitä yhtä vahvaa perustuslaillista argumenttia vaalitoimitsijan tulkinnan tueksi.",true
-"Karjankasvattaja omistaa tällä hetkellä A: ksi nimetyn tontin. Se on korkeampi kahdesta naapurikiinteistöstä vuorella. Viljelijä omistaa palstan ""B"", joka sijaitsee alempana kuin ""A"" vuorenrinteellä. Vuonna 2000 karjankasvattaja, joka omisti molemmat maapalstat, rakensi yksityisen viemäröintijärjestelmän. Tämä järjestelmä koostui maanalaisesta putkilinjasta, joka ulottui molempien maapalstojen yli. A-paketin jätevedet valuivat järjestelmän läpi kunnalliseen viemäriin, joka sijaitsi vuoren pohjalla. Vuonna 2005 karjankasvattaja myi viljelijälle paketin ""B"". Viljelijälle osoitetussa asiakirjassa ei ollut mitään mainintaa karjankasvattajan viemäröintijärjestelmästä. Jokaisella palstalla on suuria karjatilatyylisiä koteja, jotka ovat omistajien käytössä. Viime aikoina jätevesiviemäri on alkanut tuottaa epämiellyttävää hajua paketin ""B. "" Tämän seurauksena viljelijä haastoi karjankasvattajan oikeuteen rikkomuksessa rukoillen viemärijärjestelmän aiheuttamia vahinkoja. Tuomion pitäisi olla
-A.karjankasvattaja, koska maanviljelijälle tehty asiakirja ei sisältänyt mitään sopimuksia, jotka rajoittaisivat karjankasvattajan maankäyttöä.
-B.karjankasvattaja, koska maanviljelijän oikea syy kanne olisi haittaa eikä tunkeutumista.
-C.viljelijä, koska viemäröintijärjestelmä oli lain mukaan kantajan vahinkojen välitön syy.
-D.viljelijä, koska karjankasvattajalla ei ollut oikeutta parantaa omaa maataan tavalla, joka aiheutti vahinkoa toiselle.",b,"d
+Tämä argumentti perustuu siihen, että vaaliprosessin on oltava yhdenmukainen ja tasapuolinen kaikille äänestäjille. Jos osa äänestäjistä saa käyttää tarroja ja toiset eivät, se voi johtaa epätasa-arvoiseen kohteluun ja vaarantaa vaalien oikeudenmukaisuuden. Yhdenmukaisten sääntöjen noudattaminen kaikille äänestäjille on tärkeää vaalien eheyden varmistamiseksi.
 
-vastaukseni on d. karjankasvattajalla ei ollut oikeutta parantaa omaa maataan tavalla, joka aiheutti vahinkoa toiselle. vaikka viemäröintijärjestelmä rakennettiin ennen kuin viljelijä osti maa-alueen b, karjankasvattajalla ei ollut oikeutta aiheuttaa haittaa viljelijän omistamalle maalle epämiellyttävällä hajulla. tämä voidaan tulkita naapuruusoikeuden loukkaukseksi.",false
-"Mikä seuraavista kuvaa parhaiten eurosentrismiä?
-A.Eurooppa-keskeisyys on analyysityyli, jossa eurooppalaisia yhteiskuntia verrataan Euroopan ulkopuolisiin yhteiskuntiin, jotta saadaan puolueeton vertailu kunkin suhteellisista ansioista.
-B.Eurooppa-keskeisyys on ajattelutapa, jossa Euroopan ulkopuolisten yhteiskuntien arviointi perustuu eurooppalaisten kulttuurisiin oletuksiin ja ennakkoluuloihin.
-C.Eurooppa-keskeisyys kuvaa tutkimuksia tai tieteellistä työtä, joka käsittelee vain Euroopan poliittisia tai taloudellisia järjestelmiä.
-D.Kaikki nämä vaihtoehdot.",b,b,true
-"Millä suhdetoiminnan alalla lobbausta todennäköisesti harjoitetaan?
-A.Yritys
-B.Taloudelliset suhteet
-C.Julkiset asiat
-D.Yrityksiltä yrityksille",c,c,true
-"Skitsofrenian etiologiaa koskevat tutkimukset osoittivat geneettisen alttiuden sairaudelle, mutta muut tekijät ovat mukana. Tunnista aiheen tuntemuksesi perusteella, mikä seuraavista väitteistä on virheellinen.
-A.Liiallinen dopamiini tai herkkyys dopamiinille voi olla myötävaikuttava tekijä.
-B.Valkoiset potilaat ovat oireenmukaisempia.
-C.Remissio kolmannen maailman tilasta on 65%.
-D.Alhaisempi skitsofrenian määrä diagnosoitu afrikkalaisamerikkalaisten keskuudessa.",d,b,false
-"Toisen kielen oppimista koskeva tutkimus on osoittanut, mikä seuraavista toisen kielen oppivista lapsista
-A.Heidän kognitiivinen kehityksensä viivästyy
-B.Heillä on parempi artikulaatio kuin lapsilla, jotka eivät ole kaksikielisiä
-C.Heidän äidinkielen taitonsa ei vaikuta toisen kielen oppimisasteeseen
-D.Ne ovat lisänneet kognitiivista joustavuutta",d,d,true
-"Mikä seuraavista on henkilökohtainen asiakirja, johon pääsy on suljettu?
-A.Hallituksen ""valkoinen kirja""
-B.Luottamukselliset potilastiedot
-C.Kotitalouden tilikirja
-D.Yrityksen osakeluettelo",c,b,false
-"Mikä seuraavista teorioista keskittyy siihen, miten yhteiskunta onnistuu toteuttamaan järjestyksen ja vakauden ylläpitämiseksi tarvittavat toimet?
-A.Funktionalismi
-B.Interaktionismi
-C.Rationaalisen valinnan teoria
-D.Konfliktiteoria",a,a,true
-"Miten voimme parhaiten määritellä käsitteen ""kehitys"" maailmanlaajuistumisen yhteydessä?
-A.Termi kehitys viittaa ihmisen tilaan, jossa on vapaus pelosta ja puutteesta; Elämän ylläpitämiseen on riittävästi resursseja, ja tämä elämä voi elää tilassa, jossa ei ole äkillisen keskeytyksen uhkaa tai havaittua uhkaa.
-B.Jotta kansakuntaa voidaan pitää kehittyneenä, sen on täytynyt saavuttaa tietty taloudellinen ja poliittinen asema globaalissa valtiojärjestelmässä; Kriteeri sille, mikä on ""kehittynyt"" valtio, määritellään siten näissä vuorovaikutusvaatimuksissa tässä järjestelmässä.
-C.Kehitys on keino puuttua uusliberalistiseen globalisaatioon liittyvään eriarvoisuuteen. Kehityksellä tarkoitetaan tässä yhteydessä väestön tai yhteisön kykyä käyttää resursseja tehokkaasti ja lisätä tuotannon ja jakelun tehokkuutta edistäen tulojen oikeudenmukaisempaa jakautumista yhteiskunnassa.
-D.Yhteisön kehityksellä tarkoitetaan ideologisia ja eettisiä arvojärjestelmiä, joihin sen väestö yhtyy. Globalisoituneessa kansainvälisessä järjestelmässä tämä tarkoittaa länsimaisen liberaalidemokraattisen ideologian ja vapaan markkinatalouden omaksumista.",c,a,false
-"54-vuotias nainen tulee toimistoon, koska hänellä on ollut ajoittaista ampumakipua oikeassa poskessa ja leuassa viimeisen 3 viikon aikana. Jokainen kipujakso kestää 1 sekunnin tai vähemmän. Kivun laukaisee usein kylmä ilma, pureskelu, tuntostimulaatio ja hampaiden harjaus. Hänellä ei ole ollut vammoja kasvoihin tai päähän. Sairaushistoria on merkittävä jännityspäänsärkyjen, liikalihavuuden ja mahalaukun ohitusleikkauksen osalta. Hän on 165 cm (5 jalkaa 5 tuumaa) pitkä ja painaa 62 kg (137 lb); BMI on 23 kg/m2 . Elintärkeät merkit ovat normaaleja. Potilas ei siedä kosketusta kasvojen oikealla puolella. Kasvojen heikkoutta tai tunteen menetystä ei ole. Loput fyysisestä tutkimuksesta eivät osoita poikkeavuuksia. Pään CT-skannaus kontrastilla ja ilman kontrastia ei osoita poikkeavuuksia. Mikä seuraavista on sopivin lääkehoito tällä hetkellä?
-A.Karbamatsepiini
-B.Lamotrigiini
-C.Levetirasetaami
-D.Topiramaatti",a,c,false
-"Mikä seuraavista kuvaa parhaiten eettisiä ohjeita seksuaalisesta läheisyydestä entisten terapia-asiakkaiden kanssa?
-A.Psykologeilla ei saa olla seksuaalista läheisyyttä entisten terapia-asiakkaiden kanssa missään olosuhteissa.
-B.Psykologit eivät saa olla seksuaalisessa läheisyydessä entisten terapia-asiakkaiden kanssa vähintään vuoden ajan hoidon lopettamisen jälkeen.
-C.Psykologit eivät saa olla seksuaalisessa kanssakäymisessä entisten terapia-asiakkaiden kanssa tietyissä olosuhteissa (esim. kun on olemassa hyväksikäytön vaara).
-D.Psykologeja ei kielletä olemasta seksuaalisessa läheisyydessä entisten terapia-asiakkaiden kanssa.",c,a,false
-"Suuren valmistusyrityksen työntekijä pitää työtä tylsänä ja jatkaa työtä vain rahan vuoksi. Työntekijä suorittaa minimaalisesti eikä ole motivoitunut, joten tuota suurin määrä tai parempi laatu. F. Herzbergin kahden tekijän teorian mukaan paras tapa 10 lisätä tämän työntekijän itsemotivaatiota olisi
-A.Tarjoa korotus ja kannustava palkka tuottavuuden lisäämiseksi
-B.Suunnittele työ uudelleen tarjotaksesi haastetta ja saavutuksen tunnetta
-C.lisätä mahdollisuuksia tietoon perustuvaan sosiaaliseen vuorovaikutukseen
-D.tarjota työntekijälle työvuorovesi, jolla on suurempi arvostus",b,"b
+Muut vaihtoehdot eivät ole yhtä vahvoja perustuslaillisia argumentteja:
 
-herzbergin kahden tekijän teorian mukaan paras tapa lisätä työntekijän itsemotivaatiota olisi suunnitella työ uudelleen tarjotaksesi haastetta ja saavutuksen tunnetta. tämä liittyy teorian motivaatiotekijöihin, jotka voivat lisätä tyydytystä ja motivaatiota. muut vaihtoehdot, kuten palkankorotus ja arvostus, ovat hygieniatekijöitä, jotka voivat vähentää tyytymättömyyttä mutta eivät välttämättä lisää motivaatiota.",true
-"Mikä seuraavista kohdista tukee Yhdysvaltojen yksipuolisuutta?
-A.Hyväntahtoinen hegemonia
-B.Monenvälisyyden tehottomuus
-C.Amerikan valta
-D.Kaikki edellä mainitut",d,d,true
-" Mihin seuraavista Communidades de Base liittyy?
-A.Piispa Oscar Romero
-B.Vastustus ja uudistuminen
-C.Kaikkien ihmisten ihmisarvo
-D.Kaikki edellä mainitut",d,d,true
-"Termi ""chili con carne"" viittaa chiliin minkä kanssa?
-A.Pavut
-B.liha
-C.juusto
-D.chili paprikat",b,b,true
-"Oikeusministeri on minkä seuraavista yksiköistä johtaja?
-A.Senaatin oikeuskomitea
-B.Oikeusministeriö
-C.Ulkoministeriö
-D.Tuomarin julkisasiamieskunta",b,b,true
-"Mitä tautia herpesvirukset eivät aiheuta?
-A.Polio
-B.Aivotulehdus
-C.Sukupuolitauti
-D.Syöpä",a,a,true
+A) Koskee vain pientä osaa äänestäjistä, eikä siten ole riittävä peruste koko osavaltion säännölle.
+B) Koskee vain käytännön järjestelyjä, eikä suoraan liity sääntöjen tulkintaan.
+D) On spekulatiivinen väite, eikä perustu selkeisiin tosiasioihin tai periaatteisiin.
+
+Yhdenmukaisten sääntöjen noudattaminen on keskeinen periaate vaaleissa, joten vaihtoehto C on vahvin perustuslaillinen argumentti tässä tapauksessa.",
+" Nussbaumin mukaan jonkun kohteleminen objektina on
+A.riittää seksuaaliseen esineellistämiseen.
+B.välttämätön seksuaaliseen esineellistämiseen.
+C.ei ole välttämätön seksuaaliseen esineellistämiseen.
+D.kaikki edellä mainitut.",C,"Nussbaumin mukaan jonkun kohteleminen objektina ei ole välttämätön seksuaaliseen esineellistämiseen, joten oikea vastaus on C.
+
+Nussbaumin näkemyksen mukaan seksuaalinen esineellistäminen on monimutkaisempi ilmiö, joka ei rajoitu pelkästään toisen kohtelemiseen objektina. Hän on esittänyt seitsemän kriteeriä, joiden tulisi täyttyä seksuaalisessa esineellistämisessä:
+
+1. Instrumentaalisuus - henkilö nähdään välineenä jonkun toisen tarkoituksiin.
+2. Itsemääräämisoikeuden puute - henkilöltä riistetään autonomia ja itsemääräämisoikeus.
+3. Viihteellistäminen - henkilö nähdään hauskan tai mielihyvän lähteenä.
+4. Eriyttäminen - henkilö nähdään erillisenä kokonaisuudesta, esim. vain fyysisenä olentona.
+5. Välineellistäminen - henkilö nähdään välineenä tai asiana.
+6. Omistaminen - henkilö nähdään omistettavana olentona.
+7. Vaihdettavuus - yksilö nähdään korvattavana toisella samanlaisella olennolla.
+
+Nussbaumin mukaan pelkkä objektina kohtelu ei siis vielä riitä seksuaaliseen esineellistämiseen, vaan siihen vaaditaan useamman kriteerin täyttyminen. Siksi vastaus C on oikea.",
+"Tällä lainkäyttöalueella on voimassa seuraava rikoslaki:""Henkilö ei ole vastuussa rikollisesta toiminnasta, jos hänellä ei tällaisen käyttäytymisen aikana ole mielisairauden tai vian vuoksi huomattavaa kykyä arvioida käyttäytymisensä laittomuutta tai mukauttaa käyttäytymistään lain vaatimuksiin. "" Eräänä iltapäivänä syytetty vahti viisivuotiasta veljenpoikaansa. Kun he pelasivat saalis ulkona, vastaaja heitti pallon veljenpoikansa pään yli, ja se vieri kadulle. Vaistomaisesti veljenpoika juoksi pallon perään, mutta kompastui kourun yli ja putosi kadulle. Kun hän kompastui, veljenpoika nyrjäytti nilkkansa vakavasti eikä pystynyt seisomaan. Hetkeä myöhemmin suuri roska-auto peruutti ja juoksi veljenpojan yli tappaen hänet. Vaikka vastaaja näki veljenpoikansa ahdingon, hän ei yrittänyt pelastaa häntä. Myöhemmin vastaajaa syytettiin tahattomasta taposta. Oikeudenkäynnissä vastaaja todisti, että hän oli niin järkyttynyt nähdessään veljenpoikansa putoavan roska-auton lähelle, että hän jäätyi eikä pystynyt liikkumaan ennen kuin oli liian myöhäistä. Vastaajan lausunnon jälkeen asiantuntijatodistaja todisti puolustukselle, että vastaajan kuvaaman kaltaiset reaktiot eivät ole epätavallisia, kun todella järkyttävä tapahtuma tapahtuu. Jos valamiehistö uskoo vastaajan ja hänen asiantuntijatodistajansa lausuntoon, vastaajan paras puolustus on mikä seuraavista?
+A.Vastaaja kärsi tilapäisestä mielenvikaisuudesta.
+B.Vastaajalta puuttui rikoksen tekemiseen vaadittava henkinen tila.
+C.Vastaajan laiminlyönti ei ollut vapaaehtoista.
+D.Vastaajan rikosoikeudellinen vastuu korvautui kuorma-autonkuljettajan vastuulla.",C,"Tässä tapauksessa vastaajan paras puolustus näyttäisi olevan B) Vastaajalta puuttui rikoksen tekemiseen vaadittava henkinen tila.
+
+Perustelut:
+
+A) Tilapäinen mielenvikaisuus ei välttämättä sovellu tähän tapaukseen, koska vastaaja ei näytä kärsineen mielisairaudesta vaan äkillisestä järkytyksestä.
+
+B) Rikoslain mukaan henkilö ei ole vastuussa rikollisesta toiminnasta, jos hänellä ei ole ""huomattavaa kykyä arvioida käyttäytymisensä laittomuutta tai mukauttaa käyttäytymistään lain vaatimuksiin"" mielisairauden tai vian vuoksi. Vastaajan ja asiantuntijatodistajan lausuntojen mukaan vastaaja jähmettyi järkytyksestä eikä pystynyt toimimaan, joten häneltä puuttui tarvittava henkinen tila rikoksen tekemiseen.
+
+C) Laiminlyönti ei välttämättä ollut täysin vapaaehtoista, mutta se ei riitä puolustukseksi, jos vastaajalla oli kyky arvioida toimintansa laittomuus.
+
+D) Kuorma-autonkuljettajan vastuu ei välttämättä korvaa vastaajan mahdollista rikosoikeudellista vastuuta, jos tämä on syyllistynyt rikokseen.
+
+Näin ollen vastaajan paras puolustus tässä tapauksessa on vedota siihen, että häneltä puuttui rikoksen tekemiseen vaadittava henkinen tila äkillisen järkytyksen vuoksi.",
+"Autoilijan huolimaton ajaminen loukkasi vakavasti toista kuljettajaa. Autoilija mainittiin väärällä kaistalla matkustamisesta ja maksoi sakon. Autoilijan vakuutusraja oli vain 15 000 dollaria kolmannen osapuolen vastuusta vakuutuksessaan. Toimitettuaan autoilijan vakuutuksenantajalle täydellisen lääkärinlausunnon, kaikki lääkärilaskut, potilastiedot ja muut vaaditut todisteet vahingoista, loukkaantunut kantaja vaati vakuutusrajoja. Kantaja ilmoitti, että vilpillistä mieltä koskeva vaatimus esitetään, jos vakuutusrajoja ei makseta välittömästi. Vakuutusyhtiö kieltäytyi maksamasta ilman selitystä. Valamiehistö myönsi loukkaantuneelle kantajalle 200 000 dollaria. Vahinkoa kärsinyt kantaja sai huolimattomalta autoilijalta allekirjoitetun toimeksiannon, joka antoi kantajalle kaikki oikeudet, joita autoilijalla on saattanut olla vakuutuksenantajaansa vastaan. Pakottaako tuomioistuin todennäköisesti vakuutusyhtiön maksamaan valamiehistön tuomion koko summan loukkaantuneelle näiden tosiseikkojen perusteella?
+A.Vakuutusraja on 15 000 dollaria, ja se on kaikki, mitä vahingoittunut voi periä, vakuutussopimuksessa ei ole toimia vilpillisessä mielessä.
+B.Vakuutusyhtiö rikkoi jokaiseen vakuutussopimukseen sisältyvää implisiittistä vilpittömän ja vilpittömän menettelyn sitoumusta, ja sen on maksettava tuomion koko määrä.
+C.Vilpillinen mieli on vakuutettu ja hänen vakuutuksenantajansa henkilökohtainen, toimeksianto oli pätemätön, eikä vahingon kärsineellä ole oikeutta pakottaa vakuutuksenantajaa maksamaan.
+D.Vahingon kärsineen osapuolen on pantava koko tuomionsa täytäntöön autoilijaa vastaan, eikä hän saa koskaan vaatia vakuutuksenantajalta kyseistä määrää.",C,"B. Vakuutusyhtiö rikkoi jokaiseen vakuutussopimukseen sisältyvää implisiittistä vilpittömän ja vilpittömän menettelyn sitoumusta, ja sen on maksettava tuomion koko määrä.
+
+Perustelut:
+
+1. Vakuutusyhtiöllä oli velvollisuus toimia vilpittömässä mielessä ja reilusti vakuutuksenottajaa kohtaan. Kieltäytyminen maksamasta vakuutusrajaa ilman selitystä, vaikka kaikki vaaditut todisteet oli toimitettu, voidaan katsoa vilpittömän ja reilun menettelyn rikkomiseksi.
+
+2. Kun vahingon kärsinyt kantaja sai toimeksiannon autoilijalta, hänelle siirtyivät kaikki oikeudet, joita autoilijalla oli vakuutuksenantajaansa vastaan. Tämä antaa kantajalle oikeuden vaatia vakuutusyhtiöltä tuomion koko summaa.
+
+3. Vaikka vakuutusraja oli 15 000 dollaria, vakuutusyhtiön vilpittömän ja reilun menettelyn rikkominen voi johtaa siihen, että sen on maksettava koko tuomion määrä.
+
+4. Vilpillinen mieli koskee vakuutuksenottajan ja vakuutuksenantajan välistä suhdetta, ei vahingon kärsineen kantajan ja vakuutuksenantajan välistä suhdetta. Kantaja voi vaatia koko tuomion määrää vakuutusyhtiöltä saatuaan toimeksiannon autoilijalta.
+
+Näin ollen tuomioistuin voi todennäköisesti pakottaa vakuutusyhtiön maksamaan valamiehistön tuomion koko summan loukkaantuneelle kantajalle, koska vakuutusyhtiö rikkoi vilpittömän ja reilun menettelyn velvoitetta.",
 " Klassinen teksti Daodejing tunnetaan millä otsikolla englanniksi?
 A.Muutosten klassikko
 B.Tien ja voiman klassikko
 C.Naisten klassikko
-D.Filosofian klassikko",b,b,true
-"Nykyaikaiset tietokonemikrosirut koostuvat pääasiassa mistä elementistä?
-A.Natrium
-B.Pii
-C.Alumiini
-D.Hopea",b,b,true
+D.Filosofian klassikko",B,"Oikea vastaus on B) Tien ja voiman klassikko.
+
+Daodejing on kiinalaisen filosofin Laotsen kirjoittama teos, joka tunnetaan englanniksi nimellä ""Tao Te Ching"" tai ""The Classic of the Way and Virtue"".
+
+Tao tarkoittaa ""tietä"" tai ""polkua"" ja te viittaa ""hyveeseen"" tai ""voimaan"". Näin ollen Daodejingin englanninkielinen nimi ""The Classic of the Way and Virtue"" eli ""Tien ja voiman klassikko"" kuvaa teoksen keskeisiä teemoja, jotka liittyvät elämän tien ja voiman/hyveiden seuraamiseen.
+
+Muut vastausvaihtoehdot eivät ole oikeita englanninkielisiä käännöksiä tälle klassiselle kiinalaiselle filosofiselle teokselle.",
+"Termi ""chili con carne"" viittaa chiliin minkä kanssa?
+A.Pavut
+B.liha
+C.juusto
+D.chili paprikat",B,"Oikea vastaus on B. Liha.
+
+""Chili con carne"" on espanjankielinen termi, joka tarkoittaa ""chiliä lihan kanssa"". Se viittaa tyypilliseen chili-pataan, jossa on lihaa (useimmiten jauhelihaa) sekä muita ainesosia kuten paprikaa, sipulia, tomaattia ja chiliä.
+
+Chili con carne on yksi tunnetuimmista meksikolaisperäisistä ruokalajeista. Siinä lihan lisäksi tärkeässä roolissa ovat chili-paprikat, jotka tuovat ruokaan tulista makua. Pavut ovat myös yleinen ainesosa chilissä, mutta eivät varsinaisesti se, mihin ""con carne"" viittaa.",
+"Mikä seuraavista kuvaa parhaiten eettisiä ohjeita seksuaalisesta läheisyydestä entisten terapia-asiakkaiden kanssa?
+A.Psykologeilla ei saa olla seksuaalista läheisyyttä entisten terapia-asiakkaiden kanssa missään olosuhteissa.
+B.Psykologit eivät saa olla seksuaalisessa läheisyydessä entisten terapia-asiakkaiden kanssa vähintään vuoden ajan hoidon lopettamisen jälkeen.
+C.Psykologit eivät saa olla seksuaalisessa kanssakäymisessä entisten terapia-asiakkaiden kanssa tietyissä olosuhteissa (esim. kun on olemassa hyväksikäytön vaara).
+D.Psykologeja ei kielletä olemasta seksuaalisessa läheisyydessä entisten terapia-asiakkaiden kanssa.",C,"A. Psykologeilla ei saa olla seksuaalista läheisyyttä entisten terapia-asiakkaiden kanssa missään olosuhteissa.
+
+Tämä vastaus kuvaa parhaiten eettisiä ohjeita seksuaalisesta läheisyydestä entisten terapia-asiakkaiden kanssa. Psykologien eettiset ohjeet kieltävät ehdottomasti seksuaalisen läheisyyden entisten asiakkaiden kanssa, koska se rikkoo ammatillista suhdetta ja voi aiheuttaa vahinkoa asiakkaalle. Terapiasuhteen luonteen vuoksi psykologilla on aina valta-asema suhteessa asiakkaaseen, mikä tekee seksuaalisesta läheisyydestä epäeettistä hyväksikäyttöä. Tämän vuoksi seksuaalinen läheisyys entisten asiakkaiden kanssa on kielletty ehdottomasti kaikissa olosuhteissa.",
+"Oikeusministeri on minkä seuraavista yksiköistä johtaja?
+A.Senaatin oikeuskomitea
+B.Oikeusministeriö
+C.Ulkoministeriö
+D.Tuomarin julkisasiamieskunta",B,"Oikeusministeri on oikeusministeriön johtaja, joten oikea vastaus on B) Oikeusministeriö.
+
+Oikeusministeriö on yksi Suomen kahdestatoista ministeriöstä, ja sen tehtävänä on huolehtia oikeuslaitoksen toiminnasta, rikosoikeudellisista asioista, kriminaalipolitiikasta sekä eräistä hyvän hallinnon takeista. Oikeusministeri johtaa ministeriön toimintaa ja vastaa sen toimialaan kuuluvista asioista.
+
+Muut vaihtoehdot eivät ole oikeita:
+
+A) Senaatin oikeuskomitea ei ole nykyään toimiva elin.
+C) Ulkoministeriö vastaa Suomen ulkopolitiikasta ja ulkomaansuhteista.
+D) Tuomarin julkisasiamieskunta ei ole varsinainen hallinnollinen yksikkö.",
+"Millä suhdetoiminnan alalla lobbausta todennäköisesti harjoitetaan?
+A.Yritys
+B.Taloudelliset suhteet
+C.Julkiset asiat
+D.Yrityksiltä yrityksille",C,"Lobbausta harjoitetaan todennäköisimmin julkisten asioiden suhdetoiminnan alalla (vaihtoehto C).
+
+Lobbaus tarkoittaa erilaisten eturyhmien, kuten yritysten, järjestöjen tai kansalaisliikkeiden pyrkimyksiä vaikuttaa poliittiseen päätöksentekoon ja lainsäädäntöön. Lobbaus kohdistuu tyypillisesti poliitikkoihin, virkamiehiin ja muihin päättäjiin.
+
+Yritykset voivat harjoittaa lobbausta ajaakseen omia etujaan esimerkiksi verotukseen, sääntelyyn tai toimintaedellytyksiin liittyvissä kysymyksissä. Myös erilaiset kansalaisjärjestöt ja etujärjestöt pyrkivät lobbaamaan päättäjiä oman asiansa puolesta.
+
+Vaikka lobbaus liittyy usein yritysten toimintaan, sen ydin on kuitenkin vaikuttamisessa julkiseen päätöksentekoon ja poliittisiin prosesseihin. Siksi lobbaus luokitellaan julkisten asioiden suhdetoiminnan alaksi.",
+"Mitä tautia herpesvirukset eivät aiheuta?
+A.Polio
+B.Aivotulehdus
+C.Sukupuolitauti
+D.Syöpä",A,"Oikea vastaus on A) Polio.
+
+Herpesvirukset eivät aiheuta polion tautia. Polio on virustauti, jonka aiheuttaa poliovirus, joka kuuluu pikornavirusten heimoon.
+
+Herpesvirukset sen sijaan voivat aiheuttaa muun muassa seuraavia tauteja:
+
+B) Aivotulehdus - Esimerkiksi vyöruusu- ja vesirokkovirus voivat aiheuttaa aivotulehduksen.
+
+C) Sukupuolitaudit - Esimerkiksi herpes simplex -virus tyyppi 2 aiheuttaa sukupuoliteitä tarttuvan herpeksen.
+
+D) Syöpä - Tietyt herpesvirukset, kuten Epstein-Barrin virus ja Kaposin sarkooman herpesvirus, on yhdistetty joidenkin syöpien kehittymiseen.
+
+Poliovirus ei kuitenkaan kuulu herpesvirusten sukuun, vaan se on erillinen virus, joka aiheuttaa polion halvausoireita.",
+"Mikä seuraavista on henkilökohtainen asiakirja, johon pääsy on suljettu?
+A.Hallituksen ""valkoinen kirja""
+B.Luottamukselliset potilastiedot
+C.Kotitalouden tilikirja
+D.Yrityksen osakeluettelo",C,"Oikea vastaus on B. Luottamukselliset potilastiedot.
+
+Potilastiedot ovat henkilökohtaisia ja arkaluontoisia tietoja, joiden pääsy on rajattu vain hoitohenkilökunnalle ja potilaalle itselleen. Tämä johtuu tietosuojasta ja potilaan yksityisyyden suojaamisesta. Potilastietojen luovuttaminen ulkopuolisille ilman potilaan lupaa on laitonta.
+
+A. Hallituksen ""valkoinen kirja"" on virallinen hallituksen julkaisema asiakirja, joka on tarkoitettu julkiseksi.
+
+C. Kotitalouden tilikirja on yksityinen, mutta ei luottamuksellinen samalla tavalla kuin potilastiedot.
+
+D. Yrityksen osakeluettelo on yrityksen sisäinen asiakirja, mutta ei henkilökohtainen samalla tavalla kuin potilastiedot.
+
+Joten luottamukselliset potilastiedot ovat ainoa vaihtoehto, johon pääsy on suljettu henkilökohtaisen ja arkaluontoisen luonteensa vuoksi.",
 "Mikä seuraavista kuvaa parhaiten tilannetta sen jälkeen, kun hintaa nostetaan tuotteella, jolla on joustamaton kysyntä?
 A.Vaadittu määrä ei muutu.
 B.Vaadittu määrä kasvaa.
 C.Kokonaistulot pienenevät.
-D.Kokonaistulot eivät muutu.",a,a,true
+D.Kokonaistulot eivät muutu.",A,"Oikea vastaus on A. Vaadittu määrä ei muutu.
+
+Kun kyseessä on tuote, jolla on joustamaton kysyntä, tarkoittaa se, että kysynnän määrä ei juurikaan muutu hinnan muuttuessa. Toisin sanoen, kuluttajat ostavat tuotetta lähes saman verran riippumatta siitä, mikä sen hinta on.
+
+Joustamattoman kysynnän tuotteille on tyypillistä, että ne ovat välttämättömyyshyödykkeitä tai niillä ei ole läheisiä substituutteja. Esimerkkejä tällaisista tuotteista ovat bensiini, suola, lääkkeet jne.
+
+Kun hinnat nousevat joustamattoman kysynnän tuotteilla, kuluttajat eivät voi helposti korvata niitä muilla tuotteilla tai luopua niiden kulutuksesta. Siksi vaadittu määrä pysyy lähes muuttumattomana hinnanmuutoksista huolimatta.
+
+Vaihtoehdot B, C ja D eivät siis päde joustamattoman kysynnän tuotteisiin hinnanmuutostilanteissa.",
+"Supermarket oli juuri avattu uudelleen kahden viikon sulkemisen jälkeen remonttia varten. Uudelleen avaamisen aamuna nainen oli ostoksilla, kun hän yhtäkkiä kaatui ja hänen jalkansa murtui. Sen jälkeen nainen haastoi supermarketin oikeuteen henkilövahingoista. Puvussaan nainen väitti kompastuneensa maaliämpäriin, joka oli lojunut yhdessä käytävistä. Oikeudenkäynnissä nainen soitti toiselle asiakkaalle todistaakseen, että ostoksilla ollessaan hän kuuli tömähdyksen, kääntyi ympäri ja näki naisen kaatuvan lattialle. Hän todisti myös nähneensä tyhjän maaliämpärin makaavan muutaman metrin päässä naisen jalasta. Ristikuulustelussa asiakas joutui riidanalaiseen sananvaihtoon supermarketin asianajajan kanssa. Kun asiakkaalta kysyttiin hänen mielipidettään siitä, mikä aiheutti naisen kaatumisen, hän todisti: ""Hän kaatui, koska kompastui ämpäriin. "" Hän myönsi kuitenkin ristikuulustelussa, ettei nähnyt naisen kompastuvan ämpäriin. Supermarketin asianajaja kysyi sitten asiakkaalta seuraavan kysymyksen: ""Jos et nähnyt naisen kompastuvan ämpäriin, mistä tiedät, että hän kaatui sen takia?"" Asiakas vastasi: ""Koska tyttöystäväni, joka oli ostoksilla kanssani, kertoi minulle myöhemmin, että hän näki naisen kompastuvan ämpärin yli. "" Supermarketin asianajaja siirtyy lyömään asiakkaan viimeisen vastauksen. Jos oikeudenkäynnin tuomari kumoaa vastaajan esityksen ja antaa asiakkaan vastauksen pysyä, se johtuu todennäköisesti siitä, että
+A.Asiakkaan vastausta pyydettiin supermarketin asianajajan kysymyksellä.
+B.Asiakkaan vastaus perustui ensikäden tietoon.
+C.Asiakkaan vastaus oli lausunto viimeaikaisesta käsityksestä.
+D.Asiakkaan vastaus oli nykyaistivaikutelma.",A,"Oikea vastaus on C. Asiakkaan vastaus oli lausunto viimeaikaisesta käsityksestä.
+
+Asiakkaan vastaus ""Koska tyttöystäväni, joka oli ostoksilla kanssani, kertoi minulle myöhemmin, että hän näki naisen kompastuvan ämpärin yli"" on viimeaikainen käsitys, jonka asiakas muodosti tyttöystävänsä kertomuksen perusteella. Tämä on poikkeus kuulopuheesäännöstä, joka sallii viimeaikaisten käsitysten esittämisen todisteena, vaikka ne perustuvatkin toisen henkilön kertomukseen.
+
+A ei ole oikea vastaus, koska asiakkaan vastausta ei pyydetty supermarketin asianajajan kysymyksellä. Asianajaja yritti pikemminkin kumota asiakkaan vastauksen.
+
+B ei ole oikea vastaus, koska asiakkaan vastaus ei perustunut ensikäden tietoon, vaan tyttöystävän kertomukseen.
+
+D ei ole oikea vastaus, koska asiakkaan vastaus ei ollut nykyaistivaikutelma, vaan perustui tyttöystävän myöhempään kertomukseen tapahtumasta.",
+"Mikä seuraavista kohdista tukee Yhdysvaltojen yksipuolisuutta?
+A.Hyväntahtoinen hegemonia
+B.Monenvälisyyden tehottomuus
+C.Amerikan valta
+D.Kaikki edellä mainitut",D,"Kaikki mainitut kohdat (A, B ja C) voidaan nähdä tukemassa Yhdysvaltojen yksipuolisuutta kansainvälisissä suhteissa.
+
+A. Hyväntahtoinen hegemonia viittaa Yhdysvaltojen pyrkimykseen johtaa maailmaa oman näkemyksensä mukaisesti, vaikka se perustelisi toimintaansa hyväntahtoisilla tarkoitusperillä.
+
+B. Monenvälisyyden tehottomuus voi toimia perusteena yksipuoliselle toiminnalle, jos Yhdysvallat kokee monenvälisten instituutioiden ja sopimusten olevan tehottomia tai hidastavan sen tavoitteiden saavuttamista.
+
+C. Amerikan valta sotilaallisena, taloudellisena ja poliittisena suurvaltana antaa sille mahdollisuuden toimia tarvittaessa yksipuolisesti ilman muiden maiden hyväksyntää.
+
+Näin ollen kaikki mainitut kohdat tukevat Yhdysvaltojen yksipuolista toimintaa ja D-vaihtoehto ""Kaikki edellä mainitut"" on oikea vastaus.",
+"Toisen kielen oppimista koskeva tutkimus on osoittanut, mikä seuraavista toisen kielen oppivista lapsista
+A.Heidän kognitiivinen kehityksensä viivästyy
+B.Heillä on parempi artikulaatio kuin lapsilla, jotka eivät ole kaksikielisiä
+C.Heidän äidinkielen taitonsa ei vaikuta toisen kielen oppimisasteeseen
+D.Ne ovat lisänneet kognitiivista joustavuutta",D,"Oikea vastaus on D. Ne ovat lisänneet kognitiivista joustavuutta.
+
+Useat tutkimukset ovat osoittaneet, että toisen kielen oppiminen lapsena voi edistää kognitiivista joustavuutta ja tiettyjen kognitiivisten taitojen kehittymistä. Tämä johtuu siitä, että kaksikielisten lasten on opittava vaihtamaan koodia kielten välillä ja hallitsemaan kahta kielijärjestelmää samanaikaisesti. Tämä harjoittaa heidän aivojensa toiminnanohjauskykyä ja joustavuutta.
+
+Vaihtoehdot A ja C ovat vääriä, sillä tutkimukset eivät ole osoittaneet toisen kielen oppimisen viivästyttävän kognitiivista kehitystä tai että äidinkielen taidot eivät vaikuttaisi toisen kielen oppimiseen.
+
+Vaihtoehto B on myös väärä, sillä tutkimukset eivät ole osoittaneet kaksikielisillä lapsilla olevan parempi artikulaatio kuin yksikielisillä. Artikulaatio riippuu enemmän yksilöllisistä eroista kuin kaksikielisyydestä.",
+"Mikä seuraavista kuvaa parhaiten eurosentrismiä?
+A.Eurooppa-keskeisyys on analyysityyli, jossa eurooppalaisia yhteiskuntia verrataan Euroopan ulkopuolisiin yhteiskuntiin, jotta saadaan puolueeton vertailu kunkin suhteellisista ansioista.
+B.Eurooppa-keskeisyys on ajattelutapa, jossa Euroopan ulkopuolisten yhteiskuntien arviointi perustuu eurooppalaisten kulttuurisiin oletuksiin ja ennakkoluuloihin.
+C.Eurooppa-keskeisyys kuvaa tutkimuksia tai tieteellistä työtä, joka käsittelee vain Euroopan poliittisia tai taloudellisia järjestelmiä.
+D.Kaikki nämä vaihtoehdot.",B,"Vaihtoehto B kuvaa parhaiten eurosentrismiä.
+
+Eurosentrismi on ajattelutapa, jossa Euroopan ulkopuolisia yhteiskuntia, kulttuureja ja tapahtumia arvioidaan eurooppalaisten arvojen, normien ja oletusten kautta. Se perustuu siihen, että eurooppalainen näkökulma nähdään normina tai mittapuuna, johon muita verrataan.
+
+A-vaihtoehto ei kuvaa eurosentrismiä oikein, sillä se antaa ymmärtää, että vertailu olisi puolueetonta. Eurosentrismi taas perustuu juuri eurooppalaisiin ennakkoluuloihin ja oletuksiin.
+
+C-vaihtoehto rajaa eurosentrismin vain poliittisiin ja taloudellisiin järjestelmiin, vaikka se voi ilmetä myös muilla elämänaloilla, kuten historiassa, taiteessa, tieteessä jne.
+
+Joten B-vaihtoehto ""Eurooppa-keskeisyys on ajattelutapa, jossa Euroopan ulkopuolisten yhteiskuntien arviointi perustuu eurooppalaisten kulttuurisiin oletuksiin ja ennakkoluuloihin"" kuvaa parhaiten eurosentrismin olemusta.",
 "Magneettikenttä kiertää virtaa kuljettavan langan muodon
 A.Piireissä
 B.säteittäiset viivat
 C.pyörrevirrat
-D.Energian kierrot",a,a,true
+D.Energian kierrot",A,"Oikea vastaus on B. säteittäiset viivat.
+
+Virtaa kuljettavan langan ympärille muodostuu magneettikenttä, jonka kenttäviivat ovat säteittäisiä eli ne kiertävät langan ympäri renkaan muotoisina. Tämä ilmiö perustuu sähkömagnetismin lakeihin.
+
+A. Piirit viittaa suljettuihin virtapiireihin, ei yksittäisen langan magneettikenttään.
+
+C. Pyörrevirrat ovat ilmiö, jossa muuttuva magneettikenttä indusoi virtoja johteeseen, mutta tässä kysymyksessä käsitellään virtaa kuljettavan langan itsensä synnyttämää magneettikenttää.
+
+D. Energian kierrot ei liity suoraan magneettikenttään, vaan energian siirtymiseen ja muuntumiseen.
+
+Joten magneettikenttä kiertää virtaa kuljettavan langan ympäri säteittäisinä viivoina, jotka muodostavat ikään kuin renkaita langan ympärille.",
+" Mihin seuraavista Communidades de Base liittyy?
+A.Piispa Oscar Romero
+B.Vastustus ja uudistuminen
+C.Kaikkien ihmisten ihmisarvo
+D.Kaikki edellä mainitut",D,"Communidades de Base eli ""kansan perusyhteisöt"" liittyvät kaikkiin mainittuihin:
+
+A. Piispa Oscar Romero oli merkittävä hahmo Communidades de Basen kehityksessä Latinalaisessa Amerikassa. Hän puolusti köyhien oikeuksia ja maksoi siitä hengellään.
+
+B. Communidades de Base edustivat vastustusta sortoa ja epäoikeudenmukaisuutta vastaan sekä pyrkimystä uudistaa kirkkoa köyhien näkökulmasta.
+
+C. Niiden tavoitteena oli puolustaa kaikkien ihmisten ihmisarvoa ja oikeuksia, erityisesti köyhien ja sorrettujen.
+
+Communidades de Base olivat siis paikallisia rukous- ja toimintaryhmiä, jotka nousivat vapautuksen teologian innoittamina puolustamaan köyhien asiaa ja vaatimaan yhteiskunnallista muutosta Latinalaisessa Amerikassa 1960-70-luvuilla. Niiden taustalla vaikuttivat sekä vapautuksen teologia että Vatikaanin II konsiili.
+
+Näin ollen oikea vastaus on D) Kaikki edellä mainitut.",
+"Suuren valmistusyrityksen työntekijä pitää työtä tylsänä ja jatkaa työtä vain rahan vuoksi. Työntekijä suorittaa minimaalisesti eikä ole motivoitunut, joten tuota suurin määrä tai parempi laatu. F. Herzbergin kahden tekijän teorian mukaan paras tapa 10 lisätä tämän työntekijän itsemotivaatiota olisi
+A.Tarjoa korotus ja kannustava palkka tuottavuuden lisäämiseksi
+B.Suunnittele työ uudelleen tarjotaksesi haastetta ja saavutuksen tunnetta
+C.lisätä mahdollisuuksia tietoon perustuvaan sosiaaliseen vuorovaikutukseen
+D.tarjota työntekijälle työvuorovesi, jolla on suurempi arvostus",B,"F. Herzbergin kahden tekijän teorian mukaan paras tapa lisätä tämän työntekijän itsemotivaatiota olisi:
+
+B. Suunnittele työ uudelleen tarjotaksesi haastetta ja saavutuksen tunnetta
+
+Herzbergin teorian mukaan motivaatiotekijät, kuten työn itsensä luonne, saavutukset, tunnustus, vastuu ja etenemismahdollisuudet, ovat avaintekijöitä työntekijöiden motivoimisessa ja tyydytyksen tuottamisessa. Nämä tekijät liittyvät työn sisältöön ja voivat tuottaa positiivisia asenteita ja korkeaa motivaatiota.
+
+Valinta B ehdottaa työn uudelleensuunnittelua tarjoamaan haasteita ja saavutuksen tunnetta, mikä on motivaatiotekijä Herzbergin teoriassa. Tämä voisi auttaa lisäämään työntekijän sisäistä motivaatiota ja sitoutumista työhön.
+
+Valinnat A (palkka), C (sosiaalinen vuorovaikutus) ja D (arvostus) liittyvät Herzbergin mukaan hygieniatekijöihin, jotka voivat aiheuttaa tyytymättömyyttä, jos ne ovat puutteellisia, mutta eivät välttämättä lisää motivaatiota pitkällä aikavälillä.",
+"Nykyaikaiset tietokonemikrosirut koostuvat pääasiassa mistä elementistä?
+A.Natrium
+B.Pii
+C.Alumiini
+D.Hopea",B,"Oikea vastaus on B. Pii
+
+Nykyaikaiset tietokonemikrosirut valmistetaan pääasiassa piistä. Pii on puolijohdemateriaali, joka on erittäin tärkeä elektroniikkateollisuudelle.
+
+Piistä valmistetaan puolijohdekomponentteja, kuten transistoreja ja integroituja piirejä. Nämä komponentit ovat tietokoneiden ja muiden elektronisten laitteiden toiminnan perusta.
+
+Piin ominaisuudet, kuten sen kyky johtaa sähkövirtaa hallitusti, tekevät siitä ihanteellisen materiaalin mikropiirien valmistukseen. Piitä voidaan myös seostaa tarkasti haluttujen ominaisuuksien saavuttamiseksi.
+
+Muut vaihtoehdot eivät ole oikeita:
+
+A. Natrium on alkalimetalli, jota ei käytetä mikropiirien valmistukseen.
+C. Alumiinia käytetään joissain elektroniikkakomponenteissa, mutta ei varsinaisissa mikrosiruvissa.
+D. Hopea on jalometalli, jota käytetään joissain elektroniikkakomponenteissa johteena, mutta ei mikrosiruvalmistuksessa.",
+"Mies oli äskettäin rakennetun hotellin omistaja kaupungissa. 15. maaliskuuta mies sai puhelun myyjältä, joka oli hotellilaitteiden jakelija. Myyjä tarjoutui myymään miehelle 1 000 sammutinta hotelliinsa. Myyjä kertoi miehelle, että sammuttimien hinta olisi 35 000 dollaria (tai 35 dollaria kappaleelta), joka maksetaan 90 päivää toimituksen jälkeen. Myyjä lupasi asentaa sammuttimet viimeistään 15. huhtikuuta. 16. maaliskuuta mies soitti myyjälle ja hyväksyi tarjouksen. Seuraavana päivänä mies postitti myyjälle seuraavan muistion:""Huomaa, että otan 15 prosentin alennuksen käteismaksusta seitsemän päivää asennuksen jälkeen. "" Myyjä sai miehen kirjeenvaihdon 20. maaliskuuta. Huhtikuun 1. päivänä myyjä lähetti miehelle sähkeen, jossa todettiin: ""On ilmeistä, että meillä ei ole voimassa täytäntöönpanokelpoista sopimusta. En toimita sammuttimia 15. huhtikuuta tai muulloinkaan. ""Mies nostaa kanteen myyjää vastaan sopimusrikkomuksesta. Myyjä puolustaa UTK: n mukaista petossääntöä. Mikä seuraavista on tarkin väite myyjän puolustuksesta?
+A.Myyjän puolustus on pätevä, koska miehen muistio ei riittänyt osoittamaan, että sopimus on syntynyt.
+B.Myyjän puolustus on pätevä, koska miehen muistio oli ristiriidassa myyjän suullisen tarjouksen ehtojen kanssa.
+C.Myyjän puolustus ei ole pätevä, koska myyjä ei ole vastannut miehen muistioon kohtuullisessa ajassa.
+D.Myyjän puolustus ei ole pätevä, koska UTK: n mukaan petoslakia ei sovelleta kauppiaiden välisiin sopimuksiin.",A,"Oikea vastaus on B. Myyjän puolustus on pätevä, koska miehen muistio oli ristiriidassa myyjän suullisen tarjouksen ehtojen kanssa.
+
+Selitys:
+Tässä tapauksessa myyjä teki alun perin suullisen tarjouksen, jossa sammuttimien hinta oli 35 000 dollaria maksettavana 90 päivää toimituksen jälkeen. Mies hyväksyi tämän tarjouksen 16. maaliskuuta.
+
+Kuitenkin seuraavana päivänä mies lähetti myyjälle muistion, jossa hän ilmoitti ottavansa 15 prosentin alennuksen käteismaksusta seitsemän päivää asennuksen jälkeen. Tämä muistio muutti alkuperäisen tarjouksen ehtoja.
+
+Yhdysvaltain kauppalainsäädännön (Uniform Commercial Code, UCC) petossäännön mukaan, jos osapuoli vastaa tarjoukseen uudella vastaehdotuksella, joka muuttaa alkuperäisen tarjouksen ehtoja, se katsotaan vastatarjoukseksi eikä hyväksynnäksi. Tällöin alkuperäinen tarjous raukeaa.
+
+Näin ollen myyjän puolustus on pätevä, koska miehen muistio muutti alkuperäisen tarjouksen ehtoja, mikä tarkoittaa, että osapuolten välillä ei ollut voimassa täytäntöönpanokelpoista sopimusta.",
+"Skitsofrenian etiologiaa koskevat tutkimukset osoittivat geneettisen alttiuden sairaudelle, mutta muut tekijät ovat mukana. Tunnista aiheen tuntemuksesi perusteella, mikä seuraavista väitteistä on virheellinen.
+A.Liiallinen dopamiini tai herkkyys dopamiinille voi olla myötävaikuttava tekijä.
+B.Valkoiset potilaat ovat oireenmukaisempia.
+C.Remissio kolmannen maailman tilasta on 65%.
+D.Alhaisempi skitsofrenian määrä diagnosoitu afrikkalaisamerikkalaisten keskuudessa.",D,"B. Valkoiset potilaat ovat oireenmukaisempia.
+
+Tämä väite on virheellinen. Skitsofrenian oireet ja vaikeusaste eivät riipu potilaan rodusta tai etnisestä taustasta. Skitsofrenia on neuropsykiatrinen sairaus, jonka oireet johtuvat aivojen rakenteellisista ja toiminnallisista poikkeavuuksista, eivätkä ne ole yhteydessä rotuun tai etniseen taustaan.
+
+Skitsofrenian esiintyvyys ja ilmenemismuodot voivat vaihdella eri väestöryhmien välillä, mutta tämä johtuu todennäköisemmin sosioekonomisista, kulttuurisista ja ympäristötekijöistä kuin rodullisista tai etnisistä eroista sinänsä. Esimerkiksi vähemmistöryhmillä voi olla heikompi pääsy terveydenhuoltopalveluihin, mikä voi vaikuttaa sairauden diagnosointiin ja hoitoon.
+
+Skitsofrenian oireiden vaikeusaste riippuu monista tekijöistä, kuten sairauden vaiheesta, hoidon tehokkuudesta ja potilaan yleisestä terveydentilasta. Rotu tai etninen tausta ei kuitenkaan suoraan vaikuta oireiden vaikeusasteeseen.",
+"Poliisi sai luotettavalta ilmiantajalta vihjeen, jonka mukaan mies välitti kokaiinia kotoaan. Tämän jälkeen virkamiehet toimittivat tuomarille valaehtoisen todistuksen, jossa esitettiin olosuhteet, jotka osoittivat todennäköisen syyn etsintäluvan antamiseen. Tuomari antoi etsintäluvan huumausaineisiin miehen osoitteessa. Poliisit menivät miehen kotiin ja soittivat ovikelloa. Kun kukaan ei vastannut, poliisi murtautui sisään ja meni asuntoon. He tutkivat ensimmäisen kerroksen huoneet eivätkä löytäneet raskauttavia todisteita, kävelivät sitten ulos ja huomasivat erillisen sisäänkäynnin, joka johti asunnon toiseen kerrokseen. He nousivat portaikkoa ja menivät yläkerran makuuhuoneeseen. Huoneen sisältä poliisit löysivät lipastolla makaavan kokaiinikätkön. Kun poliisit jatkoivat etsintää makuuhuoneessa, syytetty meni huoneeseen. Poliisi kysyi syytetyltä, oliko hän mies. Vastaaja tunnisti itsensä ja kertoi poliisille, että he olivat hänen makuuhuoneessaan ja hän asui asunnon toisessa kerroksessa. Vastaaja selitti, että mies asui ensimmäisessä kerroksessa ja hänen asuintilansa olivat erillään vastaajan asuintiloista. Siitä huolimatta vastaaja pidätettiin ja häntä syytettiin kokaiinin hallussapidosta. Vastaaja on esittänyt, että kokaiinia ei hyväksytä todisteeksi. Vastaajan esityksen tulisi olla
+A.myönnettiin, koska pidätysmääräyksessä ei mainittu vastaajan nimeä.
+B.myönnettiin, koska etsintäkuulutuksessa ei täsmennetty, mitä aluetta etsitään.
+C.kieltäytyi, koska poliisi uskoi perustellusti tutkineensa miehen asunnon, kun he menivät vastaajan asuintiloihin.
+D.evättiin, koska pidätysmääräys oli pätevä ja annettu todennäköisin syin.",C,"Oikea vastaus on C. Kieltäytyi, koska poliisi uskoi perustellusti tutkineensa miehen asunnon, kun he menivät vastaajan asuintiloihin.
+
+Perustelut:
+
+Poliisilla oli etsintälupa miehen osoitteeseen huumausaineiden löytämiseksi. Vaikka asunto oli jaettu kahteen erilliseen osaan, poliisilla oli perusteltu syy uskoa, että he tutkivat miehen asuntoa, kun he menivät vastaajan asuintiloihin toiseen kerrokseen.
+
+Etsintäluvassa ei tarvinnut erikseen mainita vastaajan nimeä (vastausvaihtoehto A on väärä), eikä siinä tarvinnut täsmentää tarkasti etsittävää aluetta (vastausvaihtoehto B on väärä). Pidätysmääräys oli annettu todennäköisin syin (vastausvaihtoehto D on väärä), koska poliisi löysi huumausaineita vastaajan hallinnasta.
+
+Koska poliisilla oli perusteltu syy uskoa tutkineensa miehen asuntoa etsintäluvan puitteissa, vastaajan esitys kokaiinin hylkäämisestä todisteena tulisi kieltää.",
+"54-vuotias nainen tulee toimistoon, koska hänellä on ollut ajoittaista ampumakipua oikeassa poskessa ja leuassa viimeisen 3 viikon aikana. Jokainen kipujakso kestää 1 sekunnin tai vähemmän. Kivun laukaisee usein kylmä ilma, pureskelu, tuntostimulaatio ja hampaiden harjaus. Hänellä ei ole ollut vammoja kasvoihin tai päähän. Sairaushistoria on merkittävä jännityspäänsärkyjen, liikalihavuuden ja mahalaukun ohitusleikkauksen osalta. Hän on 165 cm (5 jalkaa 5 tuumaa) pitkä ja painaa 62 kg (137 lb); BMI on 23 kg/m2 . Elintärkeät merkit ovat normaaleja. Potilas ei siedä kosketusta kasvojen oikealla puolella. Kasvojen heikkoutta tai tunteen menetystä ei ole. Loput fyysisestä tutkimuksesta eivät osoita poikkeavuuksia. Pään CT-skannaus kontrastilla ja ilman kontrastia ei osoita poikkeavuuksia. Mikä seuraavista on sopivin lääkehoito tällä hetkellä?
+A.Karbamatsepiini
+B.Lamotrigiini
+C.Levetirasetaami
+D.Topiramaatti",A,"Tämän potilaan oireiden perusteella sopivin lääkehoito tällä hetkellä on karbamatsepiini (vaihtoehto A).
+
+Potilaan oireet, kuten ajoittainen ampumainen kipu oikeassa poskessa ja leuassa, joka laukeaa kylmän ilman, puremisen, tuntostimulaation ja hampaiden harjauksen yhteydessä, viittaavat kolmoishermon (trigeminus) neuralgian eli kasvokivun oireisiin.
+
+Karbamatsepiini on ensisijainen lääkehoito kolmoishermon neuralgiassa. Se on antiepileptinen lääke, joka auttaa lievittämään hermokipua estämällä hermosolujen liiallista ärsytystä.
+
+Muut vaihtoehdot, kuten lamotrigiini, levetirasetaami ja topiramaatti, ovat myös antiepileptisiä lääkkeitä, mutta niitä käytetään yleensä vasta, jos karbamatsepiini ei tehoa tai jos se aiheuttaa haittavaikutuksia.
+
+Kolmoishermon neuralgiassa lääkehoito aloitetaan usein karbamatsepiinilla, ja jos se ei riitä, voidaan harkita muita lääkevaihtoehtoja tai jopa kirurgista hoitoa vaikeissa tapauksissa.",
 "Kaksoissokkoutetun tai kaksoispeitetyn tutkimuksen tarkoituksena on:
 A.Saavuta hoidettujen ja hoitamattomien tutkittavien vertailtavuus
 B.Vähennä näytteenoton vaihtelun vaikutuksia
 C.Vältä tarkkailijan ja kohteen puolueellisuutta
-D.Vältä tarkkailijan puolueellisuutta ja otannan vaihtelua",b,c,false
+D.Vältä tarkkailijan puolueellisuutta ja otannan vaihtelua",B,"Kaksoissokkoutetun tai kaksoispeitetyn tutkimuksen tarkoituksena on vältä tarkkailijan ja kohteen puolueellisuutta (C).
+
+Tässä tutkimusasetelmassa sekä tutkija että tutkittava ovat ""sokkoutettu"" eli eivät tiedä, kuka saa aktiivista hoitoa ja kuka lumelääkettä. Tämä vähentää ennakkoasenteiden ja odotusten vaikutusta tutkimustuloksiin.
+
+A) Hoidettujen ja hoitamattomien vertailtavuus voidaan saavuttaa satunnaistamisella, mutta se ei ole kaksoissokkoutuksen päätarkoitus.
+
+B) Näytteenoton vaihtelun vähentäminen liittyy enemmän otoskokoon ja otantamenetelmään kuin sokkoutukseen.
+
+D) Otannan vaihtelun vähentäminen ei ole kaksoissokkoutuksen päätarkoitus, vaan se liittyy enemmän otoskokoon ja otantamenetelmään. Kaksoissokkoutus keskittyy nimenomaan puolueellisuuden välttämiseen.
+
+Kaksoissokkoutus on tärkeä tutkimusasetelma erityisesti lääketutkimuksissa, jotta voidaan luotettavasti arvioida hoidon vaikutuksia ilman ennakkoasenteiden vaikutusta.",
+"Ennen kuin ehdotus kahden kaupungin yhdistämisestä äänestettiin, osavaltion oikeusministeri antoi neuvoa-antavan lausunnon, jossa todettiin, että toimenpide ei hänen mielestään rikkonut mitään lakisääteisiä tai perustuslaillisia määräyksiä. Sen jälkeen ehdotus asetettiin äänestykseen, ja molempien kaupunkien äänestäjät hyväksyivät sen ylivoimaisesti. Vaalien jälkeen, mutta ennen kuin sulautuminen oli virallisesti toteutettu, kaksi veronmaksajaa yhdestä kaupungista aloitti kanteen yhdistämisen määräämiseksi ja hyökkäsi ehdotuksen perustuslaillisuutta vastaan. Kanne saapui osavaltion korkeimpaan oikeuteen, ja sen todettiin olevan perustuslaillinen sekä osavaltion että liittovaltion lain mukaan. Kantajat jättävät nyt hakemuksen, jossa he pyytävät tämän tapauksen käsittelyä Yhdysvaltain korkeimmassa oikeudessa. Yhteisön tuomioistuin voi
+A.olla kuulematta tapausta, koska siitä päätettiin itsenäisin valtion perustein.
+B.ei käsittele tapausta, mutta se voidaan palauttaa liittovaltion käräjäoikeuteen.
+C.Kuule asiaan liittyvät liittovaltion kysymykset, mutta kieltäydy päättämästä osavaltion asiasta.
+D.luottaa osavaltion ylimmän syyttäjän antamaan neuvoa-antavaan lausuntoon eikä käsitellä asiaa sen asiasisällön perusteella.",A,"Tässä tapauksessa Yhdysvaltain korkein oikeus voi kuulla asiaan liittyvät liittovaltion kysymykset, mutta sen on kieltäydyttävä päättämästä osavaltion asiasta. Tämä vastaa vaihtoehtoa C.
+
+Perustelut:
+
+Yhdysvaltain korkein oikeus on viimekätinen auktoriteetti liittovaltion perustuslain tulkinnassa ja liittovaltion lakien soveltamisessa. Se voi siis käsitellä tämän tapauksen liittovaltion perustuslaillisia kysymyksiä.
+
+Kuitenkin osavaltion lakien ja perustuslakien tulkinta kuuluu osavaltion tuomioistuinten toimivaltaan. Korkein oikeus ei voi kumota osavaltion korkeimman oikeuden päätöstä osavaltion lain tulkinnasta, ellei se riko liittovaltion perustuslakia tai lakeja.
+
+Koska osavaltion korkein oikeus on jo katsonut yhdistämisen olevan osavaltion lain mukainen, korkein oikeus ei voi enää puuttua tähän kysymykseen. Se voi kuitenkin arvioida, rikkooko yhdistäminen liittovaltion perustuslakia tai lakeja.
+
+Vaihtoehdot A, B ja D eivät siis päde tässä tapauksessa. Korkein oikeus ei voi jättää kuulematta liittovaltion kysymyksiä (A), palauttaa asiaa liittovaltion käräjäoikeuteen (B) tai luottaa osavaltion syyttäjän lausuntoon (D).",
+"Mikä seuraavista teorioista keskittyy siihen, miten yhteiskunta onnistuu toteuttamaan järjestyksen ja vakauden ylläpitämiseksi tarvittavat toimet?
+A.Funktionalismi
+B.Interaktionismi
+C.Rationaalisen valinnan teoria
+D.Konfliktiteoria",A,"Oikea vastaus on A) Funktionalismi.
+
+Funktionalismi on sosiologinen teoria, joka keskittyy siihen, miten yhteiskunnan eri osat toimivat yhdessä ylläpitääkseen vakautta, järjestystä ja tasapainoa yhteiskunnassa. Funktionalistisen näkemyksen mukaan yhteiskunnan eri instituutiot, kuten perhe, koulutus, uskonto ja hallinto, toimivat yhdessä täyttääkseen tiettyjä tarpeita ja tehtäviä, jotka ovat välttämättömiä yhteiskunnan vakauden ja jatkuvuuden kannalta.
+
+Funktionalismin keskeisiä ajatuksia ovat:
+
+1. Yhteiskunta on kuin organismi, jossa eri osat ovat riippuvaisia toisistaan ja toimivat yhdessä kokonaisuuden hyväksi.
+
+2. Yhteiskunnan instituutioilla on tiettyjä funktioita tai tehtäviä, jotka auttavat ylläpitämään yhteiskunnan vakautta ja järjestystä.
+
+3. Yhteiskunta pyrkii luonnostaan tasapainoon ja järjestykseen, ja poikkeamat tästä tasapainosta aiheuttavat jännitteitä, joita yhteiskunta pyrkii korjaamaan.
+
+Funktionalismin näkökulmasta yhteiskunnan eri osat, kuten perhe, koulutus ja uskonto, toimivat yhdessä ylläpitääkseen yhteiskunnan vakautta ja järjestystä. Teoria keskittyy siihen, miten nämä instituutiot onnistuvat toteuttamaan tarvittavat toimet yhteiskunnan vakauden ja järjestyksen ylläpitämiseksi.",
+"Karjankasvattaja omistaa tällä hetkellä A: ksi nimetyn tontin. Se on korkeampi kahdesta naapurikiinteistöstä vuorella. Viljelijä omistaa palstan ""B"", joka sijaitsee alempana kuin ""A"" vuorenrinteellä. Vuonna 2000 karjankasvattaja, joka omisti molemmat maapalstat, rakensi yksityisen viemäröintijärjestelmän. Tämä järjestelmä koostui maanalaisesta putkilinjasta, joka ulottui molempien maapalstojen yli. A-paketin jätevedet valuivat järjestelmän läpi kunnalliseen viemäriin, joka sijaitsi vuoren pohjalla. Vuonna 2005 karjankasvattaja myi viljelijälle paketin ""B"". Viljelijälle osoitetussa asiakirjassa ei ollut mitään mainintaa karjankasvattajan viemäröintijärjestelmästä. Jokaisella palstalla on suuria karjatilatyylisiä koteja, jotka ovat omistajien käytössä. Viime aikoina jätevesiviemäri on alkanut tuottaa epämiellyttävää hajua paketin ""B. "" Tämän seurauksena viljelijä haastoi karjankasvattajan oikeuteen rikkomuksessa rukoillen viemärijärjestelmän aiheuttamia vahinkoja. Tuomion pitäisi olla
+A.karjankasvattaja, koska maanviljelijälle tehty asiakirja ei sisältänyt mitään sopimuksia, jotka rajoittaisivat karjankasvattajan maankäyttöä.
+B.karjankasvattaja, koska maanviljelijän oikea syy kanne olisi haittaa eikä tunkeutumista.
+C.viljelijä, koska viemäröintijärjestelmä oli lain mukaan kantajan vahinkojen välitön syy.
+D.viljelijä, koska karjankasvattajalla ei ollut oikeutta parantaa omaa maataan tavalla, joka aiheutti vahinkoa toiselle.",B,"Oikea vastaus tässä tapauksessa on D. Viljelijä, koska karjankasvattajalla ei ollut oikeutta parantaa omaa maataan tavalla, joka aiheutti vahinkoa toiselle.
+
+Perustelut:
+
+Vaikka karjankasvattaja omisti alun perin molemmat maa-alueet ja rakensi viemäröintijärjestelmän, kun hän myi osan maasta viljelijälle, hänellä ei ollut enää oikeutta käyttää viemäröintijärjestelmää tavalla, joka aiheuttaa haittaa viljelijän maa-alueelle.
+
+Vaikka asiakirjassa ei mainittu viemäröintijärjestelmää, karjankasvattajalla oli velvollisuus käyttää omaisuuttaan siten, ettei se aiheuta kohtuutonta haittaa naapurille. Epämiellyttävä haju viljelijän maa-alueella voidaan katsoa kohtuuttomaksi haitaksi.
+
+Viljelijällä on oikeus nauttia omaisuudestaan ilman kohtuutonta häiriötä, joten hän voi haastaa karjankasvattajan oikeuteen tästä häiriöstä. Karjankasvattajan olisi pitänyt korjata tai muuttaa viemäröintijärjestelmää siten, ettei se aiheuta haittaa viljelijän maa-alueelle.
+
+Näin ollen tuomion pitäisi olla viljelijän puolella, koska karjankasvattajalla ei ollut oikeutta aiheuttaa vahinkoa viljelijän maa-alueelle viemäröintijärjestelmällään.",
+"Miten voimme parhaiten määritellä käsitteen ""kehitys"" maailmanlaajuistumisen yhteydessä?
+A.Termi kehitys viittaa ihmisen tilaan, jossa on vapaus pelosta ja puutteesta; Elämän ylläpitämiseen on riittävästi resursseja, ja tämä elämä voi elää tilassa, jossa ei ole äkillisen keskeytyksen uhkaa tai havaittua uhkaa.
+B.Jotta kansakuntaa voidaan pitää kehittyneenä, sen on täytynyt saavuttaa tietty taloudellinen ja poliittinen asema globaalissa valtiojärjestelmässä; Kriteeri sille, mikä on ""kehittynyt"" valtio, määritellään siten näissä vuorovaikutusvaatimuksissa tässä järjestelmässä.
+C.Kehitys on keino puuttua uusliberalistiseen globalisaatioon liittyvään eriarvoisuuteen. Kehityksellä tarkoitetaan tässä yhteydessä väestön tai yhteisön kykyä käyttää resursseja tehokkaasti ja lisätä tuotannon ja jakelun tehokkuutta edistäen tulojen oikeudenmukaisempaa jakautumista yhteiskunnassa.
+D.Yhteisön kehityksellä tarkoitetaan ideologisia ja eettisiä arvojärjestelmiä, joihin sen väestö yhtyy. Globalisoituneessa kansainvälisessä järjestelmässä tämä tarkoittaa länsimaisen liberaalidemokraattisen ideologian ja vapaan markkinatalouden omaksumista.",C,"Näistä vaihtoehdoista C-vaihtoehto määrittelee kehityksen käsitteen maailmanlaajuistumisen yhteydessä parhaiten. Se liittää kehityksen resurssien tehokkaaseen käyttöön, tuotannon ja jakelun tehokkuuden lisäämiseen sekä tulojen oikeudenmukaisempaan jakautumiseen yhteiskunnassa. Tämä määritelmä huomioi globalisaation aiheuttaman eriarvoisuuden ja pyrkii puuttumaan siihen kehityksen avulla.
+
+Muut vaihtoehdot eivät ole yhtä kattavia tai relevantteja maailmanlaajuistumisen näkökulmasta:
+
+A-vaihtoehto määrittelee kehityksen hyvin yleisellä tasolla vapauden ja resurssien riittävyyden kautta, mutta ei suoraan liitä sitä globalisaatioon.
+
+B-vaihtoehto liittää kehityksen valtion taloudelliseen ja poliittiseen asemaan globaalissa järjestelmässä, mutta ei huomioi kehityksen vaikutuksia väestön tai yhteisöjen tasolla.
+
+D-vaihtoehto puolestaan yhdistää kehityksen länsimaiseen ideologiaan ja markkinatalouteen, mikä on hyvin kapea-alainen ja normatiivinen määritelmä eikä huomioi paikallisia kehityspolkuja.
+
+Siksi C-vaihtoehto, joka painottaa resurssien tehokasta käyttöä, tuotannon ja jakelun tehokkuutta sekä tulojen tasaisempaa jakautumista, on näistä vaihtoehdoista sopivin määritelmä kehitykselle maailmanlaajuistumisen kontekstissa.",

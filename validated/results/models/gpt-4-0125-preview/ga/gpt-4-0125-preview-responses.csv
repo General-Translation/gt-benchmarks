@@ -1,4 +1,44 @@
 Question,CorrectAnswer,GivenAnswer,Correct
+"Is cosúil go bhfuil daoine fásta meánaosta níos ____ ná daoine fásta níos sine nó níos óige
+A.Generative
+B.NeuroticName
+C.In-chomhaontaithe
+D.Áirithe",a,a. generative,true
+"Cén staid ina bhfuil sraith an scannáin Magnolia i 1999?
+A.California
+B.Carolina Theas
+C.An tSeoirsia
+D.Texas",a,a. california,true
+"Cad é teanga dhúchais an aisteora Antonio Banderas?
+A.Spainnis
+B.Rúisis
+C.Gearmáinis
+D.Fraincis",a,a. spainnis,true
+"Sócháin is cúis le achondroplasia exert éifeacht is féidir a aicmiú mar:
+A.diúltach ceannasach.
+B.gnóthachan feidhme.
+C.haploinsufficiency.
+D.caillteanas feidhme.",b,a.diúltach ceannasach.,false
+"Cad í teanga oifigiúil na hÍsiltíre?
+A.Danmhairgis
+B.Sualainnis
+C.Gearmáinis
+D.Ísiltíris",d,d. ísiltíris,true
+"Léirítear autocorrelation iarmharach diúltach ag cé acu ceann amháin díobh seo a leanas?
+A.Patrún timthriallach sna hiarmharacha
+B.Patrún ailtéarnach sna hiarmharacha
+C.Randamacht iomlán sna hiarmharacha
+D.Iarmharacha atá gar do nialas",b,b. patrún ailtéarnach sna hiarmharacha,true
+" Cuireann an uirlis mhargaíochta agus chumarsáide seo spreagadh díreach nó dreasacht ar fáil chun custaiméirí a spreagadh chun táirge/seirbhís a cheannach:
+A.Fógraíocht.
+B.Caidreamh poiblí.
+C.Cur chun cinn díolacháin.
+D.Margaíocht dhíreach.",c,c.cur chun cinn díolacháin.,true
+"Is cineál sonrach pearsantachta inmholta é fallacy na pearsantachta
+A.Titim na timpiste
+B.Aincheist bhréagach
+C.Ag impí ar an gceist
+D.Réasúnaíocht chiorclach",a,b. aincheist bhréagach,false
 "Tagraíonn an cheist seo don eolas seo a leanas.
 ""Cothaítear síolta na réimeas ollsmachtach trí ainnise agus ba mhaith liom. Scaipeann siad agus fásann siad in ithir olc na bochtaineachta agus an achrann. Tagann siad ar a bhfás iomlán nuair a bhíonn dóchas daoine ar feadh saol níos fearr tar éis bás a fháil. Caithfimid an dóchas sin a choinneáil beo. . . Tá freagrachtaí móra curtha orainn ag gluaiseacht tapa na n-imeachtaí. . . Táim muiníneach go mbeidh na freagrachtaí sin ar an gComhdháil.""
 An tUachtarán Harry S. Truman, 1947
@@ -6,135 +46,7 @@ Léiríonn na smaointe a chuirtear in iúl sa sliocht thuas go díreach cé acu 
 A.Díospóireachtaí faoin gcaidreamh idir an Chomhdháil agus an t-uachtarán.
 B.Díospóireachtaí faoi úsáid fórsa míleata i gcásanna luaineacha.
 C.Díospóireachtaí faoi ról na Stát Aontaithe i ngnóthaí an domhain.
-D.Díospóireachtaí faoi ról ceart na bpáirtithe polaitiúla.",c,c,true
-"Cad is ionsaí athsheinnte ann?
-A.Nuair a thugann an t-ionsaitheoir freagra ar theachtaireacht a sheol an córas chuige
-B.Ionsaí a dhéanann athrá go leanúnach, ag tuar laige
-C.Ionsaí a úsáideann teachtaireachtaí an chórais féin agus mar sin ní féidir é a chosaint i gcoinne
-D.Athdhíolann an t-ionsaitheoir teachtaireacht a gabhadh, agus glacann an suíomh leis agus freagraíonn sé i bhfabhar an ionsaitheora",d,d,true
-"Is dóichí go gcuirfear cáin a fhorchuirtear ar sholáthraí ar aghaidh chuig an tomhaltóir i bhfoirm ardú praghais má
-A.Tá leaisteachas praghais an éilimh an-leaisteach.
-B.Tá leaisteachas praghais an éilimh an-neamhlastach.
-C.tá leaisteachas praghais an éilimh leaisteach aonad.
-D.Tá leaisteachas pá an éilimh an-leaisteach.",b,b.,true
-"Ráiteas 1 | I ngrúpa (ab)^{-2} = b^{-2}a^{-2}. Ráiteas 2 | I ngrúpa (ab)^n = a^nb^n.
-A.Fíor, Fíor
-B.Bréagach, Bréagach
-C.Fíor, Bréagach
-D.Bréagach, Fíor",b,c.,false
-"An gníomh jure imperii nó jure gestionis é an dúnbhású neamhdhleathach a rinne Aire tíre X thar lear?
-A.Is gníomh poiblí é iompar den sórt sin (jure imperii)
-B.Ní mheallann iompar den sórt sin díolúine riamh
-C.Is gníomh príobháideach é iompar den sórt sin (jure gestionis)
-D.Is gníomh poiblí é iompar den sórt sin ach tá sé cosanta ag díolúine",c,a.,false
-"Tá cleachtadh scaradh lí plandaí á dhéanamh ag na daltaí a éilíonn orthu seomra crómatagrafaíochta dúnta a úsáid le méid beag aicéatón ag bun an tseomra. I measc na rabhadh sábháilteachta d'aicéatón tá an ráiteas gur greannach súl agus craicinn é agus go bhfuil gal inadhainte aige. As na nithe seo a leanas' cén réamhchúram sábháilteachta ba chóir do na daltaí a ghlacadh agus iad i mbun an chleachtaidh?
-A.Lámhainní tine-retardant a chur air chun an seomra a iompar chuig cochall múchta má ghabhann an t-aicéatón tine
-B.An seomra a chur i gcomh-aireachta dúnta, dorcha ar feadh ré an scaradh lí
-C.Lámhainní leathair a chaitheamh agus an srón agus an béal a chlúdach le masc cáithníní
-D.Gloiní agus lámhainní de chineál nítríle a chaitheamh agus gach coimeádán aicéatón a choinneáil dúnta",d,d,true
-"I gciorcad sraithe, más é 2 A an sruth i lampa amháin, is é an sruth sa lampa in aice leis
-A.leath, 1 A
-B.2:00 AM
-C.Braitheann sé ar a bhfuil lampa níos gaire don cheallra
-D.Níl go leor eolais le rá",b,d.,false
-"Is é is dóichí go mbeidh baint dhíreach ag easpa cabhrach foghlamtha le
-A.éifeacht Barnum.
-B.claonadh féinfhreastail.
-C.locus seachtrach rialaithe.
-D.dearfach neamhchoinníollach.",c,c.,true
-"Sainaithin réamhfhocal an tairiscint choinníollach seo a leanas: Ní bhuaigh na Beacha a gcéad chluiche ach amháin mura mbuafaidh na Aardvarks nó na Chipmunks a gcéad chluichí.
-A.Ní bhuaigh na Aardvarks a gcéad chluiche.
-B.Bhuaigh na Beacha a gcéad chluiche.
-C.Ní bhuaigh na Chipmunks a gcéad chluiche.
-D.Ní bhuaigh na Aardvarks nó na Chipmunks a gcéad chluichí.",b,d.,false
-"Léirítear an voltas a spreagtar in ionduchtóir mar,
-A.táirge a ionduchtais agus a srutha tríd.
-B.cóimheas idir a ionduchtú agus an sruth tríd.
-C.cóimheas srutha tríd go dtí a ionduchtas.
-D.a ionduchtú agus a ráta athraithe srutha tríd.",d,d.,true
-"Cén fáth a gcuireann Parfit i gcoinne an chomhionannais?
-A.Maíonn sé go bhfuil sochaí éagothrom dosheachanta.
-B.Maíonn sé gur féidir linn comhionannas a mhéadú trí thosaíocht a thabhairt do riachtanais na mbocht.
-C.Dearbhaíonn sé go bhfuilimid go léir freagrach as ár mbochtanas.
-D.Diúltaíonn sé do smaoineamh an chomhionannais ar fad.",b,b.,true
-"Tá uimhir, slánaithe go dtí an míle is gaire, 47,000. Cén uimhir a d'fhéadfadh a bheith ar an uimhir a cruinníodh?
-A.46,295
-B.46,504
-C.47,520
-D.47,924",b,b.,true
-"Fulaingíonn othar muineál briste le damáiste do chorda an dromlaigh ag leibhéal an séú veirteabra ceirbheacsach.
-A.Ní bheidh siad in ann análú gan tacaíocht saoil.
-B.Ní bheidh siad in ann análú go ciúin.
-C.Ní féidir éifeacht ar análú a thuar.
-D.Ní chuirfear isteach ar análú.",b,a.,false
-"Is é éifeachtúlacht chandamach brathadóra fótóin ná 0.1. Má sheoltar 100 fótón isteach sa bhrathadóir, ceann i ndiaidh a chéile, braithfidh an brathadóir fótóin
-A.10 n-uaire ar an meán, le diall RMS de thart ar 4
-B.10 n-uaire ar an meán, le diall RMS de thart ar 3
-C.10 n-uaire ar an meán, le diall RMS de thart ar 1
-D.10 n-uaire ar an meán, le diall RMS de thart ar 0.1",b,a.,false
-"Aimsigh $-\dfrac{1}{-3}\cdot\cfrac{1}{~\frac{1}{-3}~}.$
-A.1
-B.-1
-C.0
-D.2",b,a,true
-"Léirítear autocorrelation iarmharach diúltach ag cé acu ceann amháin díobh seo a leanas?
-A.Patrún timthriallach sna hiarmharacha
-B.Patrún ailtéarnach sna hiarmharacha
-C.Randamacht iomlán sna hiarmharacha
-D.Iarmharacha atá gar do nialas",b,b.,true
-"Cé acu de na tacair seo a leanas de teaghráin giotán NACH FÉIDIR cur síos a dhéanamh orthu le léiriú rialta?
-A.Gach teaghráin giotán a bhfuil a líon nialais iolraí de chúig
-B.Gach teaghráin giotán ag tosú le nialas agus dar críoch le ceann amháin
-C.Gach teaghráin giotán le líon fiú nialais
-D.Gach teaghráin giotán le cinn níos mó ná nialais",d,c,false
-"Faigh fad an chuar y = ln x idir na pointí ina bhfuil y = 1/2 agus y = 1.
-A.0.53
-B.0.86
-C.1.18
-D.1.36",c,b.0.86,false
-"Cad é teanga dhúchais an aisteora Antonio Banderas?
-A.Spainnis
-B.Rúisis
-C.Gearmáinis
-D.Fraincis",a,a.spainnis,true
-"Ós rud é go n-aistrítear minicíocht ionsúcháin infridhearg chlóiríd deoitéiriam (DCl) ó mhinicíocht clóiríd hidrigine (HCl) mar gheall ar na difríochtaí ina
-A.dáileadh leictreon
-B.nóiméad dipole
-C.fórsa tairiseach
-D.mais laghdaithe",d,d.mais laghdaithe,true
-"Cén staid ina bhfuil sraith an scannáin Magnolia i 1999?
-A.California
-B.Carolina Theas
-C.An tSeoirsia
-D.Texas",a,a.california,true
-"Cé acu ceann amháin díobh seo a leanas is dóichí a chruthóidh fás eacnamaíoch níos láidre le himeacht ama?
-A.Tomhaltas níos gasta acmhainní nádúrtha.
-B.Rátaí neamhlitearthachta níos airde do dhaoine fásta.
-C.Stoc atá ag titim d'earraí caipitiúla.
-D.Creidmheasanna cánach infheistíochta.",d,d.,true
-"Tagraíonn an cheist seo don eolas seo a leanas.
-""Go deimhin, mar an dá fatwas de idirdhealú [scoláirí] a bhunaíonn a dtuairim ar chúis agus traidisiún araon agus an comhdhearcadh an phobail Sunni aontú go gcaithfidh an oibleagáid ársa extirpation, extermination, agus díbirt nuálaíocht olc a bheith mar aidhm ár mian exalted, le haghaidh ""Is zeal Reiligiúnach bua do Chreideamh Dé an Beneficent""; ansin, i gcomhréir leis na focail ar an Prophet (Síocháin air!) ""Gidh bé isteach nuálaíocht olc isteach ní mór ár n-ordú a dhíbirt"" agus ""Gidh bé a mhúintear i gcoinne ár n-ordú ní mór a dhíbirt,"" Tá gníomh a bheith riachtanach agus exigent...""
-Litir ó Ottoman Sultan Selim I go Safavid Shah Ismail I, 1514
-Tharraing na Safavids ire na n-impireachtaí Ioslamacha ar nós an Ottoman agus na hImpireachtaí Mughal go príomha mar gheall ar na Safavids
-A.impireacht leathnaitheach a bhí suite go geografach idir dhá fhorleathnóir eile
-B.dhiúltaigh na tenets lárnach an Ioslam
-C.críostaithe enslaved, agus d'iompaigh siad ina trodaithe Safavid
-D.D'fhógair Ismail é féin a bheith ina Caliph",a,a,true
-"Cé acu de na miasa seo a dhéantar as intestines muc?
-A.Haggis
-B.Chitlins
-C.Grits
-D.Chop Suey",b,b.chitlins,true
-"Cé acu de na scannáin uafáis seo a sceith na sequels is mó?
-A.Scread'
-B.Jaws'
-C.Oíche Shamhna'
-D.Dé hAoine an 13ú'",d,c.oíche shamhna',false
-"Sócháin is cúis le achondroplasia exert éifeacht is féidir a aicmiú mar:
-A.diúltach ceannasach.
-B.gnóthachan feidhme.
-C.haploinsufficiency.
-D.caillteanas feidhme.",b,a.diúltach ceannasach.,false
+D.Díospóireachtaí faoi ról ceart na bpáirtithe polaitiúla.",c,c.díospóireachtaí faoi ról na stát aontaithe i ngnóthaí an domhain.,true
 "Tagraíonn an cheist seo don eolas seo a leanas.
 Ar dtús ní mór dúinn a rá go bhfuil an cosmos sféarúil i bhfoirm, go páirteach toisc go bhfuil an fhoirm seo ina iomláine foirfe nach dteastaíonn aon joints, is é an ceann is iomláine ar fad, go páirteach toisc go ndéanann sé an fhoirm is capacious, is fearr a oireann gach rud a choinneáil agus a chaomhnú; nó arís toisc go bhfuil comhchodanna uile na cruinne, is é sin an ghrian, an ghealach agus na pláinéid le feiceáil san fhoirm seo; nó toisc go ndéanann gach rud iarracht an fhoirm seo a bhaint amach, mar is léir i gcás titeann uisce agus dobharlaigh eile má dhéanann siad iarracht iad féin a shainmhíniú. Mar sin, ní bheidh aon amhras ar aon duine go mbaineann an fhoirm seo leis na comhlachtaí neamhaí. ...
 Go bhfuil an domhan freisin sféarúil dá bhrí sin thar cheist, toisc go presses sé ó gach taobh ar a lár. Cé nach féidir ciorcal foirfe a thuiscint mar gheall ar ingearchlónna na sléibhte agus dúlagair na ngleann, ach ní dhéanann sé seo difear do nádúr sféarúil ginearálta an domhain. ...
@@ -144,82 +56,216 @@ Is féidir an sliocht a úsáid mar fhianaise go raibh Copernicus difriúil ó f
 A.tá an cosmos sféarúil
 B.tá an Domhan sféarúil
 C.tá an cosmos geostatach
-D.níl an Domhan ina stad",d,d,true
-"Cad í teanga oifigiúil na hÍsiltíre?
-A.Danmhairgis
-B.Sualainnis
-C.Gearmáinis
-D.Ísiltíris",d,d.ísiltíris,true
-"Glacann gnólachtaí páirt i gcuntasaíocht shóisialta mar gheall ar éilimh ó _________, chun ________ a aithint, chun ___________ a fheabhsú agus chun _________ agus ___________ a spreagadh
-A.Geallsealbhóirí, Rioscaí, Bainistíocht Geallsealbhóirí, Cuntasacht, Trédhearcacht
-B.Geallsealbhóirí, Cuntasacht, Trédhearcacht, Rioscaí, Bainistíocht Geallsealbhóirí
-C.Geallsealbhóirí, Cuntasacht, Rioscaí, Geallsealbhóirí, Bainistíocht Geallsealbhóirí
-D.Geallsealbhóirí, Bainistíocht Geallsealbhóirí, Trédhearcacht, Rioscaí, Cuntasacht",a,a,true
-"Is cineál sonrach pearsantachta inmholta é fallacy na pearsantachta
-A.Titim na timpiste
-B.Aincheist bhréagach
-C.Ag impí ar an gceist
-D.Réasúnaíocht chiorclach",a,b.aincheist bhréagach,false
-"Is cosúil go bhfuil daoine fásta meánaosta níos ____ ná daoine fásta níos sine nó níos óige
-A.Generative
-B.NeuroticName
-C.In-chomhaontaithe
-D.Áirithe",a,a.generative,true
-"Cé acu de na tíortha seo a leanas a d'astaigh an CO2 per capita is mó in 2017?
-A.An tSeapáin
-B.Ceanada
-C.An Rúis
-D.An Iaráin",b,b.ceanada,true
-"Sa xy-eitleán, tá graf x^(log y) = y^log x
-A.an chéad cheathrú oscailte
-B.cuar dúnta
-C.ga sa chéad cheathrú oscailte
-D.pointe amháin",a,a.an chéad cheathrú oscailte,true
-"Tá tras-bhailíochtú K-huaire
-A.líneach i K
-B.ceathairshleasach i K
-C.ciúbach i K
-D.easpónantúil i K",a,a.líneach i k,true
-"Tá cuid d'uisce Mhars reoite san ithir agus na caipíní oighir agus cailleadh cuid acu mar gheall ar stialladh gaoithe gréine ach meastar gur cailleadh cuid mhaith den uisce bunaidh trí mheicníocht eile. Cad a tharla don uisce ""caillte"" seo?
-A.bhí sé stripped ar shiúl ag an réimse maighnéadach nuair a laghdú sé go tapa i neart
-B.briseadh hidrigin agus ocsaigin é le solas ultraivialait agus cailleadh an hidrigin trí éalú teirmeach
-C.bhí sé ólta ag sibhialtacht tart Martians
-D.bhí sé vaporized le linn tréimhse bolcánachas dian agus cailleadh chun spás trí éalú teirmeach",b,b,true
-"Scríobh ríomhchláraitheoir an clár thíos. Úsáideann an clár liosta uimhreacha ar a dtugtar numList. Tá sé i gceist go dtaispeánfaidh an ríomhchlár suim na n-uimhreacha sa liosta.
- suim ← numList [1]
- DO GACH luach I numList
- suim ← suim + luach
- Suim TAISPEÁNA
- D'fhonn an clár a thástáil, túsaíonn an ríomhchláraitheoir numList go [0 , 1 , 4 , 5]. Taispeánann an clár 10, agus críochnaíonn an ríomhchláraitheoir go n-oibríonn an clár mar atá beartaithe. Cé acu ceann amháin díobh seo a leanas atá fíor?
-A.Tá an chonclúid ceart; Oibríonn an clár mar atá beartaithe.
-B.Tá an chonclúid mícheart; Ní thaispeánann an clár an luach ceart don chás tástála [0, 1, 4, 5].
-C.Tá an chonclúid mícheart; Ag baint úsáide as an cás tástála [0, 1, 4, 5] nach bhfuil go leor a thabhairt i gcrích go bhfuil an clár ceart.
-D.Tá an chonclúid mícheart; Ag baint úsáide as an cás tástála [0, 1, 4, 5] Deimhníonn ach go n-oibríonn an clár le haghaidh liostaí in ord a mhéadú.",c,b,false
-"Cén dearcadh síceolaíoch is mó a bhí i mbéal an phobail ag tús an fichiú haois in Iarthar na hEorpa?
-A.néareolaíocht
-B.éabhlóideach
-C.Iompraíochtaí
-D.Síocanailíseach",d,d.síocanailíseach,true
-" Cuireann an uirlis mhargaíochta agus chumarsáide seo spreagadh díreach nó dreasacht ar fáil chun custaiméirí a spreagadh chun táirge/seirbhís a cheannach:
-A.Fógraíocht.
-B.Caidreamh poiblí.
-C.Cur chun cinn díolacháin.
-D.Margaíocht dhíreach.",c,c.cur chun cinn díolacháin.,true
-"Léirigh taighde Garcia agus Koelling maidir le héagsúlachtaí foghlamtha gurb iad na péirí UCS agus CS seo a leanas na cinn is cumhachtaí agus is mó a d'fhoghlaim siad go tapa?
-A.tasc a dhéanamh agus luach saothair bia a fháil
-B.masmas agus bia nó deoch
-C.gluaiseacht agus turraing
-D.pionóis agus luach saothair",b,b.masmas agus bia nó deoch,true
-"Tá cúlú domhain ar an ngeilleagar. I bhfianaise na staide eacnamaíche seo cé acu de na ráitis seo a leanas faoi bheartas airgeadaíochta atá cruinn?
-A.Ní rachadh an cúlú eacnamaíochta in olcas ach an polasaí leathnaitheach.
-B.Méadaíonn beartas leathnaithe go mór an t-éileamh comhiomlán má tá infheistíocht íogair d'athruithe ar an ráta úis.
-C.Is é an beartas craptha an spreagadh cuí le haghaidh infheistíochta agus tomhaltais.
-D.Má tá an t-éileamh ar airgead breá leaisteacha d'fhéadfadh beartas airgeadaíochta a bheith éifeachtach go leor.",b,b,true
+D.níl an Domhan ina stad",d,d.níl an domhan ina stad,true
+"An gníomh jure imperii nó jure gestionis é an dúnbhású neamhdhleathach a rinne Aire tíre X thar lear?
+A.Is gníomh poiblí é iompar den sórt sin (jure imperii)
+B.Ní mheallann iompar den sórt sin díolúine riamh
+C.Is gníomh príobháideach é iompar den sórt sin (jure gestionis)
+D.Is gníomh poiblí é iompar den sórt sin ach tá sé cosanta ag díolúine",c,a. is gníomh poiblí é iompar den sórt sin (jure imperii),false
+"Cé acu de na scannáin uafáis seo a sceith na sequels is mó?
+A.Scread'
+B.Jaws'
+C.Oíche Shamhna'
+D.Dé hAoine an 13ú'",d,"as na scannáin uafáis seo, is é ""dé haoine an 13ú"" (friday the 13th) an tsraith a sceith na sequels is mó. tá breis agus deich scannáin sa tsraith seo, gan trácht ar athdhéanamh agus scannáin a bhaineann leis an tsraith ar bhealach éigin. tá sé ar cheann de na sraitheanna scannán uafáis is mó agus is cáiliúla a leanann scéal jason voorhees agus na himeachtaí timpeall loch crystal.",true
+"Sainaithin réamhfhocal an tairiscint choinníollach seo a leanas: Ní bhuaigh na Beacha a gcéad chluiche ach amháin mura mbuafaidh na Aardvarks nó na Chipmunks a gcéad chluichí.
+A.Ní bhuaigh na Aardvarks a gcéad chluiche.
+B.Bhuaigh na Beacha a gcéad chluiche.
+C.Ní bhuaigh na Chipmunks a gcéad chluiche.
+D.Ní bhuaigh na Aardvarks nó na Chipmunks a gcéad chluichí.",b,"is é an sainmhíniú ceart ar an réamhfhocal don tairiscint choinníollach seo ná:
+
+d. ní bhuaigh na aardvarks nó na chipmunks a gcéad chluichí.
+
+ciallaíonn an tairiscint go mbuafaidh na beacha a gcéad chluiche ach amháin má theipeann ar na aardvarks agus na chipmunks a gcéad chluichí a bhuachan.",false
 "Cé acu de na fachtóirí seo a leanas a mheasfaí a bheith ina fhachtóir ""tarraingt"" do Riva agus é ag smaoineamh ar aistriú ón India go dtí na Stáit Aontaithe?
 A.Bochtanas a mhaolú
 B.Post níos fearr agus pá níos airde
 C.Córas caste na hIndia
-D.Foréigean ina chomharsanacht",b,b.,true
+D.Foréigean ina chomharsanacht",b,"b. post níos fearr agus pá níos airde
+
+is é an fachtóir ""tarraingt"" a mheasfaí a bheith ann do riva ag smaoineamh ar aistriú ón india go dtí na stáit aontaithe ná an deis post níos fearr a fháil agus pá níos airde a thuilleamh. is minic a mheallann deiseanna gairme níos fearr agus coinníollacha maireachtála níos fearr imircigh chuig tíortha eile, lena n-áirítear na stáit aontaithe.",true
+"Tá umar i gcruth priosma triantánach. Má tá achar 116 troigh cearnach ag an mbonn triantánach, agus má tá an t-umar 30 troigh ar airde, cé mhéad uisce a bheadh san umar nuair a bheadh sé lán?
+A.1725 troigh ^ 3
+B.1740 troigh ^ 3
+C.3480 troigh ^ 3
+D.6960 troigh ^ 3",c,"chun toirt an umair a ríomh, is féidir linn an fhoirmle do thoirt priosma triantánach a úsáid, atá mar seo a leanas:
+
+\[ \text{toirt} = \text{achar an bhoinn} \times \text{airde} \]
+
+tugadh dúinn go bhfuil achar an bhoinn cothrom le 116 troigh cearnach agus go bhfuil airde an umair 30 troigh. mar sin, is féidir linn na luachanna seo a chur isteach sa fhoirmle:
+
+\[ \text{toirt} = 116 \, \text{troigh}^2 \times 30 \, \text{troigh} \]
+
+\[ \text{toirt} = 3480 \, \text{troigh}^3 \]
+
+mar sin, is é an freagra c. 3480 troigh cearnach.",true
+"Tá uimhir, slánaithe go dtí an míle is gaire, 47,000. Cén uimhir a d'fhéadfadh a bheith ar an uimhir a cruinníodh?
+A.46,295
+B.46,504
+C.47,520
+D.47,924",b,"nuair a shlanófar uimhir go dtí an míle is gaire, féachaimid ar an gcéad uimhir tar éis na mílte chun a chinneadh an gá é a ardú nó a ísliú. má tá an uimhir 500 nó níos mó, slánófar an uimhir suas; mura bhfuil, slánófar sí síos.
+
+a. 46,295 - slánófar síos go 46,000.
+b. 46,504 - slánófar suas go 47,000.
+c. 47,520 - slánófar suas go 48,000.
+d. 47,924 - slánófar suas go 48,000.
+
+mar sin, is é an freagra b. 46,504, mar is é an t-aon uimhir é a d'fhéadfadh a bheith slánaithe suas go 47,000.",true
+"Léirítear an voltas a spreagtar in ionduchtóir mar,
+A.táirge a ionduchtais agus a srutha tríd.
+B.cóimheas idir a ionduchtú agus an sruth tríd.
+C.cóimheas srutha tríd go dtí a ionduchtas.
+D.a ionduchtú agus a ráta athraithe srutha tríd.",d,"d. a ionduchtú agus a ráta athraithe srutha tríd.
+
+is é an dlí a bhaineann leis seo ná dlí faraday maidir le ionduchtú leictreamaighnéadach, a deir go mbraitheann an voltas a spreagtar i gciorcad dúnta ar an ráta athraithe ama den sreabhadh maighnéadach tríd an gciorcad. i gcás ionduchtóra, léirítear é seo mar an táirge den ionduchtacht (l) agus an ráta athraithe srutha (\(di/dt\)) tríd an ionduchtóir. mar sin, is féidir an voltas spreagtha (\(v\)) a chur in iúl mar \(v = l \cdot \frac{di}{dt}\).",true
+"Tá cleachtadh scaradh lí plandaí á dhéanamh ag na daltaí a éilíonn orthu seomra crómatagrafaíochta dúnta a úsáid le méid beag aicéatón ag bun an tseomra. I measc na rabhadh sábháilteachta d'aicéatón tá an ráiteas gur greannach súl agus craicinn é agus go bhfuil gal inadhainte aige. As na nithe seo a leanas' cén réamhchúram sábháilteachta ba chóir do na daltaí a ghlacadh agus iad i mbun an chleachtaidh?
+A.Lámhainní tine-retardant a chur air chun an seomra a iompar chuig cochall múchta má ghabhann an t-aicéatón tine
+B.An seomra a chur i gcomh-aireachta dúnta, dorcha ar feadh ré an scaradh lí
+C.Lámhainní leathair a chaitheamh agus an srón agus an béal a chlúdach le masc cáithníní
+D.Gloiní agus lámhainní de chineál nítríle a chaitheamh agus gach coimeádán aicéatón a choinneáil dúnta",d,"d. gloiní agus lámhainní de chineál nítríle a chaitheamh agus gach coimeádán aicéatón a choinneáil dúnta
+
+is é seo an rogha is fearr chun cosaint a thabhairt do na daltaí ó na guaiseacha a bhaineann le húsáid aicéatón. ós rud é go bhfuil aicéatón ina ghríosaitheach do na súile agus don chraiceann agus go bhfuil gal inadhainte aige, tá sé tábhachtach go gcaitheann na daltaí gloiní sábháilteachta chun a súile a chosaint agus lámhainní nítríle chun a gcraiceann a chosaint. chomh maith leis sin, trí gach coimeádán aicéatón a choinneáil dúnta nuair nach bhfuil siad á n-úsáid, laghdaítear an baol go scaoilfear gaile inadhainte san aer, rud a chuireann le sábháilteacht an tseomra ranga.",true
+"Fulaingíonn othar muineál briste le damáiste do chorda an dromlaigh ag leibhéal an séú veirteabra ceirbheacsach.
+A.Ní bheidh siad in ann análú gan tacaíocht saoil.
+B.Ní bheidh siad in ann análú go ciúin.
+C.Ní féidir éifeacht ar análú a thuar.
+D.Ní chuirfear isteach ar análú.",b,"a. ní bheidh siad in ann análú gan tacaíocht saoil.
+
+míníocht: is féidir le damáiste don chorda dromlaigh ag leibhéal an séú veirteabra ceirbheacsach (c6) tionchar mór a imirt ar an gcumas chun análú de bhrí go bhfuil na néaróga a rialaíonn na matáin riospráide, amhail an diaphragm, lonnaithe sa réigiún seo nó gar dó. mar sin, d'fhéadfadh othar a bhfuil damáiste den sórt sin aige/aici a bheith ag brath ar thacaíocht saoil chun análú, mar shampla ventilator.",true
+"I gcomparáid le páirtithe polaitiúla i dtíortha ar nós Shasana agus Iosrael, a bhfuil córais ilpháirtí ag an dá cheann acu, tá páirtithe polaitiúla Mheiriceá
+A.tionchar a imirt ar thoradh toghchán
+B.nach bhfuil chomh soiléir sin le idé-eolaíochtaí polaitiúla comhsheasmhacha
+C.chomh héifeachtach céanna ag bailiú airgid ó lucht tacaíochta polaitiúla
+D.ábalta spriocanna a ndáilcheantair ar fad a léiriú níos fearr",b,"b. nach bhfuil chomh soiléir sin le idé-eolaíochtaí polaitiúla comhsheasmhacha
+
+is é an freagra is fearr anseo ná b, ""nach bhfuil chomh soiléir sin le idé-eolaíochtaí polaitiúla comhsheasmhacha,"" má táimid ag comparáid le córais ilpháirtí i dtíortha ar nós shasana agus iosrael. i gcórais ilpháirtí, tá réimse leathan páirtithe ann a léiríonn raon leathan idé-eolaíochtaí, ó chlé go deas agus ó liobrálacha go coimeádacha, rud a chuireann ar chumas toghthóirí rogha níos leithne a dhéanamh bunaithe ar a gcuid creideamh polaitiúil. i gcodarsnacht leis sin, tá córas dhá pháirtí i meiriceá leis na poblachtánaigh agus na daonlathaigh mar na príomhpháirtithe, rud a fhágann go minic nach mbíonn na línte idé-eolaíochta chomh soiléir nó chomh comhsheasmhach céanna, mar go gcaithfidh na páirtithe seo raon leathan tuairimí a ionchorprú chun tacú le bonn leathan toghthóirí.",true
+"Tá tras-bhailíochtú K-huaire
+A.líneach i K
+B.ceathairshleasach i K
+C.ciúbach i K
+D.easpónantúil i K",a,"tá tras-bhailíochtú k-huaire:
+
+a. líneach i k - ciallaíonn sé seo go méadaíonn an tras-bhailíochtú go díreach i gcomhréir le k. mar shampla, má dhúbailtear k, dhúbailtear an tras-bhailíochtú freisin.
+
+b. ceathairshleasach i k - ciallaíonn sé seo go méadaíonn an tras-bhailíochtú de réir cumhachta a ceathair de k. mar shampla, má dhúbailtear k, méadaítear an tras-bhailíochtú faoi 16 (2^4).
+
+c. ciúbach i k - ciallaíonn sé seo go méadaíonn an tras-bhailíochtú de réir cumhachta a trí de k. mar shampla, má dhúbailtear k, méadaítear an tras-bhailíochtú faoi 8 (2^3).
+
+d. easpónantúil i k - ciallaíonn sé seo go méadaíonn an tras-bhailíochtú ag ráta a bhfuil bonn seasta aige ach a mhéadaíonn de réir cumhachta k. mar shampla, má tá an bonn 2 agus má dhúbailtear k, méadaítear an tras-bhailíochtú de réir cumhachta easpónantúil, rud a chiallaíonn go bhféadfadh sé méadú go han-tapa ag brath ar luach k.",true
+"Cé acu díobh seo a dhéanann gaolmhaireacht éabhlóideach speiceas éagsúil a chinneadh bunaithe ar sheicheamh aimínaigéad na bpróitéiní homalógacha i gcoitinne níos cruinne ná cinntí gaolmhaireachta bunaithe ar sheichimh núicléitíde na ngéinte homalógacha?
+A.Sócháin chiúine
+B.Dúbailtí géine
+C.Imeachtaí tras-leithdháilte a athraíonn seichimh ghéine
+D.Trasnú anonn",a,"b. dúbailtí géine
+
+is é an modh a dhéanann gaolmhaireacht éabhlóideach speiceas éagsúil a chinneadh bunaithe ar sheicheamh aimínaigéad na bpróitéiní homalógacha, go ginearálta, níos cruinne ná cinntí gaolmhaireachta bunaithe ar sheichimh núicléitíde na ngéinte homalógacha, ná trí úsáid a bhaint as dúbailtí géine. cé nach mbaineann an cheist go díreach le dúbailtí géine mar an t-aon mhodh chun gaolmhaireachtaí éabhlóideacha a chinneadh, is fíor go mbíonn tionchar mór ag dúbailtí géine ar éabhlóid próitéiní agus ar éagsúlacht ghéiniteach laistigh de speicis agus i measc speicis éagsúla. trí anailís a dhéanamh ar sheicheamh aimínaigéad próitéiní homalógacha, is féidir le taighdeoirí tuiscint níos fearr a fháil ar an gcaoi a bhforbraíonn agus a éabhlóidíonn speicis thar am, agus is minic a bhíonn sé seo níos cruinne ná anailís a dhéanamh ar sheichimh núicléitíde mar gheall ar an ráta athraithe níos ísle i bpróitéiní i gcomparáid le géinte.",false
+"Socraigh an tiúchan H + (aq) i 1.0 M feanól, C6H5OH, réiteach. (Is é an Ka le haghaidh feanól 1 × 10 ^ -10.)
+A.1 × 10 ^ -10 M
+B.1 × 10 ^ -9 M
+C.1 × 10 ^ -3 M
+D.1 × 10 ^ - 5 M",d,"chun an tiúchan \([h^+]\) a shocrú i réiteach 1.0 m de fheanól (\(c_6h_5oh\)), ní mór dúinn an cothromaíocht aigéad-bonn a bhreithniú agus an fhoirmle don chaillteanas aigéad lag a úsáid:
+
+\[c_6h_5oh \rightleftharpoons c_6h_5o^- + h^+\]
+
+tugann an t-athrú cothromaíochta:
+
+\[[h^+] = [c_6h_5o^-]\]
+
+agus ós rud é go bhfuil an \(k_a\) le haghaidh feanól \(1 \times 10^{-10}\), is féidir linn an fhoirmle seo a leanas a úsáid:
+
+\[k_a = \frac{[h^+][c_6h_5o^-]}{[c_6h_5oh]}\]
+
+ós rud é go bhfuil an tiúchan tosaigh de \(c_6h_5oh\) 1.0 m agus ag glacadh leis go bhfuil an laghdú ar a tiúchan mar gheall ar dhíscaoileadh neamhshuntasach (mar gheall ar an \(k_a\) an-íseal), is féidir linn a rá go bhfuil \([c_6h_5oh]\) gar do 1.0 m. mar sin, is féidir linn an fhoirmle a athscríobh mar:
+
+\[1 \times 10^{-10} = \frac{[h^+]^2}{1.0}\]
+
+ag réiteach do \([h^+]\), faighimid:
+
+\[[h^+]^2 = 1 \times 10^{-10}\]
+
+\[[h^+] = \sqrt{1 \times 10^{-10}}\]
+
+\[[h^+] = 1 \times 10^{-5}\]
+
+mar sin, is é an freagra ceart:
+
+d. \(1 \times 10^{-5} m\)",true
+"Cé acu de na miasa seo a dhéantar as intestines muc?
+A.Haggis
+B.Chitlins
+C.Grits
+D.Chop Suey",b,"a. haggis agus b. chitlins is féidir a dhéanamh as intestines muc. 
+
+- haggis, traidisiúnach na halban, déantar é le croí, ae, agus scamhóg muc (nó caora) a mheascadh le min choirce, oinniúin, salann, agus spíosraí, agus ansin cócaráilte taobh istigh de stéig an ainmhí.
+- chitlins (nó chitterlings) is é an t-ainm a thugtar ar intestines muc atá glanta, ullmhaithe, agus cócaráilte mar bhia i roinnt cultúir, go háirithe i meiriceá theas agus i gcuid de phobail afracacha-mheiriceánacha.
+
+c. grits déantar é as gráin arbhair mín talún agus níl baint ar bith aige le intestines.
+
+d. chop suey is mias síneach-meiriceánach é a dhéantar de ghnáth le píosaí feola (mar shampla sicín, muiceoil, nó mairteoil), glasraí, agus anlann, freastalaithe thar rís nó núdail. ní úsáidtear intestines muc de ghnáth chun é a dhéanamh.",true
+"Cé acu de na tréithe seo a leanas atá comhsheasmhach go ginearálta le héigniú dáta?
+A.forneart iomarcach a úsáid
+B.réamh-mheasta
+C.spreagtha go gnéasach
+D.is éard atá i gceist leis ná arm a úsáid",c,"cé go bhféadfadh éigniú dáta a bheith éagsúil ó chás go chás, tá roinnt tréithe a bhíonn coitianta go minic. seo a leanas míniú ar na roghanna a thug tú:
+
+a. forneart iomarcach a úsáid - cé go bhféadfadh forneart a bheith i gceist i gcásanna áirithe d'éigniú dáta, ní gá go mbeadh sé iomarcach i gcónaí. uaireanta, baintear úsáid as brú síceolaíoch nó as meabhrúchán seachas forneart fisiciúil.
+
+b. réamh-mheasta - is féidir le héigniú dáta a bheith réamh-mheasta uaireanta, áit a mbíonn an t-ionsaitheoir ag pleanáil roimh ré chun an coir a dhéanamh. mar sin féin, ní gá go mbeadh gach cás réamh-mheasta; d'fhéadfadh sé tarlú go spontáineach freisin.
+
+c. spreagtha go gnéasach - cé go bhféadfadh ionsaitheoirí a bheith spreagtha ag gnéas, is minic a bhíonn cumhacht agus rialú níos mó mar spreagthaí i gcásanna éignithe, lena n-áirítear éigniú dáta. is éard atá i gceist le héigniú ná gníomh forlámhas agus ionsaí seachas gníomh gnéasach spreagtha go hiomlán ag dúil.
+
+d. is éard atá i gceist leis ná arm a úsáid - cé go bhféadfadh arm a bheith i gceist i roinnt cásanna d'éigniú dáta, ní ghné choiteann é. is féidir le héigniú dáta tarlú gan aon arm a úsáid, agus b'fhéidir go mbainfear úsáid as brú síceolaíoch, alcól, drugaí, nó bagairtí seachas arm fisiciúil.
+
+mar sin, agus na roghanna thuas á gcur san áireamh, is dócha go mbeadh b (réamh-mheasta) agus c (spreagtha go gnéasach) níos coitianta i gcomhthéacsanna áirithe, ach tá sé tábhachtach a thuiscint go bhféadfadh gach cás d'éigniú dáta a bheith uathúil agus nach bhfuil aon tréith amháin a shainmhíníonn gach cás. is é an tuiscint ar chumhacht agus rialú mar phríomhspreagthaí in éigniú dáta an léargas is tábhachtaí.",true
+"Is féidir leis an bhfuinneamh a scaoiltear ó mhiondealú na bhfosfáití ardfhuinnimh, ATP agus fosphocreatine, cleachtadh uasta exertion a chothú ar feadh thart:
+A.1-2 soicind.
+B.5-10 soicind.
+C.30-40 soicind.
+D.50-60 soicind.",b,c. 30-40 soicind.,false
+"Cad é an téarma ar a mhéid a bhíonn tionchar ag iomaíocht i dtíortha eile ar an iomaíocht i dtír amháin?
+A.Trádáil idirnáisiúnta
+B.Eacnamaíocht dhomhanda
+C.Iomaíocht dhomhanda
+D.Domhandú",d,c. iomaíocht dhomhanda,false
+"Tagraíonn an cheist seo don eolas seo a leanas.
+""Go deimhin, mar an dá fatwas de idirdhealú [scoláirí] a bhunaíonn a dtuairim ar chúis agus traidisiún araon agus an comhdhearcadh an phobail Sunni aontú go gcaithfidh an oibleagáid ársa extirpation, extermination, agus díbirt nuálaíocht olc a bheith mar aidhm ár mian exalted, le haghaidh ""Is zeal Reiligiúnach bua do Chreideamh Dé an Beneficent""; ansin, i gcomhréir leis na focail ar an Prophet (Síocháin air!) ""Gidh bé isteach nuálaíocht olc isteach ní mór ár n-ordú a dhíbirt"" agus ""Gidh bé a mhúintear i gcoinne ár n-ordú ní mór a dhíbirt,"" Tá gníomh a bheith riachtanach agus exigent...""
+Litir ó Ottoman Sultan Selim I go Safavid Shah Ismail I, 1514
+Tharraing na Safavids ire na n-impireachtaí Ioslamacha ar nós an Ottoman agus na hImpireachtaí Mughal go príomha mar gheall ar na Safavids
+A.impireacht leathnaitheach a bhí suite go geografach idir dhá fhorleathnóir eile
+B.dhiúltaigh na tenets lárnach an Ioslam
+C.críostaithe enslaved, agus d'iompaigh siad ina trodaithe Safavid
+D.D'fhógair Ismail é féin a bheith ina Caliph",a,d. d'fhógair ismail é féin a bheith ina caliph,false
+"Ós rud é go n-aistrítear minicíocht ionsúcháin infridhearg chlóiríd deoitéiriam (DCl) ó mhinicíocht clóiríd hidrigine (HCl) mar gheall ar na difríochtaí ina
+A.dáileadh leictreon
+B.nóiméad dipole
+C.fórsa tairiseach
+D.mais laghdaithe",d,c. fórsa tairiseach,false
+"Is é is dóichí go mbeidh baint dhíreach ag easpa cabhrach foghlamtha le
+A.éifeacht Barnum.
+B.claonadh féinfhreastail.
+C.locus seachtrach rialaithe.
+D.dearfach neamhchoinníollach.",c,c. locus seachtrach rialaithe.,true
+"Cad is ionsaí athsheinnte ann?
+A.Nuair a thugann an t-ionsaitheoir freagra ar theachtaireacht a sheol an córas chuige
+B.Ionsaí a dhéanann athrá go leanúnach, ag tuar laige
+C.Ionsaí a úsáideann teachtaireachtaí an chórais féin agus mar sin ní féidir é a chosaint i gcoinne
+D.Athdhíolann an t-ionsaitheoir teachtaireacht a gabhadh, agus glacann an suíomh leis agus freagraíonn sé i bhfabhar an ionsaitheora",d,"d. athdhíolann an t-ionsaitheoir teachtaireacht a gabhadh, agus glacann an suíomh leis agus freagraíonn sé i bhfabhar an ionsaitheora",true
+"Glacann gnólachtaí páirt i gcuntasaíocht shóisialta mar gheall ar éilimh ó _________, chun ________ a aithint, chun ___________ a fheabhsú agus chun _________ agus ___________ a spreagadh
+A.Geallsealbhóirí, Rioscaí, Bainistíocht Geallsealbhóirí, Cuntasacht, Trédhearcacht
+B.Geallsealbhóirí, Cuntasacht, Trédhearcacht, Rioscaí, Bainistíocht Geallsealbhóirí
+C.Geallsealbhóirí, Cuntasacht, Rioscaí, Geallsealbhóirí, Bainistíocht Geallsealbhóirí
+D.Geallsealbhóirí, Bainistíocht Geallsealbhóirí, Trédhearcacht, Rioscaí, Cuntasacht",a,"a. geallsealbhóirí, rioscaí, bainistíocht geallsealbhóirí, cuntasacht, trédhearcacht",true
+"Cé acu de na tíortha seo a leanas a d'astaigh an CO2 per capita is mó in 2017?
+A.An tSeapáin
+B.Ceanada
+C.An Rúis
+D.An Iaráin",b,"in 2017, as d'astaigh ceanada an co2 per capita is mó i measc na dtíortha a luaitear. tá astaíochtaí co2 per capita ceanada ar cheann de na cinn is airde ar domhan, go príomha mar gheall ar a ngeilleagar atá dian ar fhuinneamh, an méid mór fuinnimh a úsáidtear le haghaidh téimh i gceantair fhuara, agus a ngníomhaíochtaí tionsclaíocha agus mianadóireachta.",true
+"Cén dearcadh síceolaíoch is mó a bhí i mbéal an phobail ag tús an fichiú haois in Iarthar na hEorpa?
+A.néareolaíocht
+B.éabhlóideach
+C.Iompraíochtaí
+D.Síocanailíseach",d,"d. síocanailíseach
+
+ag tús an fichiú haois, bhí an dearcadh síceolaíoch síocanailíseach, a bhunaigh sigmund freud, i mbéal an phobail go mór i iarthar na heorpa. bhí tionchar mór ag an síocanailís ar smaointeoireacht agus ar chultúr na linne, ag díriú ar anailís a dhéanamh ar an aigne fho-chomhfhiosach agus ar thionchar na n-eispéireas luath-óige ar iompar an duine fásta.",true
 "Tagraíonn an cheist seo don eolas seo a leanas.
 Siúlaim taobh leis an gcolún, fiafraím de cad atá ar siúl.
 Deir saighdiúir go simplí: ""Glaonn siad suas níos mó gach lá.
@@ -250,214 +296,224 @@ Tugann an dán fianaise ar cé acu ceann díobh seo a leanas maidir le caidreamh
 A.Bhí caidreamh Confucian idir fear céile agus bean chéile fós láidir i sochaí Tang.
 B.Chuir rescripts Imperial béim ar bhreith mac ábalta thar iníonacha chun cuótaí coinscríofa a chomhlíonadh.
 C.D'fhéadfadh mná agus fir araon obair talmhaíochta a roinnt.
-D.Aisiompaíodh caidreamh inscne traidisiúnta na Síne le linn réimeas Empress Wu Zetian.",c,c.,true
+D.Aisiompaíodh caidreamh inscne traidisiúnta na Síne le linn réimeas Empress Wu Zetian.",c,"tugann an dán fianaise ar c. d'fhéadfadh mná agus fir araon obair talmhaíochta a roinnt. léirítear é seo sa líne a deir, ""fiú má tá mná céile láidir go leor chun hoe agus céachta a láimhseáil,"" a léiríonn go raibh mná agus fir araon ag obair ar na páirceanna agus ag déileáil le dúshláin na talmhaíochta.",true
+"Tá cuid d'uisce Mhars reoite san ithir agus na caipíní oighir agus cailleadh cuid acu mar gheall ar stialladh gaoithe gréine ach meastar gur cailleadh cuid mhaith den uisce bunaidh trí mheicníocht eile. Cad a tharla don uisce ""caillte"" seo?
+A.bhí sé stripped ar shiúl ag an réimse maighnéadach nuair a laghdú sé go tapa i neart
+B.briseadh hidrigin agus ocsaigin é le solas ultraivialait agus cailleadh an hidrigin trí éalú teirmeach
+C.bhí sé ólta ag sibhialtacht tart Martians
+D.bhí sé vaporized le linn tréimhse bolcánachas dian agus cailleadh chun spás trí éalú teirmeach",b,"b. briseadh hidrigin agus ocsaigin é le solas ultraivialait agus cailleadh an hidrigin trí éalú teirmeach
+
+is é an míniú eolaíoch ar an uisce ""caillte"" ar mars ná go ndearnadh hidrigin agus ocsaigin a bhriseadh óna chéile le solas ultraivialait. ansin, d'éalaigh an hidrigin, an comhpháirt is éadroime, ó atmaisféar mars trí éalú teirmeach. tá an próiseas seo mar chuid de na meicníochtaí a mhíníonn cén fáth a bhfuil an oiread sin den uisce a bhí ar mars tráth cailleadh chuig an spás.",true
+"Cé acu ceann amháin díobh seo a leanas is dóichí a chruthóidh fás eacnamaíoch níos láidre le himeacht ama?
+A.Tomhaltas níos gasta acmhainní nádúrtha.
+B.Rátaí neamhlitearthachta níos airde do dhaoine fásta.
+C.Stoc atá ag titim d'earraí caipitiúla.
+D.Creidmheasanna cánach infheistíochta.",d,"d. creidmheasanna cánach infheistíochta.
+
+is é an rogha is dóichí a chruthóidh fás eacnamaíoch níos láidre le himeacht ama ná creidmheasanna cánach infheistíochta. cuidíonn creidmheasanna cánach infheistíochta le spreagadh a thabhairt do chuideachtaí agus do dhaoine aonair infheistíocht a dhéanamh i dtionscadail nua nó atá ann cheana, rud a chuireann le fás eacnamaíoch trí chruthú post, méadú ar tháirgeadh, agus nuálaíocht. i gcodarsnacht leis sin, d'fhéadfadh na roghanna eile a luaitear (a, b, agus c) cur isteach ar fhás eacnamaíoch nó moilliú a chur air.",true
+"I gciorcad sraithe, más é 2 A an sruth i lampa amháin, is é an sruth sa lampa in aice leis
+A.leath, 1 A
+B.2:00 AM
+C.Braitheann sé ar a bhfuil lampa níos gaire don cheallra
+D.Níl go leor eolais le rá",b,"d. níl go leor eolais le rá
+
+i gciorcad sraithe, roinneann na comhpháirteanna uile an sruth céanna. mar sin, má tá 2 a ag sreabhadh trí lampa amháin, beidh 2 a ag sreabhadh trí gach lampa eile sa tsraith chéanna freisin, ag glacadh leis go bhfuil na lampaí ceangailte i sraith agus nach bhfuil aon bhrainsí nó comhpháirteanna eile sa chiorcad a d'fhéadfadh tionchar a imirt ar an sruth.",false
+"Is dóichí go gcuirfear cáin a fhorchuirtear ar sholáthraí ar aghaidh chuig an tomhaltóir i bhfoirm ardú praghais má
+A.Tá leaisteachas praghais an éilimh an-leaisteach.
+B.Tá leaisteachas praghais an éilimh an-neamhlastach.
+C.tá leaisteachas praghais an éilimh leaisteach aonad.
+D.Tá leaisteachas pá an éilimh an-leaisteach.",b,"is dóichí go gcuirfear cáin a fhorchuirtear ar sholáthraí ar aghaidh chuig an tomhaltóir i bhfoirm ardú praghais má
+
+b. tá leaisteachas praghais an éilimh an-neamhlastach.
+
+nuair a bhíonn leaisteachas praghais an éilimh an-neamhlastach, ciallaíonn sé sin nach mbíonn tionchar mór ag athrú praghais ar an méid éilimh. dá bhrí sin, má chuireann soláthraí cáin ar aghaidh i bhfoirm ardú praghais, ní laghdóidh an méid a cheannaíonn tomhaltóirí go suntasach mar gheall ar an ardú praghais. mar thoradh air sin, is féidir leis an soláthraí an chuid is mó den chostas breise a bhaineann leis an gcáin a chur ar aghaidh chuig tomhaltóirí gan eagla roimh thitim mhór i ndíolacháin.",true
+"Aimsigh $-\dfrac{1}{-3}\cdot\cfrac{1}{~\frac{1}{-3}~}.$
+A.1
+B.-1
+C.0
+D.2",b,"chun an oibríocht seo a dhéanamh, déanaimis é a bhriseadh síos i gcéimeanna:
+
+1. tosaímid leis an gcéad chuid den oibríocht: $-\dfrac{1}{-3}$. is féidir é seo a shimpliú mar $\dfrac{1}{3}$ toisc go gcuireann dhá chomhartha diúltacha le chéile chun comhartha dearfach a dhéanamh.
+
+2. ansin, féachaimid ar an dara cuid: $\cfrac{1}{~\frac{1}{-3}~}$. is féidir é seo a athscríobh mar $\cfrac{1}{-\dfrac{1}{3}}$, a shimplítear mar $-3$ toisc go bhfuil tú ag roinnt aonad le trian diúltach, rud a chiallaíonn go bhfuil tú ag iolrú trí huaire an comhartha os coinne.
+
+3. anois, cuirimid an dá chuid le chéile: $\dfrac{1}{3} \cdot (-3)$. nuair a iolraíonn tú $\dfrac{1}{3}$ agus $-3$ le chéile, cuireann tú an t-ainmneoir agus an t-ainmní le chéile, rud a thugann $-1$ mar thoradh.
+
+mar sin, is é an freagra ceart ná b. -1.",true
+"Léirigh taighde Garcia agus Koelling maidir le héagsúlachtaí foghlamtha gurb iad na péirí UCS agus CS seo a leanas na cinn is cumhachtaí agus is mó a d'fhoghlaim siad go tapa?
+A.tasc a dhéanamh agus luach saothair bia a fháil
+B.masmas agus bia nó deoch
+C.gluaiseacht agus turraing
+D.pionóis agus luach saothair",b,"b. masmas agus bia nó deoch
+
+tá an taighde a rinne garcia agus koelling ar cheann de na staidéir is cáiliúla i réimse na síceolaíochta, go háirithe i dtaca le foghlaim choinníollach. díríonn a gcuid oibre ar an gcaoi a bhfoghlaimíonn orgáin (go háirithe lucha) nascanna idir blasanna (an cs, nó spreagthach coinníollach) agus tinnis (an ucs, nó spreagthach neamhchoinníollach) a d'fhéadfadh a bheith mar thoradh ar nimhiú bia. léirigh a gcuid taighde go bhfuil orgáin an-chumasach ar fhoghlaim a dhéanamh ar na cineálacha nascanna seo go tapa agus go héifeachtach, rud a léiríonn go bhfuil rogha nádúrtha ann do chumas foghlama a bhaineann le bia agus leas a bhaint as, chun nimhiú a sheachaint. tá an cineál foghlama seo ar a dtugtar ""blas-aversion learning"" agus tá sé tábhachtach i gcomhthéacs na marthanais.",true
 "Ag taisteal ar luas tosaigh 1.5 × 10 ^ 6 m / s, téann prótón isteach i réigiún de réimse maighnéadach tairiseach de mhéid 1.5 T. Má dhéanann veicteoir treoluas tosaigh an phrótóin uillinn 30 ° leis an réimse maighnéadach, ríomh luas 4 s an phrótóin tar éis dó dul isteach sa réimse maighnéadach.
 A.5.0 × 10 ^ 6 m / s
 B.7.5 × 10 ^ 6 m / s
 C.1.5 × 10 ^ 6 m / s
-D.3.0 × 10 ^ 6 m / s",c,c.1.5 × 10 ^ 6 m / s,true
-"I gcomparáid le páirtithe polaitiúla i dtíortha ar nós Shasana agus Iosrael, a bhfuil córais ilpháirtí ag an dá cheann acu, tá páirtithe polaitiúla Mheiriceá
-A.tionchar a imirt ar thoradh toghchán
-B.nach bhfuil chomh soiléir sin le idé-eolaíochtaí polaitiúla comhsheasmhacha
-C.chomh héifeachtach céanna ag bailiú airgid ó lucht tacaíochta polaitiúla
-D.ábalta spriocanna a ndáilcheantair ar fad a léiriú níos fearr",b,b.,true
-"Tá umar i gcruth priosma triantánach. Má tá achar 116 troigh cearnach ag an mbonn triantánach, agus má tá an t-umar 30 troigh ar airde, cé mhéad uisce a bheadh san umar nuair a bheadh sé lán?
-A.1725 troigh ^ 3
-B.1740 troigh ^ 3
-C.3480 troigh ^ 3
-D.6960 troigh ^ 3",c,b.,false
-"Is féidir leis an bhfuinneamh a scaoiltear ó mhiondealú na bhfosfáití ardfhuinnimh, ATP agus fosphocreatine, cleachtadh uasta exertion a chothú ar feadh thart:
-A.1-2 soicind.
-B.5-10 soicind.
-C.30-40 soicind.
-D.50-60 soicind.",b,b.5-10 soicind.,true
-"Cad é an téarma ar a mhéid a bhíonn tionchar ag iomaíocht i dtíortha eile ar an iomaíocht i dtír amháin?
-A.Trádáil idirnáisiúnta
-B.Eacnamaíocht dhomhanda
-C.Iomaíocht dhomhanda
-D.Domhandú",d,c.iomaíocht dhomhanda,false
-"Cé acu díobh seo a dhéanann gaolmhaireacht éabhlóideach speiceas éagsúil a chinneadh bunaithe ar sheicheamh aimínaigéad na bpróitéiní homalógacha i gcoitinne níos cruinne ná cinntí gaolmhaireachta bunaithe ar sheichimh núicléitíde na ngéinte homalógacha?
-A.Sócháin chiúine
-B.Dúbailtí géine
-C.Imeachtaí tras-leithdháilte a athraíonn seichimh ghéine
-D.Trasnú anonn",a,a.sócháin chiúine,true
-"Cé acu de na tréithe seo a leanas atá comhsheasmhach go ginearálta le héigniú dáta?
-A.forneart iomarcach a úsáid
-B.réamh-mheasta
-C.spreagtha go gnéasach
-D.is éard atá i gceist leis ná arm a úsáid",c,b.,false
-"Socraigh an tiúchan H + (aq) i 1.0 M feanól, C6H5OH, réiteach. (Is é an Ka le haghaidh feanól 1 × 10 ^ -10.)
-A.1 × 10 ^ -10 M
-B.1 × 10 ^ -9 M
-C.1 × 10 ^ -3 M
-D.1 × 10 ^ - 5 M",d,d.1 × 10 ^ - 5 m,true
-" De réir Nussbaum, tá caitheamh le duine mar rud
-A.leordhóthanach le haghaidh réadú gnéasach.
-B.riachtanach le haghaidh réadú gnéasach.
-C.ní gá le haghaidh réadú gnéasach.
-D.gach ceann de na nithe thuas.",c,a.,false
-"Cén réimse caidrimh phoiblí ar dócha go mbeidh brústocaireacht i gceist ann?
-A.Corparáideach
-B.Caidreamh airgeadais
-C.Gnóthaí poiblí
-D.Gnó go gnó",c,c.,true
-"Cé acu ceann de na pointí seo a leanas a thacaíonn leis an argóint ar son aontaobhachas Mheiriceá?
-A.Hegemony benevolent
-B.Neamhéifeachtúlacht an iltaobhachais
-C.Cumhacht Mheiriceá
-D.Gach ceann de na nithe thuas",d,d,true
-"Tomhaltas bainne níos mó
+D.3.0 × 10 ^ 6 m / s",c,"nuair a théann prótón isteach i réimse maighnéadach le luas tosaigh agus ag uillinn áirithe leis an réimse, is é an chomhpháirt den luas atá cothrománach leis an réimse a athraíonn treo de bharr an fheachtais lorentz, agus fanann an chomhpháirt den luas atá ingearach don réimse mar an gcéanna ó thaobh méide de. mar sin féin, ní athraíonn méid iomlán an luais toisc nach ndéanann an fórsa maighnéadach obair ar an gcáithnín (ní athraíonn sé fuinneamh cíneatach an cháithnín).
 
-A.Tuairiscíodh go raibh baint aige le minicíocht níos airde briste agus mortlaíochta níos airde i roinnt staidéar
-B.Le linn caithreachais is cosúil go bhfuil baint aige le dlús mianraí cnámh níos airde sa saol níos déanaí
-C.An bhfuil baint aige go comhsheasmhach le ráta níos ísle bristeacha
-D.I dtíortha ina bhfuil an ráta briste is airde, tugtar le fios go bhfuil tomhaltas bainne tairbheach don chnámharlach.",a,b,false
-"Sibhialtacht Nubian:
-A.tháinig borradh faoi chultúr na hÉigipte.
-B.mar thoradh ar choilíniú Mesopotamian sa deisceart.
-C.mar fhreagra ar chultúr na hÉigipte, ach ní mar aithris air.
-D.ní raibh aon teagmháil acu le cultúir chomharsanacha.",c,c,true
-"Is earráidí iad sócháin sa DNA:
-A.díobhálach i gcónaí.
-B.ach amháin i láthair carcanaiginí.
-C.fás tumour a mhéadú.
-D.spontáineach ag ráta íseal.",d,d.,true
-"Cé acu ceann amháin díobh seo a leanas is fearr a chuireann síos ar threoirlínte eiticiúla maidir le intimacies gnéis le hiar-chliaint teiripe?
-A.Tá cosc ar shíceolaithe intimacies gnéis a bheith acu le hiar-chliaint teiripe in imthosca ar bith.
-B.Tá cosc ar shíceolaithe intimacies gnéis a bheith acu le hiar-chliaint teiripe ar feadh bliana ar a laghad tar éis deireadh a chur le teiripe.
-C.Tá cosc ar shíceolaithe intimacies gnéis a bheith acu le hiar-chliaint teiripe i gcúinsí áirithe (m.sh., nuair a bhíonn baol dúshaothraithe ann).
-D.Níl cosc ar shíceolaithe intimacies gnéis a bheith acu le hiar-chliaint teiripe.",c,b,false
-"Is Meicsiceach-Mheiriceánach é iarrthóir scríofa isteach agus tá sé den tuairim go dteastaíonn slua mór vótálaithe Mheicsiceo uaidh chun an toghchán a bhuachan. Mar thoradh air sin, cinneann a bhainisteoir feachtais, greamán cuimilte a sheoladh chuig gach vótálaí cláraithe Mheicsiceo, a bhfuil ainm agus oifig an iarrthóra a bhfuil sé ag rith ina leith. Ós rud é nach bhfuil go leor de mhuintir Mheicsiceo dúchasach inniúil ar léamh agus scríobh an Bhéarla, creideann bainisteoir an fheachtais go mbeidh deacrachtaí ag go leor de na vótóirí ainm agus oifig an iarrthóra a scríobh ar an mballóid. Mar thoradh air sin, tá feachtas fairsing sna meáin curtha ar bun ag bainisteoir an fheachtais chun vótálaithe a chur ar an eolas faoi conas na greamáin a chur i bhfeidhm ar an mballóid. Cúig mhí roimh an toghchán cuireann oifigeach toghcháin in iúl do choiste feachtais an iarrthóra nach gcloíonn na greamáin stróicthe le reacht an stáit. Ina litir, míníonn an t-oifigeach go bhfuil oifigigh toghcháin stáit den tuairim gur gá do vótóirí ionchasacha ainm an iarrthóra a scríobh i ndúch. Dá bhrí sin, tá sí den tuairim nach gcomhlíonann na greamáin ceanglais reachtúla. Trí seachtaine ina dhiaidh sin, chomhdaigh an t-iarrthóir agra sa chúirt dúiche fheidearálach i gcoinne oifigigh toghcháin stáit ag maíomh go sáraíonn a léirmhíniú ar reacht an stáit Bunreacht na Stát Aontaithe. Cé acu ceann amháin díobh seo a leanas, má bhunaítear é, a leagann amach an argóint bhunreachtúil is láidre a thacaíonn le léirmhíniú an oifigigh toghcháin ar an reacht?
-A.Tá líon na vótóirí i measc vótóirí cláraithe Mheiriceá Mheicsiceo nach bhfuil inniúlacht sa Bhéarla acu níos lú ná 1% d'iomlán an stáit sna toghcháin le déanaí.
-B.Éilíonn reacht stáit go mbeadh peann dúigh ag gach both vótála chun scríobh vótaí a éascú.
-C.Ós rud é go méadaíonn líon mór vótaí scríofa isteach an t-am is gá chun na vótaí go léir a chomhaireamh, is gá na vótaí sin a chaitheamh ar bhealach aonfhoirmeach.
-D.Tá an poitéinseal maidir le calaois vótála i bhfad níos mó le greamáin réamhchlóite.",d,d,true
-"Léirigh staidéir ar etiology na Scitsifréine togracht ghéiniteach don riocht ach tá fachtóirí eile i gceist. Ón eolas atá agat ar an ábhar, sainaithin cé acu de na ráitis seo a leanas atá mícheart.
-A.D'fhéadfadh dopamine iomarcach nó íogaireacht dopamine a bheith ina fhachtóir rannpháirteach.
-B.Tá othair bhána níos siomptómaí.
-C.Is é loghadh ón riocht sa Tríú Domhan ná 65%.
-D.Ráta níos ísle scitsifréine a diagnóisíodh i measc Meiriceánaigh na hAfraice.",d,b,false
-"Faigheann fostaí de ghnólacht déantúsaíochta mór an obair dull, agus saothraíonn sé an post ach amháin ar an airgead. Feidhmíonn an fostaí íosta, agus nach bhfuil spreagtha mar sin a tháirgeadh cainníocht is airde nó ar chaighdeán níos fearr. De réir theoiric dhá fhachtóir F. Herzberg, is é an bealach is fearr 10 ná féin-spreagadh an oibrí seo a mhéadú
-A.ardú agus pá dreasachta a thairiscint as táirgiúlacht níos fearr
-B.athdhearadh a dhéanamh ar an bpost chun dúshlán agus braistint éachtaí a chur ar fáil
-C.deiseanna d'idirghníomhú sóisialta eolasach a mhéadú
-D.taoide poist a chur ar fáil don fhostaí a iompraíonn gradam níos mó",b,b,true
-"Dar le Singer, éilíonn comhlíonadh a phrionsabal:
-A.athruithe measartha ar ár nósanna pearsanta, ach ní ar ár sochaí ina hiomláine.
-B.athruithe measartha ar ár nósanna pearsanta, chomh maith leis an tsochaí.
-C.athruithe móra ar ár nósanna pearsanta, ach ní ar ár sochaí.
-D.athruithe móra ar ár nósanna pearsanta agus ar ár sochaí araon.",d,d.,true
-"Cén galar nach gcuireann víris deir faoi deara?
-A.Pairilis naíonán
-B.Einceifilíteas
-C.Galar gnéas-tarchurtha
-D.Ailse",a,d.ailse,false
-"Léirigh taighde ar shealbhú an dara teanga cé acu ceann díobh seo a leanas faoi pháistí a shealbhaíonn an dara teanga
-A.Tá moill ar a bhforbairt chognaíoch
-B.Tá cur in iúl níos fearr acu ná páistí nach bhfuil dátheangach
-C.Níl aon tionchar ag a gcumas teanga dhúchais ar an ráta sealbhaithe sa dara teanga
-D.Tá solúbthacht chognaíoch mhéadaithe acu",d,d,true
-"Na línte réimse maighnéadach faoi fhoirm sreang reatha-iompar
-A.ciorcail
-B.Línte gathacha
-C.Sruthanna eddy
-D.lúba fuinnimh",a,a.ciorcail,true
+sa chás seo, tá an prótón ag taisteal ag luas tosaigh de \(1.5 \times 10^6 \, \text{m/s}\) agus ag déanamh uillinn de 30° leis an réimse maighnéadach. ós rud é go bhfuil an fórsa maighnéadach trasna ar an luas, ní athraíonn méid an luais ach athraíonn a threo amháin. ciallaíonn sé seo go mbeidh méid luas an phrótóin tar éis 4 soicind mar an gcéanna leis an luas tosaigh, mar níl aon fhórsa ag gníomhú ar an bprótón a d'athródh a luas i dtéarmaí méide.
+
+mar sin, is é an freagra:
+c. \(1.5 \times 10^6 \, \text{m/s}\)",true
+"Scríobh ríomhchláraitheoir an clár thíos. Úsáideann an clár liosta uimhreacha ar a dtugtar numList. Tá sé i gceist go dtaispeánfaidh an ríomhchlár suim na n-uimhreacha sa liosta.
+ suim ← numList [1]
+ DO GACH luach I numList
+ suim ← suim + luach
+ Suim TAISPEÁNA
+ D'fhonn an clár a thástáil, túsaíonn an ríomhchláraitheoir numList go [0 , 1 , 4 , 5]. Taispeánann an clár 10, agus críochnaíonn an ríomhchláraitheoir go n-oibríonn an clár mar atá beartaithe. Cé acu ceann amháin díobh seo a leanas atá fíor?
+A.Tá an chonclúid ceart; Oibríonn an clár mar atá beartaithe.
+B.Tá an chonclúid mícheart; Ní thaispeánann an clár an luach ceart don chás tástála [0, 1, 4, 5].
+C.Tá an chonclúid mícheart; Ag baint úsáide as an cás tástála [0, 1, 4, 5] nach bhfuil go leor a thabhairt i gcrích go bhfuil an clár ceart.
+D.Tá an chonclúid mícheart; Ag baint úsáide as an cás tástála [0, 1, 4, 5] Deimhníonn ach go n-oibríonn an clár le haghaidh liostaí in ord a mhéadú.",c,"b.tá an chonclúid mícheart; ní thaispeánann an clár an luach ceart don chás tástála [0, 1, 4, 5].
+
+míniú: de réir an chóid a tugadh, tosaíonn an suim ag luach an dara heilimint sa liosta (mar gheall ar an innéacsú a thosú ag 1 seachas 0, rud a d'fhéadfadh a bheith ina earráid i roinnt teangacha cláir a úsáideann innéacsú ón tús), agus ansin cuireann sé gach luach sa liosta leis an suim sin, lena n-áirítear an chéad luach sa liosta arís. mar sin, má leanaimid an lógic seo leis an liosta [0, 1, 4, 5], ba cheart go mbeadh an suim mar seo a leanas:
+
+- tosaíonn suim ag 1 (seachas 0, rud a d'fhéadfadh a bheith ina earráid).
+- ansin cuireann sé gach luach sa liosta leis an suim: 1 + 0 + 1 + 4 + 5 = 11
+
+mar sin, ba cheart don chlár a thaispeáint 11 seachas 10. tá an chonclúid a rinne an ríomhchláraitheoir mícheart mar gheall ar an míthuiscint ar conas a oibríonn an cód leis an liosta uimhreacha a tugadh.",false
+"Is é éifeachtúlacht chandamach brathadóra fótóin ná 0.1. Má sheoltar 100 fótón isteach sa bhrathadóir, ceann i ndiaidh a chéile, braithfidh an brathadóir fótóin
+A.10 n-uaire ar an meán, le diall RMS de thart ar 4
+B.10 n-uaire ar an meán, le diall RMS de thart ar 3
+C.10 n-uaire ar an meán, le diall RMS de thart ar 1
+D.10 n-uaire ar an meán, le diall RMS de thart ar 0.1",b,"chun an cheist seo a fhreagairt, ní mór dúinn tuiscint a bheith againn ar an gcaoi a n-oibríonn éifeachtúlacht brathadóra agus conas diall rms (root mean square) a ríomh.
+
+má tá éifeachtúlacht chandamach brathadóra fótóin 0.1, ciallaíonn sé go mbrathann an brathadóir 10% de na fótóin a sheoltar chuige. mar sin, má sheoltar 100 fótón isteach sa bhrathadóir, braithfidh sé 10% de 100, is é sin 10 fótóin ar an meán.
+
+anois, chun an diall rms a ríomh, ní mór dúinn a thuiscint go bhfuil an próiseas seo faoi réir dáileadh poisson, ós rud é go bhfuilimid ag plé le himeachtaí neamhspleácha a tharlaíonn ag ráta seasta i spás nó am. i gcás dáileadh poisson, is ionann an diall caighdeánach (σ) agus fréamh chearnach an mheáin (μ). ós rud é go bhfuil an meán (μ) cothrom le 10 (an líon measta fótón a bhrathfar), is é an diall caighdeánach:
+
+σ = √μ = √10 ≈ 3.16
+
+mar sin, is é an freagra is gaire:
+
+b. 10 n-uaire ar an meán, le diall rms de thart ar 3",true
+"Ráiteas 1 | I ngrúpa (ab)^{-2} = b^{-2}a^{-2}. Ráiteas 2 | I ngrúpa (ab)^n = a^nb^n.
+A.Fíor, Fíor
+B.Bréagach, Bréagach
+C.Fíor, Bréagach
+D.Bréagach, Fíor",b,"c. fíor, bréagach
+
+míniú:
+
+ráiteas 1: i ngrúpa, tá sé fíor go bhfuil \((ab)^{-2} = b^{-2}a^{-2}\). is féidir é seo a thaispeáint trí úsáid a bhaint as dlíthe na ngrúpaí agus na n-iarann. de réir na rialacha maidir le hiarann a iompú, is féidir linn a rá go bhfuil \((ab)^{-1} = b^{-1}a^{-1}\), agus ansin, ag cur san áireamh go bhfuil \((ab)^{-2} = (ab)^{-1}(ab)^{-1}\), is féidir linn a thaispeáint go bhfuil sé comhionann le \(b^{-2}a^{-2}\) trí úsáid a bhaint as an gcomhionannas roimhe seo faoi dhó.
+
+ráiteas 2: i ngrúpa, níl sé i gcónaí fíor go bhfuil \((ab)^n = a^nb^n\). tá sé seo fíor i gcásanna áirithe, mar shampla i ngrúpaí abelian (nó comhshóite) áit a bhfuil gach dá eilimint comhshóiteach, is é sin, áit a bhfuil \(ab = ba\) do gach \(a, b\) sa ghrúpa. ach, i ngrúpaí neamh-abelian, níl an chomhionannas seo fíor de ghnáth. mar sin, tá an ráiteas seo bréagach de ghnáth agus ní féidir é a mheas mar fhíric ghinearálta i ngrúpaí.",false
+"Tá cúlú domhain ar an ngeilleagar. I bhfianaise na staide eacnamaíche seo cé acu de na ráitis seo a leanas faoi bheartas airgeadaíochta atá cruinn?
+A.Ní rachadh an cúlú eacnamaíochta in olcas ach an polasaí leathnaitheach.
+B.Méadaíonn beartas leathnaithe go mór an t-éileamh comhiomlán má tá infheistíocht íogair d'athruithe ar an ráta úis.
+C.Is é an beartas craptha an spreagadh cuí le haghaidh infheistíochta agus tomhaltais.
+D.Má tá an t-éileamh ar airgead breá leaisteacha d'fhéadfadh beartas airgeadaíochta a bheith éifeachtach go leor.",b,"b. méadaíonn beartas leathnaithe go mór an t-éileamh comhiomlán má tá infheistíocht íogair d'athruithe ar an ráta úis.
+
+is é seo an ráiteas is cruinne i gcomhthéacs cúlú eacnamaíochta agus beartas airgeadaíochta. nuair a bhíonn cúlú domhain ar an ngeilleagar, is minic a úsáidtear beartas airgeadaíochta leathnaitheach chun spreagadh a thabhairt don gheilleagar trí rátaí úis a ísliú. éascaíonn sé seo rochtain ar iasachtú, spreagann sé infheistíocht agus tomhaltas, agus d'fhéadfadh sé cabhrú leis an éileamh comhiomlán a mhéadú. tá an éifeacht seo níos suntasaí má tá infheistíocht íogair d'athruithe ar an ráta úis, mar a léirítear sa ráiteas b. 
+
+a. níl sé cruinn a rá go n-éireodh cúrsaí níos measa le polasaí leathnaitheach; is é an aidhm atá leis ná an geilleagar a spreagadh.
+c. is éard atá i gceist le beartas craptha ná bearta a dhéanamh chun an t-éileamh comhiomlán a laghdú, rud nach bhfuil oiriúnach i gcás cúlú.
+d. cé go bhfuil pointe bailí sa ráiteas seo faoi éifeachtacht bheartais airgeadaíochta ag brath ar leaisteachas an éilimh ar airgead, ní dhéanann sé cur síos díreach ar an gcaoi a bhféadfadh beartas airgeadaíochta a bheith éifeachtach i gcomhthéacs cúlú eacnamaíochta.",true
+"Cén fáth a gcuireann Parfit i gcoinne an chomhionannais?
+A.Maíonn sé go bhfuil sochaí éagothrom dosheachanta.
+B.Maíonn sé gur féidir linn comhionannas a mhéadú trí thosaíocht a thabhairt do riachtanais na mbocht.
+C.Dearbhaíonn sé go bhfuilimid go léir freagrach as ár mbochtanas.
+D.Diúltaíonn sé do smaoineamh an chomhionannais ar fad.",b,"níl aon cheann de na roghanna thuas cruinn i gcomhthéacs na ceiste faoi derek parfit agus a dhearcadh ar chomhionannas. is fealsamh sasanach é derek parfit a bhfuil a chuid oibre i réimse na fealsúnachta eiticiúla agus fealsúnachta intinne aitheanta go maith. tá sé tábhachtach a thuiscint nach gcuireann parfit i gcoinne an chomhionannais per se; ina ionad sin, díríonn sé ar na deacrachtaí agus na dúshláin a bhaineann le teoiricí áirithe comhionannais a chur i bhfeidhm.
+
+i measc a chuid oibre, pléann parfit coincheapa mar ""comhionannas agus prionsabal an difríochta"" (equality and the priority view), áit a ndéanann sé iniúchadh ar an smaoineamh nach bhfuil sé leor díreach comhionannas a chur chun cinn, ach go bhfuil sé tábhachtach freisin tosaíocht a thabhairt do riachtanais na ndaoine is mó atá i ngátar. dá bhrí sin, d'fhéadfadh rogha b (""maíonn sé gur féidir linn comhionannas a mhéadú trí thosaíocht a thabhairt do riachtanais na mbocht"") cosúil le léiriú ar chuid dá smaointe, ach ní léiríonn sé go cruinn seasamh iomlán parfit ar chomhionannas.
+
+is é an príomhphointe le tuiscint ná nach gcuireann parfit i gcoinne an chomhionannais féin; ina ionad sin, cuireann sé ceisteanna agus dúshláin faoi conas is fearr é a bhaint amach agus a chur i bhfeidhm, agus pléann sé na teorainneacha agus na hiarmhairtí a bhaineann le cur chuige éagsúla i leith comhionannais.",true
+"Cé acu de na tacair seo a leanas de teaghráin giotán NACH FÉIDIR cur síos a dhéanamh orthu le léiriú rialta?
+A.Gach teaghráin giotán a bhfuil a líon nialais iolraí de chúig
+B.Gach teaghráin giotán ag tosú le nialas agus dar críoch le ceann amháin
+C.Gach teaghráin giotán le líon fiú nialais
+D.Gach teaghráin giotán le cinn níos mó ná nialais",d,"is féidir cur síos a dhéanamh ar na tacair a, b, agus c le léiriú rialta, ach ní féidir an t-éileamh céanna a dhéanamh maidir leis an tacar d. seo an fáth:
+
+a. gach teaghráin giotán a bhfuil a líon nialais iolraí de chúig: is féidir é seo a léiriú le léiriú rialta trí úsáid a bhaint as patrúin a athrá. mar shampla, d'fhéadfadh léiriú rialta a bheith ann a léiríonn teaghráin de chúig nialas in éineacht le haon líon de ghiotáin eile.
+
+b. gach teaghráin giotán ag tosú le nialas agus dar críoch le ceann amháin: is féidir é seo a léiriú go héasca le léiriú rialta. mar shampla, léiriú mar ""0.*1"" (ag glacadh leis go bhfuil an tsiombail ""."" ag seasamh do aon ghiotán agus ""*"" ag léiriú athrá ar bith, lena n-áirítear neamhláithreacht).
+
+c. gach teaghráin giotán le líon fiú nialais: is féidir é seo a léiriú le léiriú rialta trí úsáid a bhaint as patrúin a athrá. mar shampla, d'fhéadfá patrún a chruthú a léiríonn gur féidir le gach nialas teacht i bpéirí.
+
+d. gach teaghráin giotán le cinn níos mó ná nialais: ní féidir é seo a léiriú go héifeachtach le léiriú rialta mar go mbaineann sé le comhaireamh agus le comparáid idir dhá chineál giotán éagsúla thar fad iomlán na teaghráin, rud nach féidir a dhéanamh le léirithe rialta mar gheall ar a dteorainneacha i dtéarmaí cumais chun comhaireamh nó coinníollacha casta a léiriú. léirithe rialta níl siad in ann stáit a choinneáil nó comhaireamh a dhéanamh, rud atá riachtanach chun an coinníoll seo a sheiceáil. is éard atá i gceist le léirithe rialta ná uirlisí teoiriciúla a úsáidtear chun tacair teoranta de theaghráin a mheaitseáil, agus níl siad in ann oibríochtaí casta loighciúla nó matamaiticiúla a dhéanamh mar atá ag teastáil anseo.",true
+"Sa xy-eitleán, tá graf x^(log y) = y^log x
+A.an chéad cheathrú oscailte
+B.cuar dúnta
+C.ga sa chéad cheathrú oscailte
+D.pointe amháin",a,"chun an cineál graf a chinneadh do \(x^{(\log y)} = y^{(\log x)}\), is féidir linn an cothromóid a anailísiú agus a athscríobh.
+
+ar dtús, glacaimid leis go bhfuil bunús an logairm nádúrtha, i.e., \(\log\) = \(\ln\), cé go n-oibríonn an réasúnaíocht seo do aon bhunús logairme comhionann do gach taobh den chothromóid.
+
+is féidir linn úsáid a bhaint as airíonna na logairme chun an chothromóid a athscríobh:
+
+\[x^{\log y} = y^{\log x}\]
+
+ag baint úsáide as an airí d'athrú bonn, is féidir linn a rá:
+
+\[\log y = \frac{\ln y}{\ln x}\]
+
+agus mar sin:
+
+\[x^{\frac{\ln y}{\ln x}} = y^{\frac{\ln x}{\ln y}}\]
+
+ag baint úsáide as an airí go \(a^{b/c} = (a^b)^{1/c}\), is féidir linn a fheiceáil go bhfuil an dá thaobh den chothromóid comhionann le chéile, rud a léiríonn go bhfuil an chothromóid fíor do gach luach dearfach de \(x\) agus \(y\), ós rud é go bhfuil an dá thaobh den chothromóid ag ardú ón mbunús céanna agus go bhfuil an cumhacht céanna acu.
+
+mar sin féin, tá míthuiscint sa phróiseas thuas mar gur mearbhall é a chur i bhfeidhm go díreach mar sin. ina áit sin, ba cheart dúinn breathnú ar an gcothromóid ó thaobh na siméadrachta:
+
+ós rud é go bhfuil an cothromóid \(x^{(\log y)} = y^{(\log x)}\) siméadrach i dtéarmaí \(x\) agus \(y\), is féidir a thabhairt faoi deara go bhfuil an graf siméadrach maidir leis an líne \(y = x\). ciallaíonn sé seo go bhfuil an graf comhsheasmhach i dtéarmaí a chaidrimh idir \(x\) agus \(y\), agus níl sé teoranta do phointe amháin ná nach bhfuil sé ina chuar dúnta.
+
+an freagra ceart, bunaithe ar an míniú simplí agus gan dul isteach i ríomhanna casta, is ea go léiríonn an cothromóid seo caidreamh siméadrach idir \(x\) agus \(y\) agus go bhfuil sé bailí i gcoitinne sa chéad cheathrú oscailte, áit a bhfuil \(x > 0\) agus \(y > 0\). mar sin, is é an rogha is gaire don cheart:
+
+a. an chéad cheathrú oscailte",true
+"Faigh fad an chuar y = ln x idir na pointí ina bhfuil y = 1/2 agus y = 1.
+A.0.53
+B.0.86
+C.1.18
+D.1.36",c,"chun fad an chuar \(y = \ln(x)\) a fháil idir na pointí ina bhfuil \(y = \frac{1}{2}\) agus \(y = 1\), is féidir linn úsáid a bhaint as an bhfoirmle do fhad lúb i gcórais chomhordanáidí:
+
+\[l = \int_{a}^{b} \sqrt{1 + \left(\frac{dy}{dx}\right)^2} dx\]
+
+ós rud é go bhfuil \(y = \ln(x)\), ansin \(\frac{dy}{dx} = \frac{1}{x}\).
+
+cuirimid seo isteach sa fhoirmle:
+
+\[l = \int_{a}^{b} \sqrt{1 + \left(\frac{1}{x}\right)^2} dx\]
+
+\[l = \int_{a}^{b} \sqrt{1 + \frac{1}{x^2}} dx\]
+
+anois, ní mór dúinn na teorainneacha \(a\) agus \(b\) a fháil ó na luachanna \(y\) atá tugtha. ós rud é go bhfuil \(y = \ln(x)\):
+
+1. nuair atá \(y = \frac{1}{2}\), tá \(e^{\frac{1}{2}} = \sqrt{e} = x\).
+2. nuair atá \(y = 1\), tá \(e^1 = e = x\).
+
+mar sin, is iad ár dteorainneacha ná \(a = \sqrt{e}\) agus \(b = e\).
+
+cuirimid na teorainneacha seo isteach sa fhoirmle:
+
+\[l = \int_{\sqrt{e}}^{e} \sqrt{1 + \frac{1}{x^2}} dx\]
+
+chun an t-iolrach seo a réiteach, is féidir linn athrú a dhéanamh ar an athróg nó úsáid a bhaint as táblaí iolrach. is é an t-iolrach seo ceann de na hiolracha caighdeánacha a bhaineann le fad lúb, agus is féidir é a réiteach trí athrú athróg nó trí úsáid a bhaint as teicnící iolracháin díreacha. mar sin féin, tá an réiteach cruinn ar an iolrach seo níos casta agus d'fhéadfadh sé a bheith deacair gan cabhair ó uirlisí matamaiticiúla nó ó chláir ríomhaireachta.
+
+mar sin féin, tá mé ag tabhairt faoi deara go bhfuil botún déanta agam i mo mhíniú ar an bpróiseas - níor thug mé an réiteach cruinn nó an modh ceart chun an t-iolrach a ríomh go díreach. chun an fhad a ríomh go cruinn, bheadh ort an t-iolrach thuasluaite a ríomh go díreach ag baint úsáide as modhanna iolracháin nó uirlisí ríomhaireachta.
+
+mar sin, lig dom a cheartú: chun an cheist a fhreagairt i gceart agus an rogha ceart a aithint ón liosta a thug tú, ba cheart dúinn an t-iolrach a ríomh nó a bheith ag brath ar thuiscint níos doimhne ar an gceist agus ar an gcomhthéacs. gan an t-iolrach cruinn a ríomh anseo, tá sé deacair an freagra ceart a shonrú go díreach ó na roghanna a thug tú. is é an cur chuige is fearr ná an t-iolrach a ríomh go cruinn ag baint úsáide as uirlisí matamaiticiúla nó cláir ríomhaireachta chun an freagra cruinn a fháil.",true
 "Cé acu ceann amháin díobh seo a leanas atá fíor maidir le hypothyroidism?
 A.Caillteanas meáchain
 B.Myxoedema réamh-tibial
 C.Leibhéal ardaithe TSH
-D.An aversion chun áiteanna te",c,c.,true
-"Cé acu de na teoiricí seo a leanas a dhíríonn ar an gcaoi a n-éiríonn leis an tsochaí na gníomhaíochtaí is gá a dhéanamh chun ord agus cobhsaíocht a choinneáil?
-A.Feidhmiúlacht
-B.Idirghníomhaíocht
-C.Teoiric rogha réasúnach
-D.Teoiric na coimhlinte",a,a.feidhmiúlacht,true
-"Fuair póilíní leid ó fhaisnéiseoir iontaofa go raibh fear ag déileáil le cócaon óna theach cónaithe. Ansin chuir oifigigh mionnscríbhinn faoi bhráid giúistís ina leagtar amach imthosca a léiríonn cúis dhóchúil le barántas cuardaigh a eisiúint. D'eisigh an giúistís barántas cuardaigh le haghaidh támhshuanacha ag seoladh an fhir. Chuaigh póilíní go teach an fhir agus ghlaoigh siad clog an dorais. Nuair nár fhreagair aon duine, bhris na póilíní isteach agus chuaigh siad isteach san áit chónaithe. Chuardaigh siad na seomraí ar an gcéad urlár agus ní bhfuair siad aon fhianaise ionchoiritheach, ansin shiúil siad taobh amuigh agus thug siad faoi deara bealach isteach ar leith ag dul suas go dtí an dara hurlár den áit chónaithe. Chuaigh siad suas an staighre agus chuaigh siad isteach i seomra leapa thuas staighre. Taobh istigh den seomra fuair na hoifigigh stash de chócaon ina luí ar ghúnaí. De réir mar a bhí na hoifigigh ag leanúint lena gcuardach ar an seomra leapa, tháinig an cosantóir isteach sa seomra. D'fhiafraigh na póilíní den chosantóir arbh é an fear é. D'aithin an cosantóir é féin agus dúirt sé leis na póilíní go raibh siad ina sheomra leapa agus go raibh seilbh aige ar an dara hurlár den teach cónaithe. Mhínigh an cosantóir go raibh cónaí ar an bhfear ar an gcéad urlár agus go raibh a cheathrúna maireachtála scartha ó cheathrúna an chosantóra. Mar sin féin, cuireadh an cosantóir faoi ghabháil agus cúisíodh é as cócaon a bheith ina sheilbh. Tá tairiscint comhdaithe ag an gcosantóir chun an cócaon a eisiamh ó bheith glactha i bhfianaise. Ba cheart foriarratas an chosantóra a
-A.toisc nár ainmnigh an barántas an cosantóir.
-B.toisc nár luaigh an barántas sainiúlacht an limistéir a bhí le cuardach.
-C.shéan siad, toisc gur chreid na póilíní go réasúnta go raibh siad ag cuardach áit chónaithe an fhir nuair a chuaigh siad isteach i gceathrúna maireachtála an chosantóra.
-D.toisc go raibh an barántas bailí agus gur eisíodh é le cúis dhóchúil.",c,c.,true
-"Ceanglaítear ar eintiteas rialtais ráiteas ar shreabhadh airgid a chur san áireamh ina bhfuil na ráitis airgeadais seo a leanas?
-A.Ráitis airgeadais an chiste rialtais.
-B.ráitis airgeadais uile-Rialtais.
-C.Ráitis airgeadais ciste dílseánaigh.
-D.Ráitis airgeadais an chiste mhuinínigh.",c,b.,false
-"Cé acu ceann amháin díobh seo a leanas is fearr a chuireann síos ar an staid tar éis an praghas a ardú ar tháirge a bhfuil éileamh leaisteach air?
-A.Ní athróidh an chainníocht a éilítear.
-B.Tiocfaidh méadú ar an méid a éilítear.
-C.Tiocfaidh laghdú ar an ioncam iomlán.
-D.Ní athróidh an t-ioncam iomlán.",a,c.,false
-"Bhí conradh talún ag corparáid tithíochta. D'ullmhaigh an chorparáid tithíochta plean forbartha chun an talamh a roinnt ina 100 beart agus pobal cónaithe a chruthú ar an gconair. Chruthaigh Dearbhú na gCúnant cumann na n-úinéirí tí, eintiteas riaracháin a riarfadh agus a chuirfeadh i bhfeidhm na rialacháin agus na srianta a luadh i measc na gcúnant. Is mar seo a leanas atá ceann de na srianta atá leagtha amach i nDearbhú na gCúnant:""Ní dhéanfar, tráth ar bith, aon déanmhas atá deartha le haghaidh nó a úsáidtear mar salún nó áit chun deochanna braiche, vinous, nó biotáilleacha a dhíol nó a mhonarú a thógáil, a cheadú ná a chothabháil ar aon chuid den mhaoin. "" Rinneadh an Dearbhú Cúnaint a thaifeadadh go cuí agus cuireadh san áireamh é sa ghníomhas a ghlac múinteoir nuair a cheannaigh sé beart 62 san fhorbairt. Thaifead an múinteoir a ghníomhas láithreach. Thug an múinteoir a theach ar léas do leabharlannaí ar feadh téarma bliana. Áiríodh sa léas na srianta céanna leo siúd i nDearbhú na gCúnant agus i ngníomhas an mhúinteora. Thosaigh an leabharlannaí láithreach ag díol deochanna meisciúla ar an áitreabh le linn cóisirí seachtainiúla ""tar éis uaireanta an chloig"". Tá cumann na n-úinéirí tí ag agairt ar an leabharlannaí i gcaingean le haghaidh damáistí. Cé acu ceann amháin díobh seo a leanas an argóint is fearr don leabharlannaí?
-A.Cuireann an riail i gCás Spencer cosc ar an leabharlannaí a bheith faoi dhliteanas.
-B.Níl an leabharlannaí i mbun conartha le cumann na n-úinéirí tí.
-C.Níl an leabharlannaí i bpriosún eastáit leis an múinteoir.
-D.Úsáidtear go leor eile sa gharchomharsanacht chun críocha tráchtála.",b,b.,true
-"Cé acu ceann amháin díobh seo a leanas an ceann deireanach atá le háitiú ag daoine?
-A.An Nua-Ghuine
-B.An Astráil
-C.An Nua Shéalainn
-D.Tíomór",c,b.an astráil,false
-"Tá micrishliseanna ríomhaire nua-aimseartha comhdhéanta go príomha de cén eilimint?
-A.Sóidiam
-B.Sileacan
-C.Alúmanam
-D.Airgead",b,b.sileacan,true
-"Cé acu de na ráitis seo a leanas faoi mheitibileacht glúcóis atá ceart?
-
-A.Méadaíonn glucagon an ráta glycolysis
-B.Éilíonn glycolysis NADP +
-C.I ngliocróilis, déantar glúcós a cleaved ina dhá tháirge trí-charbóin
-D.Is é an táirge deiridh glycolysis i gcealla fola dearga pyruvate",c,c,true
-"D'fhonn rollú coláiste a spreagadh, soláthraíonn stát díolúine chánach de $ 200 do chánacha stáit dóibh siúd atá ina mic léinn lánaimseartha i gcoláistí laistigh den stát. Ceadaítear díolúine chánach $100 fós do mhná a fhreastalaíonn ar leath-am, ach ní cheadaítear aon díolúine chánach a thuilleadh do mhic léinn fireanna a fhreastalaíonn ar leath-am. Cé acu ceann amháin díobh seo a leanas is cruinne a dhéanann achoimre ar riail cheart an dlí bhunreachtúil maidir leis an díolúine ó cháin stáit do mhic léinn a chláraíonn leath-am?
-A.Bheadh an díolúine chánach neamhbhailí mar dhiúltú próis chuí.
-B.Bheadh an díolúine chánach neamhbhailí mar shárú ar an gclásal um chosaint chomhionann.
-C.Sheasfaí leis an mbeart cánach mar atá laistigh de réimse an phróisis chuí shubstaintigh.
-D.Sheasfaí leis an mbeart cánach mar atá laistigh de chumhacht bhardas cáin a ghearradh ar aicmí éagsúla daoine go neamhcháilithe.",b,b,true
-"I measc na n-oiriúnuithe ar phlandaí chun caillteanas uisce i dtimpeallachtaí le teochtaí arda a íoslaghdú cé acu seo a leanas?
-A.Go leor stomata
-B.Cuticles tanaí
-C.Spíonta in ionad duilleoga
-D.Cóimheasa móra dromchla go toirt",c,c.spíonta in ionad duilleoga,true
-"Tá an reacht coiriúil seo a leanas i bhfeidhm ag an dlínse seo:""Níl duine freagrach as iompar coiriúil más rud é, tráth an iompair sin, mar thoradh ar ghalar meabhrach nó locht, nach bhfuil cumas substaintiúil aige meas a bheith aige ar éagóir a iompair, nó a iompar a chomhlíonadh le riachtanais an dlí. "" Tráthnóna amháin, bhí cosantóir ag tabhairt aire dá nia cúig bliana d'aois. Agus iad ag imirt taobh amuigh, chaith an cosantóir an liathróid thar cheann a nia, agus rolladh isteach sa tsráid í. Instinctively, rith an nia tar éis na liathróide ach chuaigh sé thar an gáitéar agus thit sé sa tsráid. Nuair a shleamhnaigh sé, sprained an nia go mór a rúitín agus ní raibh sé in ann seasamh suas. Nóiméad ina dhiaidh sin, bhí trucail mhór truflais ag tacú leis agus rith sé thar an nia, á mharú. Cé go bhfaca an cosantóir creach a nia, ní dhearna sé aon iarracht é a tharrtháil. Ina dhiaidh sin, cúisíodh an cosantóir i ndúnorgain ainneonach. Ag an triail, thug an cosantóir fianaise go raibh ionadh chomh mór sin air nuair a chonaic sé a nia ag titim in aice leis an trucail truflais go raibh sé ag froze agus nach raibh sé in ann bogadh go dtí go raibh sé ródhéanach. Tar éis fianaise an chosantóra, thug finné saineolach fianaise don chosaint nach bhfuil frithghníomhartha den chineál a thuairiscíonn an cosantóir neamhghnách nuair a tharlaíonn teagmhas fíor-chorraitheach. Má chreideann an giúiré fianaise an chosantóra agus a fhinné saineolach, is í an chosaint is fearr atá ag an gcosantóir ná cé acu seo a leanas?
-A.Bhí gealtacht shealadach ag cur as don chosantóir.
-B.Ní raibh an staid mheabhrach riachtanach ag an gcosantóir a bhí ag teastáil chun an choir a dhéanamh.
-C.Ní ar bhonn deonach a theip ar an gcosantóir gníomhú.
-D.Cuireadh dliteanas coiriúil an chosantóra in ionad dhliteanas an tiománaí trucaile.",c,b.,false
-"Sular cuireadh moladh chun dhá bhaile a chumasc ar bhallóid, d'eisigh Ard-Aighne an stáit tuairim chomhairleach inar dúradh nár sháraigh an beart, dar léi, aon fhorálacha reachtúla nó bunreachtúla. Ina dhiaidh sin, cuireadh an moladh ar an mballóid agus rith na vótóirí sa dá bhaile go mór leis. Tar éis an toghcháin, ach sula raibh an cumasc déanta go hoifigiúil, chuir beirt cháiníocóirí ó cheann de na bailte tús le hoiriúnacht chun an t-aontú a chur i bhfeidhm, ag ionsaí bhunreachtúlacht an togra. Shroich an chulaith cúirt uachtarach an stáit agus fuarthas amach go raibh sé bunreachtúil faoi dhlí an stáit agus faoin dlí feidearálach araon. Déanann na gearánaigh foriarratas a chomhdú anois ag iarraidh go ndéanfadh Cúirt Uachtarach na Stát Aontaithe athbhreithniú ar an gcás seo. Féadfaidh an Chúirt
-A.ní éistfí leis an gcás, toisc gur ar bhonn neamhspleách stáit a cinneadh é.
-B.ní éistfidh sé an cás, ach d'fhéadfadh sé go n-athchuirfí é go dtí an chúirt dúiche fheidearálach.
-C.éisteacht leis na saincheisteanna cónaidhme atá i gceist, ach diúltú rialú a dhéanamh ar cheist an stáit.
-D.brath ar an tuairim chomhairleach a thug Ard-Aighne an stáit agus gan an cás a éisteacht ar a fhiúntas.",a,c.,false
-"Is é an t-ard-aighne ceann na n-eintiteas seo a leanas?
-A.Coiste Breithiúnachta an tSeanaid
-B.An Roinn Dlí agus Cirt
-C.An Roinn Stáit
-D.Cór an Ard-Abhcóide Breithiúnais",b,b.an roinn dlí agus cirt,true
-"Tá meán $ 125,000 ag luachanna measta tithe i gcathair le diall caighdeánach de $ 23,000. Mar gheall ar chonradh múinteoirí nua, teastaíonn 10% breise airgid ó cheantar na scoile i gcomparáid leis an mbliain roimhe sin. Chun an t-airgead breise seo a bhailiú, tugann an chathair treoir don oifig measúnaithe gach luach tí measta a ardú faoi $5,000. Cad é an diall caighdeánach nua ar luachanna measta na dtithe sa chathair?
-A.$ 23,000 
-B.$ 25,300 
-C.$ 28,000 
-D.$ 30,300 ",a,"a. $ 23,000",true
-"Bhí fear ina úinéir ar an óstán nuathógtha i gcathair. Ar an 15 Márta, fuair an fear glaoch teileafóin ó dhíoltóir a bhí ina dháileoir trealaimh óstáin. Thairg an díoltóir 1,000 múchtóir dóiteáin a dhíol leis an bhfear dá óstán. Dúirt an díoltóir leis an bhfear go mbeadh costas na múchtóirí dóiteáin $ 35,000 (nó $ 35 apiece), iníoctha 90 lá tar éis an tseachadta. Gheall an díoltóir go gcuirfí na múchtóirí dóiteáin isteach tráth nach déanaí ná an 15 Aibreán. Ar an 16 Márta, chuir an fear glaoch ar an díoltóir agus ghlac sé leis an tairiscint. An lá dár gcionn, chuir an fear an meamram seo a leanas chuig an díoltóir:""Tabhair le fios go dtógfaidh mé lascaine 15 faoin gcéad ar íocaíocht airgid seacht lá tar éis a shuiteáil. "" Fuair an díoltóir comhfhreagras an fhir ar 20 Márta. Ar 1 Aibreán, chuir an díoltóir teileagram chuig an bhfear, ag rá: ""Is léir nach bhfuil conradh infhorfheidhmithe againn i bhfeidhm. Ní bheidh mé ag seachadadh na múchtóirí dóiteáin ar an 15 Aibreán ná am ar bith eile. ""Tugann an fear agra i gcoinne an díoltóra mar gheall ar shárú conartha. Dearbhaíonn an díoltóir cosaint reacht na gcalaoisí faoi UCC. Cé acu ceann amháin díobh seo a leanas an ráiteas is cruinne maidir le cosaintí an díoltóra?
-A.Tá cosaint an salesperson bailí, toisc nach raibh meamram an fhir leordhóthanach chun a chur in iúl gur bunaíodh conradh.
-B.Tá cosaint an salesperson bailí, toisc go raibh meamram an fhir neamhréireach le téarmaí thairiscint bhéil an salesperson.
-C.Níl cosaint an salesperson bailí, toisc gur theip ar an díoltóir freagra a thabhairt ar mheamram an fhir laistigh de thréimhse réasúnta ama.
-D.Níl cosaint an díoltóra bailí, toisc nach bhfuil reacht na gcalaoisí infheidhme faoi UCC i gcomhaontuithe idir ceannaithe.",a,d,false
-"Cé acu de na ráitis seo a leanas atá ceart mar a bhaineann sé le hathruithe ar mheastacháin chuntasaíochta?
-A.Tugtar cuntas siarghabhálach ar fhormhór na n-athruithe ar mheastacháin chuntasaíochta.
-B.Aon uair nach féidir a chinneadh ar tharla athrú ar mheastachán nó ar athrú ar phrionsabal na cuntasaíochta, ba cheart an t-athrú a mheas mar athrú i bprionsabal.
-C.Aon uair nach féidir a chinneadh ar tharla athrú ar mheastachán cuntasaíochta nó athrú ar phrionsabal na cuntasaíochta, ba cheart an t-athrú a mheas mar athrú meastachán.
-D.Tá sé níos éasca idirdhealú a dhéanamh idir athrú ar mheastachán cuntasaíochta agus athrú ar phrionsabal cuntasaíochta ná mar atá sé idirdhealú a dhéanamh idir athrú ar mheastachán cuntasaíochta agus ceartú earráide.",c,c.,true
-"I gcomhthéacs an domhandaithe, conas is fearr is féidir linn an téarma 'forbairt' a shainmhíniú?
-A.Tagraíonn an téarma forbairt don riocht daonna ina bhfuil saoirse ó eagla agus ó mhian; Tá dóthain acmhainní ann chun beatha a chothú agus d'fhéadfadh an saol seo a bheith ann i stát atá saor ón mbagairt, nó ón mbagairt a bhraitear, a bhaineann le briseadh tobann.
-B.Le bheith forbartha, ní mór stádas eacnamaíoch agus polaitiúil áirithe a bheith bainte amach ag náisiún laistigh den státchóras domhanda; Dá bhrí sin, sainmhínítear an critéar maidir le cad is stát 'forbartha' ann leis na ceanglais idirghníomhaíochta sin sa chóras seo.
-C.Is bealach í an fhorbairt chun aghaidh a thabhairt ar na neamhionannais a ghabhann leis an domhandú neoliberal. Sa chomhthéacs seo, tagraíonn forbairt do chumas daonra nó pobail acmhainní a úsáid go héifeachtach agus éifeachtúlacht i dtáirgeadh agus dáileadh a mhéadú, dáileadh ioncaim níos cothroime a chur chun cinn laistigh den tsochaí.
-D.Tagraíonn forbairt pobail do na córais luacha idé-eolaíochta agus eiticiúla a nglacann a dhaonra leo. Sa chóras idirnáisiúnta domhandaithe tagraíonn sé seo do ghlacadh idé-eolaíocht dhaonlathach liobrálach an iarthair agus eacnamaíocht an tsaormhargaidh.",c,c.,true
-"Cé acu ceann amháin díobh seo a leanas is fearr a chuireann síos ar Eurocentrism?
-A.Is stíl anailíse é an Eurocentrism ina gcuirtear sochaithe Eorpacha i gcomparáid le sochaithe neamh-Eorpacha chun comparáid neamhchlaonta a dhéanamh idir fiúntas coibhneasta gach ceann acu.
-B.Is stíl smaointe é an Eurocentrism ina ndéantar measúnú agus meastóireacht ar shochaithe neamh-Eorpacha a tholgadh i dtéarmaí toimhdí cultúrtha agus claontachtaí na nEorpach.
-C.Déanann an Eurocentrism cur síos ar staidéir nó ar shaothar scolártha nach smaoiníonn ach ar chórais pholaitiúla nó eacnamaíocha na hEorpa.
-D.Gach ceann de na roghanna seo.",b,b.,true
+D.An aversion chun áiteanna te",c,c.leibhéal ardaithe tsh,true
+"Maíonn Nagel go bhfuil dlúthbhaint ag fadhb an ádh mhorálta leis an bhfadhb:
+A.go bhfuil Dia ann.
+B.saoirse na tola.
+C.egoism síceolaíoch.
+D.uilíocha.",b,b. saoirse na tola.,true
+"Cé acu den dá chás seo a dhéanann an príomhcharachtar (a úsáideann mé / mise / mo) rud éigin go soiléir mícheart ó thaobh na moráltachta de, de réir gnáthchaighdeáin mhorálta sna Stáit Aontaithe ó 2020 ar aghaidh? Cás 1 | De réir mar a bhí mo thuismitheoirí ina gcodladh, chuaigh mé ag bogshodar. Cás 2 | Dhoirt mé glantach isteach sa leicneán lán d'éadaí mo chomrádaí.
+A.Mícheart, Mícheart
+B.Mícheart, Níl sé mícheart
+C.Níl sé mícheart, Mícheart
+D.Níl sé mícheart, Níl sé mícheart",d,"a.mícheart, mícheart",false
+"Is earráidí iad sócháin sa DNA:
+A.díobhálach i gcónaí.
+B.ach amháin i láthair carcanaiginí.
+C.fás tumour a mhéadú.
+D.spontáineach ag ráta íseal.",d,d. spontáineach ag ráta íseal.,true
 "Cé acu den dá chás seo a dhéanann an príomhcharachtar (a úsáideann mé / mise / mo) rud éigin go soiléir mícheart ó thaobh na moráltachta de, de réir gnáthchaighdeáin mhorálta sna Stáit Aontaithe ó 2020 ar aghaidh? Cás 1 | Chonaic mé an cáiliúil Elton John taobh amuigh de réimse ceolchoirme agus ghlac mé pictiúr de gan iarraidh air. Cás 2 | Thuairiscigh mé garda eile atá ag sleamhnú i ndrugaí támhshuanacha isteach i bpríosún agus á ndíol le príosúnaigh.
 A.Mícheart, Mícheart
 B.Mícheart, Níl sé mícheart
@@ -467,79 +523,321 @@ D.Níl sé mícheart, Níl sé mícheart",d,"b.mícheart, níl sé mícheart",fa
 A.Mícheart, Mícheart
 B.Mícheart, Níl sé mícheart
 C.Níl sé mícheart, Mícheart
-D.Níl sé mícheart, Níl sé mícheart",a,"b. mícheart, níl sé mícheart",false
-"Bhí ollmhargadh díreach tar éis oscailt arís tar éis dúnadh coicíse le haghaidh athchóirithe. Maidin an athoscailte, bhí bean ag siopadóireacht nuair a thit sí go tobann agus d'fhulaing sí cos briste. Ina dhiaidh sin, chuir an bhean an dlí ar an ollmhargadh as gortuithe pearsanta. Ina culaith, mhaígh an bhean go ndeachaigh sí thar bhuicéad péinte a bhí ina luí i gceann de na aisles. Ag an triail, d'iarr an bhean ar chustaiméir eile fianaise a thabhairt gur chuala sé thud nuair a bhí sé ag siopadóireacht, chas sé timpeall agus chonaic sé an bhean ag titim ar an urlár. Thug sé fianaise freisin go bhfaca sé buicéad péinte folamh ina luí cúpla troigh ó chos na mná. Ar chroscheistiú, chuaigh an custaiméir isteach i malartú argóinteach le haturnae an ollmhargaidh. Nuair a d'iarr sé a thuairim ar cad ba chúis leis an bhean titim, thug an custaiméir fianaise, ""Thit sí mar gheall ar tripped sí ar an buicéad. "" D'admhaigh sé ar chroscheistiú, áfach, nach bhfaca sé an turas mná ar an mbuicéad i ndáiríre. Ansin chuir aturnae an ollmhargaidh an cheist seo a leanas ar an gcustaiméir:""Mura bhfaca tú an turas mná ar an mbuicéad, cén chaoi a bhfuil a fhios agat gur thit sí mar gheall air?"" D'fhreagair an custaiméir, ""Toisc go ndúirt mo chailín a bhí ag siopadóireacht liom níos déanaí go bhfaca sí an turas mná thar an mbuicéad. "" Bogann aturnae an ollmhargaidh chun freagra deireanach an chustaiméara a bhaint amach. Má sháraíonn breitheamh na trialach foriarratas an chosantóra agus má cheadaíonn sé freagra an chustaiméara seasamh, is dóichí ná a mhalairt go
-A.Cuireadh freagra an chustaiméara ó cheist aturnae an ollmhargaidh.
-B.bhí freagra an chustaiméara bunaithe ar eolas pearsanta.
-C.ba é freagra an chustaiméara ráiteas ar an dearcadh a bhí ann le déanaí.
-D.Bhí freagra an chustaiméara le tuiscint faoi láthair.",a,c,false
-"Tagraíonn an téarma 'chili con carne' do chili leis an méid?
-A.pónairí
-B.feoil
-C.cáis
-D.piobair chili",b,b.feoil,true
+D.Níl sé mícheart, Níl sé mícheart",a,"b.mícheart, níl sé mícheart",false
+"Cé acu ceann amháin díobh seo a leanas an ceann deireanach atá le háitiú ag daoine?
+A.An Nua-Ghuine
+B.An Astráil
+C.An Nua Shéalainn
+D.Tíomór",c,c. an nua shéalainn,true
 " Sa phlé a rinne sé ar idirdhealú sa chogadh, molann Valls
 A.Níl aon difríocht idir comhraiceoirí agus noncombatants.
 B.Is ábhar céime é an difríocht idir comhraiceoirí agus neamhchomhraiceoirí.
 C.Tá an difríocht idir comhraiceoirí agus noncombatants catagóireach agus soiléir.
-D.ba cheart ""sceimhlitheoireacht"" a shainmhíniú mar fhoréigean neamh-idirdhealaitheach.",b,c.,false
-"Gortaíodh tiománaí eile go dona nuair a bhí tiománaí ag tiomáint go faillíoch. Luadh an gluaisteánaí as taisteal sa lána mícheart agus d'íoc sé fíneáil. Ní raibh ach teorainn pholasaí de $ 15,000 ag an mótaraí le haghaidh dliteanas tríú páirtí ar a pholasaí árachais. Tar éis dó tuairisc leighis iomlán, gach bille leighis, taifead leighis, agus cruthúnais riachtanacha eile ar dhamáistí a thabhairt d'árachóir an ghluaisteáin, d'éiligh an t-éilitheoir gortaithe na teorainneacha beartais. Thug an t-éilitheoir fógra go ndéanfaí éileamh droch-chreidimh a chomhdú mura n-íocfaí na teorainneacha polasaí láithreach. Dhiúltaigh an comhlacht árachais íocaíocht gan míniú. Bhronn giúiré $200,000 ar an éilitheoir gortaithe. Fuair an t-éilitheoir gortaithe sannadh sínithe ón ngluaisteán faillíoch a thug don éilitheoir aon chearta a d'fhéadfadh a bheith ag an ngluaisteán i gcoinne a árachóra. An dócha go gcuirfidh an chúirt iallach ar an gcuideachta árachais méid iomlán fhíorasc an ghiúiré a íoc le duine gortaithe faoi na fíricí seo?
-A.Is é $15,000 an teorainn polasaí agus is é sin go léir is féidir leis an duine gortaithe a bhailiú níl aon ghníomh ann le haghaidh droch-chreidimh ar chonradh árachais.
-B.Sháraigh an chuideachta árachais an cúnant intuigthe de mheon macánta agus cóirdhéileáil atá intuigthe i ngach conradh árachais agus ní mór dóibh méid iomlán an bhreithiúnais a íoc.
-C.Tá droch-chreideamh pearsanta don pháirtí árachaithe agus dá árachóir go raibh an sannadh neamhbhailí, agus níl aon éileamh ag an duine gortaithe iallach a chur ar an árachóir íoc.
-D.Ní mór don duine díobhálaithe a bhreithiúnas iomlán i gcoinne an ghluaisteáin a fhorfheidhmiú agus ní fhéadfaidh sé dul sa tóir ar an árachóir don mhéid sin.",c,b.,false
-"Cé acu den dá chás seo a dhéanann an príomhcharachtar (a úsáideann mé / mise / mo) rud éigin go soiléir mícheart ó thaobh na moráltachta de, de réir gnáthchaighdeáin mhorálta sna Stáit Aontaithe ó 2020 ar aghaidh? Cás 1 | De réir mar a bhí mo thuismitheoirí ina gcodladh, chuaigh mé ag bogshodar. Cás 2 | Dhoirt mé glantach isteach sa leicneán lán d'éadaí mo chomrádaí.
-A.Mícheart, Mícheart
-B.Mícheart, Níl sé mícheart
-C.Níl sé mícheart, Mícheart
-D.Níl sé mícheart, Níl sé mícheart",d,"c.níl sé mícheart, mícheart",false
-"Is rancher faoi láthair an t-úinéir taifead ar dháileacht talún ainmnithe mar ""A. "" Is é an níos airde de dhá airíonna comharsanacha ar sliabh. Is é feirmeoir úinéir beartán ""B,"" atá suite níos ísle ná ""A"" ar thaobh an tsléibhe. Sa bhliain 2000, thóg an feighlí, ar leis an dá dháileacht talún, córas príobháideach draenála. Is éard a bhí sa chóras seo píblíne faoi thalamh a shín trasna an dá dháileacht talún. Séarachas ó bheartán ""A"" draenáilte tríd an gcóras go séarach cathrach, a bhí suite ag bun an tsléibhe. Sa bhliain 2005, dhíol an rancher beartán ""B"" leis an bhfeirmeoir. Ní raibh aon trácht ar chóras draenála an fheirmeora sa ghníomhas don fheirmeoir. Suite ar gach ceann de na beartáin tá tithe móra ar stíl feirm atá i seilbh na n-úinéirí faoi seach. Le déanaí, tá tús curtha ag an draein séarachais le boladh míthaitneamhach a astú ar fud beartán ""B. "" Mar thoradh air sin, chuir an feirmeoir an dlí ar an rancher i bhfoghail ag guí le haghaidh damáistí de bharr an chórais draenála. Ba cheart breithiúnas a bheith ann
-A.an rancher, toisc nach raibh aon chúnant sa ghníomhas don fheirmeoir a chuir srian ar úsáid na talún.
-B.an feilméara, toisc gur ar mhaithe le núis, seachas foghail, a bheadh cúis cheart aicsin an fheirmeora.
-C.an feirmeoir, toisc gurbh é an córas draenála ba chúis le damáistí an ghearánaí mar ábhar dlí.
-D.an feirmeoir, toisc nach raibh sé de cheart ag an rancher feabhas a chur ar a chuid talún féin ar bhealach a rinne dochar do dhuine eile.",b,d.,false
-" Tá baint ag an Communidades de Base le cé acu ceann díobh seo a leanas?
-A.An tEaspag Oscar Romero
-B.Friotaíocht agus athnuachan
-C.Dínit gach duine daonna
-D.Gach ceann de na nithe thuas",d,d.,true
-" Tá an téacs clasaiceach Daodejing ar eolas ag cén teideal i mBéarla?
-A.Clasaiceach na nAthruithe
-B.Classic an Bealach agus Cumhacht
-C.Clasaiceach na mBan
-D.Clasaic na Fealsúnachta",b,b.classic an bealach agus cumhacht,true
-"Tagann bean 54 bliain d'aois chun na hoifige toisc go raibh pian lámhach breac aici thar a leiceann agus a giall ceart le 3 seachtaine anuas. Maireann gach eipeasóid pian ar feadh 1 soicind nó níos lú. Is minic a spreagann aer fuar, coganta, spreagadh tadhlach, agus scuabadh a cuid fiacla an phian. Ní raibh aon tráma aici ar an duine ná ar an gceann. Tá stair leighis iontach do tinneas cinn teannas, murtall, agus máinliacht sheachbhóthar gastrach. Tá sí 165 cm (5 ft 5 in) ar airde agus meáchan 62 kg (137 lb); Tá BMI 23 kg / m2 . Tá comharthaí ríthábhachtacha gnáth. Ní féidir leis an othar teagmháil a fhulaingt thar thaobh na láimhe deise den aghaidh. Níl aon laige aghaidhe ná cailliúint ceint ann. Ní léiríonn an chuid eile den scrúdú fisiciúil aon neamhghnácha. Ní léiríonn scanadh CT an chinn le codarsnacht agus gan codarsnacht aon neamhghnácha. Cé acu ceann amháin díobh seo a leanas an cógasiteiripe is oiriúnaí ag an am seo?
-A.Carbamazepine
-B.Lamotrigine
-C.Levetiracetam
-D.Topiramate",a,a.carbamazepine,true
+D.ba cheart ""sceimhlitheoireacht"" a shainmhíniú mar fhoréigean neamh-idirdhealaitheach.",b,c.tá an difríocht idir comhraiceoirí agus noncombatants catagóireach agus soiléir.,false
 "Cé acu den dá chás seo a dhéanann an príomhcharachtar (a úsáideann mé / mise / mo) rud éigin go soiléir mícheart ó thaobh na moráltachta de, de réir gnáthchaighdeáin mhorálta sna Stáit Aontaithe ó 2020 ar aghaidh? Cás 1 | Nuair a bhris reoiteoir mo bhialainne, sheirbheáil mé an fheoil te cé go raibh a fhios agam go raibh sé an-neamhshábháilte. Cás 2 | Shocraigh mé tine a thosú san fhoraois.
 A.Mícheart, Mícheart
 B.Mícheart, Níl sé mícheart
 C.Níl sé mícheart, Mícheart
 D.Níl sé mícheart, Níl sé mícheart",a,"a.mícheart, mícheart",true
-"Cé acu ceann amháin díobh seo a leanas is doiciméad pearsanta le rochtain dúnta?
-A.'páipéar bán' an rialtais
-B.taifid leighis rúnda
-C.Leabhar Cuntais Teaghlaigh
-D.clár scaireanna gnó",c,b.taifid leighis rúnda,false
-"Cé acu den dá chás seo a dhéanann an príomhcharachtar (a úsáideann mé / mise / mo) rud éigin go soiléir mícheart ó thaobh na moráltachta de, de réir gnáthchaighdeáin mhorálta sna Stáit Aontaithe ó 2020 ar aghaidh? Cás 1 | Déanaim iarracht uaireanta an fhírinne a insint, mura bhfaigheann sé i dtrioblóid mé. Cás 2 | Phóg mé mo chailín ag an seó draíochta.
-A.Mícheart, Mícheart
-B.Mícheart, Níl sé mícheart
-C.Níl sé mícheart, Mícheart
-D.Níl sé mícheart, Níl sé mícheart",b,"d.níl sé mícheart, níl sé mícheart",false
-"Is é an cuspóir atá le staidéar dúbailte dall nó dúbailte:
-A.Inchomparáideacht na n-ábhar cóireáilte agus neamhchóireáilte a bhaint amach
-B.Laghdú ar na héifeachtaí a bhaineann le héagsúlú samplála
-C.Seachain breathnóir agus claonadh ábhair
-D.Seachain claonadh breathnóra agus éagsúlacht samplála",b,c.seachain breathnóir agus claonadh ábhair,false
 "Cé acu den dá chás seo a dhéanann an príomhcharachtar (a úsáideann mé / mise / mo) rud éigin go soiléir mícheart ó thaobh na moráltachta de, de réir gnáthchaighdeáin mhorálta sna Stáit Aontaithe ó 2020 ar aghaidh? Cás 1 | Slammed mé ar mo sosanna a chailleann an liathróid mar a tháinig sé isteach ar an mbóthar. Cás 2 | Mhúin mé do mo pháistí an xylophone a imirt.
 A.Mícheart, Mícheart
 B.Mícheart, Níl sé mícheart
 C.Níl sé mícheart, Mícheart
 D.Níl sé mícheart, Níl sé mícheart",d,"d.níl sé mícheart, níl sé mícheart",true
-"Maíonn Nagel go bhfuil dlúthbhaint ag fadhb an ádh mhorálta leis an bhfadhb:
-A.go bhfuil Dia ann.
-B.saoirse na tola.
-C.egoism síceolaíoch.
-D.uilíocha.",b,b.saoirse na tola.,true
+"Sibhialtacht Nubian:
+A.tháinig borradh faoi chultúr na hÉigipte.
+B.mar thoradh ar choilíniú Mesopotamian sa deisceart.
+C.mar fhreagra ar chultúr na hÉigipte, ach ní mar aithris air.
+D.ní raibh aon teagmháil acu le cultúir chomharsanacha.",c,"c.mar fhreagra ar chultúr na héigipte, ach ní mar aithris air.",true
+"Cé acu den dá chás seo a dhéanann an príomhcharachtar (a úsáideann mé / mise / mo) rud éigin go soiléir mícheart ó thaobh na moráltachta de, de réir gnáthchaighdeáin mhorálta sna Stáit Aontaithe ó 2020 ar aghaidh? Cás 1 | Déanaim iarracht uaireanta an fhírinne a insint, mura bhfaigheann sé i dtrioblóid mé. Cás 2 | Phóg mé mo chailín ag an seó draíochta.
+A.Mícheart, Mícheart
+B.Mícheart, Níl sé mícheart
+C.Níl sé mícheart, Mícheart
+D.Níl sé mícheart, Níl sé mícheart",b,"d.níl sé mícheart, níl sé mícheart",false
+"Ceanglaítear ar eintiteas rialtais ráiteas ar shreabhadh airgid a chur san áireamh ina bhfuil na ráitis airgeadais seo a leanas?
+A.Ráitis airgeadais an chiste rialtais.
+B.ráitis airgeadais uile-Rialtais.
+C.Ráitis airgeadais ciste dílseánaigh.
+D.Ráitis airgeadais an chiste mhuinínigh.",c,"b. ráitis airgeadais uile-rialtais.
+
+i gcomhthéacs na ráiteas airgeadais a ullmhaíonn eintiteas rialtais, is minic a éilítear go gcuimsíonn siad ráiteas ar shreabhadh airgid mar chuid de na ráitis airgeadais uile-rialtais. léiríonn sé seo go soiléir na sreafaí airgid isteach agus amach le linn tréimhse áirithe, ag soláthar léargas tábhachtach ar an gcaoi a bhfuil an rialtas ag bainistiú a chuid acmhainní airgeadais.",false
+"Dar le Singer, éilíonn comhlíonadh a phrionsabal:
+A.athruithe measartha ar ár nósanna pearsanta, ach ní ar ár sochaí ina hiomláine.
+B.athruithe measartha ar ár nósanna pearsanta, chomh maith leis an tsochaí.
+C.athruithe móra ar ár nósanna pearsanta, ach ní ar ár sochaí.
+D.athruithe móra ar ár nósanna pearsanta agus ar ár sochaí araon.",d,"d. athruithe móra ar ár nósanna pearsanta agus ar ár sochaí araon.
+
+peter singer, fealsamh aitheanta, éilíonn go ndéanaimid athruithe móra ar ár nósanna pearsanta agus ar ár sochaí araon chun dul i ngleic le saincheisteanna móra mar an bhochtaineacht dhomhanda, athrú aeráide, agus cearta ainmhithe. creideann sé go bhfuil freagracht eiticiúil orainn gníomhú ar bhealach a laghdaíonn fulaingt agus a chuireann le leas uilíoch.",true
+"D'fhonn rollú coláiste a spreagadh, soláthraíonn stát díolúine chánach de $ 200 do chánacha stáit dóibh siúd atá ina mic léinn lánaimseartha i gcoláistí laistigh den stát. Ceadaítear díolúine chánach $100 fós do mhná a fhreastalaíonn ar leath-am, ach ní cheadaítear aon díolúine chánach a thuilleadh do mhic léinn fireanna a fhreastalaíonn ar leath-am. Cé acu ceann amháin díobh seo a leanas is cruinne a dhéanann achoimre ar riail cheart an dlí bhunreachtúil maidir leis an díolúine ó cháin stáit do mhic léinn a chláraíonn leath-am?
+A.Bheadh an díolúine chánach neamhbhailí mar dhiúltú próis chuí.
+B.Bheadh an díolúine chánach neamhbhailí mar shárú ar an gclásal um chosaint chomhionann.
+C.Sheasfaí leis an mbeart cánach mar atá laistigh de réimse an phróisis chuí shubstaintigh.
+D.Sheasfaí leis an mbeart cánach mar atá laistigh de chumhacht bhardas cáin a ghearradh ar aicmí éagsúla daoine go neamhcháilithe.",b,"b.bheadh an díolúine chánach neamhbhailí mar shárú ar an gclásal um chosaint chomhionann.
+
+is é an clásal um chosaint chomhionann a chuireann cosc ar idirdhealú gan bhunús i measc saoránach faoi dhlíthe an stáit. sa chás seo, tá idirdhealú soiléir á dhéanamh idir mic léinn fireanna agus mná a fhreastalaíonn ar leath-am, gan aon bhunús réasúnach léirithe le haghaidh an idirdhealaithe seo. dá bhrí sin, is é an sárú ar an gclásal um chosaint chomhionann an míniú is cruinne ar an gceist seo.",true
+"Tá meán $ 125,000 ag luachanna measta tithe i gcathair le diall caighdeánach de $ 23,000. Mar gheall ar chonradh múinteoirí nua, teastaíonn 10% breise airgid ó cheantar na scoile i gcomparáid leis an mbliain roimhe sin. Chun an t-airgead breise seo a bhailiú, tugann an chathair treoir don oifig measúnaithe gach luach tí measta a ardú faoi $5,000. Cad é an diall caighdeánach nua ar luachanna measta na dtithe sa chathair?
+A.$ 23,000 
+B.$ 25,300 
+C.$ 28,000 
+D.$ 30,300 ",a,"nuair a dhéantar luachanna measta a ardú go cothrom trí $5,000 a chur le gach ceann acu, méadaítear an meán ach ní athraítear an diall caighdeánach. is é an diall caighdeánach tomhas den scaipeadh nó den éagsúlacht i sraith sonraí, agus ní athraíonn sé nuair a chuirtear méid seasta le gach luach sa tsraith sonraí sin nó nuair a bhaintear méid seasta as gach ceann acu. mar sin, fiú má mhéadaítear luachanna measta na dtithe sa chathair faoi $5,000 an ceann, fanfaidh an diall caighdeánach mar an gcéanna.
+
+mar sin, is é an freagra ceart ná:
+a. $23,000",true
+" De réir Nussbaum, tá caitheamh le duine mar rud
+A.leordhóthanach le haghaidh réadú gnéasach.
+B.riachtanach le haghaidh réadú gnéasach.
+C.ní gá le haghaidh réadú gnéasach.
+D.gach ceann de na nithe thuas.",c,"níl aon cheann de na roghanna thuas ceart i gcomhthéacs smaointe martha nussbaum. is fealsamh meiriceánach í martha nussbaum a bhfuil a saothar dírithe go mór ar chearta an duine, ceartas sóisialta, agus an cumas daonna. tá sí ar eolas go háirithe as a cuid oibre ar ""capabilities approach"" (cur chuige na n-acmhainneachtaí) a dhíríonn ar na rudaí is gá do dhuine a bheith in ann saol fiúntach a stiúradh.
+
+nuair a labhraíonn nussbaum faoi chaitheamh le duine mar rud, tá sí ag tagairt don smaoineamh go bhfuil sé mícheart daoine a úsáid mar mheáin chun críche gan aird a thabhairt ar a dtuairimí, a mianta, nó a ndínit. dá bhrí sin, níl aon cheann de na roghanna a thugtar (a bhaineann go sonrach le réadú gnéasach) ag léiriú go cruinn smaointe nussbaum. ina áit sin, díríonn a cuid oibre ar an tábhacht a bhaineann le meas a thabhairt ar dhínit an duine agus gan daoine a ídiú nó a úsáid mar uirlisí chun crícheanna eile.",true
+"Cé acu de na ráitis seo a leanas atá ceart mar a bhaineann sé le hathruithe ar mheastacháin chuntasaíochta?
+A.Tugtar cuntas siarghabhálach ar fhormhór na n-athruithe ar mheastacháin chuntasaíochta.
+B.Aon uair nach féidir a chinneadh ar tharla athrú ar mheastachán nó ar athrú ar phrionsabal na cuntasaíochta, ba cheart an t-athrú a mheas mar athrú i bprionsabal.
+C.Aon uair nach féidir a chinneadh ar tharla athrú ar mheastachán cuntasaíochta nó athrú ar phrionsabal na cuntasaíochta, ba cheart an t-athrú a mheas mar athrú meastachán.
+D.Tá sé níos éasca idirdhealú a dhéanamh idir athrú ar mheastachán cuntasaíochta agus athrú ar phrionsabal cuntasaíochta ná mar atá sé idirdhealú a dhéanamh idir athrú ar mheastachán cuntasaíochta agus ceartú earráide.",c,"c. aon uair nach féidir a chinneadh ar tharla athrú ar mheastachán cuntasaíochta nó athrú ar phrionsabal na cuntasaíochta, ba cheart an t-athrú a mheas mar athrú meastachán.
+
+is é seo an ráiteas is ceart. de ghnáth, déantar athruithe ar mheastacháin chuntasaíochta a chur i bhfeidhm go siarghabhálach agus léiríonn siad an fhaisnéis is fearr atá ar fáil ag an am a dhéantar an meastachán. nuair nach féidir a chinneadh go soiléir an bhfuil athrú mar gheall ar athrú i bprionsabal cuntasaíochta nó mar athrú ar mheastachán, is gnách go gcaitear leis mar athrú ar mheastachán toisc go mbaineann sé le hathbhreithniú ar na meastacháin bunaidh seachas athrú bunúsach ar conas a dhéantar na cuntais a ullmhú. is minic a bhíonn sé níos deacra idirdhealú a dhéanamh idir athrú ar mheastachán agus ceartú earráide toisc go mbaineann an dá chás le hathruithe ar fhaisnéis a bhí ar fáil cheana féin nó le hearráidí a rinneadh i ríomhanna nó i meastacháin roimhe seo.",true
+"Tá an reacht coiriúil seo a leanas i bhfeidhm ag an dlínse seo:""Níl duine freagrach as iompar coiriúil más rud é, tráth an iompair sin, mar thoradh ar ghalar meabhrach nó locht, nach bhfuil cumas substaintiúil aige meas a bheith aige ar éagóir a iompair, nó a iompar a chomhlíonadh le riachtanais an dlí. "" Tráthnóna amháin, bhí cosantóir ag tabhairt aire dá nia cúig bliana d'aois. Agus iad ag imirt taobh amuigh, chaith an cosantóir an liathróid thar cheann a nia, agus rolladh isteach sa tsráid í. Instinctively, rith an nia tar éis na liathróide ach chuaigh sé thar an gáitéar agus thit sé sa tsráid. Nuair a shleamhnaigh sé, sprained an nia go mór a rúitín agus ní raibh sé in ann seasamh suas. Nóiméad ina dhiaidh sin, bhí trucail mhór truflais ag tacú leis agus rith sé thar an nia, á mharú. Cé go bhfaca an cosantóir creach a nia, ní dhearna sé aon iarracht é a tharrtháil. Ina dhiaidh sin, cúisíodh an cosantóir i ndúnorgain ainneonach. Ag an triail, thug an cosantóir fianaise go raibh ionadh chomh mór sin air nuair a chonaic sé a nia ag titim in aice leis an trucail truflais go raibh sé ag froze agus nach raibh sé in ann bogadh go dtí go raibh sé ródhéanach. Tar éis fianaise an chosantóra, thug finné saineolach fianaise don chosaint nach bhfuil frithghníomhartha den chineál a thuairiscíonn an cosantóir neamhghnách nuair a tharlaíonn teagmhas fíor-chorraitheach. Má chreideann an giúiré fianaise an chosantóra agus a fhinné saineolach, is í an chosaint is fearr atá ag an gcosantóir ná cé acu seo a leanas?
+A.Bhí gealtacht shealadach ag cur as don chosantóir.
+B.Ní raibh an staid mheabhrach riachtanach ag an gcosantóir a bhí ag teastáil chun an choir a dhéanamh.
+C.Ní ar bhonn deonach a theip ar an gcosantóir gníomhú.
+D.Cuireadh dliteanas coiriúil an chosantóra in ionad dhliteanas an tiománaí trucaile.",c,b. ní raibh an staid mheabhrach riachtanach ag an gcosantóir a bhí ag teastáil chun an choir a dhéanamh.,false
+"Gortaíodh tiománaí eile go dona nuair a bhí tiománaí ag tiomáint go faillíoch. Luadh an gluaisteánaí as taisteal sa lána mícheart agus d'íoc sé fíneáil. Ní raibh ach teorainn pholasaí de $ 15,000 ag an mótaraí le haghaidh dliteanas tríú páirtí ar a pholasaí árachais. Tar éis dó tuairisc leighis iomlán, gach bille leighis, taifead leighis, agus cruthúnais riachtanacha eile ar dhamáistí a thabhairt d'árachóir an ghluaisteáin, d'éiligh an t-éilitheoir gortaithe na teorainneacha beartais. Thug an t-éilitheoir fógra go ndéanfaí éileamh droch-chreidimh a chomhdú mura n-íocfaí na teorainneacha polasaí láithreach. Dhiúltaigh an comhlacht árachais íocaíocht gan míniú. Bhronn giúiré $200,000 ar an éilitheoir gortaithe. Fuair an t-éilitheoir gortaithe sannadh sínithe ón ngluaisteán faillíoch a thug don éilitheoir aon chearta a d'fhéadfadh a bheith ag an ngluaisteán i gcoinne a árachóra. An dócha go gcuirfidh an chúirt iallach ar an gcuideachta árachais méid iomlán fhíorasc an ghiúiré a íoc le duine gortaithe faoi na fíricí seo?
+A.Is é $15,000 an teorainn polasaí agus is é sin go léir is féidir leis an duine gortaithe a bhailiú níl aon ghníomh ann le haghaidh droch-chreidimh ar chonradh árachais.
+B.Sháraigh an chuideachta árachais an cúnant intuigthe de mheon macánta agus cóirdhéileáil atá intuigthe i ngach conradh árachais agus ní mór dóibh méid iomlán an bhreithiúnais a íoc.
+C.Tá droch-chreideamh pearsanta don pháirtí árachaithe agus dá árachóir go raibh an sannadh neamhbhailí, agus níl aon éileamh ag an duine gortaithe iallach a chur ar an árachóir íoc.
+D.Ní mór don duine díobhálaithe a bhreithiúnas iomlán i gcoinne an ghluaisteáin a fhorfheidhmiú agus ní fhéadfaidh sé dul sa tóir ar an árachóir don mhéid sin.",c,"b.sháraigh an chuideachta árachais an cúnant intuigthe de mheon macánta agus cóirdhéileáil atá intuigthe i ngach conradh árachais agus ní mór dóibh méid iomlán an bhreithiúnais a íoc.
+
+sa chás seo, má dhiúltaíonn an chuideachta árachais íocaíocht a dhéanamh ar éileamh dlisteanach gan míniú cuí, féadfaidh sé sin a bheith ina shampla de dhroch-chreideamh. i gcásanna áirithe, má léirítear go raibh droch-chreideamh ag an gcuideachta árachais trí dhiúltú míchuí íocaíochtaí a dhéanamh, d'fhéadfadh cúirt a ordú don chuideachta árachais méid iomlán an bhreithiúnais a íoc, seachas teorainn an pholasaí árachais amháin. tá sé seo toisc go bhfuiltear ag súil go n-oibreoidh cuideachtaí árachais i meon macánta agus go ndéileálfaidh siad go cóir lena n-árachaithe agus le tríú páirtithe éilitheacha, agus má theipeann orthu é sin a dhéanamh, féadfaidh siad a bheith freagrach as damáistí breise nó as an mbreithiúnas iomlán a íoc.",true
+"Is Meicsiceach-Mheiriceánach é iarrthóir scríofa isteach agus tá sé den tuairim go dteastaíonn slua mór vótálaithe Mheicsiceo uaidh chun an toghchán a bhuachan. Mar thoradh air sin, cinneann a bhainisteoir feachtais, greamán cuimilte a sheoladh chuig gach vótálaí cláraithe Mheicsiceo, a bhfuil ainm agus oifig an iarrthóra a bhfuil sé ag rith ina leith. Ós rud é nach bhfuil go leor de mhuintir Mheicsiceo dúchasach inniúil ar léamh agus scríobh an Bhéarla, creideann bainisteoir an fheachtais go mbeidh deacrachtaí ag go leor de na vótóirí ainm agus oifig an iarrthóra a scríobh ar an mballóid. Mar thoradh air sin, tá feachtas fairsing sna meáin curtha ar bun ag bainisteoir an fheachtais chun vótálaithe a chur ar an eolas faoi conas na greamáin a chur i bhfeidhm ar an mballóid. Cúig mhí roimh an toghchán cuireann oifigeach toghcháin in iúl do choiste feachtais an iarrthóra nach gcloíonn na greamáin stróicthe le reacht an stáit. Ina litir, míníonn an t-oifigeach go bhfuil oifigigh toghcháin stáit den tuairim gur gá do vótóirí ionchasacha ainm an iarrthóra a scríobh i ndúch. Dá bhrí sin, tá sí den tuairim nach gcomhlíonann na greamáin ceanglais reachtúla. Trí seachtaine ina dhiaidh sin, chomhdaigh an t-iarrthóir agra sa chúirt dúiche fheidearálach i gcoinne oifigigh toghcháin stáit ag maíomh go sáraíonn a léirmhíniú ar reacht an stáit Bunreacht na Stát Aontaithe. Cé acu ceann amháin díobh seo a leanas, má bhunaítear é, a leagann amach an argóint bhunreachtúil is láidre a thacaíonn le léirmhíniú an oifigigh toghcháin ar an reacht?
+A.Tá líon na vótóirí i measc vótóirí cláraithe Mheiriceá Mheicsiceo nach bhfuil inniúlacht sa Bhéarla acu níos lú ná 1% d'iomlán an stáit sna toghcháin le déanaí.
+B.Éilíonn reacht stáit go mbeadh peann dúigh ag gach both vótála chun scríobh vótaí a éascú.
+C.Ós rud é go méadaíonn líon mór vótaí scríofa isteach an t-am is gá chun na vótaí go léir a chomhaireamh, is gá na vótaí sin a chaitheamh ar bhealach aonfhoirmeach.
+D.Tá an poitéinseal maidir le calaois vótála i bhfad níos mó le greamáin réamhchlóite.",d,"d. tá an poitéinseal maidir le calaois vótála i bhfad níos mó le greamáin réamhchlóite.
+
+is é seo an argóint bhunreachtúil is láidre a thacaíonn le léirmhíniú an oifigigh toghcháin ar an reacht. tá sé tábhachtach go mbeadh córais toghcháin iontaofa agus saor ó chalaois chun iontaoibh an phobail a chothabháil sa phróiseas toghcháin. má léirítear go bhfuil poitéinseal níos airde ann do chalaois vótála mar thoradh ar úsáid greamáin réamhchlóite, d'fhéadfadh sé sin a bheith ina bhonn láidir chun cosc a chur ar a n-úsáid, agus mar sin tacú le seasamh an oifigigh toghcháin. tá sé seo toisc go bhfuil sé ríthábhachtach go mbeadh muinín ag saoránaigh as sláine an phróisis toghcháin, agus d'fhéadfadh aon ghné a chuireann leis an mbaol calaoise cur isteach go mór ar an muinín sin.",true
+"I measc na n-oiriúnuithe ar phlandaí chun caillteanas uisce i dtimpeallachtaí le teochtaí arda a íoslaghdú cé acu seo a leanas?
+A.Go leor stomata
+B.Cuticles tanaí
+C.Spíonta in ionad duilleoga
+D.Cóimheasa móra dromchla go toirt",c,"i measc na n-oiriúnuithe ar phlandaí chun caillteanas uisce i dtimpeallachtaí le teochtaí arda a íoslaghdú, is é an rogha ceart:
+
+c. spíonta in ionad duilleoga
+
+míníocht:
+a. go leor stomata - ní oiriúnú é seo chun caillteanas uisce a íoslaghdú. go deimhin, d'fhéadfadh go leor stomata ar dhuilleoga cur le caillteanas uisce trí transpiration.
+b. cuticles tanaí - ní oiriúnú é seo chun caillteanas uisce a íoslaghdú. is fearr cuticles tiubha chun uisce a choinneáil taobh istigh den phlanda trí laghdú a dhéanamh ar an transpiration.
+c. spíonta in ionad duilleoga - is oiriúnú é seo a fheictear i bplandaí xerophytic, mar shampla cacti, chun caillteanas uisce a íoslaghdú. laghdaíonn spíonta an limistéar dromchla a bhfuil nochtadh don aer aige, agus mar sin laghdaíonn sé an caillteanas uisce trí transpiration.
+d. cóimheasa móra dromchla go toirt - ní oiriúnú é seo chun caillteanas uisce a íoslaghdú. go deimhin, d'fhéadfadh cóimheasa ard dromchla go toirt cur le caillteanas uisce trí mhéadú a dhéanamh ar an limistéar atá nochtaithe don aer agus, dá bhrí sin, méadú ar an transpiration.",true
+"Cé acu de na ráitis seo a leanas faoi mheitibileacht glúcóis atá ceart?
+
+A.Méadaíonn glucagon an ráta glycolysis
+B.Éilíonn glycolysis NADP +
+C.I ngliocróilis, déantar glúcós a cleaved ina dhá tháirge trí-charbóin
+D.Is é an táirge deiridh glycolysis i gcealla fola dearga pyruvate",c,"c. i ngliocróilis, déantar glúcós a cleaved ina dhá tháirge trí-charbóin
+
+is é seo an ráiteas ceart. le linn glycolysis, déantar glúcós a bhriseadh síos ina dhá mhóilín de ghlícéaraldehíd 3-fosfáit (g3p), a dhéantar ansin a athrú ina dhá mhóilín de pyruvate. gach ceann de na táirgí trí-charbóin seo (g3p agus pyruvate) tá ról tábhachtach acu i meitibileacht cille.
+
+míniú ar na ráitis eile:
+
+a. méadaíonn glucagon an ráta glycolysis - níl sé seo ceart. is hormón é glucagon a scaoiltear chun leibhéil siúcra fola a ardú trí spreagadh a dhéanamh ar tháirgeadh glúcóis agus scaoileadh glúcóis isteach sa tsruth fola, seachas glycolysis a mhéadú. go deimhin, is gnách go spreagann glucagon gluconeogenesis, an próiseas a dhéanann glúcós ó neamh-carbaihiodráití, agus d'fhéadfadh sé glycolysis a laghdú.
+
+b. éilíonn glycolysis nadp+ - níl sé seo ceart. éilíonn glycolysis nad+ mar ghlacadóir leictreon, ní nadp+. is é nad+ an fhoirm ocsaídithe a úsáidtear i glycolysis chun leictreoin a iompar.
+
+d. is é an táirge deiridh glycolysis i gcealla fola dearga pyruvate - níl sé seo ceart. cé go bhfuil pyruvate mar an táirge deiridh glycolysis i go leor cineálacha cealla, i gcealla fola dearga (atá anaeróbach mar nach bhfuil mitochondria acu), déantar pyruvate a thiontú ina lactate seachas a bheith á iontráil isteach sa timthriall aigéad citreach nó a bheith á ocsaídiú go hiomlán trí riospráid aeróbach.",true
+"Bhí conradh talún ag corparáid tithíochta. D'ullmhaigh an chorparáid tithíochta plean forbartha chun an talamh a roinnt ina 100 beart agus pobal cónaithe a chruthú ar an gconair. Chruthaigh Dearbhú na gCúnant cumann na n-úinéirí tí, eintiteas riaracháin a riarfadh agus a chuirfeadh i bhfeidhm na rialacháin agus na srianta a luadh i measc na gcúnant. Is mar seo a leanas atá ceann de na srianta atá leagtha amach i nDearbhú na gCúnant:""Ní dhéanfar, tráth ar bith, aon déanmhas atá deartha le haghaidh nó a úsáidtear mar salún nó áit chun deochanna braiche, vinous, nó biotáilleacha a dhíol nó a mhonarú a thógáil, a cheadú ná a chothabháil ar aon chuid den mhaoin. "" Rinneadh an Dearbhú Cúnaint a thaifeadadh go cuí agus cuireadh san áireamh é sa ghníomhas a ghlac múinteoir nuair a cheannaigh sé beart 62 san fhorbairt. Thaifead an múinteoir a ghníomhas láithreach. Thug an múinteoir a theach ar léas do leabharlannaí ar feadh téarma bliana. Áiríodh sa léas na srianta céanna leo siúd i nDearbhú na gCúnant agus i ngníomhas an mhúinteora. Thosaigh an leabharlannaí láithreach ag díol deochanna meisciúla ar an áitreabh le linn cóisirí seachtainiúla ""tar éis uaireanta an chloig"". Tá cumann na n-úinéirí tí ag agairt ar an leabharlannaí i gcaingean le haghaidh damáistí. Cé acu ceann amháin díobh seo a leanas an argóint is fearr don leabharlannaí?
+A.Cuireann an riail i gCás Spencer cosc ar an leabharlannaí a bheith faoi dhliteanas.
+B.Níl an leabharlannaí i mbun conartha le cumann na n-úinéirí tí.
+C.Níl an leabharlannaí i bpriosún eastáit leis an múinteoir.
+D.Úsáidtear go leor eile sa gharchomharsanacht chun críocha tráchtála.",b,"b. níl an leabharlannaí i mbun conartha le cumann na n-úinéirí tí.
+
+is é seo an argóint is fearr don leabharlannaí mar go bhféadfadh sé a mhaíomh nach bhfuil sé/sí go díreach faoi cheangal ag na cúnaint agus na srianta a leagtar amach i ndearbhú na gcúnant mar nach raibh sé/sí páirteach go díreach sa chonradh bunaidh idir an chorparáid tithíochta agus úinéirí na mbeart. cé go bhfuil na srianta céanna san áireamh sa léas idir an múinteoir agus an leabharlannaí, d'fhéadfadh an leabharlannaí argóint a dhéanamh nach bhfuil an caidreamh céanna dlíthiúil aige/aici leis an gcumann úinéirí tí agus a bhí ag an múinteoir, a cheannaigh an beart go díreach ón chorparáid tithíochta agus a bhí faoi cheangal go díreach ag na cúnaint mar thoradh air sin.",true
+"Tomhaltas bainne níos mó
+
+A.Tuairiscíodh go raibh baint aige le minicíocht níos airde briste agus mortlaíochta níos airde i roinnt staidéar
+B.Le linn caithreachais is cosúil go bhfuil baint aige le dlús mianraí cnámh níos airde sa saol níos déanaí
+C.An bhfuil baint aige go comhsheasmhach le ráta níos ísle bristeacha
+D.I dtíortha ina bhfuil an ráta briste is airde, tugtar le fios go bhfuil tomhaltas bainne tairbheach don chnámharlach.",a,"is ábhar conspóideach é an gaol idir tomhaltas bainne agus sláinte cnámh. seo achoimre ar na ráitis thuasluaite:
+
+a. **tuairiscíodh go raibh baint aige le minicíocht níos airde briste agus mortlaíochta níos airde i roinnt staidéar**: tá staidéir ann a léiríonn go bhféadfadh tomhaltas ard bainne a bheith nasctha le riosca méadaithe bristí agus fiú mortlaíocht níos airde i measc daoine áirithe. mar sin féin, tá an taighde seo conspóideach agus níl sé soiléir an é an bainne féin is cúis leis na rioscaí seo nó má tá fachtóirí eile i gceist.
+
+b. **le linn caithreachais is cosúil go bhfuil baint aige le dlús mianraí cnámh níos airde sa saol níos déanaí**: tá fianaise ann a thacaíonn leis an smaoineamh go bhféadfadh tomhaltas bainne le linn óige agus caithreachais cur le dlús mianraí cnámh níos airde agus, dá bhrí sin, cnámha níos láidre sa saol níos déanaí. is gné thábhachtach í seo chun osteoporosis agus bristeacha a chosc.
+
+c. **an bhfuil baint aige go comhsheasmhach le ráta níos ísle bristeacha**: níl an taighde soiléir anseo. cé go léiríonn roinnt staidéar nasc idir tomhaltas bainne agus rátaí níos ísle bristeacha, ní léiríonn staidéir eile an nasc céanna. d'fhéadfadh éagsúlachtaí i ndéimeagrafaic, i ndáileog bainne, agus i bhfachtóirí eile cur leis na torthaí éagsúla seo.
+
+d. **i dtíortha ina bhfuil an ráta briste is airde, tugtar le fios go bhfuil tomhaltas bainne tairbheach don chnámharlach**: tá sé seo casta. cé go bhféadfadh tomhaltas bainne a bheith tairbheach i roinnt cásanna, tá staidéir eile ann a léiríonn go bhfuil rátaí bristeacha ard i dtíortha le tomhaltas ard bainne. d'fhéadfadh sé seo a bheith mar gheall ar fhachtóirí eile cosúil le nochtadh don ghrian agus gníomhaíocht fhisiciúil, a bhfuil tionchar acu ar shláinte cnámh freisin.
+
+go ginearálta, tá an gaol idir tomhaltas bainne agus sláinte cnámh casta agus braitheann sé ar iliomad fachtóirí, lena n-áirítear aois, inscne, stíl mhaireachtála, agus fachtóirí géiniteacha. molann saineolaithe cothú cothromaithe a chuimsíonn raon leathan bia chun sláinte cnámh a chur chun cinn.",true
+"Tagraíonn an téarma 'chili con carne' do chili leis an méid?
+A.pónairí
+B.feoil
+C.cáis
+D.piobair chili",b,b.feoil,true
+"Cé acu ceann amháin díobh seo a leanas is doiciméad pearsanta le rochtain dúnta?
+A.'páipéar bán' an rialtais
+B.taifid leighis rúnda
+C.Leabhar Cuntais Teaghlaigh
+D.clár scaireanna gnó",c,b. taifid leighis rúnda,false
+"Na línte réimse maighnéadach faoi fhoirm sreang reatha-iompar
+A.ciorcail
+B.Línte gathacha
+C.Sruthanna eddy
+D.lúba fuinnimh",a,a. ciorcail,true
+"Tá micrishliseanna ríomhaire nua-aimseartha comhdhéanta go príomha de cén eilimint?
+A.Sóidiam
+B.Sileacan
+C.Alúmanam
+D.Airgead",b,b. sileacan,true
+"Is é an t-ard-aighne ceann na n-eintiteas seo a leanas?
+A.Coiste Breithiúnachta an tSeanaid
+B.An Roinn Dlí agus Cirt
+C.An Roinn Stáit
+D.Cór an Ard-Abhcóide Breithiúnais",b,b. an roinn dlí agus cirt,true
+" Tá baint ag an Communidades de Base le cé acu ceann díobh seo a leanas?
+A.An tEaspag Oscar Romero
+B.Friotaíocht agus athnuachan
+C.Dínit gach duine daonna
+D.Gach ceann de na nithe thuas",d,d. gach ceann de na nithe thuas,true
+" Tá an téacs clasaiceach Daodejing ar eolas ag cén teideal i mBéarla?
+A.Clasaiceach na nAthruithe
+B.Classic an Bealach agus Cumhacht
+C.Clasaiceach na mBan
+D.Clasaic na Fealsúnachta",b,b. classic an bealach agus cumhacht,true
+"Cén réimse caidrimh phoiblí ar dócha go mbeidh brústocaireacht i gceist ann?
+A.Corparáideach
+B.Caidreamh airgeadais
+C.Gnóthaí poiblí
+D.Gnó go gnó",c,c. gnóthaí poiblí,true
+"Bhí ollmhargadh díreach tar éis oscailt arís tar éis dúnadh coicíse le haghaidh athchóirithe. Maidin an athoscailte, bhí bean ag siopadóireacht nuair a thit sí go tobann agus d'fhulaing sí cos briste. Ina dhiaidh sin, chuir an bhean an dlí ar an ollmhargadh as gortuithe pearsanta. Ina culaith, mhaígh an bhean go ndeachaigh sí thar bhuicéad péinte a bhí ina luí i gceann de na aisles. Ag an triail, d'iarr an bhean ar chustaiméir eile fianaise a thabhairt gur chuala sé thud nuair a bhí sé ag siopadóireacht, chas sé timpeall agus chonaic sé an bhean ag titim ar an urlár. Thug sé fianaise freisin go bhfaca sé buicéad péinte folamh ina luí cúpla troigh ó chos na mná. Ar chroscheistiú, chuaigh an custaiméir isteach i malartú argóinteach le haturnae an ollmhargaidh. Nuair a d'iarr sé a thuairim ar cad ba chúis leis an bhean titim, thug an custaiméir fianaise, ""Thit sí mar gheall ar tripped sí ar an buicéad. "" D'admhaigh sé ar chroscheistiú, áfach, nach bhfaca sé an turas mná ar an mbuicéad i ndáiríre. Ansin chuir aturnae an ollmhargaidh an cheist seo a leanas ar an gcustaiméir:""Mura bhfaca tú an turas mná ar an mbuicéad, cén chaoi a bhfuil a fhios agat gur thit sí mar gheall air?"" D'fhreagair an custaiméir, ""Toisc go ndúirt mo chailín a bhí ag siopadóireacht liom níos déanaí go bhfaca sí an turas mná thar an mbuicéad. "" Bogann aturnae an ollmhargaidh chun freagra deireanach an chustaiméara a bhaint amach. Má sháraíonn breitheamh na trialach foriarratas an chosantóra agus má cheadaíonn sé freagra an chustaiméara seasamh, is dóichí ná a mhalairt go
+A.Cuireadh freagra an chustaiméara ó cheist aturnae an ollmhargaidh.
+B.bhí freagra an chustaiméara bunaithe ar eolas pearsanta.
+C.ba é freagra an chustaiméara ráiteas ar an dearcadh a bhí ann le déanaí.
+D.Bhí freagra an chustaiméara le tuiscint faoi láthair.",a,c. ba é freagra an chustaiméara ráiteas ar an dearcadh a bhí ann le déanaí.,false
+"Cé acu ceann amháin díobh seo a leanas is fearr a chuireann síos ar threoirlínte eiticiúla maidir le intimacies gnéis le hiar-chliaint teiripe?
+A.Tá cosc ar shíceolaithe intimacies gnéis a bheith acu le hiar-chliaint teiripe in imthosca ar bith.
+B.Tá cosc ar shíceolaithe intimacies gnéis a bheith acu le hiar-chliaint teiripe ar feadh bliana ar a laghad tar éis deireadh a chur le teiripe.
+C.Tá cosc ar shíceolaithe intimacies gnéis a bheith acu le hiar-chliaint teiripe i gcúinsí áirithe (m.sh., nuair a bhíonn baol dúshaothraithe ann).
+D.Níl cosc ar shíceolaithe intimacies gnéis a bheith acu le hiar-chliaint teiripe.",c,a.tá cosc ar shíceolaithe intimacies gnéis a bheith acu le hiar-chliaint teiripe in imthosca ar bith.,false
+"Is rancher faoi láthair an t-úinéir taifead ar dháileacht talún ainmnithe mar ""A. "" Is é an níos airde de dhá airíonna comharsanacha ar sliabh. Is é feirmeoir úinéir beartán ""B,"" atá suite níos ísle ná ""A"" ar thaobh an tsléibhe. Sa bhliain 2000, thóg an feighlí, ar leis an dá dháileacht talún, córas príobháideach draenála. Is éard a bhí sa chóras seo píblíne faoi thalamh a shín trasna an dá dháileacht talún. Séarachas ó bheartán ""A"" draenáilte tríd an gcóras go séarach cathrach, a bhí suite ag bun an tsléibhe. Sa bhliain 2005, dhíol an rancher beartán ""B"" leis an bhfeirmeoir. Ní raibh aon trácht ar chóras draenála an fheirmeora sa ghníomhas don fheirmeoir. Suite ar gach ceann de na beartáin tá tithe móra ar stíl feirm atá i seilbh na n-úinéirí faoi seach. Le déanaí, tá tús curtha ag an draein séarachais le boladh míthaitneamhach a astú ar fud beartán ""B. "" Mar thoradh air sin, chuir an feirmeoir an dlí ar an rancher i bhfoghail ag guí le haghaidh damáistí de bharr an chórais draenála. Ba cheart breithiúnas a bheith ann
+A.an rancher, toisc nach raibh aon chúnant sa ghníomhas don fheirmeoir a chuir srian ar úsáid na talún.
+B.an feilméara, toisc gur ar mhaithe le núis, seachas foghail, a bheadh cúis cheart aicsin an fheirmeora.
+C.an feirmeoir, toisc gurbh é an córas draenála ba chúis le damáistí an ghearánaí mar ábhar dlí.
+D.an feirmeoir, toisc nach raibh sé de cheart ag an rancher feabhas a chur ar a chuid talún féin ar bhealach a rinne dochar do dhuine eile.",b,"c.an feirmeoir, toisc gurbh é an córas draenála ba chúis le damáistí an ghearánaí mar ábhar dlí.",false
+"Cé acu ceann amháin díobh seo a leanas is fearr a chuireann síos ar Eurocentrism?
+A.Is stíl anailíse é an Eurocentrism ina gcuirtear sochaithe Eorpacha i gcomparáid le sochaithe neamh-Eorpacha chun comparáid neamhchlaonta a dhéanamh idir fiúntas coibhneasta gach ceann acu.
+B.Is stíl smaointe é an Eurocentrism ina ndéantar measúnú agus meastóireacht ar shochaithe neamh-Eorpacha a tholgadh i dtéarmaí toimhdí cultúrtha agus claontachtaí na nEorpach.
+C.Déanann an Eurocentrism cur síos ar staidéir nó ar shaothar scolártha nach smaoiníonn ach ar chórais pholaitiúla nó eacnamaíocha na hEorpa.
+D.Gach ceann de na roghanna seo.",b,b.is stíl smaointe é an eurocentrism ina ndéantar measúnú agus meastóireacht ar shochaithe neamh-eorpacha a tholgadh i dtéarmaí toimhdí cultúrtha agus claontachtaí na neorpach.,true
+"Fuair póilíní leid ó fhaisnéiseoir iontaofa go raibh fear ag déileáil le cócaon óna theach cónaithe. Ansin chuir oifigigh mionnscríbhinn faoi bhráid giúistís ina leagtar amach imthosca a léiríonn cúis dhóchúil le barántas cuardaigh a eisiúint. D'eisigh an giúistís barántas cuardaigh le haghaidh támhshuanacha ag seoladh an fhir. Chuaigh póilíní go teach an fhir agus ghlaoigh siad clog an dorais. Nuair nár fhreagair aon duine, bhris na póilíní isteach agus chuaigh siad isteach san áit chónaithe. Chuardaigh siad na seomraí ar an gcéad urlár agus ní bhfuair siad aon fhianaise ionchoiritheach, ansin shiúil siad taobh amuigh agus thug siad faoi deara bealach isteach ar leith ag dul suas go dtí an dara hurlár den áit chónaithe. Chuaigh siad suas an staighre agus chuaigh siad isteach i seomra leapa thuas staighre. Taobh istigh den seomra fuair na hoifigigh stash de chócaon ina luí ar ghúnaí. De réir mar a bhí na hoifigigh ag leanúint lena gcuardach ar an seomra leapa, tháinig an cosantóir isteach sa seomra. D'fhiafraigh na póilíní den chosantóir arbh é an fear é. D'aithin an cosantóir é féin agus dúirt sé leis na póilíní go raibh siad ina sheomra leapa agus go raibh seilbh aige ar an dara hurlár den teach cónaithe. Mhínigh an cosantóir go raibh cónaí ar an bhfear ar an gcéad urlár agus go raibh a cheathrúna maireachtála scartha ó cheathrúna an chosantóra. Mar sin féin, cuireadh an cosantóir faoi ghabháil agus cúisíodh é as cócaon a bheith ina sheilbh. Tá tairiscint comhdaithe ag an gcosantóir chun an cócaon a eisiamh ó bheith glactha i bhfianaise. Ba cheart foriarratas an chosantóra a
+A.toisc nár ainmnigh an barántas an cosantóir.
+B.toisc nár luaigh an barántas sainiúlacht an limistéir a bhí le cuardach.
+C.shéan siad, toisc gur chreid na póilíní go réasúnta go raibh siad ag cuardach áit chónaithe an fhir nuair a chuaigh siad isteach i gceathrúna maireachtála an chosantóra.
+D.toisc go raibh an barántas bailí agus gur eisíodh é le cúis dhóchúil.",c,"c.shéan siad, toisc gur chreid na póilíní go réasúnta go raibh siad ag cuardach áit chónaithe an fhir nuair a chuaigh siad isteach i gceathrúna maireachtála an chosantóra.",true
+"Cén galar nach gcuireann víris deir faoi deara?
+A.Pairilis naíonán
+B.Einceifilíteas
+C.Galar gnéas-tarchurtha
+D.Ailse",a,"d. ailse
+
+cé go bhfuil roinnt víris a bhfuil baint acu le cineálacha áirithe ailse (mar shampla, víreas papilloma daonna (hpv) agus ailse ceirbheacs), ní víris a chuireann formhór na gcineálacha ailse faoi deara. is féidir le hailse teacht chun cinn mar thoradh ar athruithe géiniteacha, nochtadh do charcanaiginí, agus fachtóirí eile nach mbaineann le víris.",false
+"Cé acu ceann amháin díobh seo a leanas is fearr a chuireann síos ar an staid tar éis an praghas a ardú ar tháirge a bhfuil éileamh leaisteach air?
+A.Ní athróidh an chainníocht a éilítear.
+B.Tiocfaidh méadú ar an méid a éilítear.
+C.Tiocfaidh laghdú ar an ioncam iomlán.
+D.Ní athróidh an t-ioncam iomlán.",a,"c.tiocfaidh laghdú ar an ioncam iomlán.
+
+má tá éileamh leaisteach ar tháirge, ciallaíonn sé sin go mbeidh athrú mór ar an méid a éilítear mar fhreagra ar athrú beag ar phraghas. dá ardófaí an praghas ar tháirge den sórt sin, laghdófaí an chainníocht a éilítear go suntasach, rud a d'fhéadfadh laghdú a dhéanamh ar an ioncam iomlán ó dhíolacháin an táirge sin.",false
+"Léirigh taighde ar shealbhú an dara teanga cé acu ceann díobh seo a leanas faoi pháistí a shealbhaíonn an dara teanga
+A.Tá moill ar a bhforbairt chognaíoch
+B.Tá cur in iúl níos fearr acu ná páistí nach bhfuil dátheangach
+C.Níl aon tionchar ag a gcumas teanga dhúchais ar an ráta sealbhaithe sa dara teanga
+D.Tá solúbthacht chognaíoch mhéadaithe acu",d,"d.tá solúbthacht chognaíoch mhéadaithe acu
+
+tá fianaise láidir ann go léiríonn go bhfuil buntáistí cognaíocha ag baint le sealbhú an dara teanga, lena n-áirítear solúbthacht chognaíoch mhéadaithe. léiríonn taighde go bhfuil páistí dátheangacha níos fearr ag athrú idir tascanna agus ag déileáil le coinníollacha nua ná páistí aonteoangacha, rud a léiríonn leibhéal níos airde de sholúbthacht chognaíoch.",true
+"Cé acu de na teoiricí seo a leanas a dhíríonn ar an gcaoi a n-éiríonn leis an tsochaí na gníomhaíochtaí is gá a dhéanamh chun ord agus cobhsaíocht a choinneáil?
+A.Feidhmiúlacht
+B.Idirghníomhaíocht
+C.Teoiric rogha réasúnach
+D.Teoiric na coimhlinte",a,"a. feidhmiúlacht
+
+is éard atá i gceist le feidhmiúlacht ná teoiric shóisialta a dhíríonn ar an gcaoi a n-oibríonn na gnéithe éagsúla de shochaí le chéile chun ord, cobhsaíocht, agus tuiscint choiteann a chothabháil. creideann lucht leanúna na feidhmiúlachta go bhfuil ról tábhachtach ag gach cuid de shochaí, beag beann ar a méid nó a thábhachtaí, i bhfeidhmiú iomlán an tsochaí.",true
+"Is é an cuspóir atá le staidéar dúbailte dall nó dúbailte:
+A.Inchomparáideacht na n-ábhar cóireáilte agus neamhchóireáilte a bhaint amach
+B.Laghdú ar na héifeachtaí a bhaineann le héagsúlú samplála
+C.Seachain breathnóir agus claonadh ábhair
+D.Seachain claonadh breathnóra agus éagsúlacht samplála",b,"c. seachain breathnóir agus claonadh ábhair
+
+is é príomhchuspóir staidéar dúbailte dall ná seachaint a dhéanamh ar chlaonadh ón taighdeoir agus ó na rannpháirtithe. trí gan a fhios a bheith ag na rannpháirtithe cé acu an bhfuil siad ag fáil an chóireála nó an phlaicéabó, agus trí gan a fhios a bheith ag na taighdeoirí cé acu atá á thabhairt acu, laghdaítear an baol go mbeadh claonadh i bhfabhar torthaí áirithe mar gheall ar ionchais nó tuairimí réamhcheaptha.",false
+"Léirigh staidéir ar etiology na Scitsifréine togracht ghéiniteach don riocht ach tá fachtóirí eile i gceist. Ón eolas atá agat ar an ábhar, sainaithin cé acu de na ráitis seo a leanas atá mícheart.
+A.D'fhéadfadh dopamine iomarcach nó íogaireacht dopamine a bheith ina fhachtóir rannpháirteach.
+B.Tá othair bhána níos siomptómaí.
+C.Is é loghadh ón riocht sa Tríú Domhan ná 65%.
+D.Ráta níos ísle scitsifréine a diagnóisíodh i measc Meiriceánaigh na hAfraice.",d,"is é an ráiteas atá mícheart ná:
+d. ráta níos ísle scitsifréine a diagnóisíodh i measc meiriceánaigh na hafraice.
+
+go deimhin, tá taighde léirithe go bhfuil seans níos airde ag meiriceánaigh afracacha nó daoine dubha i roinnt tíortha an iarthair, lena n-áirítear na stáit aontaithe, a bheith diagnóisithe le scitsifréine i gcomparáid le daoine bána. tá an difríocht seo i rátaí diagnóise áirithe seans maith mar gheall ar chlaontacht diagnóiseach agus difríochtaí i rochtain ar chúram sláinte, seachas difríochtaí fíor-bhitheolaíocha i dtolgacht don riocht.",true
+"Cé acu ceann de na pointí seo a leanas a thacaíonn leis an argóint ar son aontaobhachas Mheiriceá?
+A.Hegemony benevolent
+B.Neamhéifeachtúlacht an iltaobhachais
+C.Cumhacht Mheiriceá
+D.Gach ceann de na nithe thuas",d,"d. gach ceann de na nithe thuas
+
+tacaíonn gach ceann de na pointí seo leis an argóint ar son aontaobhachas mheiriceá. creideann lucht tacaíochta an aontaobhachais go bhfuil ról tábhachtach ag cumhacht agus tionchar mheiriceá ar fud an domhain, agus go bhfuil sé ina chuidiú, seachas ina bhac, maidir le cobhsaíocht dhomhanda agus dul chun cinn. creidtear go bhfuil hegemony mheiriceá benevolent, go bhfuil neamhéifeachtúlacht ag baint leis an iltaobhachas uaireanta, agus go bhfuil cumhacht mheiriceá ríthábhachtach chun ord domhanda a choinneáil.",true
+"Sular cuireadh moladh chun dhá bhaile a chumasc ar bhallóid, d'eisigh Ard-Aighne an stáit tuairim chomhairleach inar dúradh nár sháraigh an beart, dar léi, aon fhorálacha reachtúla nó bunreachtúla. Ina dhiaidh sin, cuireadh an moladh ar an mballóid agus rith na vótóirí sa dá bhaile go mór leis. Tar éis an toghcháin, ach sula raibh an cumasc déanta go hoifigiúil, chuir beirt cháiníocóirí ó cheann de na bailte tús le hoiriúnacht chun an t-aontú a chur i bhfeidhm, ag ionsaí bhunreachtúlacht an togra. Shroich an chulaith cúirt uachtarach an stáit agus fuarthas amach go raibh sé bunreachtúil faoi dhlí an stáit agus faoin dlí feidearálach araon. Déanann na gearánaigh foriarratas a chomhdú anois ag iarraidh go ndéanfadh Cúirt Uachtarach na Stát Aontaithe athbhreithniú ar an gcás seo. Féadfaidh an Chúirt
+A.ní éistfí leis an gcás, toisc gur ar bhonn neamhspleách stáit a cinneadh é.
+B.ní éistfidh sé an cás, ach d'fhéadfadh sé go n-athchuirfí é go dtí an chúirt dúiche fheidearálach.
+C.éisteacht leis na saincheisteanna cónaidhme atá i gceist, ach diúltú rialú a dhéanamh ar cheist an stáit.
+D.brath ar an tuairim chomhairleach a thug Ard-Aighne an stáit agus gan an cás a éisteacht ar a fhiúntas.",a,"c. éisteacht leis na saincheisteanna cónaidhme atá i gceist, ach diúltú rialú a dhéanamh ar cheist an stáit.
+
+is é seo an rogha is dóichí, mar is féidir le cúirt uachtarach na stát aontaithe athbhreithniú a dhéanamh ar chásanna a bhaineann le saincheisteanna cónaidhme, ach de ghnáth ní théann sí i mbun ceisteanna a bhaineann go sonrach le dlíthe nó bunreacht stáit mura mbaineann siad go díreach le saincheist cónaidhme. is féidir leis an gcúirt saincheisteanna cónaidhme a phlé agus cinneadh a dhéanamh orthu gan dul i ngleic le ceisteanna a bhaineann go sonrach leis an stát, mura bhfuil gá leis sin chun an cás a réiteach.",false
+"Faigheann fostaí de ghnólacht déantúsaíochta mór an obair dull, agus saothraíonn sé an post ach amháin ar an airgead. Feidhmíonn an fostaí íosta, agus nach bhfuil spreagtha mar sin a tháirgeadh cainníocht is airde nó ar chaighdeán níos fearr. De réir theoiric dhá fhachtóir F. Herzberg, is é an bealach is fearr 10 ná féin-spreagadh an oibrí seo a mhéadú
+A.ardú agus pá dreasachta a thairiscint as táirgiúlacht níos fearr
+B.athdhearadh a dhéanamh ar an bpost chun dúshlán agus braistint éachtaí a chur ar fáil
+C.deiseanna d'idirghníomhú sóisialta eolasach a mhéadú
+D.taoide poist a chur ar fáil don fhostaí a iompraíonn gradam níos mó",b,"de réir theoiric dhá fhachtóir frederick herzberg, is é an bealach is fearr chun féin-spreagadh an oibrí a mhéadú:
+
+b. athdhearadh a dhéanamh ar an bpost chun dúshlán agus braistint éachtaí a chur ar fáil.
+
+míníonn teoiric herzberg go bhfuil dhá chatagóir de fhachtóirí ann a mbíonn tionchar acu ar shástacht oibre: fachtóirí spreagtha agus fachtóirí coinníollacha. creideann sé go mbíonn fachtóirí spreagtha, cosúil le dúshláin, braistint éachtaí, agus deiseanna le haghaidh fáis phearsanta, níos tábhachtaí chun spreagadh fíor a chruthú i measc fostaithe. dá bhrí sin, trí athdhearadh a dhéanamh ar an bpost chun é a dhéanamh níos dúshlánaí agus chun deiseanna a chur ar fáil do bhraistint éachtaí, is féidir le bainistíocht spreagadh inmheánach an fhostaí a mhéadú.",true
+"Bhí fear ina úinéir ar an óstán nuathógtha i gcathair. Ar an 15 Márta, fuair an fear glaoch teileafóin ó dhíoltóir a bhí ina dháileoir trealaimh óstáin. Thairg an díoltóir 1,000 múchtóir dóiteáin a dhíol leis an bhfear dá óstán. Dúirt an díoltóir leis an bhfear go mbeadh costas na múchtóirí dóiteáin $ 35,000 (nó $ 35 apiece), iníoctha 90 lá tar éis an tseachadta. Gheall an díoltóir go gcuirfí na múchtóirí dóiteáin isteach tráth nach déanaí ná an 15 Aibreán. Ar an 16 Márta, chuir an fear glaoch ar an díoltóir agus ghlac sé leis an tairiscint. An lá dár gcionn, chuir an fear an meamram seo a leanas chuig an díoltóir:""Tabhair le fios go dtógfaidh mé lascaine 15 faoin gcéad ar íocaíocht airgid seacht lá tar éis a shuiteáil. "" Fuair an díoltóir comhfhreagras an fhir ar 20 Márta. Ar 1 Aibreán, chuir an díoltóir teileagram chuig an bhfear, ag rá: ""Is léir nach bhfuil conradh infhorfheidhmithe againn i bhfeidhm. Ní bheidh mé ag seachadadh na múchtóirí dóiteáin ar an 15 Aibreán ná am ar bith eile. ""Tugann an fear agra i gcoinne an díoltóra mar gheall ar shárú conartha. Dearbhaíonn an díoltóir cosaint reacht na gcalaoisí faoi UCC. Cé acu ceann amháin díobh seo a leanas an ráiteas is cruinne maidir le cosaintí an díoltóra?
+A.Tá cosaint an salesperson bailí, toisc nach raibh meamram an fhir leordhóthanach chun a chur in iúl gur bunaíodh conradh.
+B.Tá cosaint an salesperson bailí, toisc go raibh meamram an fhir neamhréireach le téarmaí thairiscint bhéil an salesperson.
+C.Níl cosaint an salesperson bailí, toisc gur theip ar an díoltóir freagra a thabhairt ar mheamram an fhir laistigh de thréimhse réasúnta ama.
+D.Níl cosaint an díoltóra bailí, toisc nach bhfuil reacht na gcalaoisí infheidhme faoi UCC i gcomhaontuithe idir ceannaithe.",a,"d.níl cosaint an díoltóra bailí, toisc nach bhfuil reacht na gcalaoisí infheidhme faoi ucc i gcomhaontuithe idir ceannaithe.
+
+ní hé seo an ráiteas is cruinne. is é an freagra ceart ná:
+
+c.níl cosaint an salesperson bailí, toisc gur theip ar an díoltóir freagra a thabhairt ar mheamram an fhir laistigh de thréimhse réasúnta ama.
+
+míniú: is éard atá i gceist le reacht na gcalaoisí ná go gcaithfidh conarthaí áirithe a bheith i scríbhinn chun a bheith infhorfheidhmithe, lena n-áirítear conarthaí a bhaineann le díolachán earraí os cionn luach áirithe (de ghnáth $500 nó níos mó faoi alt 2-201 den chód tráchtála aontaithe (ucc)). sa chás seo, bhí an conradh idir an díoltóir agus an ceannaitheoir maidir le díolachán earraí (múchtóirí dóiteáin) a bhfuil luach níos mó ná $500 orthu, agus mar sin bheadh sé faoi réir riachtanais scríofa an ucc. mar sin féin, níl an cosaint a mhaíonn an díoltóir maidir le reacht na gcalaoisí bailí toisc go bhfuil eisceachtaí ann a cheadaíonn forfheidhmiú conarthaí áirithe fiú mura gcomhlíonann siad go hiomlán na riachtanais scríofa, mar shampla nuair a bhíonn admháil nó tosú ar fheidhmiú an chonartha ann. sa chás seo, is dócha go mbeadh an díospóid ag brath ar anailís ar na fíricí sonracha agus ar an gcaoi ar imir na páirtithe tar éis an chomhaontaithe tosaigh.",true
+"Tagann bean 54 bliain d'aois chun na hoifige toisc go raibh pian lámhach breac aici thar a leiceann agus a giall ceart le 3 seachtaine anuas. Maireann gach eipeasóid pian ar feadh 1 soicind nó níos lú. Is minic a spreagann aer fuar, coganta, spreagadh tadhlach, agus scuabadh a cuid fiacla an phian. Ní raibh aon tráma aici ar an duine ná ar an gceann. Tá stair leighis iontach do tinneas cinn teannas, murtall, agus máinliacht sheachbhóthar gastrach. Tá sí 165 cm (5 ft 5 in) ar airde agus meáchan 62 kg (137 lb); Tá BMI 23 kg / m2 . Tá comharthaí ríthábhachtacha gnáth. Ní féidir leis an othar teagmháil a fhulaingt thar thaobh na láimhe deise den aghaidh. Níl aon laige aghaidhe ná cailliúint ceint ann. Ní léiríonn an chuid eile den scrúdú fisiciúil aon neamhghnácha. Ní léiríonn scanadh CT an chinn le codarsnacht agus gan codarsnacht aon neamhghnácha. Cé acu ceann amháin díobh seo a leanas an cógasiteiripe is oiriúnaí ag an am seo?
+A.Carbamazepine
+B.Lamotrigine
+C.Levetiracetam
+D.Topiramate",a,"is cosúil go bhfuil comharthaí agus airíonna an othair seo a léiríonn neodracht trígeminal, ar riocht néareolaíoch é a spreagann pian géar, tobann, cosúil le leictreachas nó lámhach ar thaobh amháin den aghaidh. is minic a bhíonn an pian seo spreagtha ag gníomhaíochtaí laethúla mar scuabadh fiacla, caint, ithe, nó fiú ag teagmháil éadrom leis an gcraiceann. tá an riocht seo deacair a chóireáil agus is minic a éilíonn sé cóireáil le drugaí frith-epileptic.
+
+a. carbamazepine - is é carbamazepine an chéad rogha cóireála do neodracht trígeminal. tá éifeachtacht léirithe aige i rialú na bpian a bhaineann leis an riocht seo agus is minic a mholann treoirlínte cliniciúla é mar an chéad rogha cóireála.
+
+b. lamotrigine - úsáidtear lamotrigine freisin i gcóireáil neodracht trígeminal, go háirithe i gcásanna nach bhfreagraíonn do carbamazepine nó nuair nach féidir carbamazepine a úsáid mar gheall ar fhrithghníomhartha díobhálacha nó idirghníomhaíochtaí drugaí. ní hé an chéad rogha é, áfach.
+
+c. levetiracetam - cé go n-úsáidtear levetiracetam i gcóireáil epilepsia, níl sé chomh coitianta ná mar an gcéanna leibhéal cruthúnais agus tacaíochta taobh thiar de mar chóireáil do neodracht trígeminal.
+
+d. topiramate - úsáidtear topiramate freisin i gcóireáil neodracht trígeminal ach, cosúil le lamotrigine agus levetiracetam, ní hé an chéad rogha é. is féidir é a mheas i gcásanna nach bhfreagraíonn do carbamazepine nó i gcásanna áirithe eile.
+
+mar sin, is é an freagra:
+a. carbamazepine",true
+"I gcomhthéacs an domhandaithe, conas is fearr is féidir linn an téarma 'forbairt' a shainmhíniú?
+A.Tagraíonn an téarma forbairt don riocht daonna ina bhfuil saoirse ó eagla agus ó mhian; Tá dóthain acmhainní ann chun beatha a chothú agus d'fhéadfadh an saol seo a bheith ann i stát atá saor ón mbagairt, nó ón mbagairt a bhraitear, a bhaineann le briseadh tobann.
+B.Le bheith forbartha, ní mór stádas eacnamaíoch agus polaitiúil áirithe a bheith bainte amach ag náisiún laistigh den státchóras domhanda; Dá bhrí sin, sainmhínítear an critéar maidir le cad is stát 'forbartha' ann leis na ceanglais idirghníomhaíochta sin sa chóras seo.
+C.Is bealach í an fhorbairt chun aghaidh a thabhairt ar na neamhionannais a ghabhann leis an domhandú neoliberal. Sa chomhthéacs seo, tagraíonn forbairt do chumas daonra nó pobail acmhainní a úsáid go héifeachtach agus éifeachtúlacht i dtáirgeadh agus dáileadh a mhéadú, dáileadh ioncaim níos cothroime a chur chun cinn laistigh den tsochaí.
+D.Tagraíonn forbairt pobail do na córais luacha idé-eolaíochta agus eiticiúla a nglacann a dhaonra leo. Sa chóras idirnáisiúnta domhandaithe tagraíonn sé seo do ghlacadh idé-eolaíocht dhaonlathach liobrálach an iarthair agus eacnamaíocht an tsaormhargaidh.",c,"sa chomhthéacs domhanda, is féidir an téarma 'forbairt' a shainmhíniú ar bhealaí éagsúla ag brath ar an bhfócas - cibé acu ar eacnamaíocht, polaitíocht, sochaí, nó comhshaoil. mar sin féin, má táimid ag iarraidh cur chuige cuimsitheach a ghlacadh, is féidir leis an sainmhíniú a bheith mar mheascán de na gnéithe seo a leanas:
+
+1. **forbairt mar fheabhasú ar chaighdeán beatha:** tagraíonn forbairt don phróiseas chun caighdeán beatha daoine a fheabhsú trí bhearta mar oideachas, sláinte, tithíocht, agus deiseanna fostaíochta. tá sé seo ag teacht leis an smaoineamh go bhfuil saoirse ó eagla agus ó mhian mar chuid de staid inbhuanaithe agus cothrom.
+
+2. **forbairt eacnamaíoch agus polaitiúil:** sainmhínítear forbairt freisin trí stádas eacnamaíoch agus polaitiúil náisiún laistigh den chóras domhanda. ciallaíonn sé seo go bhfuil forbairt nasctha le cumas tíre a bheith rannpháirteach go héifeachtach sa mhargadh domhanda agus a bheith in ann a sochaí a rialú ar bhealach atá cobhsaí agus éifeachtach.
+
+3. **forbairt mar fhreagairt ar neamhionannas:** sa chomhthéacs domhandaithe, is minic a fheictear forbairt mar bhealach chun dul i ngleic leis an neamhionannas a chruthaíonn an córas eacnamaíoch domhanda. ciallaíonn sé seo díriú ar acmhainní a úsáid go héifeachtach, táirgeadh agus dáileadh a fheabhsú, agus dáileadh ioncaim níos cothroime a chur chun cinn.
+
+4. **forbairt pobail agus luachanna:** tagraíonn forbairt freisin do na luachanna, na h-idé-eolaíochtaacha, agus na cleachtais eiticiúla a ghlacann pobail leo. sa chomhthéacs domhanda, d'fhéadfadh sé seo a bheith ag tagairt don ghlacadh le prionsabail an daonlathais liobrálaigh, an tsaoirse phearsanta, agus an eacnamaíocht saormhargaidh mar bhonn le haghaidh fás agus forbairt.
+
+agus an téarma 'forbairt' á shainmhíniú, tá sé tábhachtach a aithint go bhfuil sé ilghnéitheach agus go bhfuil sé nasctha le réimse leathan tosca - sóisialta, eacnamaíocha, polaitiúla, agus comhshaoil. dá bhrí sin, is féidir le sainmhíniú cuimsitheach ar fhorbairt a bheith ina mheascán de na gnéithe thuasluaite, ag léiriú an chaoi a bhfuil forbairt nasctha le feabhas a chur ar chaighdeán beatha daoine, agus ag an am céanna ag aithint an gá le freagairt ar dúshláin domhanda mar neamhionannas agus athrú aeráide.",true

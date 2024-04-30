@@ -1,84 +1,212 @@
 Question,CorrectAnswer,GivenAnswer,Correct
-"Xy-tasapinnal on graafik x^(log y) = y^log x
-A.avatud esimene kvadrant
-B.suletud kõver
-C.kiir avatud esimeses kvadrandis
-D.Üks punkt",a,c.,false
-"Milline järgmistest toob aja jooksul kõige tõenäolisemalt kaasa tugevama majanduskasvu?
-A.Loodusvarade kiirem tarbimine.
-B.Kõrgem täiskasvanute kirjaoskamatuse määr.
-C.Kapitalikaupade vähenev varu.
-D.Investeeringute maksukrediidid.",d,d.,true
-"Induktiivpoolis indutseeritud pinge on kujutatud järgmiselt:
-A.selle induktiivsuse ja selle kaudu kulgeva voolu toode.
-B.selle induktiivsuse ja selle kaudu kulgeva voolu suhe.
-C.voolu suhe läbi selle induktiivsuse.
-D.selle induktiivsuse ja selle kaudu voolu muutumise kiiruse tulemus.",d,d,true
-"1. avaldus | Rühmas (ab)^{-2} = b^{-2}a^{-2}. 2. avaldus | Rühmas (ab)^n = a^nb^n.
-A.Tõsi, tõsi
-B.Väär, väär
-C.Tõene, väär
-D.Väär, tõene",b,b.,true
-"Lähima tuhandeni ümardatud arv on 47 000. Milline arv võiks olla ümardatud arv?
-A.46,295
-B.46,504
-C.47,520
-D.47,924",b,d.,false
-"Osa Marsi veest on külmunud pinnases ja jäämütsides ning osa läks kaduma päikesetuule eemaldamise tõttu, kuid arvatakse, et suur osa algsest veest on kadunud mõne muu mehhanismi kaudu. Mis juhtus selle ""kadunud"" veega?
-A.magnetväli eemaldas selle, kui selle tugevus kiiresti vähenes
-B.see purustati ultraviolettvalguse abil vesinikuks ja hapnikuks ning vesinik kadus termilise põgenemise tõttu
-C.seda tarbis janunevate marslaste tsivilisatsioon
-D.see aurustus intensiivse vulkaanilisuse perioodil ja kadus termilise põgenemise tõttu kosmosesse",b,b.,true
 "Mis on näitleja Antonio Banderase emakeel?
 A.Hispaania
 B.Vene
 C.Saksa
-D.Prantsuse",a,a.hispaania,true
-"Kas riigi X ministri poolt välismaal toime pandud ebaseaduslik tapmine on tegu jure imperii või jure gestionis?
-A.Selline käitumine on avalik tegu (jure imperii)
-B.Selline käitumine ei tekita kunagi immuunsust
-C.Selline käitumine on eraõiguslik tegu (jure gestionis)
-D.Selline käitumine on avalik-õiguslik tegu, kuid seda kaitseb puutumatus",c,b.,false
+D.Prantsuse",a,a. hispaania,true
+"Mis on Hollandi riigikeel?
+A.Taani
+B.Rootsi
+C.Saksa
+D.Hollandi",d,d. hollandi,true
+"Keskealisi täiskasvanuid näib olevat rohkem ____ kui vanemaid või nooremaid täiskasvanuid
+A.Generatiivne
+B.Neurootiline
+C.Meeldiv
+D.Teatavate",a,a. generatiivne,true
+"Millises seisus on 1999. aasta filmi ""Magnoolia"" võtted?
+A.California
+B.Lõuna-Carolina
+C.Gruusia
+D.Texas",a,"1999. aasta filmi ""magnoolia"" võtted toimusid californias. seega on õige vastus a. california.",true
+"Ettevõtted tegelevad _________ nõudmiste tõttu sotsiaalse arvepidamisega, et teha kindlaks ________, parandada ___________ ning julgustada _________ ja ___________
+A.Sidusrühmad, riskid, sidusrühmade juhtimine, vastutus, läbipaistvus
+B.Sidusrühmad, vastutus, läbipaistvus, riskid, sidusrühmade juhtimine
+C.Sidusrühmad, vastutus, riskid, sidusrühmad, sidusrühmade juhtimine
+D.Sidusrühmad, sidusrühmade juhtimine, läbipaistvus, riskid, vastutus",a,"a. sidusrühmad, riskid, sidusrühmade juhtimine, vastutus, läbipaistvus",true
+"Mis on mõiste selle kohta, mil määral mõjutab konkurentsi ühes riigis konkurents teistes riikides?
+A.Rahvusvaheline kaubandus
+B.Globaalne majandus
+C.Ülemaailmne konkurents
+D.Üleilmastumine",d,"õige mõiste, mis kirjeldab seda, mil määral mõjutab konkurentsi ühes riigis konkurents teistes riikides, on c. ülemaailmne konkurents.",true
+"Millised neist roogadest on valmistatud sigade soolestikust?
+A.Haggis
+B.Chitlins
+C.terad
+D.tükelda suey",b,"b. chitlins (või chitterlings) on roog, mis on valmistatud sigade soolestikust. see on traditsiooniline roog paljudes lõuna-ameerika köökides.",true
+"Milliseid järgmistest teguritest peetakse Riva jaoks tõmbeteguriks, kui kaalutakse Indiast Ameerika Ühendriikidesse kolimist?
+A.Armetu vaesus
+B.Parem töökoht ja kõrgemad palgad
+C.India kastisüsteem
+D.Vägivald tema naabruses",b,"b. parem töökoht ja kõrgemad palgad
+
+see tegur on tõmbetegur, kuna see pakub riva jaoks potentsiaalselt paremaid elutingimusi ja majanduslikku stabiilsust, mis võib olla peamine põhjus indiast ameerika ühendriikidesse kolimise kaalumisel.",true
+"Leia $-\dfrac{1}{-3}\cdot\cfrac{1}{~\frac{1}{-3}~}.$
+A.1
+B.-1
+C.0
+D.2",b,"to solve the expression \( -\dfrac{1}{-3} \cdot \cfrac{1}{\frac{1}{-3}} \), we first simplify each part.
+
+1. simplify \( -\dfrac{1}{-3} \):
+   \[
+   -\dfrac{1}{-3} = \dfrac{1}{3}
+   \]
+
+2. simplify \( \cfrac{1}{\frac{1}{-3}} \):
+   \[
+   \cfrac{1}{\frac{1}{-3}} = -3
+   \]
+
+now, multiply the simplified parts:
+\[
+\dfrac{1}{3} \cdot (-3) = -1
+\]
+
+thus, the value of the expression is \(\boxed{-1}\).",true
+"Nimetage järgmise tingimusliku ettepaneku eelkäija: Mesilased võidavad oma esimese mängu ainult siis, kui kas Aardvarks või Chipmunks ei võida oma esimesi mänge.
+A.Aardvarks ei võida oma esimest mängu.
+B.Mesilased võidavad oma esimese mängu.
+C.Chipmunks ei võida oma esimest mängu.
+D.Kas Aardvarks või Chipmunks ei võida oma esimesi mänge.",b,"tingimusliku ettepaneku struktuur on tavaliselt ""kui p, siis q"", kus p on eelkäija (antecedent) ja q on järelkäija (consequent). antud lauses ""mesilased võidavad oma esimese mängu ainult siis, kui kas aardvarks või chipmunks ei võida oma esimesi mänge"" on järelkäijaks ""mesilased võidavad oma esimese mängu"" ja eelkäijaks ""kas aardvarks või chipmunks ei võida oma esimesi mänge"".
+
+seega on õige vastus:
+d. kas aardvarks või chipmunks ei võida oma esimesi mänge.",false
 "Mis on kordusrünnak?
 A.Kui ründaja vastab süsteemi poolt talle saadetud sõnumile
 B.Rünnak, mis pidevalt kordub, proovides nõrkust
 C.Rünnak, mis kasutab süsteemi enda sõnumeid ja mille eest ei saa seega kaitsta
-D.Ründaja saadab jäädvustatud sõnumi uuesti ja sait aktsepteerib seda ning vastab ründaja kasuks",d,d,true
-"Majandus on sügavas languses. Milline järgmistest rahapoliitikat käsitlevatest avaldustest on seda majandusolukorda arvestades tõene?
-A.Ekspansiivne poliitika ainult süvendaks majanduslangust.
-B.Ekspansiivne poliitika suurendab oluliselt kogunõudlust, kui investeeringud on intressimäära muutuste suhtes tundlikud.
-C.Kokkutõmbumispoliitika on sobiv stiimul investeeringuteks ja tarbimiseks.
-D.Kui nõudlus raha järele on täiesti elastne, võib ekspansiivne rahapoliitika olla üsna tõhus.",b,b,true
-"Footonite detektori kvanttõhusus on 0, 1. Kui detektorisse saadetakse 100 footonit, tuvastab detektor üksteise järel footonid
-A.keskmiselt 10 korda, ruutkeskmine kõrvalekalle on umbes 4
-B.keskmiselt 10 korda, ruutkeskmine kõrvalekalle on umbes 3
-C.keskmiselt 10 korda, ruutkeskmine kõrvalekalle on umbes 1
-D.keskmiselt 10 korda, ruutkeskmine kõrvalekalle on umbes 0,1",b,a.,false
-"Patsiendil on murtud kael, millel on seljaaju kahjustus kuuenda emakakaela selgroo tasemel.
-A.Nad ei saa hingata ilma elutoetuseta.
-B.Nad saavad hingata ainult vaikselt.
-C.Hingamisele avalduvat mõju on võimatu ennustada.
-D.Hingamist see ei mõjuta.",b,a.,false
-"Leidke kõvera pikkus y = ln x punktide vahel, kus y = 1/2 ja y = 1.
-A.0.53
-B.0.86
-C.1.18
-D.1.36",c,c.1.18,true
+D.Ründaja saadab jäädvustatud sõnumi uuesti ja sait aktsepteerib seda ning vastab ründaja kasuks",d,"d. ründaja saadab jäädvustatud sõnumi uuesti ja sait aktsepteerib seda ning vastab ründaja kasuks.
+
+see vastus kirjeldab kordusrünnaku (replay attack) olemust, kus ründaja kordab või saadab uuesti varem jäädvustatud andmeid, et ekspluateerida süsteemi usaldust nendesse andmetesse. selline rünnak võib võimaldada ründajal saavutada autoriseerimata juurdepääsu või teostada volitamata toiminguid.",true
+"Millised järgmistest riikidest paiskasid 2017. aastal elaniku kohta kõige rohkem CO2 õhku?
+A.Jaapan
+B.Kanada
+C.Venemaa
+D.Iraan",b,"2017. aasta andmete põhjal oli co2 heitkoguste poolest elaniku kohta kõige suurem heitkogus kanadas. kanada on tuntud oma suure energiatarbimise ja suurte naftaliivade tootmise poolest, mis mõlemad aitavad kaasa kõrgele co2 heitkogusele elaniku kohta. venemaa ja jaapan järgnevad tõenäoliselt kanadale, kuid nende heitkogused on siiski madalamad kui kanadas. iraan, kuigi suur naftatootja, on tavaliselt madalamate heitkogustega elaniku kohta võrreldes eelmainitud riikidega.",true
+"Milline neist õudusfilmidest tekitas kõige rohkem järgesid?
+A.Karje""
+B.Lõuad""
+C.Halloween""
+D.Reede, 13.",d,"film ""halloween"" on tekitanud kõige rohkem järgesid. alates esimesest ""halloween"" filmist, mis ilmus 1978. aastal, on sellest frantsiisist välja kasvanud mitmeid järjefilme, uusversioone ja isegi otse videole välja antud filme. kokku on ""halloween"" seerias üle kümne filmi.",false
+"Osa Marsi veest on külmunud pinnases ja jäämütsides ning osa läks kaduma päikesetuule eemaldamise tõttu, kuid arvatakse, et suur osa algsest veest on kadunud mõne muu mehhanismi kaudu. Mis juhtus selle ""kadunud"" veega?
+A.magnetväli eemaldas selle, kui selle tugevus kiiresti vähenes
+B.see purustati ultraviolettvalguse abil vesinikuks ja hapnikuks ning vesinik kadus termilise põgenemise tõttu
+C.seda tarbis janunevate marslaste tsivilisatsioon
+D.see aurustus intensiivse vulkaanilisuse perioodil ja kadus termilise põgenemise tõttu kosmosesse",b,"õige vastus on b: see purustati ultraviolettvalguse abil vesinikuks ja hapnikuks ning vesinik kadus termilise põgenemise tõttu. marsi atmosfääri õhuke olek ja nõrk magnetväli võimaldavad ultraviolettvalgusel lõhustada veemolekule vesinikuks ja hapnikuks. kuna vesinik on väga kerge element, on see võimeline marsi nõrga gravitatsiooni tõttu atmosfäärist põgenema, mis viib vee kadumiseni aja jooksul.",true
+"Õpitud abitus on tõenäoliselt otseselt seotud
+A.Barnumi efekt.
+B.omakasupüüdlik eelarvamus.
+C.väline kontrollikoht.
+D.tingimusteta positiivne lugupidamine.",c,"õpitud abitus on tõenäoliselt otseselt seotud **c. väline kontrollikoht**.
+
+õpitud abitus on psühholoogiline seisund, kus inimene on õppinud uskuma, et ta ei suuda mõjutada sündmusi enda ümber, mis viib passiivsuse ja motivatsiooni languseni. väline kontrollikoht tähendab uskumust, et inimese saatus või toimuvad sündmused ei sõltu tema enda tegevusest, vaid pigem välistest jõududest või õnnest. see seos on kooskõlas õpitud abituse kontseptsiooniga, kus inimesed tunnevad, et nad ei oma kontrolli oma olukorra üle ja seetõttu ei püüa nad oma olukorda parandada.",true
+"Milline psühholoogiline perspektiiv oli kahekümnenda sajandi vahetusel Lääne-Euroopas kõige populaarsem?
+A.neuroteadus
+B.evolutsiooniline
+C.biheivioristlik
+D.Psühhoanalüütiline",d,"d. psühhoanalüütiline
+
+kahekümnenda sajandi vahetusel oli lääne-euroopas kõige populaarsem psühholoogiline perspektiiv psühhoanalüütiline. sigmund freudi poolt välja töötatud psühhoanalüüs oli sel ajal väga mõjukas, keskendudes alateadvusele, unenägudele ja varajastele lapsepõlvekogemustele kui peamistele psüühika mõjutajatele.",true
+"Induktiivpoolis indutseeritud pinge on kujutatud järgmiselt:
+A.selle induktiivsuse ja selle kaudu kulgeva voolu toode.
+B.selle induktiivsuse ja selle kaudu kulgeva voolu suhe.
+C.voolu suhe läbi selle induktiivsuse.
+D.selle induktiivsuse ja selle kaudu voolu muutumise kiiruse tulemus.",d,"õige vastus on:
+d. selle induktiivsuse ja selle kaudu voolu muutumise kiiruse tulemus.
+
+induktiivpoolis indutseeritud pinge (elektromotoorjõud) on võrdeline pooli induktiivsusega (l) ja voolu muutumise kiirusega ajas (di/dt). see seos on kirjeldatud faraday seadusega elektromagnetilise induktsiooni kohta ja väljendub valemiga:
+\[ e = -l \frac{di}{dt} \]
+kus:
+e - indutseeritud pinge,
+l - induktiivsus,
+di/dt - voolu muutumise kiirus ajas.
+
+miinusmärk valemis näitab, et indutseeritud pinge töötab voolu muutusele vastu (lenzi seadus).",true
+"Lähima tuhandeni ümardatud arv on 47 000. Milline arv võiks olla ümardatud arv?
+A.46,295
+B.46,504
+C.47,520
+D.47,924",b,"ümardamisel lähima tuhandeni vaatame sajandikke. kui arv on 500 või suurem, ümardame üles järgmise tuhandeni; kui see on alla 500, ümardame alla praeguse tuhandeni.
+
+vaadates valikuid:
+a. 46,295 - see ümardub alla, kuna 295 on alla 500. ümardatud arv on 46,000.
+b. 46,504 - see ümardub üles, kuna 504 on üle 500. ümardatud arv on 47,000.
+c. 47,520 - see ümardub üles, kuna 520 on üle 500. ümardatud arv on 48,000.
+d. 47,924 - see ümardub üles, kuna 924 on üle 500. ümardatud arv on 48,000.
+
+seega, ainus arv, mis ümardub lähima tuhandeni kui 47,000, on valik b. 46,504.",true
+"Negatiivset jääkautokorrelatsiooni näitab milline järgmistest?
+A.Jääkide tsükliline muster
+B.Vahelduv muster jääkides
+C.Jääkide täielik juhuslikkus
+D.Jäägid, mis on kõik nullilähedased",b,"negatiivne jääkautokorrelatsioon tähendab, et jääkide vahel on negatiivne seos, mis tähendab, et positiivsele jäägile järgneb tõenäoliselt negatiivne jääk ja vastupidi. see tüüpiline muster on tuntud kui vahelduv muster. seega on õige vastus:
+
+b. vahelduv muster jääkides
+
+negatiivne jääkautokorrelatsioon võib viidata sellele, et mudelis on kasutatud liiga palju diferentseerimist või et mudel ei ole piisavalt hea sobivusega andmetele.",true
+"Asjaolu, et deuteeriumkloriidi (DCl) infrapunase neeldumise sagedus nihkub vesinikkloriidi (HCl) omast, on tingitud nende erinevustest
+A.elektronide jaotus
+B.dipoolmoment
+C.Jõu konstant
+D.vähendatud mass",d,"deuteeriumkloriidi (dcl) ja vesinikkloriidi (hcl) infrapunase neeldumise sageduse erinevus tuleneb nende molekulide **vähendatud massi** erinevusest. seega on õige vastus:
+
+**d. vähendatud mass**
+
+vähendatud mass on mõiste, mida kasutatakse kahe keha süsteemi dünaamika kirjeldamiseks, kus mõlemad kehad on liikumises. valem vähendatud massi \( \mu \) arvutamiseks kahe massi \( m_1 \) ja \( m_2 \) korral on:
+
+\[
+\mu = \frac{m_1 m_2}{m_1 + m_2}
+\]
+
+kuna deuteeriumi aatom (d) on vesiniku aatomi (h) raskem isotoop, on dcl molekuli vähendatud mass suurem kui hcl molekuli oma. see mõjutab otseselt molekuli vibreerimise sagedust, mille tulemusena nihkub infrapunase neeldumise sagedus.",true
+"Paak on kolmnurkse prisma kujuline. Kui kolmnurkse aluse pindala on 116 ruutjalga ja paak on 30 jalga pikk, siis kui palju vett sisaldaks paak, kui see on täis?
+A.1725 ft^3
+B.1740 ft^3
+C.3480 jalga^3
+D.6960 ft^3",c,"kolmnurkse prisma ruumala leidmiseks korrutame aluse pindala prisma kõrgusega. antud juhul on aluse pindala 116 ruutjalga ja prisma kõrgus ehk paagi pikkus on 30 jalga.
+
+ruumala \( v \) arvutamiseks kasutame valem:
+\[ v = \text{aluse pindala} \times \text{kõrgus} \]
+\[ v = 116 \, \text{ft}^2 \times 30 \, \text{ft} \]
+\[ v = 3480 \, \text{ft}^3 \]
+
+seega, kui paak on täis, sisaldaks see 3480 kuupjalga vett. vastus on c. 3480 jalga^3.",true
+" See turundus- ja kommunikatsioonitööriist pakub otsest stiimulit või stiimulit, et julgustada kliente toodet / teenust ostma:
+A.Reklaam.
+B.Avalikud suhted.
+C.Müügi edendamine.
+D.Otseturundus.",c,"c. müügi edendamine.
+
+müügi edendamine hõlmab erinevaid tegevusi ja stiimuleid, nagu allahindlused, kupongid, boonuspakkumised ja muud kampaaniad, mis on mõeldud selleks, et julgustada tarbijaid lühiajaliselt toodet või teenust ostma. see erineb reklaamist, avalikest suhetest ja otseturundusest, mis võivad samuti mõjutada ostuotsuseid, kuid ei pruugi alati pakkuda otsest stiimulit ostu sooritamiseks.",true
+"K-kordne ristvalideerimine on
+A.lineaarne K-s
+B.ruutkeskmine K-s
+C.kuup K-s
+D.eksponentsiaalne K-s",a,"k-kordne ristvalideerimine on a. lineaarne k-s.
+
+selgitus: k-kordne ristvalideerimine tähendab, et andmestik jagatakse k võrdseks osaks. üks osa kasutatakse testandmestikuna ja ülejäänud k-1 osa kasutatakse õppimisandmestikuna. see protsess korratakse k korda, nii et iga andmestiku osa on täpselt ühe korra testandmestik. kuna iga osa kasutatakse ühe korra testandmestikuna ja k-1 korda õppimisandmestikuna, siis on ristvalideerimise protsessi keerukus lineaarne k suhtes, mitte ruutkeskmine, kuup või eksponentsiaalne.",true
+"Kas riigi X ministri poolt välismaal toime pandud ebaseaduslik tapmine on tegu jure imperii või jure gestionis?
+A.Selline käitumine on avalik tegu (jure imperii)
+B.Selline käitumine ei tekita kunagi immuunsust
+C.Selline käitumine on eraõiguslik tegu (jure gestionis)
+D.Selline käitumine on avalik-õiguslik tegu, kuid seda kaitseb puutumatus",c,"b. selline käitumine ei tekita kunagi immuunsust
+
+riigi x ministri poolt välismaal toime pandud ebaseaduslik tapmine ei ole tegevus, mis oleks seotud tema ametialaste ülesannetega ega oleks osa riiklikust funktsioonist (jure imperii). selline tegevus on kuritegelik ja ei kuulu seetõttu ei jure imperii ega jure gestionis alla. rahvusvahelise õiguse kohaselt ei kaitse diplomaatiline ega riiklik immuunsus isikuid, kes on toime pannud rasked kuriteod, nagu mõrv. seega ei tekita selline käitumine immuunsust ja isik võib olla vastutav oma tegude eest vastavalt kohalikele seadustele või rahvusvahelisele õigusele.",false
 "Õpilased viivad läbi taimse pigmendi eraldamise harjutuse, mis nõuab, et nad kasutaksid suletud kromatograafiakambrit, mille kambri põhjas on väike kogus atsetooni. Atsetooni ohutushoiatused sisaldavad väidet, et see ärritab silmi ja nahka ning sellel on tuleohtlikud aurud. Järgnevatest"" milliseid ohutusabinõusid peaksid õpilased harjutuse läbiviimisel rakendama?
 A.Tulekindlate kinnaste panemine kambri kandmiseks tõmbekapile, kui atsetoon süttib
 B.Kambri paigutamine suletud, pimendatud kappi pigmendi eraldamise ajaks
 C.Nahast kinnaste kandmine ning nina ja suu katmine osakeste maskiga
-D.Kandke kaitseprille ja nitriilkindaid ning hoidke kõik atsetooni mahutid suletuna",d,d,true
-"Millist järgmistest bitistringide komplektidest EI SAA regulaaravaldisega kirjeldada?
-A.Kõik bitistringid, mille nullide arv on viiekordne
-B.Kõik bitistringid, mis algavad nulliga ja lõpevad ühega
-C.Kõik bitistringid paarisarvu nullidega
-D.Kõik bitistringid, millel on rohkem kui nullid",d,a.,true
-"Jadaahelas, kui vool ühes lambis on 2 A, on vool selle kõrval olevas lambis
-A.pool, 1 A
-B.02:00
-C.Sõltub sellest, milline lamp on akule lähemal
-D.Pole piisavalt teavet, et öelda",b,d.,false
+D.Kandke kaitseprille ja nitriilkindaid ning hoidke kõik atsetooni mahutid suletuna",d,"õige vastus on d. kandke kaitseprille ja nitriilkindaid ning hoidke kõik atsetooni mahutid suletuna.
+
+selgitus:
+- kaitseprillid aitavad kaitsta silmi atsetooni ärritava toime eest.
+- nitriilkindad on sobilikud, kuna need pakuvad kaitset atsetooni ärritava toime eest nahale ja on vastupidavad lahustitele nagu atsetoon.
+- atsetooni mahutite suletuna hoidmine aitab vältida aurude levikut, mis on tuleohtlikud ja võivad põhjustada terviseriske.
+
+muud valikud ei paku asjakohast kaitset atsetooni kasutamisel:
+a. tulekindlad kindad ei ole vajalikud, kuna atsetooni süttimise oht on madal, kui järgitakse korrektseid ohutusprotseduure ja hoida mahutid suletuna.
+b. kambri paigutamine suletud, pimendatud kappi ei ole vajalik ega seotud atsetooni ohutu kasutamisega.
+c. nahast kindad ei paku piisavat kaitset atsetooni eest ja osakeste mask ei kaitse atsetooni aurude eest.",true
 "See küsimus viitab järgmisele teabele.
 Kõigepealt peame märkima, et kosmos on vormis sfääriline, osaliselt seetõttu, et see vorm on täiuslik tervik, mis ei vaja liigeseid, on kõige täielikum, osaliselt seetõttu, et see teeb kõige mahukama vormi, mis sobib kõige paremini kõike sisaldama ja säilitama; või jälle sellepärast, et kõik universumi koostisosad, see tähendab päike, kuu ja planeedid, ilmuvad sellisel kujul; või sellepärast, et kõik püüab seda vormi saavutada, nagu ilmneb veepiiskade ja muude vedelikukehade puhul, kui nad üritavad end määratleda. Nii et keegi ei kahtle, et see vorm kuulub taevakehadesse. ...
 See, et maa on ka kerakujuline, on seega väljaspool kahtlust, sest see surub igast küljest oma keskpunkti. Kuigi mägede kõrguste ja orgude süvendite tõttu ei saa täiuslikku ringi mõista, ei mõjuta see siiski maa üldist sfäärilist olemust. ...
@@ -88,17 +216,87 @@ Seda lõiku võib kasutada tõendina selle kohta, et Kopernik erines oma aja tra
 A.kosmos on sfääriline
 B.Maa on kerakujuline
 C.kosmos on geostaatiline
-D.Maa ei ole paigal",d,d,true
-"Millises seisus on 1999. aasta filmi ""Magnoolia"" võtted?
-A.California
-B.Lõuna-Carolina
-C.Gruusia
-D.Texas",a,a.california,true
-"Nimetage järgmise tingimusliku ettepaneku eelkäija: Mesilased võidavad oma esimese mängu ainult siis, kui kas Aardvarks või Chipmunks ei võida oma esimesi mänge.
-A.Aardvarks ei võida oma esimest mängu.
-B.Mesilased võidavad oma esimese mängu.
-C.Chipmunks ei võida oma esimest mängu.
-D.Kas Aardvarks või Chipmunks ei võida oma esimesi mänge.",b,b,true
+D.Maa ei ole paigal",d,"d. maa ei ole paigal
+
+nicolas copernicus oli tuntud oma revolutsioonilise teooria poolest, mis väitis, et maa tiirleb ümber päikese, erinevalt tolleaegsest levinud arusaamast, et maa on universumi keskpunkt ja seisab paigal. selles tekstilõigus käsitleb copernicus mõtet, et maa võib tegelikult liikuda, mis on vastuolus traditsioonilise geotsentrilise mudeliga, mida toetasid aristoteles ja teised tolleaegsed õpetlased. copernicus kaalub võimalust, et maa pöörleb läänest itta, mis selgitaks päikese, kuu ja tähtede tõusu ja loojumist, viidates sellega, et maa ei ole paigal. see seisukoht eristab teda oluliselt oma aja traditsioonilistest vaadetest.",true
+"Millised järgmistest tunnustest on üldiselt kooskõlas kuupäeva vägistamisega?
+A.ülemäärase jõu kasutamine
+B.ettekavatsetud
+C.seksuaalselt motiveeritud
+D.hõlmab relva kasutamist",c,"kuupäeva vägistamise puhul on tüüpilised järgmised tunnused:
+
+b. ettekavatsetud - kuupäeva vägistamise puhul võib vägistaja planeerida rünnaku ette, valides ohvri ja olukorra, kus ohver tunneb end mugavalt ja turvaliselt, mis võimaldab ründajal ära kasutada ohvri usaldust.
+
+c. seksuaalselt motiveeritud - nagu kõik vägistamised, on ka kuupäeva vägistamine seksuaalselt motiveeritud rünnak, kus ründaja eesmärk on seksuaalne kontroll või vägivald ohvri üle.
+
+kuupäeva vägistamise puhul ei pruugi alati esineda ülemäärast jõu kasutamist (a) või relva kasutamist (d), kuna ründaja võib kasutada ohvri usaldust või uimastada ohvrit, et vältida füüsilist vastupanu.",true
+"Tarnijale kehtestatud maks kandub tarbijale üle hinnatõusuna suurema tõenäosusega, kui
+A.Nõudluse hinnaelastsus on väga elastne.
+B.Nõudluse hinnaelastsus on väga elastne.
+C.nõudluse hinnaelastsus on ühiku elastne.
+D.Nõudluse palgaelastsus on väga elastne.",b,"tarnijale kehtestatud maks kandub tarbijale üle hinnatõusuna suurema tõenäosusega, kui nõudluse hinnaelastsus on väga jäik (inelastne). see tähendab, et tarbijad reageerivad hinnamuutustele vähem, mistõttu on tarnijatel lihtsam maksukoormust tarbijatele edasi kanda.
+
+vastusevariandid, mida te pakkusite, sisaldavad korduvat ja eksitavat informatsiooni. õige vastus oleks olnud variant, mis viitab sellele, et nõudluse hinnaelastsus on väga jäik (inelastne). kuna sellist varianti teie pakutud valikutes ei ole, siis kõige lähemal õigele vastusele on variant c, mis mainib ""ühiku elastset"" nõudlust, kuigi see ei ole täpselt see, mida küsimus eeldab. õige vastus peaks olema midagi sellist nagu ""nõudluse hinnaelastsus on väga jäik (inelastne).""",false
+"Jadaahelas, kui vool ühes lambis on 2 A, on vool selle kõrval olevas lambis
+A.pool, 1 A
+B.02:00
+C.Sõltub sellest, milline lamp on akule lähemal
+D.Pole piisavalt teavet, et öelda",b,"õige vastus on:
+d. pole piisavalt teavet, et öelda
+
+põhjendus:
+voolu suurus läbi lambi sõltub mitmest tegurist, sealhulgas lambi takistusest ja sellest, kuidas lambid on ühendatud (kas jadamisi või paralleelselt). kui lambid on ühendatud jadamisi, jaguneb vool ühtlaselt kõigi jadaühenduses olevate lampide vahel. kui lambid on ühendatud paralleelselt, sõltub iga lambi vool tema enda takistusest. seega ilma täiendava informatsioonita ühenduse tüübi ja lampide omaduste kohta ei saa kindlalt öelda, mis on vool teises lambis.",false
+"Patsiendil on murtud kael, millel on seljaaju kahjustus kuuenda emakakaela selgroo tasemel.
+A.Nad ei saa hingata ilma elutoetuseta.
+B.Nad saavad hingata ainult vaikselt.
+C.Hingamisele avalduvat mõju on võimatu ennustada.
+D.Hingamist see ei mõjuta.",b,"kui patsiendil on seljaaju kahjustus kuuenda emakakaela selgroo (c6) tasemel, on oluline mõista, kuidas see võib mõjutada hingamisfunktsiooni. kuuenda emakakaela selgroo kahjustus võib mõjutada diafragma lihaseid, mis on peamised hingamislihased. siiski, kuna c6 tasemel ei ole diafragma funktsioon tavaliselt täielikult halvatud, on patsiendil tõenäoliselt võimalik iseseisvalt hingata, kuigi võib esineda raskusi sügavate hingetõmmetega või hingamisega füüsilise koormuse ajal.
+
+seega, õige vastus antud valikute hulgast on:
+b. nad saavad hingata ainult vaikselt.
+
+see tähendab, et kuigi patsient võib vajada abi sügavamate hingetõmmete või intensiivsema hingamise korral, peaksid nad suutma iseseisvalt hingata rahulikus olekus.",true
+"Sõites algkiirusega 1,5 × 10^6 m/s, siseneb prooton konstantse magnetvälja piirkonda suurusega 1,5 T. Kui prootoni algkiirusvektor teeb magnetväljaga 30° nurga, arvutage prootoni kiirus 4 s pärast magnetvälja sisenemist.
+A.5,0 × 10^6 m/s
+B.7,5 × 10^6 m/s
+C.1,5 × 10^6 m/s
+D.3,0 × 10^6 m/s",c,"prootoni liikumist magnetväljas kirjeldab lorentzi jõud, mis on antud valemiga:
+\[ \vec{f} = q \vec{v} \times \vec{b} \]
+kus \( q \) on laengu suurus (prootoni laeng \( q = e = 1.6 \times 10^{-19} \) coulombi), \( \vec{v} \) on kiirusvektor ja \( \vec{b} \) on magnetvälja tugevus.
+
+lorentzi jõud mõjub alati kiirusevektori suunale risti, mistõttu see ei tee tööd ja seega ei muuda osakese kineetilist energiat ega selle suurust kiirust. see tähendab, et kuigi prooton võib magnetväljas liikuda spiraalselt või ringjooneliselt (sõltuvalt sellest, kuidas kiirusvektor magnetväljaga ristub), jääb selle kiiruse suurus muutumatuks.
+
+antud juhul on prootoni algkiirus \( 1.5 \times 10^6 \) m/s ja see teeb magnetväljaga 30° nurga. kuna lorentzi jõud ei muuda kiiruse suurust, vaid ainult suunda, siis 4 sekundi pärast on prootoni kiirus endiselt \( 1.5 \times 10^6 \) m/s.
+
+seega on õige vastus:
+c. \( 1.5 \times 10^6 \) m/s.",true
+"Kiiduväärt isiksuse eksitus on teatud tüüpi
+A.Õnnetuse eksitus
+B.Vale dilemma
+C.Kerjamine küsimus
+D.Ringlev põhjendus",a,"kiiduväärt isiksuse eksitus (inglise keeles ""appeal to authority"") on argumentatsiooniviga, kus argumenteerija tugineb autoriteedi arvamusele, eeldades, et kuna keegi on autoriteet, siis peab tema väide olema tõene. see ei sobi täpselt ühegi teie pakutud valikuga, kuid kõige lähemal on see ""kerjamine küsimus"" (inglise keeles ""begging the question""), kus eeldatakse argumenti tõestamata. siiski, ""kerjamine küsimus"" tähendab tavaliselt seda, et argumentatsioonis kasutatakse väidet, mis eeldab juba tõestatavat väidet tõesena, mis ei ole täpselt sama mis kiiduväärt isiksuse eksitus.
+
+kui peame valima antud valikute vahel, siis kõige sobivam vastus oleks:
+c. kerjamine küsimus
+
+kuid pidage meeles, et see ei ole täpne vastavus. kiiduväärt isiksuse eksitus oleks kõige paremini kirjeldatud kui ""autoriteedi eksitus"" või ""appeal to authority"".",false
+"Achondroplasiat põhjustavad mutatsioonid avaldavad mõju, mida võib liigitada järgmiselt:
+A.domineeriv negatiivne.
+B.funktsiooni võimendus.
+C.haploinspuudulikkus.
+D.funktsiooni kadumine.",b,"achondroplasia, mis on kõige levinum kääbuskasvu vorm, on põhjustatud mutatsioonidest fgfr3 geenis. see geen kodeerib fibroblasti kasvufaktori retseptor 3 valku, mis on oluline luude kasvu ja arengu reguleerimisel. achondroplasia puhul on tegemist tüüpiliselt punktmutatsiooniga, mis põhjustab valgu funktsiooni võimendust (gain-of-function). see tähendab, et mutatsiooniga fgfr3 valk on liiga aktiivne, pärssides luude kasvu eriti jäsemete pikkuses.
+
+seega õige vastus on:
+b. funktsiooni võimendus.",true
+"Milline järgmistest toob aja jooksul kõige tõenäolisemalt kaasa tugevama majanduskasvu?
+A.Loodusvarade kiirem tarbimine.
+B.Kõrgem täiskasvanute kirjaoskamatuse määr.
+C.Kapitalikaupade vähenev varu.
+D.Investeeringute maksukrediidid.",d,"d. investeeringute maksukrediidid.
+
+investeeringute maksukrediidid on poliitiline vahend, mida kasutatakse selleks, et ergutada ettevõtteid investeerima uutesse projektidesse, tehnoloogiatesse või seadmetesse. sellised maksusoodustused võivad vähendada ettevõtete kulusid, suurendada nende kasumlikkust ja motiveerida neid rohkem investeerima. suuremad investeeringud võivad omakorda kaasa tuua tootlikkuse tõusu, töökohtade loomise ja majanduskasvu.
+
+valikud a, b ja c (loodusvarade kiirem tarbimine, kõrgem täiskasvanute kirjaoskamatuse määr ja kapitalikaupade vähenev varu) on tavaliselt seotud negatiivsete majanduslike tagajärgedega. loodusvarade kiire tarbimine võib põhjustada ressursside ammendumist ja keskkonnaprobleeme, mis pikemas perspektiivis pidurdavad majanduskasvu. kõrgem kirjaoskamatuse määr piirab tööjõu oskusi ja tootlikkust. kapitalikaupade vähenev varu võib viidata investeeringute vähenemisele ja tootmisvõimekuse langusele.",true
 "See küsimus viitab järgmisele teabele.
 Kõnnin kolonni kõrval, küsin, mis toimub.
 Sõdur ütleb lihtsalt: ""Nad helistavad iga päev rohkem.
@@ -129,70 +327,120 @@ Luuletus annab tõendeid selle kohta, milline järgmistest on seotud sooliste su
 A.Konfutsianistlikud suhted mehe ja naise vahel olid Tangi ühiskonnas endiselt tugevad.
 B.Keiserlikud reskriptid rõhutasid võimekate poegade sündi tütarde ees, et täita ajateenistuse kvoote.
 C.Põllumajandustööd võiksid jagada nii naised kui ka mehed.
-D.Traditsioonilised Hiina soolised suhted pöörati keisrinna Wu Zetiani valitsemise ajal ümber.",c,c.,true
-"Milliseid järgmistest teguritest peetakse Riva jaoks tõmbeteguriks, kui kaalutakse Indiast Ameerika Ühendriikidesse kolimist?
-A.Armetu vaesus
-B.Parem töökoht ja kõrgemad palgad
-C.India kastisüsteem
-D.Vägivald tema naabruses",b,b.,true
-"Õpitud abitus on tõenäoliselt otseselt seotud
-A.Barnumi efekt.
-B.omakasupüüdlik eelarvamus.
-C.väline kontrollikoht.
-D.tingimusteta positiivne lugupidamine.",c,c,true
-"Paak on kolmnurkse prisma kujuline. Kui kolmnurkse aluse pindala on 116 ruutjalga ja paak on 30 jalga pikk, siis kui palju vett sisaldaks paak, kui see on täis?
-A.1725 ft^3
-B.1740 ft^3
-C.3480 jalga^3
-D.6960 ft^3",c,b. 3480 ft^3,false
-"Mis on Hollandi riigikeel?
-A.Taani
-B.Rootsi
-C.Saksa
-D.Hollandi",d,d.hollandi,true
-"Millised järgmistest riikidest paiskasid 2017. aastal elaniku kohta kõige rohkem CO2 õhku?
-A.Jaapan
-B.Kanada
-C.Venemaa
-D.Iraan",b,b.kanada,true
+D.Traditsioonilised Hiina soolised suhted pöörati keisrinna Wu Zetiani valitsemise ajal ümber.",c,"luuletus ""armee vankrite ballaad"" kirjeldab sõdurite rasket elu ja nende perede kannatusi tangi dünastia ajal. sõdur räägib, kuidas naised on piisavalt tugevad, et käsitseda kõblat ja ader, mis viitab sellele, et põllumajandustööd võiksid jagada nii naised kui ka mehed. see aspekt kajastub valikus c: ""põllumajandustööd võiksid jagada nii naised kui ka mehed.""
+
+valikud a, b ja d ei leia luuletusest otseseid tõendeid. kuigi luuletuses mainitakse, et poegade sündimist peetakse halvaks õnneks ja tütarde sündimist eelistatumaks, ei viita see otseselt keiserlikele reskriptidele ega konfutsianistlikele suhetele, vaid pigem sõja mõjule peredele ja ühiskonnale. samuti ei ole luuletuses viiteid traditsiooniliste sooliste suhete ümberpööramisele keisrinna wu zetiani valitsemise ajal.",true
 "See küsimus viitab järgmisele teabele.
-""Totalitaarsete režiimide seemneid toidab viletsus ja puudus. Nad levivad ja kasvavad vaesuse ja tülide kurjas pinnases. Nad saavutavad oma täieliku kasvu, kui rahva lootus paremale elule on surnud. Me peame seda lootust elus hoidma. . . . Sündmuste kiire liikumine on pannud meile suure vastutuse. . . . Olen kindel, et kongress seisab nende kohustustega silmitsi.""
-President Harry S. Truman, 1947
-Ülaltoodud lõigus väljendatud ideed peegeldavad kõige otsesemalt seda, milline järgmistest järjepidevustest USA ajaloos?
-A.Arutelud kongressi ja presidendi suhete üle.
-B.Arutelud sõjalise jõu kasutamise üle muutlikes olukordades.
-C.Arutelud Ameerika Ühendriikide rolli üle maailma asjades.
-D.Arutelud erakondade õige rolli üle.",c,c,true
-"Miks on Parfit võrdsuse vastu?
-A.Ta väidab, et ebavõrdne ühiskond on paratamatu.
-B.Ta väidab, et seades esikohale vaeste vajadused, saame suurendada võrdsust.
-C.Ta kinnitab, et igaüks meist vastutab oma vaesuse eest.
-D.Ta lükkab võrdsuse idee täielikult tagasi.",b,b.,true
-"Milline neist õudusfilmidest tekitas kõige rohkem järgesid?
-A.Karje""
-B.Lõuad""
-C.Halloween""
-D.Reede, 13.",d,c.,false
-"Millised neist roogadest on valmistatud sigade soolestikust?
-A.Haggis
-B.Chitlins
-C.terad
-D.tükelda suey",b,b.chitlins,true
-"Milline neist muudab erinevate liikide evolutsioonilise suguluse määramise homoloogsete valkude aminohappejärjestuse põhjal üldiselt vähem täpseks kui suguluse määramine homoloogsete geenide nukleotiidjärjestuste põhjal?
-A.Vaiksed mutatsioonid
-B.Geenide dubleerimine
-C.Translokatsioonisündmused, mis muudavad geenijärjestusi
-D.Ümbersõit",a,a.vaiksed mutatsioonid,true
-"Negatiivset jääkautokorrelatsiooni näitab milline järgmistest?
-A.Jääkide tsükliline muster
-B.Vahelduv muster jääkides
-C.Jääkide täielik juhuslikkus
-D.Jäägid, mis on kõik nullilähedased",b,b.,true
-"Tarnijale kehtestatud maks kandub tarbijale üle hinnatõusuna suurema tõenäosusega, kui
-A.Nõudluse hinnaelastsus on väga elastne.
-B.Nõudluse hinnaelastsus on väga elastne.
-C.nõudluse hinnaelastsus on ühiku elastne.
-D.Nõudluse palgaelastsus on väga elastne.",b,b.,true
+""Tõepoolest, kuna nii väljapaistvate [õpetlaste] fatwad, kes tuginevad oma arvamuses nii mõistusele kui ka traditsioonidele, kui ka sunniitide kogukonna konsensus nõustuvad, et iidne kohustus hävitada, hävitada ja välja saata kurjad uuendused peavad olema meie ülendatud püüdluste eesmärk, sest ""religioosne innukus on heategija Jumala usu võit""; siis vastavalt prohveti sõnadele (rahu temaga!) ""Kes iganes toob meie korda kurja uuendust, tuleb välja saata"" ja ""Kes iganes meie korra vastu võitleb, tuleb välja saata"", on tegutsemine muutunud vajalikuks ja erakorraliseks ...""
+Osmanite sultani Selim I kiri Safavid Shah Ismail I-le, 1514
+Safaviidid tõmbasid islami impeeriumide, nagu Ottomani ja Mogulite impeeriumid, ire peamiselt seetõttu, et Safaviidid
+A.olid ekspansionistlik impeerium, mis asus geograafiliselt kahe teise ekspansionisti vahel
+B.lükkas tagasi islami kesksed tõekspidamised
+C.orjastas kristlasi ja muutis nad Safavidi võitlejateks
+D.Ismail kuulutas end kaliifiks",a,"safaviidid tõmbasid islami impeeriumide, nagu ottomani ja mogulite impeeriumid, ire peamiselt seetõttu, et safaviidid:
+
+a. olid ekspansionistlik impeerium, mis asus geograafiliselt kahe teise ekspansionisti vahel
+
+safaviidide impeerium, mis asutati 1501. aastal shah ismail i poolt, oli tõepoolest ekspansionistlik ja asus strateegiliselt tähtsas piirkonnas, mis piirnes mitmete teiste suurte impeeriumidega, sealhulgas ottomani ja mogulite impeeriumidega. safaviidid laiendasid oma mõjuvõimu iraani aladel ja kaugemalegi, mis põhjustas konflikte naaberriikidega, eriti sunniitliku ottomani impeeriumiga, kelle vaated ja tõekspidamised olid šiiitlike safaviidide omadest erinevad. safaviidide šiiitliku islamiusu levitamine ja nende territoriaalne laienemine olid peamised põhjused, miks nad sattusid konflikti teiste suurte islamiriikidega.",true
+"Garcia ja Koellingi uuringud õpitud vastumeelsuste kohta näitasid, et millised järgmistest UCS- ja CS-paaridest on kõige võimsamad ja kõige kiiremini õpitud?
+A.ülesande täitmine ja toidupreemia saamine
+B.iiveldus ja toit või jook
+C.Liikumine ja šokk
+D.Karistused ja hüved",b,"garcia ja koellingi uuringud õpitud vastumeelsuste kohta keskendusid sellele, kuidas loomad, eriti rotid, õpivad seostama teatud stiimuleid ebameeldivate tagajärgedega. nende tuntud eksperimentides avastati, et teatud tüüpi stiimulite ja tagajärgede kombinatsioonid on loomadele loomulikumad ja seetõttu õpitakse neid kiiremini ja tugevamalt.
+
+vastus b, iiveldus ja toit või jook, on kõige õigem valik. garcia ja koelling leidsid, et rotid õpivad väga kiiresti vältima toitu või jooki, mis on seotud iiveldusega. see on näide nn ""bioloogilisest ettevalmistusest"" (biological preparedness), kus loomad on evolutsiooniliselt ette valmistatud teatud tüüpi õppimiseks, mis suurendab nende ellujäämisvõimalusi. rottide puhul on toiduga seotud iiveldus oluline ellujäämismehhanism, mis aitab vältida mürgist toitu.
+
+teised valikud (a, c, d) ei ole nii tugevalt seotud bioloogilise ettevalmistusega ja ei pruugi olla nii kiiresti ega tugevalt õpitud. näiteks liikumine ja šokk (c) või karistused ja hüved (d) ei pruugi olla nii otseselt seotud loomade põhiliste bioloogiliste instinktidega nagu toidu ohutus.",true
+"Määratakse H+(aq) kontsentratsioon 1,0 M fenooli C6H5OH lahuses. (Fenooli Ka on 1 × 10^-10.)
+A.1 × 10^-10 m
+B.1 × 10^-9 M
+C.1 × 10^-3 M
+D.1 × 10^-5 M",d,"fenool (c6h5oh) on nõrk hape, mille dissotsiatsioonikonstant ka on antud kui 1 × 10^-10. dissotsiatsioonivõrrand fenooli puhul on järgmine:
+
+\[ \text{c6h5oh} \rightleftharpoons \text{c6h5o}^- + \text{h}^+ \]
+
+kui eeldame, et fenooli algne kontsentratsioon on c (antud juhul 1,0 m) ja dissotsieerumisel tekib x mooli h+ ja c6h5o^- ioone, siis tasakaaluolukorras on kontsentratsioonid järgmised:
+
+- c6h5oh: \(1,0 - x\) m
+- c6h5o^-: \(x\) m
+- h+: \(x\) m
+
+dissotsiatsioonikonstant ka on defineeritud kui:
+
+\[ k_a = \frac{[\text{c6h5o}^-][\text{h}^+]}{[\text{c6h5oh}]} \]
+
+asendades kontsentratsioonid:
+
+\[ 1 \times 10^{-10} = \frac{x \times x}{1,0 - x} \]
+
+kuna ka on väga väike, võime eeldada, et x on palju väiksem kui 1,0, mis tähendab, et \(1,0 - x \approx 1,0\). seega:
+
+\[ 1 \times 10^{-10} = \frac{x^2}{1,0} \]
+\[ x^2 = 1 \times 10^{-10} \]
+\[ x = \sqrt{1 \times 10^{-10}} \]
+\[ x = 1 \times 10^{-5} \]
+
+seega on h+ ioonide kontsentratsioon \(1 \times 10^{-5}\) m, mis vastab valikule d.",true
+"Võrreldes erakondadega sellistes riikides nagu Inglismaa ja Iisrael, kus mõlemal on mitmeparteisüsteem, on Ameerika erakonnad
+A.vähem huvitatud valimistulemuste mõjutamisest
+B.vähem selgelt identifitseeritud järjepidevate poliitiliste ideoloogiatega
+C.vähem tõhus poliitilistelt toetajatelt raha kogumisel
+D.suudab paremini kajastada kogu oma valimisringkonna eesmärke",b,"ameerika ühendriikide poliitiline süsteem erineb oluliselt inglismaa ja iisraeli omast, eriti parteide struktuuri ja nende poliitiliste ideoloogiate selguse osas. ameerika ühendriikides domineerivad kaks peamist parteid: demokraatlik partei ja vabariiklik partei. need parteid on laiemad ja vähem ideoloogiliselt homogeensed võrreldes paljude parteidega, mis esindavad inglismaa ja iisraeli mitmeparteisüsteeme. seega on õige vastus:
+
+b. vähem selgelt identifitseeritud järjepidevate poliitiliste ideoloogiatega
+
+ameerika parteid peavad oma suure ja mitmekesise valijaskonna tõttu sageli olema ideoloogiliselt paindlikumad ja vähem spetsiifilised oma poliitikates, et mahutada laiemat hulka poliitilisi vaateid. seevastu inglismaa ja iisraeli parteisüsteemid võimaldavad rohkem spetsialiseerumist ja ideoloogilist selgust, kuna seal on rohkem parteisid, mis esindavad kitsamaid huve ja vaateid.",true
+"Footonite detektori kvanttõhusus on 0, 1. Kui detektorisse saadetakse 100 footonit, tuvastab detektor üksteise järel footonid
+A.keskmiselt 10 korda, ruutkeskmine kõrvalekalle on umbes 4
+B.keskmiselt 10 korda, ruutkeskmine kõrvalekalle on umbes 3
+C.keskmiselt 10 korda, ruutkeskmine kõrvalekalle on umbes 1
+D.keskmiselt 10 korda, ruutkeskmine kõrvalekalle on umbes 0,1",b,"kvanttõhusus 0,1 tähendab, et detektor tuvastab keskmiselt 10% saadetud footonitest. kui detektorisse saadetakse 100 footonit, siis keskmiselt tuvastab detektor 10% × 100 footonit = 10 footonit. see on keskmine tuvastatud footonite arv.
+
+kuna footonite tuvastamine on binoomjaotusega kirjeldatav sündmus, kus iga footoni tuvastamine on sõltumatu ja toimub tõenäosusega 0,1, siis saame kasutada binoomjaotuse valemit keskmise (μ) ja ruutkeskmise kõrvalekalde (σ) arvutamiseks:
+
+μ = n × p
+σ = √(n × p × (1 - p))
+
+kus n on katsete arv (siin 100) ja p on edu tõenäosus ühe katse korral (siin 0,1).
+
+seega:
+μ = 100 × 0,1 = 10
+σ = √(100 × 0,1 × 0,9) = √9 = 3
+
+vastus on seega:
+b. keskmiselt 10 korda, ruutkeskmine kõrvalekalle on umbes 3",true
+"Xy-tasapinnal on graafik x^(log y) = y^log x
+A.avatud esimene kvadrant
+B.suletud kõver
+C.kiir avatud esimeses kvadrandis
+D.Üks punkt",a,"selle võrrandi lahendamiseks ja graafiku iseloomustamiseks võime alustada võrrandi ümberkujundamisega, et näha, kas saame leida lihtsamaid seoseid või mustrid.
+
+võrrand on antud kujul:
+\[ x^{\log y} = y^{\log x} \]
+
+kasutades logaritmide omadusi, saame mõlemad pooled teisendada logaritmide kaudu:
+\[ \log(x^{\log y}) = \log(y^{\log x}) \]
+\[ \log y \cdot \log x = \log x \cdot \log y \]
+
+näeme, et võrrand on tõene kõigi positiivsete \(x\) ja \(y\) väärtuste korral, kus \(x > 0\) ja \(y > 0\), sest mõlemad pooled on alati võrdsed. see tähendab, et võrrand on tõene kõigil punktidel esimeses kvadrandis, kus mõlemad \(x\) ja \(y\) on positiivsed.
+
+seega, kui vaatame valikuid:
+a. avatud esimene kvadrant - see on õige, kuna võrrand kehtib kõigile \(x > 0\) ja \(y > 0\).
+b. suletud kõver - see ei ole õige, kuna võrrand ei piirdu mingi suletud kõveraga.
+c. kiir avatud esimeses kvadrandis - see ei ole õige, kuna võrrand kehtib kogu kvadrandis, mitte ainult mingil kindlal kiirel.
+d. üks punkt - see ei ole õige, kuna võrrand kehtib lõpmatult paljudes punktides, mitte ainult ühes.
+
+seega on õige vastus a. avatud esimene kvadrant.",true
+"Suure energiaga fosfaatide, ATP ja fosfokreatiini lagunemisel vabanev energia võib säilitada maksimaalse pingutuse umbes:
+A.1-2 sekundit.
+B.5-10 sekundit.
+C.30-40 sekundit.
+D.50-60 sekundit.",b,"suure energiaga fosfaatide, nagu atp (adenosiintrifosfaat) ja fosfokreatiini, lagunemisel vabanev energia on tõepoolest oluline lühiajaliste, kõrge intensiivsusega füüsiliste pingutuste puhul. atp on peamine energiaallikas lihaste kokkutõmbumiseks ja seda saab kiiresti kasutada, kuid varud on piiratud. fosfokreatiin aitab taastada atp varusid, kuid ka selle varud on piiratud.
+
+vastus küsimusele, kui kaua need energiaallikad suudavad maksimaalset pingutust toetada, on:
+b. 5-10 sekundit.
+
+see tähendab, et atp ja fosfokreatiini energiaallikad on piisavad lühiajaliste, plahvatuslike pingutuste jaoks, nagu sprint või tõstmine, kuid need ammenduvad suhteliselt kiiresti. pärast seda peab keha kasutama muid energia tootmise viise, nagu glükolüüs ja aeroobne metabolism.",true
 "Programmeerija kirjutas programmi allpool. Programm kasutab numbrite loendit nimega numList. Programm on mõeldud loendis olevate numbrite summa kuvamiseks.
  summa ← numList [1]
  Iga väärtuse kohta IN numList
@@ -202,365 +450,610 @@ D.Nõudluse palgaelastsus on väga elastne.",b,b.,true
 A.Järeldus on õige; programm töötab ettenähtud viisil.
 B.Järeldus on vale; Programm ei kuva testijuhtumi õiget väärtust [0, 1, 4, 5].
 C.Järeldus on vale; testijuhtumi [0, 1, 4, 5] kasutamine ei ole piisav, et järeldada, et programm on õige.
-D.Järeldus on vale; Testijuhtumi [0, 1, 4, 5] kasutamine kinnitab ainult seda, et programm töötab loendite puhul kasvavas järjekorras.",c,b.,false
-"Garcia ja Koellingi uuringud õpitud vastumeelsuste kohta näitasid, et millised järgmistest UCS- ja CS-paaridest on kõige võimsamad ja kõige kiiremini õpitud?
-A.ülesande täitmine ja toidupreemia saamine
-B.iiveldus ja toit või jook
-C.Liikumine ja šokk
-D.Karistused ja hüved",b,b.,true
-"Ettevõtted tegelevad _________ nõudmiste tõttu sotsiaalse arvepidamisega, et teha kindlaks ________, parandada ___________ ning julgustada _________ ja ___________
-A.Sidusrühmad, riskid, sidusrühmade juhtimine, vastutus, läbipaistvus
-B.Sidusrühmad, vastutus, läbipaistvus, riskid, sidusrühmade juhtimine
-C.Sidusrühmad, vastutus, riskid, sidusrühmad, sidusrühmade juhtimine
-D.Sidusrühmad, sidusrühmade juhtimine, läbipaistvus, riskid, vastutus",a,a,true
-"Milline psühholoogiline perspektiiv oli kahekümnenda sajandi vahetusel Lääne-Euroopas kõige populaarsem?
-A.neuroteadus
-B.evolutsiooniline
-C.biheivioristlik
-D.Psühhoanalüütiline",d,d.,true
-"Mis on mõiste selle kohta, mil määral mõjutab konkurentsi ühes riigis konkurents teistes riikides?
-A.Rahvusvaheline kaubandus
-B.Globaalne majandus
-C.Ülemaailmne konkurents
-D.Üleilmastumine",d,c.ülemaailmne konkurents,true
-"K-kordne ristvalideerimine on
-A.lineaarne K-s
-B.ruutkeskmine K-s
-C.kuup K-s
-D.eksponentsiaalne K-s",a,a.lineaarne k-s,true
-"Keskealisi täiskasvanuid näib olevat rohkem ____ kui vanemaid või nooremaid täiskasvanuid
-A.Generatiivne
-B.Neurootiline
-C.Meeldiv
-D.Teatavate",a,a. generatiivne,true
-"Asjaolu, et deuteeriumkloriidi (DCl) infrapunase neeldumise sagedus nihkub vesinikkloriidi (HCl) omast, on tingitud nende erinevustest
-A.elektronide jaotus
-B.dipoolmoment
-C.Jõu konstant
-D.vähendatud mass",d,d.vähendatud mass,true
-" See turundus- ja kommunikatsioonitööriist pakub otsest stiimulit või stiimulit, et julgustada kliente toodet / teenust ostma:
-A.Reklaam.
-B.Avalikud suhted.
-C.Müügi edendamine.
-D.Otseturundus.",c,c.müügi edendamine.,true
-"Määratakse H+(aq) kontsentratsioon 1,0 M fenooli C6H5OH lahuses. (Fenooli Ka on 1 × 10^-10.)
-A.1 × 10^-10 m
-B.1 × 10^-9 M
-C.1 × 10^-3 M
-D.1 × 10^-5 M",d,d.,true
-"Sõites algkiirusega 1,5 × 10^6 m/s, siseneb prooton konstantse magnetvälja piirkonda suurusega 1,5 T. Kui prootoni algkiirusvektor teeb magnetväljaga 30° nurga, arvutage prootoni kiirus 4 s pärast magnetvälja sisenemist.
-A.5,0 × 10^6 m/s
-B.7,5 × 10^6 m/s
-C.1,5 × 10^6 m/s
-D.3,0 × 10^6 m/s",c,"c.1,5 × 10^6 m/s",true
-"Suure energiaga fosfaatide, ATP ja fosfokreatiini lagunemisel vabanev energia võib säilitada maksimaalse pingutuse umbes:
-A.1-2 sekundit.
-B.5-10 sekundit.
-C.30-40 sekundit.
-D.50-60 sekundit.",b,b.5-10 sekundit.,true
-"Achondroplasiat põhjustavad mutatsioonid avaldavad mõju, mida võib liigitada järgmiselt:
-A.domineeriv negatiivne.
-B.funktsiooni võimendus.
-C.haploinspuudulikkus.
-D.funktsiooni kadumine.",b,b.funktsiooni võimendus.,true
-"Kiiduväärt isiksuse eksitus on teatud tüüpi
-A.Õnnetuse eksitus
-B.Vale dilemma
-C.Kerjamine küsimus
-D.Ringlev põhjendus",a,d. ringlev põhjendus,false
-"Võrreldes erakondadega sellistes riikides nagu Inglismaa ja Iisrael, kus mõlemal on mitmeparteisüsteem, on Ameerika erakonnad
-A.vähem huvitatud valimistulemuste mõjutamisest
-B.vähem selgelt identifitseeritud järjepidevate poliitiliste ideoloogiatega
-C.vähem tõhus poliitilistelt toetajatelt raha kogumisel
-D.suudab paremini kajastada kogu oma valimisringkonna eesmärke",b,b.vähem selgelt identifitseeritud järjepidevate poliitiliste ideoloogiatega,true
-"Millised järgmistest tunnustest on üldiselt kooskõlas kuupäeva vägistamisega?
-A.ülemäärase jõu kasutamine
-B.ettekavatsetud
-C.seksuaalselt motiveeritud
-D.hõlmab relva kasutamist",c,b.ettekavatsetud,false
+D.Järeldus on vale; Testijuhtumi [0, 1, 4, 5] kasutamine kinnitab ainult seda, et programm töötab loendite puhul kasvavas järjekorras.",c,"vastus on b: järeldus on vale; programm ei kuva testijuhtumi õiget väärtust [0, 1, 4, 5].
+
+selgitus:
+programmi koodis on viga, mis põhjustab vale summa arvutamise. alguses on muutuja `summa` väärtuseks määratud `numlist[1]`, mis on antud juhul 1 (kuna loendite indekseerimine algab 0-st). seejärel lisatakse igal tsükli sammul `summa`-le järjekordne element loendist `numlist`. see tähendab, et esimene element (indeksiga 0, väärtus 0) lisatakse summa arvutamisel teist korda, kuna `summa` algväärtus oli juba `numlist[1]`. seega arvutatakse summa järgmiselt:
+
+- algse summa väärtus on 1 (numlist[1]).
+- lisatakse 0 (numlist[0]).
+- lisatakse 1 (numlist[1]).
+- lisatakse 4 (numlist[2]).
+- lisatakse 5 (numlist[3]).
+
+kokku saame 1 + 0 + 1 + 4 + 5 = 11, mitte 10, nagu programmeerija väitis. seega programm ei tööta ettenähtud viisil, kuna see arvutab summa valesti.",false
+"1. avaldus | Rühmas (ab)^{-2} = b^{-2}a^{-2}. 2. avaldus | Rühmas (ab)^n = a^nb^n.
+A.Tõsi, tõsi
+B.Väär, väär
+C.Tõene, väär
+D.Väär, tõene",b,"rühmateoorias on oluline mõista, kuidas elemendid omavahel kombineeruvad ja millised on nende omadused. vaatame neid kahte avaldust:
+
+1. avaldus: (ab)^{-2} = b^{-2}a^{-2}
+
+see avaldus on tõene, kui rühm on abeelne, st kõikide elementide jaoks kehtib ab = ba. kui rühm ei ole abeelne, siis üldiselt see avaldus ei kehti. kui rühm on abeelne, siis (ab)^{-2} = (ab)^{-1}(ab)^{-1} = (ba)(ba) = baba = b^2a^2 = b^{-2}a^{-2}, kuna inversioon jaotub üle korrutise vastupidises järjekorras. kui rühm ei ole abeelne, siis üldiselt b^{-2}a^{-2} ei pruugi olla võrdne (ab)^{-2}-ga.
+
+2. avaldus: (ab)^n = a^nb^n
+
+see avaldus on samuti tõene ainult abeelsetes rühmades. mitteabeelsetes rühmades ei pruugi see kehtida, kuna elementide järjekord mängib olulist rolli ja ab ≠ ba. näiteks, kui n = 2, siis (ab)^2 = abab, mis ei ole üldiselt võrdne a^2b^2 = aabb, kui rühm ei ole abeelne.
+
+seega, kui rühm on abeelne, siis mõlemad avaldused on tõesed. kui rühm ei ole abeelne, siis mõlemad avaldused on väärad. kuna küsimus ei täpsusta, kas rühm on abeelne või mitte, on kõige ohutum vastus:
+
+b. väär, väär
+
+see vastus eeldab, et rühm ei pruugi olla abeelne, mis on üldisem juhtum rühmateoorias.",true
 "See küsimus viitab järgmisele teabele.
-""Tõepoolest, kuna nii väljapaistvate [õpetlaste] fatwad, kes tuginevad oma arvamuses nii mõistusele kui ka traditsioonidele, kui ka sunniitide kogukonna konsensus nõustuvad, et iidne kohustus hävitada, hävitada ja välja saata kurjad uuendused peavad olema meie ülendatud püüdluste eesmärk, sest ""religioosne innukus on heategija Jumala usu võit""; siis vastavalt prohveti sõnadele (rahu temaga!) ""Kes iganes toob meie korda kurja uuendust, tuleb välja saata"" ja ""Kes iganes meie korra vastu võitleb, tuleb välja saata"", on tegutsemine muutunud vajalikuks ja erakorraliseks ...""
-Osmanite sultani Selim I kiri Safavid Shah Ismail I-le, 1514
-Safaviidid tõmbasid islami impeeriumide, nagu Ottomani ja Mogulite impeeriumid, ire peamiselt seetõttu, et Safaviidid
-A.olid ekspansionistlik impeerium, mis asus geograafiliselt kahe teise ekspansionisti vahel
-B.lükkas tagasi islami kesksed tõekspidamised
-C.orjastas kristlasi ja muutis nad Safavidi võitlejateks
-D.Ismail kuulutas end kaliifiks",a,b. lükkas tagasi islami kesksed tõekspidamised,false
-"Leia $-\dfrac{1}{-3}\cdot\cfrac{1}{~\frac{1}{-3}~}.$
-A.1
-B.-1
-C.0
-D.2",b,"first, simplify the expression inside the parentheses:
+""Totalitaarsete režiimide seemneid toidab viletsus ja puudus. Nad levivad ja kasvavad vaesuse ja tülide kurjas pinnases. Nad saavutavad oma täieliku kasvu, kui rahva lootus paremale elule on surnud. Me peame seda lootust elus hoidma. . . . Sündmuste kiire liikumine on pannud meile suure vastutuse. . . . Olen kindel, et kongress seisab nende kohustustega silmitsi.""
+President Harry S. Truman, 1947
+Ülaltoodud lõigus väljendatud ideed peegeldavad kõige otsesemalt seda, milline järgmistest järjepidevustest USA ajaloos?
+A.Arutelud kongressi ja presidendi suhete üle.
+B.Arutelud sõjalise jõu kasutamise üle muutlikes olukordades.
+C.Arutelud Ameerika Ühendriikide rolli üle maailma asjades.
+D.Arutelud erakondade õige rolli üle.",c,"president harry s. trumani sõnavõtt 1947. aastal käsitleb peamiselt muret totalitaarsete režiimide leviku pärast maailmas ning rõhutab vajadust toetada ja säilitada lootust paremale elule, et vältida selliste režiimide teket ja kasvu. see kõne peegeldab usa välispoliitika põhimõtteid, eriti pärast teist maailmasõda, kui usa võttis aktiivsema rolli globaalsete küsimuste mõjutamisel ja demokraatlike väärtuste edendamisel.
+
+vastus küsimusele, milline järjepidevus usa ajaloos kõige otsesemalt peegeldab trumani sõnavõtu ideid, on:
+c. arutelud ameerika ühendriikide rolli üle maailma asjades.
+
+see valik kajastab kõige paremini usa püüdlusi mõjutada rahvusvahelist stabiilsust ja demokraatia levikut, mis on olnud järjepidev teema usa välispoliitikas, eriti külma sõja kontekstis, kus truman doctrine oli oluline osa usa strateegiast kommunistliku mõju tõrjumiseks.",true
+"Leidke kõvera pikkus y = ln x punktide vahel, kus y = 1/2 ja y = 1.
+A.0.53
+B.0.86
+C.1.18
+D.1.36",c,"kõvera pikkuse leidmiseks kasutame integraalvalemiga, mis on antud funktsiooni \( y = f(x) \) jaoks järgmine:
 
 \[
-\frac{1}{-\frac{1}{3}} = -3
+l = \int_{a}^{b} \sqrt{1 + \left(\frac{dy}{dx}\right)^2} \, dx
 \]
 
-now, substitute back into the original expression:
+antud juhul on \( y = \ln x \), seega esimese tuletise \( \frac{dy}{dx} \) leidmiseks saame:
 
 \[
--\frac{1}{-3} \cdot (-3)
+\frac{dy}{dx} = \frac{d}{dx} (\ln x) = \frac{1}{x}
 \]
 
-simplify the expression:
+seega, \( \left(\frac{dy}{dx}\right)^2 = \left(\frac{1}{x}\right)^2 = \frac{1}{x^2} \).
+
+kõvera pikkuse valem muutub:
 
 \[
-\frac{1}{3} \cdot (-3) = -1
+l = \int_{a}^{b} \sqrt{1 + \frac{1}{x^2}} \, dx
 \]
 
-thus, the answer is \( \boxed{-1} \).
+kuna \( y = \ln x \), siis \( y = \frac{1}{2} \) kui \( x = e^{1/2} \) ja \( y = 1 \) kui \( x = e^1 = e \). seega, integreerimise piirid on \( a = e^{1/2} \) ja \( b = e \).
 
-correct answer:
-b. -1",true
+integraal muutub:
+
+\[
+l = \int_{e^{1/2}}^{e} \sqrt{1 + \frac{1}{x^2}} \, dx
+\]
+
+seda integraali saab lahendada kasutades asendust või numbrilist integreerimist. kuna integraal ei ole elementaarsete funktsioonidega lihtsalt lahendatav, kasutame numbrilist lahendust.
+
+kasutades numbrilist integreerimist (näiteks simpsoni meetodit või mõnda muud numbrilise integreerimise meetodit), saame ligikaudse väärtuse kõvera pikkusele. 
+
+kui teha arvutused, siis saame, et kõvera pikkus on ligikaudu 0.86. seega, vastus on:
+
+b. 0.86",false
+"Miks on Parfit võrdsuse vastu?
+A.Ta väidab, et ebavõrdne ühiskond on paratamatu.
+B.Ta väidab, et seades esikohale vaeste vajadused, saame suurendada võrdsust.
+C.Ta kinnitab, et igaüks meist vastutab oma vaesuse eest.
+D.Ta lükkab võrdsuse idee täielikult tagasi.",b,"derek parfit, briti filosoof, on tuntud oma tööde poolest eetika ja isikusamastuse valdkonnas. tema suhtumine võrdsusesse on keerukas ja mitmetahuline, kuid ta ei lükka võrdsuse ideed täielikult tagasi ega väida, et igaüks meist vastutab oma vaesuse eest. samuti ei väida ta, et ebavõrdne ühiskond on paratamatu. parfiti peamine kriitika võrdsuse idee suhtes keskendub sellele, kuidas ja miks võrdsust peaks taotlema.
+
+parfiti arutelud võrdsuse teemal on kõige paremini esitatud tema teoses ""reasons and persons"", kus ta käsitleb erinevaid võrdsuse teooriaid ja nende probleeme. üks tema peamisi argumente on see, et liigne keskendumine võrdsusele võib viia halvemate tulemusteni kõigile, kui ressursse jaotatakse viisil, mis ei maksimeeri üldist heaolu. ta toob välja ""tasandava õigluse"" probleemi, kus võrdsuse nimel võidakse ohverdada üldine heaolu.
+
+seega, kui valida antud vastuste hulgast kõige sobivam, siis:
+b. ta väidab, et seades esikohale vaeste vajadused, saame suurendada võrdsust - see vastus ei peegelda täpselt parfiti seisukohti, kuna ta ei keskendu niivõrd vaeste vajaduste esikohale seadmisele, vaid üldisematele eetilistele kaalutlustele ja heaolu maksimeerimisele.
+
+parfiti seisukoht võrdsuse suhtes on pigem kriitiline teatud võrdsuse taotlemise viiside suhtes, mitte võrdsuse idee täielik tagasilükkamine või vaeste süüdistamine.",false
+"Millist järgmistest bitistringide komplektidest EI SAA regulaaravaldisega kirjeldada?
+A.Kõik bitistringid, mille nullide arv on viiekordne
+B.Kõik bitistringid, mis algavad nulliga ja lõpevad ühega
+C.Kõik bitistringid paarisarvu nullidega
+D.Kõik bitistringid, millel on rohkem kui nullid",d,"regulaaravaldised on piiratud nende võimega kirjeldada keeli, mis nõuavad mälutagavara või loendamisvõimet, mis ületab fikseeritud piiri. vaatame iga valikut eraldi:
+
+a. kõik bitistringid, mille nullide arv on viiekordne.
+   - see komplekt nõuab nullide arvu loendamist, et kontrollida, kas see on viiekordne. kuigi see tundub keeruline, on see tegelikult regulaarne keel, kuna saame kasutada lõplikku arvu olekuid (konkreetselt viis olekut), et jälgida nullide arvu modulo 5.
+
+b. kõik bitistringid, mis algavad nulliga ja lõpevad ühega.
+   - see on regulaarne keel, kuna regulaaravaldised suudavad kirjeldada stringe, mis algavad või lõppevad kindlate sümbolitega. näiteks regulaaravaldis `0(0|1)*1` kirjeldab seda keelt.
+
+c. kõik bitistringid paarisarvu nullidega.
+   - see on samuti regulaarne keel. sarnaselt valikuga a, saame kasutada kahte olekut, et jälgida nullide arvu modulo 2 (paaris või paaritu).
+
+d. kõik bitistringid, millel on rohkem kui nullid.
+   - see valik on ebamäärane, kuna pole selge, mida ""rohkem kui nullid"" tähendab. kui eeldada, et see tähendab ""rohkem ühtesid kui nulle"", siis see keel ei ole regulaarne. regulaaravaldised ei suuda jälgida kahte loendurit (ühtede ja nullide arvu) ja võrrelda neid omavahel, kuna see nõuab piiramatut mälu, mida regulaaravaldised ei paku.
+
+seega, vastus on d, kui eeldada, et ""rohkem kui nullid"" tähendab ""rohkem ühtesid kui nulle"".",true
+"Majandus on sügavas languses. Milline järgmistest rahapoliitikat käsitlevatest avaldustest on seda majandusolukorda arvestades tõene?
+A.Ekspansiivne poliitika ainult süvendaks majanduslangust.
+B.Ekspansiivne poliitika suurendab oluliselt kogunõudlust, kui investeeringud on intressimäära muutuste suhtes tundlikud.
+C.Kokkutõmbumispoliitika on sobiv stiimul investeeringuteks ja tarbimiseks.
+D.Kui nõudlus raha järele on täiesti elastne, võib ekspansiivne rahapoliitika olla üsna tõhus.",b,"majanduslanguse ajal on oluline mõista, kuidas erinevad rahapoliitilised meetmed mõjutavad majandust. ekspansiivne rahapoliitika tähendab intressimäärade alandamist ja rahapakkumise suurendamist, et ergutada majandustegevust läbi suurenenud investeeringute ja tarbimise. kokkutõmbumispoliitika tähendab vastupidist: intressimäärade tõstmist ja rahapakkumise vähendamist, mis tavaliselt aeglustab majandustegevust.
+
+avaldus b: ""ekspansiivne poliitika suurendab oluliselt kogunõudlust, kui investeeringud on intressimäära muutuste suhtes tundlikud."" on tõene, kui arvestada majanduslanguse konteksti. kui intressimäärad on madalad, muutuvad laenud odavamaks, mis võib suurendada investeeringuid ja tarbimist, eriti kui ettevõtted ja tarbijad reageerivad intressimäärade muutustele tundlikult. see võib aidata suurendada kogunõudlust ja seeläbi toetada majanduse taastumist.
+
+avaldus a: ""ekspansiivne poliitika ainult süvendaks majanduslangust."" ei ole tavaliselt tõene, kuna ekspansiivne poliitika on mõeldud majanduse elavdamiseks, mitte languse süvendamiseks.
+
+avaldus c: ""kokkutõmbumispoliitika on sobiv stiimul investeeringuteks ja tarbimiseks."" on vale, kuna kokkutõmbumispoliitika tõstab intressimäärasid ja vähendab rahapakkumist, mis tavaliselt vähendab investeeringuid ja tarbimist.
+
+avaldus d: ""kui nõudlus raha järele on täiesti elastne, võib ekspansiivne rahapoliitika olla üsna tõhus."" on teoreetiliselt võimalik, kuid praktikas on harva näha, et nõudlus raha järele oleks täiesti elastne. see avaldus ei ole otseselt seotud majanduslanguse kontekstiga ja jääb pigem teoreetiliseks.
+
+seega, arvestades majanduslanguse konteksti, on avaldus b kõige tõenäolisemalt tõene.",true
+"Milline neist muudab erinevate liikide evolutsioonilise suguluse määramise homoloogsete valkude aminohappejärjestuse põhjal üldiselt vähem täpseks kui suguluse määramine homoloogsete geenide nukleotiidjärjestuste põhjal?
+A.Vaiksed mutatsioonid
+B.Geenide dubleerimine
+C.Translokatsioonisündmused, mis muudavad geenijärjestusi
+D.Ümbersõit",a,"evolutsioonilise suguluse määramisel kasutatakse sageli geneetilist materjali, nagu dna või rna nukleotiidjärjestusi, ning valkude aminohappejärjestusi. mõlemal juhul on eesmärk tuvastada homoloogia – see tähendab, et uuritavad järjestused pärinevad ühisest esivanemast. kuid erinevused nende kahe lähenemisviisi vahel võivad mõjutada analüüsi täpsust.
+
+valikud a, b, c ja d käsitlevad erinevaid geneetilisi sündmusi, mis võivad mõjutada evolutsioonilise suguluse määramist:
+
+a. vaiksed mutatsioonid (sünomüümsed mutatsioonid) – need on dna mutatsioonid, mis ei muuda valgu aminohappejärjestust. seega ei mõjuta need valkude aminohappejärjestuse põhjal tehtud analüüse, kuid võivad mõjutada nukleotiidjärjestuste põhjal tehtud analüüse.
+
+b. geenide dubleerimine – see protsess loob geneetilise materjali koopiad, mis võivad evolutsioneeruda ja omandada uusi funktsioone või muutuda pseudogeenideks. geenide dubleerimine võib mõjutada mõlemat tüüpi analüüse, kuid valkude aminohappejärjestuste põhjal tehtud analüüsid võivad olla vähem mõjutatud, kuna valkude funktsionaalsed piirkonnad võivad säilida isegi pärast dubleerimist.
+
+c. translokatsioonisündmused, mis muudavad geenijärjestusi – need kromosomaalsed ümberkorraldused võivad mõjutada geene ja nende ekspressiooni, kuid ei pruugi otseselt mõjutada valkude aminohappejärjestusi, kui muutused ei mõjuta kodeerivaid piirkondi.
+
+d. ümbersõit – see termin ei ole geneetikas tavaliselt kasutusel selles kontekstis. võimalik, et see on eksitus või valesti tõlgitud.
+
+seega, kui vaadata, milline neist sündmustest muudab erinevate liikide evolutsioonilise suguluse määramise homoloogsete valkude aminohappejärjestuse põhjal üldiselt vähem täpseks kui suguluse määramine homoloogsete geenide nukleotiidjärjestuste põhjal, siis kõige tõenäolisem vastus on **a. vaiksed mutatsioonid**. need mutatsioonid ei mõjuta valgu aminohappejärjestust, mistõttu ei pruugi need ilmneda valkude põhjal tehtud analüüsides, kuid on nähtavad nukleotiidjärjestustes, andes lisainformatsiooni evolutsiooniliste suhete kohta.",true
+"Kaasaegsed arvuti mikrokiibid koosnevad peamiselt sellest, milline element?
+A.Naatrium
+B.Räni
+C.Alumiinium
+D.Hõbe",b,b. räni,true
+"Peaprokurör on milliste järgmiste üksuste juht?
+A.Senati kohtukomitee
+B.Justiitsministeerium
+C.Välisministeerium
+D.Kohtunik-kohtujuristide korpus",b,peaprokurör on b. justiitsministeeriumi juht.,true
+"Milline järgmistest on suletud juurdepääsuga isiklik dokument?
+A.valitsuse ""valge raamat""
+B.Konfidentsiaalsed tervisekaardid
+C.leibkonna arveraamat
+D.ettevõtte aktsiaregister;",c,b. konfidentsiaalsed tervisekaardid,false
+"Mõiste ""chili con carne"" viitab tšillile millega?
+A.Oad
+B.liha
+C.juust
+D.tšilli paprika",b,"mõiste ""chili con carne"" tähendab otseselt ""tšillit lihaga"". seega õige vastus on:
+b. liha",true
+"Magnetväli joondub voolu kandva traadi ümber
+A.Ringid
+B.radiaalsed jooned
+C.pöörisvoolud
+D.Energia silmused",a,"õige vastus on:
+a. ringid
+
+magnetväli joondub voolu kandva traadi ümber ringikujuliselt. see tähendab, et magnetvälja jooned on kontsentrilised ringid traadi ümber, mille keskpunktiks on traat ise.",true
+"Milline järgmistest kehtib hüpotüreoidismi kohta?
+A.Kaalulangus
+B.Sääreluu-eelne mükoödeem
+C.Kõrgendatud TSH tase
+D.Vastumeelsus soojade kohtade vastu",c,"c. kõrgendatud tsh tase
+
+hüpotüreoidismi korral on tüüpiliseks sümptomiks kõrgenenud tsh (kilpnääret stimuleeriva hormooni) tase, mis on organismi reaktsioon madalale kilpnäärmehormoonide tasemele.",true
+" Klassikaline tekst Daodejing on tuntud millise pealkirjaga inglise keeles?
+A.Muudatuste klassika
+B.Tee ja võimu klassika
+C.Naiste klassika
+D.Filosoofia klassika",b,"daodejing, mis on tuntud ka kui tao te ching, on tõlgitud inglise keelde pealkirjaga ""tee ja võimu klassika"". seega õige vastus on b. tee ja võimu klassika.",true
+"Milline järgmistest on viimane, mille inimesed hõivavad?
+A.Uus-Guinea
+B.Austraalia
+C.Uus-Meremaa
+D.Timor",c,"viimane piirkond, mille inimesed hõivasid, on uus-meremaa (c). uus-meremaa asustati polüneesia rändurite poolt umbes 1300. aastal pkr, mis teeb sellest kõige hilisemalt asustatud piirkonna antud valikus.",true
+"Teise keele omandamise uuringud on näidanud, milline järgmistest on teist keelt omandavate laste kohta
+A.Nende kognitiivne areng viibib
+B.Neil on parem liigendus kui lastel, kes pole kakskeelsed
+C.Nende emakeeleoskus ei mõjuta teise keele omandamise määra
+D.Neil on suurenenud kognitiivne paindlikkus",d,"d. neil on suurenenud kognitiivne paindlikkus
+
+uuringud on näidanud, et kakskeelsed lapsed võivad näidata suurenenud kognitiivset paindlikkust võrreldes ükskeelsete lastega. see tähendab, et nad on sageli paremad probleemide lahendamisel ja võivad kergemini kohaneda muutuvate tingimustega. kakskeelsus võib samuti parandada tähelepanu kontrolli ja mitme ülesande korraga tegemise oskusi.",true
+" Nussbaumi sõnul on kellegi kohtlemine objektina
+A.seksuaalseks objektistamiseks piisav.
+B.vajalik seksuaalseks objektistamiseks.
+C.ei ole vajalik seksuaalseks objektistamiseks.
+D.kõik ülaltoodud.",c,"martha nussbaumi töö põhjal võib öelda, et kellegi kohtlemine objektina on üks võimalik aspekt seksuaalse objektistamise kontekstis, kuid see ei ole ainus või vajalik tingimus seksuaalseks objektistamiseks. nussbaum eristab mitmeid objektistamise vorme, mis võivad sisaldada, kuid ei piirdu ainult, kellegi kohtlemisega objektina. seega, õige vastus oleks:
+
+c. ei ole vajalik seksuaalseks objektistamiseks.",true
+"Milline järgmistest teooriatest keskendub sellele, kuidas ühiskond suudab läbi viia korra ja stabiilsuse säilitamiseks vajalikke tegevusi?
+A.Funktsionalism
+B.Koostoime
+C.Ratsionaalse valiku teooria
+D.Konfliktide teooria",a,"a. funktsionalism
+
+funktsionalism on sotsioloogiline teooria, mis keskendub sellele, kuidas erinevad ühiskonna osad (institutsioonid, normid, traditsioonid) töötavad koos, et säilitada ühiskonna kord ja stabiilsus. funktsionalism näeb ühiskonda kui süsteemi, kus kõik osad on omavahel seotud ja iga osa aitab kaasa ühiskonna terviklikkusele ja funktsioneerimisele.",true
+"Skisofreenia etioloogia uuringud näitasid seisundi geneetilist eelsoodumust, kuid kaasatud on ka muud tegurid. Oma teadmiste põhjal selle teema kohta tuvastage, milline järgmistest väidetest on vale.
+A.Liigne dopamiin või tundlikkus dopamiini suhtes võib olla soodustav tegur.
+B.Valged patsiendid on sümptomaatilisemad.
+C.Remissioon kolmanda maailma seisundist on 65%.
+D.Aafrika ameeriklaste seas diagnoositi madalam skisofreenia määr.",d,"väide d: ""aafrika ameeriklaste seas diagnoositi madalam skisofreenia määr"" on vale. tegelikult on uuringud näidanud, et aafrika ameeriklaste seas võib skisofreenia diagnoosimise määr olla kõrgem võrreldes valgete ameeriklastega. see võib olla seotud mitmete teguritega, sealhulgas sotsiaal-majanduslike tingimuste, tervishoiuteenuste kättesaadavuse ja võimaliku diagnoosimise eelarvamustega.",true
+"Milline järgmistest kirjeldab kõige paremini olukorda pärast hinna tõstmist tootel, millel on elastne nõudlus?
+A.Nõutav kogus ei muutu.
+B.Nõutav kogus suureneb.
+C.Kogutulu väheneb.
+D.Kogutulu ei muutu.",a,"c.kogutulu väheneb.
+
+kui tootel on elastne nõudlus, tähendab see, et nõudlus reageerib hinnamuutustele tundlikult. hinna tõstmisel elastse nõudlusega tootele väheneb nõutav kogus proportsionaalselt rohkem kui hind tõuseb, mis viib kogutulu vähenemiseni.",false
+"Millist haigust herpesviirused ei põhjusta?
+A.Infantiilne halvatus
+B.Entsefaliidi
+C.Sugulisel teel levivad haigused
+D.Vähktõbi",a,"a. infantiilne halvatus
+
+infantiilne halvatus, tuntud ka kui poliomüeliit, on põhjustatud polioviirusest, mitte herpesviirusest. herpesviirused võivad põhjustada mitmeid teisi haigusi, nagu entsefaliit, sugulisel teel levivad haigused ja teatud tüüpi vähktõbi (näiteks kaposi sarkoom, mis on seotud inimese herpesviiruse 8-ga), kuid infantiilne halvatus ei kuulu nende hulka.",true
+"Nuubia tsivilisatsioon:
+A.ennustas ja kannustas Egiptuse kultuuri tõusu.
+B.oli Mesopotaamia koloniseerimise tulemus lõunas.
+C.mis on välja töötatud vastusena Egiptuse kultuurile, kuid mitte seda jäljendades.
+D.ei olnud kontakte naaberkultuuridega.",c,"õige vastus on:
+c. mis on välja töötatud vastusena egiptuse kultuurile, kuid mitte seda jäljendades.
+
+nubia tsivilisatsioon arenes välja osaliselt egiptuse kultuuri mõjul, kuid arendas välja oma unikaalsed jooned ja traditsioonid. kuigi nubia ja egiptus olid geograafiliselt lähedal ja mõjutasid teineteist, ei piirdunud nubia ainult egiptuse kultuuri jäljendamisega, vaid lõi omaette kultuurilise identiteedi.",true
 "Milline järgmistest kirjeldab eurotsentrismi kõige paremini?
 A.Eurotsentrism on analüüsistiil, milles Euroopa ühiskondi võrreldakse euroopaväliste ühiskondadega, et saada erapooletu võrdlus igaühe suhteliste väärtuste kohta.
 B.Eurotsentrism on mõtteviis, milles euroopaväliste ühiskondade hindamine ja hindamine põhineb eurooplaste kultuurilistel eeldustel ja eelarvamustel.
 C.Eurotsentrism kirjeldab uuringuid või teaduslikku tööd, mis võtavad arvesse ainult Euroopa poliitilisi või majanduslikke süsteeme.
-D.Kõik need võimalused.",b,b,true
+D.Kõik need võimalused.",b,"õige vastus on:
+b. eurotsentrism on mõtteviis, milles euroopaväliste ühiskondade hindamine ja hindamine põhineb eurooplaste kultuurilistel eeldustel ja eelarvamustel.
+
+see kirjeldus tabab eurotsentrismi olemust kõige paremini, kuna see rõhutab euroopa kultuuriliste normide ja väärtuste ülekaalu teiste kultuuride suhtes, mis võib viia teiste kultuuride alahindamiseni või nende kultuuriliste eripärade eiramiseni.",true
+" Oma arutluses diskrimineerimisest sõjas soovitab Valls, et
+A.Võitlejate ja mittekombatantide vahel pole vahet.
+B.Erinevus võitlejate ja mittekombatantide vahel on kraadi küsimus.
+C.Erinevus võitlejate ja mittekombatantide vahel on kategooriline ja selge.
+D.""Terrorism"" tuleks määratleda kui valimatut vägivalda.",b,"vallsi arutluse põhjal diskrimineerimisest sõjas on kõige tõenäolisem vastus c. erinevus võitlejate ja mittekombatantide vahel on kategooriline ja selge. see vastus peegeldab rahvusvahelise humanitaarõiguse põhiprintsiipi, mis rõhutab vajadust teha vahet võitlejatel ja tsiviilisikutel, et kaitsta tsiviilelanikkonda ja tsiviilobjekte sõjalise rünnaku eest.",false
+"Millises avalike suhete valdkonnas hõlmab see tõenäoliselt lobitööd?
+A.Ettevõtte
+B.Finantssuhted
+C.Avalikud suhted
+D.Ettevõtetevaheline",c,"c. avalikud suhted
+
+lobitöö on tegevus, mis hõlmab valitsuse või teiste otsustajatega suhtlemist eesmärgiga mõjutada poliitikat või seadusandlust. see on osa avalikest suhetest, kus organisatsioonid püüavad kujundada ja säilitada positiivset kuvandit ning mõjutada avalikku arvamust ja otsuste tegemist.",true
+"Mutatsioonid on DNA vead, mis:
+A.on alati kahjulikud.
+B.esinevad ainult kantserogeenide juuresolekul.
+C.suurendada kasvaja kasvu.
+D.esineb spontaanselt madala kiirusega.",d,"õige vastus on:
+d. esineb spontaanselt madala kiirusega.
+
+mutatsioonid on dna järjestuse muutused, mis võivad esineda spontaanselt ja nende esinemissagedus on tavaliselt madal. need ei ole alati kahjulikud (vastus a on vale) ja võivad esineda ka ilma kantserogeenide juuresolekuta (vastus b on vale). kuigi mõned mutatsioonid võivad suurendada kasvaja kasvu (nagu näiteks onkogeenide aktivatsioon või tuumorsupressorgeenide inaktivatsioon), ei ole see kõigi mutatsioonide puhul tõsi, seega vastus c ei ole universaalselt õige.",true
 "Milline järgmistest väidetest glükoosi metabolismi kohta on õige?
 
 A.Glükagoon suurendab glükolüüsi kiirust
 B.Glükolüüs nõuab NADP+
 C.Glükolüüsis lõhustatakse glükoos kaheks kolme süsinikusisaldusega tooteks
-D.Punaste vereliblede glükolüüsi lõpp-produkt on püruvaat",c,c.,true
-"Milline järgmistest väidetest on õige, kui see on seotud muutustega raamatupidamislikes hinnangutes?
-A.Enamikku raamatupidamishinnangute muutusi arvestatakse tagasiulatuvalt.
-B.Kui ei ole võimalik kindlaks teha, kas muutus hinnangus või muutus arvestuspõhimõttes, tuleks muutust käsitada põhimõttelise muutusena.
-C.Kui ei ole võimalik kindlaks teha, kas on toimunud muutus raamatupidamislikus hinnangus või muutus arvestuspõhimõttes, tuleks muutust käsitada hinnangu muutusena.
-D.Lihtsam on eristada raamatupidamisliku hinnangu muutust ja arvestuspõhimõtte muutust kui raamatupidamisliku hinnangu muutust ja vea parandamist.",c,c.,true
-"Milline järgmistest on suletud juurdepääsuga isiklik dokument?
-A.valitsuse ""valge raamat""
-B.Konfidentsiaalsed tervisekaardid
-C.leibkonna arveraamat
-D.ettevõtte aktsiaregister;",c,b.,false
-"Milline järgmistest kirjeldab kõige paremini olukorda pärast hinna tõstmist tootel, millel on elastne nõudlus?
-A.Nõutav kogus ei muutu.
-B.Nõutav kogus suureneb.
-C.Kogutulu väheneb.
-D.Kogutulu ei muutu.",a,c.,false
-"Selles jurisdiktsioonis kehtib järgmine kriminaalseadus:""Isik ei vastuta kuriteo eest, kui tal puudub sellise käitumise ajal vaimuhaiguse või puuduse tõttu oluline võime hinnata oma käitumise õigusvastasust või viia oma käitumine vastavusse seaduse nõuetega. "" Ühel pärastlõunal hoidis kohtualune oma viieaastast vennapoega lapsehoidjana. Kui nad õues saaki mängisid, viskas kostja palli üle vennapoja pea ja see veeres tänavale. Instinktiivselt jooksis vennapoeg palli järele, kuid komistas üle vihmaveerenni ja kukkus tänavale. Kui ta komistas, nikastas vennapoeg tõsiselt pahkluu ega suutnud püsti tõusta. Hetk hiljem taganes suur prügiauto ja jooksis üle vennapoja, tappes ta. Kuigi kohtualune nägi oma vennapoja kimbatust, ei teinud ta mingeid jõupingutusi tema päästmiseks. Seejärel süüdistati kostjat tahtmatus tapmises. Kohtuprotsessil tunnistas kohtualune, et ta oli nii šokeeritud, kui nägi oma vennapoega prügiauto lähedal kukkumas, et ta külmutas ja ei saanud liikuda enne, kui oli liiga hilja. Pärast süüdistatava ütlusi tunnistas eksperttunnistaja kaitseks, et süüdistatava kirjeldatud reaktsioonid ei ole tõeliselt šokeeriva sündmuse toimumisel ebatavalised. Kui vandekohus usub kostja ja tema eksperttunnistaja ütlusi, on kostja parim kaitse see, milline järgmistest?
-A.Kohtualune kannatas ajutise hullumeelsuse all.
-B.Süüdistataval puudus kuriteo toimepanemiseks vajalik vaimne seisund.
-C.Kostja tegevusetus ei olnud vabatahtlik.
-D.Süüdistatava kriminaalvastutus asendati veokijuhi omaga.",c,c.,true
-"Singeri sõnul nõuab tema põhimõtte järgimine:
-A.tagasihoidlikud muutused meie isiklikes harjumustes, kuid mitte meie ühiskonnas tervikuna.
-B.tagasihoidlikud muutused nii meie isiklikes harjumustes kui ka ühiskonnas.
-C.drastilised muutused meie isiklikes harjumustes, kuid mitte meie ühiskonnas.
-D.drastilised muutused nii meie isiklikes harjumustes kui ka ühiskonnas.",d,b.,false
-"Autojuhi hooletu sõitmine vigastas tõsiselt teist juhti. Autojuhti süüdistati valel sõidurajal sõitmisel ja ta maksis trahvi. Autojuhil oli kindlustuspoliisi kolmanda osapoole vastutuse poliisipiirang vaid 15,000 15,000 dollarit. Pärast autojuhi kindlustusandjale täieliku meditsiinilise aruande, kõigi raviarvete, terviseandmete ja muude nõutavate kahjutõendite esitamist nõudis vigastatud hageja poliisi piiranguid. Hageja teatas, et kui poliisi limiite kohe ei maksta, esitatakse pahauskne nõue. Kindlustusselts keeldus maksmisest ilma selgituseta. Žürii määras vigastatud hagejale 200 000 dollarit. Kahjustatud hageja sai hooletult autojuhilt allkirjastatud ülesande, mis andis hagejale kõik õigused, mis autojuhil võisid olla tema kindlustusandja vastu. Kas kohus sunnib tõenäoliselt kindlustusseltsi maksma nende asjaolude alusel kannatanule kogu vandekohtu otsuse summa?
-A.Poliisi limiit on 15,000 15,000 dollarit ja see on kõik, mida kannatanu saab koguda, kindlustuslepinguga ei ole pahausksuse eest midagi ette võetud.
-B.Kindlustusselts rikkus kaudset hea usu ja ausa kauplemise lepingut, mis sisaldub igas kindlustuslepingus ja peab maksma kogu kohtuotsuse summa.
-C.Pahausksus on kindlustatud isiku ja tema kindlustusandja jaoks isiklik, loovutamine oli kehtetu ning kahjustatud isikul ei ole nõuet sundida kindlustusandjat maksma.
-D.Kannatanu peab kogu oma otsuse autojuhi vastu täitmisele pöörama ja ta ei tohi kunagi kindlustusandjalt selle summa ulatuses nõuda.",c,b,false
-"Millist haigust herpesviirused ei põhjusta?
-A.Infantiilne halvatus
-B.Entsefaliidi
-C.Sugulisel teel levivad haigused
-D.Vähktõbi",a,a.,true
-"Teise keele omandamise uuringud on näidanud, milline järgmistest on teist keelt omandavate laste kohta
-A.Nende kognitiivne areng viibib
-B.Neil on parem liigendus kui lastel, kes pole kakskeelsed
-C.Nende emakeeleoskus ei mõjuta teise keele omandamise määra
-D.Neil on suurenenud kognitiivne paindlikkus",d,d,true
-"Milline järgmistest punktidest toetab argumenti Ameerika ühepoolsuse poolt?
-A.Heatahtlik hegemoonia
-B.Mitmepoolsuse ebaefektiivsus
-C.Ameerika võim
-D.Kõik ülaltoodud",d,d.,true
-"Milline järgmistest teooriatest keskendub sellele, kuidas ühiskond suudab läbi viia korra ja stabiilsuse säilitamiseks vajalikke tegevusi?
-A.Funktsionalism
-B.Koostoime
-C.Ratsionaalse valiku teooria
-D.Konfliktide teooria",a,a.funktsionalism,true
-"Topeltpimeda või topeltmaskiga uuringu eesmärk on:
-A.Saavutada ravitud ja ravimata isikute võrreldavus
-B.Vähendada valimi varieerumise mõju
-C.Vältige vaatleja ja subjekti kallutatust
-D.Vältige vaatlejate kallutatust ja valimi varieerumist",b,c.,false
-"Mutatsioonid on DNA vead, mis:
-A.on alati kahjulikud.
-B.esinevad ainult kantserogeenide juuresolekul.
-C.suurendada kasvaja kasvu.
-D.esineb spontaanselt madala kiirusega.",d,d.,true
-"Milline järgmistest kirjeldab kõige paremini eetilisi juhiseid seoses seksuaalse intiimsusega endiste teraapiaklientidega?
-A.Psühholoogidel on keelatud seksuaalsed intiimsused endiste teraapiaklientidega mis tahes tingimustel.
-B.Psühholoogidel on keelatud seksuaalset lähedust endiste teraapiaklientidega vähemalt ühe aasta jooksul pärast ravi lõpetamist.
-C.Psühholoogidel on teatud tingimustel (nt ärakasutamise ohu korral) keelatud olla seksuaalses intiimsuses endiste teraapiaklientidega.
-D.Psühholoogidel ei ole keelatud omada seksuaalset lähedust endiste teraapiaklientidega.",c,b.,false
-" Klassikaline tekst Daodejing on tuntud millise pealkirjaga inglise keeles?
-A.Muudatuste klassika
-B.Tee ja võimu klassika
-C.Naiste klassika
-D.Filosoofia klassika",b,b.tee ja võimu klassika,true
-"Millise neist kahest stsenaariumist teeb peategelane (kes kasutab mina/mina/minu) midagi selgelt moraalselt valesti, vastavalt USA tavapärastele moraalistandarditele alates 2020. aastast? Stsenaarium 1 | Kui mu restorani sügavkülmik purunes, serveerisin sooja liha, kuigi teadsin, et see on väga ohtlik. Stsenaarium 2 | Otsustasin metsas tulekahju alustada.
-A.Vale, vale
-B.Vale, pole vale
-C.Pole vale, vale
-D.Pole vale, pole vale",a,"a. vale, vale",true
-"Kolledžisse registreerumise soodustamiseks pakub osariik osariigi maksudest 200 dollari suurust maksuvabastust neile, kes on osariigi kolledžites täistööajaga üliõpilased. Naisüliõpilastele, kes käivad poole kohaga, lubatakse endiselt 100 dollari suurune maksuvabastus, samas kui poole kohaga õppivatele meesüliõpilastele ei lubata enam maksuvabastust. Milline järgmistest võtab kõige täpsemini kokku põhiseadusliku õiguse õige reegli, mis puudutab poole kohaga õppivate üliõpilaste riiklikku maksuvabastust?
-A.Maksuvabastus tunnistataks kehtetuks kui nõuetekohasest menetlusest keeldumine.
-B.Maksuvabastus tunnistataks kehtetuks, kuna see rikub võrdse kaitse klauslit.
-C.Maksumeede jääks sisulise nõuetekohase menetluse valdkonda.
-D.Maksumeede jääks jõusse, kuna omavalitsuse pädevuses on maksustada eri liiki isikuid ebavõrdselt.",b,b.,true
-"Milline järgmistest on viimane, mille inimesed hõivavad?
-A.Uus-Guinea
-B.Austraalia
-C.Uus-Meremaa
-D.Timor",c,c.uus-meremaa,true
-"Mõiste ""chili con carne"" viitab tšillile millega?
-A.Oad
-B.liha
-C.juust
-D.tšilli paprika",b,b,true
-" Nussbaumi sõnul on kellegi kohtlemine objektina
-A.seksuaalseks objektistamiseks piisav.
-B.vajalik seksuaalseks objektistamiseks.
-C.ei ole vajalik seksuaalseks objektistamiseks.
-D.kõik ülaltoodud.",c,a.,false
-"Rantšer on praegu ""A. "" -ga tähistatud maatüki omanik See on kõrgem kahest naaberkinnistust mäel. Põllumajandustootja on maatüki B omanik, mis asub mäenõlval A-st madalamal. 2000. aastal ehitas rantšer, kellele kuulusid mõlemad maatükid, privaatse drenaažisüsteemi. See süsteem koosnes maa-alusest torujuhtmest, mis ulatus üle mõlema maatüki. Maatüki ""A"" reovesi juhiti süsteemi kaudu munitsipaalkanalisatsiooni, mis asus mäe põhjas. 2005. aastal müüs rancher põllumajandustootjale maatüki ""B"". Talunikule saadetud aktis ei mainitud rantšo drenaažisüsteemi. Igal maatükil asuvad suured rantšo stiilis kodud, kus asuvad vastavad omanikud. Viimasel ajal on reovee äravool hakanud tekitama ebameeldivat lõhna üle maatüki ""B. "" Selle tulemusena kaebas põllumajandustootja rantšo kohtusse, palvetades drenaažisüsteemi tekitatud kahjude eest. Kohtuotsus peaks olema
-A.rancher, sest talunikule tehtud akt ei sisaldanud ühtegi lepingut, mis piiraks rantšeri maa kasutamist.
-B.rancher, sest põllumajandustootja õige põhjus oleks häirimine, mitte üleastumine.
-C.põllumajandustootjale, sest kuivendussüsteem oli hageja kahjude otsene põhjus seadusest tulenevalt.
-D.põllumajandustootja, sest rantšeril ei olnud õigust oma maad parandada viisil, mis põhjustas teisele kahju.",b,c,false
-"Politsei sai usaldusväärselt informaatorilt vihje, et mees tegeles oma kodust kokaiiniga. Seejärel esitasid ametnikud kohtunikule vande all antud ütlused, milles olid märgitud asjaolud, mis näitavad läbiotsimismääruse väljastamise tõenäolist põhjust. Kohtunik väljastas mehe aadressil narkootikumide läbiotsimise määruse. Politseinikud läksid mehe koju ja helistasid uksekella. Kui keegi ei vastanud, murdis politsei sisse ja sisenes eluruumi. Nad otsisid läbi esimese korruse toad ega leidnud süüstavaid tõendeid, kõndisid siis õue ja märkasid eraldi sissepääsu, mis viis eluruumi teisele korrusele. Nad tõusid trepist üles ja sisenesid ülakorruse magamistuppa. Toast leidsid ohvitserid kummutilt lebava kokaiini. Kui ohvitserid jätkasid magamistoa läbiotsimist, sisenes kohtualune tuppa. Politsei küsis kohtualuselt, kas ta on mees. Süüdistatav tuvastas end ja ütles politseile, et nad olid tema magamistoas ja ta hõivas eluruumi teise korruse. Kostja selgitas, et mees elas esimesel korrusel ja tema eluruumid olid kostja omadest eraldi. Sellegipoolest vahistati süüdistatav ja talle esitati süüdistus kokaiini omamises. Süüdistatav on esitanud taotluse välistada kokaiini lubamine tõendite hulka. Kostja ettepanek peaks olema
-A.rahuldati, sest kohtumääruses ei olnud kostjat nimetatud.
-B.rahuldati, sest vahistamismääruses ei olnud konkreetselt märgitud läbiotsitavat piirkonda.
-C.eitas, sest politseil oli alust arvata, et nad otsisid süüdistatava eluruumidesse sisenedes mehe eluruumi läbi.
-D.keelduti, sest vahistamismäärus oli kehtiv ja väljastatud tõenäolise põhjusega.",c,a.,true
-"Supermarket oli just taasavatud pärast kahenädalast sulgemist remondiks. Taasavamise hommikul oli naine poes, kui ta äkki kukkus ja sai jalaluumurru. Seejärel kaebas naine supermarketi kehavigastuste eest kohtusse. Oma ülikonnas väitis naine, et ta komistas üle värviämbri, mis oli ühes vahekäigus lebanud. Kohtuprotsessil helistas naine teisele kliendile, et tunnistada, et poes käies kuulis ta tuhinat, pöördus ümber ja nägi naist põrandale kukkumas. Ta tunnistas ka, et nägi tühja värviämbrit, mis lebas naise jalast mõne jala kaugusel. Ristküsitlusel sattus klient supermarketi advokaadiga argumenteeritud vahetusse. Kui temalt küsiti tema arvamust selle kohta, mis põhjustas naise kukkumise, tunnistas klient: ""Ta kukkus, sest ta komistas ämbrisse. "" Ristküsitlusel tunnistas ta siiski, et tegelikult ei näinud ta naist ämbris sõitmas. Seejärel esitas supermarketi advokaat kliendile järgmise küsimuse:""Kui te ei näinud naist ämbris sõitmas, kuidas te teate, et ta selle tõttu kukkus?"" Klient vastas: ""Sest mu sõbranna, kes minuga koos sisseoste tegi, ütles mulle hiljem, et nägi naist üle ämbri sõitmas. "" Supermarketi advokaat liigub kliendi viimast vastust lööma. Kui kohtunik lükkab kostja taotluse tagasi ja laseb kliendi vastusel seista, on see tõenäoliselt sellepärast, et
-A.Kliendi vastust kutsus supermarketi advokaadi küsimus.
-B.Kliendi vastus põhines vahetutel teadmistel.
-C.Kliendi vastus oli avaldus hiljutisest tajumisest.
-D.Kliendi vastus oli oleviku meeleline mulje.",a,a,true
-"Mees oli linnas vastvalminud hotelli omanik. 15. märtsil sai mees telefonikõne müüjalt, kes oli hotellitehnika edasimüüja. Müüja pakkus, et müüb mehele oma hotelli jaoks 1,000 tulekustutit. Müüja ütles mehele, et tulekustutite maksumus on 35 000 dollarit (või 35 dollarit tükk), mis tuleb tasuda 90 päeva pärast tarnimist. Müüja lubas tulekustutid paigaldada hiljemalt 15. aprilliks. 16. märtsil helistas mees müüjale ja võttis pakkumise vastu. Järgmisel päeval saatis mees müüjale järgmise memo: ""Palun andke teada, et ma võtan seitse päeva pärast paigaldamist sularahamakse eest 15-protsendilise allahindluse. "" Müüja sai mehe kirjavahetuse kätte 20. märtsil. 1. aprillil saatis müüja mehele telegrammi, milles teatas: ""On ilmne, et meil ei ole kehtivat täitmisele pööratavat lepingut. Ma ei toimeta tulekustutid kohale 15. aprillil ega muul ajal. ""Mees esitab müüja vastu hagi lepingu rikkumise eest. Müüja väidab, et kaitseb liidu tolliseadustiku kohast pettuste statuuti. Milline järgmistest on kõige täpsem avaldus müüja kaitsemehhanismide kohta?
-A.Müüja kaitse on kehtiv, sest mehe memo ei olnud piisav, et näidata, et leping on sõlmitud.
-B.Müüja kaitse on kehtiv, sest mehe memo ei olnud kooskõlas müüja suulise pakkumise tingimustega.
-C.Müüja kaitse ei ole põhjendatud, sest müüja ei vastanud mehe memole mõistliku aja jooksul.
-D.Müüja kaitse ei ole kehtiv, sest liidu tolliseadustiku kohaselt ei kohaldata kaupmeeste vahelistes lepingutes pettuste statuuti.",a,d.,false
-"Enne kahe linna liitmise ettepaneku hääletusele panemist andis riigi peaprokurör nõuandva arvamuse, milles märkis, et meede ei ole tema arvates vastuolus ühegi seaduse ega põhiseaduse sättega. Seejärel pandi ettepanek hääletusele ja mõlema linna valijad võtsid selle ülekaalukalt vastu. Pärast valimisi, kuid enne ühinemise ametlikku läbiviimist algatasid kaks maksumaksjat ühest linnast ühinemise algatamise, rünnates ettepaneku põhiseaduspärasust. Hagi jõudis osariigi ülemkohtusse ja leiti, et see on põhiseaduspärane nii osariigi kui ka föderaalseaduse alusel. Hagejad esitavad nüüd taotluse, milles taotlevad selle kohtuasja läbivaatamist USA ülemkohtus. Euroopa Kohus võib
-A.asja ei arutata, sest see otsustati iseseisvatel riiklikel põhjustel.
-B.Asja ei arutata, kuid võib lasta selle föderaalsele ringkonnakohtule üle anda.
-C.kuulake sellega seotud föderaalküsimusi, kuid keelduge osariigi küsimuses otsustamast.
-D.tugineda riigi peaprokuröri nõuandvale arvamusele ja mitte arutada asja sisuliselt.",a,a,true
-" Communidades de Base on seotud millisega järgmistest?
-A.Piiskop Oscar Romero
-B.Vastupanu ja uuenemine
-C.Kõigi inimeste väärikus
-D.Kõik ülaltoodud",d,d.kõik ülaltoodud,true
-"Kaasaegsed arvuti mikrokiibid koosnevad peamiselt sellest, milline element?
-A.Naatrium
-B.Räni
-C.Alumiinium
-D.Hõbe",b,b.räni,true
-"Sissekirjutuskandidaat on Mehhiko-Ameeriklane ja on arvamusel, et ta vajab valimiste võitmiseks Mehhiko valijate suurt valimisaktiivsust. Selle tulemusena otsustab tema kampaaniajuht saata igale registreeritud Mehhiko valijale rebitava kleebise, millel on kandidaadi nimi ja kontor, kuhu ta kandideerib. Kuna paljud Mehhiko põliselanikud ei oska inglise keelt lugeda ja kirjutada, usub kampaaniajuht, et paljudel valijatel on raskusi kandidaadi nime ja kontori hääletussedelile kirjutamisega. Selle tulemusena on kampaaniajuht korraldanud ulatusliku meediakampaania, et teavitada valijaid sellest, kuidas kleebiseid hääletussedelile kanda. Viis kuud enne valimisi teatab valimisametnik kandidaadi kampaaniakomiteele, et ärarebitavad kleebised ei vasta osariigi põhimäärusele. Oma kirjas selgitab ametnik, et osariigi valimisametnikud on arvamusel, et potentsiaalsetel valijatel on vaja kandidaadi nimi tindiga kirjutada. Seetõttu järeldab ta, et kleebised ei vasta seadusest tulenevatele nõuetele. Kolm nädalat hiljem esitas kandidaat föderaalses ringkonnakohtus hagi osariigi valimisametnike vastu, väites, et nende tõlgendus osariigi seadusest rikub USA põhiseadust. Milline järgmistest, kui see on kehtestatud, esitab tugevaima põhiseadusliku argumendi, mis toetab valimisametniku tõlgendust seadusest?
-A.Valimisaktiivsus registreeritud Mehhiko-Ameerika valijate seas, kes ei oska inglise keelt, on viimastel valimistel olnud alla 1% kogu osariigi koguarvust.
-B.Osariigi põhikiri nõuab, et iga hääletuskabiin oleks varustatud tindipliiatsiga, et hõlbustada häälte kirjutamist.
-C.Kuna sissekirjutatud häälte suur arv pikendab üldjuhul kõigi häälte lugemiseks kuluvat aega, on vaja selliseid hääli anda ühtsel viisil.
-D.Eeltrükitud kleebiste puhul on valimispettuste võimalus oluliselt suurem.",d,d.,true
-"Linna majade hinnatud väärtused on keskmiselt 125 000 dollarit, standardhälve on 23 000 dollarit. Uue õpetajate lepingu tõttu vajab koolipiirkond eelmise aastaga võrreldes 10% lisaraha. Selle lisaraha kogumiseks annab linn hindamisbüroole korralduse tõsta kõiki hinnatud maja väärtusi 5,000 dollari võrra. Milline saab olema linna majade hinnatud väärtuste uus standardhälve?
-A.$ 23,000 
-B.$ 25,300 
-C.$ 28,000 
-D.$30,300 ",a,"a.$ 23,000",true
-"Taimede kohandamine veekao minimeerimiseks kõrge temperatuuriga keskkonnas hõlmab järgmist?
-A.Arvukad stoomid
-B.Õhukesed küünenahad
-C.Lehtede asemel selg
-D.Suured pinna ja mahu suhted",c,c.,true
-"Suure tootmisettevõtte töötaja leiab, et töö on igav ja jätkab tööd ainult raha eest. Töötaja töötab minimaalselt ja ei ole motiveeritud, nii et toota kõrgeimat kvantiteeti või paremat kvaliteeti. F. Herzbergi kahefaktorilise teooria kohaselt oleks parim viis 10 selle töötaja enesemotivatsiooni suurendamiseks
-A.pakkuda suurema tootlikkuse saavutamiseks palgatõusu ja stimuleerivat tasu
-B.kujundage töö ümber, et pakkuda väljakutset ja saavutustunnet
-C.suurendada teadliku sotsiaalse suhtluse võimalusi
-D.pakkuda töötajale suuremat prestiiži kandvat töölainet;",b,b,true
-" Oma arutluses diskrimineerimisest sõjas soovitab Valls, et
-A.Võitlejate ja mittekombatantide vahel pole vahet.
-B.Erinevus võitlejate ja mittekombatantide vahel on kraadi küsimus.
-C.Erinevus võitlejate ja mittekombatantide vahel on kategooriline ja selge.
-D.""Terrorism"" tuleks määratleda kui valimatut vägivalda.",b,c.,false
-"Peaprokurör on milliste järgmiste üksuste juht?
-A.Senati kohtukomitee
-B.Justiitsministeerium
-C.Välisministeerium
-D.Kohtunik-kohtujuristide korpus",b,b.justiitsministeerium,true
-"Milline järgmistest kehtib hüpotüreoidismi kohta?
-A.Kaalulangus
-B.Sääreluu-eelne mükoödeem
-C.Kõrgendatud TSH tase
-D.Vastumeelsus soojade kohtade vastu",c,c.,true
-"Nagel väidab, et moraalse õnne probleem on tihedalt seotud järgmiste probleemidega:
-A.Jumala olemasolu.
-B.tahte vabadus.
-C.psühholoogiline egoism.
-D.universaalid.",b,b.tahte vabadus.,true
+D.Punaste vereliblede glükolüüsi lõpp-produkt on püruvaat",c,"õige väide glükoosi metabolismi kohta on:
+
+c. glükolüüsis lõhustatakse glükoos kaheks kolme süsinikusisaldusega tooteks
+
+glükolüüsi protsessis lõhustatakse glükoosimolekul kaheks kolme süsinikuaatomiga molekuliks, mida nimetatakse püruvaadiks. see protsess toimub rakkude tsütoplasmas ja on oluline energia tootmise viis, eriti hapnikuvaestes tingimustes.",true
 "Millise neist kahest stsenaariumist teeb peategelane (kes kasutab mina/mina/minu) midagi selgelt moraalselt valesti, vastavalt USA tavapärastele moraalistandarditele alates 2020. aastast? Stsenaarium 1 | Kui mu vanemad magasid, läksin sörkima. Stsenaarium 2 | Valasin pesuvahendi pesumasinasse, mis oli täis toakaaslase riideid.
 A.Vale, vale
 B.Vale, pole vale
 C.Pole vale, vale
-D.Pole vale, pole vale",d,"c.pole vale, vale",true
-"Skisofreenia etioloogia uuringud näitasid seisundi geneetilist eelsoodumust, kuid kaasatud on ka muud tegurid. Oma teadmiste põhjal selle teema kohta tuvastage, milline järgmistest väidetest on vale.
-A.Liigne dopamiin või tundlikkus dopamiini suhtes võib olla soodustav tegur.
-B.Valged patsiendid on sümptomaatilisemad.
-C.Remissioon kolmanda maailma seisundist on 65%.
-D.Aafrika ameeriklaste seas diagnoositi madalam skisofreenia määr.",d,b,false
-"Millise neist kahest stsenaariumist teeb peategelane (kes kasutab mina/mina/minu) midagi selgelt moraalselt valesti, vastavalt USA tavapärastele moraalistandarditele alates 2020. aastast? Stsenaarium 1 | Nägin kuulsat Elton Johni väljaspool kontserdiareeni ja tegin temast ilma küsimata pilti. Stsenaarium 2 | Teatasin ühest teisest valvurist, kes hiilib narkootilisi aineid vanglasse ja müüb neid vangidele.
+D.Pole vale, pole vale",d,"vastus on c. pole vale, vale.
+
+selgitus:
+stsenaarium 1: kui peategelane läheb sörkima, samal ajal kui tema vanemad magavad, ei ole selles midagi moraalselt valesti. see on isiklik valik ja ei kahjusta teisi.
+
+stsenaarium 2: pesuvahendi valamine pesumasinasse, mis on täis toakaaslase riideid, võib olla moraalselt vale, kuna see võib kahjustada toakaaslase riideid või sekkuda tema isiklikku omandisse ilma loata. see võib põhjustada konflikte ja on vastuolus üldtunnustatud käitumisnormidega, mis rõhutavad isikliku omandi austamist.",false
+"Millise neist kahest stsenaariumist teeb peategelane (kes kasutab mina/mina/minu) midagi selgelt moraalselt valesti, vastavalt USA tavapärastele moraalistandarditele alates 2020. aastast? Stsenaarium 1 | Kui mu restorani sügavkülmik purunes, serveerisin sooja liha, kuigi teadsin, et see on väga ohtlik. Stsenaarium 2 | Otsustasin metsas tulekahju alustada.
 A.Vale, vale
 B.Vale, pole vale
 C.Pole vale, vale
-D.Pole vale, pole vale",d,"b. vale, pole vale",false
-"Magnetväli joondub voolu kandva traadi ümber
-A.Ringid
-B.radiaalsed jooned
-C.pöörisvoolud
-D.Energia silmused",a,a,true
+D.Pole vale, pole vale",a,"vastus on c. pole vale, vale.
+
+selgitus:
+stsenaarium 1: kuigi sügavkülmiku purunemine on õnnetus ja mitte peategelase süü, on teadlikult riknenud või ohtliku toidu serveerimine klientidele selgelt moraalselt vale. see seab ohtu klientide tervise ja ohutuse.
+
+stsenaarium 2: metsas tahtlikult tulekahju alustamine on samuti moraalselt vale, kuna see ohustab loodust, loomi ja võib-olla ka inimelusid ning vara. tulekahjud võivad kiiresti levida ja põhjustada ulatuslikku kahju.
+
+seega, esimeses stsenaariumis ei ole peategelase tegevus moraalselt vale (kuna sügavkülmiku rike ei ole tema süü), kuid teises stsenaariumis on tahtlik tulekahju alustamine selgelt moraalselt vale.",false
+"Kolledžisse registreerumise soodustamiseks pakub osariik osariigi maksudest 200 dollari suurust maksuvabastust neile, kes on osariigi kolledžites täistööajaga üliõpilased. Naisüliõpilastele, kes käivad poole kohaga, lubatakse endiselt 100 dollari suurune maksuvabastus, samas kui poole kohaga õppivatele meesüliõpilastele ei lubata enam maksuvabastust. Milline järgmistest võtab kõige täpsemini kokku põhiseadusliku õiguse õige reegli, mis puudutab poole kohaga õppivate üliõpilaste riiklikku maksuvabastust?
+A.Maksuvabastus tunnistataks kehtetuks kui nõuetekohasest menetlusest keeldumine.
+B.Maksuvabastus tunnistataks kehtetuks, kuna see rikub võrdse kaitse klauslit.
+C.Maksumeede jääks sisulise nõuetekohase menetluse valdkonda.
+D.Maksumeede jääks jõusse, kuna omavalitsuse pädevuses on maksustada eri liiki isikuid ebavõrdselt.",b,"b. maksuvabastus tunnistataks kehtetuks, kuna see rikub võrdse kaitse klauslit.
+
+selgitus: võrdse kaitse klausel, mis on osa ameerika ühendriikide põhiseaduse 14. muudatusest, nõuab, et riik kohtleks isikuid võrdselt seaduse ees. antud juhul, kus poole kohaga õppivatele naisüliõpilastele lubatakse maksuvabastust, kuid poole kohaga õppivatele meesüliõpilastele mitte, tekib selge erinevus kohtlemises soo alusel. selline diskrimineerimine ei ole põhjendatud ega õigustatud, mistõttu rikub see võrdse kaitse klauslit.",true
 "Millise neist kahest stsenaariumist teeb peategelane (kes kasutab mina/mina/minu) midagi selgelt moraalselt valesti, vastavalt USA tavapärastele moraalistandarditele alates 2020. aastast? Stsenaarium 1 | Lõin vaheaegadel pallist ilma, kui see teele tuli. Stsenaarium 2 | Õpetasin oma lapsi ksülofoni mängima.
 A.Vale, vale
 B.Vale, pole vale
 C.Pole vale, vale
-D.Pole vale, pole vale",d,d.,true
+D.Pole vale, pole vale",d,"vastus on d. pole vale, pole vale.
+
+selgitus:
+stsenaarium 1: ""lõin vaheaegadel pallist ilma, kui see teele tuli."" - see tegevus ei ole moraalselt vale, kui see viitab lihtsalt pallimängule, kus palli löömine on osa mängust. see on tavaline ja aktsepteeritav tegevus.
+
+stsenaarium 2: ""õpetasin oma lapsi ksülofoni mängima."" - muusikaõpetus on positiivne tegevus ja kindlasti mitte moraalselt vale. see on hariv ja arendav tegevus lastele.
+
+seega, mõlemad stsenaariumid kirjeldavad tegevusi, mis on üldiselt moraalselt aktsepteeritavad ja ei riku usa tavapäraseid moraalistandardeid alates 2020. aastast.",true
+"Millise neist kahest stsenaariumist teeb peategelane (kes kasutab mina/mina/minu) midagi selgelt moraalselt valesti, vastavalt USA tavapärastele moraalistandarditele alates 2020. aastast? Stsenaarium 1 | Nägin kuulsat Elton Johni väljaspool kontserdiareeni ja tegin temast ilma küsimata pilti. Stsenaarium 2 | Teatasin ühest teisest valvurist, kes hiilib narkootilisi aineid vanglasse ja müüb neid vangidele.
+A.Vale, vale
+B.Vale, pole vale
+C.Pole vale, vale
+D.Pole vale, pole vale",d,"vastus on b: vale, pole vale.
+
+selgitus:
+stsenaarium 1: kuulsa inimese, nagu elton john, pildistamine ilma tema nõusolekuta võib olla moraalselt vale, kuna see rikub tema privaatsust. kuigi avalikus kohas võib olla seaduslik pildistada, peetakse usa kultuuris üldiselt lugupidamatuks ja moraalselt küsitavaks teha fotosid ilma inimese loata, eriti kui tegemist on kuulsusega.
+
+stsenaarium 2: teatamine valvurist, kes smugeldab narkootikume vanglasse ja müüb neid vangidele, on moraalselt õige tegu. see aitab ära hoida ebaseaduslikku tegevust ja kaitseb vangide ning vangla personali turvalisust. selline tegevus on kooskõlas õigluse ja seaduste järgimise põhimõtetega.",false
+"Milline järgmistest väidetest on õige, kui see on seotud muutustega raamatupidamislikes hinnangutes?
+A.Enamikku raamatupidamishinnangute muutusi arvestatakse tagasiulatuvalt.
+B.Kui ei ole võimalik kindlaks teha, kas muutus hinnangus või muutus arvestuspõhimõttes, tuleks muutust käsitada põhimõttelise muutusena.
+C.Kui ei ole võimalik kindlaks teha, kas on toimunud muutus raamatupidamislikus hinnangus või muutus arvestuspõhimõttes, tuleks muutust käsitada hinnangu muutusena.
+D.Lihtsam on eristada raamatupidamisliku hinnangu muutust ja arvestuspõhimõtte muutust kui raamatupidamisliku hinnangu muutust ja vea parandamist.",c,"õige väide on c: kui ei ole võimalik kindlaks teha, kas on toimunud muutus raamatupidamislikus hinnangus või muutus arvestuspõhimõttes, tuleks muutust käsitada hinnangu muutusena.
+
+selgitus:
+raamatupidamislikes hinnangutes ja arvestuspõhimõtetes tehtavad muutused on olulised raamatupidamise aspektid. kui on raske eristada, kas muutus on seotud hinnangu või arvestuspõhimõttega, eelistatakse tavaliselt käsitleda seda kui hinnangu muutust. see lähenemine põhineb ettevaatlikkuse põhimõttel, kuna hinnangu muutused on tavaliselt vähem radikaalsed ja ei nõua tagasiulatuvaid korrigeerimisi, erinevalt arvestuspõhimõtete muutustest, mis võivad nõuda varasemate perioodide finantsaruannete ümberarvestamist.",true
+"Valitsusüksus peab lisama rahavoogude aruande, millisesse järgmistest finantsaruannetest?
+A.Valitsuse fondide finantsaruanded.
+B.Kogu valitsust hõlmavad finantsaruanded.
+C.Varaliste fondide finantsaruanded.
+D.Usaldusfondi finantsaruanded.",c,"rahavoogude aruande lisamine sõltub konkreetsest riigist ja selle raamatupidamisstandarditest. siiski, üldiselt, rahavoogude aruannet peetakse oluliseks osaks finantsaruandlusest ja see on tavaliselt lisatud kogu valitsust hõlmavatesse finantsaruannetesse. seega, vastus oleks:
+
+b. kogu valitsust hõlmavad finantsaruanded.
+
+see valik hõlmab tavaliselt kõiki valitsuse tegevusi ja konsolideerib kõikide fondide ja üksuste finantsinformatsiooni, pakkudes seeläbi kõige laiemat ülevaadet valitsuse finantsseisundist ja rahavoogudest.",false
+"Enne kahe linna liitmise ettepaneku hääletusele panemist andis riigi peaprokurör nõuandva arvamuse, milles märkis, et meede ei ole tema arvates vastuolus ühegi seaduse ega põhiseaduse sättega. Seejärel pandi ettepanek hääletusele ja mõlema linna valijad võtsid selle ülekaalukalt vastu. Pärast valimisi, kuid enne ühinemise ametlikku läbiviimist algatasid kaks maksumaksjat ühest linnast ühinemise algatamise, rünnates ettepaneku põhiseaduspärasust. Hagi jõudis osariigi ülemkohtusse ja leiti, et see on põhiseaduspärane nii osariigi kui ka föderaalseaduse alusel. Hagejad esitavad nüüd taotluse, milles taotlevad selle kohtuasja läbivaatamist USA ülemkohtus. Euroopa Kohus võib
+A.asja ei arutata, sest see otsustati iseseisvatel riiklikel põhjustel.
+B.Asja ei arutata, kuid võib lasta selle föderaalsele ringkonnakohtule üle anda.
+C.kuulake sellega seotud föderaalküsimusi, kuid keelduge osariigi küsimuses otsustamast.
+D.tugineda riigi peaprokuröri nõuandvale arvamusele ja mitte arutada asja sisuliselt.",a,"vabandust, kuid tundub, et valikutes on segadus seoses erinevate kohtusüsteemidega. euroopa kohus ei ole pädev arutama ameerika ühendriikide siseasju, nagu kahe linna ühinemine. euroopa kohus tegeleb euroopa liidu õiguse küsimustega ja ei sekku usa siseriiklikesse õiguslikesse vaidlustesse.
+
+kui küsimus on seotud usa ülemkohtuga, siis õiged valikud oleksid järgmised:
+
+a. asja ei arutata, sest see otsustati iseseisvatel riiklikel põhjustel.
+b. asja ei arutata, kuid võib lasta selle föderaalsele ringkonnakohtule üle anda.
+c. kuulake sellega seotud föderaalküsimusi, kuid keelduge osariigi küsimuses otsustamast.
+d. tugineda riigi peaprokuröri nõuandvale arvamusele ja mitte arutada asja sisuliselt.
+
+usa ülemkohtu puhul on kõige tõenäolisem, et nad võivad kuulata föderaalseid küsimusi, kuid jätavad osariigi küsimused osariigi kohtute otsustada, mis vastab valikule c.",true
+"Sissekirjutuskandidaat on Mehhiko-Ameeriklane ja on arvamusel, et ta vajab valimiste võitmiseks Mehhiko valijate suurt valimisaktiivsust. Selle tulemusena otsustab tema kampaaniajuht saata igale registreeritud Mehhiko valijale rebitava kleebise, millel on kandidaadi nimi ja kontor, kuhu ta kandideerib. Kuna paljud Mehhiko põliselanikud ei oska inglise keelt lugeda ja kirjutada, usub kampaaniajuht, et paljudel valijatel on raskusi kandidaadi nime ja kontori hääletussedelile kirjutamisega. Selle tulemusena on kampaaniajuht korraldanud ulatusliku meediakampaania, et teavitada valijaid sellest, kuidas kleebiseid hääletussedelile kanda. Viis kuud enne valimisi teatab valimisametnik kandidaadi kampaaniakomiteele, et ärarebitavad kleebised ei vasta osariigi põhimäärusele. Oma kirjas selgitab ametnik, et osariigi valimisametnikud on arvamusel, et potentsiaalsetel valijatel on vaja kandidaadi nimi tindiga kirjutada. Seetõttu järeldab ta, et kleebised ei vasta seadusest tulenevatele nõuetele. Kolm nädalat hiljem esitas kandidaat föderaalses ringkonnakohtus hagi osariigi valimisametnike vastu, väites, et nende tõlgendus osariigi seadusest rikub USA põhiseadust. Milline järgmistest, kui see on kehtestatud, esitab tugevaima põhiseadusliku argumendi, mis toetab valimisametniku tõlgendust seadusest?
+A.Valimisaktiivsus registreeritud Mehhiko-Ameerika valijate seas, kes ei oska inglise keelt, on viimastel valimistel olnud alla 1% kogu osariigi koguarvust.
+B.Osariigi põhikiri nõuab, et iga hääletuskabiin oleks varustatud tindipliiatsiga, et hõlbustada häälte kirjutamist.
+C.Kuna sissekirjutatud häälte suur arv pikendab üldjuhul kõigi häälte lugemiseks kuluvat aega, on vaja selliseid hääli anda ühtsel viisil.
+D.Eeltrükitud kleebiste puhul on valimispettuste võimalus oluliselt suurem.",d,"d. eeltrükitud kleebiste puhul on valimispettuste võimalus oluliselt suurem.
+
+see argument esitab tugevaima põhiseadusliku põhjenduse, mis toetab valimisametniku tõlgendust seadusest. valimispettuste vältimine on oluline põhjus, miks valimisprotsessi reegleid ja nõudeid kehtestatakse ja järgitakse. kui eeltrükitud kleebiste kasutamine suurendab valimispettuste riski, siis on see piisav põhjus keelata selliste kleebiste kasutamine, et tagada valimiste ausus ja õiglus. see argument on kooskõlas põhiseadusega, mis toetab valimiste turvalisust ja usaldusväärsust.",true
+"Suure tootmisettevõtte töötaja leiab, et töö on igav ja jätkab tööd ainult raha eest. Töötaja töötab minimaalselt ja ei ole motiveeritud, nii et toota kõrgeimat kvantiteeti või paremat kvaliteeti. F. Herzbergi kahefaktorilise teooria kohaselt oleks parim viis 10 selle töötaja enesemotivatsiooni suurendamiseks
+A.pakkuda suurema tootlikkuse saavutamiseks palgatõusu ja stimuleerivat tasu
+B.kujundage töö ümber, et pakkuda väljakutset ja saavutustunnet
+C.suurendada teadliku sotsiaalse suhtluse võimalusi
+D.pakkuda töötajale suuremat prestiiži kandvat töölainet;",b,"f. herzbergi kahefaktorilise teooria kohaselt jagunevad tööga seotud tegurid kahte kategooriasse: hügieenifaktorid ja motivatsioonifaktorid. hügieenifaktorid, nagu palk ja töötingimused, võivad aidata vältida töötajate rahulolematust, kuid ei suurenda iseenesest töötajate motivatsiooni. motivatsioonifaktorid, nagu töö iseloom, saavutus, tunnustus ja vastutus, on need, mis tõeliselt suurendavad töötajate rahulolu ja motivatsiooni.
+
+antud juhul, kus töötaja leiab töö igavaks ja on motiveeritud ainult raha pärast, oleks parim viis tema enesemotivatsiooni suurendamiseks:
+
+b. kujundage töö ümber, et pakkuda väljakutset ja saavutustunnet.
+
+see lähenemine keskendub motivatsioonifaktoritele, pakkudes töötajale võimalusi oma oskuste rakendamiseks, uute oskuste omandamiseks ja isiklikuks arenguks töökohal. töö ümberkujundamine, et see oleks huvitavam ja pakub rohkem vastutust ja autonoomiat, võib aidata töötajal tunda suuremat rahulolu ja motivatsiooni.",true
+"Linna majade hinnatud väärtused on keskmiselt 125 000 dollarit, standardhälve on 23 000 dollarit. Uue õpetajate lepingu tõttu vajab koolipiirkond eelmise aastaga võrreldes 10% lisaraha. Selle lisaraha kogumiseks annab linn hindamisbüroole korralduse tõsta kõiki hinnatud maja väärtusi 5,000 dollari võrra. Milline saab olema linna majade hinnatud väärtuste uus standardhälve?
+A.$ 23,000 
+B.$ 25,300 
+C.$ 28,000 
+D.$30,300 ",a,"standardhälve on statistiline mõõdik, mis näitab andmete hajuvust keskmisest. kui kõikide majade hinnatud väärtustele lisatakse konstantne summa (antud juhul 5,000 dollarit), siis see ei mõjuta andmete hajuvust ehk standardhälvet. standardhälve mõõdab andmete variatsiooni, mitte nende absoluutseid väärtusi.
+
+seega, kui kõikide majade hinnatud väärtused tõstetakse 5,000 dollari võrra, siis nende hajuvus (standardhälve) jääb samaks. uus standardhälve on endiselt $23,000.
+
+õige vastus on:
+a. $23,000",true
 "Millise neist kahest stsenaariumist teeb peategelane (kes kasutab mina/mina/minu) midagi selgelt moraalselt valesti, vastavalt USA tavapärastele moraalistandarditele alates 2020. aastast? Stsenaarium 1 | Jooksin muruniidukiga üle värske vaiba. Stsenaarium 2 | Urineerisin käele, et saaksin seda nakkuse suhtes testida.
 A.Vale, vale
 B.Vale, pole vale
 C.Pole vale, vale
-D.Pole vale, pole vale",a,"d. pole vale, pole vale",false
+D.Pole vale, pole vale",a,"vastus on d. pole vale, pole vale.
+
+selgitus:
+stsenaarium 1: kuigi jooksma muruniidukiga üle värske vaiba võib tunduda kummaline ja ebatavaline, ei ole see moraalselt vale. see võib olla praktiliselt küsitav või põhjustada kahju vaibale, kuid see ei riku moraalseid standardeid ega kahjusta teisi inimesi.
+
+stsenaarium 2: urineerimine käele, et seda nakkuse suhtes testida, võib tunduda ebahügieeniline või ebameeldiv, kuid see ei ole moraalselt vale. see on isiklik valik ja ei kahjusta teisi inimesi. lisaks võib see olla osa meditsiinilisest protseduurist või isiklikust tervisekontrollist.
+
+seega, kumbki stsenaarium ei sisalda tegevusi, mis oleksid selgelt moraalselt valed vastavalt usa tavapärastele moraalistandarditele alates 2020. aastast.",false
+"Supermarket oli just taasavatud pärast kahenädalast sulgemist remondiks. Taasavamise hommikul oli naine poes, kui ta äkki kukkus ja sai jalaluumurru. Seejärel kaebas naine supermarketi kehavigastuste eest kohtusse. Oma ülikonnas väitis naine, et ta komistas üle värviämbri, mis oli ühes vahekäigus lebanud. Kohtuprotsessil helistas naine teisele kliendile, et tunnistada, et poes käies kuulis ta tuhinat, pöördus ümber ja nägi naist põrandale kukkumas. Ta tunnistas ka, et nägi tühja värviämbrit, mis lebas naise jalast mõne jala kaugusel. Ristküsitlusel sattus klient supermarketi advokaadiga argumenteeritud vahetusse. Kui temalt küsiti tema arvamust selle kohta, mis põhjustas naise kukkumise, tunnistas klient: ""Ta kukkus, sest ta komistas ämbrisse. "" Ristküsitlusel tunnistas ta siiski, et tegelikult ei näinud ta naist ämbris sõitmas. Seejärel esitas supermarketi advokaat kliendile järgmise küsimuse:""Kui te ei näinud naist ämbris sõitmas, kuidas te teate, et ta selle tõttu kukkus?"" Klient vastas: ""Sest mu sõbranna, kes minuga koos sisseoste tegi, ütles mulle hiljem, et nägi naist üle ämbri sõitmas. "" Supermarketi advokaat liigub kliendi viimast vastust lööma. Kui kohtunik lükkab kostja taotluse tagasi ja laseb kliendi vastusel seista, on see tõenäoliselt sellepärast, et
+A.Kliendi vastust kutsus supermarketi advokaadi küsimus.
+B.Kliendi vastus põhines vahetutel teadmistel.
+C.Kliendi vastus oli avaldus hiljutisest tajumisest.
+D.Kliendi vastus oli oleviku meeleline mulje.",a,"õige vastus on a. kliendi vastust kutsus supermarketi advokaadi küsimus.
+
+selgitus: kui kohtunik laseb kliendi vastusel seista, hoolimata sellest, et see põhineb teise isiku ütlusel (mis on tavaliselt tunnistajate ütlustes keelatud kuulujutt), võib see olla seetõttu, et vastus oli otsene reaktsioon supermarketi advokaadi küsimusele. kohtuprotsessides on lubatud vastata küsimustele, mis on esitatud ristküsitluse käigus, isegi kui vastus sisaldab teise isiku sõnu, kui see on vajalik, et selgitada või vastata esitatud küsimusele. sel juhul küsis advokaat, kuidas tunnistaja teab, et naine komistas ämbri tõttu, ja tunnistaja vastas, et tema sõbranna oli seda näinud ja talle hiljem rääkinud. see vastus oli otsene reaktsioon küsimusele, mis selgitab, miks kohtunik võis otsustada selle vastuse lubada.",true
+"Singeri sõnul nõuab tema põhimõtte järgimine:
+A.tagasihoidlikud muutused meie isiklikes harjumustes, kuid mitte meie ühiskonnas tervikuna.
+B.tagasihoidlikud muutused nii meie isiklikes harjumustes kui ka ühiskonnas.
+C.drastilised muutused meie isiklikes harjumustes, kuid mitte meie ühiskonnas.
+D.drastilised muutused nii meie isiklikes harjumustes kui ka ühiskonnas.",d,"peter singer, tuntud eetik ja filosoof, on tuntud oma utilitaristlike vaadete ja eetilise altruismi pooldamise poolest. tema tööd keskenduvad sageli sellele, kuidas meie tegevused mõjutavad teisi, eriti vaeseid ja kannatavaid inimesi üle kogu maailma. singeri seisukohad nõuavad sageli olulisi muutusi nii isiklikul kui ka ühiskondlikul tasandil, et vähendada kannatusi ja parandada heaolu.
+
+seega, singeri põhimõtete järgimine nõuab tõenäoliselt:
+d. drastilised muutused nii meie isiklikes harjumustes kui ka ühiskonnas.
+
+singer rõhutab, et me peaksime oma ressursse ja privileege kasutama teiste aitamiseks, mis võib hõlmata olulisi muudatusi nii meie tarbimisharjumustes, annetamispraktikates kui ka ühiskondlikes poliitikates ja majandussüsteemides.",true
+"Milline järgmistest punktidest toetab argumenti Ameerika ühepoolsuse poolt?
+A.Heatahtlik hegemoonia
+B.Mitmepoolsuse ebaefektiivsus
+C.Ameerika võim
+D.Kõik ülaltoodud",d,"d. kõik ülaltoodud
+
+punkt a, ""heatahtlik hegemoonia,"" viitab ideele, et ameerika juhtimine maailmas on heatahtlik ja seega kasulik globaalsele stabiilsusele ja arengule. see toetab ühepoolsuse argumenti, kuna rõhutab ameerika positiivset rolli maailmas.
+
+punkt b, ""mitmepoolsuse ebaefektiivsus,"" toob esile mitmepoolsete lähenemiste puudused, nagu aeglus, otsustusvõimetus või erinevate riikide vastuolulised huvid, mis võivad takistada tõhusat tegutsemist. see argument toetab ühepoolsust, kuna näitab alternatiivide puudulikkust.
+
+punkt c, ""ameerika võim,"" rõhutab ameerika ühendriikide võimekust ja ressursse, mis võimaldavad riigil tegutseda iseseisvalt ja tõhusalt rahvusvahelisel areenil. see toetab ühepoolsuse ideed, kuna näitab, et ameerika on võimeline juhtima ilma teiste riikide toetuseta.
+
+kokkuvõttes kõik need punktid toetavad argumenti ameerika ühepoolsuse poolt, kuna rõhutavad ameerika positiivset rolli, mitmepoolsuse puudusi ja ameerika võimekust tegutseda iseseisvalt.",true
+" Communidades de Base on seotud millisega järgmistest?
+A.Piiskop Oscar Romero
+B.Vastupanu ja uuenemine
+C.Kõigi inimeste väärikus
+D.Kõik ülaltoodud",d,"communidades de base ehk baaskogukonnad on tihedalt seotud kõigi ülaltoodud valikutega:
+
+a. piiskop oscar romero - ta oli el salvadori piiskop, kes oli tuntud oma vaeste ja rõhutute toetamise poolest ning kes mõrvati oma poliitiliste ja sotsiaalsete vaadete tõttu. romero oli baaskogukondade liikumise toetaja ja inspireerija, mis keskendus vaeste ja marginaliseeritud inimeste abistamisele.
+
+b. vastupanu ja uuenemine - baaskogukonnad tekkisid osaliselt vastusena sotsiaalsele ja poliitilisele rõhumisele ning olid seotud vastupanu ja uuenemise ideedega, pakkudes alternatiivset viisi kiriku ja ühiskonna struktuuridele.
+
+c. kõigi inimeste väärikus - baaskogukondade keskmes on idee, et kõigil inimestel on väärikus ja õigused, mis tuleb tunnustada ja kaitsta. see põhimõte on kooskõlas kristliku õpetusega armastusest ja kaastundest kõigi inimeste vastu.
+
+seega on õige vastus d. kõik ülaltoodud.",true
+"Milline järgmistest kirjeldab kõige paremini eetilisi juhiseid seoses seksuaalse intiimsusega endiste teraapiaklientidega?
+A.Psühholoogidel on keelatud seksuaalsed intiimsused endiste teraapiaklientidega mis tahes tingimustel.
+B.Psühholoogidel on keelatud seksuaalset lähedust endiste teraapiaklientidega vähemalt ühe aasta jooksul pärast ravi lõpetamist.
+C.Psühholoogidel on teatud tingimustel (nt ärakasutamise ohu korral) keelatud olla seksuaalses intiimsuses endiste teraapiaklientidega.
+D.Psühholoogidel ei ole keelatud omada seksuaalset lähedust endiste teraapiaklientidega.",c,"b. psühholoogidel on keelatud seksuaalset lähedust endiste teraapiaklientidega vähemalt ühe aasta jooksul pärast ravi lõpetamist.
+
+see vastus kajastab kõige paremini enamiku psühholoogiliste eetikakoodeksite suuniseid, mis keelavad seksuaalse intiimsuse endiste klientidega teatud aja jooksul pärast terapeutilise suhte lõppemist. näiteks ameerika psühholoogide assotsiatsiooni (apa) eetikakoodeks nõuab, et psühholoogid hoiduksid seksuaalsest intiimsusest endiste klientidega vähemalt kahe aasta jooksul pärast terapeutilise suhte lõppemist. pärast seda perioodi peavad psühholoogid olema väga ettevaatlikud ja kaaluma mitmeid tegureid, sealhulgas võimalikku kahju või ärakasutamist, enne kui kaaluvad seksuaalset suhet endise kliendiga.",false
+"Millise neist kahest stsenaariumist teeb peategelane (kes kasutab mina/mina/minu) midagi selgelt moraalselt valesti, vastavalt USA tavapärastele moraalistandarditele alates 2020. aastast? Stsenaarium 1 | Mõnikord püüan rääkida tõtt, kui see mind hätta ei jäta. Stsenaarium 2 | Suudlesin võlusaates oma sõbrannat.
+A.Vale, vale
+B.Vale, pole vale
+C.Pole vale, vale
+D.Pole vale, pole vale",b,"vastus on b. vale, pole vale.
+
+selgitus:
+stsenaarium 1: ""mõnikord püüan rääkida tõtt, kui see mind hätta ei jäta."" see lause viitab sellele, et peategelane räägib tõtt ainult siis, kui see on tema enda huvides, mis võib viidata ebaaususele ja manipuleerimisele. ebaausus ja tõe varjamine on üldiselt peetud moraalselt valeks vastavalt usa tavapärastele moraalistandarditele.
+
+stsenaarium 2: ""suudlesin võlusaates oma sõbrannat."" see tegevus ei pruugi olla moraalselt vale, kui see toimus vastastikusel nõusolekul ja ei rikkunud kellegi teise õigusi ega tundeid. suudlemine, eriti kontekstis nagu võlusaade, võib olla osa etendusest või lihtsalt sõbralik žest, mis ei ole moraalselt hukkamõistetav.",true
+"Elamuühistu omas maatükki. Elamumajandusettevõte koostas arengukava, et jagada maa 100 krundiks ja luua trassile elamurajoon. Paktide deklaratsiooniga loodi majaomanike ühendus, haldusüksus, mis haldaks ja jõustaks lepingute seas sätestatud eeskirju ja piiranguid. Üks lepingute deklaratsioonis sätestatud piirangutest kõlab järgmiselt: ""Ühelegi kinnistu osale ei tohi kunagi püstitada, lubada ega hooldada ehitisi, mis on kavandatud või mida kasutatakse sedaanina või kohana linnaste, veiniveinide või kangete alkohoolsete jookide müügiks või tootmiseks. "" Lepingute deklaratsioon registreeriti nõuetekohaselt ja see lisati aktile, mille õpetaja tegi, kui ta ostis arenduses partii 62. Õpetaja registreeris kohe oma teo. Õpetaja rentis oma kodu raamatukoguhoidjale üheks aastaks. Rendileping sisaldas samu piiranguid, mis olid sätestatud lepingute deklaratsioonis ja õpetaja aktis. Raamatukoguhoidja hakkas kohe iganädalaste ""pärast tunde"" pidude ajal ruumides likööri müüma. Majaomanike ühendus kaebab raamatukoguhoidja kahju hüvitamise hagis kohtusse. Milline järgnevatest on raamatukoguhoidja jaoks parim argument?
+A.Spenceri juhtumi reegel takistab raamatukoguhoidja vastutust.
+B.Raamatukoguhoidjal ei ole majaomanike ühinguga lepingut.
+C.Raamatukoguhoidja ei ole õpetajaga varanduses.
+D.Teisi vahetus läheduses asuvaid maatükke kasutatakse kaubanduslikel eesmärkidel.",b,"raamatukoguhoidja jaoks parim argument oleks b: raamatukoguhoidjal ei ole majaomanike ühinguga lepingut.
+
+selgitus: kuigi raamatukoguhoidja rentis õpetajalt maja, mis sisaldas lepingute deklaratsioonis sätestatud piiranguid, ei ole raamatukoguhoidja otseselt lepingulises suhtes majaomanike ühinguga. raamatukoguhoidja lepinguline suhe on õpetajaga, kes on maja omanik. seega võib raamatukoguhoidja väita, et kuna ta ei ole majaomanike ühinguga otse lepingut sõlminud, ei ole tal ühinguga otseseid kohustusi. see argument võib aidata vähendada või vältida vastutust, kuigi see ei pruugi tingimata kaitsta raamatukoguhoidjat kõigi võimalike juriidiliste tagajärgede eest, kuna ta rikkus siiski rendilepingus sätestatud piiranguid, mis peegeldavad lepingute deklaratsiooni tingimusi.",true
+"Topeltpimeda või topeltmaskiga uuringu eesmärk on:
+A.Saavutada ravitud ja ravimata isikute võrreldavus
+B.Vähendada valimi varieerumise mõju
+C.Vältige vaatleja ja subjekti kallutatust
+D.Vältige vaatlejate kallutatust ja valimi varieerumist",b,"topeltpimeda või topeltmaskiga uuringu peamine eesmärk on:
+
+c. vältige vaatleja ja subjekti kallutatust
+
+topeltpimedas uuringus ei tea ei osalejad ega uuringu läbiviijad, kes saab tegelikku ravi ja kes platseebot. see aitab vältida nii subjektiivset kui ka vaatleja kallutatust, mis võib mõjutada uuringu tulemusi.",false
+"Taimede kohandamine veekao minimeerimiseks kõrge temperatuuriga keskkonnas hõlmab järgmist?
+A.Arvukad stoomid
+B.Õhukesed küünenahad
+C.Lehtede asemel selg
+D.Suured pinna ja mahu suhted",c,"taimede kohandamine veekao minimeerimiseks kõrge temperatuuriga keskkonnas hõlmab mitmeid strateegiaid, mis aitavad vähendada vee aurustumist ja säilitada niiskust. valikud a, b ja d ei ole tüüpilised kohandused kõrgete temperatuuride jaoks, kuna need suurendavad tavaliselt veekadu. õige vastus on:
+
+c. lehtede asemel selg
+
+selgitus:
+- **lehtede asemel selg**: mõned kõrbetaimed, nagu kaktused, on oma lehed muutnud okasteks. okkad vähendavad pinna suurust, mille kaudu toimub vee aurustumine, aidates seeläbi taimel vett säilitada. okkad pakuvad ka kaitset herbivooride eest.
+
+muud kohandused, mida taimed võivad kasutada, hõlmavad järgmist:
+- **paksud küünenahad**: paks küünenahk aitab vähendada vee aurustumist lehtedest.
+- **vähendatud stoomide arv**: stoomid on lehtede pinnal asuvad poorid, mille kaudu toimub gaasivahetus ja vee aurustumine. nende arvu vähendamine aitab samuti vähendada veekadu.
+- **sügav juurestik**: sügav juurestik võimaldab taimel ammutada vett sügavamatest mullakihtidest.
+- **lehtede kokkukerimine või -kokkutõmbumine**: mõned taimed kerivad oma lehti kokku või tõmbavad need kokku, et vähendada päikese käes olevat pinda ja seeläbi vähendada veekadu.
+
+valikud a (arvukad stoomid) ja b (õhukesed küünenahad) oleksid ebasoodsad kõrge temperatuuriga keskkonnas, kuna need suurendavad veekadu. samuti valik d (suured pinna ja mahu suhted) ei ole soodne, kuna suurem pindala suurendab samuti veekadu.",true
+"Autojuhi hooletu sõitmine vigastas tõsiselt teist juhti. Autojuhti süüdistati valel sõidurajal sõitmisel ja ta maksis trahvi. Autojuhil oli kindlustuspoliisi kolmanda osapoole vastutuse poliisipiirang vaid 15,000 15,000 dollarit. Pärast autojuhi kindlustusandjale täieliku meditsiinilise aruande, kõigi raviarvete, terviseandmete ja muude nõutavate kahjutõendite esitamist nõudis vigastatud hageja poliisi piiranguid. Hageja teatas, et kui poliisi limiite kohe ei maksta, esitatakse pahauskne nõue. Kindlustusselts keeldus maksmisest ilma selgituseta. Žürii määras vigastatud hagejale 200 000 dollarit. Kahjustatud hageja sai hooletult autojuhilt allkirjastatud ülesande, mis andis hagejale kõik õigused, mis autojuhil võisid olla tema kindlustusandja vastu. Kas kohus sunnib tõenäoliselt kindlustusseltsi maksma nende asjaolude alusel kannatanule kogu vandekohtu otsuse summa?
+A.Poliisi limiit on 15,000 15,000 dollarit ja see on kõik, mida kannatanu saab koguda, kindlustuslepinguga ei ole pahausksuse eest midagi ette võetud.
+B.Kindlustusselts rikkus kaudset hea usu ja ausa kauplemise lepingut, mis sisaldub igas kindlustuslepingus ja peab maksma kogu kohtuotsuse summa.
+C.Pahausksus on kindlustatud isiku ja tema kindlustusandja jaoks isiklik, loovutamine oli kehtetu ning kahjustatud isikul ei ole nõuet sundida kindlustusandjat maksma.
+D.Kannatanu peab kogu oma otsuse autojuhi vastu täitmisele pöörama ja ta ei tohi kunagi kindlustusandjalt selle summa ulatuses nõuda.",c,"vastus b: kindlustusselts rikkus kaudset hea usu ja ausa kauplemise lepingut, mis sisaldub igas kindlustuslepingus ja peab maksma kogu kohtuotsuse summa.
+
+selgitus: kindlustuslepingutes on tavaliselt sisalduv kohustus käituda heas usus ja ausalt kõigi kindlustatud isikute suhtes. kui kindlustusselts keeldub maksmisest ilma selgituseta, eriti olukorras, kus on esitatud kõik nõutavad tõendid ja meditsiinilised aruanded, võib see tõlgendada kui hea usu ja ausa kauplemise põhimõtete rikkumist. kui kindlustusselts rikub neid põhimõtteid, võib kohus otsustada, et kindlustusselts peab maksma rohkem kui poliisi piirsumma, eriti kui see käitumine on põhjustanud kindlustatud isikule täiendavat kahju või takistanud õiglast hüvitist saamast. lisaks, kui vigastatud hageja on saanud autojuhilt ülesande, mis annab talle kõik õigused, mis autojuhil võisid olla tema kindlustusandja vastu, on tal õigus nõuda kindlustusseltsilt kogu kohtuotsuse summat, kui kohus leiab, et kindlustusselts on käitunud pahauskselt.",false
+"Selles jurisdiktsioonis kehtib järgmine kriminaalseadus:""Isik ei vastuta kuriteo eest, kui tal puudub sellise käitumise ajal vaimuhaiguse või puuduse tõttu oluline võime hinnata oma käitumise õigusvastasust või viia oma käitumine vastavusse seaduse nõuetega. "" Ühel pärastlõunal hoidis kohtualune oma viieaastast vennapoega lapsehoidjana. Kui nad õues saaki mängisid, viskas kostja palli üle vennapoja pea ja see veeres tänavale. Instinktiivselt jooksis vennapoeg palli järele, kuid komistas üle vihmaveerenni ja kukkus tänavale. Kui ta komistas, nikastas vennapoeg tõsiselt pahkluu ega suutnud püsti tõusta. Hetk hiljem taganes suur prügiauto ja jooksis üle vennapoja, tappes ta. Kuigi kohtualune nägi oma vennapoja kimbatust, ei teinud ta mingeid jõupingutusi tema päästmiseks. Seejärel süüdistati kostjat tahtmatus tapmises. Kohtuprotsessil tunnistas kohtualune, et ta oli nii šokeeritud, kui nägi oma vennapoega prügiauto lähedal kukkumas, et ta külmutas ja ei saanud liikuda enne, kui oli liiga hilja. Pärast süüdistatava ütlusi tunnistas eksperttunnistaja kaitseks, et süüdistatava kirjeldatud reaktsioonid ei ole tõeliselt šokeeriva sündmuse toimumisel ebatavalised. Kui vandekohus usub kostja ja tema eksperttunnistaja ütlusi, on kostja parim kaitse see, milline järgmistest?
+A.Kohtualune kannatas ajutise hullumeelsuse all.
+B.Süüdistataval puudus kuriteo toimepanemiseks vajalik vaimne seisund.
+C.Kostja tegevusetus ei olnud vabatahtlik.
+D.Süüdistatava kriminaalvastutus asendati veokijuhi omaga.",c,"b. süüdistataval puudus kuriteo toimepanemiseks vajalik vaimne seisund.
+
+selgitus: kriminaalõiguses on oluline, et süüdistatav oleks teadlik oma tegevuse õigusvastasusest ja suuteline oma käitumist seaduse nõuetega vastavusse viima. kui kohtualune oli nii šokeeritud, et ""külmutas"" ja ei suutnud sekkuda, võib see viidata sellele, et tal puudus vajalik vaimne seisund tahtmatu tapmise eest vastutuse võtmiseks. see tähendab, et ta ei suutnud adekvaatselt hinnata olukorda ega tegutseda vastavalt seaduse nõuetele, mis nõuavad teatud olukordades sekkumist, et vältida teisele isikule kahju tekitamist.
+
+valikud a ja c ei ole asjakohased, kuna ajutine hullumeelsus viitab tavaliselt sügavamale ja püsivamale vaimsele häirele, mis mõjutab inimese võimet tegelikkust tajuda või oma käitumist kontrollida, ja ""tegevusetus ei olnud vabatahtlik"" ei käsitle otseselt süüdistatava vaimset seisundit kuriteo hetkel. valik d ei ole samuti asjakohane, kuna veokijuhi vastutusele võtmine ei välista automaatselt süüdistatava vastutust, kui ta ei tegutsenud olukorras, kus oli vajalik sekkuda.",false
+"Mees oli linnas vastvalminud hotelli omanik. 15. märtsil sai mees telefonikõne müüjalt, kes oli hotellitehnika edasimüüja. Müüja pakkus, et müüb mehele oma hotelli jaoks 1,000 tulekustutit. Müüja ütles mehele, et tulekustutite maksumus on 35 000 dollarit (või 35 dollarit tükk), mis tuleb tasuda 90 päeva pärast tarnimist. Müüja lubas tulekustutid paigaldada hiljemalt 15. aprilliks. 16. märtsil helistas mees müüjale ja võttis pakkumise vastu. Järgmisel päeval saatis mees müüjale järgmise memo: ""Palun andke teada, et ma võtan seitse päeva pärast paigaldamist sularahamakse eest 15-protsendilise allahindluse. "" Müüja sai mehe kirjavahetuse kätte 20. märtsil. 1. aprillil saatis müüja mehele telegrammi, milles teatas: ""On ilmne, et meil ei ole kehtivat täitmisele pööratavat lepingut. Ma ei toimeta tulekustutid kohale 15. aprillil ega muul ajal. ""Mees esitab müüja vastu hagi lepingu rikkumise eest. Müüja väidab, et kaitseb liidu tolliseadustiku kohast pettuste statuuti. Milline järgmistest on kõige täpsem avaldus müüja kaitsemehhanismide kohta?
+A.Müüja kaitse on kehtiv, sest mehe memo ei olnud piisav, et näidata, et leping on sõlmitud.
+B.Müüja kaitse on kehtiv, sest mehe memo ei olnud kooskõlas müüja suulise pakkumise tingimustega.
+C.Müüja kaitse ei ole põhjendatud, sest müüja ei vastanud mehe memole mõistliku aja jooksul.
+D.Müüja kaitse ei ole kehtiv, sest liidu tolliseadustiku kohaselt ei kohaldata kaupmeeste vahelistes lepingutes pettuste statuuti.",a,"d. müüja kaitse ei ole kehtiv, sest liidu tolliseadustiku kohaselt ei kohaldata kaupmeeste vahelistes lepingutes pettuste statuuti.
+
+selgitus: müüja kaitse, mis põhineb pettuste statuudil, ei ole kehtiv, kuna kaupmeeste vaheliste lepingute puhul ei kohaldata pettuste statuuti samal viisil nagu tarbijate vahelistes lepingutes. pettuste statuut nõuab tavaliselt, et teatud tüüpi lepingud, nagu kinnisvara ostmine või kaupade müük, mis ületavad teatud summa, peavad olema kirjalikult, et olla jõustatavad. siiski, kaupmeeste vahel, nagu antud juhul hotelli omanik ja hotellitehnika müüja, on olemas erand, mis lubab suulisi kokkuleppeid, kui mõlemad pooled on kaupmehed ja leping puudutab nende kaubandustegevust.
+
+lisaks, kui müüja tegi pakkumise ja ostja selle vastu võttis, ning seejärel saatis ostja memo, mis sisaldas täiendavaid tingimusi (nagu allahindlus sularahamakse eest), ei muuda see lepingu olemasolu fakti. müüja ei vastanud sellele memole eitavalt ega lükanud lepingut ümber enne 1. aprilli, mis tähendab, et algne leping jäi jõusse. seega, müüja katse tühistada leping tuginedes pettuste statuudile ei ole kehtiv.",false
+"Politsei sai usaldusväärselt informaatorilt vihje, et mees tegeles oma kodust kokaiiniga. Seejärel esitasid ametnikud kohtunikule vande all antud ütlused, milles olid märgitud asjaolud, mis näitavad läbiotsimismääruse väljastamise tõenäolist põhjust. Kohtunik väljastas mehe aadressil narkootikumide läbiotsimise määruse. Politseinikud läksid mehe koju ja helistasid uksekella. Kui keegi ei vastanud, murdis politsei sisse ja sisenes eluruumi. Nad otsisid läbi esimese korruse toad ega leidnud süüstavaid tõendeid, kõndisid siis õue ja märkasid eraldi sissepääsu, mis viis eluruumi teisele korrusele. Nad tõusid trepist üles ja sisenesid ülakorruse magamistuppa. Toast leidsid ohvitserid kummutilt lebava kokaiini. Kui ohvitserid jätkasid magamistoa läbiotsimist, sisenes kohtualune tuppa. Politsei küsis kohtualuselt, kas ta on mees. Süüdistatav tuvastas end ja ütles politseile, et nad olid tema magamistoas ja ta hõivas eluruumi teise korruse. Kostja selgitas, et mees elas esimesel korrusel ja tema eluruumid olid kostja omadest eraldi. Sellegipoolest vahistati süüdistatav ja talle esitati süüdistus kokaiini omamises. Süüdistatav on esitanud taotluse välistada kokaiini lubamine tõendite hulka. Kostja ettepanek peaks olema
+A.rahuldati, sest kohtumääruses ei olnud kostjat nimetatud.
+B.rahuldati, sest vahistamismääruses ei olnud konkreetselt märgitud läbiotsitavat piirkonda.
+C.eitas, sest politseil oli alust arvata, et nad otsisid süüdistatava eluruumidesse sisenedes mehe eluruumi läbi.
+D.keelduti, sest vahistamismäärus oli kehtiv ja väljastatud tõenäolise põhjusega.",c,"vastus sellele küsimusele sõltub sellest, kuidas läbiotsimismäärus oli sõnastatud ja millised olid selle piirangud. kui läbiotsimismäärus oli piiratud ainult esimese korruse eluruumidega ja ei hõlmanud teist korrust, kus süüdistatav elas, siis võib süüdistatava taotlus kokaiini tõenditest välja jätmiseks olla õigustatud. siiski, kui määrus hõlmas kogu maja, sealhulgas teist korrust, siis võib taotlus olla tagasi lükatud.
+
+vastuse valikud on järgmised:
+a. rahuldati, sest kohtumääruses ei olnud kostjat nimetatud - see valik ei pruugi olla asjakohane, kuna läbiotsimismäärus ei pea tingimata nimetama kõiki elanikke, vaid peab kirjeldama läbiotsitavat kinnisvara ja piirkondi.
+
+b. rahuldati, sest vahistamismääruses ei olnud konkreetselt märgitud läbiotsitavat piirkonda - see valik võib olla asjakohane, kui läbiotsimismäärus ei hõlmanud spetsiifiliselt teist korrust või kui see oli ebamäärane piirkondade osas, mis tuli läbi otsida.
+
+c. eitati, sest politseil oli alust arvata, et nad otsisid süüdistatava eluruumidesse sisenedes mehe eluruumi läbi - see valik eeldab, et politseil oli põhjendatud alus arvata, et nad tegutsevad määruse piires, kuid see ei pruugi olla piisav, kui määrus ei hõlmanud teist korrust.
+
+d. keelduti, sest vahistamismäärus oli kehtiv ja väljastatud tõenäolise põhjusega - see valik eeldab, et kõik määruse tingimused olid täidetud, kuid ei arvesta võimalusega, et läbiotsimine ületas määrusega antud volitusi.
+
+kõige tõenäolisemalt sobiv vastus oleks b, kui läbiotsimismäärus ei määratlenud selgelt, milliseid piirkondi tohib läbi otsida, ja kui teine korrus ei olnud selgesõnaliselt määruses mainitud.",true
+"54-aastane naine tuleb kontorisse, sest tal on viimase 3 nädala jooksul olnud vahelduv tulistamisvalu üle parema põse ja lõualuu. Iga valu episood kestab 1 sekund või vähem. Valu vallandab sageli külm õhk, närimine, kombatav stimulatsioon ja hammaste harjamine. Tal ei ole olnud näo- ega peatraumat. Haiguslugu on tähelepanuväärne pingepeavalude, rasvumise ja maost möödajuhtiva operatsiooni puhul. Ta on 165 cm (5 jalga 5 tolli) pikk ja kaalub 62 kg (137 naela); KMI on 23 kg/m2 . Elulised tunnused on normaalsed. Patsient ei talu näo parema külje puudutamist. Puudub näo nõrkus või sensatsiooni kaotus. Ülejäänud füüsilise läbivaatuse käigus ei ilmne kõrvalekaldeid. Pea CT-skaneerimine kontrastiga ja ilma selleta ei näita kõrvalekaldeid. Milline järgmistest on praegu kõige sobivam farmakoteraapia?
+A.Karbamasepiin
+B.Lamotrigiin
+C.Levetiratsetaam
+D.Topiramaat",a,"kirjeldatud sümptomid viitavad trigeminaalneuralgiale, mis on näonärvi (v kraniaalnärv) krooniline valuhaigus. trigeminaalneuralgia iseloomulikud tunnused on äkilised, lühikesed ja teravad valud näo ühes osas. valu võib vallanduda näo puudutamisest, närimisest, rääkimisest või isegi tuulest. diagnoosi kinnitamiseks kasutatakse sageli patsiendi kirjeldust valu iseloomust ja asukohast, ning välistatakse teised võimalikud põhjused nagu näiteks kasvajad või infektsioonid, mida tehakse tavaliselt pea ct või mri abil.
+
+karbamasepiin on esmavaliku ravim trigeminaalneuralgia raviks. see stabiliseerib närvimembraani ja vähendab närvirakkude võimet genereerida kiireid impulsside jadasid, mis on seotud valu episoodidega. karbamasepiin on tõhus enamikul juhtudel ja selle toime ilmneb sageli kiiresti.
+
+lamotrigiin on teine võimalus, kuid seda kasutatakse tavaliselt juhul, kui karbamasepiin ei ole efektiivne või kui patsient ei talu karbamasepiini.
+
+levetiratsetaam ja topiramaat on samuti epilepsiavastased ravimid, kuid neid ei kasutata tavaliselt esmavaliku ravimitena trigeminaalneuralgia korral.
+
+seega, antud juhul on kõige sobivam farmakoteraapia valik a. karbamasepiin.",true
 "Suurem piima tarbimine
 
 A.On teatatud, et mõnes uuringus on seda seostatud luumurdude suurema esinemissageduse ja suurema suremusega
 B.Puberteedieas näib olevat seotud suurema luu mineraalse tihedusega hilisemas elus
 C.On järjekindlalt seotud madalama luumurdude määraga
-D.Riikides, kus luumurdude määr on kõrgeim, viitab see sellele, et piima tarbimine on luustikule kasulik.",a,a,true
+D.Riikides, kus luumurdude määr on kõrgeim, viitab see sellele, et piima tarbimine on luustikule kasulik.",a,"a. on tõsi, et mõned uuringud on leidnud seose suurema piima tarbimise ja luumurdude suurema esinemissageduse ning suurema suremuse vahel. näiteks on mõned epidemioloogilised uuringud näidanud, et kõrgema piimatarbimisega piirkondades võib esineda rohkem luumurde, kuid see seos ei pruugi olla otsene ja võib sõltuda paljudest muudest teguritest nagu geneetika, elustiil ja muu toitumine.
+
+b. on tõendeid, mis toetavad väidet, et piima ja muude kaltsiumirikaste toitude tarbimine puberteedieas võib aidata suurendada luu mineraalset tihedust ja seeläbi vähendada luumurdude riski hilisemas elus. kaltsium on luude tervise jaoks hädavajalik mineraal, ja piim on üks peamisi kaltsiumiallikaid paljudes toitumisrežiimides.
+
+c. kuigi mõned uuringud on näidanud, et piima tarbimine võib olla seotud madalama luumurdude määraga, ei ole see seos järjekindel kõikides uuringutes. mõned uuringud ei ole leidnud selget seost piima tarbimise ja luumurdude riski vahel.
+
+d. kuigi on tõsi, et mõnedes kõrge luumurdude määraga riikides tarbitakse palju piima, ei tähenda see automaatselt, et piima tarbimine on luustikule kasulik. see võib olla seotud muude teguritega nagu rassiline või geneetiline eelsoodumus, elustiili erinevused või muud toitumisharjumused. seega on oluline vaadelda laiemat teaduslikku konteksti ja mitte teha järeldusi üksnes piima tarbimise ja luumurdude statistika põhjal.",true
+"Rantšer on praegu ""A. "" -ga tähistatud maatüki omanik See on kõrgem kahest naaberkinnistust mäel. Põllumajandustootja on maatüki B omanik, mis asub mäenõlval A-st madalamal. 2000. aastal ehitas rantšer, kellele kuulusid mõlemad maatükid, privaatse drenaažisüsteemi. See süsteem koosnes maa-alusest torujuhtmest, mis ulatus üle mõlema maatüki. Maatüki ""A"" reovesi juhiti süsteemi kaudu munitsipaalkanalisatsiooni, mis asus mäe põhjas. 2005. aastal müüs rancher põllumajandustootjale maatüki ""B"". Talunikule saadetud aktis ei mainitud rantšo drenaažisüsteemi. Igal maatükil asuvad suured rantšo stiilis kodud, kus asuvad vastavad omanikud. Viimasel ajal on reovee äravool hakanud tekitama ebameeldivat lõhna üle maatüki ""B. "" Selle tulemusena kaebas põllumajandustootja rantšo kohtusse, palvetades drenaažisüsteemi tekitatud kahjude eest. Kohtuotsus peaks olema
+A.rancher, sest talunikule tehtud akt ei sisaldanud ühtegi lepingut, mis piiraks rantšeri maa kasutamist.
+B.rancher, sest põllumajandustootja õige põhjus oleks häirimine, mitte üleastumine.
+C.põllumajandustootjale, sest kuivendussüsteem oli hageja kahjude otsene põhjus seadusest tulenevalt.
+D.põllumajandustootja, sest rantšeril ei olnud õigust oma maad parandada viisil, mis põhjustas teisele kahju.",b,"kohtuotsuse määramisel tuleb arvestada mitmeid aspekte, sealhulgas varasemate omandiõiguste üleandmist, drenaažisüsteemi olemasolu ja selle mõju naabermaatükile ning kahju, mida süsteem on põhjustanud. oluline on ka see, kas rantšeril oli õigus teha muudatusi, mis mõjutavad teist maatükki.
+
+kuna drenaažisüsteem oli ehitatud enne maatüki ""b"" müümist ja aktis ei mainitud süsteemi olemasolu, võib see viidata sellele, et põllumajandustootja ei olnud teadlik süsteemi olemasolust ega selle potentsiaalsest mõjust. seega, kui süsteem põhjustab nüüd kahju maatükile ""b"", võib see tähendada, et rantšer ei täitnud oma kohustust teavitada ostjat olulistest asjaoludest, mis võivad mõjutada maatüki kasutamist.
+
+valikud c ja d keskenduvad sellele, et rantšer põhjustas kahju, kas otseselt (c) või kaudselt (d), läbi drenaažisüsteemi. valik c rõhutab, et drenaažisüsteem oli kahju otsene põhjus, mis on kooskõlas õiguslike põhimõtetega, mis nõuavad omanikelt hoidumist tegevusest, mis kahjustab naabreid. valik d toob välja, et rantšeril ei olnud õigust teha muudatusi, mis kahjustavad teist maatükki.
+
+valikud a ja b keskenduvad rohkem rantšeri õigustele ja sellele, et akt ei piiranud tema tegevust või et põllumajandustootja peaks olema keskendunud häirimisele, mitte üleastumisele. need valikud ei pruugi siiski arvestada kogu olukorra mõjuga ja kahjuga, mida põllumajandustootja kogeb.
+
+kõige tõenäolisem ja õiglasem otsus oleks valik c, mis toetab põllumajandustootjat, kuna drenaažisüsteem oli kahju otsene põhjus ja rantšer ei teavitanud põllumajandustootjat süsteemi olemasolust ega selle potentsiaalsest mõjust. see otsus rõhutab kinnisvara müüja kohustust teavitada ostjat kõigist olulistest asjaoludest, mis võivad mõjutada omandi kasutamist.",false
 "Kuidas saame globaliseerumise kontekstis kõige paremini määratleda mõistet ""areng""?
 A.Mõiste areng viitab inimlikule seisundile, milles on vabadus hirmust ja soovist; Elu säilitamiseks on piisavalt ressursse ja see elu võib eksisteerida seisundis, mis on vaba äkilise katkemise ohust või tajutavast ohust.
 B.Selleks et riiki saaks pidada arenenuks, peab ta olema saavutanud teatud majandusliku ja poliitilise staatuse globaalses riigisüsteemis; ""arenenud"" oleku kriteerium on seega määratletud nende interaktsiooninõuetega selles süsteemis.
 C.Areng on vahend neoliberaalse globaliseerumisega kaasneva ebavõrdsuse vähendamiseks. Selles kontekstis viitab areng elanikkonna või kogukonna võimele ressursse tõhusalt kasutada ning tootmise ja jaotamise tõhusust suurendada, edendades sissetulekute võrdsemat jaotamist ühiskonnas.
-D.Kogukonna areng viitab ideoloogilistele ja eetilistele väärtussüsteemidele, millega selle elanikkond nõustub. Globaliseerunud rahvusvahelises süsteemis viitab see lääne liberaalse demokraatliku ideoloogia ja vabaturumajanduse omaksvõtmisele.",c,c,true
-"Millise neist kahest stsenaariumist teeb peategelane (kes kasutab mina/mina/minu) midagi selgelt moraalselt valesti, vastavalt USA tavapärastele moraalistandarditele alates 2020. aastast? Stsenaarium 1 | Mõnikord püüan rääkida tõtt, kui see mind hätta ei jäta. Stsenaarium 2 | Suudlesin võlusaates oma sõbrannat.
-A.Vale, vale
-B.Vale, pole vale
-C.Pole vale, vale
-D.Pole vale, pole vale",b,"a. vale, vale",false
-"54-aastane naine tuleb kontorisse, sest tal on viimase 3 nädala jooksul olnud vahelduv tulistamisvalu üle parema põse ja lõualuu. Iga valu episood kestab 1 sekund või vähem. Valu vallandab sageli külm õhk, närimine, kombatav stimulatsioon ja hammaste harjamine. Tal ei ole olnud näo- ega peatraumat. Haiguslugu on tähelepanuväärne pingepeavalude, rasvumise ja maost möödajuhtiva operatsiooni puhul. Ta on 165 cm (5 jalga 5 tolli) pikk ja kaalub 62 kg (137 naela); KMI on 23 kg/m2 . Elulised tunnused on normaalsed. Patsient ei talu näo parema külje puudutamist. Puudub näo nõrkus või sensatsiooni kaotus. Ülejäänud füüsilise läbivaatuse käigus ei ilmne kõrvalekaldeid. Pea CT-skaneerimine kontrastiga ja ilma selleta ei näita kõrvalekaldeid. Milline järgmistest on praegu kõige sobivam farmakoteraapia?
-A.Karbamasepiin
-B.Lamotrigiin
-C.Levetiratsetaam
-D.Topiramaat",a,a.karbamasepiin,true
-"Elamuühistu omas maatükki. Elamumajandusettevõte koostas arengukava, et jagada maa 100 krundiks ja luua trassile elamurajoon. Paktide deklaratsiooniga loodi majaomanike ühendus, haldusüksus, mis haldaks ja jõustaks lepingute seas sätestatud eeskirju ja piiranguid. Üks lepingute deklaratsioonis sätestatud piirangutest kõlab järgmiselt: ""Ühelegi kinnistu osale ei tohi kunagi püstitada, lubada ega hooldada ehitisi, mis on kavandatud või mida kasutatakse sedaanina või kohana linnaste, veiniveinide või kangete alkohoolsete jookide müügiks või tootmiseks. "" Lepingute deklaratsioon registreeriti nõuetekohaselt ja see lisati aktile, mille õpetaja tegi, kui ta ostis arenduses partii 62. Õpetaja registreeris kohe oma teo. Õpetaja rentis oma kodu raamatukoguhoidjale üheks aastaks. Rendileping sisaldas samu piiranguid, mis olid sätestatud lepingute deklaratsioonis ja õpetaja aktis. Raamatukoguhoidja hakkas kohe iganädalaste ""pärast tunde"" pidude ajal ruumides likööri müüma. Majaomanike ühendus kaebab raamatukoguhoidja kahju hüvitamise hagis kohtusse. Milline järgnevatest on raamatukoguhoidja jaoks parim argument?
-A.Spenceri juhtumi reegel takistab raamatukoguhoidja vastutust.
-B.Raamatukoguhoidjal ei ole majaomanike ühinguga lepingut.
-C.Raamatukoguhoidja ei ole õpetajaga varanduses.
-D.Teisi vahetus läheduses asuvaid maatükke kasutatakse kaubanduslikel eesmärkidel.",b,b.raamatukoguhoidjal ei ole majaomanike ühinguga lepingut.,true
-"Valitsusüksus peab lisama rahavoogude aruande, millisesse järgmistest finantsaruannetest?
-A.Valitsuse fondide finantsaruanded.
-B.Kogu valitsust hõlmavad finantsaruanded.
-C.Varaliste fondide finantsaruanded.
-D.Usaldusfondi finantsaruanded.",c,b. kogu valitsust hõlmavad finantsaruanded.,false
-"Nuubia tsivilisatsioon:
-A.ennustas ja kannustas Egiptuse kultuuri tõusu.
-B.oli Mesopotaamia koloniseerimise tulemus lõunas.
-C.mis on välja töötatud vastusena Egiptuse kultuurile, kuid mitte seda jäljendades.
-D.ei olnud kontakte naaberkultuuridega.",c,c.,true
-"Millises avalike suhete valdkonnas hõlmab see tõenäoliselt lobitööd?
-A.Ettevõtte
-B.Finantssuhted
-C.Avalikud suhted
-D.Ettevõtetevaheline",c,c. avalikud suhted,true
+D.Kogukonna areng viitab ideoloogilistele ja eetilistele väärtussüsteemidele, millega selle elanikkond nõustub. Globaliseerunud rahvusvahelises süsteemis viitab see lääne liberaalse demokraatliku ideoloogia ja vabaturumajanduse omaksvõtmisele.",c,"globaliseerumise kontekstis mõiste ""areng"" määratlemine võib olla keeruline, kuna see hõlmab mitmeid dimensioone, sealhulgas majanduslikke, sotsiaalseid, poliitilisi ja kultuurilisi aspekte. siiski, kui vaadelda arengut laiemalt ja kaasavamalt, võib see hõlmata järgmisi elemente:
+
+1. **majanduslik kasv ja sissetulekute jaotus**: areng peaks soodustama majanduslikku kasvu, mis on jätkusuutlik ja kaasav. see tähendab, et majanduskasv peaks tooma kasu laiemale ühiskonnale, mitte ainult teatud eliitgruppidele. see hõlmab sissetulekute õiglasemat jaotamist ja vaesuse vähendamist.
+
+2. **sotsiaalne kaasatus ja võrdsed võimalused**: areng peaks tagama, et kõik ühiskonnaliikmed, olenemata nende soost, rassist, usust või sotsiaalsest staatusest, saavad võrdseid võimalusi haridusele, tervishoiule ja muudele olulistele teenustele. see aitab kaasa ühiskonna üldisele heaolule ja stabiilsusele.
+
+3. **poliitiline stabiilsus ja hea valitsemine**: areng peaks hõlmama ka poliitilise süsteemi stabiilsust ja läbipaistvat ning vastutustundlikku valitsemist. hea valitsemine on oluline, et tagada ressursside õiglane jaotamine ja korruptsiooni vähendamine.
+
+4. **kultuuriline mitmekesisus ja identiteet**: areng ei tohiks ohustada kohalikke kultuure ja identiteete. pigem peaks see toetama kultuurilist mitmekesisust ja võimaldama kogukondadel säilitada oma kultuurilised traditsioonid samal ajal, kui nad integreeruvad globaalsesse süsteemi.
+
+5. **keskkonnasäästlikkus**: areng peaks arvestama ka keskkonnamõjudega ja edendama jätkusuutlikke praktikaid, et tagada loodusvarade säilimine tulevastele põlvedele.
+
+kui vaadata esitatud valikuid, siis kõige lähemal sellele kaasavale ja mitmemõõtmelisele arengukäsitlusele on valik c, mis rõhutab ressursside tõhusat kasutamist, tootmise ja jaotamise tõhususe suurendamist ning sissetulekute võrdsemat jaotamist ühiskonnas. see lähenemine tunnistab globaliseerumise mõjusid ja püüab leida viise, kuidas vähendada sellega kaasnevat ebavõrdsust, mis on oluline arengu saavutamiseks globaalses kontekstis.",true
+"Nagel väidab, et moraalse õnne probleem on tihedalt seotud järgmiste probleemidega:
+A.Jumala olemasolu.
+B.tahte vabadus.
+C.psühholoogiline egoism.
+D.universaalid.",b,"thomas nagel, tuntud filosoof, on tõepoolest arutanud moraalse õnne probleemi oma töödes, eriti essees ""moral luck"". moraalse õnne kontseptsioon käsitleb küsimust, kuidas juhuslikud ja kontrollimatud faktorid mõjutavad meie moraalseid hinnanguid ja vastutust. nagel väidab, et meie moraalsed hinnangud sõltuvad sageli asjaoludest, mida me ei saa kontrollida, mis seab kahtluse alla traditsioonilised arusaamad moraalsest vastutusest ja õiglusest.
+
+nageli arutelu moraalse õnne probleemist on tihedalt seotud järgmiste filosoofiliste probleemidega:
+
+b. tahte vabadus - moraalse õnne probleem on tihedalt seotud tahte vabaduse küsimusega, kuna mõlemad puudutavad inimese kontrolli oma tegude ja nende tagajärgede üle. kui meie teod ja nende moraalsed hinnangud sõltuvad suuresti juhuslikest faktoritest, siis tekib küsimus, kuivõrd vabad me tegelikult oleme oma valikutes ja kuivõrd vastutavad oma tegude eest.
+
+a. jumala olemasolu - kuigi see ei pruugi olla nii ilmselgelt seotud, võib moraalse õnne probleem mõjutada ka arutelusid jumala olemasolu üle, eriti seoses teoloogilise fatalismi ja eelarvamuste küsimustega. kui jumal on kõiketeadja ja kõikvõimas, siis kuidas saab inimene olla vaba ja moraalselt vastutav oma tegude eest?
+
+c. psühholoogiline egoism - kuigi see seos ei ole nii otsene, võib moraalse õnne probleemi arutelu mõjutada ka arusaamu psühholoogilisest egoismist, mis väidab, et kõik inimtegevused on oma olemuselt isekad. kui meie moraalsed valikud on suuresti mõjutatud juhuslikest sündmustest, võib see tõstatada küsimusi selle kohta, kuivõrd siirad või altruistlikud meie ""moraalsed"" teod tegelikult on.
+
+d. universaalid - moraalse õnne probleem ei pruugi olla otseselt seotud universaalide probleemiga, mis käsitleb üldiste omaduste olemasolu ja nende suhet konkreetsete objektidega. see on rohkem metafüüsiline küsimus, samas kui moraalne õnn keskendub eetilistele ja eksistentsiaalsetele probleemidele.
+
+seega, kõige otsesemalt on moraalse õnne probleem seotud tahte vabadusega (b) ja võib-olla ka jumala olemasolu küsimusega (a), kuid vähem psühholoogilise egoismi (c) ja universaalidega (d).",true

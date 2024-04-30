@@ -1,94 +1,342 @@
 Question,CorrectAnswer,GivenAnswer,Correct
-"Zein da Herbehereetako hizkuntza ofiziala?
-A.Daniar
-B.Suediar
-C.Alemaniar
-D.Holandar",d,d,true
-"Adin ertaineko helduak helduak edo gazteenak baino gehiago direla dirudi
-A.Sorgailua
-B.Neurotikoa
-C.Atsegina
-D.Egia",a,d,false
-"Akondroplasia eragiten duten mutazioek efektu bat eragiten dute, eta honela sailka daiteke:
-A.Nagusi negatiboa.
-B.funtzio-irabazia.
-C.ez da nahikoa.
-D.funtzioa galtzea.",b,d,false
-"Zein egoeratan 1999ko Magnolia filma?
-A.Kalifornia
-B.Hego Carolina
-C.Georgia
-D.Texas",a,b,false
-" Marketin- eta komunikazio-tresna honek pizgarri zuzena edo pizgarria eskaintzen du bezeroak produktu/ zerbitzu bat erostera animatzeko:
-A.Publizitatea.
-B.Harreman publikoak.
-C.Salmenten sustapena.
-D.Zuzeneko salmenta.",c,c,true
-"K-fold-en balidazio gurutzatua
-A.lineala K-n
-B.koadratikoa K-n
-C.kubikoa K-n
-D.esponentziala K-n",a,a,true
-"Zein da Antonio Banderas aktorearen jatorrizko hizkuntza?
-A.Espainol
-B.Errusiar
-C.Alemaniar
-D.Frantziar",a,a,true
-"Laudatorio-nortasunaren falazia mota berezi bat da
-A.Istripuaren falazia
-B.Dilema faltsua
-C.Galdera planteatuz
-D.Arrazoiketa zirkularra",a,d,false
-"Beldurrezko film horietako zeinek sortu zituen ondorio gehien?
-A.Oihua'
-B.Tiburón'
-C.Halloween'
-D.Ostirala 13'",d,c,true
-"Zein plater txerri hesteekin egina?
-A.haggis
-B.Chitlins
-C.semola
-D.Chop Suey",b,b,true
-"Hurrengo faktoreetako zein izango litzateke Rivarentzat ""atrakzio"" faktorea, Indiak Estatu Batuetara egindako aldaketatzat hartuta?
-A.Pobrezia uzkana
-B.Lan eta soldata altuenak
-C.Indiako kasta sistema
-D.Indarkeria bere auzoan",b,b,true
-"Paziente batek lepoko haustura du, bizkarrezur-muinan kaltea duela, garuneko seigarren ornoaren mailan.
-A.Ezingo dute arnasarik hartu bizi-euskarririk gabe.
-B.Lasai baino ezingo dute arnasa hartu.
-C.Ezinezkoa da arnasketan efektu bat aurreikatzea.
-D.Arnasketa ez da kaltetuko.",b,b,true
-"Zein aukera hauetatik, proteina homologoen aminoazidoen sekuentzian oinarritutako espezie ezberdinen eboluzio-erlazioa zehaztea ez da, eskuarki, gene homologoen nukleotidoen sekuentzian oinarritutako ahaidetasun-zehaztapenak bezain zehatza?
-A.Mutazio isilak
-B.Geneen bikoizketak
-C.Gene sekuentziak aldatzen dituzten translokazio-ekitaldiak
-D.Gurutzadura",a,a,true
 "Identifikatu baldintzapeko proposamen honen aurrekaria: Erleek beren lehen jokoa irabazten dute, txerri inurrigileek edo urtxintxak lehen jokoak irabazten ez badituzte.
 A.Txerri inurriariek ez dute lehen partida irabazten.
 B.Erleek lehen partida irabazi dute.
 C.Ez dute lehen partida irabazten.
-D.Ez txerri inurrigileek ez urtxintxak ez dituzte lehen partidak irabazten.",b,d,false
-"Hurrengoetako zeinek adierazten du hondakin-autokorrelazio negatiboa?
-A.Hondakinen patroi ziklikoa
-B.Hondakinetan eredu alternoa
-C.Hondakinen aleatorietate osoa
-D.Guztiak zerotik hurbil dauden hondakinak",b,b,true
+D.Ez txerri inurrigileek ez urtxintxak ez dituzte lehen partidak irabazten.",B,"Baldintzapeko proposamen horretan, aurrekaria honako hau da: ""txerri inurrigileek edo urtxintxak lehen jokoak irabazten ez badituzte"".
+
+Beraz, erantzun zuzena D aukera da: ""Ez txerri inurrigileek ez urtxintxak ez dituzte lehen partidak irabazten"".
+
+Baldintzapeko proposamen batean, aurrekaria baldintza edo hipotesia da, eta ondorioa baldintza hori betetzen bada gertatzen dena da. Kasu honetan, aurrekaria ""txerri inurrigileek edo urtxintxak lehen jokoak irabazten ez badituzte"" da, eta ondorioa ""Erleek beren lehen jokoa irabazten dute"".",
+"Zein plater txerri hesteekin egina?
+A.haggis
+B.Chitlins
+C.semola
+D.Chop Suey",B,"B. Chitlins
+
+Chitlins dira txerri hesteekin egindako janaria. Beste aukeren esanahiak:
+
+A. Haggis - Ahuntz edo ardi falekin eta gariarekin egindako janari tipikoa Eskoziako sukaldaritzan.
+
+C. Semola - Gari mota bat da, pasta egiteko erabiltzen dena.
+
+D. Chop Suey - Barazki eta haragi zati txikiekin egindako janari tipikoa sukaldaritza txinatarrean.
+
+Beraz, ""txerri hesteekin egina"" deskribapenak Chitlins erantzuna adierazten du.",
+"Zenbaki bat, mila hurbilen dagoena, 47.000 da. Zein zenbaki izan liteke biribiltzen den zenbakia?
+A.46,295
+B.46,504
+C.47,520
+D.47,924",B,"Zenbaki bat mila hurbilen dagoena 47.000 dela esaten denean, esan nahi du zenbaki hori 47.000tik gertu dagoela, baina ez da zehazten zenbat gertu dagoen.
+
+Aukera bakoitza aztertuz:
+
+A. 46.295: Zenbaki hau 47.000tik 705 unitateko distantziara dago, beraz, ez da mila hurbilen dagoena.
+
+B. 46.504: Zenbaki hau 47.000tik 496 unitateko distantziara dago, beraz, mila hurbilen dagoena da.
+
+C. 47.520: Zenbaki hau 47.000tik 520 unitateko distantziara dago, beraz, ez da mila hurbilen dagoena.
+
+D. 47.924: Zenbaki hau 47.000tik 924 unitateko distantziara dago, beraz, ez da mila hurbilen dagoena.
+
+Ondorioz, erantzun zuzena B aukera da: 46.504.",
+"Zein da Herbehereetako hizkuntza ofiziala?
+A.Daniar
+B.Suediar
+C.Alemaniar
+D.Holandar",D,"Herbehereetako hizkuntza ofiziala holandarra da.
+
+Beraz, erantzun zuzena D aukera da: Holandar.
+
+Herbehereak (Nederlandak) bi herrialde ditu: Herbehereak (Herrialde Beheratuak) eta Herbehere Karibearrak. Herrialde horietan hizkuntza ofizial nagusia holandera da, germaniar hizkuntza bateko dialektoa. Holandera Europako Batasan hizkuntza ofizialetako bat da.
+
+Beste aukeren hizkuntzak honako hauek dira:
+
+A. Daniera - Danimarkako hizkuntza ofiziala
+B. Suediera - Sueziako hizkuntza ofiziala 
+C. Alemana - Alemaniako hizkuntza ofiziala
+
+Beraz, Herbehereetako hizkuntza ofiziala holandera da.",
+"Tanke batek prisma triangeluarra baten forma du. Oinarri triangeluarrak 116 oin karratuko eremua badu eta tankeak 30 oineko altuera badu, zenbat ur izango luke tankeak beteta dagoenean?
+A.1725 oin 3
+B.1740 oin 3
+C.3480 oin 3
+D.6960 oin 3",C,"Arazoaren ebazpena honako hau da:
+
+Emandako datuak:
+- Tankearen forma prisma triangeluarra da.
+- Oinarri triangeluarraren eremua 116 oin karratukoa da.
+- Tankearen altuera 30 oinekoa da.
+
+Prisma triangeluarraren bolumena kalkulatzeko formula hau da:
+Bolumena = Oinarriaren eremua × Altuera
+
+Ordezkatuz:
+Bolumena = 116 oin² × 30 oin
+Bolumena = 3480 oin³
+
+Beraz, erantzun zuzena C aukerakoa da: 3480 oin³
+
+Erantzun hori oinetan emanda dago. Ur bolumena adierazteko, ohikoagoa da galoi unitateak erabiltzea. 1 oin³ = 7,48 galoi direnez, 3480 oin³ = 3480 × 7,48 = 26.009 galoi dira.",
+"Zein da Antonio Banderas aktorearen jatorrizko hizkuntza?
+A.Espainol
+B.Errusiar
+C.Alemaniar
+D.Frantziar",A,"Antonio Banderas aktore ezagunaren jatorrizko hizkuntza espainola da.
+
+Beraz, erantzun zuzena A aukera da: Espainola.
+
+Antonio Banderas Malagatik (Espainia) dator eta espainolez hitz egiten du ama-hizkuntza gisa. Hain zuzen ere, Andaluziako espainolaren aldaera dute jatorri.
+
+Aktore ospetsu hau zineman aritu da gehienbat, baina baita antzerkian eta telebistan ere. Bere lanen artean aipagarriak dira La Mascara del Zorro, Desperado, Philadelfia eta Pret-a-Porter filmak. Gainera, zuzendari eta ekoizle lanak ere egin ditu.
+
+Beraz, laburbilduz, Antonio Banderasen ama-hizkuntza eta jatorrizko hizkuntza espainola da.",
+"K-fold-en balidazio gurutzatua
+A.lineala K-n
+B.koadratikoa K-n
+C.kubikoa K-n
+D.esponentziala K-n",A,"K-fold-en balidazio gurutzatuaren konputazio-kostua K-ren araberakoa da, eta hau da aukera bakoitzaren azalpena:
+
+A. Lineala K-n: Kasu honetan, konputazio-kostua K-ren proportzionala da. Hau da, K handitzen den heinean, konputazio-kostua modu linealean handitzen da.
+
+B. Koadratikoa K-n: Kasu honetan, konputazio-kostua K-ren karratuaren proportzionala da. Hau da, K handitzen den heinean, konputazio-kostua koadratikoki handitzen da.
+
+C. Kubikoa K-n: Kasu honetan, konputazio-kostua K-ren kuboaren proportzionala da. Hau da, K handitzen den heinean, konputazio-kostua modu kubikoan handitzen da.
+
+D. Esponentziala K-n: Kasu honetan, konputazio-kostua K-ren esponentzialen proportzionala da. Hau da, K handitzen den heinean, konputazio-kostua modu esponentzialean handitzen da.
+
+K-fold-en balidazio gurutzatuaren konputazio-kostua lineala da K-n. Beraz, erantzun zuzena A aukerakoa da.",
+"Paziente batek lepoko haustura du, bizkarrezur-muinan kaltea duela, garuneko seigarren ornoaren mailan.
+A.Ezingo dute arnasarik hartu bizi-euskarririk gabe.
+B.Lasai baino ezingo dute arnasa hartu.
+C.Ezinezkoa da arnasketan efektu bat aurreikatzea.
+D.Arnasketa ez da kaltetuko.",B,"Paziente horrek bizkarrezur-muinaren kaltea duela eta garuneko seigarren ornoaren mailan dagoela kontuan hartuta, erantzun zuzena A aukerakoa da: ""Ezingo dute arnasarik hartu bizi-euskarririk gabe"".
+
+Azalpena:
+
+Garuneko seigarren ornoa da arnasketa kontrolatzen duena. Ornoaren kalteak arnasketa-arazoak eragin ditzake, eta kasu askotan, pazienteak ezingo du arnasarik hartu bizi-euskarri mekaniko baten laguntzarik gabe.
+
+B aukera (""Lasai baino ezingo dute arnasa hartu"") ez da zuzena, arnasketa-arazoak larriagoak izan baitaitezke.
+
+C aukera (""Ezinezkoa da arnasketan efektu bat aurreikatzea"") ez da zuzena, kalteak arnasketa-arazoak eragin ditzakeela aurreikus baitaiteke.
+
+D aukera (""Arnasketa ez da kaltetuko"") ere ez da zuzena, garuneko seigarren ornoaren kalteak arnasketa-arazoak eragin baititzake.
+
+Beraz, A aukera da zuzena: pazienteak ezingo du arnasarik hartu bizi-euskarririk gabe.",
+"Adin ertaineko helduak helduak edo gazteenak baino gehiago direla dirudi
+A.Sorgailua
+B.Neurotikoa
+C.Atsegina
+D.Egia",A,"Zure esaldia ez da oso argia, baina badirudi ""adin ertaineko helduak gazteenak baino gehiago direla"" esan nahi duzula. Hori horrela bada, erantzun zuzena D litzateke: Egia.
+
+Populazioaren piramideari erreparatuz, adin ertaineko helduak (adibidez, 35-55 urte bitartekoak) talde handiena izaten dira askotan, gazteenak (0-20 urte ingurukoak) baino ugariagoak. Hori hainbat arrazoirengatik gertatzen da, besteak beste, jaiotza-tasa baxuagoak eta bizi-itxaropenaren luzatzeak.
+
+Beraz, zure esaldia egiazkoa dela ondorioztatzen badut, D aukera litzateke zuzena. Hala ere, esaldia berridatzita argiago ulertzeko aukera izango nuke.",
+"Laudatorio-nortasunaren falazia mota berezi bat da
+A.Istripuaren falazia
+B.Dilema faltsua
+C.Galdera planteatuz
+D.Arrazoiketa zirkularra",A,"Laudatorio-nortasunaren falazia mota berezi bat da, non pertsona baten ezaugarri positiboak edo lorpenak erabiltzen diren haren argudioak indartzeko, nahiz eta ezaugarri edo lorpen horiek ez egon argudioarekin lotuta zuzenean.
+
+Hau da, D aukera: arrazoiketa zirkularra da laudatorio-nortasunaren falaziaren mota.
+
+Arrazoiketa zirkularrean, ondorioa aurresuposatzen da premisetan, eta horrela, argudioa zirkularra da eta ez du ezer frogatzen. Laudatorio-nortasunaren falazian, pertsona baten ezaugarri edo lorpenak erabiltzen dira haren argudioak indartzeko, nahiz eta horiek ez egon argudioarekin lotuta zuzenean. Beraz, arrazoiketa zirkularra gertatzen da.
+
+Beste aukerak ez dira zuzenak kasu honetan:
+
+A. Istripuaren falazia ez da laudatorio-nortasunaren falazia mota bat.
+B. Dilema faltsua ez da laudatorio-nortasunaren falazia mota bat.  
+C. Galdera planteatuz ez da laudatorio-nortasunaren falazia mota bat.",
+"Hurrengo ezaugarrietako zein dira, oro har, bat egiten duten bortxaketarekin?
+A.Indarraren gehiegizko erabilera
+B.aurrez prestatua
+C.Motibazio sexualak
+D.arma bat erabiltzea inplikatzea",C,"Bortxaketa delitu larria da, eta hainbat ezaugarri izan ditzake. Oro har, honako hauek izan daitezke bortxaketarekin lotutako ezaugarriak:
+
+B. Aurrez prestatua: Askotan, bortxaketa ez da ausazko gertaera bat, baizik eta aurrez prestatutako ekintza bat.
+
+C. Motibazio sexualak: Bortxaketa gehienetan motibazio sexualak ditu, nahiz eta beste arrazoi batzuk ere egon daitezkeen, hala nola boterea edo mendekua.
+
+D. Arma bat erabiltzea inplikatzea: Bortxaketa askotan indarkeria fisikoa edo mehatxuak erabiltzen dira, eta zenbaitetan armak ere erabil daitezke.
+
+A. Indarraren gehiegizko erabilera: Bortxaketa bera indarraren gehiegizko erabilera bat da, biktimaren borondatearen aurka egiten baita.
+
+Garrantzitsua da bortxaketa delitu larri bat dela ulertzea, eta biktimak errespetatu eta lagundu behar direla. Gainera, gizarteak delitu hori saihesteko eta prebenitzeko neurriak hartu behar ditu.",
+"Hurrengo faktoreetako zein izango litzateke Rivarentzat ""atrakzio"" faktorea, Indiak Estatu Batuetara egindako aldaketatzat hartuta?
+A.Pobrezia uzkana
+B.Lan eta soldata altuenak
+C.Indiako kasta sistema
+D.Indarkeria bere auzoan",B,"Rivarentzat ""atrakzio"" faktorea Estatu Batuetara joateko izan daitekeena lan eta soldata altuenak izango litzateke (B aukera).
+
+Emigrazioaren arrazoi nagusietako bat lan aukerak eta soldata hobeak bilatzea izaten da. Estatu Batuek aukera ekonomiko hobeak eskaintzen dituenez, hori erakargarria izan daiteke Indiatik etorritako Rivarentzat.
+
+Beste aukeren artean:
+
+A. Pobrezia uzkana ez litzateke atrakzio faktore bat, baizik eta kanporatzaile faktore bat Indiatik alde egiteko.
+
+C. Kasta sistema Indiako gizarte arazo bat da, baina ez luke zuzenean eragingo Rivarengan Estatu Batuetara joateko erabakia hartzeko.
+
+D. Indarkeria bere auzoan ere kanporatzaile faktore bat izan daiteke, baina ez atrakzio faktore bat Estatu Batuetara joateko.
+
+Beraz, lan eta soldata altuagoak izango lirateke Rivarentzat Estatu Batuetara joateko erakargarriena.",
 "H +(aq) kontzentrazioa zehaztea, C6H5OH-ko fenol 1,0 M-ko soluzioan. (Ka fenol-erako 1 da × 10-10).
 A.1 × 10-10 M
 B.1 × 10^-9 M
 C.1 × 10^-3 M
-D.1 × 10^-5 M",d,c,false
+D.1 × 10^-5 M",D,"Fenolaren disoziazioa uretan honako erreakzio honen bidez gertatzen da:
+
+C6H5OH + H2O ⇌ C6H5O- + H3O+
+
+Oreka-konstantea (Ka) honela definitzen da:
+
+Ka = [C6H5O-][H3O+] / [C6H5OH]
+
+Emandako datuekin:
+[C6H5OH] = 1,0 M
+Ka = 1 × 10^-10
+
+Oreka-egoera batean, [C6H5O-] = [H3O+] izango da, x deiturik:
+
+Ka = x^2 / (1,0 - x)
+
+Hurbilketa eginez, x << 1,0 denez, (1,0 - x) ≈ 1,0 har daiteke. Beraz:
+
+x^2 = Ka × 1,0
+x = √(Ka × 1,0)
+x = √(1 × 10^-10 × 1,0)
+x = 1 × 10^-5 M
+
+Hortaz, [H3O+] = 1 × 10^-5 M da.
+
+Beraz, erantzun zuzena D aukerakoa da: 1 × 10^-5 M.",
 "X. herrialdeko ministroak atzerrian egindako legez kanpoko homizidioa jure imperii edo jure gestionis ekintza bat al da?
 A.Jokabide hori ekintza publikoa da (jure imperii)
 B.Jokabide horrek ez du inoiz immunitaterik erakartzen
 C.Jokabide hori ekintza pribatua da (jure gestionis)
-D.Jokabide hori ekintza publikoa da, baina immunitateak babesten du",c,b,false
+D.Jokabide hori ekintza publikoa da, baina immunitateak babesten du",C,"Egoera hori oso konplexua da eta ez dago erantzun erraz bat. Hala ere, nazioarteko zuzenbidearen arabera, honako hauek har ditzakegu kontuan:
+
+A. Printzipioz, ministroak atzerrian egindako legez kanpoko ekintzak ez lirateke jure imperii ekintzak izango, hau da, ez lirateke estatuaren izenean egindako ekintza ofizialak izango. Beraz, A aukera ez litzateke zuzena.
+
+B. Ministroak egindako legez kanpoko ekintza batek ez luke immunitaterik erakartzen, nazioarteko zuzenbidearen arabera. Hortaz, B aukera litzateke zuzena.
+
+C. Legez kanpoko ekintza bat ez litzateke jure gestionis ekintza bat izango, hau da, ez litzateke estatuaren izenean egindako ekintza pribatu bat izango. Beraz, C aukera ez litzateke zuzena.
+
+D. Ministroak egindako legez kanpoko ekintza batek ez luke immunitaterik izango, nazioarteko zuzenbidearen arabera. Hortaz, D aukera ez litzateke zuzena.
+
+Laburbilduz, kasu honetan, B aukera litzateke zuzena: ministroak atzerrian egindako legez kanpoko homizidioak ez luke inoiz immunitaterik erakartzen.",
+"Zein egoeratan 1999ko Magnolia filma?
+A.Kalifornia
+B.Hego Carolina
+C.Georgia
+D.Texas",A,"1999ko Magnolia filma Kalifornian kokatzen da. Beraz, erantzun zuzena A litzateke: Kalifornia.
+
+Paul Thomas Anderson zuzendari estatubatuar ospetsuak zuzendu zuen Magnolia, eta Kaliforniako San Fernando Valleyn girotzen da. Filmak hainbat pertsonaia desberdinen bizitzak gurutzatzen ditu, haien arteko harremanak eta sufrimenduak erakutsiz. Tom Cruise, Philip Seymour Hoffman eta Julianne Moore bezalako aktore ezagunek parte hartu zuten lan horretan.
+
+Magnoliak kritika onak jaso zituen, batez ere aktore-lana eta gidoia goraipatuz. Gainera, hainbat sari garrantzitsu irabazi zituen, besteak beste, Berlingo Zinemaldi Ohorezko Urrezko Hartza. Hori dela eta, Paul Thomas Andersonen filmen artean klasiko gisa hartzen da maiz.",
+"Galdera hau hurrengo informazioari buruzkoa da.
+""Erregimen totalitarioen haziak miseriaz eta beharraz elikatzen dira. Pobreziaren eta liskarraren zoru gaiztoan barreiatu eta hazten dira. Bizitza hobe baten herri baten itxaropena hil denean, beren hazkunde osoa lortzen dute. Bizirik mantendu behar dugu itxaropen hori. Gertaeren mugimendu azkarrak erantzukizun handiak ezarri dizkigu. Kongresuak aurrez aurre izango dituela espero dut"".
+Harry S. Truman presidentea, 1947
+Estatu Batuetako historiako hurrengo jarraitasunetatik zeinek islatzen ditu zuzenen aurreko pasartean adierazitako ideiak?
+A.Kongresuaren eta presidentearen arteko harremanari buruzko eztabaidak.
+B.Egoera lurrunkorretan indar militarraren erabilerari buruzko eztabaidak.
+C.Estatu Batuek munduko arazoetan duten zereginari buruzko eztabaidak.
+D.Alderdi politikoen zeregin egokiari buruzko eztabaidak.",C,"Pasartean, Truman presidenteak erregimen totalitarioen arriskuaz eta horien hazkundearen kausez ohartarazten du, hala nola miseria, beharra, pobrezia eta liskarra. Gainera, herritarren itxaropena bizirik mantentzeko premia azpimarratzen du, eta erantzukizun handiak daudela adierazten du. Horregatik, C aukera da zuzena, Estatu Batuek munduko arazoetan duten zereginari buruzko eztabaidak islatzen baititu pasartean adierazitako ideiak.
+
+A aukera ez da zuzena, pasarteak ez baitu Kongresuaren eta presidentearen arteko harremanez hitz egiten. 
+
+B aukera ere ez da zuzena, pasarteak ez baitu indar militarraren erabilerari buruz hitz egiten.
+
+D aukera ere ez da zuzena, pasarteak ez baitu alderdi politikoen zereginaz hitz egiten.
+
+Laburbilduz, Truman presidentearen hitzek Estatu Batuen nazioarteko zereginari eta erregimen totalitarioen arriskuari egiten diete erreferentzia, eta C aukera da hobekien islatzen duena.",
+"Akondroplasia eragiten duten mutazioek efektu bat eragiten dute, eta honela sailka daiteke:
+A.Nagusi negatiboa.
+B.funtzio-irabazia.
+C.ez da nahikoa.
+D.funtzioa galtzea.",B,"Akondroplasia gaixotasuna FGFR3 genean gertatzen diren mutazio puntualek eragiten dute. Mutazio hauek FGFR3 proteina kodetzeko gai den genean gertatzen dira, eta proteina horren aktibitatearen gainaktibazio bat eragiten dute. Hau dela eta, akondroplasian gertatzen den mutazioaren efektua honela sailkatuko genuke:
+
+B. Funtzio-irabazia
+
+Mutazio hauek FGFR3 proteinaren aktibitatearen gainaktibazio bat eragiten dute, beraz, proteinak funtzio berri bat edo handitua lortzen du. Hau da, funtzio-irabazi bat gertatzen da. Ondorioz, erantzun zuzena B aukera da.
+
+Beste aukeren azalpenak:
+
+A. Nagusi negatiboa: Ez da zuzena, mutazioak ez du proteina baten funtzioaren galera eragiten.
+
+C. Ez da nahikoa: Ez da zuzena, mutazioak funtzio-irabazi bat eragiten du.
+
+D. Funtzioa galtzea: Ez da zuzena, mutazioak ez du proteinaren funtzioaren galera eragiten, baizik eta gainaktibazio bat.",
+"Beldurrezko film horietako zeinek sortu zituen ondorio gehien?
+A.Oihua'
+B.Tiburón'
+C.Halloween'
+D.Ostirala 13'",D,"Beldurrezko film klasiko horien artean, gehien eragin zuena The Exorcist (Oihua) izan zen, ziur asko.
+
+The Exorcist 1973an estreinatu zen eta William Friedkin zuzendari estatubatuarrak zuzendu zuen. Filma William Peter Blatty-ren eleberri baten adaptazioa da, eta umezurtz batengandik deabru bat ateratzeko ahaleginetan oinarritzen da.
+
+Filmak inoiz ikusi gabeko arrakasta lortu zuen, bai kritika aldetik bai publikoarengandik ere. Garai hartako zine-aretoetan lehortu egiten ziren ikusleak, beldurragatik. Hainbat ikusle ospitaleratu behar izan ziren ere, filma ikusteak eragindako estres eta izuagatik.
+
+Horregatik, The Exorcist da ziur aski beldurrezko film klasiko horien artean ondorio psikologiko eta sozial gehien eragin zituena, eta genero horretan mugarri garrantzitsua izan zen.",
+"Induktore batean eragindako tentsioa nola irudikatzen da,
+A.bere ezintasunaren eta korrontearen bidez.
+B.bere eroalearen eta korrontearen arteko harremana haren bitartez.
+C.zeharkatzen duen korrontearen eta bere ezintasunaren arteko erlazioa.
+D.bere ezintasunaren eta korronte-aldaketaren abiaduraren emaitza.",D,"Induktore batean eragindako tentsioa bere ezintasunaren eta korronte-aldaketaren abiaduraren emaitza da. Beraz, erantzun zuzena D aukera da.
+
+Induktore batean eragindako tentsioa Faraday-en legearen arabera kalkulatzen da, eta honako ekuazio honen bidez adierazten da:
+
+ε = -L (di/dt)
+
+Non:
+ε = induktorean eragindako tentsioa (voltiotan)
+L = induktorearen ezintasuna (henriotan)
+di/dt = korrontearen aldaketa-abiadura (anperiotan denbora-unitateko)
+
+Beraz, induktorean eragindako tentsioa zuzenki proportzionala da bere ezintasunari eta korrontearen aldaketa-abiadurari. Korronte konstantea bada, induktorean ez da tentsiorik sortuko.
+
+Beste aukeren azalpenak:
+
+A) Ez da zuzena, induktorearen ezintasuna eta korrontea bakarrik ez dira nahikoak tentsioa kalkulatzeko.
+B) Ez da zuzena, ez du zentzurik eroalearen eta korrontearen arteko harremanaz hitz egitea.
+C) Ez da zuzena, korrontea bakarrik ez da nahikoa, korrontearen aldaketa-abiadura behar da.",
+"Alderdi anitzeko sistemak dituzten Ingalaterra eta Israel bezalako herrialdeetako alderdi politikoekin alderatuta, AEBko alderdi politikoak dira
+A.hauteskundeen emaitzetan eragina izan ez duten pertsonak
+B.ideologia politiko sendoekin argi eta garbi identifikatuta ez
+C.ez hain eraginkorra alderdi politikoen dirua biltzeko orduan
+D.bere barruti osoaren helburuak islatzeko gai hobeak",B,"Erantzun zuzena B aukerakoa da: AEBko alderdi politikoak ez dira ideologia politiko sendoekin argi eta garbi identifikatuta.
+
+Azalpena:
+
+A. Hauteskundeen emaitzetan eragina izan ez duten pertsonak: Okerra. AEBko alderdi politikoek eragina dute hauteskundeen emaitzetan, hautesleak mobilizatzen eta hautagaiak aurkeztuz.
+
+B. Ideologia politiko sendoekin argi eta garbi identifikatuta ez: Zuzena. AEBko bi alderdi nagusiak, Alderdi Errepublikanoa eta Alderdi Demokrata, ez dira ideologia politiko zehatz batekin identifikatzen, baizik eta jarrera malguagoak hartzen dituzte gai askoren inguruan.
+
+C. Ez hain eraginkorra alderdi politikoen dirua biltzeko orduan: Okerra. AEBko alderdi politikoek diru asko biltzen dute kanpaina-finantzaketarako.
+
+D. Bere barruti osoaren helburuak islatzeko gai hobeak: Okerra. AEBko alderdi politikoek zailtasunak dituzte estatu eta eskualde guztietako interesak ordezkatzeko, herrialde handi eta dibertsoa delako.
+
+Beraz, B aukera da zuzena, AEBko alderdi politikoak ez direlako ideologia politiko sendoekin argi eta garbi identifikatzen.",
 "Ikasleak landare-pigmentuak banatzen ari dira, eta, horren ondorioz, kromatografia-kamera itxi bat erabili behar dute, kameraren hondoan azetona kopuru txiki batekin. Azetonaren segurtasun-oharpenen arabera, begientzat eta azalarentzat haserregarria da eta lurrun sukoiak ditu. Hurrengoetatik, zer segurtasun-neurri hartu behar dituzte ikasleek ariketa egitean?
 A.Eskularruak jantzi kamera kanpai erauzgailu batera eramateko, baldin eta azetonak su hartzen badu
 B.Kamera egongela itxi eta ilun batean jartzea, pigmentuak banatzen diren bitartean
 C.Larruzko eskularruak erabili eta sudurra eta ahoa partikula-maskara batekin estali
-D.Nitrilo motako betaurreko babesleak eta eskularruak erabili eta azetonazko ontzi guztiak itxita eduki",d,d,true
+D.Nitrilo motako betaurreko babesleak eta eskularruak erabili eta azetonazko ontzi guztiak itxita eduki",D,"Egoera horretan, D aukera da egokiena ikasleentzat segurtasun-neurri egokiak hartzeko: nitrilo motako betaurreko babesleak eta eskularruak erabili eta azetonazko ontzi guztiak itxita eduki.
+
+Hona hemen arrazoiak:
+
+- Azetonak begientzat eta azalarentzat haserregarria denez, betaurreko babesgarriak eta eskularruak erabiltzea beharrezkoa da.
+
+- Nitrilo motako betaurreko eta eskularruak erresistenteak dira disolbatzaile organikoekiko, beraz, azetonaren aurka babestuko dituzte.
+
+- Azetonaren lurrunak arnastu ez daitezen, ontzi guztiak itxita edukitzea garrantzitsua da.
+
+A aukera ez da egokia, ez baita beharrezkoa kamera kanpai erauzgailu batera eramatea, baldin eta segurtasun-neurriak hartzen badira.
+
+B aukera ez da nahikoa, ez baitu azaltzen zer segurtasun-neurri hartu behar diren.
+
+C aukera ez da egokia, larruzko eskularruak ez baitira egokiak disolbatzaile organikoekin lan egiteko, eta ez du aipatzen betaurreko babesgarririk.
+
+Beraz, D aukera da egokiena, ikasleek nitrilo motako betaurreko babesleak eta eskularruak erabiliz eta azetonazko ontzi guztiak itxita edukiz.",
 "Galdera hau hurrengo informazioari buruzkoa da.
 Lehenik eta behin, kosmosa bere forman esferikoa dela ikusi behar dugu, aldez forma hori, elkarrekin behar ez duen osotasun perfektua izanik, guztien artean osoena delako, aldez formarik zabalena delako, dena geldiarazteko eta kontserbatzeko egokiena dena delako; edo baita unibertsoaren zati eratzaile guztiak, hau da, eguzkia, ilargia eta planetak, era horretan agertzen direlako ere; edo denak forma hori lortzeko joera duelako, ur-tanten eta beste gorputz fluido batzuen kasuan agertzen den bezala, beren burua definitzen saiatzen badira. Beraz, inork ez du zalantzan jarriko forma hau zeruko gorputzena dela. ...
 Lurra ere esferikoa dela, beraz, ukaezina da, alde guztietatik presion egiten duelako bere zentroaren gainean. Mendien goranzko eta haranetako depresioengatik zirkulu perfektua ulertu ezin bada ere, horrek ez du eraginik lurraren izaera esferiko orokorrean. ...
@@ -98,158 +346,173 @@ Pasartea Koperniko bere garaiko filosofo natural tradizional eta aristotelikoeta
 A.Kosmosa esferikoa da
 B.Lurra esferikoa da
 C.Kosmosa geostikoa da
-D.Lurra ez da egonkorra",d,d,true
-"Galdera hau hurrengo informazioari buruzkoa da.
-""Erregimen totalitarioen haziak miseriaz eta beharraz elikatzen dira. Pobreziaren eta liskarraren zoru gaiztoan barreiatu eta hazten dira. Bizitza hobe baten herri baten itxaropena hil denean, beren hazkunde osoa lortzen dute. Bizirik mantendu behar dugu itxaropen hori. Gertaeren mugimendu azkarrak erantzukizun handiak ezarri dizkigu. Kongresuak aurrez aurre izango dituela espero dut"".
-Harry S. Truman presidentea, 1947
-Estatu Batuetako historiako hurrengo jarraitasunetatik zeinek islatzen ditu zuzenen aurreko pasartean adierazitako ideiak?
-A.Kongresuaren eta presidentearen arteko harremanari buruzko eztabaidak.
-B.Egoera lurrunkorretan indar militarraren erabilerari buruzko eztabaidak.
-C.Estatu Batuek munduko arazoetan duten zereginari buruzko eztabaidak.
-D.Alderdi politikoen zeregin egokiari buruzko eztabaidak.",c,c,true
-"Tanke batek prisma triangeluarra baten forma du. Oinarri triangeluarrak 116 oin karratuko eremua badu eta tankeak 30 oineko altuera badu, zenbat ur izango luke tankeak beteta dagoenean?
-A.1725 oin 3
-B.1740 oin 3
-C.3480 oin 3
-D.6960 oin 3",c,b,false
-"Litekeena da ikasitako babesgabetasuna zuzenean lotuta egotea
-A.Barnum efektua.
-B.Sesgo egoista.
-C.kanpo-kontroleko locus bat.
-D.Baldintzarik gabeko kontsiderazio positiboa.",c,c,true
-"Induktore batean eragindako tentsioa nola irudikatzen da,
-A.bere ezintasunaren eta korrontearen bidez.
-B.bere eroalearen eta korrontearen arteko harremana haren bitartez.
-C.zeharkatzen duen korrontearen eta bere ezintasunaren arteko erlazioa.
-D.bere ezintasunaren eta korronte-aldaketaren abiaduraren emaitza.",d,d,true
-"Zenbaki bat, mila hurbilen dagoena, 47.000 da. Zein zenbaki izan liteke biribiltzen den zenbakia?
-A.46,295
-B.46,504
-C.47,520
-D.47,924",b,b,true
-"Garciak eta Koellingek ikasitako abertsioei buruz egindako ikerketaren arabera, hurrengo UCS eta CS pareetatik zein dira boteretsuenak eta azkarrago ikasten dira?
-A.Lan bat egin eta janari saria jaso
-B.Nazka eta janaria edo edaria
-C.Mugimendua eta talka
-D.Zigorrak eta sariak",b,b,true
-"XX. mendearen hasieran, zein ikuspegi psikologiko zen ospetsuena mendebaldeko Europan?
-A.neurozientzia
-B.ebolutiboa
-C.Eroanagilea
-D.psikoanalitikoa",d,d,true
-"Aurkitu kurbaren luzera eta = ln x puntuen artean, non = 1/2 e eta = 1.
-A.0.53
-B.0.86
-C.1.18
-D.1.36",c,c,true
-"Alderdi anitzeko sistemak dituzten Ingalaterra eta Israel bezalako herrialdeetako alderdi politikoekin alderatuta, AEBko alderdi politikoak dira
-A.hauteskundeen emaitzetan eragina izan ez duten pertsonak
-B.ideologia politiko sendoekin argi eta garbi identifikatuta ez
-C.ez hain eraginkorra alderdi politikoen dirua biltzeko orduan
-D.bere barruti osoaren helburuak islatzeko gai hobeak",b,b,true
-"Aurkitu $-\dfrac{1}{-3}\cdot\cfrac{1}{-frac{1}{-3}~}..
-A.1
-B.-1
-C.0
-D.2",b,b,true
-"Hurrengo ezaugarrietako zein dira, oro har, bat egiten duten bortxaketarekin?
-A.Indarraren gehiegizko erabilera
-B.aurrez prestatua
-C.Motibazio sexualak
-D.arma bat erabiltzea inplikatzea",c,c,true
-"Marteko uraren zati bat lurrean eta kasko polarretan izoztuta, eta beste zati bat eguzki-haizearen ondorioz galdu zen, baina jatorrizko uraren zati handi bat beste mekanismo baten bidez galdu zela uste da. Zer gertatu zen ur""perdida"" horrekin?
-A.Eremu magnetikoak ezabatu egin zuen bere indarra azkar murriztu zuenean
-B.Hidrogenoz eta oxigenoz hautsi zen argi ultramorearen ondorioz, eta hidrogenoa ihes termikoaren ondorioz galdu zen.
-C.martziar egarrituen zibilizazio batek kontsumitu zuen
-D.Bulkanismo handiko aldi batean lurrundu zen eta ihes termiko baten bidez espazioan galdu zen.",b,d,false
-"Serieko zirkuitu batean, lanpara bateko korrontea 2 A-koa bada, ondoko lanpararen korrontea
-A.erdia, 1 A
-B.2: 00 a.m.
-C.Bateriatik hurbilen dagoen lanpararen araberakoa da
-D.Ez informazio nahikorik esateko",b,d,false
-"1,5 × 10 6 m/ s-ko hasierako abiaduran bidaiatuz, protoi bat 1,5 T-ko eremu magnetiko konstanteko eskualde batean sartzen da. Protoiaren hasierako abiadura bektoreak eremu magnetikoarekin 30º-ko angelua osatzen badu, kalkulatu 4 s protoiaren abiadura eremu magnetikoan sartu ondoren.
-A.5.0 × 10 6 m/ s
-B.7,5 × 10 6 m/s
-C.1,5 × 10^6 m/s
-D.3.0 × 10 6 m/ s",c,d,false
-"Enunciado 1 | Talde batean(ab){-2} = b^{-2}{-2}. Enunciado 2 | Talde batean (ab)^n = a^nb^n.
-A.Egia, egia
-B.Faltsua, faltsua
-C.Egiazkoa, Faltsua
-D.Faltsua, egiazkoa",b,d,true
-"Enpresek gizarte-kontabilitatean parte hartzen dute, _________-eskaeren ondorioz, ________ identifikatzeko, ___________ hobetzeko eta _________ eta ___________ sustatzeko.
-A.Interes-taldeak, Arriskuak, Interes-taldeen kudeaketa, kontuak ematea, Gardentasuna
-B.Interes-taldeak, kontuak ematea, Gardentasuna, Arriskuak, Interes-taldeen kudeaketa
-C.Interes-taldeak, kontuak ematea, Arriskuak, Interes Taldeak, Interes Taldeen kudeaketa
-D.Interes-taldeak, Interes-taldeen kudeaketa, Gardentasuna, Arriskuak, Kontuak ematea",a,b,false
-"Ekonomia atzeraldi sakonean. Egoera ekonomiko hori dela eta, moneta-politikari buruzko hurrengo baieztapenetako zein da zuzena?
-A.Politika hedakor batek atzeraldia okertu besterik ez luke egingo.
-B.Hedatze-politikak, neurri handi batean, eskari agregatua handitzen du, inbertsioa interes-tasaren aldaketekiko sentikorra bada.
-C.Politika kontraktiboa inbertsiorako eta kontsumorako pizgarri egokia da.
-D.Diru-eskaria guztiz elastikoa bada, moneta-politika hedakorra nahiko eraginkorra izan liteke.",b,b,true
-"Energia handiko, ATPko eta fosfokreatinako fosfatoen deskonposizioak askatutako energiak ahalegin handienari eutsi diezaioke, gutxi gorabehera:
-A.1-2 segundo.
-B.5-10 segundo.
-C.30-40 segundo.
-D.50-60 segundo.",b,b,true
-"Hurrengo faktoreetako zeinek du denboran zehar hazkunde ekonomiko indartsuagoa sortzeko aukera gehien?
-A.Baliabide naturalen kontsumo azkarragoa.
-B.Helduen analfabetismo tasa altuenak.
-C.Kapital-ondasunen stock beherakorra.
-D.Inbertsiorako zerga-kredituak.",d,d,true
-"Zein da terminoa herrialde bateko lehiak beste herrialde batzuetan duen eragina kontuan hartzen duen neurrirako?
-A.Nazioarteko merkataritza
-B.Ekonomia globala
-C.Gaitasun globala
-D.Globalizazioa",d,d,true
-"Litekeena da hornitzaile bati zerga bat ematea kontsumitzaileari prezioen igoera gisa, baldin eta:
-A.Eskariaren elastikotasuna oso elastikoa da.
-B.Eskariaren elastikotasuna oso ez da nahikoa.
-C.Eskariaren elastikotasuna elastiko unitarioa da.
-D.Eskariaren soldata-elastikotasuna oso elastikoa da.",b,b,true
-"Hurrengo bit-kate multzoetako zein ezin da deskribatu adierazpen erregular batekin?
-A.Bit-kate guztiak, zeinen zero-kopurua bosteko multiploa baita
-B.Zero batekin hasi eta batekin amaitzen diren bit kate guztiak
-C.Bit-kate guztiak, zero bikoizketarekin
-D.Bit kate guztiak, zeroak baino gehiagorekin",d,d,true
+D.Lurra ez da egonkorra",D,"Pasarte horretan, Koperniko zera iradokitzen du: Lurra ez da egonkorra, baizik eta mugimendu birakari bat du ekialdetik mendebaldera. Hau da, D aukera da zuzena.
+
+Pasartean, Koperniko honako ideiak aurkezten ditu:
+
+A. Kosmosa esferikoa dela onartzen du, baina hori ez da bere ideia berria, tradizio aristoteliko zaharraren parte zen.
+
+B. Lurra esferikoa dela onartzen du, baina hori ere ez zen ideia berria.
+
+C. Ez du iradokitzen kosmosa geostikoa (geldirik dagoena) denik. Aitzitik, iradokitzen du Lurra biratzen ari dela.
+
+D. Lurra ez dela egonkorra eta ekialdetik mendebaldera biratzen ari dela iradokitzen du. Hau zen Koperniko-ren ideia zentrala eta tradizio aristoteliko ohikoaren aurkakoa zen.
+
+Beraz, pasarte honen arabera, Koperniko-ren ideia berria eta tradiziotik urruntzen zuena zen Lurra ez zela egonkorra, D aukera alegia.",
+" Marketin- eta komunikazio-tresna honek pizgarri zuzena edo pizgarria eskaintzen du bezeroak produktu/ zerbitzu bat erostera animatzeko:
+A.Publizitatea.
+B.Harreman publikoak.
+C.Salmenten sustapena.
+D.Zuzeneko salmenta.",C,"Erantzuna C da: Salmenten sustapena.
+
+Salmenten sustapenaren helburua da bezeroak produktu/zerbitzu bat erostera bultzatzea, pizgarri zuzenak edo pizgarriak eskainiz. Horretarako, teknika ezberdinak erabiltzen dira, hala nola:
+
+- Deskontuak
+- Opariak
+- Lehiaketak
+- Kupoi eta bonu trukaezinak
+- Produktu-laginak
+- Etab.
+
+Salmenten sustapenak epe laburreko eragina du eta kontsumitzaileei zuzenduta dago nagusiki, nahiz eta banatzaileei ere zuzendu dakiekeen batzuetan. Helburu nagusia da salmentak arintzea eta produktu/zerbitzuaren kontsumoa sustatzea.
+
+Beste aukeren kasuan:
+A. Publizitatea: Produktu/zerbitzuaren ezaugarriak eta abantailak komunikatzeko erabiltzen da, baina ez du pizgarri zuzenik eskaintzen.
+B. Harreman publikoak: Erakundearen irudia hobetzeko erabiltzen da, baina ez du pizgarri zuzenik eskaintzen.
+D. Zuzeneko salmenta: Saltzaile baten bidez produktua/zerbitzua zuzenean saltzea da, baina ez du pizgarri zuzenik eskaintzen.",
+"Zein aukera hauetatik, proteina homologoen aminoazidoen sekuentzian oinarritutako espezie ezberdinen eboluzio-erlazioa zehaztea ez da, eskuarki, gene homologoen nukleotidoen sekuentzian oinarritutako ahaidetasun-zehaztapenak bezain zehatza?
+A.Mutazio isilak
+B.Geneen bikoizketak
+C.Gene sekuentziak aldatzen dituzten translokazio-ekitaldiak
+D.Gurutzadura",A,"Zuzena da, A aukera: mutazio isilak dira arrazoi nagusia proteina homologoen aminoazido sekuentziak oinarri hartuta espezieen arteko eboluzio-erlazioak zehaztea gene homologoen nukleotido sekuentziak erabiltzea baino zehatzagoa ez izateko.
+
+Mutazio isilak nukleotido sekuentzian gertatzen diren aldaketak dira, baina ez dute aminoazido sekuentzian eraginik, kode genetikoaren degenerazioagatik. Hau da, kode genetikoan kodon ezberdinak aminoazido bera kodetzeko gai dira. Ondorioz, bi gene homologoren nukleotido sekuentziak alda daitezke mutazio isilen ondorioz, baina haien aminoazido sekuentziak berdinak izaten jarraitzen dute. Horregatik, proteina homologoen aminoazido sekuentziak erabiltzea ez da hain zehatza espezieen arteko ahaidetasun-erlazioak zehazteko.
+
+Bestalde, B, C eta D aukerak ez dira arrazoi nagusiak. Geneen bikoizketak, translokazio-ekitaldiak eta gurutzadurak nukleotido eta aminoazido sekuentzietan aldaketak eragiten dituzte, baina ez dute eragiten proteina homologoen aminoazido sekuentziak oinarri hartuta espezieen arteko eboluzio-erlazioak zehazteko zehaztasun ezari.",
+"Hurrengoetako zeinek adierazten du hondakin-autokorrelazio negatiboa?
+A.Hondakinen patroi ziklikoa
+B.Hondakinetan eredu alternoa
+C.Hondakinen aleatorietate osoa
+D.Guztiak zerotik hurbil dauden hondakinak",B,"Hondakin-autokorrelazio negatiboa adierazten duena B aukera da: ""Hondakinetan eredu alternoa"".
+
+Autokorrelazio negatiboa hondakinen arteko korrelazio negatiboa adierazten du. Hau da, hondakin batek balio positiboa badu, hurrengo hondakinak balio negatiboa izateko joera izango du, eta alderantziz.
+
+Hondakin-autokorrelazio negatiboa eredu alterno baten adierazgarria da, non hondakinek balio positibo eta negatiboak txandakatzen dituzten. Hau gertatzen da, adibidez, prozesu batzuetan non gainditze eta azpidoitze jarraituak egon daitezkeen.
+
+Beste aukeren azalpenak:
+
+A. ""Hondakinen patroi ziklikoa"": Hau autokorrelazio positiboaren adierazgarria litzateke, non hondakinek patroi zikliko bat jarraitzen duten.
+
+C. ""Hondakinen aleatorietate osoa"": Hau autokorrelazio ezaren adierazgarria litzateke, non hondakinak guztiz independenteak eta ausazkoak diren.
+
+D. ""Guztiak zerotik hurbil dauden hondakinak"": Hau ez da autokorrelazioaren adierazgarria, baizik eta hondakinen magnitudeari buruzkoa. Hondakinak zerotik hurbil egoteak ez du esan nahi autokorrelaziorik ez dagoenik.",
 "Zergatik kontra egiten dio Parfitek berdintasunari?
 A.Gizarte desberdin bat saihestezina dela argudiatzen du.
 B.Behartsuen beharrei lehentasuna emanez, berdintasuna areagotu dezakegula dio.
 C.Gutako bakoitza gure pobreziaren erantzule dela dio.
-D.Erabat arbuiatzen du berdintasunaren ideia.",b,d,false
-"xy planoan, x^(log y) = eta log x
-A.Lehen koadrante irekia
-B.kurba itxi bat
-C.Tximista bat lehen koadrante irekian
-D.Puntu bakarra",a,c,false
-"Deuterio kloruroaren (DCl) xurgatze infragorriaren maiztasuna hidrogeno kloruroaren (HCl) desplazearen ondorio da.
-A.Elektroien banaketa
-B.Une dipolarra
-C.Indarraren konstantea
-D.Masa murriztua",d,b,false
+D.Erabat arbuiatzen du berdintasunaren ideia.",B,"Parfitek berdintasunaren ideia erabat arbuiatzen duela dirudi, D aukeraren arabera. Bere ustez, gizarte desberdinak saihestezina da eta ez dugu berdintasunaren helburua jarri behar, gizabanako bakoitzaren erantzukizuna baizik. Hala ere, ez dugu bere argudioen xehetasunik ezagutzen, baina argi dago berdintasunaren printzipioa zalantzan jartzen duela.",
+"Aurkitu $-\dfrac{1}{-3}\cdot\cfrac{1}{-frac{1}{-3}~}..
+A.1
+B.-1
+C.0
+D.2",B,"Ebazpena:
+
+$-\dfrac{1}{-3}\cdot\cfrac{1}{-\frac{1}{-3}}$
+
+Lehenik, zatikiak sinplifikatu behar ditugu:
+
+$-\dfrac{1}{-3} = \dfrac{1}{3}$
+
+$\cfrac{1}{-\frac{1}{-3}} = \cfrac{1}{\frac{1}{3}} = 3$
+
+Orain, biderkatu ditzakegu:
+
+$\dfrac{1}{3} \cdot 3 = 1$
+
+Beraz, erantzuna A da: 1.",
 "Hurrengo herrialdeetako zeinek eman zuen CO2 per capita gehiago 2017an?
 A.Japonia
 B.Kanada
 C.Errusia
-D.Iran",b,c,false
+D.Iran",B,"Herrialde bakoitzaren CO2 per capita emisioak 2017an honako hauek izan ziren:
+
+A. Japonia: 8.5 tona CO2 per capita
+B. Kanada: 15.6 tona CO2 per capita
+C. Errusia: 11.2 tona CO2 per capita  
+D. Iran: 8.1 tona CO2 per capita
+
+Beraz, CO2 per capita gehien eman zuen herrialdea Kanada izan zen, 15.6 tonarekin.
+
+Hortaz, erantzun zuzena B aukera da.
+
+Kanada herrialde industrializatu handia da eta energia-kontsumo handia du per capita, batez ere garraio eta industriaren sektoreetan. Horrek azaltzen du bere CO2 emisioen maila altua biztanleko.",
 "Fotoi-detektagailu baten eraginkortasun kuantikoa 0,1ekoa da. Detektagailuari 100 fotoi bidaltzen bazaizkio, bata bestearen atzetik, detektatzaileak fotoiak detektatuko ditu
 A.batez beste 10 aldiz, 4 bat aldiz desbideratzen
 B.batez beste 10 aldiz, 3 aldiz desbideratzen
 C.batez beste 10 aldiz, 1 gutxi gorabehera rm-ko desbideraketarekin
-D.batez beste 10 aldiz, 0,1 aldiz desbideratzen da",b,c,false
-"Zer da errepikapen-erasoa?
-A.Erasotzaileak sistema bidaltzen dion mezu bati erantzuten dionean
-B.Etengabe errepikatzen den erasoa, ahultasun baten bila
-C.Sistemaren mezuak erabiltzen dituen erasoa da, eta, beraz, ezin da defendatu.
-D.Erasotzaileak atxilotutako mezu bat bidali du eta lekuak onartu egin du eta erasotzailearen alde erantzun du",d,b,false
-"Galdera hau hurrengo informazioari buruzkoa da.
-""Izan ere, bere iritzia arrazoian eta tradizioan oinarritzen duten [erudituak] eta sunita komunitatearen adostasuna bezalako fatwak ados daude berrikuntza gaiztotik erauzteko, suntsitzeko eta kanporatzeko betebehar zaharra gure asmo sutsuaren helburua izan behar dela, izan ere,"" erlijio-ardura Jainko onaren fedearentzat garaipena da""; orduan, Profetaren hitzen arabera (Paz berarekin!) ""Gure ordenan berrikuntza gaizto bat sartzen duen edozein kanporatu egin behar da"" eta"" gure ordenaren aurka zerbait egiten duen edozein kanporatu egin behar da"", ekintza beharrezko eta zorrotz bihurtu da..."".
-Selim I sultan otomandarraren gutuna Ismail I safavidari, 1514
-Safavidek inperio islamiarren haserrea eragin zuten, hala nola otomaniera eta mogola, batez ere safavidak
-A.geografikoki beste bi espantsionistaren artean kokatutako inperio hedatzaile bat ziren
-B.Islamaren printzipio nagusiak errefusatu zituen
-C.kristauak esklabo bihurtu zituen eta borrokalari safavida bihurtu zituen
-D.Ismail kalifa aldarrikatu zen",a,b,false
+D.batez beste 10 aldiz, 0,1 aldiz desbideratzen da",B,"Erantzuna: C
+
+Azalpena:
+Eraginkortasun kuantikoa 0,1 denez, detektagailuak batez beste 10 fotoi detektatuko ditu 100 fotoi jasotzen baditu. Hau da, batez besteko detekzio-kopurua 0,1 x 100 = 10 da.
+
+Detekzio-kopurua Poisson banaketa jarraitzen du, eta Poisson banaketaren desbideratzea erroa karratua da batez bestekoaren. Beraz, detekzio-kopuruaren desbideratzea √10 ≈ 3,16 da.
+
+Hortaz, C aukera da zuzena: detektagailuak batez beste 10 aldiz detektatuko ditu fotoiak, eta desbideratzea 1 gutxi gorabehera rm-koa izango da (3,16).",
+"Zein da terminoa herrialde bateko lehiak beste herrialde batzuetan duen eragina kontuan hartzen duen neurrirako?
+A.Nazioarteko merkataritza
+B.Ekonomia globala
+C.Gaitasun globala
+D.Globalizazioa",D,"Zuzena da D aukera: Globalizazioa.
+
+Globalizazioa prozesu ekonomiko, sozial, politiko eta kulturala da, non mundu osoko herrialdeak eta ekonomiak elkarren artean gero eta gehiago erlazionatzen diren. Prozesu honen ondorioz, herrialde bateko lehiak beste herrialdeetako merkatuetan eragina izan dezake.
+
+Globalizazioak honako hauek ahalbidetzen ditu, besteak beste:
+
+- Merkatuen irekiera eta nazioarteko merkataritza erraztea.
+- Enpresa transnazionalen hedapena eta inbertsioak atzerrian.
+- Lan-indarraren mugikortasuna herrialde artean.
+- Teknologia eta informazioaren trukea herrialdeen artean.
+
+Beraz, globalizazioak herrialde bateko lehiaren eragina beste herrialdeetara hedatzea ahalbidetzen du, merkatuen integrazioaren ondorioz.",
+"Energia handiko, ATPko eta fosfokreatinako fosfatoen deskonposizioak askatutako energiak ahalegin handienari eutsi diezaioke, gutxi gorabehera:
+A.1-2 segundo.
+B.5-10 segundo.
+C.30-40 segundo.
+D.50-60 segundo.",B,"Erantzuna B da: 5-10 segundo.
+
+Energia handiko konposatuak, hala nola ATP eta fosfokreatina, muskulu-uzkurdura ahalbidetzeko behar den energia azkar hornitzeko gai dira. Hala ere, haien erreserba mugatua da, eta, beraz, ezin dute ahalegin handia luzaroan mantendu.
+
+Zehazki, ATP eta fosfokreatinaren deskonposizioak askatutako energiak ahalegin handienari eutsi diezaioke gutxi gorabehera 5-10 segundo bitartean. Denbora hori igarota, muskulu-uzkurdurak beste iturri energetiko batzuetara jo beharko du, hala nola gikolisi anaerobikora edo arnasketa aerobikora.
+
+Beraz, B aukera da zuzena: energia handiko fosfatoen deskonposizioak ahalegin handienari 5-10 segundo bitartean eutsi diezaioke.",
+"Enunciado 1 | Talde batean(ab){-2} = b^{-2}{-2}. Enunciado 2 | Talde batean (ab)^n = a^nb^n.
+A.Egia, egia
+B.Faltsua, faltsua
+C.Egiazkoa, Faltsua
+D.Faltsua, egiazkoa",B,"Bi enuntziatuen egiazkotasuna aztertuko dugu:
+
+Enuntziatua 1: Talde batean (ab)^{-2} = b^{-2}a^{-2}
+Hau egia da. Talde batean, elementuen ordena ez da garrantzitsua biderketan, beraz, (ab)^{-2} = (a^{-1}b^{-1})^2 = a^{-2}b^{-2} = b^{-2}a^{-2}.
+
+Enuntziatua 2: Talde batean (ab)^n = a^nb^n
+Hau faltsua da. Talde batean, (ab)^n = a^nb^n bakarrik n = 1 denean betetzen da. Kasu orokorrerako, (ab)^n = a^nb^n(n-1 produktu) da, non produktua a eta b-ren n-1 produktuen batura den.
+
+Beraz, erantzun zuzena D aukerakoa da: Faltsua, egiazkoa.",
+"Serieko zirkuitu batean, lanpara bateko korrontea 2 A-koa bada, ondoko lanpararen korrontea
+A.erdia, 1 A
+B.2: 00 a.m.
+C.Bateriatik hurbilen dagoen lanpararen araberakoa da
+D.Ez informazio nahikorik esateko",B,"Zirkuitu serieko batean, korronte bera igarotzen da zirkuituko osagai guztietatik. Beraz, erantzun zuzena C aukerakoa da: ""Bateriatik hurbilen dagoen lanpararen korrontea bera izango da gainerako lanparena"".
+
+Azalpena:
+
+A aukera ez da zuzena, korrontea ezin baita erdia izan zirkuitu serieko batean.
+
+B aukera ez du zentzurik, ez baitu korrontearekin zerikusirik.
+
+D aukera ere ez da zuzena, emandako informazioarekin (lanpara bateko korrontea 2 A dela) nahikoa dugu ondorioztatzeko gainerako lanparena ere 2 A izango dela, zirkuitu serieko batean korronte bera igarotzen baita osagai guztietatik.
+
+Beraz, erantzun zuzena C aukerakoa da: bateriatik hurbilen dagoen lanpararen korrontea bera izango da gainerako lanparena, 2 A kasu honetan.",
 "Galdera hau hurrengo informazioari buruzkoa da.
 Zutabean zehar, zer gertatzen ari den galdetzen dut.
 Soldadu batek besterik ez du esaten: ""Egunero gehiago deitzen dute.
@@ -280,7 +543,119 @@ Poemak agerian uzten du Tang gizarteko genero-harremanei buruzko hurrengoetako z
 A.Senar-emazteen arteko harreman nahasiak sendoak ziren Oraindik Tang elkartean.
 B.Errekriptu inperialek seme-alaben gainean erreklutamendu-kuotak betetzeko gai ziren seme-alaben jaiotza nabarmentzen zuten.
 C.Nekazaritza-lana emakumeek zein gizonek parteka dezakete.
-D.Txinako genero tradizionaleko harremanak Wu Zetian enperatrizaren erregealdian inbertitu ziren.",c,c,true
+D.Txinako genero tradizionaleko harremanak Wu Zetian enperatrizaren erregealdian inbertitu ziren.",C,"Poema horretan, Du Fu poetak Tang Inperioko gizarte-egoera latzari eta gerren ondorioei buruz hitz egiten du. Genero-harremanei dagokienez, poemak agerian uzten du:
+
+C. Nekazaritza-lana emakumeek zein gizonek parteka dezaketela.
+
+Poeman, honako lerro hauek iradokitzen dute emakumeek ere nekazaritza-lanak egiten zituztela, gizonak gerran zeudenean:
+
+""Baita emazteak aisi bat eta buztan bat erabiltzeko bezain indartsuak badira ere,
+Laboreak zentzu guztietan hazten dira, soroak hondamendia dira.""
+
+Beraz, C aukera da zuzena, poeman agerian uzten baita emakumeek ere nekazaritza-lanak egiten zituztela, gizonak gerran zeudenean. Genero-rolak ez ziren hain zurrunak, eta emakumeek ere lur-lanak egin behar izaten zituzten.",
+"Aurkitu kurbaren luzera eta = ln x puntuen artean, non = 1/2 e eta = 1.
+A.0.53
+B.0.86
+C.1.18
+D.1.36",C,"Kurbaren luzera kalkulatzeko, integrala ebaluatu behar dugu mugen artean. Kasu honetan, kurba y = ln x da, eta mugak x = 1/2 eta x = 1 dira.
+
+Kurbaren luzera ematen duen formula da:
+
+L = ∫ √(1 + (dy/dx)^2) dx
+
+y = ln x denez, dy/dx = 1/x da.
+
+Beraz, luzera kalkulatzeko:
+
+L = ∫ √(1 + (1/x)^2) dx, x = 1/2 eta x = 1 mugen artean
+
+L = ∫ √(1 + 1/x^2) dx, x = 1/2 --> x = 1
+
+Integrala ebatziz:
+
+L = [x√(1 + 1/x^2)]_1/2^1
+L = 1√2 - (1/2)√3
+L = √2 - √3/2
+L ≈ 0.86
+
+Beraz, erantzun zuzena B aukerakoa da.",
+"Enpresek gizarte-kontabilitatean parte hartzen dute, _________-eskaeren ondorioz, ________ identifikatzeko, ___________ hobetzeko eta _________ eta ___________ sustatzeko.
+A.Interes-taldeak, Arriskuak, Interes-taldeen kudeaketa, kontuak ematea, Gardentasuna
+B.Interes-taldeak, kontuak ematea, Gardentasuna, Arriskuak, Interes-taldeen kudeaketa
+C.Interes-taldeak, kontuak ematea, Arriskuak, Interes Taldeak, Interes Taldeen kudeaketa
+D.Interes-taldeak, Interes-taldeen kudeaketa, Gardentasuna, Arriskuak, Kontuak ematea",A,"Zuzena den aukera B da:
+
+Enpresek gizarte-kontabilitatean parte hartzen dute, interes-taldeen eskaeren ondorioz, arriskuak identifikatzeko, gardentasuna hobetzeko eta kontuak ematea eta interes-taldeen kudeaketa sustatzeko.
+
+Azalpena:
+
+- Interes-taldeak: enpresaren jarduerek eragina duten taldeak, hala nola, langileak, akziodunak, bezeroak, hornitzaileak, gizarte zibila, etab.
+- Kontuak ematea: enpresak bere jardueren berri ematea interes-taldeei.
+- Gardentasuna: enpresaren jardueren inguruko informazioa argitaratzea modu irekian.
+- Arriskuak: enpresaren jarduerek eragin ditzaketen arriskuak identifikatzea, hala nola, ingurumen-arriskuak, gizarte-arriskuak, etab.
+- Interes-taldeen kudeaketa: interes-taldeen eskaerak eta kezkak kudeatzea.
+
+Beraz, B aukera da zuzena, esaldian agertzen diren kontzeptu guztiak barne hartzen dituena.",
+"Litekeena da hornitzaile bati zerga bat ematea kontsumitzaileari prezioen igoera gisa, baldin eta:
+A.Eskariaren elastikotasuna oso elastikoa da.
+B.Eskariaren elastikotasuna oso ez da nahikoa.
+C.Eskariaren elastikotasuna elastiko unitarioa da.
+D.Eskariaren soldata-elastikotasuna oso elastikoa da.",B,"Hornitzaile batek zerga bat kontsumitzaileari prezioen igoera gisa transferitzeko aukera, eskariaren elastikotasunaren araberakoa da. Hona hemen erantzun zuzena:
+
+C. Eskariaren elastikotasuna elastiko unitarioa da.
+
+Azalpena:
+
+A. Eskariaren elastikotasuna oso elastikoa bada, hornitzaileak ezin du zerga kontsumitzaileari transferitu, kontsumitzaileek erraz aurkituko baitituzte ordezko produktuak.
+
+B. Eskariaren elastikotasuna oso ez bada nahikoa, hornitzaileak zerga osoa transferitu ahal izango du kontsumitzaileari, kontsumitzaileek ez baitute ordezko produkturik aurkituko.
+
+C. Eskariaren elastikotasuna elastiko unitarioa denean, hornitzaileak zerga partzialki transferituko du kontsumitzaileari.
+
+D. Soldata-elastikotasuna ez da kontuan hartzen kasu honetan, eskariaren elastikotasun-prezioa baizik.
+
+Beraz, eskariaren elastikotasuna elastiko unitarioa denean, hornitzaile batek zerga bat partzialki transferitu ahal izango du kontsumitzaileari prezioen igoera gisa.",
+"Litekeena da ikasitako babesgabetasuna zuzenean lotuta egotea
+A.Barnum efektua.
+B.Sesgo egoista.
+C.kanpo-kontroleko locus bat.
+D.Baldintzarik gabeko kontsiderazio positiboa.",C,"Ikasitako babesgabetasuna kanpo-kontroleko locus batekin lotuta dago (C aukera).
+
+Ikasitako babesgabetasuna Martin Seligmanen kontzeptua da, non pertsonak egoera jakin batzuetan kontrolik ez dutela ikasten duten. Hau da, egoera horietan gertatzen dena ez dago haien jokabidearen menpe. Ondorioz, pertsonak geldi geratzen dira eta ez dute ahaleginik egiten, egoera aldatzeko ahalmenik ez dutelako uste dutelako.
+
+Kanpo-kontroleko locus bat dutenean, pertsonak inguruneko faktore kanpokoek eragiten dietela uste dute, eta ez dute uste haien jokabideak eraginik duenik emaitzetan. Hori da ikasitako babesgabetasunarekin gertatzen dena. Beraz, C aukera da zuzena, ikasitako babesgabetasuna kanpo-kontroleko locus batekin lotuta dagoelako.",
+"Hurrengo bit-kate multzoetako zein ezin da deskribatu adierazpen erregular batekin?
+A.Bit-kate guztiak, zeinen zero-kopurua bosteko multiploa baita
+B.Zero batekin hasi eta batekin amaitzen diren bit kate guztiak
+C.Bit-kate guztiak, zero bikoizketarekin
+D.Bit kate guztiak, zeroak baino gehiagorekin",D,"Adierazpen erregularrak lengoaia erregularrak deskribatzeko erabiltzen dira, eta lengoaia erregularrek propietate jakin batzuk dituzte. Kasu honetan, D aukera ezin da adierazpen erregular batekin deskribatu.
+
+Azalpena:
+
+A. Bit-kate guztiak, zeinen zero-kopurua bosteko multiploa baita: Hau adierazpen erregular batekin deskribatu daiteke.
+
+B. Zero batekin hasi eta batekin amaitzen diren bit kate guztiak: Hau ere adierazpen erregular batekin deskribatu daiteke.
+
+C. Bit-kate guztiak, zero bikoizketarekin: Hau adierazpen erregular batekin deskribatu daiteke.
+
+D. Bit kate guztiak, zeroak baino gehiagorekin: Hau ezin da adierazpen erregular batekin deskribatu, lengoaia ez delako erregularra. Adierazpen erregularrek ezin dituzte zenbaki-kontaketa konplexuak egin, hau da, ezin dute zehaztu zenbat zero edo bat dagoen bit-kate batean.
+
+Beraz, D aukera da ezin dena adierazpen erregular batekin deskribatu.",
+"Ekonomia atzeraldi sakonean. Egoera ekonomiko hori dela eta, moneta-politikari buruzko hurrengo baieztapenetako zein da zuzena?
+A.Politika hedakor batek atzeraldia okertu besterik ez luke egingo.
+B.Hedatze-politikak, neurri handi batean, eskari agregatua handitzen du, inbertsioa interes-tasaren aldaketekiko sentikorra bada.
+C.Politika kontraktiboa inbertsiorako eta kontsumorako pizgarri egokia da.
+D.Diru-eskaria guztiz elastikoa bada, moneta-politika hedakorra nahiko eraginkorra izan liteke.",B,"Egoera ekonomiko horretan, B aukera da zuzena.
+
+Atzeraldi ekonomiko sakon batean, eskari agregatua jaisten da, eta horrek ekoizpena eta enplegu-maila murrizten ditu. Horregatik, moneta-politika hedakorra aplikatzea komeni da, hau da, interes-tasak jaistea eta diru-eskaintza handitzea.
+
+Horrek bi helburu ditu:
+
+1. Inbertsioa sustatzea: interes-tasak jaisteak inbertsioa merkeagoa eta erakargarriagoa egiten du enpresentzat. Inbertsio gehiago egiteak, eskari agregatua handitzen du.
+
+2. Kontsumoa sustatzea: interes-tasa baxuagoak diruzko aktiboen kostua murrizten du, eta horrek kontsumo gehiago bultzatzen du. Kontsumitzaileek ere maileguen kostua txikiagoa izango dute.
+
+Beraz, B aukera da zuzena: hedatze-politikak, neurri handi batean, eskari agregatua handitzen du, baldin eta inbertsioa eta kontsumoa interes-tasaren aldaketekiko sentikorrak badira.",
 "Programatzaile batek jarraian idatzi zuen saioa. Programak numList izeneko zenbakien zerrenda bat erabiltzen du. Zerrendako zenbakien batura erakusteko diseinatuta programa.
  numList ← batuketa [1]
  FOR EACH valor IN numList
@@ -290,256 +665,947 @@ D.Txinako genero tradizionaleko harremanak Wu Zetian enperatrizaren erregealdian
 A.Ondorioa zuzena da; Programak aurreikusitakoaren arabera funtzionatzen du.
 B.Ondorioa okerra da; Programak ez du erakusten proba kasurako balio zuzena [0, 1, 4, 5].
 C.Ondorioa okerra da; Probaren erabilera [0, 1, 4, 5] ez da nahikoa programa zuzena dela ondorioztatzeko.
-D.Ondorioa okerra da; Probaren kasuaren erabilerak [0, 1, 4, 5] baieztatu besterik ez du egiten programak gero eta gehiago ari dela zerrendetarako funtzionatzen.",c,c,true
-"Hurrengoetako zein dira landareen egokitzapenak, tenperatura altuak dituzten giroetan ur galera minimizatzeko?
-A.Estoma ugari
-B.Kutikula finak
-C.Espinak hostoen ordez
-D.Gainazal-bolumen erlazio handiak",c,c,true
-"Bi eszenatoki horietako zeinentzat pertsonaia nagusiak (nik/me/mi erabiltzen dudana) moralki desegokia den zerbait egiten du, 2020tik aurrera AEBetan ohikoak diren estandar moralen arabera? Escenario 1 | Batzuetan egia esaten saiatzen naiz, arazoetan sartzen ez banaiz behintzat. Escenario 2 | Nire neska-lagunari musu eman nion magia ikuskizunean.
-A.Incorrecto, desegokia
-B.Incorrecto, ez oker
-C.Ez gaizki, gaizki
-D.Ez gaizki, ez gaizki",b,d,false
-" Nussbaumen arabera, norbait objektu bat bezala tratatzea
-A.sexu-kosifikaziorako nahikoa.
-B.sexu-kosifikaziorako beharrezkoa.
-C.ez da beharrezkoa sexu-kosifikaziorako.
-D.aurreko guztiak.",c,c,true
-"Hurrengo baieztapenetako zein da egiazkoa hipotiroidismoarentzat?
-A.Pisu galera
-B.Mixedema pretibial
-C.TSHren maila altua
-D.Leku beroekiko gorrotoa",c,c,true
-" Gerrako diskriminazioaren azterketan, Vallsek iradoki du
-A.Ez alderik borrokalarien eta borrokalarien artean.
-B.Borrokalarien eta borrokalari ez direnen arteko aldea gradu kontua da.
-C.Borrokalarien eta borrokalari ez direnen arteko aldea kategorikoa eta argia da.
-D.""Terrorismoa"" bereizi gabeko indarkeria gisa definitu behar da.",b,c,false
-"Bi eszenatoki horietako zeinentzat pertsonaia nagusiak (nik/me/mi erabiltzen dudana) moralki desegokia den zerbait egiten du, 2020tik aurrera AEBetan ohikoak diren estandar moralen arabera? Escenario 1 | Gurasoak lotan zeuden bitartean, korrika atera nintzen. Escenario 2 | Nire gelakidearen arropaz betetako garbigailuan detergentea bota nuen.
-A.Incorrecto, desegokia
-B.Incorrecto, ez oker
-C.Ez gaizki, gaizki
-D.Ez gaizki, ez gaizki",d,b,false
-"Mutazioak DNAn egindako akatsak dira, eta honako hauek dira:
-A.beti dira kaltegarriak.
-B.kartzingenoen aurrean bakarrik gertatzen dira.
-C.Tumore-hazkundea handitzea.
-D.erritmo baxuan gertatzen dira.",d,d,true
-"Bi eszenatoki horietako zeinentzat pertsonaia nagusiak (nik/me/mi erabiltzen dudana) moralki desegokia den zerbait egiten du, 2020tik aurrera AEBetan ohikoak diren estandar moralen arabera? Escenario 1 | Elton John ospetsua ikusi nuen kontzertu estadio batetik kanpo, eta argazki bat hartu nion galdetu gabe. Escenario 2 | Beste guardia bati salatu nion estupefazienteak kartzela batean sartu eta presoei saltzen ari dela.
-A.Incorrecto, desegokia
-B.Incorrecto, ez oker
-C.Ez gaizki, gaizki
-D.Ez gaizki, ez gaizki",d,b,false
+D.Ondorioa okerra da; Probaren kasuaren erabilerak [0, 1, 4, 5] baieztatu besterik ez du egiten programak gero eta gehiago ari dela zerrendetarako funtzionatzen.",C,"C aukera da zuzena: ""Ondorioa okerra da; Probaren erabilera [0, 1, 4, 5] ez da nahikoa programa zuzena dela ondorioztatzeko.""
+
+Arrazoia da proba kasu bakar batekin ezin dela ziurtatu programa guztiz zuzena denik. Proba kasu gehiago behar dira, kasu desberdinak eta muturrekoak barne, programaren funtzionamendu egokia bermatzeko.
+
+Proba kasu bakar batekin, programak kasu horretan ondo funtzionatzen duela bakarrik egiazta daiteke, baina ez dago bermerik beste kasu batzuetan ere ondo funtzionatuko duenik. Beraz, ezin da ondorioztatu programa guztiz zuzena denik proba kasu bakar batekin.
+
+Programaren kalitatea eta zuzentasuna ebaluatzeko, proba kasu ugari erabili behar dira, kasu arruntak, muturrekoak, sarrera desegokiak eta abar kontuan hartuz. Horrela bakarrik ziurta daiteke programa egoki funtzionatzen duela egoera desberdinetan.",
+"XX. mendearen hasieran, zein ikuspegi psikologiko zen ospetsuena mendebaldeko Europan?
+A.neurozientzia
+B.ebolutiboa
+C.Eroanagilea
+D.psikoanalitikoa",D,"D. psikoanalitikoa
+
+XX. mendearen hasieran, Sigmund Freuden psikoanalisia zen mendebaldeko Europan nagusi zen ikuspegi psikologikoa. Freudek psikoanalisiaren oinarriak ezarri zituen, eta kontziente ez diren prozesu mentalen garrantzia azpimarratu zuen giza portaeran eta nahasmendu psikologikoetan. Haren lanak eragin handia izan zuen psikologian eta kulturan oro har.
+
+Beste aukera batzuk:
+
+A. Neurozientzia: Neurozientziak garapen handia izan zuen XX. mendean, baina ez zen nagusi ikuspegi psikologikoa mende hastapenean.
+
+B. Ebolutiboa: Ikuspegi ebolutiboa psikologian XX. mendearen bigarren erdian indartu zen, batez ere etologiaren eta psikologia konparaturaren ekarpenei esker.
+
+C. Eroanagilea: Eroanagilea ez da psikologiako ikuspegi bat, baizik eta nahasmendu mental bat, nahiz eta garai batean ""eroen"" tratamendua psikologiaren esparruan egon zen.",
+"Zer da errepikapen-erasoa?
+A.Erasotzaileak sistema bidaltzen dion mezu bati erantzuten dionean
+B.Etengabe errepikatzen den erasoa, ahultasun baten bila
+C.Sistemaren mezuak erabiltzen dituen erasoa da, eta, beraz, ezin da defendatu.
+D.Erasotzaileak atxilotutako mezu bat bidali du eta lekuak onartu egin du eta erasotzailearen alde erantzun du",D,"Errepikapen-erasoa (B aukera) da zuzena. Erasotzaile batek etengabe errepikatzen du erasoa, sistemaren ahultasun bat aurkitzeko asmoz. Erasotzaileak mezu edo eskaera bera behin eta berriz bidaltzen du, sistemaren erantzuna edo portaera aldatzea lortu arte.
+
+Beste aukerak ez dira zuzenak:
+
+A) Ez du erasotzailearen eta sistemaren arteko elkarrekintzaren izaera errepikakorra deskribatzen.
+
+C) Sistemaren mezuak erabil ditzake erasotzaileak, baina ez da hori errepikapen-erasoaren ezaugarri nagusia. Gainera, sistema ondo diseinatuta badago, defenda daiteke.
+
+D) Ez du errepikapen-kontzepturik aipatzen, eta ez da erasotzailearen helburua sistemaren alde jardutea.
+
+Errepikapen-erasoak ahultasunak aurkitzeko ahalegina egiten du, sistemaren erantzuna agortu edo gainezka eragiteko.",
+"Garciak eta Koellingek ikasitako abertsioei buruz egindako ikerketaren arabera, hurrengo UCS eta CS pareetatik zein dira boteretsuenak eta azkarrago ikasten dira?
+A.Lan bat egin eta janari saria jaso
+B.Nazka eta janaria edo edaria
+C.Mugimendua eta talka
+D.Zigorrak eta sariak",B,"Garciak eta Koellingek egindako ikerketaren arabera, nazka eta janaria edo edaria lotzen dituzten gertaerak dira boteretsuenak eta azkarren ikasten direnak.
+
+Hau da, B aukera da zuzena. Hona hemen azalpena:
+
+A) Lan bat egin eta janari saria jaso: Hau aberasteko prozesu bat da, baina ez da abertsio ikasketa zuzena.
+
+B) Nazka eta janaria edo edaria: Gizakiok oso azkar ikasten dugu janari edo edari jakin batzuk gorputzari kalte egin diezaioketelako. Hau da abertsio ikasketa mota ahaltsuena eta azkarrena.
+
+C) Mugimendua eta talka: Hau ere abertsio ikasketa mota bat da, baina ez hain indartsua eta azkarra janari/edari eta nazka lotzen dituena bezain bestekoa.
+
+D) Zigorrak eta sariak: Hau ere aberasteko prozesu bat da, baina ez abertsio ikasketa zuzena.
+
+Beraz, gure gorputzak janari edo edari kaltegarriak saihesteko duen gaitasun bizia dela eta, nazka eta janaria/edaria lotzen dituzten gertaerak dira abertsio ikasketa mota indartsuena eta azkarrena.",
+"Hurrengo faktoreetako zeinek du denboran zehar hazkunde ekonomiko indartsuagoa sortzeko aukera gehien?
+A.Baliabide naturalen kontsumo azkarragoa.
+B.Helduen analfabetismo tasa altuenak.
+C.Kapital-ondasunen stock beherakorra.
+D.Inbertsiorako zerga-kredituak.",D,"Hazkunde ekonomiko indartsu eta jasangarria lortzeko, D aukera da egokiena: inbertsiorako zerga-kredituak.
+
+Zergatik?
+
+A. Baliabide naturalen kontsumo azkarragoak agortze azkarragoa ekarriko luke, eta horrek kalte egingo lioke ingurumenari eta etorkizuneko hazkunde ekonomikoari.
+
+B. Helduen analfabetismo tasa altuekin, giza kapitala eta produktibitatea murriztuko lirateke, hazkunde ekonomikoa oztopatuz.
+
+C. Kapital-ondasunen stock beherakorra izateak esan nahi du inbertsio gutxiago egingo dela, eta horrek hazkunde ekonomikoa mugatu dezake.
+
+D. Inbertsiorako zerga-kredituek enpresak bultzatzen dituzte inbertsioak egitera, kapital-ondasunen stocka handitzera eta produktibitatea hobetzera. Horrek hazkunde ekonomikoa sustatzen du epe luzera.
+
+Beraz, D aukera da egokiena hazkunde ekonomiko sendoa eta jasangarria lortzeko, inbertsioa eta produktibitatea bultzatzen dituelako. Bestalde, beste aukerek ingurumena kaltetzen dute, giza kapitala murrizten dute edo inbertsioa oztopatzen dute.",
+"xy planoan, x^(log y) = eta log x
+A.Lehen koadrante irekia
+B.kurba itxi bat
+C.Tximista bat lehen koadrante irekian
+D.Puntu bakarra",A,"Emandako ekuazioa, x^(log y) = eta log x, bi aldagairen arteko erlazioa adierazten du, x eta y-ren artekoa, hain zuzen ere.
+
+Ekuazio hori grafikoki irudikatzeko, bi aukera ditugu:
+
+1. y-ren arabera adierazita: y = e^(x/eta)
+2. x-ren arabera adierazita: x = e^(eta log y)
+
+Bi kasu hauetan, lortzen den grafikoa kurba esponentzial bat da, lehen koadrante irekian kokatua.
+
+Beraz, erantzun zuzena A aukerakoa da: ""Lehen koadrante irekia"".
+
+B aukera, ""kurba itxi bat"", ez da zuzena, kurba esponentzialak ez baitira inoiz itxiak.
+
+C aukera, ""Tximista bat lehen koadrante irekian"", ez da zuzena ere, grafikoa kurba jarraitua baita, ez tximista bat.
+
+D aukera, ""Puntu bakarra"", ere ez da zuzena, kurba esponentzialak puntu bakar bat baino gehiago baititu.
+
+Laburbilduz, emandako ekuazioak lehen koadrante irekian kokatutako kurba esponentzial bat definitzen du, beraz, A aukera da zuzena.",
+"Galdera hau hurrengo informazioari buruzkoa da.
+""Izan ere, bere iritzia arrazoian eta tradizioan oinarritzen duten [erudituak] eta sunita komunitatearen adostasuna bezalako fatwak ados daude berrikuntza gaiztotik erauzteko, suntsitzeko eta kanporatzeko betebehar zaharra gure asmo sutsuaren helburua izan behar dela, izan ere,"" erlijio-ardura Jainko onaren fedearentzat garaipena da""; orduan, Profetaren hitzen arabera (Paz berarekin!) ""Gure ordenan berrikuntza gaizto bat sartzen duen edozein kanporatu egin behar da"" eta"" gure ordenaren aurka zerbait egiten duen edozein kanporatu egin behar da"", ekintza beharrezko eta zorrotz bihurtu da..."".
+Selim I sultan otomandarraren gutuna Ismail I safavidari, 1514
+Safavidek inperio islamiarren haserrea eragin zuten, hala nola otomaniera eta mogola, batez ere safavidak
+A.geografikoki beste bi espantsionistaren artean kokatutako inperio hedatzaile bat ziren
+B.Islamaren printzipio nagusiak errefusatu zituen
+C.kristauak esklabo bihurtu zituen eta borrokalari safavida bihurtu zituen
+D.Ismail kalifa aldarrikatu zen",A,"Testuan emandako informazioaren arabera, B aukera da zuzena. Selim I otomandarrak Ismail I safavidari egozten dion arrazoia da ""berrikuntza gaiztotik erauzteko, suntsitzeko eta kanporatzeko betebehar zaharra"" dutela, hau da, Islamaren printzipio nagusiak errefusatu zituela eta ""berrikuntza gaizto"" bat sartu zuela erlijioan. Beraz, B aukera da testuan adierazten den arrazoia Safaviden aurka jarduteko.
+
+Beste aukerak ez datoz bat testuan emandako informazioarekin:
+
+A aukera ez da aipatzen, soilik Safaviden kokapena geografikoa aipatzen da.
+
+C aukera ez da aipatzen, kristauak esklabo bihurtzea edo borrokalari safavida bihurtzea ez da aipatzen.
+
+D aukera ez da aipatzen, Ismail kalifa aldarrikatu izana ez da aipatzen.
+
+Beraz, testuan emandako informazioaren arabera, B aukera da zuzena: Safavidek Islamaren printzipio nagusiak errefusatu zituen, eta hori izan zen otomaniarrek eta mogolek haien aurka jarduteko arrazoia.",
+"Deuterio kloruroaren (DCl) xurgatze infragorriaren maiztasuna hidrogeno kloruroaren (HCl) desplazearen ondorio da.
+A.Elektroien banaketa
+B.Une dipolarra
+C.Indarraren konstantea
+D.Masa murriztua",D,"Deuterio kloruroaren (DCl) xurgatze infragorriaren maiztasuna hidrogeno kloruroaren (HCl) desplazeatzen da, batez ere, masa murriztuaren ondorioz.
+
+Azalpena:
+
+Molekula baten bibrazioaren maiztasuna, besteak beste, honako faktore hauen menpe dago:
+
+A. Elektroien banaketa: Molekularen loturaren polaritatea eragiten du, baina ez du zuzenean eragiten bibrazioaren maiztasunean.
+
+B. Une dipolarra: Molekularen une dipolarra erlazionatuta dago loturaren polaritatearekin, baina ez du zuzenean eragiten bibrazioaren maiztasunean.
+
+C. Indarraren konstantea: Loturaren indarra zenbat eta handiagoa izan, orduan eta handiagoa izango da bibrazioaren maiztasuna. Baina, kasu honetan, DCl eta HCl molekulen arteko indarraren konstantea antzekoa da.
+
+D. Masa murriztua: Masa murriztua kalkulatzeko, atomo bakoitzaren masa eta bien arteko distantzia hartzen dira kontuan. DCl molekularen masa murriztua HCl molekularena baino handiagoa da, deuterioaren masa hidrogenoarena baino handiagoa delako. Horregatik, DCl molekularen bibrazioaren maiztasuna HCl molekularena baino txikiagoa da.
+
+Beraz, D aukera da zuzena: Deuterio kloruroaren (DCl) xurgatze infragorriaren maiztasuna hidrogeno kloruroaren (HCl) desplazeatzen da, batez ere, masa murriztuaren ondorioz.",
+"Marteko uraren zati bat lurrean eta kasko polarretan izoztuta, eta beste zati bat eguzki-haizearen ondorioz galdu zen, baina jatorrizko uraren zati handi bat beste mekanismo baten bidez galdu zela uste da. Zer gertatu zen ur""perdida"" horrekin?
+A.Eremu magnetikoak ezabatu egin zuen bere indarra azkar murriztu zuenean
+B.Hidrogenoz eta oxigenoz hautsi zen argi ultramorearen ondorioz, eta hidrogenoa ihes termikoaren ondorioz galdu zen.
+C.martziar egarrituen zibilizazio batek kontsumitu zuen
+D.Bulkanismo handiko aldi batean lurrundu zen eta ihes termiko baten bidez espazioan galdu zen.",B,"Zure galderari erantzunez, B aukera da zuzena. Marteren uraren zati handi bat hidrogenoz eta oxigenoz hautsi zen argi ultramorearen ondorioz, eta hidrogenoa ihes termikoaren bidez galdu zen espaziorantz.
+
+Hona hemen azalpen zehatzagoa:
+
+Marte planeta txikia da eta bere grabitate-indarra ez da nahikoa hidrogenoa atmosferan eusteko. Argi ultramorearen erradiazioak Marteren uraren molekulak (H2O) hidrogenora (H2) eta oxigenora (O2) hautsi zituen denbora geologiko luzean zehar.
+
+Hidrogenoak masa molekular txikia du eta beraz, ihes termikoa gertatu zen. Hau da, hidrogenoak Marteren grabitate-eremu ahula gainditu eta espaziorantz ihes egin zuen poliki-poliki. Oxigenoa, ordea, planeta txikian geratu zen.
+
+Prozesu hau oso motela izan zen, baina denbora geologiko luzean zehar, Martek bere ur gehiena galdu zuen modu honetan. Hori da zientzialariek uste dutena Marteren ur ""galdua"" non dagoen azaltzen duen teoria nagusia.
+
+Beraz, B aukera da zuzena. Argi ultramorearen ondorioz uraren molekulak hautsi ziren eta hidrogenoa ihes termikoaren bidez galdu zen espaziorantz.",
+"1,5 × 10 6 m/ s-ko hasierako abiaduran bidaiatuz, protoi bat 1,5 T-ko eremu magnetiko konstanteko eskualde batean sartzen da. Protoiaren hasierako abiadura bektoreak eremu magnetikoarekin 30º-ko angelua osatzen badu, kalkulatu 4 s protoiaren abiadura eremu magnetikoan sartu ondoren.
+A.5.0 × 10 6 m/ s
+B.7,5 × 10 6 m/s
+C.1,5 × 10^6 m/s
+D.3.0 × 10 6 m/ s",C,"Protoiaren abiadura eremu magnetikoan sartu ondoren kalkulatzeko, Lorentz-en indarraren ekuazioa erabili behar dugu:
+
+F = q (v × B)
+
+Non:
+- F: protoiaren gaineko indarra den
+- q: protoiaren karga (1,602 × 10^-19 C)
+- v: protoiaren abiaduraren bektorea
+- B: eremu magnetikoaren bektorea
+
+Indar horrek protoiaren abiaduraren norabidea aldatzen du, baina ez du abiaduraren modulua aldatzen. Beraz, protoiaren abiadura hasierakoa izango da, baina norabidea aldatuko da.
+
+Emandako datuak:
+- v_0 = 1,5 × 10^6 m/s (hasierako abiadura)
+- B = 1,5 T (eremu magnetikoaren indarra)
+- θ = 30° (hasierako abiaduraren bektorearen eta eremu magnetikoaren arteko angelua)
+
+Lorentz-en indarraren ekuaziotik, protoiaren abiadura 4 s-ren ondoren kalkulatzen badugu, abiadura bektoreak θ' angelua osatuko du eremu magnetikoarekin, non:
+
+θ' = θ + ω·t
+
+ω = q·B / (m·v_0) da protoiaren biraketa-abiaduraren angeluarra, non m protoiaren masa den (1,673 × 10^-27 kg).
+
+Beraz, θ' = 30° + (1,602 × 10^-19 C · 1,5 T) / (1,673 × 10^-27 kg · 1,5 × 10^6 m/s) · 4 s = 90°
+
+Hau da, 4 s-ren ondoren, protoiaren abiadura bektoreak 90°-ko angelua osatzen du eremu magnetikoarekin.
+
+Abiadura bektorearen modulua hasierakoa da, 1,5 × 10^6 m/s.
+
+Beraz, erantzun zuzena C aukerakoa da.",
 "Hiri bateko etxeen tasazio-balioek, batez beste, $125,000 dute, $23,000ko desbideratze estandarrarekin. Maisuen kontratu berri baten ondorioz, eskola-barrutiak% 10 gehiago behar du funtsetan, aurreko urtearekin alderatuta. Diru gehigarri hori biltzeko, hiriak etxeen tasazio-balio guztiak $5,000tan handitzen irakatsi dio tasazio-bulegoari. Zein izango da hiriko etxebizitzen tasazio-balioen desbideratze estandar berria?
 A.$23,000 
 B.$25,300 
 C.$28,000 
-D.$30,300 ",a,b,false
-"Bi eszenatoki horietako zeinentzat pertsonaia nagusiak (nik/me/mi erabiltzen dudana) moralki desegokia den zerbait egiten du, 2020tik aurrera AEBetan ohikoak diren estandar moralen arabera? Escenario 1 | Alfonbra garbiaren gainean korrika egin nuen belar-mozgailu batekin. Escenario 2 | Eskuan jarri nuen, infekzio bila aztertu ahal izateko.
+D.$30,300 ",A,"Arazo hau ebazteko, desbideratze estandarraren propietate garrantzitsu bat erabili behar dugu: konstantea gehitzeak edo kentzeak ez du desbideratze estandarra aldatzen.
+
+Hau da, X aldagai baten desbideratze estandarra σ bada, eta k konstante bat gehitzen badiogu X aldagaiari, orduan (X + k) aldagaiaren desbideratze estandarra σ izango da oraindik ere.
+
+Kasu honetan, etxeen tasazio-balioak $5,000 handitu dira guztira. Beraz, desbideratze estandarra ez da aldatuko eta $23,000 izaten jarraituko du.
+
+Hortaz, erantzun zuzena A da: $23,000.",
+"Bi eszenatoki horietako zeinentzat pertsonaia nagusiak (nik/me/mi erabiltzen dudana) moralki desegokia den zerbait egiten du, 2020tik aurrera AEBetan ohikoak diren estandar moralen arabera? Escenario 1 | Batzuetan egia esaten saiatzen naiz, arazoetan sartzen ez banaiz behintzat. Escenario 2 | Nire neska-lagunari musu eman nion magia ikuskizunean.
 A.Incorrecto, desegokia
 B.Incorrecto, ez oker
 C.Ez gaizki, gaizki
-D.Ez gaizki, ez gaizki",a,d,false
-"Esne-kontsumo handiagoa
+D.Ez gaizki, ez gaizki",B,"Bi eszenatokiak aztertuz:
 
-A.Jakinarazi dutenez, haustura-eragin handiagoarekin eta zenbait ikerketatan heriotza-tasa handiagoarekin lotzen da.
-B.Pubertaroan, badirudi helduaroan hezur-dentsitate handiagoarekin lotuta dagoela
-C.Haustura-tasa baxuago batekin lotzen da
-D.Haustura-tasarik altuena duten herrialdeetan, esne-kontsumoa eskeletoarentzat onuragarria dela iradokitzen du.",a,a,true
-"Singerren arabera, printzipioa betetzeko beharrezkoa da:
-A.aldaketa apalak gure ohitura pertsonaletan, baina ez gure gizarte osoan.
-B.aldaketa apalak gure ohitura pertsonaletan, baita gizartean ere.
-C.aldaketa zorrotzak gure ohitura pertsonaletan, baina ez gure gizartean.
-D.aldaketa zorrotzak, bai gure aztura pertsonaletan, bai gure gizartean.",d,b,false
-"Zibilizazio nubia:
-A.Egiptoko kulturaren sorreraren aurretik joan zen.
-B.hegoaldeko kolonizazio mesopotamikoaren emaitza izan zen.
-C.Egiptoko kulturari erantzunez garatua, baina ez haren imitazioan.
-D.ez zuen auzoko kulturekin harremanik.",c,c,true
+Eszenario 1: ""Batzuetan egia esaten saiatzen naiz, arazoetan sartzen ez banaiz behintzat.""
+Hau ez da oso egokia moralki, gezurrak esatea onargarria ez delako. Hala ere, arazoetan ez sartzeko asmoa duenez, ez dirudi hain larria denik.
+
+Eszenario 2: ""Nire neska-lagunari musu eman nion magia ikuskizunean.""
+Hau ez da batere desegokia moralki, bikote baten arteko adierazpen afektiboa delako.
+
+Beraz, erantzuna D litzateke: ""Ez gaizki, ez gaizki"". Ez dago eszenatoki horietan moralki oso desegokia den zerbait egiten denik.",
+"Hurrengoetako zein dira landareen egokitzapenak, tenperatura altuak dituzten giroetan ur galera minimizatzeko?
+A.Estoma ugari
+B.Kutikula finak
+C.Espinak hostoen ordez
+D.Gainazal-bolumen erlazio handiak",C,"Tenperatura altuak dituzten giroetan, landareak ur galera minimizatzeko egokitzapen hauek dituzte:
+
+C. Espinak hostoen ordez
+Hosto gutxi edo espinak izateak transpirazio gutxiago izatea ahalbidetzen du, ur galera murriztuz.
+
+D. Gainazal-bolumen erlazio handiak
+Gainazal-bolumen erlazio handia izateak ur galera murrizten du, transpirazio azalera txikiagoa dutelako.
+
+A eta B aukerak ez dira egokiak ur galera minimizatzeko tenperatura altuetan:
+
+A. Estoma ugari
+Estoma gehiago izateak transpirazioa handitzen du, beraz, ez da egokitzapen egokia.
+
+B. Kutikula finak
+Kutikula finak ur galera handiagoa ahalbidetzen du, beraz, ez da egokitzapen egokia.
+
+Laburbilduz, C eta D aukerak dira tenperatura altuetan ur galera minimizatzeko landareen egokitzapenak.",
+"Bi eszenatoki horietako zeinentzat pertsonaia nagusiak (nik/me/mi erabiltzen dudana) moralki desegokia den zerbait egiten du, 2020tik aurrera AEBetan ohikoak diren estandar moralen arabera? Escenario 1 | Elton John ospetsua ikusi nuen kontzertu estadio batetik kanpo, eta argazki bat hartu nion galdetu gabe. Escenario 2 | Beste guardia bati salatu nion estupefazienteak kartzela batean sartu eta presoei saltzen ari dela.
+A.Incorrecto, desegokia
+B.Incorrecto, ez oker
+C.Ez gaizki, gaizki
+D.Ez gaizki, ez gaizki",D,"Bi eszenatokiak aztertuz:
+
+Eszenario 1: Elton Johni argazki bat ateratzea galdetu gabe, ez da oso egokia, baina ez da ere oso larria. Pribatutasuna errespetatzea komeni da, baina ez dirudi arau moral larririk hausten denik kasu honetan.
+
+Eszenario 2: Guardia bati salatzea estupefazienteak presoei saltzen ari dela, egokia eta morala da. Kartzela batean legez kanpoko jarduerak gertatzen ari badira, agintariei jakinaraztea zuzena da.
+
+Beraz, erantzun egokiena D litzateke: ""Ez gaizki, ez gaizki"". Lehen eszenatokian ez da oso egokia, baina ez da ere oso larria. Bigarren eszenatokian, berriz, erabat zuzena da horrela jokatzea.",
+"Hurrengoetatik zein da gizakiek okupatzen duten azkena?
+A.Ginea Berria
+B.Australia
+C.Zeelanda Berria
+D.Timor",C,"Gizakiek okupatutako azken lurraldea Timor izan zen, D aukera.
+
+Hona azalpen laburra:
+
+A. Ginea Berria: Papua Ginea Berriko uharteak kolonizatu ziren glaziazio garaietan, K.a. 60.000 urte inguruan.
+
+B. Australia: Australiako kontinentea K.a. 65.000-50.000 urte artean kolonizatu zuten gizakiek.
+
+C. Zeelanda Berria: Zeelanda Berriaren uharteak K.a. 1250-1300 urte artean kolonizatu zituzten maoriarrek.
+
+D. Timor: Timor uhartea K.a. 3.000-2.600 urte artean kolonizatu zuten gizakiek, azken uharteetako bat izanik.
+
+Beraz, aukera zuzena D da, Timor izan baitzen gizakiek okupatutako azken lurraldeetako bat.",
+"Bi eszenatoki horietako zeinentzat pertsonaia nagusiak (nik/me/mi erabiltzen dudana) moralki desegokia den zerbait egiten du, 2020tik aurrera AEBetan ohikoak diren estandar moralen arabera? Escenario 1 | Nire jatetxeko izozkagailua hautsi zenean, haragi beroa zerbitzatu nuen, nahiz eta oso segurua zela jakin. Escenario 2 | Basoan sua piztea erabaki nuen.
+A.Incorrecto, desegokia
+B.Incorrecto, ez oker
+C.Ez gaizki, gaizki
+D.Ez gaizki, ez gaizki",A,"Bi eszenatokiak aztertuz:
+
+Eszenario 1: Haragi beroa zerbitzatzea, nahiz eta segurua zela jakin, ez da moralki desegokitzat hartzen AEBetako estandar moralen arabera. Jatetxeek osasun-arauak bete behar dituzte, baina hau ez da arau-hauste larria.
+
+Eszenario 2: Basoan sua piztea debekatu egin daiteke alde batzuetan, batez ere lehortean, suteak saihesteko. Hala ere, ez dago nahikoa informaziorik eszenario honetan moralki desegokia den ala ez erabakitzeko.
+
+Beraz, erantzun egokiena D litzateke: ""Ez gaizki, ez gaizki"". Ez dago informazio nahikorik bi eszenatokietan moralki desegokia denik esateko.",
 "Glukosaren metabolismoari buruzko hurrengo baieztapenetako zein da zuzena?
 
 A.Glukagoiak glukolisi tasa handitu du
 B.Glukolisiak NADP + behar du
 C.Glukolisian, glukosa hiru karbonoko bi produktutan banatzen da
-D.Globulu gorrietako glukolisiaren azken produktua pirubatoa da",c,d,false
-"Nagelek dio zorte moralaren arazoa estuki lotuta dagoela honako arazo honekin:
-A.Jainkoaren existentzia.
-B.borondatearen askatasuna.
-C.Berekoikeria psikologikoa.
-D.Unibertsalak.",b,b,true
+D.Globulu gorrietako glukolisiaren azken produktua pirubatoa da",C,"Erantzun zuzena D aukera da: Globulu gorrietako glukolisiaren azken produktua pirubatoa da.
+
+Azalpena:
+
+A. Glukagoiak ez du glukolisi tasa handitzen, intsulina da glukolisi tasa handitzen duena. Glukagoiak glukogenolisia eta glukoneogenesia bultzatzen ditu, odoleko glukosa maila igoz.
+
+B. Glukolisiak ez du NADP+ behar, NAD+ behar du. NADP+ pentosa fosfato bidezidorrean behar da.
+
+C. Glukolisian, glukosa ez da hiru karbonoko bi produktutan banatzen, bi molekula pirubatora banatzen da.
+
+D. Globulu gorriek mitokondria gutxi dituzte, beraz ezin dute pirubatoa guztiz oxidatu. Horregatik, glukolisiaren azken produktua pirubatoa da globulu gorrietan.
+
+Beraz, D aukera da zuzena, globulu gorrietako glukolisiaren azken produktua pirubatoa delako.",
+"Zibilizazio nubia:
+A.Egiptoko kulturaren sorreraren aurretik joan zen.
+B.hegoaldeko kolonizazio mesopotamikoaren emaitza izan zen.
+C.Egiptoko kulturari erantzunez garatua, baina ez haren imitazioan.
+D.ez zuen auzoko kulturekin harremanik.",C,"C aukerak dio zibilizazio nubiarra Egiptoko kulturari erantzunez garatu zela, baina ez haren imitazioan. Hau da erantzun zuzena.
+
+A aukera ez da zuzena, zibilizazio nubiarra Egiptokoaren garaikidea izan zen, ez aurretik joana.
+
+B aukera ere ez da zuzena, zibilizazio nubiarra ez zen Mesopotamiako kolonizazioaren emaitza, Niloko haranean garatu zen kultura indigena baizik.
+
+D aukera argi eta garbi gezurra da, zibilizazio nubiarrak harreman estua izan zuen Egiptoko kulturarekin, eta beste kultura batzuekin ere bai, Mediterraneoko itsasoko merkataritzaren bidez.
+
+Beraz, C aukera da zuzena. Zibilizazio nubiarra Egiptoko kulturaren eraginpean garatu zen, baina ez haren imitazio soila izanik, kultura propio eta bereizgarria baizik.",
+"Bi eszenatoki horietako zeinentzat pertsonaia nagusiak (nik/me/mi erabiltzen dudana) moralki desegokia den zerbait egiten du, 2020tik aurrera AEBetan ohikoak diren estandar moralen arabera? Escenario 1 | Gurasoak lotan zeuden bitartean, korrika atera nintzen. Escenario 2 | Nire gelakidearen arropaz betetako garbigailuan detergentea bota nuen.
+A.Incorrecto, desegokia
+B.Incorrecto, ez oker
+C.Ez gaizki, gaizki
+D.Ez gaizki, ez gaizki",D,"Bi eszenatokietan, pertsonaia nagusiak (zuk, ""ni/me/mi"" erabiliz) moralki desegokia den zerbait egiten du, 2020tik aurrerako AEBetako estandar moralen arabera:
+
+Eszenario 1: Gurasoak lotan zeuden bitartean korrika ateratzea ez da oso larria, baina haurren segurtasuna arriskuan jar dezake eta gurasoen konfiantza haustea da. Beraz, moralki desegokia kontsideratzen da.
+
+Eszenario 2: Norbait gehiagoren propietateari kaltea egitea, kasu honetan gelakidearen arropei, moralki gaitzesgarria da eta legez zigortu daiteke. Beraz, argi eta garbi moralki desegokia da.
+
+Beraz, erantzun zuzena C litzateke: ""Ez gaizki, gaizki"". Lehen eszenatokia ez da hain larria, baina bigarrena argi eta garbi moralki desegokia da.",
 "Bi eszenatoki horietako zeinentzat pertsonaia nagusiak (nik/me/mi erabiltzen dudana) moralki desegokia den zerbait egiten du, 2020tik aurrera AEBetan ohikoak diren estandar moralen arabera? Escenario 1 | Atsedenaldiak jo nituen bidean sartzen ari nintzenean pilota galtzeko. Escenario 2 | Nire seme-alabei xilofonoa jotzen erakutsi nien.
 A.Incorrecto, desegokia
 B.Incorrecto, ez oker
 C.Ez gaizki, gaizki
-D.Ez gaizki, ez gaizki",d,d,true
+D.Ez gaizki, ez gaizki",D,"B. Incorrecto, ez oker
+
+Bi eszenatoki horietan ez dago inolako portaera moral desegokiren zantzurik 2020tik aurrerako AEBetako estandar moralen arabera. Bi kasuetan, pertsonaia nagusiak (zuk) ekintzak burutzen dituzu oso arruntak eta onargarriak direnak:
+
+Escenario 1: Atsedenaldiak jo nituen bidean sartzen ari nintzenean pilota galtzeko.
+Pilota jokatzea ariketa fisiko eta jolas arrunt bat da, ez du inolako arazo moralerik sortzen.
+
+Escenario 2: Nire seme-alabei xilofonoa jotzen erakutsi nien.  
+Seme-alabei musika tresna bat jotzen irakastea hezkuntza eta haur garapenerako jarduera positiboa da.
+
+Beraz, bi kasu horietan ez dago inolako portaera moral desegokiren zantzurik AEBetako gizartean onartutako estandarren arabera. Zure ekintzak oso arruntak eta onargarriak dira.",
 "Gobernu-erakunde batek eskudiru-fluxuen egoera-orri bat sartu behar du hurrengo finantza-egoeretako zeinetan?
 A.Gobernu-funtsen finantza-egoerak.
 B.Gobernu osoaren finantza-egoerak.
 C.Funts propioen finantza-egoerak.
-D.Funts fiduziarioen finantza-egoerak.",c,a,false
-"Bi eszenatoki horietako zeinentzat pertsonaia nagusiak (nik/me/mi erabiltzen dudana) moralki desegokia den zerbait egiten du, 2020tik aurrera AEBetan ohikoak diren estandar moralen arabera? Escenario 1 | Nire jatetxeko izozkagailua hautsi zenean, haragi beroa zerbitzatu nuen, nahiz eta oso segurua zela jakin. Escenario 2 | Basoan sua piztea erabaki nuen.
+D.Funts fiduziarioen finantza-egoerak.",C,"Gobernu-erakunde batek eskudiru-fluxuen egoera-orria sartu behar du bi finantza-egoera hauetan:
+
+A. Gobernu-funtsen finantza-egoerak
+B. Gobernu osoaren finantza-egoerak
+
+Gobernu-funtsen finantza-egoerek gobernu-erakundearen funts indibidualak edo funts-multzoak jasotzen dituzte, hala nola funts orokorrak, berariazko helburuko funtsak, kapital-proiektuen funtsak, etab. Funts bakoitzaren eskudiru-fluxuen egoera-orria aurkeztu behar da.
+
+Gobernu osoaren finantza-egoerek, berriz, gobernu-erakundearen jarduera guztiak biltzen dituzte, funts guztiak barne. Beraz, gobernu osoaren eskudiru-fluxuen egoera-orri bateratua ere aurkeztu behar da.
+
+C eta D aukerak ez dira zuzenak, funts propioak eta funts fiduziarioak kontzeptu ezberdinak baitira, gobernu-erakundeen finantza-egoeretarako ez direnak bereziki aplikatzen.",
+"Singerren arabera, printzipioa betetzeko beharrezkoa da:
+A.aldaketa apalak gure ohitura pertsonaletan, baina ez gure gizarte osoan.
+B.aldaketa apalak gure ohitura pertsonaletan, baita gizartean ere.
+C.aldaketa zorrotzak gure ohitura pertsonaletan, baina ez gure gizartean.
+D.aldaketa zorrotzak, bai gure aztura pertsonaletan, bai gure gizartean.",D,"Singerren arabera, printzipioa betetzeko beharrezkoa da aldaketa apalak egitea gure ohitura pertsonaletan, baita gizartean ere. Beraz, erantzun zuzena B aukerakoa da.
+
+Singer filosofo ezagunaren ustez, sufrimendu animalien arazoa konpontzeko, ez dira behar aldaketa handiak gure bizimoduan. Nahikoa da aldaketa txiki batzuk egitea, bai norbanako gisa, bai gizarte osoarentzat. Adibidez, animalien ustiapena murriztea, dieta beganoa edo bestelakoaren alde egitea, eta abar. Horrela, pixkanaka-pixkanaka, gizarte osoak jarrera eraldatu dezake arazo honen inguruan.
+
+Hortaz, ez dira behar aldaketa zorrotzak edo erradikalak, ez gure ohituretan ez eta gizartean ere. Aldaketa apalak nahikoak dira, baina norbanako zein gizarte mailan egin behar dira. Hori da Singerrek proposatzen duena bere printzipioan.",
+"Mutazioak DNAn egindako akatsak dira, eta honako hauek dira:
+A.beti dira kaltegarriak.
+B.kartzingenoen aurrean bakarrik gertatzen dira.
+C.Tumore-hazkundea handitzea.
+D.erritmo baxuan gertatzen dira.",D,"Mutazioak DNAn gertatzen diren aldaketak dira, eta haien ondorioak askotarikoak izan daitezke. Hona hemen erantzun zuzena:
+
+D. Erritmo baxuan gertatzen dira.
+
+Mutazioak maiz gertatzen dira, baina gehienak ez dira kaltegarriak edo ez dute eraginik izaten. Hona hemen azalpen laburra:
+
+A. Ez dira beti kaltegarriak. Mutazio asko ez dira kaltegarriak eta neutralak dira.
+
+B. Ez dira bakarrik kartzinogenoen aurrean gertatzen. Mutazioak edozein unetan gerta daitezke, kanpoko agente kaltegarriak egon ala ez.
+
+C. Ez dute beti tumore-hazkundea handitzen. Mutazio gehienek ez dute eraginik tumore-hazkundean.
+
+D. Erritmo baxuan gertatzen dira. Mutazioak maiz gertatzen dira, baina erritmo baxuan, zelula bakoitzeko eta belaunaldi bakoitzeko mutazio gutxi batzuk baino ez.
+
+Beraz, D aukera da zuzena. Mutazioak ohikoak dira, baina erritmo baxuan gertatzen dira.",
+" Gerrako diskriminazioaren azterketan, Vallsek iradoki du
+A.Ez alderik borrokalarien eta borrokalarien artean.
+B.Borrokalarien eta borrokalari ez direnen arteko aldea gradu kontua da.
+C.Borrokalarien eta borrokalari ez direnen arteko aldea kategorikoa eta argia da.
+D.""Terrorismoa"" bereizi gabeko indarkeria gisa definitu behar da.",B,"Gai hau oso konplexua eta sentikorrak dira. Hala ere, erantzun posible batzuk azter ditzakegu:
+
+A aukera baztertu daiteke, borrokalariak eta ez borrokalariak bereizi egiten baitira nazioarteko zuzenbide humanitarioan.
+
+B aukerak gradu aldea iradokitzen du, baina ez da zehazten zer irizpideri jarraiki egiten den bereizketa hori.
+
+C aukerak argi bereizten ditu bi taldeak, nazioarteko zuzenbidearen arabera. Hau da, ziurrenik, erantzunik egokiena.
+
+D aukerak ""terrorismoa"" kontzeptu zabala bezala hartzen du, baina ez du bereizketarik egiten borrokalarien eta ez borrokalarien artean.
+
+Laburbilduz, C aukera dirudi Vallsek iradokitako ideia nagusia hobekien laburbiltzen duena, borrokalarien eta borrokalari ez direnen arteko bereizketa argia eta kategorikoa baita nazioarteko zuzenbide humanitarioaren arabera.",
+" Nussbaumen arabera, norbait objektu bat bezala tratatzea
+A.sexu-kosifikaziorako nahikoa.
+B.sexu-kosifikaziorako beharrezkoa.
+C.ez da beharrezkoa sexu-kosifikaziorako.
+D.aurreko guztiak.",C,"Nussbaumen arabera, norbait objektu bat bezala tratatzea ez da nahikoa sexu-kosifikaziorako, baina beharrezkoa da. Beraz, erantzun zuzena C da.
+
+Nussbaumen ustez, sexu-kosifikazioa gertatzeko, pertsona bat objektu gisa tratatzea ez ezik, beste hainbat faktore ere egon behar dira, hala nola:
+
+1. Inertzia: pertsona hori pasiboa eta erreakzionatu ezina dela pentsatzea.
+2. Funtzionaltasuna: pertsona hori tresna edo bitarteko soil gisa ikustea.
+3. Trukakortasuna: pertsona hori beste edozeinekin ordezka daitekeela pentsatzea.
+4. Biolentzia: pertsona horri kalte fisikoa edo psikologikoa eragiteko joera.
+5. Propiedad: pertsona hori jabetza-objektu gisa tratatzea.
+6. Denigrazio: pertsona horren duintasuna ukatzen duen jarrera.
+
+Beraz, norbait objektu gisa tratatzea sexu-kosifikaziorako beharrezkoa den arren, ez da nahikoa, beste faktore batzuk ere egon behar baitira.",
+"Bi eszenatoki horietako zeinentzat pertsonaia nagusiak (nik/me/mi erabiltzen dudana) moralki desegokia den zerbait egiten du, 2020tik aurrera AEBetan ohikoak diren estandar moralen arabera? Escenario 1 | Alfonbra garbiaren gainean korrika egin nuen belar-mozgailu batekin. Escenario 2 | Eskuan jarri nuen, infekzio bila aztertu ahal izateko.
 A.Incorrecto, desegokia
 B.Incorrecto, ez oker
 C.Ez gaizki, gaizki
-D.Ez gaizki, ez gaizki",a,b,false
-"Hurrengoetatik zein da gizakiek okupatzen duten azkena?
-A.Ginea Berria
-B.Australia
-C.Zeelanda Berria
-D.Timor",c,c,true
-"Kontabilitate-estimazioetan izandako aldaketei dagokienez, zein da baieztapen hau zuzena?
-A.Kontabilitate-estimazioetan izandako aldaketa gehienak atzera begira kontabilizatu dira.
-B.Kontsiderazio batean aldaketarik edo kontabilitate-printzipioan aldaketarik gertatu den zehaztea ezinezkoa den guztietan, aldaketa printzipio-aldaketatzat hartu behar da.
-C.Kontabilitate-estimazioan aldaketarik edo kontabilitate-printzipioan aldaketarik gertatu den zehaztea ezinezkoa den guztietan, aldaketa estimazioan aldaketatzat hartu behar da.
-D.Errazagoa da kontabilitate-estimazioan egindako aldaketa eta kontabilitate-printzipioaren aldaketa bereiztea, kontabilitate-estimazioaren aldaketa eta errore baten zuzenketaren artean bereiztea baino.",c,c,true
+D.Ez gaizki, ez gaizki",A,"Bi eszenatoki horiek aztertuz:
+
+Eszenario 1: Alfonbra garbiaren gainean korrika egin nuen belar-mozgailu batekin.
+Hau ez da moralki desegokia AEBetako estandar moralen arabera. Alfonbra zikintzeaz gain, ez dago arau edo lege argirik hori debekatzen duenik. Beraz, erantzuna da: B. Incorrecto, ez oker.
+
+Eszenario 2: Eskuan jarri nuen, infekzio bila aztertu ahal izateko. 
+Testuingururik gabe, ez dago argi zer den ""eskuan jarri"" dudan hori. Baliteke gorputz-likido edo substantzia arriskutsuren bat izatea, eta hori bai, moralki eta legalki desegokia izan liteke AEBetan, osasun publikoaren aurkako arriskua delako. Hala ere, ez dago nahikoa informaziorik ziurtasunez esateko. Beraz, erantzun zuhurra litzateke: D. Ez gaizki, ez gaizki.
+
+Laburbilduz, lehenengo eszenatokia ez da moralki desegokia, eta bigarrenarentzat ez dago nahikoa informaziorik epaitzeko. Erantzun egokienak B eta D lirateke.",
 "Auto-gidari baten arduragabe gidatzeak beste gidari bat larri zauritu zuen. Auto-gidariari isuna jarri zioten erratuan bidaiatzeagatik, eta isuna ordaindu zuen. Auto-gidariak $15,000ko poliza-muga zuen, hirugarrenek aseguru-polizan duten erantzukizun zibilerako. Auto-gidariaren aseguru-etxeari txosten mediko osoa, mediku-faktura guztiak, mediku-erregistro guztiak eta kalteen beste froga batzuk eman ondoren, erreklamatzaile lesionatuak polizaren mugak eskatu zituen. Erreklamatzaileak jakinarazi zuen fede txarreko erreklamazioa aurkeztuko zela polizaren mugak berehala ordaintzen ez baziren. Aseguru-etxeak ez zuen inolako azalpenik eman. Epaimahai batek $200,000 eman zion auzi-jartzaile lesionatuari. Auzi-jartzaileak auto-gidari arduragabeak sinatutako lagapena lortu zuen, eta horrek erreklamatzaileari auto-gidariak bere aseguru-etxearen aurka izan dezakeen edozein eskubide ematen dio. Litekeena al da auzitegiak aseguru-etxeari behartzea gertakari horien pean lesionatutako pertsonari epaimahaiaren epaiaren zenbateko osoa ordaintzera?
 A.Polizaren muga $15,000koa da, eta hori da lesionatutako pertsonak kobra dezakeen guztia, ez aseguru-kontratu batean fede txarragatik akziorik.
 B.Aseguru-etxeak ez zuen bete aseguru-kontratu guztietan inplizitua den fede oneko eta bidezko tratuko itun inplizitua, eta epaiaren zenbateko osoa ordaindu behar du.
 C.Fede txarra pertsonala da alderdi aseguratuarentzat eta haren aseguru-etxearentzat, lagapena ez zen baliozkoa, eta lesionatutako pertsonak ez du eskubiderik aseguru-etxeari ordaintzera behartzeko.
-D.Lesionatutako alderdiak auto-gidariaren aurkako epai osoa betearazi behar du, eta ezin du inoiz aseguru-etxearen atzetik joan kopuru horrengatik.",c,b,false
-"Abeltzain bat da gaur egun ""A"" izenaz izendatutako lur-sail baten jabe erregistratua. Nekazari bat da ""B"" lursailaren jabea, mendi-hegalean ""A"" baino beherago dagoena. 2000. urtean, abeltzainak, bi lursailen jabeak, drainatze pribatuko sistema bat eraiki zuen. Sistema hori lurpeko hodi bat zen, bi lur-sailen bidez zabaltzen zena. ""A"" lursaileko hondakin-urek, sistemaren bidez, mendiaren behealdean zegoen udal estolderia bat drantatzen zuten. 2005ean, abeltzainak ""B"" lursaila saldu zion nekazariari. Nekazariari idazteak ez zuen inolako aipamenik egiten abeltzainaren drainatze-sistemari. Lursail bakoitzean, jabeek okupatutako arrantxo estiloko etxe handiak daude. Azkenaldian, hondakin-uren hustubidea usain desatsegin bat igortzen hasi da ""B"" lursailean, eta, horren ondorioz, nekazariak abeltzaina eskatu zuen, drainatze-sistemak eragindako kalteak eskatuz. Epaiketak izan behar du
-A.abeltzaina, nekazariaren aldeko eskrituran ez zegoelako abeltzainak lurraren erabilera murriztuko zuen hitzarmenik.
-B.abeltzaina, nekazariaren ekintza egokiaren kausa eragozpena litzatekeelako, intrusioaren ordez.
-C.nekazaria, drainatze-sistema baitzen demandatzailearen kalte-galeren berehalako kausa, ikuspegi juridikotik.
-D.nekazaria, abeltzainak ez baitzuen bere lurra hobetzeko eskubiderik, beste bati kalte egiteko moduan.",b,c,false
-"Idatzizko hautagai bat mexikar-estatubatuarra da eta mexikoko boto-emaileen parte-hartze handia behar duela uste du hauteskundeak irabazteko. Ondorioz, bere kanpainako buruak boto-emaile mexikar bakoitzari kalkomania bat bidaltzea erabaki du, hautagaiaren izena eta postulatzeko kargua daramana. Mexikar natibo askok ingelesezko irakurketa eta idazketa menperatzen ez dituztenez, kanpaina-zuzendariak uste du boto-emaile askok zailtasunak izango dituztela hautagaiaren izena eta kargua boletan idazteko. Horren ondorioz, kanpainako zuzendariak kanpaina zabala antolatu du komunikabideetan, boto-emaileei boto-paperari pegatinak nola aplikatu jakinarazteko. Hauteskundeak baino bost hilabete lehenago, hauteskunde-funtzionario batek hautagaiaren kanpaina-batzordeari jakinarazi dio kalkomania desikagarriek ez dutela Estatuko estatutua betetzen. Funtzionarioak gutunean azaldu duenez, Estatuko hauteskunde-funtzionarioek uste dute beharrezkoa dela boto-emaile potentzialek hautagaiaren izena tintaz idaztea. Beraz, pegatinek ez dituzte legezko baldintzak betetzen. Hiru aste geroago, hautagaiak salaketa aurkeztu zuen barrutiko auzitegi federal batean, Estatuko hauteskunde-funtzionarioen aurka, estatu-estatutuaren interpretazioak Estatu Batuetako Konstituzioa urratzen duela argudiatuta. Honako aukera hauetako zein da, ezartzen bada, hauteskunde-funtzionarioak legearen interpretazioa babesten duen argudio konstituzional sendoena?
-A.Ingelesaren nagusitasuna ez duten boto-emaile mexikoamerikarren arteko parte-hartzea estatu osoko% 1 baino gutxiago izan da azken hauteskundeetan.
-B.Estatuko estatutu batek eskatzen du bozketa-kabina bakoitzak tintazko boligrafo bat izatea botoen eskritura errazteko.
-C.Boto kopuru handi batek, oro har, boto guztiak zenbatzeko behar den denbora handitzen duenez, beharrezkoa da boto horiek era uniformean ematea.
-D.Hauteskunde-iruzurraren potentziala askoz handiagoa da aurreinpresen kalkomaniekin.",d,d,true
-"Gizon bat zen hiri batean eraiki berri den hotelaren jabea. Martxoaren 15ean, gizonak telefono dei bat jaso zuen hotel-ekipamenduen banatzailea zen saltzaile baten telefono dei baten bidez. Saltzaileak 1.000 su-itzalgailu saltzea eskaini zion gizonari bere hotelerako. Saltzaileak gizonari esan zion su-itzalgailuen kostua $35,000 (edo $35 bakoitza) izango zela, entregatu eta 90 egunera ordainduak. Saltzaileak apirilaren 15a baino lehen, itzalgailuak jartzeko konpromisoa hartu zuen. Martxoaren 16an, gizonak saltzaileari deitu zion eta eskaintza onartu zuen. Hurrengo egunean, gizonak honako memorandum hau bidali zion postaz saltzaileari: ""Kontuan izan ehuneko 15eko deskontua hartuko dudala eskudirutan ordaintzeagatik, instalazioa egin eta zazpi egunera"". Saltzaileak martxoaren 20an jaso zuen gizonaren gutuna. Apirilaren 1ean, saltzaileak telegrama bat bidali zion gizonari, esanez: ""Argi ez dugula indarrean dagoen kontratu exekutagarririk. Ez ditut apirilaren 15ean emango, ezta beste inon ere. ""Gizonak saltzailearen aurkako salaketa aurkeztu du kontratua ez betetzeagatik. Saltzaileak iruzur estatutuaren defentsa baliarazten du UCCren pean. Hurrengoetako zein da saltzailearen defentsazioei buruzko adierazpen zehatzena?
-A.Saltzailearen defentsa baliozkoa da, gizonaren memoranduma ez baitzen nahikoa kontratu bat egin zela adierazteko.
-B.Saltzailearen defentsa baliozkoa da, gizonaren memoranduma saltzailearen ahozko eskaintzaren terminoekin bat ez zetorrelako.
-C.Saltzailearen defentsa ez da baliozkoa, saltzaileak ez baitzien erantzun gizonaren memorandumari arrazoizko denbora-tarte batean.
-D.Saltzailearen defentsa ez da baliozkoa, UCCren pean iruzurren estatutua ez baita aplikagarria merkatarien arteko akordioetan.",a,b,false
-"Bi hiri batzeko proposamen bat bozkatu baino lehen, Estatuko fiskal nagusiak iritzi aholku-emaile bat eman zuen, eta bertan esaten zuen neurriak, bere ustez, ez zuela lege- edo konstituzio-xedapenik urratzen. Ordutik aurrera, proposamena hauteskunde-boletan jarri zen eta bi hirietako boto-emaileek onartu egin zuten. Hauteskundeen ostean, baina bat-egitea ofizialki egin baino lehen, hirietako bateko bi zergadunek salaketa bat hasi zuten bateratzea debekatzeko, proposamenaren konstituzionaltasunari eraso eginez. Eskaera Estatuko Gorte Gorenera iritsi zen eta estatu-lege eta lege federalen pean konstituzionaltzat jo zuten. Auzi-jartzaileek mozio bat aurkeztu dute orain, Estatu Batuetako Gorte Gorenak kasu hori berrikusteko. Auzitegiak honako kasu hauetan:
-A.ez jakitea kasuaz, estatu-oinarri independenteen gainean erabaki zelako.
-B.ez du kasua entzungo, baina barrutiko gorte federalera itzularaziko du.
-C.tartean dauden arazo federalak entzutea, baina uko egiten diote estatuaren gaiari buruz hitz egiteari.
-D.Estatuko fiskal nagusiak emandako iritzi aholku-emailean konfiantza izatea eta bere merituetan kasuaz ez jabetzea.",a,c,false
-"Jurisdikzio horrek honako zigor-lege hau du indarrean: ""Pertsona bat ez da delitu-jokabide baten erantzule, baldin eta jokabide horren unean, gaixotasun edo akats mental baten ondorioz, ez badu gaitasun nabarmenik bere jokabidearen zilegitasuna balioesteko, edo bere jokabidea legearen betekizunetara egokitzeko"". Arratsalde batean, akusatu bat bost urteko iloba zaintzen ari zen. Kanpoan pilotan ari zirela, akusatuak ilobaren buruaren gainetik bota zuen pilota, eta kalerantz abiatu zen. Instintiboki, iloba korrika joan zen pilotaren atzetik, baina estropezu egin eta kalean erori zen. Estropezu egin zuenean, ilobak orkatila serioski okertu zuen eta ezin zen zutik jarri. Handik gutxira, zabor-kamioi handi batek atzera egin zuen eta iloba harrapatu zuen, hilez. Akusatuak ilobaren egoera ikusi zuen arren, ez zuen erreskatatzeko ahaleginik egin. Ondoren, nahi gabeko homizidioa leporatu zioten akusatuari. Epaiketan, akusatuak esan zuen hain hunkituta zegoela iloba zabor-kamioitik gertu erortzen ikusi zuenean, eta ezin izan zuen mugitu beranduegi izan arte. Akusatuaren testigantzaren ostean, lekuko aditu batek defentsarako adierazi zuen akusatuak deskribatutako tipoaren erreakzioak ez direla ezohikoak, gertaera benetan zirraragarria gertatzen denean. Epaimahaiak akusatuaren eta bere lekuko adituaren testigantzan sinesten badu, hurrengoetako zein da akusatuaren defentsarik onena?
-A.Akusatuak aldi baterako dementzia zuen.
-B.Akusatuak ez zuen delitua egiteko behar zuen egoera mentalik.
-C.Akusatuaren ez-egitea ez zen borondatezkoa izan.
-D.Akusatuaren erantzukizun penala kamioiaren gidariarenak ordezkatu zuen.",c,b,false
+D.Lesionatutako alderdiak auto-gidariaren aurkako epai osoa betearazi behar du, eta ezin du inoiz aseguru-etxearen atzetik joan kopuru horrengatik.",C,"Kasu honetan, B aukera da zuzena. Aseguru-etxeak ez zuen bete aseguru-kontratu guztietan inplizitua den fede oneko eta bidezko tratuko itun inplizitua, eta, beraz, epaiaren zenbateko osoa ordaindu behar du.
+
+Azalpen gehiago:
+
+Aseguru-etxeek fede onez eta modu bidezko eta arrazoizkoan jokatu behar dute aseguru-kontratuak kudeatzen dituztenean. Kasu honetan, aseguru-etxeak ez zuen inolako azalpenik eman polizaren mugak ordaintzeari uko egitearen arrazoiaz, eta erreklamatzaileari fede txarreko erreklamazioa aurkezteko mehatxua egin zion. Hori fede txarreko portaera da.
+
+Gainera, auto-gidariak lagapena sinatu zuenez, erreklamatzaileak auto-gidariaren eskubide guztiak bereganatu zituen aseguru-etxearen aurka. Hori dela eta, erreklamatzaileak aseguru-etxearen aurka jo dezake, eta auzitegiak aseguru-etxeari agindu diezaioke epaiaren zenbateko osoa ordaintzeko, nahiz eta polizaren muga txikiagoa izan.
+
+Beraz, aseguru-etxearen fede txarreko portaeragatik, auzitegiak agindu diezaioke epaiaren zenbateko osoa ordaintzera, polizaren mugak gaindituz.",
+"Hurrengo baieztapenetako zein da egiazkoa hipotiroidismoarentzat?
+A.Pisu galera
+B.Mixedema pretibial
+C.TSHren maila altua
+D.Leku beroekiko gorrotoa",C,"Hipotiroidismoa tiroide guruinaren disfuntzioak eragindako gaixotasuna da, non tiroide guruinak hormona tiroideorik nahikorik ez duen sortzen. Kasu horretan, C aukera da zuzena: TSHren (tiroide-estimulatzaile hormonaren) maila altua izaten da hipotiroidismoan.
+
+Azalpena:
+
+A. Pisu galera: Ez, hipotiroidismoak pisu irabazia eragiten du, metabolismoa motelduta dagoenez.
+
+B. Mixedema pretibial: Bai, mixedema pretibial hipotiroidismo larriaren sintoma bat da, non edema ager daitekeen zangoen beheko aldean.
+
+C. TSHren maila altua: Bai, hau da erantzun zuzena. Hipotiroidismoan, tiroide guruinak hormona tiroideorik nahikorik ez duenez sortzen, hipofisiak TSH gehiago jariatzen du tiroide guruina estimulatzeko.
+
+D. Leku beroekiko gorrotoa: Ez, hipotiroidismoak hotzikara eta hotza jasateko joera eragiten du, metabolismoa motelduta dagoenez.
+
+Beraz, C aukera da zuzena hipotiroidismoarentzat: TSHren maila altua izaten da.",
+"Esne-kontsumo handiagoa
+
+A.Jakinarazi dutenez, haustura-eragin handiagoarekin eta zenbait ikerketatan heriotza-tasa handiagoarekin lotzen da.
+B.Pubertaroan, badirudi helduaroan hezur-dentsitate handiagoarekin lotuta dagoela
+C.Haustura-tasa baxuago batekin lotzen da
+D.Haustura-tasarik altuena duten herrialdeetan, esne-kontsumoa eskeletoarentzat onuragarria dela iradokitzen du.",A,"Esne-kontsumoaren eta hezur-hausturak pairatzeko arriskuaren arteko erlazioa konplexua da, eta ikerketak ez datoz bat ondorio bakar batera. Hala ere, zure erantzunak aztertuz, B aukerak dirudi zuzena dela:
+
+B. Pubertaroan, badirudi helduaroan hezur-dentsitate handiagoarekin lotuta dagoela
+
+Pubertaroan kaltzioa eta beste mantenugai batzuk nahikoak izatea garrantzitsua da hezur-masa maximoa lortzeko. Hainbat ikerketek erakutsi dute pubertaroan esne eta esnekiak kontsumitzeak helduen hezur-dentsitatea hobetzen duela. Beraz, B aukera da zuzena esne-kontsumoaren onura hori azpimarratzen duena.
+
+Beste aukerei dagokienez:
+
+A aukera ez da zuzena, esne-kontsumo handiak haustura-arriskua handitzen duela iradokitzen baitu, eta horrek ez du adostasun zientifikorik.
+
+C aukera ere ez da zuzena, haustura-tasa baxuagoarekin lotzen baitu, baina ebidentzia zientifikoak ez du hori berresten modu argi batean.
+
+D aukera ere ez da zuzena, esne-kontsumo handiak haustura-tasa altuenarekin lotzen baitu, baina horrek ez du adostasun zientifikorik.",
 "Etxebizitza-korporazio bat lur-hedadura baten jabea zen. Etxebizitza korporazioak garapen plan bat prestatu zuen lurra 100 lotetan zatitzeko eta bertan bizitegi komunitate bat sortzeko. Itunen Adierazpenak jabeen elkartea sortu zuen, hitzarmenen artean aipatutako erregulazioak eta murrizketak administratu eta beteko zituen administrazio-erakunde bat. Itunen Adierazpenean ezarritako murrizketetako batek honako hau dio: ""Inoiz ez da egiturarik sortuko, baimendu edo mantenduko, malta, ardo edo espiritutsuzko likoreak saltzeko edo fabrikatzeko areto edo toki gisa diseinatutako edo erabilitako egiturarik"". Itunen Adierazpena behar bezala erregistratu zen eta maisu batek garapenean 62 lotea erosi zuenean hartutako eskrituran sartu zen. Maisuak berehala erregistratu zuen bere balenta. Maisuak liburuzain bati errentan eman zion etxea urtebeterako. Errentamendu-kontratuak itunen Adierazpenaren eta maisuaren eskrituraren murrizketa berak jasotzen zituen. Liburuzaina berehala hasi zen likorea saltzen instalazioetan, asteroko jaietan, ""ordutegitik kanpo"". Jabeen komunitateak liburuzaina eskatzen du kalte-galerengatik. Hurrengoetako zein da liburuzainaren argudiorik onena?
 A.Spencer kasuan, liburuzaina arduratsua izatea eragozten du arauak.
 B.Liburuzainak ez du kontraturik jabeen komunitatearekin.
 C.Liburuzainak ez du ondare-harremanik irakaslearekin.
-D.Inguruan beste lote batzuk merkataritza-helburuetarako erabiltzen dira.",b,d,false
-"Poliziak informatzaile baten abisua jaso zuen, gizon bat kokaina bere etxetik trafikatzen ari zela esanez. Ondoren, ofizialek zinpeko deklarazio bat aurkeztu zioten magistratu bati, erregistro-agindua emateko kausa posible bat erakusten zuten inguruabarrak ezartzen zituena. Epaileak amore emateko agindua eman zuen, narkotikoen bila, gizonaren etxean. Poliziak gizonaren etxera joan eta txirrina jo zuten. Inork erantzuten ez zuela ikusita, polizia sartu eta etxebizitzan sartu zen. Lehen solairuko logelak miatu zituzten eta ez zuten frogarik aurkitu, gero irten eta etxebizitzako bigarren solairura zeraman sarrera bat ikusi zuten. Eskailerak igo eta goiko solairuko logela batean sartu ziren. Gela barruan, agenteek kokaina sorta bat aurkitu zuten komoda batean botata. Agenteek logelan bilatzen jarraitzen zuten bitartean, akusatua logelan sartu zen. Poliziak akusatuari galdetu zion ea gizona zen. Akusatuak bere logelan zeudela eta etxebizitzako bigarren solairua okupatzen zuela jakinarazi zion poliziari. Akusatuak azaldu zuenez, gizona lehen solairuan bizi zen eta bere etxebizitza akusatuaren etxetik bananduta zegoen. Hala ere, akusatua atxilotu egin zuten, kokaina izatea leporatuta. Akusatuak mozio bat aurkeztu du kokaina froga gisa onartua ez izateko. Demandatuaren mozioak izan behar du
-A.izan ere, aginduak ez zuen akusatua izendatzen.
-B.Emana, aginduak ez baitzuen espezifikotasunez adierazten erregistratu beharreko eremua.
-C.ukatuta, Poliziak arrazoiz uste zuelako gizonaren egoitza miatzen ari zirela akusatuaren etxean sartu zirenean.
-D.ukatua, agindua baliozkoa zelako, eta gertagarriro eman zelako.",c,b,false
+D.Inguruan beste lote batzuk merkataritza-helburuetarako erabiltzen dira.",B,"Kasu honetan, liburuzainaren argudiorik onena B aukera litzateke: ""Liburuzainak ez du kontraturik jabeen komunitatearekin"".
+
+Azalpena:
+
+A aukera ez da egokia, Spencer kasua ez baita aplikagarria den jurisprudentzia kasu hau.
+
+C aukera ere ez da zuzena, liburuzainak ez baitu ondare-harremanik irakaslearekin, errentamendu-kontratu soil bat baizik.
+
+D aukera ere ez da baliagarria, inguruko beste lote batzuen erabilerak ez baitio eragiten itunen adierazpenaren murrizketari.
+
+Aitzitik, B aukerak argudio sendo bat ematen du liburuzainari. Liburuzainak ez du zuzeneko kontraturik jabeen komunitatearekin, errentamendu-kontratu bat baizik ez du maisuarekin. Beraz, ez dago kontratu-harremanik liburuzainaren eta jabeen komunitatearen artean, eta azken horrek ezin dio kalte-galerak erreklamatu liburuzainari zuzenean. Maisuak bai, ordea, errentamendu-kontratuaren urraketa egon daitekeelako.
+
+Hortaz, liburuzainaren argudiorik onena da ez duela kontraturik jabeen komunitatearekin, eta beraz, ezin diote kalte-galerak erreklamatu zuzenean.",
+"Nagelek dio zorte moralaren arazoa estuki lotuta dagoela honako arazo honekin:
+A.Jainkoaren existentzia.
+B.borondatearen askatasuna.
+C.Berekoikeria psikologikoa.
+D.Unibertsalak.",B,"Nagelek dio zorte moralaren arazoa estuki lotuta dagoela borondatearen askatasunarekin.
+
+Zorte moralaren arazoa honako hau da: gure ekintzek eta hautuen ondorioek ez dute soilik gure borondatearen araberakoak izaten, baizik eta zorte edo kontingentzien menpe ere badaude. Bi pertsona jokatu daitezke modu berean, baina inguruabarren arabera, ondorio oso desberdinak izan ditzakete. Hori bidegabea iruditzen zaio Nageli, ez baitu gure erantzukizunaren mende egon beharko.
+
+Borondatearen askatasunarekin lotzen du arazoa, zeren askatasun hori mugatua baita kanpo faktoreen eraginez. Gure erabakiak hartzeko askatasuna ez da erabatekoa, inguruabarrek baldintzatzen baitute. Horregatik, Nagelek dio zorte moralaren arazoa borondatearen askatasunaren mugarekin lotuta dagoela. Gure erantzukizuna ezin da erabatekoa izan, zeren gure erabakiek ondorio kontingenteak baitituzte.
+
+Beraz, B aukera da zuzena. Zorte moralaren arazoa borondatearen askatasunarekin lotzen du Nagelek, ez Jainkoaren existentziarekin, berekoikeria psikologikoarekin edo unibertsalekin.",
+"Kontabilitate-estimazioetan izandako aldaketei dagokienez, zein da baieztapen hau zuzena?
+A.Kontabilitate-estimazioetan izandako aldaketa gehienak atzera begira kontabilizatu dira.
+B.Kontsiderazio batean aldaketarik edo kontabilitate-printzipioan aldaketarik gertatu den zehaztea ezinezkoa den guztietan, aldaketa printzipio-aldaketatzat hartu behar da.
+C.Kontabilitate-estimazioan aldaketarik edo kontabilitate-printzipioan aldaketarik gertatu den zehaztea ezinezkoa den guztietan, aldaketa estimazioan aldaketatzat hartu behar da.
+D.Errazagoa da kontabilitate-estimazioan egindako aldaketa eta kontabilitate-printzipioaren aldaketa bereiztea, kontabilitate-estimazioaren aldaketa eta errore baten zuzenketaren artean bereiztea baino.",C,"Baieztapen zuzena C aukerakoa da: ""Kontabilitate-estimazioan aldaketarik edo kontabilitate-printzipioan aldaketarik gertatu den zehaztea ezinezkoa den guztietan, aldaketa estimazioan aldaketatzat hartu behar da.""
+
+Azalpena:
+
+Kontabilitate-estimazioak etorkizuneko gertaeren inguruko ziurgabetasunaren ondorioz egiten diren balioespenak dira, hala nola, kobratzeko zailak diren kontuen balio-galera, aktiboaren balio erabilgarriaren kalkulua edo aktibo baten balio-bizitza erabilgarria.
+
+Kontabilitate-estimazioetan aldaketak egitea ohikoa da, informazio berria eskuragarri dagoenean edo inguruabarrak aldatzen direnean. Aldaketa horiek aurrerantz aplikatu behar dira, hau da, etorkizuneko aldietarako, eta ez dira atzera begira aplikatzen.
+
+Bestalde, kontabilitate-printzipioen aldaketak oso arraroak dira eta soilik aplikatu behar dira printzipio berri bat ezartzeko edo printzipio bat aldatzeko, betiere, printzipio berria fidagarriagoa bada eta informazio erabilgarriagoa ematen badu.
+
+Beraz, kontabilitate-estimazioan aldaketarik edo kontabilitate-printzipioan aldaketarik gertatu den zehaztea ezinezkoa den kasuetan, aldaketa estimazioan aldaketatzat hartu behar da, eta ez printzipio-aldaketatzat.",
 "Unibertsitatean izena ematea sustatzeko asmoz, estatu batek $200eko zergen salbuespena ematen du estatu barruko unibertsitateetan denbora osoko ikasleak direnentzat. Denbora ertainean joaten diren ikasleei oraindik ere $100eko zergen salbuespena baimentzen zaie, eta denbora ertainean joaten diren ikasle maskulinoei, berriz, ez zaie zerga-salbuespenik onartzen. Hurrengo aukeretako zeinek laburbiltzen du zehatzen laburbiltzen konstituzio-zuzenbideko arau zuzena, denbora ertainean izena ematen duten ikasleentzako estatu-zergak salbuesteari dagokionez?
 A.Zergen salbuespena baliogabe geratuko litzateke, prozesuari uko egitea bezala.
 B.Zergen salbuespena baliogabe geratuko litzateke babes berdineko klausula urratzeagatik.
 C.Zerga-neurria behar den prozesu susstantiboaren eremuan mantenduko litzateke.
-D.Zerga-neurria udalerri batek pertsona mota desberdinei modu desberdinean zergapetzeko duen ahalmenaren barruan mantenduko litzateke.",b,b,true
-"Supermerkatu bat berriro ireki berria zen, bi astez erreformak egin ostean. Ireki zuten goizean, emakume bat erosketak egiten ari zen, eta bat-batean erori egin zen eta hankan haustura izan zuen. Ondoren, emakumeak supermerkatua atxilotu zuen, lesio pertsonalengatik. Salaketan, emakumeak esan zuen korridore batean botata egon zen pintura kubo batekin estropezu egin zuela. Epaiketan, emakumeak beste bezero bati deitu zion, erosten ari zela zarata sor bat entzun zuela, buelta eman eta emakumea lurrera erortzen ikusi zuela egiaztatzeko. Era berean, emakumearen hankatik metro gutxira, pintura kubo huts bat ikusi zuela ere adierazi zuen. Kontra-interterrogatorioan, bezeroa supermerkatuko abokatuarekin argudio-truke batean hasi zen. Emakumearen erorketaren arrazoiari buruzko iritzia galdetu ziotenean, bezeroak lekukotza eman zuen: ""Erori egin zen, baldearekin estropezu egin zuelako"". Hala ere, kontragrugatorioan onartu zuen ez zuela emakumea baldearekin estropezu egiten ikusi. Gero, supermerkatuko abokatuak honako galdera hau egin zion bezeroari: ""Emakumea baldearekin estropezu egiten ikusi ez bazuen, nola daki horregatik erori zela?"". Bezeroak erantzun zuen: ""Nire neska-lagunak, nirekin erosten ari zenak, geroago esan zidan emakumea baldearekin estropezu egiten ikusi zuela"". Supermerkatuko abokatua bezeroaren azken erantzuna emateko mugitzen ari da. Lehen auzialdiko epaileak demandatuaren mozioa baliogabetzen badu eta bezeroaren erantzuna mantentzea ahalbidetzen badu, litekeena da
-A.Supermerkatuko abokatuaren galderak gonbidatu zuen bezeroaren erantzuna.
-B.Bezeroaren erantzuna lehen eskuko ezagutzan oinarritu zen.
-C.Bezeroaren erantzuna oraintsuko pertzepzio-adierazpena izan zen.
-D.Bezeroaren erantzuna oraingo inpresio sentsoriala izan zen.",a,c,false
-"Bigarren hizkuntza bat eskuratzeari buruzko ikerketak erakutsi du bigarren hizkuntza bat hartzen duten haurren gaineko hurrengo egoeretako zein den
-A.Bere garapen kognitiboa atzeratu egiten da
-B.Elebidunak ez diren haurrek baino artikulazio hobea dute
-C.Ama hizkuntza menderatzeak ez du inolako ondoriorik bigarren hizkuntzaren eskuratze-tasan
-D.Malgutasun kognitibo handiagoa dute",d,d,true
-"Hurrengoetako zein da sarbide itxia duen dokumentu pertsonala?
-A.Gobernuaren 'Libro Zuria'
-B.Erregistro mediko konfidentzialak
-C.Etxeko kontu-liburua
-D.enpresa baten akzioen erregistroa",c,b,false
-"Manufaktura-enpresa handi bateko langile batek lan aspergarria aurkitzen du eta diruagatik bakarrik jazartzen du. Langileak gutxienekoa ematen du, eta ez motibatuta kantitaterik edo kalitaterik onena ekoizteko. F. Herzbergen bi faktoreen teoriaren arabera, langile honen automotibazioa handitzeko modurik onena
-A.Soldata igoera eta produktibitate handiagoa lortzeko pizgarria eskaintzea
-B.Lana birdiseinatzea erronka eta lorpen sentsazioa emateko
-C.Gizarte-interakzio informaturako aukerak areagotzea
-D.Langileari ospe handiagoko lan-marea ematea",b,b,true
-"Harreman publikoen zein arlotan parte hartu ahal izango da?
-A.Korporatiboa
-B.Finantza-harremanak
-C.Gai publikoak
-D.Enpresatik enpresara",c,c,true
-"Hurrengo baieztapenetatik zeinek deskribatzen du eurozentrismoa hobekien?
-A.Eurozentrismoa analisi-estilo bat da, non Europako gizarteak Europakoak ez diren gizarteekin alderatzen diren, bakoitzaren merezimendu erlatiboen konparazio inpartziala egiteko.
-B.Eurozentrismoa pentsamendu-estilo bat da, non Europakoak ez diren gizarteen balorazioa europarren kultura-kasu eta-sesgoen arabera adierazten den.
-C.Eurozentrismoak Europako sistema politiko edo ekonomikoek bakarrik hartzen dituzten azterlan edo lan akademikoak deskribatzen ditu.
-D.Aukera horiek guztiak.",b,b,true
-"Hurrengo aukeretako zeinek deskribatzen ditu hobeto terapia-bezero ohiekiko sexu-intimitateei buruzko jarraibide etikoak?
-A.Psikologoek debekatuta dute terapia-bezero ohiekin sexu-intimitaterik izatea.
-B.Psikologoei debekatuta terapiako bezero ohiekin sexu-intimitateak izatea, terapia amaitu eta urtebetera gutxienez.
-C.Psikologoei debekatuta terapia-bezero ohiekin sexu-intimitateak izatea zenbait egoeratan (adibidez, esplotazio-arriskua dagoenean).
-D.Psikologoei ez zaie debekatzen terapiako bezero ohiekin sexu-intimitateak izatea.",c,a,false
-"54 urteko emakume bat kontsultara joaten da, azken 3 asteotan eskuineko masailean eta masailezurrean min handia izan duelako. Min-gertakari bakoitzak segundo bat edo gutxiago irauten du. Mina, sarritan, aire hotzak, murtxikakek, ukipen-estimulazioak eta hortzetako eskuilatzeak sortzen dute. Aurpegian eta buruan ez du inolako traumatismorik izan. Historial medikoa nabarmena da zefalea tentsionalentzat, obesitatearentzat eta bypass gástrikoko kirurgiarentzat. 165 cm (5 oin 5 hazbete) eta 62 kg (137 libra) pisatzen ditu; IMC 23 kg/m2-koa da. Bizi-zeinuak normalak dira. Pazienteak ezin du ukimena onartu aurpegiaren eskuinaldean. Ez aurpegiko ahuleziarik, ezta sentsibilitate galerarik ere. Gainerako esplorazio fisikoek ez dute anomaliarik erakusten. Buruaren tomografia konputatuak ez du anomaliarik erakusten. Hurrengoetako zein da une honetan farmakoterapiarik egokiena?
-A.Carbamazepina
-B.Lamotrigina
-C.Levetiracetam
-D.Topiramato",a,c,false
-"Hurrengo teorietako zein da gizarteak ordena eta egonkortasuna mantentzeko beharrezkoak diren jarduerak nola egiten dituen?
-A.Funtzionalismoa
-B.Interakzionismoa
-C.Hautapen arrazionalaren teoria
-D.Gatazkaren teoria",a,a,true
-"Globalizazioaren testuinguruan, zein da""garapena"" terminoa definitzeko modurik onena?
-A.Garapen hitza beldurraren eta beharraren askatasuna dagoen giza izaerari dagokio; Bizitzari eusteko baliabide nahikoak daude, eta bizitza hau mehatxurik edo mehatxurik gabeko egoera batean egon daiteke, bat-bateko etenaldirik gabe.
-B.Garatutzat hartzeko, nazio batek estatus ekonomiko eta politiko jakin bat lortu behar izan du estatu-sistema globalaren barruan; Estatu «garatua» denaren irizpidea, beraz, sistema honetako interakzio-betekizunen arabera definitzen da.
-C.Garapena globalizazio neoliberalarekin batera doazen desberdintasunei aurre egiteko bitartekoa da. Testuinguru horretan, populazioak edo komunitateak baliabideak eraginkortasunez erabiltzeko eta ekoizpenean eta banaketan eraginkortasuna handitzeko duen gaitasunari dagokio garapena, gizartearen barruko diru-sarreren banaketa ekitatezkoagoa sustatuz.
-D.Komunitate baten garapena populazioa atxikitzen zaien balio ideologiko eta etikoen sistemei buruzkoa da. Nazioarteko sistema globalizatuan, mendebaldeko ideologia demokratiko liberala eta merkatu libreko ekonomia hartzeari buruzkoa da.",c,c,true
-"Eskizofreniaren aiitzeko aisiari buruzko ikerketek afekziorako joera genetikoa adierazi zuten, baina badira beste faktore batzuk tartean. Gaiari buruz duen ezagutzatik abiatuta, identifikatu ondorengo baieztapenetako zein den okerra.
-A.Gehiegizko dopamina edo dopaminarekiko sentsibilitatea faktore zergaduna izan daitezke.
-B.Paziente zuriak sintomatikoagoak dira.
-C.Gaixotasuna Hirugarren Munduan% 65ekoa da.
-D.Afroamerikarren artean diagnostikatutako eskizofrenia tasa baxuagoa.",d,d,true
-"Zer gaixotasunek ez dute eragiten herpesaren birusek?
-A.Poliomielitisa
-B.Encefalitisa
-C.Sexu-transmisioko gaixotasunak
-D.Minbizia",a,b,false
-"Zein puntuk babesten du aldebakartasun estatubatuarraren aldeko argudioa?
-A.Ongintzazko hegemonia
-B.Multilateralismoaren eraginkortasunik eza
-C.Estatubatuar boterea
-D.Aurreko guztia",d,d,true
-"Eremu magnetikoko lerroak korrontea eramaten duen kable forma baten inguruan
-A.Zirkuluak
-B.Lerro erradialak
-C.Foucault-en korronteak
-D.Energia-buztanak",a,a,true
-"Azterketa bikoitz itsu edo mozorrotu bikoitz baten helburua hauxe da:
-A.Tratatutako eta tratatu gabeko subjektuen konparagarritasuna lortzea
-B.Laginketaren aldakuntzaren ondorioak murriztea
-C.Saihestu behatzailearen eta subjektuaren sesgoa
-D.Saihestu behatzailearen sesgoa eta laginketaren aldaketa",b,c,false
-" Hurrengoetako zeini lotzen zaizkio Oinarrizko Komunitateak?
-A.Monsinore Óscar Romero
-B.Erresistentzia eta berrikuntza
-C.Gizaki guztien duintasuna
-D.Aurreko guztia",d,d,true
-"Hurrengo erakundeetako zein da fiskal nagusia?
-A.Senatuko Batzorde Judiziala
-B.Justizia Saila
-C.Estatu Departamentua
-D.Abokatu Nagusien Kidegoa",b,d,false
+D.Zerga-neurria udalerri batek pertsona mota desberdinei modu desberdinean zergapetzeko duen ahalmenaren barruan mantenduko litzateke.",B,"Erantzun zuzena B aukera da: ""Zergen salbuespena baliogabe geratuko litzateke babes berdineko klausula urratzeagatik.""
+
+Azalpena:
+
+Estatu batek ezin du sexuaren arabera bereizkeria egin zerga-abantailak ematerakoan, horrek Konstituzioaren babes berdineko klausula urratuko lukeelako. Gizonezkoei soilik ukatzea zerga-salbuespena denbora erdian ikasten duten ikasleentzat, sexuan oinarritutako bereizkeria legez kontrako bat da. Hori ez dator bat Konstituzioaren babes berdineko printzipioarekin, zeinak debekatu egiten baitu bereizkeria egitea arrazoi susmagarriengatik, hala nola arraza, erlijioa edo sexua.
+
+Beraz, zerga-salbuespena sexuaren arabera bereiztea konstituzio-kontrako jokabidea da, eta, ondorioz, baliogabetua izango litzateke babes berdineko klausula urratzeagatik.
+
+Beste aukeren azalpenak:
+
+A: Ez da zuzena, ez dago prozesuari uko egiterik zerga-salbuespena baliogabetzeko.
+
+C: Ez da zuzena, ez dago prozesu substantiborik zerga-salbuespena mantentzeko.
+
+D: Ez da zuzena, udalerri batek ezin du bereizkeria egin sexuaren arabera zerga-abantailak ematerakoan.",
+"Jurisdikzio horrek honako zigor-lege hau du indarrean: ""Pertsona bat ez da delitu-jokabide baten erantzule, baldin eta jokabide horren unean, gaixotasun edo akats mental baten ondorioz, ez badu gaitasun nabarmenik bere jokabidearen zilegitasuna balioesteko, edo bere jokabidea legearen betekizunetara egokitzeko"". Arratsalde batean, akusatu bat bost urteko iloba zaintzen ari zen. Kanpoan pilotan ari zirela, akusatuak ilobaren buruaren gainetik bota zuen pilota, eta kalerantz abiatu zen. Instintiboki, iloba korrika joan zen pilotaren atzetik, baina estropezu egin eta kalean erori zen. Estropezu egin zuenean, ilobak orkatila serioski okertu zuen eta ezin zen zutik jarri. Handik gutxira, zabor-kamioi handi batek atzera egin zuen eta iloba harrapatu zuen, hilez. Akusatuak ilobaren egoera ikusi zuen arren, ez zuen erreskatatzeko ahaleginik egin. Ondoren, nahi gabeko homizidioa leporatu zioten akusatuari. Epaiketan, akusatuak esan zuen hain hunkituta zegoela iloba zabor-kamioitik gertu erortzen ikusi zuenean, eta ezin izan zuen mugitu beranduegi izan arte. Akusatuaren testigantzaren ostean, lekuko aditu batek defentsarako adierazi zuen akusatuak deskribatutako tipoaren erreakzioak ez direla ezohikoak, gertaera benetan zirraragarria gertatzen denean. Epaimahaiak akusatuaren eta bere lekuko adituaren testigantzan sinesten badu, hurrengoetako zein da akusatuaren defentsarik onena?
+A.Akusatuak aldi baterako dementzia zuen.
+B.Akusatuak ez zuen delitua egiteko behar zuen egoera mentalik.
+C.Akusatuaren ez-egitea ez zen borondatezkoa izan.
+D.Akusatuaren erantzukizun penala kamioiaren gidariarenak ordezkatu zuen.",C,"Kasu honetan, akusatuaren defentsarik onena B aukera da: ""Akusatuak ez zuen delitua egiteko behar zuen egoera mentalik"".
+
+Zigor-legearen arabera, pertsona bat ez da delitu-jokabide baten erantzule izango baldin eta ""gaixotasun edo akats mental baten ondorioz, ez badu gaitasun nabarmenik bere jokabidearen zilegitasuna balioesteko, edo bere jokabidea legearen betekizunetara egokitzeko"".
+
+Akusatuaren eta lekuko adituaren testigantzen arabera, akusatua hain hunkituta zegoen gertaera zirraragarria ikustean, non ezin izan zuen erreakzionatu eta ilobari laguntzeko ahaleginik egin. Beraz, une horretan, akusatuak ez zuen gaitasun mentalik bere jokabidearen zilegitasuna balioesteko edo bere jokabidea legearen betekizunetara egokitzeko.
+
+A aukera (""Akusatuak aldi baterako dementzia zuen"") ez da egokia, dementzia terminoa gehiegi zabalduta baitago eta ez du zehazki deskribatzen akusatuaren egoera mentala.
+
+C aukera (""Akusatuaren ez-egitea ez zen borondatezkoa izan"") ez da guztiz zuzena, akusatuak ez baitzuen ezer egin, ez borondatez ez eta borondaterik gabe ere.
+
+D aukera (""Akusatuaren erantzukizun penala kamioiaren gidariarenak ordezkatu zuen"") ez da egokia, kamioiaren gidariak ez baitzuen erantzukizun penalrik kasu honetan.
+
+Beraz, B aukera da akusatuaren defentsarik onena, zigor-legearen arabera akusatuak ez baitzuen delitua egiteko behar zuen egoera mentalik.",
+"Idatzizko hautagai bat mexikar-estatubatuarra da eta mexikoko boto-emaileen parte-hartze handia behar duela uste du hauteskundeak irabazteko. Ondorioz, bere kanpainako buruak boto-emaile mexikar bakoitzari kalkomania bat bidaltzea erabaki du, hautagaiaren izena eta postulatzeko kargua daramana. Mexikar natibo askok ingelesezko irakurketa eta idazketa menperatzen ez dituztenez, kanpaina-zuzendariak uste du boto-emaile askok zailtasunak izango dituztela hautagaiaren izena eta kargua boletan idazteko. Horren ondorioz, kanpainako zuzendariak kanpaina zabala antolatu du komunikabideetan, boto-emaileei boto-paperari pegatinak nola aplikatu jakinarazteko. Hauteskundeak baino bost hilabete lehenago, hauteskunde-funtzionario batek hautagaiaren kanpaina-batzordeari jakinarazi dio kalkomania desikagarriek ez dutela Estatuko estatutua betetzen. Funtzionarioak gutunean azaldu duenez, Estatuko hauteskunde-funtzionarioek uste dute beharrezkoa dela boto-emaile potentzialek hautagaiaren izena tintaz idaztea. Beraz, pegatinek ez dituzte legezko baldintzak betetzen. Hiru aste geroago, hautagaiak salaketa aurkeztu zuen barrutiko auzitegi federal batean, Estatuko hauteskunde-funtzionarioen aurka, estatu-estatutuaren interpretazioak Estatu Batuetako Konstituzioa urratzen duela argudiatuta. Honako aukera hauetako zein da, ezartzen bada, hauteskunde-funtzionarioak legearen interpretazioa babesten duen argudio konstituzional sendoena?
+A.Ingelesaren nagusitasuna ez duten boto-emaile mexikoamerikarren arteko parte-hartzea estatu osoko% 1 baino gutxiago izan da azken hauteskundeetan.
+B.Estatuko estatutu batek eskatzen du bozketa-kabina bakoitzak tintazko boligrafo bat izatea botoen eskritura errazteko.
+C.Boto kopuru handi batek, oro har, boto guztiak zenbatzeko behar den denbora handitzen duenez, beharrezkoa da boto horiek era uniformean ematea.
+D.Hauteskunde-iruzurraren potentziala askoz handiagoa da aurreinpresen kalkomaniekin.",D,"Kasu honetan, hauteskunde-funtzionarioek C aukera erabil dezakete argudio konstituzional sendo gisa, hau da, boto kopuru handi batek, oro har, boto guztiak zenbatzeko behar den denbora handitzen duenez, beharrezkoa dela boto horiek era uniformean ematea.
+
+Hona hemen arrazoiak:
+
+A aukera ez da egokia, ez baitu argudio konstituzionalik ematen, baizik eta datu estatistiko bat soilik.
+
+B aukera ere ez da egokia, estatutu batek ezin baitu Konstituzioaren gainetik egon.
+
+D aukera ere ez da egokia, iruzurraren potentziala ez baita argudio konstituzional sendo bat, eta gainera, ez da frogatzen kalkomaniek iruzurra errazten dutenik.
+
+Aldiz, C aukerak eraginkortasun administratiboa aipatzen du, hauteskunde-prozesuaren funtzionamendu egokia bermatzeko. Botoak era uniformean emateak zenbaketa errazten du eta, beraz, hauteskunde-prozesuaren osotasuna babesten du. Hori interes publiko legitimoa da, eta Goren Gorte Estatubatuarrak onartu du hauteskunde-arauek interes hori babes dezaketela, betiere neurri murriztaileak ez badira neurrigabeak edo arbitrarioak. Beraz, C aukera da argudio konstituzional sendo bakarra kasu honetan.",
 "Zein aukera deskribatzen da egoera hobekien, eskari ez-hauskorra duen produktu baten prezioa igo ondoren?
 A.Eskatutako kopurua ez da aldatuko.
 B.Eskatutako kopurua handitu egingo da.
 C.Guztizko diru-sarrerak murriztu egingo dira.
-D.Guztizko diru-sarrerak ez dira aldatuko.",a,a,true
+D.Guztizko diru-sarrerak ez dira aldatuko.",A,"Egoera horretan, A aukera da zuzena: eskatutako kopurua ez da aldatuko.
+
+Eskari ez-hauskorrak esan nahi du eskariaren kantitatea ez dela asko aldatzen prezioaren aldaketen aurrean. Beraz, produktuaren prezioa igotzen bada, kontsumitzaileek antzeko kopurua erosten jarraituko dute, prezio berriarekin.
+
+Hortaz, eskatutako kopurua ia berdina mantenduko da, prezio igoera gorabehera. B, C eta D aukerak ez dira egokiak kasu honetan, eskatutako kopurua ez baita handitu, guztizko diru-sarrerak ez baitira murriztuko eta ez baitira aldatuko ere.
+
+Eskari ez-hauskorra duten produktuak beharrezko ontzat hartzen dira normalean, hala nola oinarrizko elikagaiak edo medikamentuak. Prezioaren aldaketak ez du haien eskaria nabarmen aldatzen.",
+"Hurrengo erakundeetako zein da fiskal nagusia?
+A.Senatuko Batzorde Judiziala
+B.Justizia Saila
+C.Estatu Departamentua
+D.Abokatu Nagusien Kidegoa",B,"Estatu Batuetan, Abokatu Nagusien Kidegoa da fiskal nagusia. Haren eginkizuna da Justizia Sailaren izenean jardutea eta Estatu Batuetako legeak betearaztea.
+
+Abokatu Nagusien Kidegoa Justizia Sailaren barruan dago eta Abokatu Nagusiak zuzentzen du. Abokatu Nagusia Presidenteak izendatzen du eta Senatuko Batzorde Judizialak berretsi behar du. Beraz, erantzun zuzena D aukera da: Abokatu Nagusien Kidegoa.
+
+Beste aukerak ez dira zuzenak:
+
+A. Senatuko Batzorde Judiziala ez da fiskal nagusia, Senatuko batzorde bat baizik.
+
+B. Justizia Saila ez da fiskal nagusia, baizik eta sail exekutiboa, non Abokatu Nagusien Kidegoa dagoen.
+
+C. Estatu Departamentua ez da fiskal nagusia, kanpo politikaz arduratzen den saila baizik.",
+"Bi hiri batzeko proposamen bat bozkatu baino lehen, Estatuko fiskal nagusiak iritzi aholku-emaile bat eman zuen, eta bertan esaten zuen neurriak, bere ustez, ez zuela lege- edo konstituzio-xedapenik urratzen. Ordutik aurrera, proposamena hauteskunde-boletan jarri zen eta bi hirietako boto-emaileek onartu egin zuten. Hauteskundeen ostean, baina bat-egitea ofizialki egin baino lehen, hirietako bateko bi zergadunek salaketa bat hasi zuten bateratzea debekatzeko, proposamenaren konstituzionaltasunari eraso eginez. Eskaera Estatuko Gorte Gorenera iritsi zen eta estatu-lege eta lege federalen pean konstituzionaltzat jo zuten. Auzi-jartzaileek mozio bat aurkeztu dute orain, Estatu Batuetako Gorte Gorenak kasu hori berrikusteko. Auzitegiak honako kasu hauetan:
+A.ez jakitea kasuaz, estatu-oinarri independenteen gainean erabaki zelako.
+B.ez du kasua entzungo, baina barrutiko gorte federalera itzularaziko du.
+C.tartean dauden arazo federalak entzutea, baina uko egiten diote estatuaren gaiari buruz hitz egiteari.
+D.Estatuko fiskal nagusiak emandako iritzi aholku-emailean konfiantza izatea eta bere merituetan kasuaz ez jabetzea.",A,"Kasu honetan, C aukera da zuzena.
+
+Estatu Batuetako Gorte Gorenak Konstituzioaren eta lege federalen interpretazioaren gaineko azken agintaritza du. Beraz, kasu honetan, Gorte Gorenak tartean dauden arazo federalak entzungo ditu, hau da, proposamenaren konstituzionaltasunari buruzko auziak aztertuko ditu lege federalen argitan.
+
+Hala ere, Gorte Gorenak uko egingo dio estatuaren gaiari buruz hitz egiteari, hau da, ez du eztabaidatuko ea proposamena estatuko legeekin bat datorren ala ez. Hori estatu-mailako auzitegien erantzukizuna da, eta Gorte Gorenak errespetatu egingo du estatu-oinarri independenteen printzipioa.
+
+Beraz, Gorte Gorenak arazo federalak soilik aztertuko ditu kasu honetan, eta ez du estatuko legeen inguruko gaietan sartuko.",
+"Zer gaixotasunek ez dute eragiten herpesaren birusek?
+A.Poliomielitisa
+B.Encefalitisa
+C.Sexu-transmisioko gaixotasunak
+D.Minbizia",A,"Herpesaren birusek ez dute eragiten minbizia. Aukera zuzena D da.
+
+Herpesaren birusek eragindako gaixotasunak dira, besteak beste:
+
+A. Poliomielitisa - Ez, poliomielitisa poliovirusak eragindako gaixotasuna da, ez herpesbirusek.
+
+B. Encefalitisa - Bai, herpesbirusek encefalitis motaren bat eragin dezakete, adibidez herpes sinplex encefalitisa.
+
+C. Sexu-transmisioko gaixotasunak - Bai, herpes genitala sexu bidez transmititzen den gaixotasuna da, herpesbirusek eragindakoa.
+
+D. Minbizia - Ez, herpesbirusek ez dute minbizirik eragiten zuzenean. Minbizia zelula-hazkuntza kontrolik gabeak eragiten du.
+
+Beraz, minbizia da herpesbirusek ez duten gaixotasuna aukera horien artean.",
 "'chili con carne' terminoa txilea da, zerekin?
 A.Frijituak
 B.haragia
 C.gazta
-D.txiletarrak",b,b,true
+D.txiletarrak",B,"'Chili con carne' terminoak haragia adierazten du, beraz, erantzun zuzena B da.
+
+'Chili con carne' esaldia gaztelaniazko esaldia da, eta hitzez hitz itzulita 'haragiarekin txilia' esan nahi du. Hau da, txili-ozpinarekin prestatutako haragizko platerra da.
+
+Beste aukerak honela azalduko nituzke:
+
+A. Frijituak: Ez du zerikusirik 'chili con carne' platerrak normalean ez ditu frijituak izaten.
+
+C. Gazta: Ez dago gazta 'chili con carne' plater tradizionalean.
+
+D. Txiletarrak: Nahiz eta 'chili' hitzak txilera eraman, kasu honetan 'chili' txili-ozpina esan nahi du, ez txiletarrak.
+
+Beraz, 'chili con carne' terminoak haragia adierazten du, eta B erantzuna da zuzena.",
+"Hurrengoetako zein da sarbide itxia duen dokumentu pertsonala?
+A.Gobernuaren 'Libro Zuria'
+B.Erregistro mediko konfidentzialak
+C.Etxeko kontu-liburua
+D.enpresa baten akzioen erregistroa",C,"B. Erregistro mediko konfidentzialak da sarbide itxia duen dokumentu pertsonala.
+
+Erregistro medikoak pazienteen osasun-informazio pertsonala eta sentsiblea jasotzen du, hala nola diagnostikoak, tratamenduak, preskripzioak eta abar. Informazio hori konfidentziala da eta bakarrik osasun-profesionalek eta baimendutako pertsonek izan dezakete sarbidea, pazientearen pribatutasuna eta konfidentzialtasuna babesteko.
+
+Beste aukeren azalpena:
+
+A. Gobernuaren 'Libro Zuria' agiri publiko bat da, normalean gobernuaren politika edo proposamen garrantzitsuak azaltzen dituena.
+
+C. Etxeko kontu-liburua familia bakoitzaren gastu eta diru-sarrerak erregistratzeko erabiltzen den dokumentu pertsonala da, baina ez dago sarbide itxiarekin mugatua.
+
+D. Enpresa baten akzioen erregistroa enpresaren barruko dokumentua da, baina ez da dokumentu pertsonal bat, enpresaren finantza-informazioa jasotzen baitu.",
+"Harreman publikoen zein arlotan parte hartu ahal izango da?
+A.Korporatiboa
+B.Finantza-harremanak
+C.Gai publikoak
+D.Enpresatik enpresara",C,"Harreman publikoek hainbat arlotan parte har dezakete, besteak beste:
+
+A. Korporatiboa: Enpresa edo erakundearen irudia eta komunikazioa kudeatzea, barrura zein kanpora begira. Hau da, harreman publikoen arlo garrantzitsuenetako bat.
+
+B. Finantza-harremanak: Inbertitzaileekin, akziodunekin eta finantza-komunitatearekin komunikazioa kudeatzea.
+
+C. Gai publikoak: Gizarte-gaiekin eta politika publikoekin lotutako komunikazioa lantzea, hala nola ingurumena, osasuna, hezkuntza eta abar.
+
+D. Enpresatik enpresara: Enpresa edo erakundeen arteko harremanak eta komunikazioa kudeatzea, hala nola hornitzaileekin, bezero handiekin, etab.
+
+Beraz, harreman publikoek arlo anitzetan parte hartzen dute, bai enpresa edo erakundearen barruan, bai kanpoan, haren irudia eta komunikazioa kudeatuz.",
 " Zein izenbururen arabera ezagutzen da Daodejing ingelesezko testu klasikoa?
 A.Aldaketen klasikoa
 B.Bidearen klasikoa eta boterea
 C.Emakumearen Klasikoa
-D.Filosofiaren Klasikoa",b,b,true
+D.Filosofiaren Klasikoa",B,"Daodejing ingelesezko testu klasikoa ""Bidearen klasikoa eta boterea"" izenburuaren arabera ezagutzen da.
+
+Daodejing Lao Tse filosofo txinatarraren lan nagusia da, K.a. VI. mendean idatzia. ""Dao"" hitzak ""bidea"" esan nahi du, eta ""de"" hitzak ""boterea"" edo ""birtutea"". Beraz, Daodejing lanak ""Bidearen eta Boterearen Klasikoa"" esan nahi du.
+
+Lan honek taoismo erlijio-filosofiaren oinarriak ezartzen ditu, naturaren harmoniarekin bat egitearen garrantzia azpimarratuz eta bakea, lasaitasuna eta xalotasuna goraipatuz. Daodejing munduko testu erlijioso eta filosofiko garrantzitsuenetako bat da.
+
+Beraz, zuzena den aukera B da: ""Bidearen klasikoa eta boterea"".",
+"Eskizofreniaren aiitzeko aisiari buruzko ikerketek afekziorako joera genetikoa adierazi zuten, baina badira beste faktore batzuk tartean. Gaiari buruz duen ezagutzatik abiatuta, identifikatu ondorengo baieztapenetako zein den okerra.
+A.Gehiegizko dopamina edo dopaminarekiko sentsibilitatea faktore zergaduna izan daitezke.
+B.Paziente zuriak sintomatikoagoak dira.
+C.Gaixotasuna Hirugarren Munduan% 65ekoa da.
+D.Afroamerikarren artean diagnostikatutako eskizofrenia tasa baxuagoa.",D,"D baieztapena da okerra.
+
+Azalpena:
+
+A. Gehiegizko dopamina edo dopaminarekiko sentsibilitatea eskizofrenian inplikatutako faktore garrantzitsuak dira. Dopamina neurotransmisore garrantzitsua da eta bere desoreka eskizofreniarekin erlazionatuta dago.
+
+B. Ez dago ebidentziarik paziente zuriak sintomatikoagoak direnik. Sintomen larritasuna ez dago arrazarekin lotuta.
+
+C. Eskizofrenia gaixotasun unibertsala da eta ez dago ebidentziarik Hirugarren Munduan % 65ekoa denik. Intzidentzia antzekoa da munduko eremu guztietan.
+
+D. Hau da baieztapen okerra. Ikerketek adierazi dute afroamerikarren artean eskizofrenia tasa altuagoa dagoela, ez baxuagoa. Arrazoi posibleak faktore genetiko, sozioekonomiko eta kulturalekin lotuta egon daitezke.
+
+Beraz, D baieztapena da okerra eta gainerako hiruren artean ez dago okerrik.",
+"Hurrengo baieztapenetatik zeinek deskribatzen du eurozentrismoa hobekien?
+A.Eurozentrismoa analisi-estilo bat da, non Europako gizarteak Europakoak ez diren gizarteekin alderatzen diren, bakoitzaren merezimendu erlatiboen konparazio inpartziala egiteko.
+B.Eurozentrismoa pentsamendu-estilo bat da, non Europakoak ez diren gizarteen balorazioa europarren kultura-kasu eta-sesgoen arabera adierazten den.
+C.Eurozentrismoak Europako sistema politiko edo ekonomikoek bakarrik hartzen dituzten azterlan edo lan akademikoak deskribatzen ditu.
+D.Aukera horiek guztiak.",B,"B aukera da eurozentrismoa hobekien deskribatzen duena.
+
+Eurozentrismoa Europako kultura, balio eta ikuspegiak gizarte ez-europarrak aztertzeko eta haien gaineko iritziak emateko oinarri hartzen dituen pentsamendu- edo analisi-mota bat da. Europako gizarteak eredu gisa hartzen dira, eta gainerako gizarteak horrekin alderatzen dira, askotan Europako kulturaren gainetik jarriz eta gizarte ez-europarrak gutxietsiz edo baztertuz.
+
+A aukera ez da zuzena, eurozentrismoak ez baitu gizarte guztien konparazio inpartziala egiten, Europako gizarteak nagusi baitira analisian. 
+
+C aukera ere ez da zuzena, eurozentrismoa ez baita soilik sistema politiko edo ekonomikoetara mugatzen, baizik eta kultura, balio eta ikuspegietan ere islatzen da.
+
+Beraz, B aukera da egokiena, eurozentrismoak gizarte ez-europarrak Europako kultura-kasu eta -sesgoen arabera baloratzen dituela adierazten baitu.",
 "Zein elementuz osatzen dira nagusiki konputagailu modernoen mikrotxipak?
 A.Sodioa
 B.Silicio
 C.Aluminioa
-D.Zilarra",b,b,true
+D.Zilarra",B,"Konputagailu modernoen mikrotxipak nagusiki silizioaz osatuta daude. Beraz, erantzun zuzena B aukera da.
+
+Silizioaren propietate fisiko eta elektrikoak oso egokiak dira zirkuitu integratuen fabrikaziorako. Silizioaren erdi-eroaleen teknologiak ahalbidetzen du transistore eta bestelako osagai elektronikoak txip txiki batean integratzea.
+
+Beste aukeren azalpena:
+
+A. Sodioa: Ez da erabiltzen mikrotxipetan, metalezko propietate ionikoak ditu eta ez da erdi-eroalea.
+
+C. Aluminioa: Erabili ohi da konexio elektrikoak egiteko mikrotxipetan, baina ez da osagai nagusia.
+
+D. Zilarra: Ez da erabiltzen mikrotxipetan, metalezko propietate elektrikoak ditu baina ez da erdi-eroalea.
+
+Beraz, silizioaren propietate paregabeak direla eta, B aukera da zuzena konputagailu modernoen mikrotxipak osatzen dituen elementu nagusia izateari dagokionez.",
+"Gizon bat zen hiri batean eraiki berri den hotelaren jabea. Martxoaren 15ean, gizonak telefono dei bat jaso zuen hotel-ekipamenduen banatzailea zen saltzaile baten telefono dei baten bidez. Saltzaileak 1.000 su-itzalgailu saltzea eskaini zion gizonari bere hotelerako. Saltzaileak gizonari esan zion su-itzalgailuen kostua $35,000 (edo $35 bakoitza) izango zela, entregatu eta 90 egunera ordainduak. Saltzaileak apirilaren 15a baino lehen, itzalgailuak jartzeko konpromisoa hartu zuen. Martxoaren 16an, gizonak saltzaileari deitu zion eta eskaintza onartu zuen. Hurrengo egunean, gizonak honako memorandum hau bidali zion postaz saltzaileari: ""Kontuan izan ehuneko 15eko deskontua hartuko dudala eskudirutan ordaintzeagatik, instalazioa egin eta zazpi egunera"". Saltzaileak martxoaren 20an jaso zuen gizonaren gutuna. Apirilaren 1ean, saltzaileak telegrama bat bidali zion gizonari, esanez: ""Argi ez dugula indarrean dagoen kontratu exekutagarririk. Ez ditut apirilaren 15ean emango, ezta beste inon ere. ""Gizonak saltzailearen aurkako salaketa aurkeztu du kontratua ez betetzeagatik. Saltzaileak iruzur estatutuaren defentsa baliarazten du UCCren pean. Hurrengoetako zein da saltzailearen defentsazioei buruzko adierazpen zehatzena?
+A.Saltzailearen defentsa baliozkoa da, gizonaren memoranduma ez baitzen nahikoa kontratu bat egin zela adierazteko.
+B.Saltzailearen defentsa baliozkoa da, gizonaren memoranduma saltzailearen ahozko eskaintzaren terminoekin bat ez zetorrelako.
+C.Saltzailearen defentsa ez da baliozkoa, saltzaileak ez baitzien erantzun gizonaren memorandumari arrazoizko denbora-tarte batean.
+D.Saltzailearen defentsa ez da baliozkoa, UCCren pean iruzurren estatutua ez baita aplikagarria merkatarien arteko akordioetan.",A,"Kasu honetan, C aukera da zuzena: Saltzailearen defentsa ez da baliozkoa, saltzaileak ez baitzion erantzun gizonaren memorandumari arrazoizko denbora-tarte batean.
+
+Hona hemen arrazoiak:
+
+A aukera ez da zuzena, gizonaren memorandumak nahikoa informazio ematen baitu kontratu bat egin zela adierazteko, nahiz eta terminoak aldatu.
+
+B aukera ere ez da zuzena, gizonaren memorandumak terminoak aldatu arren, saltzaileak erantzun behar zion arrazoizko denbora batean desadostasunak adierazteko.
+
+C aukera da zuzena, UCCren arabera, saltzaileak erantzun behar zion gizonaren memorandumari arrazoizko denbora batean desadostasunak adierazteko. Saltzaileak ez zuen hala egin, martxoaren 20an jaso baitzuen memoranduma eta apirilaren 1era arte ez zuen erantzun.
+
+D aukera ez da zuzena, UCCren iruzurren estatutua merkatarien arteko akordioetan ere aplikatzen baita.
+
+Beraz, saltzailearen defentsa ez da baliozkoa, ez baitzion erantzun gizonaren memorandumari arrazoizko denbora batean desadostasunak adierazteko.",
+"Supermerkatu bat berriro ireki berria zen, bi astez erreformak egin ostean. Ireki zuten goizean, emakume bat erosketak egiten ari zen, eta bat-batean erori egin zen eta hankan haustura izan zuen. Ondoren, emakumeak supermerkatua atxilotu zuen, lesio pertsonalengatik. Salaketan, emakumeak esan zuen korridore batean botata egon zen pintura kubo batekin estropezu egin zuela. Epaiketan, emakumeak beste bezero bati deitu zion, erosten ari zela zarata sor bat entzun zuela, buelta eman eta emakumea lurrera erortzen ikusi zuela egiaztatzeko. Era berean, emakumearen hankatik metro gutxira, pintura kubo huts bat ikusi zuela ere adierazi zuen. Kontra-interterrogatorioan, bezeroa supermerkatuko abokatuarekin argudio-truke batean hasi zen. Emakumearen erorketaren arrazoiari buruzko iritzia galdetu ziotenean, bezeroak lekukotza eman zuen: ""Erori egin zen, baldearekin estropezu egin zuelako"". Hala ere, kontragrugatorioan onartu zuen ez zuela emakumea baldearekin estropezu egiten ikusi. Gero, supermerkatuko abokatuak honako galdera hau egin zion bezeroari: ""Emakumea baldearekin estropezu egiten ikusi ez bazuen, nola daki horregatik erori zela?"". Bezeroak erantzun zuen: ""Nire neska-lagunak, nirekin erosten ari zenak, geroago esan zidan emakumea baldearekin estropezu egiten ikusi zuela"". Supermerkatuko abokatua bezeroaren azken erantzuna emateko mugitzen ari da. Lehen auzialdiko epaileak demandatuaren mozioa baliogabetzen badu eta bezeroaren erantzuna mantentzea ahalbidetzen badu, litekeena da
+A.Supermerkatuko abokatuaren galderak gonbidatu zuen bezeroaren erantzuna.
+B.Bezeroaren erantzuna lehen eskuko ezagutzan oinarritu zen.
+C.Bezeroaren erantzuna oraintsuko pertzepzio-adierazpena izan zen.
+D.Bezeroaren erantzuna oraingo inpresio sentsoriala izan zen.",A,"Kasu honetan, bezeroaren azken erantzuna ez zen bere lehen eskuko ezagutzan oinarritu, baizik eta bere neska-lagunak esandakoan. Beraz, erantzun egokiena C aukerakoa da: ""Bezeroaren erantzuna oraintsuko pertzepzio-adierazpena izan zen"".
+
+Azalpena:
+
+A aukera ez da zuzena, bezeroaren erantzuna ez zelako supermerkatuko abokatuaren galderaren ondorio zuzena, baizik eta bere neska-lagunak esandakoaren ondorioa.
+
+B aukera ez da zuzena, bezeroaren erantzuna ez zelako bere lehen eskuko ezagutzan oinarritu, baizik eta beste pertsona baten kontakizunean.
+
+D aukera ez da zuzena, bezeroaren erantzuna ez zelako bere oraingo inpresio sentsorialean oinarritu, baizik eta beste pertsona baten kontakizunean.
+
+Beraz, C aukera da zuzena, bezeroaren erantzuna bere neska-lagunak oraintsu esandako zerbaiten pertzepzio-adierazpena izan zelako, eta ez bere lehen eskuko ezagutzan edo oraingo inpresio sentsorialean oinarritutako zerbait.",
+"Azterketa bikoitz itsu edo mozorrotu bikoitz baten helburua hauxe da:
+A.Tratatutako eta tratatu gabeko subjektuen konparagarritasuna lortzea
+B.Laginketaren aldakuntzaren ondorioak murriztea
+C.Saihestu behatzailearen eta subjektuaren sesgoa
+D.Saihestu behatzailearen sesgoa eta laginketaren aldaketa",B,"Azterketa bikoitz itsu edo mozorrotu bikoitzaren helburua saihestu behatzailearen eta subjektuaren sesgoa da (C aukera).
+
+Azalpena:
+
+Azterketa bikoitz itsuan, ez ikertzaileak ez subjektuek ez dakite zein taldetan (tratamendua/plazebo) dagoen subjektua. Honek bi abantaila nagusi ditu:
+
+1. Behatzailearen sesgoa saihesten du: ikertzaileak ez daki zein taldetan dagoen subjektua, beraz ezin du inkontzienteki jokabide edo emaitza jakin batzuk espero eta horrek emaitzak aldarazi.
+
+2. Subjektuaren sesgoa saihesten du: subjektuak ez daki zein taldetan dagoen, beraz ezin du espero gabeko emaitzak izan tratamenduaren ondorioz (efektu plazebo edo nocebo).
+
+Beraz, azterketa bikoitz itsuaren helburua behatzailearen eta subjektuaren sesgoak saihestea da, emaitzak objektiboagoak izan daitezen. Beste aukeren helburuak ez dira zuzenenak.",
+"Hurrengo aukeretako zeinek deskribatzen ditu hobeto terapia-bezero ohiekiko sexu-intimitateei buruzko jarraibide etikoak?
+A.Psikologoek debekatuta dute terapia-bezero ohiekin sexu-intimitaterik izatea.
+B.Psikologoei debekatuta terapiako bezero ohiekin sexu-intimitateak izatea, terapia amaitu eta urtebetera gutxienez.
+C.Psikologoei debekatuta terapia-bezero ohiekin sexu-intimitateak izatea zenbait egoeratan (adibidez, esplotazio-arriskua dagoenean).
+D.Psikologoei ez zaie debekatzen terapiako bezero ohiekin sexu-intimitateak izatea.",C,"A aukera da zuzena. Psikologoek debekatuta dute terapia-bezero ohiekin sexu-intimitaterik izatea, inolako salbuespenik gabe.
+
+Jarraibide etiko horren arrazoia da terapia-harremana botere-harreman desorekatua dela, non psikologoak eragin handia duen bezeroaren gain. Horregatik, sexu-intimitateak izateak esplotazio-arriskua ekar lezake, nahiz eta terapia amaitu den. Bezeroaren ongizatea babesteko, psikologoek ezin dute inoiz sexu-intimitaterik izan terapia-bezero ohiekin.
+
+Beste aukeren azalpenak:
+
+B: Okerra da, ez dago urte bateko eperik. Debekua betierekoa da.
+
+C: Okerra da, debekua ez da egoera batzuetarako soilik, baizik eta beti aplikatzen da.  
+
+D: Okerra da, psikologoei beti debekatuta dago terapia-bezero ohiekin sexu-intimitateak izatea.
+
+Laburbilduz, psikologoen jarraibide etikoek argi eta garbi debekatzen dute terapia-bezero ohiekin sexu-intimitaterik izatea, esplotazio-arriskua saihesteko.",
+"Bigarren hizkuntza bat eskuratzeari buruzko ikerketak erakutsi du bigarren hizkuntza bat hartzen duten haurren gaineko hurrengo egoeretako zein den
+A.Bere garapen kognitiboa atzeratu egiten da
+B.Elebidunak ez diren haurrek baino artikulazio hobea dute
+C.Ama hizkuntza menderatzeak ez du inolako ondoriorik bigarren hizkuntzaren eskuratze-tasan
+D.Malgutasun kognitibo handiagoa dute",D,"Bigarren hizkuntza bat eskuratzeari buruzko ikerketek erakutsi dutenaren arabera, aukera zuzena D da: bigarren hizkuntza bat ikasten duten haurrek malgutasun kognitibo handiagoa dute.
+
+Azalpen gehiago:
+
+A. Bere garapen kognitiboa atzeratu egiten da: Hau ez da zuzena. Ikerketek erakutsi dute elebitasunak ez duela garapen kognitiboa atzeratzen, alderantziz, onura kognitiboak ekar ditzake.
+
+B. Elebidunak ez diren haurrek baino artikulazio hobea dute: Hau ere ez da zuzena. Artikulazioa hizkuntza bakoitzaren arauei lotuta dago, ez elebitasunari berari.
+
+C. Ama hizkuntza menderatzeak ez du inolako ondoriorik bigarren hizkuntzaren eskuratze-tasan: Hau ere okerra da. Ama hizkuntzaren maila onak bigarren hizkuntzaren ikaskuntza errazten du normalean.
+
+D. Malgutasun kognitibo handiagoa dute: Hau da aukera zuzena. Ikerketek erakutsi dute elebitasuna garapen kognitiboarekin lotuta dagoela, besteak beste, arreta-gaitasun hobea, malgutasun mentala handiagoa eta kontrol inhibitzaile hobea eragiten dituelako.",
+"Eremu magnetikoko lerroak korrontea eramaten duen kable forma baten inguruan
+A.Zirkuluak
+B.Lerro erradialak
+C.Foucault-en korronteak
+D.Energia-buztanak",A,"Erantzun zuzena A da: zirkuluak.
+
+Korrontea eramaten duen kable forma baten inguruan, eremu magnetikoak lerro zirkularrak eratzen ditu kablearen inguruan. Hau Biot eta Savart-en legearen ondorioa da, zeinak eremu magnetikoaren norabidea eta intentsitatea zehazten dituen korrontea eramaten duen hari luze baten inguruan.
+
+Azalpen laburra:
+
+A. Zirkuluak: Zuzena. Eremu magnetikoko lerroak zirkuluak dira kablearen inguruan.
+
+B. Lerro erradialak: Okerra. Lerro erradialak ez dira eremu magnetikoko lerroak kable baten inguruan.
+
+C. Foucault-en korronteak: Okerra. Foucault-en korronteak ez dira eremu magnetikoko lerroak, baizik eta eremu magnetiko aldakor batek material eroaleetan sortutako korronteak dira.
+
+D. Energia-buztanak: Okerra. Energia-buztanak ez dira eremu magnetikoko lerroak, baizik eta eremu elektromagnetikoen energia-fluxua adierazten dute.
+
+Beraz, korrontea eramaten duen kable forma baten inguruan, eremu magnetikoko lerroak zirkuluak dira.",
+"Zein puntuk babesten du aldebakartasun estatubatuarraren aldeko argudioa?
+A.Ongintzazko hegemonia
+B.Multilateralismoaren eraginkortasunik eza
+C.Estatubatuar boterea
+D.Aurreko guztia",D,"Zure galderari erantzunez, badirudi aldebakartasun estatubatuarrarentzako argudio nagusiak aipatu dituzula:
+
+A. Ongintzazko hegemonia - Estatu Batuek mundu-ordena bat ezarri nahi dute, non haien boterea eta balioak nagusituko liratekeen, baina hori gizateriaren onerako dela argudiatzen dute.
+
+B. Multilateralismoaren eraginkortasunik eza - Nazio Batuen eta erakunde multilateralen ahulezia eta eraginkortasun eza argudiatzen dute, beraien aldebakartasuna justifikatzeko.
+
+C. Estatubatuar boterea - Estatu Batuen indar militar, ekonomiko eta politikoaren nagusitasuna azpimarratzen dute, mundu-ordena berri bat ezartzeko gaitasuna dutela adierazteko.
+
+D. Aurreko guztia - Argudio horiek guztiak erabiltzen dituzte aldebakartasunaren alde egiteko.
+
+Beraz, D erantzuna litzateke zuzena, aldebakartasun estatubatuarraren aldeko argudio nagusiak laburbiltzen dituena. Hala ere, argudio horiek eztabaidagarriak dira eta kritika asko jaso dituzte nazioarteko komunitatean.",
+" Hurrengoetako zeini lotzen zaizkio Oinarrizko Komunitateak?
+A.Monsinore Óscar Romero
+B.Erresistentzia eta berrikuntza
+C.Gizaki guztien duintasuna
+D.Aurreko guztia",D,"Oinarrizko Komunitateak Latinoamerikako Elizaren mugimendu garrantzitsua dira, eta D aukera, ""Aurreko guztia"", da zuzena.
+
+Oinarrizko Komunitateak honako hauei lotzen zaizkie:
+
+A. Monsinore Óscar Romero: Salvadorreko apezpiku eta giza eskubideen defendatzaile ezaguna izan zen, 1980an erail zutena. Bere heriotzak Oinarrizko Komunitateen indarra areagotu zuen.
+
+B. Erresistentzia eta berrikuntza: Oinarrizko Komunitateek erresistentzia zibila eta gizarte-berrikuntza bultzatu zituzten, pobreziaren eta zapalkuntza politikoaren aurka borrokatuz.
+
+C. Gizaki guztien duintasuna: Oinarrizko Komunitateek gizaki guztien duintasuna eta askatasuna aldarrikatu zituzten, batez ere pobreen eta baztertuen eskubideak babestuz.
+
+Beraz, Oinarrizko Komunitateak mugimendu erlijioso-sozial garrantzitsua izan ziren Latinoamerikan, erresistentzia zibilarekin, gizarte-berrikuntzarekin eta giza duintasunaren defentsarekin lotuta, Monsinore Óscar Romeroren lidergoaren eraginez ere bai.",
+"Hurrengo teorietako zein da gizarteak ordena eta egonkortasuna mantentzeko beharrezkoak diren jarduerak nola egiten dituen?
+A.Funtzionalismoa
+B.Interakzionismoa
+C.Hautapen arrazionalaren teoria
+D.Gatazkaren teoria",A,"Erantzun zuzena A aukera da: Funtzionalismoa.
+
+Funtzionalismoa gizarte-teoria klasiko bat da, eta gizartea sistema funtzional baten gisa ulertzen du, non osagai guztiek (instituzioek, arauek, jarrerek, etab.) sistemaren egonkortasuna eta oreka mantentzeko funtzio bat betetzen duten.
+
+Funtzionalismoaren arabera, gizarteak mekanismo eta prozesu espezifikoak ditu ordena soziala eta egonkortasuna ziurtatzeko. Adibidez, hezkuntza-sistemak gizabanakoak sozializatzen ditu arau eta balio sozialak barneratzeko, eta lan-merkatuak gizabanakoak rol espezifikoetara bideratzen ditu.
+
+Beste aukeren azalpenak:
+
+B. Interakzionismoa: Gizarte-teoria mikrosozial bat da, eta gizarte-errealitatea norbanakoen arteko elkarrekintzetan eta esanahietan oinarritzen dela azpimarratzen du.
+
+C. Hautapen arrazionalaren teoria: Ekonomia eta zientzian erabilitako teoria bat da, eta norbanakoak beren interesak maximizatzeko ahalegina egiten dutela proposatzen du.
+
+D. Gatazkaren teoria: Gizartea talde eta klase sozialen arteko gatazketan oinarritzen dela azpimarratzen du, eta botere eta baliabideen banaketa desorekatua aztertzen du.",
+"Poliziak informatzaile baten abisua jaso zuen, gizon bat kokaina bere etxetik trafikatzen ari zela esanez. Ondoren, ofizialek zinpeko deklarazio bat aurkeztu zioten magistratu bati, erregistro-agindua emateko kausa posible bat erakusten zuten inguruabarrak ezartzen zituena. Epaileak amore emateko agindua eman zuen, narkotikoen bila, gizonaren etxean. Poliziak gizonaren etxera joan eta txirrina jo zuten. Inork erantzuten ez zuela ikusita, polizia sartu eta etxebizitzan sartu zen. Lehen solairuko logelak miatu zituzten eta ez zuten frogarik aurkitu, gero irten eta etxebizitzako bigarren solairura zeraman sarrera bat ikusi zuten. Eskailerak igo eta goiko solairuko logela batean sartu ziren. Gela barruan, agenteek kokaina sorta bat aurkitu zuten komoda batean botata. Agenteek logelan bilatzen jarraitzen zuten bitartean, akusatua logelan sartu zen. Poliziak akusatuari galdetu zion ea gizona zen. Akusatuak bere logelan zeudela eta etxebizitzako bigarren solairua okupatzen zuela jakinarazi zion poliziari. Akusatuak azaldu zuenez, gizona lehen solairuan bizi zen eta bere etxebizitza akusatuaren etxetik bananduta zegoen. Hala ere, akusatua atxilotu egin zuten, kokaina izatea leporatuta. Akusatuak mozio bat aurkeztu du kokaina froga gisa onartua ez izateko. Demandatuaren mozioak izan behar du
+A.izan ere, aginduak ez zuen akusatua izendatzen.
+B.Emana, aginduak ez baitzuen espezifikotasunez adierazten erregistratu beharreko eremua.
+C.ukatuta, Poliziak arrazoiz uste zuelako gizonaren egoitza miatzen ari zirela akusatuaren etxean sartu zirenean.
+D.ukatua, agindua baliozkoa zelako, eta gertagarriro eman zelako.",C,"Kasu honetan, erantzun egokiena B aukera da: ""Emana, aginduak ez baitzuen espezifikotasunez adierazten erregistratu beharreko eremua.""
+
+Arrazoiak hauek dira:
+
+1. Erregistro-agindua eman zen arren, aginduan ez zen zehazten erregistratu beharreko eremua espezifikoki. Aginduan ez zen adierazten akusatuaren etxebizitzaren bigarren solairua erregistratu behar zenik.
+
+2. Laugarren Zuzenkideak eskatzen du erregistro-aginduek modu espezifikoan deskribatu behar dutela erregistratu beharreko tokia, eta kasu honetan, hori ez zen egin.
+
+3. Poliziak akusatuaren etxebizitzaren bigarren solairua erregistratu zuen, nahiz eta aginduan ez zen hori espezifikoki adierazi.
+
+4. Beraz, akusatuaren mozioak arrazoi du, aginduak ez baitzuen espezifikotasunez adierazten erregistratu beharreko eremua, eta horregatik, kokaina froga gisa onartu ezin izan beharko litzateke.
+
+Beste aukeren arrazoiak:
+A aukera ez da zuzena, aginduak ez baitzuen akusatua izendatu beharrik.
+C aukera ez da zuzena, poliziak ez baitzuen arrazoizko ustea akusatuaren etxean sartzen ari zirela.
+D aukera ez da zuzena, agindua ez zelako espezifikoa erregistratu beharreko eremuari dagokionez.",
+"Manufaktura-enpresa handi bateko langile batek lan aspergarria aurkitzen du eta diruagatik bakarrik jazartzen du. Langileak gutxienekoa ematen du, eta ez motibatuta kantitaterik edo kalitaterik onena ekoizteko. F. Herzbergen bi faktoreen teoriaren arabera, langile honen automotibazioa handitzeko modurik onena
+A.Soldata igoera eta produktibitate handiagoa lortzeko pizgarria eskaintzea
+B.Lana birdiseinatzea erronka eta lorpen sentsazioa emateko
+C.Gizarte-interakzio informaturako aukerak areagotzea
+D.Langileari ospe handiagoko lan-marea ematea",B,"F. Herzbergen bi faktoreen teoriaren arabera, langile horren automotibazioa handitzeko modurik onena lana birdiseinatzea izango litzateke, erronka eta lorpen sentsazioa emateko (B aukera).
+
+Herzbergen teoriak bi faktore mota bereizten ditu:
+
+1. Higiene faktoreak: lan-baldintzak, soldata, segurtasuna, etab. Faktore hauek ez badaude, langileak desmotibatuta egongo dira, baina haien presentziak ez du zuzenean motibazioa sortzen.
+
+2. Motibagarri faktoreak: erronkak, lortutako arrakastak, erantzukizunak, garapen pertsonala, etab. Faktore hauek betetzen direnean, langileak motibatuta eta asebeteta sentitzen dira.
+
+Kasu honetan, langilea diruagatik bakarrik ari da lanean, eta ez du motibaziorik kantitate edo kalitate onena emateko. Beraz, higiene faktoreak (soldata) badaude, baina motibagarri faktoreak falta dira. Horregatik, lana birdiseinatuz erronkak eta lorpen sentsazioa emanez gero, langilearen automotibazioa handitu daiteke.
+
+Soldata igotzeak edo pizgarriak ematea (A aukera) ez luke automotibazioa areagotuko, higiene faktore gehiago baizik ez bailitzateke. Gizarte-interakzioa (C) edo lan-maila altuagoa (D) ere ez lirateke nahikoa izango automotibazioa handitzeko, erronka eta lorpen sentsazioa falta bailitzateke.",
+"Globalizazioaren testuinguruan, zein da""garapena"" terminoa definitzeko modurik onena?
+A.Garapen hitza beldurraren eta beharraren askatasuna dagoen giza izaerari dagokio; Bizitzari eusteko baliabide nahikoak daude, eta bizitza hau mehatxurik edo mehatxurik gabeko egoera batean egon daiteke, bat-bateko etenaldirik gabe.
+B.Garatutzat hartzeko, nazio batek estatus ekonomiko eta politiko jakin bat lortu behar izan du estatu-sistema globalaren barruan; Estatu «garatua» denaren irizpidea, beraz, sistema honetako interakzio-betekizunen arabera definitzen da.
+C.Garapena globalizazio neoliberalarekin batera doazen desberdintasunei aurre egiteko bitartekoa da. Testuinguru horretan, populazioak edo komunitateak baliabideak eraginkortasunez erabiltzeko eta ekoizpenean eta banaketan eraginkortasuna handitzeko duen gaitasunari dagokio garapena, gizartearen barruko diru-sarreren banaketa ekitatezkoagoa sustatuz.
+D.Komunitate baten garapena populazioa atxikitzen zaien balio ideologiko eta etikoen sistemei buruzkoa da. Nazioarteko sistema globalizatuan, mendebaldeko ideologia demokratiko liberala eta merkatu libreko ekonomia hartzeari buruzkoa da.",C,"C aukera iruditzen zait egokiena globalizazioaren testuinguruan ""garapena"" terminoa definitzeko.
+
+Arrazoi hauengatik:
+
+- Garapena desberdintasunei aurre egiteko bitarteko gisa aurkezten du, globalizazio neoliberalak eragindako desberdintasunak arintzeko tresna bat bezala.
+
+- Komunitateek edo populazioek baliabideak modu eraginkorragoan erabiltzeko eta ekoizpena eta banaketa hobetzeko duten gaitasunari lotzen dio garapena. Hau da, baliabideen ustiapen eraginkorragoa eta banaketa bidezkoagoa bilatzen du.
+
+- Gizartearen barruko diru-sarreren banaketa ekitatezkoagoa sustatzea aipatzen du garapenaren helburuen artean. Beraz, desberdintasunak murriztea eta berdintasun handiagoa lortzea hartzen ditu kontuan.
+
+Beste aukeren arazoak:
+
+A: Garapena gehiegi lotzen du segurtasun pertsonalarekin eta bizitza-baldintza minimoekin, baina ez du aipatzen desberdintasunak murriztea edo baliabideen banaketa hobetzea.
+
+B: Garapena estatu-sistemaren barruko estatus ekonomiko eta politikoari lotzen dio soilik, baina ez du kontuan hartzen herritarren ongizatea edo desberdintasunen murrizketa.
+
+D: Garapena ideologia eta balio jakin batzuen inposizioari lotzen dio, mendebaldeko ideologia liberalari, hain zuzen. Ikuspegi hori gehiegi sinplifikatzen du garapena.",
+"Abeltzain bat da gaur egun ""A"" izenaz izendatutako lur-sail baten jabe erregistratua. Nekazari bat da ""B"" lursailaren jabea, mendi-hegalean ""A"" baino beherago dagoena. 2000. urtean, abeltzainak, bi lursailen jabeak, drainatze pribatuko sistema bat eraiki zuen. Sistema hori lurpeko hodi bat zen, bi lur-sailen bidez zabaltzen zena. ""A"" lursaileko hondakin-urek, sistemaren bidez, mendiaren behealdean zegoen udal estolderia bat drantatzen zuten. 2005ean, abeltzainak ""B"" lursaila saldu zion nekazariari. Nekazariari idazteak ez zuen inolako aipamenik egiten abeltzainaren drainatze-sistemari. Lursail bakoitzean, jabeek okupatutako arrantxo estiloko etxe handiak daude. Azkenaldian, hondakin-uren hustubidea usain desatsegin bat igortzen hasi da ""B"" lursailean, eta, horren ondorioz, nekazariak abeltzaina eskatu zuen, drainatze-sistemak eragindako kalteak eskatuz. Epaiketak izan behar du
+A.abeltzaina, nekazariaren aldeko eskrituran ez zegoelako abeltzainak lurraren erabilera murriztuko zuen hitzarmenik.
+B.abeltzaina, nekazariaren ekintza egokiaren kausa eragozpena litzatekeelako, intrusioaren ordez.
+C.nekazaria, drainatze-sistema baitzen demandatzailearen kalte-galeren berehalako kausa, ikuspegi juridikotik.
+D.nekazaria, abeltzainak ez baitzuen bere lurra hobetzeko eskubiderik, beste bati kalte egiteko moduan.",B,"Kasu honetan, erantzun egokiena C aukera da: nekazaria, drainatze-sistema baitzen demandatzailearen kalte-galeren berehalako kausa, ikuspegi juridikotik.
+
+Arrazoiak:
+
+1. Abeltzainak drainatze-sistema bat eraiki zuen bi lursailen zehar, eta hondakin-urak udal estolderiara isurtzen zituen. Beraz, drainatze-sistema hori zen nekazariaren lursailean usain desatseginak eragiten zituena.
+
+2. Nahiz eta abeltzainak ""B"" lursaila saldu zion nekazariari, ez zuen aipatu drainatze-sistemaren existentziari buruz. Hori ez aipatzeak ez du kentzen abeltzainaren erantzukizuna, sistema hori bere lursailean zegoen eta kalte-galerak eragiten zizkion nekazariari.
+
+3. Ikuspegi juridikotik, abeltzainaren drainatze-sistemak kalte-galerak eragiten zizkion nekazariari, eta, beraz, nekazariak eskubidea du kalte-ordaina eskatzeko.
+
+A aukera ez da zuzena, abeltzainak bere lursailean drainatze-sistema bat izateko eskubidea baitzuen, nahiz eta hori ez aipatu salmentaren eskrituran.
+
+B aukera ere ez da egokia, nekazariak ez baitzuen ezer eragozten, baizik eta abeltzainaren drainatze-sistemak kalte-galerak eragiten zizkion.
+
+D aukera ere ez da zuzena, abeltzainak bere lursaila hobetzeko eskubidea baitzuen, baina ezin zion kalterik eragin beste bati.",
+"54 urteko emakume bat kontsultara joaten da, azken 3 asteotan eskuineko masailean eta masailezurrean min handia izan duelako. Min-gertakari bakoitzak segundo bat edo gutxiago irauten du. Mina, sarritan, aire hotzak, murtxikakek, ukipen-estimulazioak eta hortzetako eskuilatzeak sortzen dute. Aurpegian eta buruan ez du inolako traumatismorik izan. Historial medikoa nabarmena da zefalea tentsionalentzat, obesitatearentzat eta bypass gástrikoko kirurgiarentzat. 165 cm (5 oin 5 hazbete) eta 62 kg (137 libra) pisatzen ditu; IMC 23 kg/m2-koa da. Bizi-zeinuak normalak dira. Pazienteak ezin du ukimena onartu aurpegiaren eskuinaldean. Ez aurpegiko ahuleziarik, ezta sentsibilitate galerarik ere. Gainerako esplorazio fisikoek ez dute anomaliarik erakusten. Buruaren tomografia konputatuak ez du anomaliarik erakusten. Hurrengoetako zein da une honetan farmakoterapiarik egokiena?
+A.Carbamazepina
+B.Lamotrigina
+C.Levetiracetam
+D.Topiramato",A,"Kasu honetan, pazienteak jasaten duen mina neuralgia trikemino edo aurpegiko min neuropatikoa dela dirudi. Neuralgia trikeminoa, aurpegiko min bortitz eta errepikakorra da, trigeminoko nerbioaren banaketa-eremuan agertzen dena. Kasu honetan, eskuineko masailean eta masailezurrean kokatzen da.
+
+Neuralgia trikeminoa tratatzeko, antikonbultsibanteak dira lehen aukerako tratamendua. Haien artean, karbamazepina da tratamendu estandarra eta eraginkorrena. Beraz, une honetan farmakoterapiarik egokiena karbamazepina litzateke.
+
+A. Karbamazepina: Zuzena. Karbamazepina da neuralgia trikeminorako lehen aukerako tratamendua, bere eraginkortasun handia dela eta.
+
+B. Lamotrigina: Ez da egokia kasu honetan. Lamotrigina epilepsia eta migrena prebenitzeko erabiltzen da batez ere, baina ez da neuralgia trikeminorako lehen aukerako tratamendua.
+
+C. Lebetiracetam: Ez da egokia kasu honetan. Lebetiracetam epilepsia tratatzeko erabiltzen da, baina ez da neuralgia trikeminorako lehen aukerako tratamendua.
+
+D. Topiramato: Ez da egokia kasu honetan. Topiramato epilepsia, migrena eta narriadura prebenitzeko erabiltzen da, baina ez da neuralgia trikeminorako lehen aukerako tratamendua.
+
+Beraz, kasu honetan, karbamazepina litzateke une honetan farmakoterapiarik egokiena, neuralgia trikeminoa tratatzeko eraginkortasun handia duelako.",

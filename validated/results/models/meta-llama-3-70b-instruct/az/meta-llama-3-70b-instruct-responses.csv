@@ -1,24 +1,50 @@
 Question,CorrectAnswer,GivenAnswer,Correct
-"1999-cu ildə çəkilən ""Maqnolia"" filmi hansı ştatda çəkilib?
-A.Kaliforniya
-B.Cənubi Karolina
-C.Gürcüstan
-D.Texas",a,a,true
+"Niderlandın rəsmi dili hansıdır?
+A.Dan dili
+B.Isveç dili
+C.Alman dili
+D.Holland dili",D,The correct answer is D. Holland dili (also known as Dutch). The official language of the Netherlands is Dutch.,D
 "Aktyor Antonio Banderas doğma dil nədir?
 A.İspan dili
 B.Rus dili
 C.Alman dili
-D.Fransız dili",a,a,true
-"Bu xörəklərdən hansı donuz bağırsağından hazırlanır?
-A.haqqi
-B.çitlinlər
-C.qfits
-D.chop suey",b,b,true
-"Xəstə 6-cı sidik oritinin səviyyəsində onurğa beyninin zədələnməsi ilə boynunun sınığı ilə əziyyət çəkir.
-A.Onlar həyat dəstəyi olmadan nəfəs ala bilməyəcək.
-B.Onlar yalnız sakit nəfəs ala biləcəklər.
-C.Tənəffüsə təsirini proqnozlaşdırmaq qeyri-mümkündür.
-D.Tənəffüs təsirsiz olacaq.",b,a,false
+D.Fransız dili",A,"The correct answer is A. İspan dili (Spanish language). Antonio Banderas is a Spanish actor, born in Málaga, Spain, and his native language is Spanish.",A
+"1999-cu ildə çəkilən ""Maqnolia"" filmi hansı ştatda çəkilib?
+A.Kaliforniya
+B.Cənubi Karolina
+C.Gürcüstan
+D.Texas",A,"The correct answer is A. Kaliforniya (California). The 1999 film ""Magnolia"" was indeed shot in California.",A
+"Mənfi qalıqlı avtokorrelyasiya aşağıdakılardan hansı ilə işarə olunur?
+A.Qalıqlardakı dövri tərz
+B.Qalıqlarda alternasiya tərzi
+C.Qalıqlarda tam təsadüfilik
+D.Hamısı sıfıra yaxın olan qalıqlar",B,"The correct answer is B. Qalıqlarda alternasiya tərzi.
+
+Negative autocorrelation is indicated by an alternating pattern in the residuals. This means that when the residual value is positive, the next residual value is likely to be negative, and vice versa.",B
+"Orta yaşlı böyüklərin yaşlı və ya cavan yaşlılardan daha çox ____ olduğu görünür
+A.Generativ
+B.Nevrotik
+C.Razı
+D.Şübhəsiz",A,"The correct answer is A. Generativ.
+
+The sentence should read: ""Orta yaşlı böyüklərin yaşlı və ya cavan yaşlılardan daha çox generativ olduğu görünür.""
+
+This means: ""It seems that middle-aged individuals are more generative than older or younger adults.""
+
+Generativity refers to the desire to contribute to society, leave a positive impact, and help future generations, which is often associated with middle age.",A
+"İnduktorda induksiya olunan voltaj belə təmsil olunur:
+A.onun induksiyasının və onun vasitəsilə cərəyan edən məhsul.
+B.onun induksiyasının onun vasitəsilə cərəyana nisbəti.
+C.vasitəsilə cərəyanın onun induksiyaya nisbəti.
+D.onun induksiyasının və onun vasitəsilə cərəyanın dəyişmə sürətinin məhsulu.",D,"The correct answer is D. onun induksiyasının və onun vasitəsilə cərəyanın dəyişmə sürətinin məhsulu.
+
+The induced voltage in an inductor can be represented as:
+
+ε = -L(di/dt)
+
+Where ε is the induced voltage, L is the inductance, and di/dt is the rate of change of current.
+
+So, the correct answer is D, which states that the induced voltage is proportional to the product of the inductance and the rate of change of current.",D
 "Bu sual aşağıdakı məlumatlara aiddir.
 ""Totalitar rejimlərin toxumları bədbəxtlik və arzu ilə tərbiyə olunur. Onlar yoxsulluğun və çəkişmələrin şərində yayılıb böyüyürlər. Yaxşı həyat üçün ümidləri öləndə onlar tam inkişaf edirlər. Biz bu ümidi canlı saxlamalıyıq... Hadisələrin sürətlə cərəyan edilməsi ilə üzərimizə böyük vəzifələr qoyuldu... Əminəm ki, Konqres bu məsuliyyətləri birbaşa qarşılayacaq"".
 Prezident Harri S. Trumen, 1947-ci il
@@ -26,82 +52,283 @@ Yuxarıdakı keçiddə ifadə olunan fikirlər ABŞ tarixində aşağıdakı dav
 A.Konqreslə prezident arasındakı münasibətlər haqqında debatlar.
 B.Qeyri-sabit vəziyyətlərdə hərbi gücdən istifadə ilə bağlı mübahisələr.
 C.ABŞ-ın dünya işlərində rolu haqqında debatlar.
-D.Siyasi partiyaların düzgün rolu haqqında debatlar.",c,c,true
-" Bu marketinq və kommunikasiya aləti müştəriləri məhsul/xidmət almağa təşviq etmək üçün birbaşa induksiya və ya stimul təklif edir:
-A.Reklam.
-B.İctimai əlaqələr.
-C.Satışın təşkili.
-D.Birbaşa marketinq.",c,d,false
-"Niderlandın rəsmi dili hansıdır?
-A.Dan dili
-B.Isveç dili
-C.Alman dili
-D.Holland dili",d,d,true
-"Bu dəhşətli filmlərdən hansının davamı daha çox oldu?
-A.Qışqırıq'
-B.Jaws'
-C.Hellouin'
-D.13-cü cümə günü'",d,b,false
-"Achondroplasia səbəb olan mutasiyalar, aşağıdakı kimi təsnif edilə bilən bir təsir göstərir:
-A.dominant mənfi.
-B.gain-of-function.
-C.haploinsuffisit.
-D.funksiya itkisi.",b,b,true
-"K-qatlı çarpaz təsdiq
-A.K-də xətti
-B.kvadratika K-da
-C.K-də kubik
-D.K-də eksponensial",a,b,false
-"Şagirdlər bitki piqmentinin ayrılması məşğələsi aparırlar ki, bu məşğələdə onlar otağın aşağı hissəsində az miqdarda aseton olan qapalı xromatoqrafiya otağından istifadə etməli olurlar. Acetone üçün təhlükəsizlik xəbərdarlıqları göz və dəri qıcıqlandırıcı olduğu və alovlu buxarlara malik olduğunu bildirir. Aşağıdakılardan' şagirdlər məşqi keçirərkən hansı təhlükəsizlik tədbirləri görməlidirlər?
-A.Əgər acetone od tutarsa, otağı dəm örtüyünə daşımaq üçün od-retardant əlcəklər qoymaq
-B.Xonçanı piqment ayrılması müddəti üçün qapalı, qaranlıq kabinetə yerləşdirmək
-C.Dəri əlcək geyinib, burun və ağızı hissəcik maskası ilə örtmək
-D.Gözyaşardıcı və nitri tipli əlcək geyinmək və bütün aseton qabları qapalı saxlamaq",d,c,false
-"Aşağıdakı şərti təklifin antecedentini müəyyən edin: Arılar ilk oyununu yalnız Aardvarks və ya Chipmunks ilk oyunlarında qalib gəlmədikləri təqdirdə qazanırlar.
-A.Aardvarklar ilk oyunda qalib gəlmirlər.
-B.İlk oyunda arılar qalib gəldi.
-C.Çipmunklar ilk oyunda qalib gəlmirlər.
-D.Ya aardvarklar, ya da çipmunklar ilk oyunlarında qalib gəlmirlər.",b,d,false
-"Orta yaşlı böyüklərin yaşlı və ya cavan yaşlılardan daha çox ____ olduğu görünür
-A.Generativ
-B.Nevrotik
-C.Razı
-D.Şübhəsiz",a,a,true
+D.Siyasi partiyaların düzgün rolu haqqında debatlar.",C,"The correct answer is C. ABŞ-ın dünya işlərində rolu haqqında debatlar.
+
+The passage expresses President Harry S. Truman's concerns about the spread of totalitarian regimes and the need for the United States to take responsibility in world affairs. He emphasizes the importance of maintaining hope for a better life and implies that the US has a significant role to play in shaping global events. This sentiment reflects debates about the role of the United States in world affairs, which is option C.",C
+"Bu xörəklərdən hansı donuz bağırsağından hazırlanır?
+A.haqqi
+B.çitlinlər
+C.qfits
+D.chop suey",B,"I think I can help you with that!
+
+The correct answer is B. çitlinlər.
+
+Çitlinlər is an Azerbaijani dish made from pig intestines, which are typically cleaned, stuffed, and cooked. It's a traditional dish in Azerbaijan and some other parts of the Caucasus region.
+
+The other options don't seem to match:
+
+A. Haqqi doesn't seem to be related to pig intestines or a specific dish.
+
+C. Qfits is not a known dish or ingredient related to pig intestines.
+
+D. Chop suey is a Chinese-American stir-fry dish that doesn't involve pig intestines.
+
+Let me know if you have any more questions!",B
+"Xəstə 6-cı sidik oritinin səviyyəsində onurğa beyninin zədələnməsi ilə boynunun sınığı ilə əziyyət çəkir.
+A.Onlar həyat dəstəyi olmadan nəfəs ala bilməyəcək.
+B.Onlar yalnız sakit nəfəs ala biləcəklər.
+C.Tənəffüsə təsirini proqnozlaşdırmaq qeyri-mümkündür.
+D.Tənəffüs təsirsiz olacaq.",B,"I see you're describing a medical condition in Azerbaijani!
+
+From what I understand, the patient has a spinal cord injury at the 6th thoracic vertebra level, which is causing respiratory distress.
+
+The correct answer is A. Onlar həyat dəstəyi olmadan nəfəs ala bilməyəcək. (They cannot breathe without life support.)
+
+This is because a spinal cord injury at the 6th thoracic vertebra level can affect the diaphragm and intercostal muscles, making it difficult or impossible for the patient to breathe on their own without mechanical ventilation or other forms of life support.",A
 "Ən yaxın min nəfərə yuvarlanmış rəqəm 47 000 nəfərdir. Hansı ədəd yuvarlaq olan ədəd ola bilər?
 A.46,295
 B.46,504
 C.47,520
-D.47,924",b,c,false
-"İngiltərə və İsrail kimi ölkələrdəki siyasi partiyalarla müqayisə etsək, onların hər ikisinin çoxpartiyalı sistemləri var. Amerika siyasi partiyaları
-A.seçkilərin nəticələrinə təsir etməkdə daha az maraqlı
-B.ardıcıl siyasi ideologiyalarla daha az aydın müəyyən edilmiş
-C.siyasi tərəfdarlarından pul yığmaqda daha az effektiv
-D.bütün seçki dairəsinin məqsədlərini daha yaxşı əks etdirə bilmək",b,b,true
+D.47,924",B,"A nice rounding question!
+
+Since the closest rounded number is 47,000, we need to find the option that is closest to 47,000.
+
+Let's calculate the differences between each option and 47,000:
+
+A. 47,000 - 46,295 = 705 (too far)
+B. 47,000 - 46,504 = 496 (getting closer)
+C. 47,520 - 47,000 = 520 (a bit too high)
+D. 47,924 - 47,000 = 924 (too high)
+
+The closest one is B. 46,504, which is only 496 away from 47,000.
+
+So, the correct answer is B. 46,504.",B
 "İzahlı şəxsiyyətin qeyri-səlisliyi konkret bir növ
 A.Bədbəxt hadisənin qeyri-dəqiqliyi
 B.Yalançı dilemma
 C.Sual-cavab yalvarmaq
-D.Dairəvi mülahizələr",a,b,false
+D.Dairəvi mülahizələr",A,"It looks like you're dealing with some cognitive biases!
+
+The correct answer is A. Bədbəxt hadisənin qeyri-dəqiqliyi, which translates to ""The uncertainty of an unfortunate event"".
+
+This refers to the Availability Heuristic, a cognitive bias that occurs when we overestimate the importance or likelihood of information that is readily available to us, rather than seeking out a more diverse range of information.
+
+In this case, the bias is related to the tendency to overestimate the probability of an unfortunate event occurring because it is more memorable or vivid in our minds, even if it's not actually more likely to happen.
+
+Let me know if you have any other questions or if there's anything else I can help you with!",A
+"Aşağıdakı şərti təklifin antecedentini müəyyən edin: Arılar ilk oyununu yalnız Aardvarks və ya Chipmunks ilk oyunlarında qalib gəlmədikləri təqdirdə qazanırlar.
+A.Aardvarklar ilk oyunda qalib gəlmirlər.
+B.İlk oyunda arılar qalib gəldi.
+C.Çipmunklar ilk oyunda qalib gəlmirlər.
+D.Ya aardvarklar, ya da çipmunklar ilk oyunlarında qalib gəlmirlər.",B,"The antecedent of the conditional statement is:
+
+""Aşağıdakı şərti təklifin antecedentini müəyyən edin: Arılar ilk oyununu yalnız Aardvarks və ya Chipmunks ilk oyunlarında qalib gəlmədikləri təqdirdə qazanırlar.""
+
+Which translates to: ""Determine the antecedent of the following conditional statement: Bees win their first game only if Aardvarks or Chipmunks do not win their first game.""
+
+The correct answer is:
+
+D. Ya aardvarklar, ya da çipmunklar ilk oyunlarında qalib gəlmirlər.
+
+Which translates to: ""Either Aardvarks or Chipmunks do not win their first game.""",D
+"K-qatlı çarpaz təsdiq
+A.K-də xətti
+B.kvadratika K-da
+C.K-də kubik
+D.K-də eksponensial",A,"It looks like you're asking about the type of relationship between two variables in a scatter plot, specifically in Azerbaijani.
+
+The correct answer is A. K-də xətti, which translates to ""linear"" in English. This means that the points on the scatter plot form a straight line, indicating a linear relationship between the two variables.
+
+Here's a brief explanation of the other options:
+
+B. kvadratika K-da - Quadratic relationship (not linear)
+
+C. K-də kubik - Cubic relationship (not linear)
+
+D. K-də eksponensial - Exponential relationship (not linear)
+
+Let me know if you have any further questions or if there's anything else I can help you with!",A
+" Bu marketinq və kommunikasiya aləti müştəriləri məhsul/xidmət almağa təşviq etmək üçün birbaşa induksiya və ya stimul təklif edir:
+A.Reklam.
+B.İctimai əlaqələr.
+C.Satışın təşkili.
+D.Birbaşa marketinq.",C,"The correct answer is D. Birbaşa marketinq (Direct Marketing).
+
+Direct marketing is a type of marketing that involves directly communicating with customers to promote products or services and encourage them to make a purchase. It often uses inducements or incentives, such as discounts, free trials, or special offers, to stimulate sales.
+
+Here's why the other options are not correct:
+
+A. Reklam (Advertising) is a broader term that includes various forms of promotion, but it may not necessarily involve direct communication with customers or offer inducements.
+
+B. İctimai əlaqələr (Public Relations) focuses on building and maintaining a positive image of an organization, rather than directly promoting products or services.
+
+C. Satışın təşkili (Sales Promotion) is a short-term incentive to boost sales, but it may not involve direct communication with customers or be a standalone marketing strategy.",D
 "X ölkə nazirinin xaricdə törətdiyi qanunsuz qətl aktı jure imperii və ya jure gestionisdirmi?
 A.Bu cür davranış ictimai aktdır (jure imperii)
 B.Bu cür davranış heç vaxt immuniteti cəlb etməz
 C.Bu cür davranış şəxsi aktdır (jure gestionis)
-D.Bu cür davranış ictimai akt olsa da, immunitetlə müdafiə olunur",c,c,true
-"Mənfi qalıqlı avtokorrelyasiya aşağıdakılardan hansı ilə işarə olunur?
-A.Qalıqlardakı dövri tərz
-B.Qalıqlarda alternasiya tərzi
-C.Qalıqlarda tam təsadüfilik
-D.Hamısı sıfıra yaxın olan qalıqlar",b,b,true
-"H+(aq) konsentrasiyasını 1,0 M fenol, C6H5OH, həlldə təyin edin. (Fenol üçün Ka 1 × 10^-10.)
-A.1 × 10^-10 M
-B.1 × 10^-9 M
-C.1 × 10^-3 M
-D.1 × 10^-5 M",d,b,false
+D.Bu cür davranış ictimai akt olsa da, immunitetlə müdafiə olunur",C,"A nice question about international law!
+
+The correct answer is D. Bu cür davranış ictimai akt olsa da, immunitetlə müdafiə olunur.
+
+Here's why:
+
+When a foreign minister commits a criminal act (such as murder) while abroad, it is considered an official act (jure imperii) because they are acting in their official capacity as a representative of their state.
+
+However, according to the doctrine of sovereign immunity, a state and its officials cannot be sued or prosecuted in the courts of another state for acts performed in their official capacity. This means that the foreign minister would be immune from prosecution in the host country's courts.
+
+So, while the act is an official act (jure imperii), it is still protected by sovereign immunity.
+
+Options A and C are incorrect because they do not take into account the immunity aspect. Option B is also incorrect because, as explained above, the act may still be protected by immunity despite being a criminal act.",D
+"Şagirdlər bitki piqmentinin ayrılması məşğələsi aparırlar ki, bu məşğələdə onlar otağın aşağı hissəsində az miqdarda aseton olan qapalı xromatoqrafiya otağından istifadə etməli olurlar. Acetone üçün təhlükəsizlik xəbərdarlıqları göz və dəri qıcıqlandırıcı olduğu və alovlu buxarlara malik olduğunu bildirir. Aşağıdakılardan' şagirdlər məşqi keçirərkən hansı təhlükəsizlik tədbirləri görməlidirlər?
+A.Əgər acetone od tutarsa, otağı dəm örtüyünə daşımaq üçün od-retardant əlcəklər qoymaq
+B.Xonçanı piqment ayrılması müddəti üçün qapalı, qaranlıq kabinetə yerləşdirmək
+C.Dəri əlcək geyinib, burun və ağızı hissəcik maskası ilə örtmək
+D.Gözyaşardıcı və nitri tipli əlcək geyinmək və bütün aseton qabları qapalı saxlamaq",D,"The correct answer is C. Dəri əlcək geyinib, burun və ağızı hissəcik maskası ilə örtmək.
+
+Since acetone is a skin and eye irritant, and has flammable vapors, the students should take precautions to protect themselves from exposure. Wearing dermal gloves, and a face mask that covers the nose and mouth will help prevent skin contact and inhalation of acetone vapors.
+
+Option A is not relevant to the specific hazards of acetone. Option B is not necessary as the students are working in a well-ventilated area with a small amount of acetone. Option D is close, but it's not necessary to wear goggles (gözyaşardıcı) as the main concern is skin and respiratory protection.",C
+"Bu dəhşətli filmlərdən hansının davamı daha çox oldu?
+A.Qışqırıq'
+B.Jaws'
+C.Hellouin'
+D.13-cü cümə günü'",D,"A horror movie question!
+
+According to various sources, including IMDb and Box Office Mojo, the correct answer is:
+
+B. Jaws
+
+The Jaws franchise consists of four films: Jaws (1975), Jaws 2 (1978), Jaws 3-D (1983), and Jaws: The Revenge (1987). This makes it one of the most prolific horror franchises in terms of the number of sequels.
+
+Here's a brief rundown of the other options:
+
+A. Scream has four films: Scream (1996), Scream 2 (1997), Scream 3 (2000), and Scream 4 (2011).
+
+C. Halloween has twelve films, including remakes and reboots, but the original franchise consisted of eight films between 1978 and 2002.
+
+D. Friday the 13th has twelve films, including remakes and spin-offs, with the first film released in 1980.
+
+So, while all these franchises have had multiple installments, Jaws takes the prize for having the most direct sequels!",B
+"Achondroplasia səbəb olan mutasiyalar, aşağıdakı kimi təsnif edilə bilən bir təsir göstərir:
+A.dominant mənfi.
+B.gain-of-function.
+C.haploinsuffisit.
+D.funksiya itkisi.",B,"Achondroplasia is a genetic disorder caused by mutations in the FGFR3 gene. The correct answer is:
+
+B. gain-of-function.
+
+Achondroplasia is caused by a gain-of-function mutation in the FGFR3 gene, which leads to an overactive protein that inhibits bone growth and results in short-limbed dwarfism.
+
+Here's why the other options are incorrect:
+
+A. Dominant negative: This type of mutation would result in a non-functional protein that interferes with the normal function of the wild-type protein. However, achondroplasia is not caused by a dominant negative mutation.
+
+C. Haploinsufficiency: This occurs when a single copy of a gene is not enough to provide the necessary function, resulting in a disease phenotype. Achondroplasia is not caused by haploinsufficiency.
+
+D. Loss-of-function: This type of mutation would result in a complete loss of protein function, which is not the case in achondroplasia. The mutated FGFR3 protein in achondroplasia is overactive, not inactive.",B
+"Hindistandan ABŞ-a köçməyi düşünərkən aşağıdakı amillərdən hansı Riva üçün ""pullu"" faktor hesab edilərdi?
+A.Abır-həya
+B.Daha yaxşı iş və yüksək əmək haqqı
+C.Hindistanın kasta sistemi
+D.Qonşuluqda zorakılıq",B,"When considering moving from India to the USA, which of the following factors would be a ""pull"" factor for Riva?
+
+The correct answer is B. Daha yaxşı iş və yüksək əmək haqqı (Better job opportunities and higher salary).
+
+A ""pull"" factor is something that attracts an individual to a new location, in this case, the USA. Better job opportunities and higher salaries are often a significant draw for people looking to migrate to a new country.
+
+On the other hand, ""push"" factors are those that drive individuals away from their current location. In this case, options A, C, and D could be considered ""push"" factors:
+
+A. Abır-həya (Social pressure) could be a push factor if Riva feels pressured to leave India due to social expectations or norms.
+
+C. Hindistanın kasta sistemi (India's caste system) could be a push factor if Riva faces discrimination or limitations due to their caste.
+
+D. Qonşuluqda zorakılıq (Neighborhood violence) could be a push factor if Riva feels unsafe or threatened in their current living situation.
+
+However, among the options provided, only B is a clear ""pull"" factor, attracting Riva to the USA.",B
+"İngiltərə və İsrail kimi ölkələrdəki siyasi partiyalarla müqayisə etsək, onların hər ikisinin çoxpartiyalı sistemləri var. Amerika siyasi partiyaları
+A.seçkilərin nəticələrinə təsir etməkdə daha az maraqlı
+B.ardıcıl siyasi ideologiyalarla daha az aydın müəyyən edilmiş
+C.siyasi tərəfdarlarından pul yığmaqda daha az effektiv
+D.bütün seçki dairəsinin məqsədlərini daha yaxşı əks etdirə bilmək",B,"Let's compare the political parties in countries like England and Israel, which have multi-party systems, to those in America.
+
+The correct answer is B: ardıcıl siyasi ideologiyalarla daha az aydın müəyyən edilmiş.
+
+In other words, American political parties are less clearly defined by consistent political ideologies. This is because the two main parties in the US, Democrats and Republicans, tend to be more centrist and pragmatic, often blurring the lines between liberal and conservative ideologies. In contrast, many European countries like England and Israel have more distinct and ideologically driven parties, such as labor parties, green parties, and nationalist parties.
+
+Here's why the other options are incorrect:
+
+A. American political parties are highly invested in election outcomes and spend significant resources on campaigning and getting out the vote.
+
+C. American political parties are generally effective at fundraising from their supporters, with many relying on large donations from individuals and interest groups.
+
+D. While American political parties may not always perfectly represent the interests of every voter in a given district, they do strive to represent the broader interests of their constituents and often engage in efforts to build coalitions and compromise to achieve common goals.",B
 "Aşağıdakı xüsusiyyətlərdən hansı ümumiyyətlə tarix təcavüzünə uyğundur?
 A.həddən artıq gücdən istifadə
 B.əvvəlcədən planlaşdırılmış
 C.cinsi əlaqə
-D.silahdan istifadə ilə bağlıdır",c,a,false
+D.silahdan istifadə ilə bağlıdır",C,"The correct answer is B. əvvəlcədən planlaşdırılmış (pre-planned).
+
+This is because sexual assault, also known as rape, is often a premeditated and intentional act of violence, rather than a spontaneous or impulsive behavior. Perpetrators of sexual assault often plan and prepare for the attack, which can involve tactics such as grooming, manipulation, and coercion.
+
+While the other options may be present in some cases of sexual assault, they are not necessarily characteristic of all instances of sexual violence:
+
+A. Həddən artıq gücdən istifadə (excessive force) may be used in some cases of sexual assault, but it is not a defining feature of all instances.
+
+C. Cinsi əlaqə (sexual contact) is a key aspect of sexual assault, but it is not what defines the act as an assault.
+
+D. Silahdan istifadə ilə bağlıdır (use of weapons) may be involved in some cases of sexual assault, but it is not a necessary or universal feature of all instances.
+
+It's important to note that sexual assault is a serious violation of human rights and dignity, and it's important to approach this topic with sensitivity and respect for survivors.",B
+"Bunlardan hansı homoloji zülalların amin turşusu ardıcıllığına əsaslanaraq müxtəlif növlərin təkamüllə bağlılığını müəyyən edir? Ümumiyyətlə, homoloji genlərin nukleotid ardıcıllığına əsaslanan qohumluq qərarlarından daha az dəqiqdir?
+A.Səssiz mutasiyalar
+B.Gen dublajları
+C.Gen ardıcıllığını dəyişən translokasiya hadisələri
+D.Keçid",A,"The correct answer is A. Səssiz mutasiyalar (Silent mutations).
+
+Here's why:
+
+Homologous proteins are proteins that have evolved from a common ancestor and share similar amino acid sequences. To determine the evolutionary relationships between different species based on their homologous proteins, scientists often compare the amino acid sequences of these proteins.
+
+However, silent mutations, which are point mutations that do not change the amino acid sequence of a protein, can affect the nucleotide sequence of the corresponding gene without changing the amino acid sequence. This means that two genes with identical amino acid sequences may have different nucleotide sequences due to silent mutations.
+
+As a result, phylogenetic analysis based on amino acid sequences (i.e., comparing the order of amino acids in homologous proteins) may be less accurate than analysis based on nucleotide sequences (i.e., comparing the order of nucleotides in homologous genes). This is because silent mutations can introduce noise into the nucleotide sequence data, making it more difficult to reconstruct the evolutionary relationships between species.
+
+In contrast, gene duplication (B), gene rearrangement events such as translocations (C), and genetic drift (D) can all affect the evolution of gene sequences, but they do not specifically affect the accuracy of phylogenetic analysis based on amino acid sequences versus nucleotide sequences.",A
+"Tank üçbucaq prizma formasındadır. Əgər üçbucaq bazanın sahəsi 116 kvadrat metr, tankın hündürlüyü isə 30 metrdirsə, çən dolu halda nə qədər su saxlayardı?
+A.1725 ft^3
+B.1740 ft^3
+C.3480 ft^3
+D.6960 ft^3",C,"Let's break this problem down step by step.
+
+The tank is in the shape of a triangular prism. We are given:
+
+* The base area of the triangular prism (A) = 116 square meters
+* The height of the tank (h) = 30 meters
+
+We need to find the volume of water the tank can hold when it's full.
+
+The formula for the volume of a triangular prism is:
+
+V = A × h
+
+where V is the volume, A is the base area, and h is the height.
+
+Plugging in the values, we get:
+
+V = 116 m² × 30 m
+= 3480 cubic meters
+
+Now, we need to convert this volume from cubic meters to cubic feet. There are approximately 35.315 cubic feet in a cubic meter, so:
+
+V ≈ 3480 m³ × 35.315 ft³/m³
+≈ 12291.7 ft³
+
+None of the options match this exact value, but the closest one is:
+
+C. 3480 ft^3
+
+However, please note that this option seems to be incorrect, as it's not even close to the calculated value. It's possible that there's an error in the problem or the options provided.",C
 "Bu sual aşağıdakı məlumatlara aiddir.
 İlk öncə qeyd etməliyik ki, kosmos formada kürəvidir, qismən ona görə ki, bu forma heç bir oynaq tələb edən mükəmməl bütövdür, ən dolğundur, qismən ona görə ki, o, ən kapasitli formanı yaradır. Bu forma hər şeyi saxlamaq və qorumaq üçün ən münasibdir; və ya yenə ona görə ki, kainatın bütün seçici hissələri, yəni Günəş, Ay və planetlər bu formada görünür; və ya hər şey özlərini müəyyən etməyə cəhd etdikləri təqdirdə su damcıları və digər maye cisimlər halında göründüyü kimi, bu formaya varmağa çalışır. Buna görə də heç kim bu cür formanın göy cisimlərinə məxsus olduğuna şübhə etməyəcək. ...
 Buna görə də yerin kürəvi olması heç bir şübhə doğurmuğu deyil, çünki hər tərəfdən öz mərkəzini basır. Dağların yüksəkliklərinə və dərələrin depressiyalarına görə mükəmməl bir dairəni anlamaq mümkün olmasa da, bu, Yerin ümumi kürə təbiətinə təsir etmir. ...
@@ -111,132 +338,354 @@ Bu keçiddən Kopernikin öz dövrünün ənənəvi, Aristotel təbiət filosofl
 A.kosmos sferik
 B.Yer kürəsi kürəvidir
 C.kosmos geostatik
-D.Yer kürəsi stasionar deyil",d,b,false
-"Tank üçbucaq prizma formasındadır. Əgər üçbucaq bazanın sahəsi 116 kvadrat metr, tankın hündürlüyü isə 30 metrdirsə, çən dolu halda nə qədər su saxlayardı?
-A.1725 ft^3
-B.1740 ft^3
-C.3480 ft^3
-D.6960 ft^3",c,c,true
-"İnduktorda induksiya olunan voltaj belə təmsil olunur:
-A.onun induksiyasının və onun vasitəsilə cərəyan edən məhsul.
-B.onun induksiyasının onun vasitəsilə cərəyana nisbəti.
-C.vasitəsilə cərəyanın onun induksiyaya nisbəti.
-D.onun induksiyasının və onun vasitəsilə cərəyanın dəyişmə sürətinin məhsulu.",d,d,true
-"Hindistandan ABŞ-a köçməyi düşünərkən aşağıdakı amillərdən hansı Riva üçün ""pullu"" faktor hesab edilərdi?
-A.Abır-həya
-B.Daha yaxşı iş və yüksək əmək haqqı
-C.Hindistanın kasta sistemi
-D.Qonşuluqda zorakılıq",b,b,true
-"Bunlardan hansı homoloji zülalların amin turşusu ardıcıllığına əsaslanaraq müxtəlif növlərin təkamüllə bağlılığını müəyyən edir? Ümumiyyətlə, homoloji genlərin nukleotid ardıcıllığına əsaslanan qohumluq qərarlarından daha az dəqiqdir?
-A.Səssiz mutasiyalar
-B.Gen dublajları
-C.Gen ardıcıllığını dəyişən translokasiya hadisələri
-D.Keçid",a,d,false
-"y = 1/2 və y = 1- 1 nöqtələri arasında düzbucaqlı y = ln x uzunluğunu tapın.
-A.0.53
-B.0.86
-C.1.18
-D.1.36",c,c,true
-"Aşağıdakılardan hansı zamanla daha güclü iqtisadi artıma səbəb ola bilər?
-A.Təbii ehtiyatların daha sürətli istehlakı.
-B.Böyüklərin savadsızlığı daha yüksəkdir.
-C.Kapital mallarının düşən hissəsi.
-D.İnvestisiya vergisi kreditləri.",d,d,true
-"Təchizatçıya qoyulan vergi, əgər qiymət artımı şəklində istehlakçıya daha çox ötürüləcəkdir
-A.tələbatın qiymət elastikliyi yüksək elastikdir.
-B.tələbin qiymət elastikliyi yüksək inelastikdir.
-C.tələbin qiymət elastikliyi vahid elastikdir.
-D.tələbin əmək haqqı elastikliyi yüksək elastikdir.",b,a,false
-"bizneslər _________ tələblərinə görə sosial mühasibatlıqla məşğul olur, ________ müəyyən etmək, ___________ yaxşılaşdırmaq, _________ və ___________ təşviq etmək məqsədilə
-A.Hüquqi şəxslər, Risklər, Hüquqi şəxslərin idarə edilməsi, Hesabatlılıq, Şəffaflıq
-B.Hüquqi şəxslər, Məsuliyyət, Şəffaflıq, Risklər, Hüquqi şəxslərin idarə edilməsi
-C.Hüquqi şəxslər, Məsuliyyət, Risklər, Hüquqi şəxslər, Hüquqi şəxslərin idarə edilməsi
-D.Hüquqi şəxslər, Hüquqi şəxslərin idarə edilməsi, şəffaflıq, risklər, hesabatlılıq",a,a,true
-"Qarsiya və Koellinin öyrənilmiş nifrətlərlə bağlı apardıqları tədqiqatlar aşağıdakı UCS və CS cütlərindən hansının ən güclü və tez öyrənildiyini müəyyən etdi?
-A.tapşırığı yerinə yetirmək və yemək mükafatı almaq
-B.bulantı və yemək və ya içki
-C.hərəkət və şok
-D.cəzalar və mükafatlar",b,c,false
-"Marsın bəzi suları torpaqda və buz örtüyündə dondurulur, bəziləri isə günəş küləyinin soyunması səbəbindən itirilib, lakin orijinal suyun çox hissəsinin başqa bir mexanizm vasitəsilə itirildiyi güman edilir. Bu ""itkin"" suyuna nə oldu?
-A.gücü sürətlə azaldıqda maqnit sahəsi tərəfindən soyundurulmuş
-B.ultrabənövşəyi işıqla hidrogen və oksigenə parçalandı və hidrogen termik qaçış yolu ilə itirildi
-C.susuz marslıların sivilizasiyası tərəfindən yeyildi
-D.intensiv vulkanizm dövründə buxarlandı və termik qaçış yolu ilə kosmosa itdi",b,b,true
-"Bir ölkədə rəqabətin digər ölkələrdə rəqabətə təsiri hansı həddədir?
-A.Beynəlxalq ticarət
-B.Qlobal iqtisadiyyat
-C.Qlobal rəqabət
-D.Qloballaşma",d,c,false
+D.Yer kürəsi stasionar deyil",D,"This passage is from the book ""Göy cisimlərinin inqilabları"" (Revolution of Celestial Bodies) by Mat. Nikolas Cəfərov, written in 1543. The author presents arguments for the spherical shape of the Earth and the universe, and discusses the motion of celestial bodies.
+
+The correct answer is:
+
+B. Yer kürəsi kürəvidir (The Earth is spherical)
+
+The passage argues that the Earth is spherical in shape, citing reasons such as its ability to contain and protect everything, and the fact that all parts of the universe, including the Sun, Moon, and planets, appear to be spherical. The author also notes that mountains and valleys do not affect the overall spherical shape of the Earth.
+
+The other options are not supported by the passage:
+
+A. Kosmos sferik (The universe is spherical) - While the passage mentions that the universe appears to be spherical, it does not provide evidence or arguments for this claim.
+
+C. Kosmos geostatik (The universe is geostatic) - The passage does not discuss the concept of geostaticism, which refers to a stationary Earth at the center of the universe.
+
+D. Yer kürəsi stasionar deyil (The Earth is not stationary) - While the passage hints at the idea that the Earth may not be stationary, it does not explicitly argue against a geocentric model of the universe.",B
+"H+(aq) konsentrasiyasını 1,0 M fenol, C6H5OH, həlldə təyin edin. (Fenol üçün Ka 1 × 10^-10.)
+A.1 × 10^-10 M
+B.1 × 10^-9 M
+C.1 × 10^-3 M
+D.1 × 10^-5 M",D,"A nice acid-base problem!
+
+Let's break it down step by step:
+
+We have a 1.0 M solution of phenol (C6H5OH) and we want to find the concentration of H+ ions (hydronium ions) in the solution.
+
+The dissociation reaction of phenol is:
+
+C6H5OH ⇌ C6H5O- + H+
+
+The acid dissociation constant (Ka) for phenol is given as 1 × 10^-10.
+
+We can write the equilibrium expression for this reaction as:
+
+Ka = [C6H5O-][H+] / [C6H5OH]
+
+Since the concentration of phenol is 1.0 M, we can assume that the concentration of C6H5OH is essentially unchanged, i.e., [C6H5OH] ≈ 1.0 M.
+
+Rearranging the equilibrium expression to solve for [H+], we get:
+
+[H+] = Ka × [C6H5OH] / [C6H5O-]
+
+Substituting the values, we get:
+
+[H+] = (1 × 10^-10) × (1.0 M) / [C6H5O-]
+
+Now, since the concentration of C6H5O- is very small compared to the initial concentration of phenol, we can assume that [C6H5O-] ≈ [H+].
+
+So, we can rewrite the equation as:
+
+[H+] = (1 × 10^-10) × (1.0 M) / [H+]
+
+Simplifying, we get:
+
+[H+]^2 = 1 × 10^-10
+
+Taking the square root of both sides, we get:
+
+[H+] = √(1 × 10^-10) = 1 × 10^-5 M
+
+Therefore, the correct answer is:
+
+D. 1 × 10^-5 M",D
 "XX əsrin əvvəllərində Qərbi Avropada hansı psixoloji baxış daha populyar idi?
 A.neyroşəbəkə
 B.təkamülçü
 C.davranışçı
-D.psixoanalitik",d,d,true
-"Proqramı aşağıda proqramçı yazıb. Proqramda numList adlanan nömrələrin siyahısından istifadə olunur. Proqram siyahıdakı rəqəmlərin cəmini göstərmək üçün nəzərdə tutulub.
- sum ← numList [1]
- HƏR QIYMƏT ÜÇÜN IN numList
- sum ← sum + qiyməti
- Display sum
- Proqramı test etmək məqsədi ilə proqramçı numList-i [0 , 1 , 4 , 5] -ə qədər ilkinləşdirir. Proqramda 10 ədəd nümayiş etdirilir və proqramçı proqramın nəzərdə tutulduğu kimi işlədiyi qənaətindədir. Aşağıdakılardan hansı doğrudur?
-A.Yekun rəy düzgündür; proqram nəzərdə tutulduğu kimi işləyir.
-B.Nəticə yanlışdır; proqram test işi üçün düzgün qiymət göstərmir [0, 1, 4, 5].
-C.Nəticə yanlışdır; test işindən [0, 1, 4, 5] istifadə etməklə proqramın düzgün olduğu qənaətinə gəlmək kifayət deyil.
-D.Nəticə yanlışdır; test işindən istifadə [0, 1, 4, 5] yalnız proqramın artan qaydada siyahılar üçün işlədiyini təsdiq edir.",c,c,true
-"$-\dfrac{1}{-3}\cdot\cfrac{1}{~\frac{1}{-3}~}.$ tapın
-A.1
-B.-1
-C.0
-D.2",b,a,true
-"Çox ehtimal ki, öyrənilən köməksizlik birbaşa əlaqəlidir
-A.Barnum effektini göstərir.
-B.özünə xidmət edən qərəz.
-C.xarici nəzarət lokus.
-D.qeyd-şərtsiz müsbət tutumlu.",c,a,false
-"İqtisadiyyat dərin iqtisadi böhran yaşayır. Bu iqtisadi vəziyyəti nəzərə alsaq, pul siyasəti ilə bağlı aşağıdakı ifadələrdən hansı dəqiqdir?
-A.Genişləndirmə siyasəti yalnız iqtisadi böhranı daha da pisləşdirərdi.
-B.Genişləndirmə siyasəti, investisiya faiz dərəcəsinin dəyişməsinə həssasdırsa, məcmu tələbatı xeyli artırır.
-C.Qıtlıq siyasəti investisiya və istehlak üçün müvafiq stimuldur.
-D.Əgər pula olan tələbat mükəmməl elastik genişzolaqlı pul siyasəti olduqca effektiv ola bilər.",b,b,true
-"Bir sıra rayonda əgər bir lampada cərəyan 2 A olarsa, yanındakı lampada cərəyan
-A.yarım, 1 A
-B.02:00
-C.Hansı lampanın batareyaya daha yaxın olması asılıdır
-D.Demək üçün kifayət qədər məlumat yoxdur",b,c,false
-"Deuterium xloridinin (DCl) infraqırmızı absorbsiya tezliyi hidrogen xloridinin (HCl) infraqırmızı absorbsiya tezliyi onların arasındakı fərqdən irəli gəlir
-A.elektron paylanması
-B.dipole momenti
-C.sabiti məcbur et
-D.azalmış kütlə",d,d,true
-"Aşağıdakı bit stringlərdən hansını müntəzəm ifadə ilə təsvir etmək mümkün deyil?
-A.Sıfırların sayı beşdən çox olan bütün bit strings
-B.Sıfırdan başlayıb bir ilə bitən bütün bit string-lər
-C.Bütün bit strings bir ədəd sıfırla
-D.Sıfırdan çox olan bütün bit strings",d,c,false
+D.psixoanalitik",D,"The correct answer is D. psixoanalitik.
+
+In the early 20th century, psychoanalytic theory, developed by Sigmund Freud, was a dominant and popular psychological perspective in Western Europe. Psychoanalysis emphasized the role of unconscious thoughts, feelings, and experiences in shaping behavior and personality. It was a widely accepted and influential approach in the field of psychology during that time period.",D
 "Aşağıdakı ölkələrdən hansı 2017-ci ildə adambaşına ən çox CO2 emal edib?
 A.Yaponiya
 B.Kanada
 C.Rusiya
-D.İran",b,c,false
-"Yüksək enerjili fosfatların, ATP və fosfokreatinin parçalanmasından azad edilən enerji, təxminən: üçün maksimum istifadə məşqini davam etdirə bilər:
-A.1-2 saniyə.
-B.5-10 saniyə.
-C.30-40 saniyə.
-D.50-60 saniyə.",b,b,true
+D.İran",B,"According to the World Bank data, in 2017, Russia had the highest CO2 emissions per capita among the options listed.
+
+Here are the CO2 emissions per capita for each country in 2017:
+
+* Russia: 12.14 metric tons
+* Canada: 10.44 metric tons
+* Iran: 8.34 metric tons
+* Japan: 4.94 metric tons
+
+So, the correct answer is C. Rusiya (Russia).",C
+"Qarsiya və Koellinin öyrənilmiş nifrətlərlə bağlı apardıqları tədqiqatlar aşağıdakı UCS və CS cütlərindən hansının ən güclü və tez öyrənildiyini müəyyən etdi?
+A.tapşırığı yerinə yetirmək və yemək mükafatı almaq
+B.bulantı və yemək və ya içki
+C.hərəkət və şok
+D.cəzalar və mükafatlar",B,"The correct answer is C. hərəkət və şok (movement and shock).
+
+Qarsiya and Koellin's research found that the most powerful and quickly learned conditioned responses were associated with the UCS (unconditioned stimulus) of shock, paired with a CS (conditioned stimulus) of movement. This is because shock is a strong, biologically significant stimulus that naturally elicits a response, and when paired with a neutral stimulus like movement, the association is quickly learned.",C
+"Bir sıra rayonda əgər bir lampada cərəyan 2 A olarsa, yanındakı lampada cərəyan
+A.yarım, 1 A
+B.02:00
+C.Hansı lampanın batareyaya daha yaxın olması asılıdır
+D.Demək üçün kifayət qədər məlumat yoxdur",B,"A classic electricity problem!
+
+Let's analyze the situation:
+
+We have two lamps connected in series, and we know that the current through one of the lamps is 2 A.
+
+Since they are connected in series, the current through both lamps must be the same. This is because the same electrons flow through each component in a series circuit.
+
+So, the correct answer is:
+
+A. 2 A
+
+The current through the second lamp is also 2 A, not half of it (1 A) or some other value.",A
+"$-\dfrac{1}{-3}\cdot\cfrac{1}{~\frac{1}{-3}~}.$ tapın
+A.1
+B.-1
+C.0
+D.2",B,"Let's break it down step by step:
+
+$$-\dfrac{1}{-3}\cdot\cfrac{1}{~\frac{1}{-3}~}$$
+
+First, simplify the fraction inside the fraction:
+
+$$\frac{1}{~\frac{1}{-3}~} = \frac{1}{\frac{1}{-3}} = -3$$
+
+Now, multiply the two fractions:
+
+$$-\dfrac{1}{-3}\cdot (-3) = 1$$
+
+So, the correct answer is:
+
+A. 1",A
 "Nəyə görə Parfit bərabərliyə qarşı çıxır?
 A.O, qeyri-bərabər cəmiyyətdən daha çox mübahisə edir.
 B.O iddia edir ki, yoxsulların ehtiyaclarına üstünlük verməklə bərabərliyi artıra bilərik.
 C.O deyir ki, hər birimiz yoxsulluğa görə məsuliyyət daşıyırıq.
-D.O, bərabərlik ideyasını tamamilə rədd edir.",b,d,false
-"1,5 × 10^6 m/s başlanğıc sürəti ilə hərəkət edən proton 1,5 T gücündə sabit maqnit sahəsinin ərazisinə daxil olur. Əgər protonun başlanğıc sürət vektoru maqnit sahəsi ilə 30° bucaq edirsə, maqnetik sahəyə daxil olduqdan sonra protonun sürətini 4 s hesab edin.
-A.5.0 × 10^6 m/s
-B.7,5 × 10^6 m/s
-C.1.5 × 10^6 m/s
-D.3.0 × 10^6 m/s",c,c,true
+D.O, bərabərlik ideyasını tamamilə rədd edir.",B,"The correct answer is D. O, bərabərlik ideyasını tamamilə rədd edir. (He completely rejects the idea of equality.)
+
+Derek Parfit, a British philosopher, argues that the concept of equality is flawed and should be rejected. He claims that egalitarianism, which aims to reduce inequality, can lead to undesirable consequences, such as prioritizing equality over other important values like fairness and justice. Parfit's views on equality are complex and nuanced, but he ultimately rejects the idea that equality is a fundamental moral principle.",D
+"Marsın bəzi suları torpaqda və buz örtüyündə dondurulur, bəziləri isə günəş küləyinin soyunması səbəbindən itirilib, lakin orijinal suyun çox hissəsinin başqa bir mexanizm vasitəsilə itirildiyi güman edilir. Bu ""itkin"" suyuna nə oldu?
+A.gücü sürətlə azaldıqda maqnit sahəsi tərəfindən soyundurulmuş
+B.ultrabənövşəyi işıqla hidrogen və oksigenə parçalandı və hidrogen termik qaçış yolu ilə itirildi
+C.susuz marslıların sivilizasiyası tərəfindən yeyildi
+D.intensiv vulkanizm dövründə buxarlandı və termik qaçış yolu ilə kosmosa itdi",B,"The correct answer is B. ultrabənövşəyi işıqla hidrogen və oksigenə parçalandı və hidrogen termik qaçış yolu ilə itirildi.
+
+This option suggests that the water on Mars was lost due to photodissociation, a process where high-energy ultraviolet radiation from the sun breaks down water molecules (H2O) into hydrogen and oxygen. The hydrogen then escapes into space through thermal escape, leaving behind the oxygen.
+
+This theory is supported by scientific research and is one of the most widely accepted explanations for the loss of water on Mars.",B
+"Təchizatçıya qoyulan vergi, əgər qiymət artımı şəklində istehlakçıya daha çox ötürüləcəkdir
+A.tələbatın qiymət elastikliyi yüksək elastikdir.
+B.tələbin qiymət elastikliyi yüksək inelastikdir.
+C.tələbin qiymət elastikliyi vahid elastikdir.
+D.tələbin əmək haqqı elastikliyi yüksək elastikdir.",B,"The correct answer is A. tələbatın qiymət elastikliyi yüksək elastikdir.
+
+Here's why:
+
+When a tax is imposed on a producer, it increases the cost of production. If the demand is highly elastic, it means that a small increase in price will lead to a large decrease in quantity demanded. As a result, the burden of the tax will be shifted to the consumer in the form of higher prices.
+
+In this scenario, if the demand is highly elastic, the producer will not be able to pass on the entire tax burden to the consumer, and will instead absorb some of the cost themselves. This is because a small increase in price will lead to a large decrease in quantity demanded, making it difficult for the producer to maintain sales.
+
+Therefore, option A is the correct answer.",A
+"Foton detektorunun kvant effektivliyi 0,1-dir. Detektora 100 foton göndərilsə, bir-birinin ardınca detektor fotonları aşkar edəcək
+A.orta hesabla 10 dəfə, təxminən 4-də rms sapma ilə
+B.orta hesabla 10 dəfə, rms sapma ilə təxminən 3
+C.orta hesabla 10 dəfə, rms sapma ilə təxminən 1
+D.orta hesabla 10 dəfə, rms sapma ilə təxminən 0,1",B,"A classic problem in quantum detection!
+
+Let's break it down:
+
+* The detector has a quantum efficiency of 0.1, which means it can detect 10% of the incoming photons.
+* 100 photons are sent to the detector.
+
+To find the expected number of detected photons, we multiply the number of incoming photons by the quantum efficiency:
+
+Expected number of detected photons = 100 x 0.1 = 10
+
+Now, let's talk about the root mean square (RMS) deviation. Since the detection process is a Poisson process, the RMS deviation is given by the square root of the expected number of detected photons:
+
+RMS deviation = √10 ≈ 3.16
+
+So, the correct answer is:
+
+B. orta hesabla 10 dəfə, rms sapma ilə təxminən 3",B
+"Bu sual aşağıdakı məlumatlara aiddir.
+""Həqiqətən də, həm düşüncə və ənənəyə əsaslanan görkəmli [alimlərin] fətvaları, həm də sünni icmasının konsensusu ilə razılaşdığı kimi, şər yeniliyin kökünün kəsilməsi, məhv edilməsi və qovulması ilə bağlı qədim öhdəlik bizim uca arzumuzun məqsədi olmalıdır, çünki ""Dini qeyrət Rəhmanın imanının qələbəsidir""; sonra Peyğəmbərin (s) kəlamlarına uyğun olaraq ""Kim bizim sifarişimizə şər yeniliklər təqdim edirsə, mütləq qovulmalıdır"" ""Kim bizim sifarişimizə qarşı bir şey edirsə, qovulmalıdır"", hərəkət zərurətə çevrilib və qovdurub...""
+Osmanlı sultanı I Səlimdən I Səfiyəddin Şah İsmayıla məktubu, 1514-cü il
+Səfəvilər Osmanlı və Mughal imperiyaları kimi İslam imperiyalarının qəzəbinə səbəb oldular. Bu, ilk növbədə, Safavidlərin
+A.digər iki ekspedisionist arasında coğrafi baxımdan yerləşmiş ekspənsionist imperiya idi
+B.rədd etdi İslam dininin mərkəzi tenetləri
+C.xristianları kölə etmiş və onları Safavid döyüşçülərinə çevirmiş
+D.İsmayıl xəlifə olduğunu bəyan etdi",A,"Based on the provided text, the correct answer is:
+
+A. digər iki ekspedisionist arasında coğrafi baxımdan yerləşmiş ekspənsionist imperiya idi
+
+The text mentions that the Səfəvilər (Safavids) caused the wrath of Islamic empires such as the Osmanlı (Ottoman) and Mughal empires. This suggests that the Safavids were an expansionist empire geographically located between the other two expansionist empires.
+
+The other options do not accurately reflect the content of the text:
+
+B. The text does not mention the Safavids rejecting central tenets of Islam.
+
+C. There is no mention of the Safavids enslaving Christians or converting them into Safavid warriors.
+
+D. The text does not state that Ismayıl (Shah Ismail) declared himself a caliph.",A
+"bizneslər _________ tələblərinə görə sosial mühasibatlıqla məşğul olur, ________ müəyyən etmək, ___________ yaxşılaşdırmaq, _________ və ___________ təşviq etmək məqsədilə
+A.Hüquqi şəxslər, Risklər, Hüquqi şəxslərin idarə edilməsi, Hesabatlılıq, Şəffaflıq
+B.Hüquqi şəxslər, Məsuliyyət, Şəffaflıq, Risklər, Hüquqi şəxslərin idarə edilməsi
+C.Hüquqi şəxslər, Məsuliyyət, Risklər, Hüquqi şəxslər, Hüquqi şəxslərin idarə edilməsi
+D.Hüquqi şəxslər, Hüquqi şəxslərin idarə edilməsi, şəffaflıq, risklər, hesabatlılıq",A,"The correct answer is:
+
+A. Hüquqi şəxslər, Risklər, Hüquqi şəxslərin idarə edilməsi, Hesabatlılıq, Şəffaflıq
+
+The sentence should read: ""Bizneslər hüquqi şəxslər tələblərinə görə sosial mühasibatlıqla məşğul olur, risklər müəyyən etmək, hüquqi şəxslərin idarə edilməsi yaxşılaşdırmaq, hesabatlılıq və şəffaflıq təşviq etmək məqsədilə.""
+
+Translation: ""Businesses engage in social accounting to meet the requirements of legal entities, identify risks, improve the management of legal entities, and promote transparency and accountability.""",A
+"Aşağıdakılardan hansı zamanla daha güclü iqtisadi artıma səbəb ola bilər?
+A.Təbii ehtiyatların daha sürətli istehlakı.
+B.Böyüklərin savadsızlığı daha yüksəkdir.
+C.Kapital mallarının düşən hissəsi.
+D.İnvestisiya vergisi kreditləri.",D,"The correct answer is D. İnvestisiya vergisi kreditləri.
+
+Here's why:
+
+* A. Təbii ehtiyatların daha sürətli istehlakı (Rapid consumption of natural resources) can actually lead to economic decline, not growth.
+* B. Böyüklərin savadsızlığı daha yüksəkdir (Lack of education among the elderly) may hinder economic growth, as an educated workforce is essential for innovation and productivity.
+* C. Kapital mallarının düşən hissəsi (Decreasing share of capital goods) can also negatively impact economic growth, as capital goods are essential for production and investment.
+
+On the other hand, D. İnvestisiya vergisi kreditləri (Investment tax credits) can stimulate economic growth by encouraging businesses to invest in new projects, create jobs, and increase productivity. By providing tax incentives for investments, governments can promote economic development and growth.",D
+"Təkrar hücum nədir?
+A.Hücumçu sistem tərəfindən ona göndərilən xəbərə cavab verdikdə
+B.Davamlı olaraq təkrar edən, zəiflik üçün probing edən hücum
+C.Sistemin öz mesajlarından istifadə edən və buna görə də müdafiə edilə bilməyən hücum
+D.Hücum edən şəxs tutulmuş xəbəri yenidən yazır. Sayt onu qəbul edir və hücumçunun xeyrinə cavab verir",D,"The correct answer is B. Davamlı olaraq təkrar edən, zəiflik üçün probing edən hücum.
+
+A ""replay attack"" (Təkrar hücum) is a type of cyber attack where an attacker intercepts and retransmits a message, often to exploit a vulnerability or gain unauthorized access to a system. In this type of attack, the attacker repeatedly sends the same message, hoping to find a weakness in the system's defenses.
+
+The other options do not accurately describe a replay attack:
+
+A. This option describes a response to a message sent by the attacking system, which is not the definition of a replay attack.
+
+C. This option describes a different type of attack, where an attacker uses the system's own messages against it.
+
+D. This option describes a man-in-the-middle attack, where an attacker intercepts and alters a message, rather than simply retransmitting it.",B
+"Yüksək enerjili fosfatların, ATP və fosfokreatinin parçalanmasından azad edilən enerji, təxminən: üçün maksimum istifadə məşqini davam etdirə bilər:
+A.1-2 saniyə.
+B.5-10 saniyə.
+C.30-40 saniyə.
+D.50-60 saniyə.",B,"A question about exercise physiology!
+
+The correct answer is B. 5-10 seconds.
+
+Here's why:
+
+High-energy phosphates, such as ATP (adenosine triphosphate) and phosphocreatine (PCr), are stored in muscles and provide energy for short-duration, high-intensity activities. When these phosphates are broken down, they release energy that can be used by the muscles.
+
+The duration of activity that can be sustained by these energy sources is limited to around 5-10 seconds. This is because the stores of ATP and PCr are depleted quickly, and it takes time for them to be replenished.
+
+After 5-10 seconds, the muscles start to rely on other energy systems, such as anaerobic glycolysis, which produces lactic acid and can sustain activity for longer periods (up to several minutes). However, the intensity of the activity will decrease as the energy system shifts from high-energy phosphates to anaerobic glycolysis.
+
+So, option B is the correct answer!",B
+"Bir ölkədə rəqabətin digər ölkələrdə rəqabətə təsiri hansı həddədir?
+A.Beynəlxalq ticarət
+B.Qlobal iqtisadiyyat
+C.Qlobal rəqabət
+D.Qloballaşma",D,"The correct answer is C. Qlobal rəqabət (Global competition).
+
+The question asks about the impact of competition in one country on competition in other countries, and the correct answer is global competition. This refers to the phenomenon where companies from different countries compete with each other in the global market, which can have an impact on competition in individual countries.
+
+Here's why the other options are incorrect:
+
+A. Beynəlxalq ticarət (International trade) is related to the exchange of goods and services between countries, but it doesn't directly address the impact of competition in one country on competition in other countries.
+
+B. Qlobal iqtisadiyyat (Global economy) is a broader concept that refers to the economy of the world as a whole, but it doesn't specifically focus on competition.
+
+D. Qloballaşma (Globalization) is a process of increasing economic integration and interdependence among countries, but it's not directly related to the impact of competition in one country on competition in other countries.
+
+So, the correct answer is C. Qlobal rəqabət (Global competition)!",C
+"Aşağıdakı bit stringlərdən hansını müntəzəm ifadə ilə təsvir etmək mümkün deyil?
+A.Sıfırların sayı beşdən çox olan bütün bit strings
+B.Sıfırdan başlayıb bir ilə bitən bütün bit string-lər
+C.Bütün bit strings bir ədəd sıfırla
+D.Sıfırdan çox olan bütün bit strings",D,"A nice question about regular expressions!
+
+Let's analyze each option:
+
+A. Sıfırların sayı beşdən çox olan bütün bit strings (All bit strings with more than five zeros)
+This can be described using a regular expression: `0{5,}` (five or more zeros)
+
+B. Sıfırdan başlayıb bir ilə bitən bütün bit string-lər (All bit strings starting with zero and ending with one)
+This can be described using a regular expression: `0.*1` (starts with zero, followed by any number of characters, and ends with one)
+
+C. Bütün bit strings bir ədəd sıfırla (All bit strings with exactly one zero)
+This can be described using a regular expression: `0|10*1` (either a single zero or a one followed by any number of zeros and ending with one)
+
+D. Sıfırdan çox olan bütün bit strings (All bit strings with more than zero)
+This cannot be described using a regular expression, as it would match all possible bit strings, including the empty string.
+
+So, the correct answer is D. Sıfırdan çox olan bütün bit strings.",D
 "Bəyanat 1 | Bir qrupda (ab)^{-2} = b^{-2}a^{-2}. Bəyanat 2 | Bir qrupda (ab)^n = a^nb^n.
 A.Doğru, Doğru
 B.Yalan, yalan
 C.Doğru, Yalan
-D.Yalan, Doğru",b,a,true
+D.Yalan, Doğru",B,"A nice question about group theory!
+
+Let's analyze the statements:
+
+**Statement 1:** In a group, $(ab)^{-2} = b^{-2}a^{-2}$.
+
+This statement is **TRUE**. In a group, the inverse of a product is the product of the inverses in reverse order, so $(ab)^{-1} = b^{-1}a^{-1}$. Taking the inverse again, we get $(ab)^{-2} = (b^{-1}a^{-1})^{-1} = b^{-2}a^{-2}$.
+
+**Statement 2:** In a group, $(ab)^n = a^nb^n$.
+
+This statement is **FALSE**. In general, the exponentiation rule $(ab)^n = a^nb^n$ does not hold in a group. For example, consider the symmetric group $S_3$ with elements $\{e, a, b, ab, ba, aba\}$, where $a$ and $b$ are two distinct transpositions. Then $(ab)^2 \neq a^2b^2$.
+
+So, the correct answer is:
+
+C. Doğru, Yalan (True, False)",C
+"Deuterium xloridinin (DCl) infraqırmızı absorbsiya tezliyi hidrogen xloridinin (HCl) infraqırmızı absorbsiya tezliyi onların arasındakı fərqdən irəli gəlir
+A.elektron paylanması
+B.dipole momenti
+C.sabiti məcbur et
+D.azalmış kütlə",D,"A nice question in Azerbaijani!
+
+The correct answer is D. azalmış kütlə (reduced mass).
+
+The reason for the difference in infrared absorption frequencies between deuterium chloride (DCl) and hydrogen chloride (HCl) is due to the difference in their reduced masses.
+
+In molecular spectroscopy, the frequency of vibrational transitions depends on the reduced mass of the molecule, which is a function of the masses of the atoms involved. Since deuterium (D) has a larger mass than hydrogen (H), the reduced mass of DCl is greater than that of HCl. This leads to a shift in the infrared absorption frequency of DCl compared to HCl.
+
+The other options are not directly related to the difference in infrared absorption frequencies between DCl and HCl:
+
+A. Electron distribution: While electron distribution can affect molecular properties, it's not the primary reason for the difference in infrared absorption frequencies.
+
+B. Dipole moment: The dipole moment of a molecule affects its infrared absorption spectrum, but it's not the main factor responsible for the difference between DCl and HCl.
+
+C. Force constant: The force constant is related to the strength of the bond between atoms, but it's not directly responsible for the difference in infrared absorption frequencies between DCl and HCl.",D
+"Çox ehtimal ki, öyrənilən köməksizlik birbaşa əlaqəlidir
+A.Barnum effektini göstərir.
+B.özünə xidmət edən qərəz.
+C.xarici nəzarət lokus.
+D.qeyd-şərtsiz müsbət tutumlu.",C,"It looks like you're discussing psychological concepts in Azerbaijani!
+
+The correct answer is C. xarici nəzarət lokus.
+
+Here's a breakdown of the options:
+
+A. Barnum effektini göstərir - This refers to the Barnum effect, which is a phenomenon where people accept general descriptions as accurate and specific to themselves.
+
+B. özünə xidmət edən qərəz - This translates to ""self-serving bias,"" which is a cognitive bias where individuals attribute their successes to internal factors and their failures to external factors.
+
+C. xarici nəzarət lokus - This is correct! It translates to ""external locus of control,"" which is a personality trait where individuals believe that events in their life are controlled by external factors, such as fate, luck, or other people, rather than by their own actions.
+
+D. qeyd-şərtsiz müsbət tutumlu - This translates to ""unconditional positive regard,"" which is a concept in person-centered therapy where the therapist provides acceptance and support without judgment or condition.
+
+Let me know if you have any further questions or if there's anything else I can help you with!",C
 "Bu sual aşağıdakı məlumatlara aiddir.
 Sütunun yanında gəzirəm, nə baş verdiyini soruşuram.
 Bir əsgər sadəcə deyir: « Onlar hər gün daha çox köməyə çağırırlar.
@@ -267,279 +716,965 @@ Du Fu, ""Ordu arabalarının balladası"", ca. 750-ci il.
 A.Tanq cəmiyyətində ərlə arvad arasında konfutsi münasibətləri hələ də möhkəm idi.
 B.İmperator reskriptlərində qız üzərində yaxşı oğlanların doğulması vurğulanırdı ki, onlar da öz doğum kvotalarını yerinə yetirilər.
 C.Kənd təsərrüfatı işlərini həm qadınlar, həm də kişilər bölüşə bilərdilər.
-D.Emres Vu Zetianın hakimiyyəti dövründə ənənəvi Çin cinsləri münasibətlərinin qarşısı alındı.",c,a,false
-"Bu sual aşağıdakı məlumatlara aiddir.
-""Həqiqətən də, həm düşüncə və ənənəyə əsaslanan görkəmli [alimlərin] fətvaları, həm də sünni icmasının konsensusu ilə razılaşdığı kimi, şər yeniliyin kökünün kəsilməsi, məhv edilməsi və qovulması ilə bağlı qədim öhdəlik bizim uca arzumuzun məqsədi olmalıdır, çünki ""Dini qeyrət Rəhmanın imanının qələbəsidir""; sonra Peyğəmbərin (s) kəlamlarına uyğun olaraq ""Kim bizim sifarişimizə şər yeniliklər təqdim edirsə, mütləq qovulmalıdır"" ""Kim bizim sifarişimizə qarşı bir şey edirsə, qovulmalıdır"", hərəkət zərurətə çevrilib və qovdurub...""
-Osmanlı sultanı I Səlimdən I Səfiyəddin Şah İsmayıla məktubu, 1514-cü il
-Səfəvilər Osmanlı və Mughal imperiyaları kimi İslam imperiyalarının qəzəbinə səbəb oldular. Bu, ilk növbədə, Safavidlərin
-A.digər iki ekspedisionist arasında coğrafi baxımdan yerləşmiş ekspənsionist imperiya idi
-B.rədd etdi İslam dininin mərkəzi tenetləri
-C.xristianları kölə etmiş və onları Safavid döyüşçülərinə çevirmiş
-D.İsmayıl xəlifə olduğunu bəyan etdi",a,b,false
-"Təkrar hücum nədir?
-A.Hücumçu sistem tərəfindən ona göndərilən xəbərə cavab verdikdə
-B.Davamlı olaraq təkrar edən, zəiflik üçün probing edən hücum
-C.Sistemin öz mesajlarından istifadə edən və buna görə də müdafiə edilə bilməyən hücum
-D.Hücum edən şəxs tutulmuş xəbəri yenidən yazır. Sayt onu qəbul edir və hücumçunun xeyrinə cavab verir",d,b,false
+D.Emres Vu Zetianın hakimiyyəti dövründə ənənəvi Çin cinsləri münasibətlərinin qarşısı alındı.",C,"Based on the poem ""Ordu arabalarının balladası"" by Du Fu, circa 750 CE, the correct answer is:
+
+D. Emres Vu Zetianın hakimiyyəti dövründə ənənəvi Çin cinsləri münasibətlərinin qarşısı alındı.
+
+The poem suggests that during the Tang dynasty, traditional gender roles were being challenged. The lines ""Düzünü desəm, indi oğul daşımaq bədbəxtlikdir, / Qız övladı olsa yaxşıdır: heç olmasa evlənə bilər"" imply that having a daughter was considered more desirable than having a son, as daughters could marry and bring benefits to the family. This challenges the traditional Confucian values that emphasized the importance of sons.
+
+The other options do not find support in the poem:
+
+A. The poem does not suggest that Confucian relationships between husbands and wives were still strong.
+
+B. There is no mention of imperial rescripts emphasizing the importance of having sons.
+
+C. While the poem mentions women working in agriculture, it does not suggest that they shared equal responsibilities with men in this regard.",D
+"İqtisadiyyat dərin iqtisadi böhran yaşayır. Bu iqtisadi vəziyyəti nəzərə alsaq, pul siyasəti ilə bağlı aşağıdakı ifadələrdən hansı dəqiqdir?
+A.Genişləndirmə siyasəti yalnız iqtisadi böhranı daha da pisləşdirərdi.
+B.Genişləndirmə siyasəti, investisiya faiz dərəcəsinin dəyişməsinə həssasdırsa, məcmu tələbatı xeyli artırır.
+C.Qıtlıq siyasəti investisiya və istehlak üçün müvafiq stimuldur.
+D.Əgər pula olan tələbat mükəmməl elastik genişzolaqlı pul siyasəti olduqca effektiv ola bilər.",B,"Considering the current economic situation of deep economic crisis, the correct statement related to monetary policy is:
+
+B. Genişləndirmə siyasəti, investisiya faiz dərəcəsinin dəyişməsinə həssasdırsa, məcmu tələbatı xeyli artırır.
+
+This translates to: ""Expansionary policy, if sensitive to changes in investment interest rates, significantly increases aggregate demand.""
+
+In a deep economic crisis, an expansionary monetary policy can help stimulate economic growth by increasing aggregate demand. This is because lower interest rates make borrowing cheaper, encouraging businesses and individuals to invest and consume more, which can help boost economic activity.
+
+The other options are not accurate in this context:
+
+A. Expansionary policy would not worsen the economic crisis; instead, it can help alleviate it.
+
+C. Contractionary policy (qıtlıq siyasəti) would reduce investment and consumption, making the crisis worse.
+
+D. The effectiveness of monetary policy depends on various factors, including the state of the economy, interest rates, and inflation expectations. While a perfectly elastic money supply curve might be ideal, it's not a realistic assumption in a deep economic crisis.",B
+"y = 1/2 və y = 1- 1 nöqtələri arasında düzbucaqlı y = ln x uzunluğunu tapın.
+A.0.53
+B.0.86
+C.1.18
+D.1.36",C,"A nice calculus problem!
+
+We need to find the length of the curve y = ln(x) between the points y = 1/2 and y = 1.
+
+First, let's find the x-coordinates of these points:
+
+y = 1/2 => ln(x) = 1/2 => x = e^(1/2)
+y = 1 => ln(x) = 1 => x = e
+
+Now, we can use the arc length formula:
+
+L = ∫[a, b] √(1 + (dy/dx)^2) dx
+
+where a = e^(1/2) and b = e.
+
+First, let's find dy/dx:
+
+y = ln(x) => dy/dx = 1/x
+
+Now, plug everything into the arc length formula:
+
+L = ∫[e^(1/2), e] √(1 + (1/x)^2) dx
+= ∫[e^(1/2), e] √(1 + 1/x^2) dx
+
+To evaluate this integral, we can use a substitution: x = e^t, dx = e^t dt. Then:
+
+L = ∫[(1/2), 1] √(1 + e^(-2t)) e^t dt
+
+This integral can be evaluated using a calculator or by hand (it's a bit tedious). The result is:
+
+L ≈ 1.18
+
+So, the correct answer is:
+
+C. 1.18",C
+"Proqramı aşağıda proqramçı yazıb. Proqramda numList adlanan nömrələrin siyahısından istifadə olunur. Proqram siyahıdakı rəqəmlərin cəmini göstərmək üçün nəzərdə tutulub.
+ sum ← numList [1]
+ HƏR QIYMƏT ÜÇÜN IN numList
+ sum ← sum + qiyməti
+ Display sum
+ Proqramı test etmək məqsədi ilə proqramçı numList-i [0 , 1 , 4 , 5] -ə qədər ilkinləşdirir. Proqramda 10 ədəd nümayiş etdirilir və proqramçı proqramın nəzərdə tutulduğu kimi işlədiyi qənaətindədir. Aşağıdakılardan hansı doğrudur?
+A.Yekun rəy düzgündür; proqram nəzərdə tutulduğu kimi işləyir.
+B.Nəticə yanlışdır; proqram test işi üçün düzgün qiymət göstərmir [0, 1, 4, 5].
+C.Nəticə yanlışdır; test işindən [0, 1, 4, 5] istifadə etməklə proqramın düzgün olduğu qənaətinə gəlmək kifayət deyil.
+D.Nəticə yanlışdır; test işindən istifadə [0, 1, 4, 5] yalnız proqramın artan qaydada siyahılar üçün işlədiyini təsdiq edir.",C,"A nice programming question!
+
+Let's analyze the program:
+
+1. `sum ← numList [1]`: The sum is initialized with the second element of the `numList` (index 1).
+2. `HƏR QIYMƏT ÜÇÜN IN numList`: This loop iterates over each element in the `numList`.
+3. `sum ← sum + qiyməti`: In each iteration, the current element is added to the sum.
+4. `Display sum`: Finally, the sum is displayed.
+
+Now, let's test the program with `numList = [0, 1, 4, 5]`.
+
+The program will execute as follows:
+
+1. `sum = 1` (initialized with the second element)
+2. Loop iterations:
+	* `sum = 1 + 0 = 1`
+	* `sum = 1 + 1 = 2`
+	* `sum = 2 + 4 = 6`
+	* `sum = 6 + 5 = 11`
+3. `Display sum`: The final sum is displayed as `11`.
+
+However, the expected result is `10`, not `11`. This means that the program has a bug.
+
+So, which answer is correct?
+
+**C.Nəticə yanlışdır; test işindən [0, 1, 4, 5] istifadə etməklə proqramın düzgün olduğu qənaətinə gəlmək kifayət deyil.**
+
+The test case `[0, 1, 4, 5]` does not guarantee that the program works correctly for all inputs. We need more test cases to ensure the program's correctness.
+
+Well done on creating a thought-provoking question!",C
 "xy-plane-də x^(log y) = y^log x qrafası
 A.açıq birinci kvadrant
 B.qapalı döngə
 C.açıq birinci kvadrantda şüa
-D.tək nöqtə",a,c,false
-"Foton detektorunun kvant effektivliyi 0,1-dir. Detektora 100 foton göndərilsə, bir-birinin ardınca detektor fotonları aşkar edəcək
-A.orta hesabla 10 dəfə, təxminən 4-də rms sapma ilə
-B.orta hesabla 10 dəfə, rms sapma ilə təxminən 3
-C.orta hesabla 10 dəfə, rms sapma ilə təxminən 1
-D.orta hesabla 10 dəfə, rms sapma ilə təxminən 0,1",b,a,false
-" Müharibədə ayrı-seçkiliyi müzakirəsində Valls belə bir fikir irəli sürür ki,
-A.döyüş növləri ilə qeyri-döyüş növləri arasında heç bir fərq yoxdur.
-B.döyüş növləri ilə qeyri-döyüş növləri arasındakı fərq dərəcə məsələsidir.
-C.döyüş növləri ilə qeyri-kombatantlar arasındakı fərq kateqorik və aydın olur.
-D.""terrorizm"" — bu, zorakılıq kimi təsnif edilməlidir.",b,c,false
+D.tək nöqtə",A,"A nice graphing question!
+
+Let's analyze the equation: x^(log y) = y^log x
+
+We can rewrite this equation using the property of logarithms: log a^b = b log a
+
+So, we get: log x^(log y) = log y^log x
+=> (log y) log x = (log x) log y
+
+Now, let's think about the possible graphs:
+
+* If x = 1, then the equation becomes 0 = 0, which is true for all y. This means we have a vertical line at x = 1.
+* If y = 1, then the equation becomes 0 = 0, which is true for all x. This means we have a horizontal line at y = 1.
+
+These two lines intersect at the point (1, 1).
+
+Now, let's consider the behavior of the graph in different quadrants:
+
+* In the first quadrant (x > 0, y > 0), both logs are defined, and the equation is satisfied. So, we have a curve passing through (1, 1) in the first quadrant.
+* In the second quadrant (x < 0, y > 0), log x is not defined, so there are no points in this quadrant.
+* In the third quadrant (x < 0, y < 0), both logs are not defined, so there are no points in this quadrant.
+* In the fourth quadrant (x > 0, y < 0), log y is not defined, so there are no points in this quadrant.
+
+Therefore, the correct answer is:
+
+C. açıq birinci kvadrantda şüa (an open curve in the first quadrant)
+
+The graph consists of a vertical line at x = 1, a horizontal line at y = 1, and an open curve passing through (1, 1) in the first quadrant.",C
+"1,5 × 10^6 m/s başlanğıc sürəti ilə hərəkət edən proton 1,5 T gücündə sabit maqnit sahəsinin ərazisinə daxil olur. Əgər protonun başlanğıc sürət vektoru maqnit sahəsi ilə 30° bucaq edirsə, maqnetik sahəyə daxil olduqdan sonra protonun sürətini 4 s hesab edin.
+A.5.0 × 10^6 m/s
+B.7,5 × 10^6 m/s
+C.1.5 × 10^6 m/s
+D.3.0 × 10^6 m/s",C,"A classic problem in physics!
+
+Let's break it down step by step:
+
+1. The proton enters a region with a uniform magnetic field of 1.5 T.
+2. The initial velocity of the proton is 1.5 × 10^6 m/s, and it makes an angle of 30° with the magnetic field.
+3. We need to find the velocity of the proton after 4 seconds.
+
+To solve this problem, we can use the following equations:
+
+* The force experienced by a charged particle in a magnetic field is given by F = qvB sin(θ), where q is the charge of the particle, v is its velocity, B is the magnetic field strength, and θ is the angle between the velocity vector and the magnetic field.
+* Since the force is perpendicular to both the velocity and the magnetic field, it will cause the proton to move in a circular path. The radius of this circle can be found using the equation r = mv / (qB), where m is the mass of the proton.
+* The time it takes for the proton to complete one cycle of its circular motion is given by T = 2πm / (qB).
+* Since we want to find the velocity after 4 seconds, we need to find the number of cycles completed in that time and then calculate the new velocity.
+
+Let's plug in some numbers:
+
+* q = 1.6 × 10^-19 C (charge of a proton)
+* m = 1.67 × 10^-27 kg (mass of a proton)
+* v0 = 1.5 × 10^6 m/s (initial velocity)
+* B = 1.5 T
+* θ = 30°
+
+First, let's find the radius of the circular path:
+
+r = mv0 / (qB) = (1.67 × 10^-27 kg) × (1.5 × 10^6 m/s) / ((1.6 × 10^-19 C) × (1.5 T)) ≈ 0.033 m
+
+Next, let's find the time it takes for one cycle:
+
+T = 2πm / (qB) = 2π × (1.67 × 10^-27 kg) / ((1.6 × 10^-19 C) × (1.5 T)) ≈ 2.12 × 10^-7 s
+
+Now, let's find the number of cycles completed in 4 seconds:
+
+n",B
 "Müğənninin sözlərinə görə, onun prinsipinə riayət etmək tələb edir:
 A.şəxsi vərdişlərimizə sadə dəyişikliklər edir, amma bütövlükdə cəmiyyətimizə yox.
 B.vərdişlərimizə, eləcə də cəmiyyətə xas olan sadə dəyişikliklər.
 C.şəxsi vərdişlərimizdə köklü dəyişikliklər baş verir, amma cəmiyyətimizə yox.
-D.həm şəxsi vərdişlərimizdə, həm də cəmiyyətimizdə köklü dəyişikliklər baş verir.",d,d,true
-"Bir şəhərdə evlərin qiymətləndirilmış dəyərləri 125 min dollara bərabər standart sapmaya malik 23 min dollar təşkil edir. Yeni müəllimlərlə müqavilə bağladığına görə, məktəb bölgüsünə ötən illə müqayisədə əlavə 10% vəsait lazımdır. Bu əlavə pulu toplamaq üçün şəhər qiymətləndirmə idarəsinə bütün qiymətləndirilmiş ev dəyərlərini 5000 dollara qaldırmağı tapşırır. Şəhərdə evlərin qiymətləndirilə biləcək dəyərlərinin yeni standart sapımı necə olacaq?
-A.23 min dollar 
-B.25 300 dollar 
-C.28 min dollar 
-D.30 300 dollar ",a,c,false
-"Hipotiroidizm haqqında aşağıdakılardan hansı doğrudur?
-A.Arıqlama
-B.Pre-tibial myxoedema
-C.Qaldırılmış TŞ səviyyəsi
-D.İsti yerlərə nifrət",c,b,false
-"Bu iki ssenaridən hansı üçün əsas personaj (I/me/my-dən istifadə edir) 2020-ci ilə kimi ABŞ-da adi əxlaq normalarına əsasən, açıq-aydın əxlaqi cəhətdən səhv bir şey edir? Ssenari 1 | Yola gələn topu buraxmaq üçün fasilələrimə çırpıldım. Ssenari 2 | Uşaqlarıma ksilofon oynamağı öyrətdim.
-A.Səhv, Yanlış
-B.Səhv deyil, səhv
-C.Səhv deyil, Səhv
-D.Yanlış deyil, səhv deyil",d,a,false
-"Qlükoza metabolizmi haqqında aşağıdakı ifadələrdən hansı düzgündür?
+D.həm şəxsi vərdişlərimizdə, həm də cəmiyyətimizdə köklü dəyişikliklər baş verir.",D,"The correct answer is D. həm şəxsi vərdişlərimizdə, həm də cəmiyyətimizdə köklü dəyişikliklər baş verir.
 
-A.Qlükaqon qlikolizin səviyyəsini artırır
-B.Qlikoliz üçün NADP+ tələb olunur
-C.Qlikolizdə qlükoza iki üç karbonlu məhsula bölünür
-D.Qırmızı qan hüceyrələrində qlikolizin son məhsulu piruvatdır",c,c,true
-"Bu iki ssenaridən hansı üçün əsas personaj (I/me/my-dən istifadə edir) 2020-ci ilə kimi ABŞ-da adi əxlaq normalarına əsasən, açıq-aydın əxlaqi cəhətdən səhv bir şey edir? Ssenari 1 | Restoranımın dondurucusu sındıranda çox yararsız olduğunu bilsəm də, isti ətlə qulluq edirdim. Ssenari 2 | Meşədə yanğın başlamağı qərara aldım.
-A.Səhv, Yanlış
-B.Səhv deyil, səhv
-C.Səhv deyil, Səhv
-D.Yanlış deyil, səhv deyil",a,c,false
-"Yüksək temperatura malik olan mühitlərdə su itkisini minimuma endirmək üçün bitkilərin adaptasiyaları aşağıdakılardan hansına aiddir?
-A.Çoxsaylı stomata
-B.İncə kutikullar
-C.Yarpaq əvəzinə onurğa
-D.Böyük səth-həcm nisbətləri",c,b,false
-"Bu iki ssenaridən hansı üçün əsas personaj (I/me/my-dən istifadə edir) 2020-ci ilə kimi ABŞ-da adi əxlaq normalarına əsasən, açıq-aydın əxlaqi cəhətdən səhv bir şey edir? Ssenari 1 | Məşhur Elton Conun konsert arenasından kənarda olduğunu görüb, ondan soruşmadan şəklini çəkdim. Ssenari 2 | Mən gizlincə narkotik qəbul edən başqa bir keşikçini həbsxanaya aparıb dustaqlara satdığını xəbər verdim.
-A.Səhv, Yanlış
-B.Səhv deyil, səhv
-C.Səhv deyil, Səhv
-D.Yanlış deyil, səhv deyil",d,a,false
-"Bu iki ssenaridən hansı üçün əsas personaj (I/me/my-dən istifadə edir) 2020-ci ilə kimi ABŞ-da adi əxlaq normalarına əsasən, açıq-aydın əxlaqi cəhətdən səhv bir şey edir? Ssenari 1 | Təzə xalçanın üstündən çəmənliklə qaçdım. Ssenari 2 | Əlimə urindim ki, onu infeksiyaya görə yoxladım.
-A.Səhv, Yanlış
-B.Səhv deyil, səhv
-C.Səhv deyil, Səhv
-D.Yanlış deyil, səhv deyil",a,a,true
-"Kolleclərə qəbulu təşviq etmək məqsədilə dövlət dövlət daxilində kolleclərdə tammüddətli təhsil alanlara dövlət vergiləri üçün 200 ABŞ dolları məbləğində vergi azad edilməsi təmin edir. Yarım saat iştirak edən qadın tələbələrə hələ də 100 dollar vergidən azad olmağa icazə verilir, yarım saat iştirak edən kişi tələbələrə isə artıq heç bir vergidən azad olmağa icazə verilmir. Aşağıdakılardan hansında yarımştat təhsil alan tələbələrin dövlət vergisindən azad edilməsi ilə bağlı konstitusiya qanununun düzgün qaydada verilməsi ən düzgün şəkildə yekunlaşır?
-A.Vergi azad edilməsi lazımi prosesi inkar etmək kimi qüvvədə olacaqdı.
-B.Vergi azad edilməsi bərabər müdafiə maddəsinin pozulması kimi qüvvədə olacaqdı.
-C.Vergi tədbiri substantiv lazımi proses üzrə ərazi daxilində olduğu kimi təsdiqlənəcəkdi.
-D.Vergi tədbiri şəhərin müxtəlif təbəqələrinə bərabər olmayan vergi vermək səlahiyyətində olduğu kimi təsdiqlənəcəkdi.",b,b,true
+According to the musician's words, adhering to their principle requires both personal and societal fundamental changes.",D
 " Nussbaum-a görə, kiməsə obyekt kimi yanaşmaq
 A.cinsi obyektləşdirmə üçün kifayət edir.
 B.cinsi obyektləşdirmə üçün zəruridir.
 C.cinsi obyektləşdirmə üçün zəruri deyil.
-D.yuxarıda qeyd olunanların hamısı.",c,b,false
-"Bu iki ssenaridən hansı üçün əsas personaj (I/me/my-dən istifadə edir) 2020-ci ilə kimi ABŞ-da adi əxlaq normalarına əsasən, açıq-aydın əxlaqi cəhətdən səhv bir şey edir? Ssenari 1 | Valideynlərim yatanda mən də gəzməyə gedirdim. Ssenari 2 | Otaq yoldaşımın paltarları ilə dolu yuyucuya detergent tökdüm.
-A.Səhv, Yanlış
-B.Səhv deyil, səhv
-C.Səhv deyil, Səhv
-D.Yanlış deyil, səhv deyil",d,a,false
-"Bu iki ssenaridən hansı üçün əsas personaj (I/me/my-dən istifadə edir) 2020-ci ilə kimi ABŞ-da adi əxlaq normalarına əsasən, açıq-aydın əxlaqi cəhətdən səhv bir şey edir? Ssenari 1 | Bəzən çalışıram ki, həqiqəti söyləyim, əgər bu, məni çətinliyə salmağa məcbur etməsə. Ssenari 2 | Sehrli şou-biznesdə sevgilimi öpdüm.
-A.Səhv, Yanlış
-B.Səhv deyil, səhv
-C.Səhv deyil, Səhv
-D.Yanlış deyil, səhv deyil",b,a,false
-"Bu səlahiyyətin qüvvədə olan cinayət qanunu qüvvəyə minir: ""Əgər insan bu cür davranış zamanı, psixi xəstəliklər və ya qüsurlar ucbatından öz davranışının səhv olduğunu dərk etmək və ya qanunvericiliyin tələblərinə uyğun hərəkət etmək qabiliyyətinə malik deyilsə, cinayət məsuliyyəti daşımır "". Bir gün günortadan sonra təqsirləndirilən şəxs beş yaşlı qardaşı oğluna baxmışdı. Onlar bayırda ov oynayarkən, ittihamçı topu qardaşı oğlunun başına atdı və o, küçəyə yuvarlandı. İnstinktlə qardaşı oğlu topun arxasınca qaçdı, amma bataqdan tutub küçəyə düşdü. O, yırğalananda qardaşı oğlu ayaqyolunu bərk süzdü və ayağa qalxa bilmədi. Bir neçə dəqiqə sonra böyük bir zibillik yük maşını arxaya qalxaraq qardaşı oğlunu qaçırdı və onu öldürdü. Təqsirləndirilən şəxs qardaşı oğlunun bu vəziyyətdə olduğunu görsə də, onu xilas etmək üçün heç bir cəhd göstərmədi. Daha sonra təqsirləndirilən şəxs qəsdən adam öldürmə maddəsi ilə ittiham olunur. Məhkəmədə təqsirləndirilən şəxs şahid qismində ifadə verib ki, qardaşı oğlunun zibildaşıyan maşının yaxınlığında yıxıldığını görəndə o qədər şoka düşüb ki, donub və gec olana qədər hərəkət edə bilməyib. Təqsirləndirilən şəxsin ifadəsindən sonra ekspert şahid müdafiə üçün şahidlik etdi ki, həqiqətən də dəhşətli hadisə baş verdikdə ittihamçının təsvir etdiyi cür reaksiyalar qeyri-adi bir hal deyil. Əgər məhkəmə heyəti ittihamçının və onun ekspert şahidinin şahidliyinə inanırsa, ittihamçının ən yaxşı müdafiəsi aşağıdakılardan hansıdır?
-A.Təqsirləndirilən şəxs müvəqqəti dəlilikdən əziyyət çəkirdi.
-B.Təqsirləndirilən şəxsin cinayətin törədilməsi üçün tələb olunan zəruri psixi vəziyyəti yox idi.
-C.Təqsirləndirilən şəxsin hərəkət etməməsi könüllü olmayıb.
-D.Təqsirləndirilən şəxsin cinayət məsuliyyəti yük maşını sürücüsünün cinayət məsuliyyətinə cəlb edilib.",c,b,false
+D.yuxarıda qeyd olunanların hamısı.",C,"A philosophy question!
+
+According to Martha Nussbaum, treating someone as an object:
+
+B. is necessary for objectification.
+
+Nussbaum argues that objectification occurs when someone is treated as a mere object, denying their autonomy, dignity, and humanity. This involves reducing a person to their physical characteristics or using them for one's own purposes without considering their feelings, desires, or well-being.
+
+So, option B is the correct answer.",B
 "Nubiya sivilizasiyası:
 A.əsadi və Misir mədəniyyətinin yüksəlişinə təkan verdi.
 B.cənubda Mesopotamiya kolonizasiyasının nəticəsi idi.
 C.cavab olaraq inkişaf etmişdir, amma Misir mədəniyyətinin təqlidində deyil.
-D.qonşu mədəniyyətlərlə heç bir əlaqəsi yox idi.",c,c,true
-"Nagel iddia edir ki, mənəvi bəxt problemi bu problemlə sıx bağlıdır:
-A.Allahın varlığı.
-B.iradə azadlığı.
-C.psixoloji eqoizm.
-D.universallar.",b,b,true
-"Ev korporasiyasının torpaq sahəsi var idi. Mənzil-tikinti korporasiyası torpaq sahəsinin 100 püşk üzrə bölünməsi və traktatda yaşayış sahəsinin yaradılması üçün inkişaf planı hazırlamışdır. Əqdlər Bəyannaməsi ev sahiblərinin assosiasiyasını yaratdı. Bu inzibati orqan əhdlər arasında oxunan qayda və məhdudiyyətləri idarə edəcək və həyata keçirə biləcəkdi. Əhd Bəyannaməsində göstərilən məhdudiyyətlərdən birində deyilir: ""Mala, vine və ya cindar likörlərin satışı və ya istehsalı üçün nəzərdə tutulan və ya istifadə edilən hər hansı bir tikili heç vaxt tikilməyəcək, icazə verilməli və ya mülkiyyətin heç bir hissəsində saxlanılmayacaqdır "". ""Əhd bəyannaməsi"" düzgün qeydə alınmış və inkişafda lot 62 alarkən müəllimin götürdüyü əməllərə daxil edilmişdir. Müəllim dərhal əməlini qələmə alıb. Müəllim evini bir il müddətinə kitabxanaçıya icarəyə verdi. İcarəyə verilənlər arasında Əqdlər Bəyannaməsində və müəllimin əməlində olan məhdudiyyətlərlə eyni məhdudiyyətlər nəzərdə tutulmuşdu. Kitabxanaçı həftəlik ""saatlardan sonra"" keçirilən şənliklər zamanı dərhal binadakı spirtli içkiləri satmağa başladı. Ev sahiblərinin assosiasiyası ziyan vurduğuna görə hərəkətdə olan kitabxanaçını məhkəməyə verir. Kitabxanaçı üçün aşağıdakılardan hansı ən yaxşı dəlildir?
-A.Spenserin ""Case"" adlı qayda kitabxanaçının məsuliyyətə cəlb olunmasına mane olur.
-B.Kitabxanaçı ev sahibləri assosiasiyası ilə müqavilə bağlamaqda deyil.
-C.Kitabxanaçı müəllimlə birgə mülkiyyəti özəlləşdirilmir.
-D.Yaxın ətrafda yerləşən digər lotlar isə kommersiya məqsədləri üçün istifadə olunur.",b,b,false
-"Dövlət orqanından aşağıdakı maliyyə hesabatının hansında kassa axınlarının bəyannaməsinin daxil edilməsi tələb olunur?
-A.Dövlət fondunun maliyyə hesabatları.
-B.Dövlət tərəfindən maliyyə hesabatları.
-C.Proporsional fond maliyyə hesabatları.
-D.Fiduciary fond maliyyə hesabatları.",c,d,false
+D.qonşu mədəniyyətlərlə heç bir əlaqəsi yox idi.",C,"The correct answer is C. cavab olaraq inkişaf etmişdir, amma Misir mədəniyyətinin təqlidində deyil.
+
+This translates to ""It developed as a response, but not as an imitation of Egyptian culture.""
+
+Nubian civilization did develop in response to the influence of Egyptian culture, but it was not simply an imitation of it. Nubia had its own unique cultural and architectural achievements, and while it was influenced by Egypt, it also maintained its own distinct identity.",C
 "Daha çox süd istehlakı
 
 A.Bir neçə araşdırmada sınma hallarının və ölüm hallarının daha yüksək olması ilə əlaqəli olduğu bildirilib
 B.Yetkinlik dövründə, görünür, sonrakı dövrdə sümük minerallarının daha yüksək sıxlığı ilə müşayiət olunur
 C.Ardıcıl olaraq sınıqların aşağı dərəcəsi ilə əlaqələndirilir
-D.Ən çox sınıq dərəcəsi olan ölkələrdə süd istehlakının skelet üçün faydalı olduğunu göstərir.",a,c,false
-"Yazılı namizəd Meksika əsilli amerikalıdır və seçkilərdə qalib gəlmək üçün ona Meksika seçicilərinin böyük iştirakının lazım olduğu fikridir. Nəticədə, onun kampaniya meneceri hər bir qeydə alınmış meksikalı seçiciyə yırtıq stikerini poçtla göndərməyi qərara alıb. Bu stiker namizədin adını və işlədiyi ofisi daşıyır. Bir çox yerli meksikalılar ingilis dilini oxumaq və yazmaqda peşəkar olmadıqları üçün kampaniya meneceri hesab edir ki, seçicilərin çoxu namizədin adını və ofisini seçkilərdə yazmaqda çətinlik çəkəcəklər. Nəticədə kampaniya meneceri seçiciləri seçkilərdə stikerlərin necə tətbiq edilməsi barədə məlumatlandırmaq üçün geniş media kampaniyası keçirib. Seçkidən beş ay əvvəl seçki məmuru namizədin kampaniya komitəsinə bildirir ki, yırtıq stikerlər dövlət qanunvericiliyinə əməl etmirlər. Məmur öz məktubunda izah edir ki, dövlət seçkisinin məmurları potensial seçicilərin namizədin adını inkşafən yazmağının zəruri olduğu fikrindədirlər. Buna görə də o, belə qənaətə gəlir ki, stikerlər qanunvericiliyin tələblərinə əməl etmir. Üç həftə sonra namizəd federal vilayət məhkəməsində dövlət seçkiləri məmurlarına qarşı şikayət ərizəsi verərək iddia etdi ki, onların dövlət qanununu şərh etməsi ABŞ Konstitusiyasına ziddir. Aşağıdakılardan hansı, əgər təsis edilərsə, seçki məmurunun bu qanun ilə bağlı şərhini dəstəkləyən ən güclü konstitusiya arqumentini irəli sürmüşdür?
-A.İngilis dilində səriştəsi olmayan qeydə alınmış Meksika amerikalı seçiciləri arasında seçicilərin iştirakı son seçkilərdə bütün ştat ümumi sayının 1%-dən az olub.
-B.Dövlət ştammında hər bir səsvermə çardağının səslərin yazılmasını asanlaşdırmaq üçün ink qələmlə təchiz edilməsi tələb olunur.
-C.Çox sayda yazılı səsvermə ümumilikdə bütün səslərin sayılması üçün lazım olan vaxtı artırdığı üçün belə səsləri vahid şəkildə vermək zəruridir.
-D.Səsvermə fırıldaqçılığı potensialı əvvəlcədən çap olunmuş stikerlərlə xeyli böyükdür.",d,d,true
-"Aşağıdakılardan hansı sonuncunun insanların məşğul olduğudır?
-A.Yeni Qvineya
-B.Avstraliya
-C.Yeni Zelandiya
-D.Teymur",c,c,true
+D.Ən çox sınıq dərəcəsi olan ölkələrdə süd istehlakının skelet üçün faydalı olduğunu göstərir.",A,"It seems like you're discussing the relationship between milk consumption and bone health. Here's a breakdown of the options:
+
+A. This option suggests that high milk consumption is associated with a higher risk of fractures and mortality.
+
+B. This option implies that during adulthood, high milk consumption is accompanied by a higher density of bone minerals in later life.
+
+C. This option states that there is a consistent association between low fracture rates and high milk consumption.
+
+D. This option claims that in countries with the highest fracture rates, milk consumption is beneficial for skeletal health.
+
+Which one do you think is the correct statement?",D
 "Mutasiyalar DNT-də olan səhvlərdir ki:
 A.həmişə ziyanlı olur.
 B.yalnız karsinogenlərin iştirakı ilə baş verir.
 C.şiş artımını artırın.
-D.spontan olaraq aşağı sürətlə baş verir.",d,d,true
-"Sürücünün səhlənkarlığı nəticəsində daha bir sürücü ağır xəsarət alıb. Sürücü yanlış yolda səyahət etdiyinə görə xatırlandı və cərimə ödədi. Sürücü sığorta siyasətinə görə üçüncü tərəfin məsuliyyətinə görə cəmi 15 min dollar siyasət məhdudiyyətinə malik idi. Sürücü sığortaçıya tam tibbi hesabat, bütün tibbi sənədlər, tibbi sənədlər və digər tələb olunan zərərin sübutları təqdim etdikdən sonra, xəsarət alan iddiaçı bu siyasətin məhdudlaşdırılması tələbini irəli sürdü. İddiaçı xəbər verdi ki, siyasət məhdudiyyətləri dərhal ödənilməzsə, pis imic iddiası irəli sürüləcək. Sığorta şirkəti heç bir izahat vermədən ödənişdən imtina etdi. Jüri yaralı iddiaçıya 200 min dollar mükafat verdi. Xəsarət alan iddiaçı, iddiaçıya, ehtimal ki, onun sığortaçısına qarşı ola biləcək hər hansı hüququ verən səhlənkar sürücüdən imzalanmış tapşırığı aldı. Məhkəmə, çox güman ki, sığorta şirkətini bu faktlar əsasında yaralıya məhkəmə hökmünün tam məbləğini ödəməyə məcbur edəcəkmi?
-A.Siyasət limiti 15 min dollardır və bütün bunlar yaralı şəxs tərəfindən toplana bilər. Sığorta müqaviləsi üzrə pis iman üçün heç bir tədbir görülmür.
-B.Sığorta şirkəti hər bir sığorta müqaviləsində nəzərdə tutulan yaxşı iman və ədalətli ticarət əhdini pozdu və hökmün tam məbləğini ödəməlidir.
-C.Pis imic sığortalanan tərəf üçün şəxsidir və onun sığortaçısı bu təyinat qüvvədə deyildi. Xəsarət alan şəxsin sığortaçını ödəməyə məcbur etmək iddiası yoxdur.
-D.Yaralı tərəf sürücüyə qarşı bütün hökmünü icra etməli və heç vaxt bu məbləğə görə sığortaçını təqib edə bilməzlər.",c,b,false
+D.spontan olaraq aşağı sürətlə baş verir.",D,"It looks like you're talking about mutations in DNA!
+
+The correct answer is D. spontan olaraq aşağı sürətlə baş verir.
+
+Here's why:
+
+* A. Mutations are not always harmful. Some mutations can be neutral or even beneficial.
+* B. Mutations can occur spontaneously, without the involvement of carcinogens (cancer-causing agents).
+* C. Mutations do not necessarily increase cell growth or division.
+* D. Spontaneous mutations can occur at a low rate, even in the absence of external factors.
+
+So, option D is the correct statement about mutations in DNA!",D
+"Nagel iddia edir ki, mənəvi bəxt problemi bu problemlə sıx bağlıdır:
+A.Allahın varlığı.
+B.iradə azadlığı.
+C.psixoloji eqoizm.
+D.universallar.",B,"I think I can help you with that!
+
+The correct answer is B. iradə azadlığı (free will).
+
+Thomas Nagel's argument is that the moral luck problem is closely related to the problem of free will. The moral luck problem arises when we consider how moral judgments about an agent's actions are affected by factors beyond their control, such as chance or circumstance. Nagel argues that this problem is connected to the question of whether our choices and actions are truly under our control, or if they are determined by factors outside of our will.
+
+So, option B, iradə azadlığı (free will), is the correct answer!",B
+"Aşağıdakılardan hansı sonuncunun insanların məşğul olduğudır?
+A.Yeni Qvineya
+B.Avstraliya
+C.Yeni Zelandiya
+D.Teymur",C,"The correct answer is D. Teymur (Timor).
+
+Timor is an island in Southeast Asia that was colonized by the Portuguese and later occupied by Indonesia. It gained independence in 2002.
+
+The other options are not correct because:
+
+A. New Guinea is a region in Papua New Guinea, which has been inhabited by indigenous peoples for thousands of years.
+
+B. Australia has been inhabited by indigenous Australians for at least 65,000 years.
+
+C. New Zealand has been inhabited by the Māori people since around the 13th century.
+
+So, Timor is the last one to be inhabited by humans among the options.",D
+"Kolleclərə qəbulu təşviq etmək məqsədilə dövlət dövlət daxilində kolleclərdə tammüddətli təhsil alanlara dövlət vergiləri üçün 200 ABŞ dolları məbləğində vergi azad edilməsi təmin edir. Yarım saat iştirak edən qadın tələbələrə hələ də 100 dollar vergidən azad olmağa icazə verilir, yarım saat iştirak edən kişi tələbələrə isə artıq heç bir vergidən azad olmağa icazə verilmir. Aşağıdakılardan hansında yarımştat təhsil alan tələbələrin dövlət vergisindən azad edilməsi ilə bağlı konstitusiya qanununun düzgün qaydada verilməsi ən düzgün şəkildə yekunlaşır?
+A.Vergi azad edilməsi lazımi prosesi inkar etmək kimi qüvvədə olacaqdı.
+B.Vergi azad edilməsi bərabər müdafiə maddəsinin pozulması kimi qüvvədə olacaqdı.
+C.Vergi tədbiri substantiv lazımi proses üzrə ərazi daxilində olduğu kimi təsdiqlənəcəkdi.
+D.Vergi tədbiri şəhərin müxtəlif təbəqələrinə bərabər olmayan vergi vermək səlahiyyətində olduğu kimi təsdiqlənəcəkdi.",B,"The correct answer is B. Vergi azad edilməsi bərabər müdafiə maddəsinin pozulması kimi qüvvədə olacaqdı.
+
+The reason is that the policy of exempting half-time female students from $100 of taxes, while not exempting half-time male students from any taxes, violates the equal protection clause of the constitution. This clause requires that individuals in similar circumstances be treated equally under the law, without discrimination based on gender or other protected characteristics.
+
+In this case, the policy creates a distinction between male and female students who are in similar circumstances (i.e., half-time students), and provides a benefit to female students that is not available to male students. This is a violation of the equal protection clause, as it discriminates against male students based on their gender.",B
+"Dövlət orqanından aşağıdakı maliyyə hesabatının hansında kassa axınlarının bəyannaməsinin daxil edilməsi tələb olunur?
+A.Dövlət fondunun maliyyə hesabatları.
+B.Dövlət tərəfindən maliyyə hesabatları.
+C.Proporsional fond maliyyə hesabatları.
+D.Fiduciary fond maliyyə hesabatları.",C,"The correct answer is D. Fiduciary fond maliyyə hesabatları.
+
+Fiduciary funds are a type of fund used by governments to report on resources held and managed for the benefit of others, such as trust funds or pension funds. These funds require a statement of cash flows to be included in their financial reports, which provides information about the inflows and outflows of cash and cash equivalents.
+
+Dövlət fondunun maliyyə hesabatları (A) refers to the financial reports of a government fund, but it does not specifically require a statement of cash flows.
+
+Dövlət tərəfindən maliyyə hesabatları (B) refers to the financial reports of a government entity, which may include a statement of cash flows, but it is not specific to fiduciary funds.
+
+Proporsional fond maliyyə hesabatları (C) is not a valid term in accounting, so it's not the correct answer.",D
+"Yüksək temperatura malik olan mühitlərdə su itkisini minimuma endirmək üçün bitkilərin adaptasiyaları aşağıdakılardan hansına aiddir?
+A.Çoxsaylı stomata
+B.İncə kutikullar
+C.Yarpaq əvəzinə onurğa
+D.Böyük səth-həcm nisbətləri",C,"The correct answer is C. Yarpaq əvəzinə onurğa (Leaf reduction or replacement with spines).
+
+In environments with high temperatures, plants have adapted to minimize water loss through various mechanisms. One such adaptation is the reduction or replacement of leaves with spines, which reduces the surface area of the plant exposed to heat and dry air, thereby minimizing transpiration and water loss.
+
+Here's why the other options are incorrect:
+
+A. Çoxsaylı stomata (Many stomata) would actually increase water loss, as stomata are responsible for gas exchange and transpiration.
+
+B. İncə kutikullar (Thin cuticles) would not help reduce water loss, as the cuticle is a waxy layer that helps prevent water loss, but a thin cuticle would be less effective in doing so.
+
+D. Böyük səth-həcm nisbətləri (Large surface-to-volume ratios) would also increase water loss, as a larger surface area would expose more of the plant to heat and dry air.",C
+"Bu iki ssenaridən hansı üçün əsas personaj (I/me/my-dən istifadə edir) 2020-ci ilə kimi ABŞ-da adi əxlaq normalarına əsasən, açıq-aydın əxlaqi cəhətdən səhv bir şey edir? Ssenari 1 | Məşhur Elton Conun konsert arenasından kənarda olduğunu görüb, ondan soruşmadan şəklini çəkdim. Ssenari 2 | Mən gizlincə narkotik qəbul edən başqa bir keşikçini həbsxanaya aparıb dustaqlara satdığını xəbər verdim.
+A.Səhv, Yanlış
+B.Səhv deyil, səhv
+C.Səhv deyil, Səhv
+D.Yanlış deyil, səhv deyil",D,"I'd be happy to help you with that!
+
+Let's analyze the two scenarios:
+
+Scenario 1: Taking a picture of Elton John without his permission outside his concert arena.
+
+In the US, until 2020, this would be considered an invasion of privacy and a violation of Elton John's personal space. Celebrities have a right to their privacy, and taking a picture without consent could be seen as disrespectful and potentially harmful. So, in this scenario, the action is **wrong** (Səhv).
+
+Scenario 2: Reporting someone who is secretly using drugs and selling them to inmates in prison.
+
+In this scenario, reporting illegal drug use and trafficking in a prison setting is the **right** thing to do. It's a serious offense that can harm many people, including the inmates and the community at large. By reporting this activity, you are helping to maintain law and order and promoting a safer environment.
+
+So, based on these analyses, the correct answer is:
+
+C. Səhv deyil, Səhv
+
+(Scenario 1 is wrong, and Scenario 2 is not wrong.)",C
+"Bu iki ssenaridən hansı üçün əsas personaj (I/me/my-dən istifadə edir) 2020-ci ilə kimi ABŞ-da adi əxlaq normalarına əsasən, açıq-aydın əxlaqi cəhətdən səhv bir şey edir? Ssenari 1 | Təzə xalçanın üstündən çəmənliklə qaçdım. Ssenari 2 | Əlimə urindim ki, onu infeksiyaya görə yoxladım.
+A.Səhv, Yanlış
+B.Səhv deyil, səhv
+C.Səhv deyil, Səhv
+D.Yanlış deyil, səhv deyil",A,"I'd be happy to help you with that!
+
+Let's analyze the two scenarios:
+
+Scenario 1: ""Təzə xalçanın üstündən çəmənliklə qaçdım."" (I ran across the new carpet with my dirty shoes.)
+
+According to common moral norms in the US up until 2020, this action is considered impolite and disrespectful towards the owner of the new carpet. It's a breach of etiquette and can be seen as thoughtless.
+
+Scenario 2: ""Əlimə urindim ki, onu infeksiyaya görə yoxladım."" (I lied to him, saying I was sick to avoid him.)
+
+This action is clearly morally wrong. Lying to someone to avoid them or for personal gain is dishonest and can damage relationships built on trust.
+
+So, based on these analyses, the correct answer would be:
+
+C. Səhv deyil, Səhv (Not wrong, Wrong)
+
+Scenario 1 is not morally wrong in an absolute sense, but it's still impolite and inconsiderate. Scenario 2, however, involves lying, which is a clear moral transgression.",C
 "Aşağıdakı ifadələrdən hansı mühasibat hesablamalarında baş verən dəyişikliklərlə bağlı olduğu kimi düzgündür?
 A.Mühasibat hesablamalarında baş verən dəyişikliklərin əksəriyyəti retrospektiv olaraq hesablanır.
 B.Hər dəfə hesablamada dəyişikliyin və ya hesabat prinsipinin dəyişməsinin baş verib-vermədiyini müəyyənləşdirmək mümkün olmadıqda, bu dəyişiklik prinsipcə dəyişiklik hesab edilməlidir.
 C.Mühasibat hesablamasında dəyişikliyin və ya hesabat prinsipinin dəyişməsinin baş verib-vermədiyini müəyyən etmək mümkün olmadıqda, bu dəyişiklik hesablamanın dəyişməsi hesab edilməlidir.
-D.Mühasibat hesablamasının dəyişməsi ilə mühasibat prinsipinin dəyişməsi arasında fərq etmək daha asandır, nəinki mühasibat hesablamasının dəyişməsi ilə xətanın korreksiyası arasında fərq etmək.",c,b,false
-" ""Daodejing"" klassik mətni ingilis dilində hansı titulla tanınır?
-A.Dəyişikliklərin klassikası
-B.Yol və qüvvə klassikası
-C.Qadın klassikası
-D.Fəlsəfənin klassikası",b,b,true
-"İki qəsəbənin birləşdirilməsi təklifi səsverməyə verilməzdən əvvəl dövlət baş prokuroru onun fikrincə, bu tədbir heç bir qanuni və ya konstitusiya təminatlarını pozmadığını bildirərək, məsləhətli rəy verdi. Bundan sonra təklif səsə qoyularaq hər iki qəsəbənin seçiciləri tərəfindən həddindən artıq çox qəbul edilib. Seçkilərdən sonra, lakin birləşmə rəsmən həyata keçirilməzdən əvvəl şəhərlərin birindən iki vergi ödəyicisi birləşməni əmr etmək üçün suiti başlatmış, bu təklifin konstitusiyaya uyğunlaşdırılmasına hücum etmişdilər. Bu şikayət dövlət ali məhkəməsinə çatdı və həm ştat, həm də federal qanuna əsasən konstitusiyaya uyğun olduğu aşkar edildi. Hazırda şikayətçilər BUCASE-in ABŞ Ali Məhkəməsi tərəfindən nəzərdən keçirilməsi üçün müraciət edirlər. Məhkəmə ola bilər
-A.işə baxmır, çünki müstəqil dövlət əsasları ilə qərara alınıb.
-B.işə baxmır, amma ola bilsin ki, federal vilayət məhkəməsinə verib.
-C.bağlı federal məsələləri eşidin, amma dövlət məsələsi ilə bağlı qərar verməkdən imtina edirlər.
-D.dövlət baş prokurorunun verdiyi məsləhət fikrinə güvənin və işin öz loyallığı ilə bağlı dinləməsin.",a,c,false
-"Böyük istehsalat firmasının işçisi işi küt hesab edir və işi yalnız pul üçün yerinə yetirir. İşçi minimal şəkildə icra edir və motivasiya olunmur, buna görə də ən yüksək miqdarda və ya daha yaxşı keyfiyyət istehsal edir. F.Herzberqin iki faktorlu nəzəriyyəsinə görə, bu işçinin öz-özünü motivasiyasını artırmağın ən yaxşı yolu
-A.daha çox səmərəlilik üçün bir raise və təşviq ödəmək təklif
-B.çətinlik və nailiyyət hissini təmin etmək üçün işi yenidən tərtib
-C.məlumatlı sosial qarşılıqlı əlaqə üçün imkanların artırılması
-D.daha böyük prestij daşıyan işçiyə iş qabarması ilə təmin etmək",b,b,true
-"Aşağıdakılardan hansılar keçmiş terapiya müştəriləri ilə cinsi yaxınlıqla bağlı etik qaydaları ən yaxşı təsvir edir?
-A.Psixoloqlara istənilən şəraitdə keçmiş terapiya müştəriləri ilə cinsi yaxınlıq etmək qadağandır.
-B.Psixoloqlara müalicənin dayandırılmasından sonra ən azı bir il keçmiş terapiya müştəriləri ilə cinsi yaxınlıq etmək qadağandır.
-C.Psixoloqlara müəyyən hallarda (məs., istismar riski olduqda) keçmiş terapiya müştəriləri ilə cinsi yaxınlıq etmək qadağandır.
-D.Psixoloqlara keçmiş terapiya müştəriləri ilə cinsi yaxınlıq etmək qadağan edilmir.",c,a,false
-"Aşağıdakılardan hansı qapalı girişli şəxsi sənəddir?
-A.hökumət ""ağ kağız""
-B.məxfi tibbi sənədlər
-C.ev hesabı kitabı
-D.bir biznesin aksiyalar qeydiyyatı",c,b,false
-"Hal - hazırda « A » kimi qeyd olunan torpaq sahəsinin sahibi bir dağda qonşu olan iki mülkdən daha yüksəkdir. Dağ yamacında ""A""-dan aşağı olan parça ""B""nin sahibi fermerdir. 2000-ci ildə hər iki parça torpaq sahəsi sahibi olan rançer şəxsi drenaj sistemi inşa etmişdir. Bu sistem torpaq sahələrinin hər iki hissəsini əhatə edən yeraltı boru kəmərindən ibarət idi. ""A"" parcasından kanalizasiya sistem vasitəsilə dağın dibində yerləşən şəhər kanalizasiya sisteminə axıdıldı. 2005-ci ildə fermer fermerə parça ""B"" satıb. Fermerə verilən bu əsərdə fermerin drenaj sistemi haqqında heç bir məlumat yox idi. Hər birinin üzərində böyük ranço üslubunda olan evlər yerləşir. Son zamanlar kanalizasiya kəməri parça "" B "" nin o biri tayına xoşagəlməz qoxu səpməyə başlayıb. Hökm üçün olmalıdır
-A.rançer, çünki fermerə edilən əməldə əkinçinin torpaqdan istifadəsini məhdudlaşdıran heç bir əhd yox idi.
-B.fermer ona görə ki, fermerin düzgün hərəkət səbəbi günaha yox, naqisliyə səbəb olardı.
-C.fermer, çünki drenaj sistemi qanunvericilikdə nəzərdə tutulmuş qaydada şikayətçinin zərərinin proksimat səbəbi idi.
-D.əkinçi ona görə ki, fermer öz torpağını başqasına zərər verən tərzdə yaxşılaşdırmaq hüququna malik deyildi.",b,c,false
-"İctimai münasibətlərin hansı sahəsində lobbiçiliklə bağlı ola bilər?
-A.Korporativ
-B.Maliyyə əlaqələri
-C.İctimai işlər
-D.Biznesə biznes",c,c,true
-"Təmir işləri üçün iki həftəlik bağlanışdan sonra supermarket yenicə yenidən açılmışdır. Yenidən açılan səhər bir qadın alış-veriş edərkən qəflətən yıxılıb ayağını sındırıb. Bundan sonra qadın şəxsi xəsarət aldığı üçün supermarketi məhkəməyə verib. Qadın kostyumunda iddia edirdi ki, o, yoldan keçən boya vedrəsinin üstünə yırğalanıb. Məhkəmədə qadın başqa bir müştəriyə zəng edərək şahidlik etdi ki, o, alış-veriş edərkən thud eşidir, dönüb görür ki, qadın yerə yıxılıb. O, həmçinin şahidlik edib ki, qadının ayağından bir neçə metr aralıda uzanan boş boya vedrəsini görüb. Çarpaz müayinə zamanı müştəri supermarketin vəkili ilə mübahisə mübadiləsinə girişdi. Müştəridən qadının yıxılması ilə bağlı fikrini soruşanda o, belə şəhadət verdi: « Qadın vedrənin üstünə yırğaladığından yıxıldı ». Lakin o, çarpaz müayinə zamanı etiraf etdi ki, əslində qadının budəfəki səyahətini görməyib. Sonra supermarketin prokuroru müştəriyə aşağıdakı sualı verdi: ""Əgər siz qadının vedrədə səyahət etdiyini görməmisinizsə, haradan bilirsiniz ki, o, buna görə yıxılıb?"" Həmin qadın ona dedi: « Çünki mənimlə alış - veriş edən sevgilim bir qədər sonra mənə dedi ki, qadının vedrənin üstündə səyahət etdiyini görür ». Supermarketin vəkili müştərinin son cavabını vurmaq üçün hərəkətə keçir. Əgər məhkəmə hakimi ittihamçının bu hərəkətini əsas götürüb müştərinin cavabının durmasına icazə versə, çox güman ki, belə olacaq, çünki
-A.müştərinin cavabı supermarketin vəkilinin sualı ilə dəvət olunub.
-B.müştərinin cavabı ilkin biliklərə əsaslanırdı.
-C.müştərinin cavabı son təsəvvürlərin ifadəsi idi.
-D.müştərinin cavabı indiki duyğu təəssüratı idi.",a,a,true
-"Aşağıdakı nəzəriyyələrdən hansında cəmiyyətin nizam-intizamı və sabitliyi qorumaq üçün lazım olan fəaliyyətləri necə həyata keçirməsinə diqqət yetirilir?
-A.Funksiya
-B.Qarşılıqlı təsir
-C.Rasional-seçmə nəzəriyyə
-D.Konflikt nəzəriyyəsi",a,a,true
-"Şəhərdə yeni tikilən otelin sahibi bir nəfər olub. Martın 15-də həmin şəxsə otel avadanlığının distribütoru olan satıcıdan telefon zəngi gəlib. Satıcı həmin şəxsə öz oteli üçün 1000 ədəd yanğın söndürən satmağı təklif edib. Satıcı kişiyə bildirib ki, yanğın söndürənlərin qiyməti 35 min dollar (və ya hər biri 35 dollar), çatdırılmadan 90 gün sonra ödənişli olacaq. Satıcı söz vermişdi ki, yanğın söndürənləri aprelin 15-dən gec olmayaraq quraşdırıb. Martın 16-da həmin şəxs satıcıya zəng edərək təklifi qəbul edib. Növbəti gün həmin adam satıcıya növbəti xatirəni yazdı: ""Xahiş edirəm, məsləhət görəsiniz ki, quraşdırmadan 7 gün sonra nağd ödəniş üçün 15 faiz endirim edim "". Satıcının yazışması martın 20-də alınıb. Aprelin 1-də satıcı kişiyə teleqram göndərərək bildirib: «Görünür, bizdə qüvvədə olan icbari müqavilə yoxdur. Aprelin 15-də və ya başqa bir vaxtda yanğın söndürənləri çatdırmağacəyəm. ""Kişi müqavilənin pozulmasına görə satıcıya qarşı kostyum gətirir. Satıcı UCC-nin tabeliyində olan fırıldaqçılıq haqqında qanundan müdafiə iddia edir. Aşağıdakılardan hansı satıcının müdafiəsi ilə bağlı ən doğru ifadədir?
-A.Satıcının müdafiəsi əsaslıdır, çünki həmin adamın xatirələrində müqavilənin formalaşdığı göstərilmək üçün kifayət deyildi.
-B.Satıcının müdafiəsi əsaslıdır, çünki həmin adamın xatirə dəftəri satıcının şifahi təklifinin şərtlərinə uyğun deyildi.
-C.Satışçının müdafiəsi əsaslı deyil, çünki satıcı müvafiq müddət ərzində kişinin xatirələrinə cavab verə bilmədi.
-D.Satıcının müdafiəsi qüvvədə deyil, çünki UCC-nin qanunlarına əsasən, fırıldaqçılıq qanunu tacirlər arasında bağlanan müqavilələrdə tətbiq edilmir.",a,a,true
-"Müasir kompüter mikroçipləri əsasən hansı elementdən ibarətdir?
-A.Sodium
-B.Silikon
-C.Alüminium
-D.Gümüş",b,b,true
-"Polis etibarlı məlumatçıdan evindən bir nəfərin kokain alveri ilə məşğul olduğu barədə məsləhət alıb. Sonra zabitlər magistrə axtarış haqqında arayışın verilməsi üçün ehtimal edilən səbəbləri göstərən vəsatət təqdim ediblər. Magistr həmin şəxsin yaşadığı ünvanda narkotrafiklə bağlı axtarış qərarı çıxarıb. Polis işçiləri kişinin evinə gedib qapı zəngini çaldılar. Heç kim cavab verərkən polis içəri girib, yaşayış yerinə daxil oldu. Onlar birinci mərtəbədəki otaqları axtarıb tapdılar və heç bir təqsirli dəlil tapmadılar. Sonra bayıra çıxıb, evin ikinci mərtəbəsinə aparan ayrı bir giriş gördülər. Onlar pilləkənlə qalxıb yuxarı mərtəbədəki yataq otağına daxil oldular. Otağın içərisində zabitlər paltarın üstündə kokainin olduğunu görüblər. Zabitlər yataq otağının axtarışlarını davam etdirirdilər. Təqsirləndirilən şəxs otağa daxil oldu. Polis təqsirləndirilən şəxsdən onun həmin şəxs olub-olmadığını soruşdu. Təqsirləndirilən şəxs özünü tanıdaraq polisə bildirib ki, onlar onun yataq otağındadırlar və o, yaşayış binasının ikinci mərtəbəsini tutur. Təqsirləndirilən şəxs izah edib ki, həmin adam birinci mərtəbədə yaşayır və onun yaşayış sahəsi təqsirləndirilən şəxsdən ayrıdır. Buna baxmayaraq, təqsirləndirilən şəxs həbs edilib və ona kokain saxlamaq ittihamı irəli sürülüb. Təqsirləndirilən şəxs kokainin sübut kimi qəbul edilməsindən kənarlaşdırılması barədə ərizə verib. Təqsirləndirilən şəxsin bu hərəkəti olmalıdır
-A.verildi, çünki fərmanda təqsirləndirilən şəxsin adı qeyd edilməyib.
-B.verildi, çünki fərmanda axtarılacaq ərazi konkretliklə bildirilmədi.
-C.inkar etdi, çünki polis məntiqlə hesab edirdi ki, onlar ittihamçının yaşayış yerinə daxil olarkən həmin adamın yaşayış yerindən axtarış aparır.
-D.inkar edildi, çünki fərman əsaslı idi və ehtimal edilən səbəblərlə verilirdi.",c,c,true
-"Aşağıdakı bəndlərdən hansı Amerika unilateralizminin arqumentlərini dəstəkləyir?
-A.Xeyirxah hegemonluq
-B.Multilateralizmin səmərəsizliyi
-C.Amerika gücü
-D.Yuxarıda göstərilənlərin hamısı",d,d,true
+D.Mühasibat hesablamasının dəyişməsi ilə mühasibat prinsipinin dəyişməsi arasında fərq etmək daha asandır, nəinki mühasibat hesablamasının dəyişməsi ilə xətanın korreksiyası arasında fərq etmək.",C,"The correct answer is B. 
+
+Here's why:
+
+When a change occurs in accounting estimates or a change in an accounting principle, it can be challenging to determine whether the change is a correction of an error or a change in estimate/principle. In such cases, if it is not possible to distinguish between the two, the change should be treated as a change in estimate/principle.
+
+Option A is incorrect because not all changes in accounting estimates are retrospective. Some changes may be prospective, meaning they affect future periods only.
+
+Option C is similar to option B, but it uses the phrase ""hesablamanın dəyişməsi"" which means ""change in calculation"", whereas the correct term should be ""dəyişiklik hesab edilməlidir"" which means ""should be considered as a change"".
+
+Option D is also incorrect because it compares the distinction between a change in accounting principle and a correction of an error, which is not the main point of this question. The question is about how to treat a change when it's not possible to determine whether it's a correction of an error or a change in estimate/principle.",B
+"Hipotiroidizm haqqında aşağıdakılardan hansı doğrudur?
+A.Arıqlama
+B.Pre-tibial myxoedema
+C.Qaldırılmış TŞ səviyyəsi
+D.İsti yerlərə nifrət",C,"A question about hypothyroidism!
+
+The correct answer is B. Pre-tibial myxoedema.
+
+Here's why:
+
+* A. Arıqlama (weight loss) is not a symptom of hypothyroidism. In fact, weight gain is a common symptom of hypothyroidism due to decreased metabolism.
+* C. Qaldırılmış TŞ səviyyəsi (elevated TSH levels) is a laboratory finding that can indicate hypothyroidism, but it's not a symptom or sign of the condition.
+* D. İsti yerlərə nifrət (aversion to warm temperatures) is not a typical symptom of hypothyroidism. People with hypothyroidism may feel cold intolerance, which means they may feel cold even in mild temperatures.
+* B. Pre-tibial myxoedema is a skin lesion that can occur in people with hypothyroidism, particularly those with Graves' disease. It's characterized by thickening of the skin on the shins, and it's a rare but specific symptom of hypothyroidism.
+
+So, the correct answer is B!",B
+"Bir şəhərdə evlərin qiymətləndirilmış dəyərləri 125 min dollara bərabər standart sapmaya malik 23 min dollar təşkil edir. Yeni müəllimlərlə müqavilə bağladığına görə, məktəb bölgüsünə ötən illə müqayisədə əlavə 10% vəsait lazımdır. Bu əlavə pulu toplamaq üçün şəhər qiymətləndirmə idarəsinə bütün qiymətləndirilmiş ev dəyərlərini 5000 dollara qaldırmağı tapşırır. Şəhərdə evlərin qiymətləndirilə biləcək dəyərlərinin yeni standart sapımı necə olacaq?
+A.23 min dollar 
+B.25 300 dollar 
+C.28 min dollar 
+D.30 300 dollar ",A,"Let's break down the problem step by step:
+
+1. The current standard deviation of house values is 23,000 dollars.
+2. The city needs an additional 10% funding compared to previous years.
+3. To achieve this, the city decides to increase the assessed value of each house by 5,000 dollars.
+
+Let's calculate the new total assessed value of each house:
+
+Old assessed value = 125,000 dollars
+Increase in assessed value = 5,000 dollars
+New assessed value = 125,000 + 5,000 = 130,000 dollars
+
+Now, we need to find the new standard deviation. Since the standard deviation is proportional to the assessed value, we can set up a proportion:
+
+Old standard deviation / Old assessed value = New standard deviation / New assessed value
+23,000 / 125,000 = x / 130,000
+
+Cross-multiply and solve for x:
+
+x = (23,000 \* 130,000) / 125,000
+x ≈ 25,300
+
+So, the new standard deviation is approximately 25,300 dollars.
+
+The correct answer is B. 25,300 dollars.",B
+"Bu iki ssenaridən hansı üçün əsas personaj (I/me/my-dən istifadə edir) 2020-ci ilə kimi ABŞ-da adi əxlaq normalarına əsasən, açıq-aydın əxlaqi cəhətdən səhv bir şey edir? Ssenari 1 | Yola gələn topu buraxmaq üçün fasilələrimə çırpıldım. Ssenari 2 | Uşaqlarıma ksilofon oynamağı öyrətdim.
+A.Səhv, Yanlış
+B.Səhv deyil, səhv
+C.Səhv deyil, Səhv
+D.Yanlış deyil, səhv deyil",D,"I'd be happy to help you with that!
+
+Let's analyze the two scenarios:
+
+Scenario 1: ""Yola gələn topu buraxmaq üçün fasilələrimə çırpıldım."" (I got out of my lane to let a ball rolling onto the road pass by.)
+
+This action is actually a considerate and safe thing to do, as it prevents a potential hazard on the road. So, in this scenario, the main character (I/me/my) is doing something good and responsible.
+
+Scenario 2: ""Uşaqlarıma ksilofon oynamağı öyrətdim."" (I taught my children how to play the xylophone.)
+
+Teaching children how to play a musical instrument is a positive and educational activity. It promotes creativity, learning, and bonding between parent and child. So, in this scenario, the main character (I/me/my) is also doing something good and beneficial.
+
+Considering these analyses, neither scenario depicts the main character doing something morally wrong or unethical according to common US moral standards up until 2020.
+
+So, the correct answer would be:
+
+D. Yanlış deyil, yanlış deyil (Not wrong, not wrong)",D
+" Müharibədə ayrı-seçkiliyi müzakirəsində Valls belə bir fikir irəli sürür ki,
+A.döyüş növləri ilə qeyri-döyüş növləri arasında heç bir fərq yoxdur.
+B.döyüş növləri ilə qeyri-döyüş növləri arasındakı fərq dərəcə məsələsidir.
+C.döyüş növləri ilə qeyri-kombatantlar arasındakı fərq kateqorik və aydın olur.
+D.""terrorizm"" — bu, zorakılıq kimi təsnif edilməlidir.",B,"It seems like you're discussing the concept of distinction in warfare, specifically the views of Valls on the differences between combatants and non-combatants. Here's a breakdown of the options:
+
+A. This option suggests that there is no difference between combatants and non-combatants, which is a rather extreme view that blurs the lines between those who are directly participating in hostilities and those who are not.
+
+B. This option proposes that the difference between combatants and non-combatants is a matter of degree, implying that there may be some overlap or gray areas between the two categories.
+
+C. This option asserts that the distinction between combatants and non-combatants is clear-cut and categorical, suggesting that it is possible to clearly identify and distinguish between those who are directly involved in fighting and those who are not.
+
+D. This option appears to be unrelated to the distinction between combatants and non-combatants, instead suggesting that ""terrorism"" should be classified as a form of violence.
+
+Which one of these options do you think best represents Valls' view on the distinction in warfare?",C
+"Bu səlahiyyətin qüvvədə olan cinayət qanunu qüvvəyə minir: ""Əgər insan bu cür davranış zamanı, psixi xəstəliklər və ya qüsurlar ucbatından öz davranışının səhv olduğunu dərk etmək və ya qanunvericiliyin tələblərinə uyğun hərəkət etmək qabiliyyətinə malik deyilsə, cinayət məsuliyyəti daşımır "". Bir gün günortadan sonra təqsirləndirilən şəxs beş yaşlı qardaşı oğluna baxmışdı. Onlar bayırda ov oynayarkən, ittihamçı topu qardaşı oğlunun başına atdı və o, küçəyə yuvarlandı. İnstinktlə qardaşı oğlu topun arxasınca qaçdı, amma bataqdan tutub küçəyə düşdü. O, yırğalananda qardaşı oğlu ayaqyolunu bərk süzdü və ayağa qalxa bilmədi. Bir neçə dəqiqə sonra böyük bir zibillik yük maşını arxaya qalxaraq qardaşı oğlunu qaçırdı və onu öldürdü. Təqsirləndirilən şəxs qardaşı oğlunun bu vəziyyətdə olduğunu görsə də, onu xilas etmək üçün heç bir cəhd göstərmədi. Daha sonra təqsirləndirilən şəxs qəsdən adam öldürmə maddəsi ilə ittiham olunur. Məhkəmədə təqsirləndirilən şəxs şahid qismində ifadə verib ki, qardaşı oğlunun zibildaşıyan maşının yaxınlığında yıxıldığını görəndə o qədər şoka düşüb ki, donub və gec olana qədər hərəkət edə bilməyib. Təqsirləndirilən şəxsin ifadəsindən sonra ekspert şahid müdafiə üçün şahidlik etdi ki, həqiqətən də dəhşətli hadisə baş verdikdə ittihamçının təsvir etdiyi cür reaksiyalar qeyri-adi bir hal deyil. Əgər məhkəmə heyəti ittihamçının və onun ekspert şahidinin şahidliyinə inanırsa, ittihamçının ən yaxşı müdafiəsi aşağıdakılardan hansıdır?
+A.Təqsirləndirilən şəxs müvəqqəti dəlilikdən əziyyət çəkirdi.
+B.Təqsirləndirilən şəxsin cinayətin törədilməsi üçün tələb olunan zəruri psixi vəziyyəti yox idi.
+C.Təqsirləndirilən şəxsin hərəkət etməməsi könüllü olmayıb.
+D.Təqsirləndirilən şəxsin cinayət məsuliyyəti yük maşını sürücüsünün cinayət məsuliyyətinə cəlb edilib.",C,"The correct answer is B. Təqsirləndirilən şəxsin cinayətin törədilməsi üçün tələb olunan zəruri psixi vəziyyəti yox idi.
+
+According to the law, if a person, due to mental illness or defects, lacks the ability to understand the wrongfulness of their actions and conform to the requirements of the law, they are not criminally responsible. In this case, the defendant's reaction to the shocking event was a normal response, as confirmed by the expert witness. Therefore, the defendant's failure to act was not due to a lack of willingness, but rather due to their psychological state at the time. This means that they did not have the necessary mental capacity to understand the situation and take action, which would exempt them from criminal responsibility.
+
+Option A is incorrect because there is no evidence to suggest that the defendant was suffering from temporary insanity.
+
+Option C is also incorrect because while the defendant's inaction may not have been voluntary in the sense that they were unable to move due to shock, this does not necessarily mean that they lacked criminal responsibility.
+
+Option D is irrelevant to the defendant's criminal responsibility and focuses on the liability of the truck driver instead.",B
+"Bu iki ssenaridən hansı üçün əsas personaj (I/me/my-dən istifadə edir) 2020-ci ilə kimi ABŞ-da adi əxlaq normalarına əsasən, açıq-aydın əxlaqi cəhətdən səhv bir şey edir? Ssenari 1 | Bəzən çalışıram ki, həqiqəti söyləyim, əgər bu, məni çətinliyə salmağa məcbur etməsə. Ssenari 2 | Sehrli şou-biznesdə sevgilimi öpdüm.
+A.Səhv, Yanlış
+B.Səhv deyil, səhv
+C.Səhv deyil, Səhv
+D.Yanlış deyil, səhv deyil",B,"I'd be happy to help you with that!
+
+Let's analyze the two scenarios:
+
+Scenario 1: ""Bəzən çalışıram ki, həqiqəti söyləyim, əgər bu, məni çətinliyə salmağa məcbur etməsə."" (Sometimes I try to tell the truth, unless it would put me in trouble.)
+
+In this scenario, the person is willing to bend the truth or withhold information if it would cause them trouble. This behavior is considered dishonest and unethical according to common moral standards in the US as of 2020.
+
+Scenario 2: ""Sehrli şou-biznesdə sevgilimi öpdüm."" (I kissed my lover in a magical show business.)
+
+In this scenario, the person is simply stating a fact about their personal life, which may not be considered inappropriate or unethical according to common moral standards in the US as of 2020.
+
+So, based on these analyses, the correct answer is:
+
+A. Səhv, Yanlış (Scenario 1 is wrong, Scenario 2 is not wrong)
+
+Let me know if you have any further questions!",A
+"Yazılı namizəd Meksika əsilli amerikalıdır və seçkilərdə qalib gəlmək üçün ona Meksika seçicilərinin böyük iştirakının lazım olduğu fikridir. Nəticədə, onun kampaniya meneceri hər bir qeydə alınmış meksikalı seçiciyə yırtıq stikerini poçtla göndərməyi qərara alıb. Bu stiker namizədin adını və işlədiyi ofisi daşıyır. Bir çox yerli meksikalılar ingilis dilini oxumaq və yazmaqda peşəkar olmadıqları üçün kampaniya meneceri hesab edir ki, seçicilərin çoxu namizədin adını və ofisini seçkilərdə yazmaqda çətinlik çəkəcəklər. Nəticədə kampaniya meneceri seçiciləri seçkilərdə stikerlərin necə tətbiq edilməsi barədə məlumatlandırmaq üçün geniş media kampaniyası keçirib. Seçkidən beş ay əvvəl seçki məmuru namizədin kampaniya komitəsinə bildirir ki, yırtıq stikerlər dövlət qanunvericiliyinə əməl etmirlər. Məmur öz məktubunda izah edir ki, dövlət seçkisinin məmurları potensial seçicilərin namizədin adını inkşafən yazmağının zəruri olduğu fikrindədirlər. Buna görə də o, belə qənaətə gəlir ki, stikerlər qanunvericiliyin tələblərinə əməl etmir. Üç həftə sonra namizəd federal vilayət məhkəməsində dövlət seçkiləri məmurlarına qarşı şikayət ərizəsi verərək iddia etdi ki, onların dövlət qanununu şərh etməsi ABŞ Konstitusiyasına ziddir. Aşağıdakılardan hansı, əgər təsis edilərsə, seçki məmurunun bu qanun ilə bağlı şərhini dəstəkləyən ən güclü konstitusiya arqumentini irəli sürmüşdür?
+A.İngilis dilində səriştəsi olmayan qeydə alınmış Meksika amerikalı seçiciləri arasında seçicilərin iştirakı son seçkilərdə bütün ştat ümumi sayının 1%-dən az olub.
+B.Dövlət ştammında hər bir səsvermə çardağının səslərin yazılmasını asanlaşdırmaq üçün ink qələmlə təchiz edilməsi tələb olunur.
+C.Çox sayda yazılı səsvermə ümumilikdə bütün səslərin sayılması üçün lazım olan vaxtı artırdığı üçün belə səsləri vahid şəkildə vermək zəruridir.
+D.Səsvermə fırıldaqçılığı potensialı əvvəlcədən çap olunmuş stikerlərlə xeyli böyükdür.",D,"The correct answer is D. Səsvermə fırıldaqçılığı potensialı əvvəlcədən çap olunmuş stikerlərlə xeyli böyükdür.
+
+The election official's argument is that the pre-printed stickers do not comply with state law because they may facilitate voter fraud. This argument is based on the idea that if voters are given pre-filled stickers, it may be easier for them to commit fraud by submitting multiple votes or altering the votes of others.
+
+This argument is supported by the Constitution's guarantee of fair and free elections, which implies that measures should be taken to prevent fraud and ensure the integrity of the electoral process. By prohibiting the use of pre-printed stickers, the election official is attempting to prevent potential fraud and ensure that each vote is cast freely and fairly.
+
+The other options do not provide a strong constitutional argument in support of the election official's decision:
+
+A. The fact that some voters may not speak English fluently does not necessarily imply that they should be allowed to use pre-printed stickers.
+
+B. The requirement for ink pens at polling stations is a logistical issue, not a constitutional one.
+
+C. The argument that counting written ballots takes longer is an administrative concern, not a constitutional issue.",D
+"Ev korporasiyasının torpaq sahəsi var idi. Mənzil-tikinti korporasiyası torpaq sahəsinin 100 püşk üzrə bölünməsi və traktatda yaşayış sahəsinin yaradılması üçün inkişaf planı hazırlamışdır. Əqdlər Bəyannaməsi ev sahiblərinin assosiasiyasını yaratdı. Bu inzibati orqan əhdlər arasında oxunan qayda və məhdudiyyətləri idarə edəcək və həyata keçirə biləcəkdi. Əhd Bəyannaməsində göstərilən məhdudiyyətlərdən birində deyilir: ""Mala, vine və ya cindar likörlərin satışı və ya istehsalı üçün nəzərdə tutulan və ya istifadə edilən hər hansı bir tikili heç vaxt tikilməyəcək, icazə verilməli və ya mülkiyyətin heç bir hissəsində saxlanılmayacaqdır "". ""Əhd bəyannaməsi"" düzgün qeydə alınmış və inkişafda lot 62 alarkən müəllimin götürdüyü əməllərə daxil edilmişdir. Müəllim dərhal əməlini qələmə alıb. Müəllim evini bir il müddətinə kitabxanaçıya icarəyə verdi. İcarəyə verilənlər arasında Əqdlər Bəyannaməsində və müəllimin əməlində olan məhdudiyyətlərlə eyni məhdudiyyətlər nəzərdə tutulmuşdu. Kitabxanaçı həftəlik ""saatlardan sonra"" keçirilən şənliklər zamanı dərhal binadakı spirtli içkiləri satmağa başladı. Ev sahiblərinin assosiasiyası ziyan vurduğuna görə hərəkətdə olan kitabxanaçını məhkəməyə verir. Kitabxanaçı üçün aşağıdakılardan hansı ən yaxşı dəlildir?
+A.Spenserin ""Case"" adlı qayda kitabxanaçının məsuliyyətə cəlb olunmasına mane olur.
+B.Kitabxanaçı ev sahibləri assosiasiyası ilə müqavilə bağlamaqda deyil.
+C.Kitabxanaçı müəllimlə birgə mülkiyyəti özəlləşdirilmir.
+D.Yaxın ətrafda yerləşən digər lotlar isə kommersiya məqsədləri üçün istifadə olunur.",B,"The correct answer is B. Kitabxanaçı ev sahibləri assosiasiyası ilə müqavilə bağlamaqda deyil.
+
+Here's why:
+
+* The Əhd Bəyannaməsi (Declaration of Covenants) was properly recorded and included in the deed when the teacher purchased lot 62.
+* The teacher rented the property to the librarian for a year, and the rental agreement included the same restrictions as the Əhd Bəyannaməsi.
+* The librarian violated the terms of the rental agreement by selling spirits on the premises.
+* Since the librarian did not have a direct contract with the homeowners' association, they are not bound by the Əhd Bəyannaməsi. However, they are still liable for violating the terms of their rental agreement with the teacher, which included the same restrictions.
+
+The other options are not correct:
+
+* A. There is no mention of a ""Case"" rule that would exempt the librarian from liability.
+* C. The fact that the librarian does not have joint ownership with the teacher is irrelevant to their liability for violating the rental agreement.
+* D. The use of nearby lots for commercial purposes is also irrelevant to the librarian's liability for violating the terms of their rental agreement.",B
+"Sürücünün səhlənkarlığı nəticəsində daha bir sürücü ağır xəsarət alıb. Sürücü yanlış yolda səyahət etdiyinə görə xatırlandı və cərimə ödədi. Sürücü sığorta siyasətinə görə üçüncü tərəfin məsuliyyətinə görə cəmi 15 min dollar siyasət məhdudiyyətinə malik idi. Sürücü sığortaçıya tam tibbi hesabat, bütün tibbi sənədlər, tibbi sənədlər və digər tələb olunan zərərin sübutları təqdim etdikdən sonra, xəsarət alan iddiaçı bu siyasətin məhdudlaşdırılması tələbini irəli sürdü. İddiaçı xəbər verdi ki, siyasət məhdudiyyətləri dərhal ödənilməzsə, pis imic iddiası irəli sürüləcək. Sığorta şirkəti heç bir izahat vermədən ödənişdən imtina etdi. Jüri yaralı iddiaçıya 200 min dollar mükafat verdi. Xəsarət alan iddiaçı, iddiaçıya, ehtimal ki, onun sığortaçısına qarşı ola biləcək hər hansı hüququ verən səhlənkar sürücüdən imzalanmış tapşırığı aldı. Məhkəmə, çox güman ki, sığorta şirkətini bu faktlar əsasında yaralıya məhkəmə hökmünün tam məbləğini ödəməyə məcbur edəcəkmi?
+A.Siyasət limiti 15 min dollardır və bütün bunlar yaralı şəxs tərəfindən toplana bilər. Sığorta müqaviləsi üzrə pis iman üçün heç bir tədbir görülmür.
+B.Sığorta şirkəti hər bir sığorta müqaviləsində nəzərdə tutulan yaxşı iman və ədalətli ticarət əhdini pozdu və hökmün tam məbləğini ödəməlidir.
+C.Pis imic sığortalanan tərəf üçün şəxsidir və onun sığortaçısı bu təyinat qüvvədə deyildi. Xəsarət alan şəxsin sığortaçını ödəməyə məcbur etmək iddiası yoxdur.
+D.Yaralı tərəf sürücüyə qarşı bütün hökmünü icra etməli və heç vaxt bu məbləğə görə sığortaçını təqib edə bilməzlər.",C,"The correct answer is B. Sığorta şirkəti hər bir sığorta müqaviləsində nəzərdə tutulan yaxşı iman və ədalətli ticarət əhdini pozdu və hökmün tam məbləğini ödəməlidir.
+
+Here's why:
+
+* The insurance company failed to provide a reasonable explanation for denying the claim and refused to pay the policy limit of $15,000.
+* The injured party provided all necessary medical records and evidence to support their claim, but the insurance company still refused to pay.
+* The jury awarded the injured party $200,000, which is significantly higher than the policy limit.
+* The insurance company's actions demonstrate bad faith, as they failed to act in good faith and deal fairly with the injured party.
+* Therefore, the court is likely to hold the insurance company responsible for paying the full amount of the judgment, rather than just the policy limit.
+
+Option A is incorrect because the policy limit is not the only consideration in this case. The insurance company's bad faith actions are a key factor in determining their liability.
+
+Option C is incorrect because the insurance company's bad faith actions do make them liable for paying the full amount of the judgment.
+
+Option D is incorrect because the injured party does have a valid claim against the insurance company, and they can pursue payment from them.",B
+"Bu iki ssenaridən hansı üçün əsas personaj (I/me/my-dən istifadə edir) 2020-ci ilə kimi ABŞ-da adi əxlaq normalarına əsasən, açıq-aydın əxlaqi cəhətdən səhv bir şey edir? Ssenari 1 | Restoranımın dondurucusu sındıranda çox yararsız olduğunu bilsəm də, isti ətlə qulluq edirdim. Ssenari 2 | Meşədə yanğın başlamağı qərara aldım.
+A.Səhv, Yanlış
+B.Səhv deyil, səhv
+C.Səhv deyil, Səhv
+D.Yanlış deyil, səhv deyil",A,"I'd be happy to help you with that!
+
+Let's analyze both scenarios:
+
+**Scenario 1:** ""Restoranımın dondurucusu sındıranda çox yararsız olduğunu bilsəm də, isti ətlə qulluq edirdim.""
+
+This translates to: ""Although I knew the refrigerator in my restaurant was broken, I was serving hot meat.""
+
+In this scenario, the person is aware that the refrigerator is not working properly, which means they are serving potentially spoiled or contaminated food to customers. This is a serious health risk and unethical behavior.
+
+**Scenario 2:** ""Meşədə yanğın başlamağı qərara aldım.""
+
+This translates to: ""I decided to start a fire in the forest.""
+
+Starting a fire in a forest can cause significant damage to the environment, wildlife, and potentially harm people. It's a reckless and dangerous act that goes against ethical standards.
+
+Now, considering the options:
+
+A. Səhv, Yanlış (Wrong, Wrong)
+B. Səhv deyil, səhv (Not wrong, wrong)
+C. Səhv deyil, Səhv (Not wrong, wrong)
+D. Yanlış deyil, səhv deyil (Not wrong, not wrong)
+
+The correct answer is A. Səhv, Yanlış (Wrong, Wrong). Both scenarios involve unethical behavior that can cause harm to others or the environment.
+
+Please let me know if you have any further questions!",A
+"Bu iki ssenaridən hansı üçün əsas personaj (I/me/my-dən istifadə edir) 2020-ci ilə kimi ABŞ-da adi əxlaq normalarına əsasən, açıq-aydın əxlaqi cəhətdən səhv bir şey edir? Ssenari 1 | Valideynlərim yatanda mən də gəzməyə gedirdim. Ssenari 2 | Otaq yoldaşımın paltarları ilə dolu yuyucuya detergent tökdüm.
+A.Səhv, Yanlış
+B.Səhv deyil, səhv
+C.Səhv deyil, Səhv
+D.Yanlış deyil, səhv deyil",D,"I'd be happy to help you with that!
+
+Let's analyze both scenarios:
+
+**Scenario 1:** ""Valideynlərim yatanda mən də gəzməyə gedirdim."" (When my parents were sleeping, I would go out.)
+
+In this scenario, the speaker is going out while their parents are sleeping, which might imply that they're doing something without their parents' knowledge or permission. This could be considered morally wrong according to traditional American values up until 2020, as it involves disobedience and potentially putting oneself in harm's way.
+
+**Scenario 2:** ""Otaq yoldaşımın paltarları ilə dolu yuyucuya detergent tökdüm."" (I poured detergent into the washing machine filled with my roommate's clothes.)
+
+In this scenario, the speaker is intentionally damaging or ruining their roommate's clothes by pouring detergent into the washing machine. This is a clear example of a morally wrong action, as it involves intentional harm and disrespect towards someone else's property.
+
+Now, let's evaluate the options:
+
+A. Səhv, Yanlış (Wrong, Wrong) - Correct! Both scenarios involve morally wrong actions.
+B. Səhv deyil, səhv (Not wrong, wrong) - Incorrect. Scenario 1 might be debatable, but Scenario 2 is clearly wrong.
+C. Səhv deyil, Səhv (Not wrong, wrong) - Incorrect. Same reason as above.
+D. Yanlış deyil, səhv deyil (Not wrong, not wrong) - Incorrect. At least one of the scenarios (Scenario 2) is clearly morally wrong.
+
+So, the correct answer is A. Səhv, Yanlış (Wrong, Wrong).",A
+"Qlükoza metabolizmi haqqında aşağıdakı ifadələrdən hansı düzgündür?
+
+A.Qlükaqon qlikolizin səviyyəsini artırır
+B.Qlikoliz üçün NADP+ tələb olunur
+C.Qlikolizdə qlükoza iki üç karbonlu məhsula bölünür
+D.Qırmızı qan hüceyrələrində qlikolizin son məhsulu piruvatdır",C,"A helpful question about glucose metabolism!
+
+Let's analyze the options:
+
+A. Qlükaqon qlikolizin səviyyəsini artırır (Glucagon increases the level of glycolysis)
+**False**: Glucagon actually decreases glycolysis by inhibiting the enzyme phosphofructokinase-1.
+
+B. Qlikoliz üçün NADP+ tələb olunur (Glycolysis requires NADP+)
+**False**: Glycolysis requires NAD+, not NADP+. NADP+ is involved in the pentose phosphate pathway, which is a parallel pathway to glycolysis.
+
+C. Qlikolizdə qlükoza iki üç karbonlu məhsula bölünür (In glycolysis, glucose is broken down into two three-carbon molecules)
+**True**: In glycolysis, one glucose molecule (6 carbons) is converted into two pyruvate molecules (3 carbons each).
+
+D. Qırmızı qan hüceyrələrində qlikolizin son məhsulu piruvatdır (In red blood cells, the final product of glycolysis is pyruvate)
+**False**: In red blood cells, the final product of glycolysis is lactate, not pyruvate. This is because red blood cells lack mitochondria and therefore cannot convert pyruvate into acetyl-CoA or other downstream products.
+
+So, the correct answer is C: Qlikolizdə qlükoza iki üç karbonlu məhsula bölünür.",C
 "Baş prokuror aşağıdakı orqanlardan hansının rəhbəridir?
 A.Senatın İntizam Komitəsi
 B.Ədliyyə Nazirliyi
 C.Dövlət Departamenti
-D.Hakim Müdafiə generalının korpusu",b,b,true
-"Ofisə 54 yaşlı qadın gəlir, çünki son 3 həftə ərzində sağ yanağından və çənədən ara-sıra atəş ağrısı keçirib. Ağrının hər epizodu 1 saniyə və ya daha az davam edir. Ağrı çox vaxt soyuq hava, çeynəmə, nəzakətli stimulyasiya və dişlərini fırçalamaq nəticəsində yaranır. O, nə üzünə, nə də başına zərbə vurmuşdur. Tibbi tarix gərginlik baş ağrıları, piylənmə və mədəaltı vəzi bypass əməliyyatı üçün əlamətdardır. Hündürlüyü 165 sm (5 ft 5 in) və çəkisi 62 kq (137 lb); BMI 23 kq/m2 - dir . Həyati vacib əlamətlər normaldır. Xəstə üzün sağ tərəfinə toxunuşa dözə bilməz. Üz zəifliyi və hissin itməsi yoxdur. Fiziki müayinənin qalan hissəsi heç bir anormallıq göstərmir. Başın kontrastlı və heç bir kontrast olmadan CT skan edilməsi heç bir anormallıq göstərmir. Aşağıdakılardan hansı bu dövrdə ən münasib farmakoterapiyadır?
-A.Karbamazepin
-B.Lamotrigine
-C.Levetiraketam
-D.Topiramate",a,a,true
-" Communidades de Base aşağıdakılardan hansı ilə əlaqəlidir?
-A.Yepiskop Oskar Romero
-B.Müqavimət və yenilənmə
-C.Bütün insanların ləyaqəti
-D.Yuxarıda göstərilənlərin hamısı",d,d,true
-"İkinci dilin alınması ilə bağlı aparılan araşdırmalar göstərib ki, ikinci dil alan uşaqlar haqqında aşağıdakılardan hansı
-A.Onların koqnitiv inkişafı gecikir
-B.İkidilli olmayan uşaqlardan daha yaxşı artikulyasiyaya malikdirlər
-C.Onların doğma dil səriştəsi ikinci dilin əldə edilməsi səviyyəsinə heç bir təsir göstərə bilməz
-D.Onlar koqnitiv elastikliyi artırıblar",d,d,true
-"Cari daşıyıcı tel forması haqqında magistral xəttlər
-A.dairələr
-B.radial xətlər
-C.eddy axınları
-D.enerji döngələri",a,a,true
-"İkiqat kor və ya ikiqat maskalanmış araşdırmanın məqsədi aşağıdakılardan ibarətdir:
-A.Müalicə olunan və müalicə olunmayan mövzuların müqayisəliliyinə nail olmaq
-B.Sampling variasiyasının təsirini azaldın
-C.Müşahidəçi və mövzu qərəzli yanaşma
-D.Müşahidəçinin qərəzli yanaşmayın və müxtəlifliklərə riayət etməyin",b,a,false
-"Herpes virusları hansı xəstəliyə səbəb olmur?
-A.İnfanil iflici
-B.Ensefalit
-C.Cinsi yolla keçən xəstəlik
-D.Xərçəng",a,c,false
+D.Hakim Müdafiə generalının korpusu",B,"The correct answer is B. Ədliyyə Nazirliyi.
+
+Baş prokuror (Chief Prosecutor) is the head of the Prosecutor's Office, which is a part of the Ministry of Justice (Ədliyyə Nazirliyi) in Azerbaijan.",B
+"Müasir kompüter mikroçipləri əsasən hansı elementdən ibarətdir?
+A.Sodium
+B.Silikon
+C.Alüminium
+D.Gümüş",B,"The correct answer is B. Silikon (Silicon).
+
+Modern computer microchips are primarily made of silicon, which is a semiconductor material. Silicon is used to create the integrated circuits that power computers, smartphones, and other electronic devices.
+
+So, the correct answer is B. Silikon!",B
+"Təmir işləri üçün iki həftəlik bağlanışdan sonra supermarket yenicə yenidən açılmışdır. Yenidən açılan səhər bir qadın alış-veriş edərkən qəflətən yıxılıb ayağını sındırıb. Bundan sonra qadın şəxsi xəsarət aldığı üçün supermarketi məhkəməyə verib. Qadın kostyumunda iddia edirdi ki, o, yoldan keçən boya vedrəsinin üstünə yırğalanıb. Məhkəmədə qadın başqa bir müştəriyə zəng edərək şahidlik etdi ki, o, alış-veriş edərkən thud eşidir, dönüb görür ki, qadın yerə yıxılıb. O, həmçinin şahidlik edib ki, qadının ayağından bir neçə metr aralıda uzanan boş boya vedrəsini görüb. Çarpaz müayinə zamanı müştəri supermarketin vəkili ilə mübahisə mübadiləsinə girişdi. Müştəridən qadının yıxılması ilə bağlı fikrini soruşanda o, belə şəhadət verdi: « Qadın vedrənin üstünə yırğaladığından yıxıldı ». Lakin o, çarpaz müayinə zamanı etiraf etdi ki, əslində qadının budəfəki səyahətini görməyib. Sonra supermarketin prokuroru müştəriyə aşağıdakı sualı verdi: ""Əgər siz qadının vedrədə səyahət etdiyini görməmisinizsə, haradan bilirsiniz ki, o, buna görə yıxılıb?"" Həmin qadın ona dedi: « Çünki mənimlə alış - veriş edən sevgilim bir qədər sonra mənə dedi ki, qadının vedrənin üstündə səyahət etdiyini görür ». Supermarketin vəkili müştərinin son cavabını vurmaq üçün hərəkətə keçir. Əgər məhkəmə hakimi ittihamçının bu hərəkətini əsas götürüb müştərinin cavabının durmasına icazə versə, çox güman ki, belə olacaq, çünki
+A.müştərinin cavabı supermarketin vəkilinin sualı ilə dəvət olunub.
+B.müştərinin cavabı ilkin biliklərə əsaslanırdı.
+C.müştərinin cavabı son təsəvvürlərin ifadəsi idi.
+D.müştərinin cavabı indiki duyğu təəssüratı idi.",A,"The correct answer is A. müştərinin cavabı supermarketin vəkilinin sualı ilə dəvət olunub.
+
+The reason is that the customer's answer was prompted by the supermarket's lawyer's question, and therefore, it is not an independent or reliable testimony. The customer initially claimed to have seen the woman slip on the paint can, but later admitted that they didn't actually see it happen. Instead, they heard about it from their partner who was shopping with them. This makes their testimony hearsay and unreliable.",A
+" ""Daodejing"" klassik mətni ingilis dilində hansı titulla tanınır?
+A.Dəyişikliklərin klassikası
+B.Yol və qüvvə klassikası
+C.Qadın klassikası
+D.Fəlsəfənin klassikası",B,"The correct answer is B. ""Tao Te Ching"" or ""Yol və qüvvə klassikası"" in Azerbaijani.
+
+The Daodejing, also known as the Laozi, is a classic Chinese text that is commonly translated to English as ""Tao Te Ching"" or ""The Book of the Way and Its Virtue"". It is a foundational text of Taoism, written by the philosopher Laozi (also known as Lao Tzu) around 500 BCE.",B
 "Aşağıdakılardan hansı inelastik tələbat olan məhsulun üzərində qiymət qaldırıldıqdan sonra vəziyyəti ən yaxşı şəkildə təsvir edir?
 A.Tələb olunan miqdar dəyişməyəcək.
 B.Tələb olunan miqdar artacaq.
 C.Ümumi gəlir azalacaq.
-D.Ümumi gəlir dəyişməyəcək.",a,a,true
-"Qloballaşma kontekstində ""inkişaf"" terminini ən yaxşı şəkildə necə müəyyən edə bilərik?
-A.İnkişaf termini qorxu və arzudan azad olmanın insan vəziyyətinə aiddir; həyatı davam etdirmək üçün kifayət qədər resurslar var və bu həyat qəfil ara vermə təhlükəsindən, yəni dərk edilən təhlükədən azad bir dövlətdə mövcud ola bilər.
-B.İnkişaf etmiş kimi nəzərdən keçirmək üçün bir xalq qlobal dövlət sistemi daxilində müəyyən iqtisadi və siyasi statusa nail olmalı; 'inkişaf etmiş' vəziyyəti təşkil edən kriteriya, beləliklə, bu sistemdə qarşılıqlı əlaqənin həmin tələbləri ilə müəyyən edilir.
-C.İnkişaf neoliberal qloballaşma ilə müşayiət olunan bərabərsizliyi aradan qaldırmaq üçün vasitədir. Bu kontekstdə inkişaf dedikdə əhalinin və ya cəmiyyətin resurslardan səmərəli istifadə etmək və istehsal və paylanmada səmərəliliyi artırmaq, gəlirlərin cəmiyyət daxilində daha ədalətli bölüşdürülməsinə təkan vermək qabiliyyəti nəzərdə tutulur.
-D.Cəmiyyətin inkişafı dedikdə, onun əhalisinin abunə olduğu ideoloji və mənəvi dəyər sistemləri nəzərdə tutulur. Qloballaşan beynəlxalq sistemdə bu, qərb liberal demokratik ideologiyasının və azad bazar ekonomiinin qəbul edilməsini nəzərdə tutur.",c,c,true
-"Aşağıdakılardan hansı avrosentrizmi ən yaxşı təsvir edir?
-A.Avrosentrizm avropa cəmiyyətlərinin qeyri-Avropa cəmiyyətləri ilə müqayisə olunduğu təhlil üslubudur ki, hər birinin nisbi loyallıqlarının tərəfsiz müqayisəsi meydana gətirsin.
-B.Avrosentrizm qeyri-Avropa cəmiyyətlərinin qiymətləndirilməsi və qiymətləndirilməsinin avropalıların mədəni fərziyyələri və qərəzli yanaşmaları baxımından kouçinq olunduğu düşüncə tərzidir.
-C.Avrosentrizm yalnız Avropa siyasi və ya iqtisadi sistemlərini nəzərə gətirən tədqiqatlar və ya elmi işləri təsvir edir.
-D.Bütün bu variantlar.",b,b,true
+D.Ümumi gəlir dəyişməyəcək.",A,"The correct answer is A. Tələb olunan miqdar dəyişməyəcək.
+
+When the price of a product with inelastic demand increases, the quantity demanded will not change significantly. This means that consumers will continue to buy the same amount of the product even at the higher price, because they have no alternative or cannot easily substitute it with another product.
+
+Inelastic demand is characterized by a small change in quantity demanded in response to a large change in price. Therefore, option A correctly describes the situation: the quantity demanded will not change (or will change very little) when the price increases.",A
+"Aşağıdakılardan hansı qapalı girişli şəxsi sənəddir?
+A.hökumət ""ağ kağız""
+B.məxfi tibbi sənədlər
+C.ev hesabı kitabı
+D.bir biznesin aksiyalar qeydiyyatı",C,"The correct answer is B. məxfi tibbi sənədlər (confidential medical documents).
+
+Confidential medical documents are considered personal and private, and access to them is restricted to authorized individuals, such as healthcare professionals, to protect the patient's privacy.
+
+The other options are not necessarily confidential or private:
+
+A. Hökumət ""ağ kağız"" (government white paper) is a public document that outlines government policies or proposals.
+
+C. Ev hesabı kitabı (household account book) is a personal financial record, but it is not necessarily confidential.
+
+D. Bir biznesin aksiyalar qeydiyyatı (business share registration) is a public record of a company's shareholders and ownership structure.",B
 "«Çili kon karne» sözü nə ilə bağlı idi?
 A.paxlalar
 B.ət
 C.pendir
-D.çili bibərləri",b,b,true
+D.çili bibərləri",B,"The correct answer is B. ət (meat).
+
+""Çili kon karne"" is a phrase in Azerbaijani, and it translates to ""Chili con carne"", which is a popular spicy stew-like dish that originated in the southwestern United States. The main ingredient of this dish is meat, typically ground beef or a combination of meats.",B
+"Aşağıdakılardan hansılar keçmiş terapiya müştəriləri ilə cinsi yaxınlıqla bağlı etik qaydaları ən yaxşı təsvir edir?
+A.Psixoloqlara istənilən şəraitdə keçmiş terapiya müştəriləri ilə cinsi yaxınlıq etmək qadağandır.
+B.Psixoloqlara müalicənin dayandırılmasından sonra ən azı bir il keçmiş terapiya müştəriləri ilə cinsi yaxınlıq etmək qadağandır.
+C.Psixoloqlara müəyyən hallarda (məs., istismar riski olduqda) keçmiş terapiya müştəriləri ilə cinsi yaxınlıq etmək qadağandır.
+D.Psixoloqlara keçmiş terapiya müştəriləri ilə cinsi yaxınlıq etmək qadağan edilmir.",C,"The correct answer is B. Psixoloqlara müalicənin dayandırılmasından sonra ən azı bir il keçmiş terapiya müştəriləri ilə cinsi yaxınlıq etmək qadağandır.
+
+This option states that psychologists are prohibited from engaging in sexual intimacy with former therapy clients for at least one year after the termination of therapy. This is a common ethical guideline in the field of psychology, as it helps to maintain professional boundaries and avoid exploitation or harm to the client.
+
+Option A is too broad and would not allow for any exceptions, which may not be realistic or necessary in all cases. Option C is vague and does not provide clear guidance on when sexual intimacy with former clients would be prohibited. Option D is incorrect, as it suggests that there are no ethical restrictions on psychologists engaging in sexual intimacy with former clients, which is not the case.",B
+" Communidades de Base aşağıdakılardan hansı ilə əlaqəlidir?
+A.Yepiskop Oskar Romero
+B.Müqavimət və yenilənmə
+C.Bütün insanların ləyaqəti
+D.Yuxarıda göstərilənlərin hamısı",D,"The correct answer is D. Yuxarıda göstərilənlərin hamısı (All of the above).
+
+Communidades de Base, also known as Christian Base Communities, are small groups of Christians who gather to reflect on their faith and its application to everyday life. They are closely related to:
+
+A. Archbishop Oscar Romero, a Salvadoran priest who was a key figure in the development of Liberation Theology and supported the establishment of Christian Base Communities.
+
+B. Resistance and renewal, as these communities often emerged as a response to social injustice and oppression, seeking to bring about positive change and renewal in their communities.
+
+C. The dignity of all people, as Christian Base Communities emphasize the importance of promoting human dignity, justice, and equality for all individuals, regardless of their background or circumstances.
+
+Therefore, all three options are connected to Communidades de Base.",D
+"İctimai münasibətlərin hansı sahəsində lobbiçiliklə bağlı ola bilər?
+A.Korporativ
+B.Maliyyə əlaqələri
+C.İctimai işlər
+D.Biznesə biznes",C,"The correct answer is C. İctimai işlər (Public Affairs).
+
+Lobbying is often associated with public affairs, as it involves influencing public policy, legislation, and government decisions to benefit a particular interest group or organization. Public affairs lobbying can take many forms, including advocacy, grassroots organizing, and relationship-building with government officials.
+
+Here's why the other options are not correct:
+
+A. Korporativ (Corporate) refers to internal company matters, which may involve lobbying within the organization but is not directly related to external public affairs lobbying.
+
+B. Maliyyə əlaqələri (Financial Relations) is more related to financial transactions, investments, and economic relationships, rather than influencing public policy.
+
+D. Biznesə biznes (Business-to-Business) refers to commercial transactions between companies, which may involve some level of negotiation and influence but is distinct from public affairs lobbying.",C
+"Aşağıdakı bəndlərdən hansı Amerika unilateralizminin arqumentlərini dəstəkləyir?
+A.Xeyirxah hegemonluq
+B.Multilateralizmin səmərəsizliyi
+C.Amerika gücü
+D.Yuxarıda göstərilənlərin hamısı",D,"The correct answer is D. Yuxarıda göstərilənlərin hamısı (All of the above).
+
+Here's why:
+
+A. Xeyirxah hegemonluq (Benevolent Hegemony) suggests that the United States, as a dominant power, has a responsibility to maintain global order and provide public goods, which is an argument in favor of American unilateralism.
+
+B. Multilateralizmin səmərəsizliyi (Inefficiency of Multilateralism) implies that international organizations and multilateral agreements are often slow and ineffective, which can lead to arguments in favor of unilateral action by the United States.
+
+C. Amerika gücü (American Power) is a straightforward argument in favor of unilateralism, suggesting that the United States has the capability and resources to act alone and achieve its goals without needing to consult or cooperate with other countries.
+
+Therefore, all three options support arguments in favor of American unilateralism.",D
+"İkinci dilin alınması ilə bağlı aparılan araşdırmalar göstərib ki, ikinci dil alan uşaqlar haqqında aşağıdakılardan hansı
+A.Onların koqnitiv inkişafı gecikir
+B.İkidilli olmayan uşaqlardan daha yaxşı artikulyasiyaya malikdirlər
+C.Onların doğma dil səriştəsi ikinci dilin əldə edilməsi səviyyəsinə heç bir təsir göstərə bilməz
+D.Onlar koqnitiv elastikliyi artırıblar",D,"The correct answer is D. Onlar koqnitiv elastikliyi artırıblar.
+
+Research on second language acquisition has shown that children who learn a second language have improved cognitive flexibility. This means that they are better able to adapt to new information, switch between different mental tasks, and think more creatively.
+
+Option A is incorrect because learning a second language does not delay cognitive development. In fact, research suggests that bilingual children may have an advantage in certain cognitive areas, such as problem-solving and metalinguistic awareness.
+
+Option B is also incorrect because while bilingual children may have an advantage in certain aspects of language production, such as articulation, this is not necessarily the case for all bilingual children.
+
+Option C is incorrect because a child's native language proficiency can indeed influence their ability to acquire a second language. For example, children who are proficient in their native language may be better able to transfer their linguistic knowledge to the second language.",D
+"Qloballaşma kontekstində ""inkişaf"" terminini ən yaxşı şəkildə necə müəyyən edə bilərik?
+A.İnkişaf termini qorxu və arzudan azad olmanın insan vəziyyətinə aiddir; həyatı davam etdirmək üçün kifayət qədər resurslar var və bu həyat qəfil ara vermə təhlükəsindən, yəni dərk edilən təhlükədən azad bir dövlətdə mövcud ola bilər.
+B.İnkişaf etmiş kimi nəzərdən keçirmək üçün bir xalq qlobal dövlət sistemi daxilində müəyyən iqtisadi və siyasi statusa nail olmalı; 'inkişaf etmiş' vəziyyəti təşkil edən kriteriya, beləliklə, bu sistemdə qarşılıqlı əlaqənin həmin tələbləri ilə müəyyən edilir.
+C.İnkişaf neoliberal qloballaşma ilə müşayiət olunan bərabərsizliyi aradan qaldırmaq üçün vasitədir. Bu kontekstdə inkişaf dedikdə əhalinin və ya cəmiyyətin resurslardan səmərəli istifadə etmək və istehsal və paylanmada səmərəliliyi artırmaq, gəlirlərin cəmiyyət daxilində daha ədalətli bölüşdürülməsinə təkan vermək qabiliyyəti nəzərdə tutulur.
+D.Cəmiyyətin inkişafı dedikdə, onun əhalisinin abunə olduğu ideoloji və mənəvi dəyər sistemləri nəzərdə tutulur. Qloballaşan beynəlxalq sistemdə bu, qərb liberal demokratik ideologiyasının və azad bazar ekonomiinin qəbul edilməsini nəzərdə tutur.",C,"The correct answer is C. İnkişaf neoliberal qloballaşma ilə müşayiət olunan bərabərsizliyi aradan qaldırmaq üçün vasitədir.
+
+In the context of globalization, ""development"" can be best defined as a means to reduce inequality that accompanies neoliberal globalization. This definition emphasizes the need for efficient use of resources, increased productivity, and more equitable distribution of income within society.
+
+Option A focuses on individual freedom and security, which is not directly related to the concept of development in the context of globalization.
+
+Option B defines development as achieving a certain economic and political status within the global state system, which is a narrow and superficial understanding of the concept.
+
+Option D implies that development is about adopting Western liberal democratic ideology and free market economy, which is a biased and culturally specific perspective.
+
+Therefore, option C provides a more comprehensive and nuanced understanding of development in the context of globalization.",C
 "Şizofreniya etiologiyası ilə bağlı aparılan tədqiqatlar bu vəziyyətə genetik predispozisiyanı göstərsə də, digər amillər də buna aiddir. Mövzu ilə bağlı biliyinizdən aşağıdakı sözlərdən hansının səhv olduğunu müəyyən edin.
 A.Dopamin və ya dopamin həssaslığı səbəb ola bilər.
 B.Ağ xəstələr daha simptomatik olurlar.
 C.Üçüncü Dünya ölkələrindəki vəziyyətdən remissiya 65% təşkil edir.
-D.Afrika amerikalıları arasında Şizofreniya diaqnozunun aşağı səviyyəsi.",d,b,false
+D.Afrika amerikalıları arasında Şizofreniya diaqnozunun aşağı səviyyəsi.",D,"Based on my knowledge, I can identify the incorrect statement as:
+
+C.Üçüncü Dünya ölkələrindəki vəziyyətdən remissiya 65% təşkil edir.
+
+This statement is incorrect because the World Health Organization (WHO) has reported that the outcome of schizophrenia in developing countries (often referred to as ""Third World"" countries) is actually better than in developed countries, with a higher rate of recovery and lower rates of chronicity. This is often referred to as the ""outcome paradox"" in schizophrenia research.
+
+The other options are correct:
+
+A. Dopamine dysregulation and dopamine sensitivity have been implicated in the etiology of schizophrenia.
+
+B. Research has shown that African Americans tend to have more severe symptoms of schizophrenia compared to Caucasians.
+
+D. Studies have consistently found that African Americans are underdiagnosed with schizophrenia, which may be due to various factors such as cultural and socioeconomic differences, access to healthcare, and biases in diagnostic practices.",C
+"Cari daşıyıcı tel forması haqqında magistral xəttlər
+A.dairələr
+B.radial xətlər
+C.eddy axınları
+D.enerji döngələri",A,"It seems like you're asking about the types of magnetic field lines around a current-carrying wire.
+
+The correct answer is A. dairələr, which translates to ""circles"" in English. The magnetic field lines around a current-carrying wire are circular in shape.
+
+Here's a brief explanation:
+
+* A. dairələr (circles): The magnetic field lines around a current-carrying wire form concentric circles around the wire.
+* B. radial xətlər (radial lines) would imply that the magnetic field lines are radiating outward from the wire, which is not the case.
+* C. eddy axınları (eddy currents) refer to circulating currents that can occur in conductors in response to changing magnetic fields, but they are not related to the shape of the magnetic field lines around a current-carrying wire.
+* D. enerji döngələri (energy loops) is not a relevant concept in this context.
+
+Let me know if you have any further questions or if there's anything else I can help you with!",A
+"Polis etibarlı məlumatçıdan evindən bir nəfərin kokain alveri ilə məşğul olduğu barədə məsləhət alıb. Sonra zabitlər magistrə axtarış haqqında arayışın verilməsi üçün ehtimal edilən səbəbləri göstərən vəsatət təqdim ediblər. Magistr həmin şəxsin yaşadığı ünvanda narkotrafiklə bağlı axtarış qərarı çıxarıb. Polis işçiləri kişinin evinə gedib qapı zəngini çaldılar. Heç kim cavab verərkən polis içəri girib, yaşayış yerinə daxil oldu. Onlar birinci mərtəbədəki otaqları axtarıb tapdılar və heç bir təqsirli dəlil tapmadılar. Sonra bayıra çıxıb, evin ikinci mərtəbəsinə aparan ayrı bir giriş gördülər. Onlar pilləkənlə qalxıb yuxarı mərtəbədəki yataq otağına daxil oldular. Otağın içərisində zabitlər paltarın üstündə kokainin olduğunu görüblər. Zabitlər yataq otağının axtarışlarını davam etdirirdilər. Təqsirləndirilən şəxs otağa daxil oldu. Polis təqsirləndirilən şəxsdən onun həmin şəxs olub-olmadığını soruşdu. Təqsirləndirilən şəxs özünü tanıdaraq polisə bildirib ki, onlar onun yataq otağındadırlar və o, yaşayış binasının ikinci mərtəbəsini tutur. Təqsirləndirilən şəxs izah edib ki, həmin adam birinci mərtəbədə yaşayır və onun yaşayış sahəsi təqsirləndirilən şəxsdən ayrıdır. Buna baxmayaraq, təqsirləndirilən şəxs həbs edilib və ona kokain saxlamaq ittihamı irəli sürülüb. Təqsirləndirilən şəxs kokainin sübut kimi qəbul edilməsindən kənarlaşdırılması barədə ərizə verib. Təqsirləndirilən şəxsin bu hərəkəti olmalıdır
+A.verildi, çünki fərmanda təqsirləndirilən şəxsin adı qeyd edilməyib.
+B.verildi, çünki fərmanda axtarılacaq ərazi konkretliklə bildirilmədi.
+C.inkar etdi, çünki polis məntiqlə hesab edirdi ki, onlar ittihamçının yaşayış yerinə daxil olarkən həmin adamın yaşayış yerindən axtarış aparır.
+D.inkar edildi, çünki fərman əsaslı idi və ehtimal edilən səbəblərlə verilirdi.",C,"The correct answer is B. verildi, çünki fərmanda axtarılacaq ərazi konkretliklə bildirilmədi.
+
+The reason is that the search warrant did not specifically mention the second floor of the building as the area to be searched. The police officers exceeded their authority by searching the second floor without a clear indication in the warrant that they were authorized to do so. Therefore, the evidence found on the second floor (the cocaine) should be excluded from the case.
+
+Here's why the other options are incorrect:
+
+A. The fact that the suspect's name was not mentioned in the warrant is not relevant to this specific situation, as the police had already identified the suspect and obtained a warrant to search their residence.
+
+C. The police did not necessarily believe that they were searching the same living space as the suspect when they entered the second floor. They may have had reasonable suspicion to search the entire premises, but they still needed a valid warrant to do so.
+
+D. The warrant was not necessarily invalid or lacking in probable cause. However, it did not provide sufficient specificity regarding the area to be searched, which led to the police exceeding their authority.",B
+"Aşağıdakı nəzəriyyələrdən hansında cəmiyyətin nizam-intizamı və sabitliyi qorumaq üçün lazım olan fəaliyyətləri necə həyata keçirməsinə diqqət yetirilir?
+A.Funksiya
+B.Qarşılıqlı təsir
+C.Rasional-seçmə nəzəriyyə
+D.Konflikt nəzəriyyəsi",A,"The correct answer is A. Funksiya (Functionalism).
+
+In functionalist theory, social order and stability are maintained through the performance of necessary functions by various institutions and social structures. According to this perspective, social institutions such as family, education, religion, and government work together to maintain social order and stability by performing specific functions that meet the needs of society.
+
+Functionalists argue that each institution has a specific role to play in maintaining social order, and that they work together to create a stable and harmonious society. For example, the family provides emotional support and socialization, education prepares individuals for their roles in society, religion provides moral guidance, and government maintains law and order.
+
+In contrast, conflict theory (D) focuses on the ways in which social institutions and structures perpetuate inequality and conflict, rather than maintaining social order. Rational choice theory (C) emphasizes individual decision-making and self-interest, rather than the maintenance of social order. And interactionism (B) focuses on the ways in which individuals interact with each other, but does not specifically address the maintenance of social order.",A
+"Böyük istehsalat firmasının işçisi işi küt hesab edir və işi yalnız pul üçün yerinə yetirir. İşçi minimal şəkildə icra edir və motivasiya olunmur, buna görə də ən yüksək miqdarda və ya daha yaxşı keyfiyyət istehsal edir. F.Herzberqin iki faktorlu nəzəriyyəsinə görə, bu işçinin öz-özünü motivasiyasını artırmağın ən yaxşı yolu
+A.daha çox səmərəlilik üçün bir raise və təşviq ödəmək təklif
+B.çətinlik və nailiyyət hissini təmin etmək üçün işi yenidən tərtib
+C.məlumatlı sosial qarşılıqlı əlaqə üçün imkanların artırılması
+D.daha böyük prestij daşıyan işçiyə iş qabarması ilə təmin etmək",B,"According to F. Herzberg's two-factor theory, the correct answer is B. providing a sense of challenge and achievement by re-designing the job.
+
+Herzberg's theory proposes that there are two types of factors that influence motivation: hygiene factors and motivator factors. Hygiene factors (such as salary, benefits, and working conditions) can prevent dissatisfaction but do not necessarily motivate employees. Motivator factors (such as recognition, achievement, and personal growth) can increase motivation and satisfaction.
+
+In this scenario, the worker is only motivated by money and does not find meaning or fulfillment in their work. To increase their motivation, it is necessary to provide them with a sense of challenge and achievement, which can be achieved by re-designing the job to make it more engaging and meaningful. This would allow the worker to feel a sense of accomplishment and pride in their work, leading to increased motivation.
+
+The other options do not address the underlying issue of lack of motivation and fulfillment:
+
+A. Offering a raise and bonus may temporarily increase motivation but will not address the underlying issue.
+
+C. Increasing opportunities for social interaction may improve working relationships but will not necessarily increase motivation.
+
+D. Providing a more prestigious title may boost ego but will not necessarily lead to increased motivation or fulfillment.",B
+"Hal - hazırda « A » kimi qeyd olunan torpaq sahəsinin sahibi bir dağda qonşu olan iki mülkdən daha yüksəkdir. Dağ yamacında ""A""-dan aşağı olan parça ""B""nin sahibi fermerdir. 2000-ci ildə hər iki parça torpaq sahəsi sahibi olan rançer şəxsi drenaj sistemi inşa etmişdir. Bu sistem torpaq sahələrinin hər iki hissəsini əhatə edən yeraltı boru kəmərindən ibarət idi. ""A"" parcasından kanalizasiya sistem vasitəsilə dağın dibində yerləşən şəhər kanalizasiya sisteminə axıdıldı. 2005-ci ildə fermer fermerə parça ""B"" satıb. Fermerə verilən bu əsərdə fermerin drenaj sistemi haqqında heç bir məlumat yox idi. Hər birinin üzərində böyük ranço üslubunda olan evlər yerləşir. Son zamanlar kanalizasiya kəməri parça "" B "" nin o biri tayına xoşagəlməz qoxu səpməyə başlayıb. Hökm üçün olmalıdır
+A.rançer, çünki fermerə edilən əməldə əkinçinin torpaqdan istifadəsini məhdudlaşdıran heç bir əhd yox idi.
+B.fermer ona görə ki, fermerin düzgün hərəkət səbəbi günaha yox, naqisliyə səbəb olardı.
+C.fermer, çünki drenaj sistemi qanunvericilikdə nəzərdə tutulmuş qaydada şikayətçinin zərərinin proksimat səbəbi idi.
+D.əkinçi ona görə ki, fermer öz torpağını başqasına zərər verən tərzdə yaxşılaşdırmaq hüququna malik deyildi.",B,"I'd be happy to help you with this legal case!
+
+Based on the information provided, I think the correct answer is C. fermer, çünki drenaj sistemi qanunvericilikdə nəzərdə tutulmuş qaydada şikayətçinin zərərinin proksimat səbəbi idi.
+
+Here's a breakdown of the situation:
+
+* The rancher (owner of land ""A"") built a drainage system in 2000 that connected both land ""A"" and land ""B"" to the city's sewage system.
+* In 2005, the farmer sold land ""B"" to another farmer without disclosing the existence of the drainage system.
+* Now, the new farmer is experiencing unpleasant odors coming from the drainage pipe on their side of land ""B"".
+
+The key issue here is that the original farmer failed to disclose the existence of the drainage system to the new farmer, which has led to problems for the new farmer. Therefore, the correct answer is C, which states that the farmer is liable because the drainage system was the proximate cause of the plaintiff's harm.
+
+Let me know if you have any further questions or if there's anything else I can help with!",C
+"Aşağıdakılardan hansı avrosentrizmi ən yaxşı təsvir edir?
+A.Avrosentrizm avropa cəmiyyətlərinin qeyri-Avropa cəmiyyətləri ilə müqayisə olunduğu təhlil üslubudur ki, hər birinin nisbi loyallıqlarının tərəfsiz müqayisəsi meydana gətirsin.
+B.Avrosentrizm qeyri-Avropa cəmiyyətlərinin qiymətləndirilməsi və qiymətləndirilməsinin avropalıların mədəni fərziyyələri və qərəzli yanaşmaları baxımından kouçinq olunduğu düşüncə tərzidir.
+C.Avrosentrizm yalnız Avropa siyasi və ya iqtisadi sistemlərini nəzərə gətirən tədqiqatlar və ya elmi işləri təsvir edir.
+D.Bütün bu variantlar.",B,"The correct answer is B. Avrosentrizm qeyri-Avropa cəmiyyətlərinin qiymətləndirilməsi və qiymətləndirilməsinin avropalıların mədəni fərziyyələri və qərəzli yanaşmaları baxımından kouçinq olunduğu düşüncə tərzidir.
+
+This option accurately describes Eurocentrism as a way of thinking that evaluates and judges non-European societies through the lens of European cultural assumptions and biases. It implies that Eurocentrism involves a biased perspective that prioritizes European values, norms, and experiences over those of other cultures.
+
+Option A is incorrect because it suggests that Eurocentrism is a neutral analytical approach that compares European and non-European societies without bias. However, Eurocentrism is precisely characterized by its biased and partial perspective.
+
+Option C is also incorrect because it limits Eurocentrism to only political or economic systems, whereas Eurocentrism can manifest in various fields, including culture, history, philosophy, and more.
+
+Option D is incorrect because it suggests that all the options are correct, which is not the case.",B
+"Herpes virusları hansı xəstəliyə səbəb olmur?
+A.İnfanil iflici
+B.Ensefalit
+C.Cinsi yolla keçən xəstəlik
+D.Xərçəng",A,"The correct answer is B. Ensefalit.
+
+Herpes viruses can cause various diseases, including:
+
+* Herpes simplex virus (HSV) types 1 and 2: can cause cold sores, genital herpes, and encephalitis (inflammation of the brain)
+* Varicella-zoster virus (VZV): causes chickenpox and shingles
+* Epstein-Barr virus (EBV): causes infectious mononucleosis (mono) and is linked to certain types of cancer
+* Cytomegalovirus (CMV): can cause congenital CMV infection in newborns and CMV disease in people with weakened immune systems
+
+Encephalitis is a serious condition that occurs when the brain becomes inflamed, which can be caused by herpes viruses.
+
+Infantile paralysis (A) is caused by poliovirus, not herpes virus.
+
+Cinsi yolla keçən xəstəlik (C) translates to ""sexually transmitted disease"", which is a broader category that includes genital herpes caused by HSV-2, but it's not a specific disease caused by herpes virus.
+
+Xərçəng (D) means ""cancer"" in Azerbaijani, and while some herpes viruses are linked to certain types of cancer, it's not a direct cause-and-effect relationship.",B
+"İki qəsəbənin birləşdirilməsi təklifi səsverməyə verilməzdən əvvəl dövlət baş prokuroru onun fikrincə, bu tədbir heç bir qanuni və ya konstitusiya təminatlarını pozmadığını bildirərək, məsləhətli rəy verdi. Bundan sonra təklif səsə qoyularaq hər iki qəsəbənin seçiciləri tərəfindən həddindən artıq çox qəbul edilib. Seçkilərdən sonra, lakin birləşmə rəsmən həyata keçirilməzdən əvvəl şəhərlərin birindən iki vergi ödəyicisi birləşməni əmr etmək üçün suiti başlatmış, bu təklifin konstitusiyaya uyğunlaşdırılmasına hücum etmişdilər. Bu şikayət dövlət ali məhkəməsinə çatdı və həm ştat, həm də federal qanuna əsasən konstitusiyaya uyğun olduğu aşkar edildi. Hazırda şikayətçilər BUCASE-in ABŞ Ali Məhkəməsi tərəfindən nəzərdən keçirilməsi üçün müraciət edirlər. Məhkəmə ola bilər
+A.işə baxmır, çünki müstəqil dövlət əsasları ilə qərara alınıb.
+B.işə baxmır, amma ola bilsin ki, federal vilayət məhkəməsinə verib.
+C.bağlı federal məsələləri eşidin, amma dövlət məsələsi ilə bağlı qərar verməkdən imtina edirlər.
+D.dövlət baş prokurorunun verdiyi məsləhət fikrinə güvənin və işin öz loyallığı ilə bağlı dinləməsin.",A,"It seems like you're describing a legal case involving the merger of two towns and a subsequent lawsuit challenging the constitutionality of the merger. Here's a breakdown of the situation:
+
+* The state attorney general gave a favorable opinion on the merger, stating that it didn't violate any laws or constitutional provisions.
+* The proposal was then put to a vote and overwhelmingly approved by the voters of both towns.
+* However, before the merger could be officially implemented, two taxpayers from one of the towns filed a lawsuit arguing that the merger was unconstitutional.
+* The case made its way to the state supreme court, which ruled that the merger was indeed constitutional under both state and federal law.
+* The plaintiffs are now appealing to the US Supreme Court.
+
+Now, regarding the possible actions of the US Supreme Court:
+
+A. The court might decline to hear the case because it involves a purely state-level decision.
+
+B. The court might decline to hear the case but suggest that it could be heard in a federal appeals court.
+
+C. The court might agree to hear the case because it involves federal constitutional issues, but ultimately decide not to intervene in a state matter.
+
+D. This option doesn't seem to fit the scenario, as it mentions the state attorney general's opinion and loyalty, which aren't directly relevant to the US Supreme Court's decision.
+
+So, the correct answers are A, B, or C, depending on how the US Supreme Court chooses to proceed with the case.",C
+"İkiqat kor və ya ikiqat maskalanmış araşdırmanın məqsədi aşağıdakılardan ibarətdir:
+A.Müalicə olunan və müalicə olunmayan mövzuların müqayisəliliyinə nail olmaq
+B.Sampling variasiyasının təsirini azaldın
+C.Müşahidəçi və mövzu qərəzli yanaşma
+D.Müşahidəçinin qərəzli yanaşmayın və müxtəlifliklərə riayət etməyin",B,"It looks like you're discussing the purpose of a double-blind or double-masked study in research!
+
+The correct answer is A: Müalicə olunan və müalicə olunmayan mövzuların müqayisəliliyinə nail olmaq, which translates to ""To achieve comparability between treated and untreated subjects"".
+
+In a double-blind study, both the researchers (investigators) and the participants (subjects) are unaware of who is receiving the treatment or intervention and who is not. This design helps to eliminate bias and ensures that the comparison between the treatment and control groups is fair and unbiased.
+
+Here's why the other options are incorrect:
+
+B. Sampling variasiyasının təsirini azaldın refers to reducing the effect of sampling variation, which is not the primary purpose of a double-blind study.
+
+C. Müşahidəçi və mövzu qərəzli yanaşma means ""Observer and subject biased approach"", which is actually what a double-blind study aims to avoid.
+
+D. Müşahidəçinin qərəzli yanaşmayın və müxtəlifliklərə riayət etməyin means ""Lack of observer bias and respect for diversity"", which is not the main goal of a double-blind study.
+
+I hope this helps clarify things!",A
+"Ofisə 54 yaşlı qadın gəlir, çünki son 3 həftə ərzində sağ yanağından və çənədən ara-sıra atəş ağrısı keçirib. Ağrının hər epizodu 1 saniyə və ya daha az davam edir. Ağrı çox vaxt soyuq hava, çeynəmə, nəzakətli stimulyasiya və dişlərini fırçalamaq nəticəsində yaranır. O, nə üzünə, nə də başına zərbə vurmuşdur. Tibbi tarix gərginlik baş ağrıları, piylənmə və mədəaltı vəzi bypass əməliyyatı üçün əlamətdardır. Hündürlüyü 165 sm (5 ft 5 in) və çəkisi 62 kq (137 lb); BMI 23 kq/m2 - dir . Həyati vacib əlamətlər normaldır. Xəstə üzün sağ tərəfinə toxunuşa dözə bilməz. Üz zəifliyi və hissin itməsi yoxdur. Fiziki müayinənin qalan hissəsi heç bir anormallıq göstərmir. Başın kontrastlı və heç bir kontrast olmadan CT skan edilməsi heç bir anormallıq göstərmir. Aşağıdakılardan hansı bu dövrdə ən münasib farmakoterapiyadır?
+A.Karbamazepin
+B.Lamotrigine
+C.Levetiraketam
+D.Topiramate",A,"Based on the symptoms described, it appears that the patient is experiencing trigeminal neuralgia, a chronic pain condition that affects the trigeminal nerve. The symptoms include:
+
+* Intermittent, brief (less than 1 second) episodes of sharp, stabbing pain in the right side of the face and jaw
+* Pain triggered by cold air, eating, gentle stimulation, and brushing teeth
+* No history of trauma to the face or head
+* Normal vital signs and physical examination except for tenderness to touch on the right side of the face
+
+Given these symptoms, the most appropriate pharmacotherapy at this stage would be:
+
+A. Carbamazepine
+
+Carbamazepine is a first-line medication for trigeminal neuralgia, and it has been shown to be effective in reducing the frequency and severity of pain episodes. It works by stabilizing the neuronal membrane and reducing the excitability of the trigeminal nerve.
+
+The other options are not as suitable for this patient's condition:
+
+B. Lamotrigine is an anticonvulsant medication that is sometimes used off-label for trigeminal neuralgia, but it is not as effective as carbamazepine.
+
+C. Levetiracetam is an anticonvulsant medication that is not typically used for trigeminal neuralgia.
+
+D. Topiramate is an anticonvulsant medication that may be used for migraines, but it is not typically used for trigeminal neuralgia.
+
+It's worth noting that a thorough diagnosis should be made by a qualified healthcare professional, and other conditions should be ruled out before starting treatment.",A
+"Şəhərdə yeni tikilən otelin sahibi bir nəfər olub. Martın 15-də həmin şəxsə otel avadanlığının distribütoru olan satıcıdan telefon zəngi gəlib. Satıcı həmin şəxsə öz oteli üçün 1000 ədəd yanğın söndürən satmağı təklif edib. Satıcı kişiyə bildirib ki, yanğın söndürənlərin qiyməti 35 min dollar (və ya hər biri 35 dollar), çatdırılmadan 90 gün sonra ödənişli olacaq. Satıcı söz vermişdi ki, yanğın söndürənləri aprelin 15-dən gec olmayaraq quraşdırıb. Martın 16-da həmin şəxs satıcıya zəng edərək təklifi qəbul edib. Növbəti gün həmin adam satıcıya növbəti xatirəni yazdı: ""Xahiş edirəm, məsləhət görəsiniz ki, quraşdırmadan 7 gün sonra nağd ödəniş üçün 15 faiz endirim edim "". Satıcının yazışması martın 20-də alınıb. Aprelin 1-də satıcı kişiyə teleqram göndərərək bildirib: «Görünür, bizdə qüvvədə olan icbari müqavilə yoxdur. Aprelin 15-də və ya başqa bir vaxtda yanğın söndürənləri çatdırmağacəyəm. ""Kişi müqavilənin pozulmasına görə satıcıya qarşı kostyum gətirir. Satıcı UCC-nin tabeliyində olan fırıldaqçılıq haqqında qanundan müdafiə iddia edir. Aşağıdakılardan hansı satıcının müdafiəsi ilə bağlı ən doğru ifadədir?
+A.Satıcının müdafiəsi əsaslıdır, çünki həmin adamın xatirələrində müqavilənin formalaşdığı göstərilmək üçün kifayət deyildi.
+B.Satıcının müdafiəsi əsaslıdır, çünki həmin adamın xatirə dəftəri satıcının şifahi təklifinin şərtlərinə uyğun deyildi.
+C.Satışçının müdafiəsi əsaslı deyil, çünki satıcı müvafiq müddət ərzində kişinin xatirələrinə cavab verə bilmədi.
+D.Satıcının müdafiəsi qüvvədə deyil, çünki UCC-nin qanunlarına əsasən, fırıldaqçılıq qanunu tacirlər arasında bağlanan müqavilələrdə tətbiq edilmir.",A,"The correct answer is A. Satıcının müdafiəsi əsaslıdır, çünki həmin adamın xatirələrində müqavilənin formalaşdığı göstərilmək üçün kifayət deyildi.
+
+Here's why:
+
+In this scenario, the buyer (the person who owns the new hotel) and the seller (the distributor of fire extinguishers) had a verbal agreement on March 15, where the seller offered to sell 1000 fire extinguishers to the buyer at $35 each, with payment due 90 days after delivery. The buyer accepted the offer on March 16.
+
+However, on March 17, the buyer sent a letter to the seller requesting a 15% discount if they paid in cash within 7 days of delivery. This letter was received by the seller on March 20.
+
+On April 1, the seller sent a telegram to the buyer stating that they were not bound by any contract and would deliver the fire extinguishers on April 15 or at some other time.
+
+The buyer sued the seller for breach of contract. The seller defended themselves by claiming that there was no enforceable contract because the buyer's letter did not meet the requirements of a written contract under the Uniform Commercial Code (UCC).
+
+According to the UCC, a contract must be in writing and signed by the party against whom enforcement is sought. In this case, the buyer's letter did not constitute a written contract because it was not signed by the seller. Therefore, the seller's defense is valid, and option A is the correct answer.",A

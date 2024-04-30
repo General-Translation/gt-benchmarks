@@ -1,109 +1,122 @@
 Question,CorrectAnswer,GivenAnswer,Correct
-"Identifiqueu l'antecedent de la següent proposició condicional: Les Abelles guanyen la seva primera partida només si els Aardvarks o els Chipmunks no guanyen les seves primeres partides.
-A.Els Aardvarks no guanyen el seu primer partit.
-B.Les Abelles guanyen el seu primer partit.
-C.Els Chipmunks no guanyen el seu primer partit.
-D.O els Aardvarks o els Chipmunks no guanyen les seves primeres partides.",b,b.,true
-"En el pla xy, la gràfica de x^(log y) = y^log x és
-A.El primer quadrant obert
-B.una corba tancada
-C.Un raig al primer quadrant obert
-D.un sol punt",a,c,false
-"Quin d'aquests plats s'elabora amb intestins de porc?
-A.haggis
-B.Quitlins
-C.Grits
-D.picar suey",b,b.quitlins,true
-"Quin dels següents factors es consideraria un factor d'atracció per Riva a l'hora de considerar un trasllat de l'Índia als Estats Units?
-A.Pobresa abjecta
-B.Millor ocupació i salaris més alts
-C.El sistema de castes de l'Índia
-D.Violència al seu barri",b,b,true
-"És probable que la indefensió apresa estigui directament relacionada amb
-A.l'efecte Barnum.
-B.Biaix egoista.
-C.un locus extern de control.
-D.Consideració positiva incondicional.",c,c,true
-"Quina de les opcions següents té més probabilitats de produir un creixement econòmic més fort al llarg del temps?
-A.Consum més ràpid de recursos naturals.
-B.Majors taxes d'analfabetisme adult.
-C.Una caiguda de l'estoc de béns d'equipament.
-D.Deduccions fiscals per a inversions.",d,d.,true
-"Els estudiants estan realitzant un exercici de separació de pigments vegetals que requereix que utilitzin una cambra de cromatografia tancada amb una petita quantitat d'acetona al fons de la cambra. Les advertències de seguretat per a l'acetona inclouen la declaració que és un irritant ocular i de la pell i que té vapors inflamables. De les següents, quines precaucions de seguretat han de prendre els estudiants durant la realització de l'exercici?
-A.Posar-se guants ignífugs per portar la cambra a una campana de fums si l'acetona s'incendia
-B.Col·locació de la cambra en un armari tancat i enfosquit durant la durada de la separació del pigment
-C.Portar guants de cuir i cobrir-se nas i boca amb una màscara de partícules
-D.Portar ulleres i guants tipus nitril i mantenir tancats tots els envasos d'acetona",d,d,true
+"Quin és l'idioma oficial dels Països Baixos?
+A.Danès
+B.Suec
+C.Alemany
+D.Holandès",d,d.holandès,true
+"Quina és la llengua materna de l'actor Antonio Banderas?
+A.Espanyol
+B.Rus
+C.Alemany
+D.Francès",a,a. espanyol,true
+" Aquesta eina de màrqueting i comunicació ofereix un incentiu directe o un incentiu per animar els clients a comprar un producte/servei:
+A.Publicitat.
+B.Relacions públiques.
+C.Promoció de vendes.
+D.Màrqueting directe.",c,c.promoció de vendes.,true
+"En quin estat es troba el plató de la pel·lícula de 1999 Magnolia?
+A.Califòrnia
+B.Carolina del Sud
+C.Geòrgia
+D.Texas",a,a. califòrnia,true
 "Les empreses es dediquen a la comptabilitat social a causa de les demandes de _________, per tal d'identificar ________, millorar ___________ i fomentar _________ i ___________
 A.Grups d'interès, Riscos, Gestió de grups d'interès, Rendició de comptes, Transparència
 B.Grups d'interès, Rendició de comptes, Transparència, Riscos, Gestió de grups d'interès
 C.Parts interessades, Rendició de comptes, Riscos, Parts interessades, Gestió de grups d'interès
-D.Grups d'interès, gestió de grups d'interès, transparència, riscos, rendició de comptes",a,a,true
-"En un circuit en sèrie, si el corrent d'una làmpada és de 2 A, el corrent de la làmpada del costat és
-A.meitat, 1 A
-B.02:00
-C.Depèn de quina làmpada estigui més a prop de la bateria
-D.No hi ha prou informació per dir",b,a,false
-"L'energia alliberada de la descomposició dels fosfats d'alta energia, ATP i fosfocreatina, pot mantenir l'exercici d'esforç màxim durant aproximadament :
-A.1-2 segons.
-B.5-10 segons.
-C.30-40 segons.
-D.50-60 segons.",b,c.,false
+D.Grups d'interès, gestió de grups d'interès, transparència, riscos, rendició de comptes",a,"a. grups d'interès, riscos, gestió de grups d'interès, rendició de comptes, transparència",true
+"Quin d'aquests plats s'elabora amb intestins de porc?
+A.haggis
+B.Quitlins
+C.Grits
+D.picar suey",b,"el plat que s'elabora amb intestins de porc és el ""quitlins"" (també conegut com a ""chitterlings"" o ""chitlins""). aquest plat és típic de la cuina del sud dels estats units i consisteix en intestins de porc nets que són cuinats a foc lent.",true
 "L'autocorrelació residual negativa s'indica amb quina de les següents?
 A.Un patró cíclic en els residus
 B.Un patró altern en els residus
 C.Una aleatorietat completa en els residus
-D.Residus que són tots propers a zero",b,b.,true
-"Un programador va escriure el programa a continuació. El programa utilitza una llista de números anomenada numList. El programa està pensat per mostrar la suma dels números de la llista.
- suma ← numList [1]
- PER A CADA VALOR A NUMList
- Suma ← suma + valor
- MOSTRAR SUMA
- Per tal de provar el programa, el programador inicialitza numList a [0 , 1 , 4 , 5]. El programa mostra 10, i el programador conclou que el programa funciona com es pretén. Quina de les següents coses és certa?
-A.La conclusió és correcta; El programa funciona com es pretén.
-B.La conclusió és incorrecta; El programa no mostra el valor correcte per al cas de prova [0, 1, 4, 5].
-C.La conclusió és incorrecta; L'ús del cas de prova [0, 1, 4, 5] no és suficient per concloure que el programa és correcte.
-D.La conclusió és incorrecta; L'ús del cas de prova [0, 1, 4, 5] només confirma que el programa funciona per a llistes en ordre creixent.",c,b,false
-"Què és un atac de repetició?
-A.Quan l'atacant respon a un missatge que li ha enviat el sistema
-B.Un atac que es repeteix contínuament, sondejant una debilitat
-C.Un atac que utilitza els propis missatges del sistema i, per tant, no es pot defensar
-D.L'atacant reenvia un missatge capturat i el lloc accepta el seu i respon a favor de l'atacant",d,d.,true
-"Trobeu la longitud de la corba y = ln x entre els punts on y = 1/2 i y = 1.
-A.0.53
-B.0.86
-C.1.18
-D.1.36",c,b.0.86,false
-"Per què Parfit s'oposa a la igualtat?
-A.Argumenta que una societat desigual és inevitable.
-B.Afirma que donant prioritat a les necessitats dels pobres, podem augmentar la igualtat.
-C.Afirma que cadascú som responsables de la nostra pobresa.
-D.Rebutja del tot la idea d'igualtat.",b,b.,true
-"La validació creuada de K-fold és
-A.lineal en K
-B.quadràtic en K
-C.cúbic en K
-D.exponencial en K",a,a.lineal en k,true
-"L'economia està en una profunda recessió. En aquest context econòmic, quina de les afirmacions següents sobre política monetària és encertada?
-A.La política expansiva no faria més que empitjorar la recessió.
-B.La política expansiva augmenta molt la demanda agregada si la inversió és sensible a canvis en el tipus d'interès.
-C.La política contractiva és l'estímul adequat per a la inversió i per al consum.
-D.Si la demanda de diners és perfectament elàstica, la política monetària expansiva pot ser força efectiva.",b,b.,true
-"Quin dels següents conjunts de cadenes de bits NO es pot descriure amb una expressió regular?
-A.Totes les cadenes de bits el nombre de zeros de les quals és múltiple de cinc
-B.Totes les cadenes de bits que comencen amb un zero i acaben amb un
-C.Totes les cadenes de bits amb un nombre parell de zeros
-D.Totes les cadenes de bits amb més d'uns que zeros",d,c.,false
+D.Residus que són tots propers a zero",b,"l'autocorrelació residual negativa es refereix a una situació on els residus d'un model estadístic mostren una tendència a alternar-se entre valors positius i negatius. això significa que un residu positiu tendeix a ser seguit per un residu negatiu i viceversa. aquesta característica s'indica amb:
+
+b. un patró altern en els residus
+
+aquest patró altern indica que hi ha una correlació negativa entre residus consecutius.",true
 "La tensió induïda en un inductor es representa com,
 A.producte de la seva inductància i corrent a través d'ella.
 B.relació entre la seva inductància i el corrent a través d'ella.
 C.relació del corrent a través d'ell amb la seva inductància.
-D.producte de la seva inductància i velocitat de canvi de corrent a través d'ella.",d,d.,true
+D.producte de la seva inductància i velocitat de canvi de corrent a través d'ella.",d,"la resposta correcta és:
+d. producte de la seva inductància i velocitat de canvi de corrent a través d'ella.
+
+això es basa en la llei de faraday de la inducció electromagnètica, que diu que la tensió induïda en un inductor és igual al producte de la inductància de l'inductor (l) i la taxa de canvi del corrent que passa a través d'ell (di/dt). matemàticament, això es pot expressar com \( v = l \frac{di}{dt} \).",true
 "En comparació amb els partits polítics de països com Anglaterra i Israel, que tenen sistemes multipartidistes, els partits polítics nord-americans són
 A.menys interessat a influir en el resultat de les eleccions
 B.menys clarament identificat amb ideologies polítiques consistents
 C.menys eficaç per recaptar diners dels partidaris polítics
-D.més capaç de reflectir els objectius de tota la seva circumscripció",b,b.,true
+D.més capaç de reflectir els objectius de tota la seva circumscripció",b,"la resposta correcta és:
+b. menys clarament identificat amb ideologies polítiques consistents
+
+en els estats units, els dos grans partits polítics (demòcrates i republicans) abasten un ampli espectre d'ideologies, cosa que pot fer que les seves plataformes semblin menys clarament definides en comparació amb els partits en sistemes multipartidistes com els d'anglaterra i israel. en aquests últims, els partits sovint representen ideologies més específiques, permetent als votants triar entre una varietat més àmplia d'opcions clarament diferenciades.",true
+"Què és un atac de repetició?
+A.Quan l'atacant respon a un missatge que li ha enviat el sistema
+B.Un atac que es repeteix contínuament, sondejant una debilitat
+C.Un atac que utilitza els propis missatges del sistema i, per tant, no es pot defensar
+D.L'atacant reenvia un missatge capturat i el lloc accepta el seu i respon a favor de l'atacant",d,"d. l'atacant reenvia un missatge capturat i el lloc accepta el seu i respon a favor de l'atacant
+
+aquesta opció descriu correctament un atac de repetició, on un atacant intercepta un missatge vàlid i el reenvia al sistema per aconseguir un efecte no autoritzat, com si fos un usuari legítim.",true
+"Quins dels següents països van emetre més CO2 per càpita el 2017?
+A.El Japó
+B.Canadà
+C.Rússia
+D.L'Iran",b,"el 2017, entre els països llistats, canadà va emetre més co2 per càpita. canadà és conegut per tenir emissions elevades per càpita a causa de la seva economia intensiva en recursos, incloent la indústria del petroli i el gas, així com el seu clima fred que incrementa la demanda d'energia per calefacció. en comparació, japó, rússia i l'iran tenen emissions per càpita més baixes, tot i que també són grans emissors de co2 en termes absoluts.",true
+"En un circuit en sèrie, si el corrent d'una làmpada és de 2 A, el corrent de la làmpada del costat és
+A.meitat, 1 A
+B.02:00
+C.Depèn de quina làmpada estigui més a prop de la bateria
+D.No hi ha prou informació per dir",b,"en un circuit en sèrie, el corrent que flueix a través de cada component del circuit és el mateix en tots els punts. això significa que si una làmpada té un corrent de 2 a, totes les altres làmpades o components connectats en sèrie amb aquesta també tindran un corrent de 2 a. per tant, la resposta correcta és:
+
+b. 2 a
+
+aquesta resposta assumeix que totes les làmpades estan connectades en un circuit purament en sèrie sense cap branca addicional o configuració paral·lela que podria afectar el corrent en cada component.",true
+"Quin dels següents factors es consideraria un factor d'atracció per Riva a l'hora de considerar un trasllat de l'Índia als Estats Units?
+A.Pobresa abjecta
+B.Millor ocupació i salaris més alts
+C.El sistema de castes de l'Índia
+D.Violència al seu barri",b,"b. millor ocupació i salaris més alts
+
+aquest factor es considera un factor d'atracció perquè representa una millora en les condicions de vida i les oportunitats econòmiques, cosa que pot motivar a una persona a traslladar-se d'un país a un altre.",true
+"Els adults de mitjana edat semblen ser més ____ que els adults grans o joves
+A.Generatiu
+B.Neuròtics
+C.Agradable
+D.Segur",a,"a. generatiu
+
+aquesta opció és la més adequada en el context del desenvolupament psicosocial segons erik erikson. erikson va proposar que els adults de mitjana edat (aproximadament de 40 a 65 anys) es troben en l'etapa de ""generativitat vs. estancament"". en aquesta etapa, els adults tendeixen a preocupar-se per formar i guiar la generació següent, mostrant un comportament més generatiu. això implica un enfocament en la cura dels altres i la contribució a la societat, més que en l'autoabsorció o l'estancament personal.",true
+"Un pacient pateix una fractura de coll amb danys a la medul·la espinal a nivell de la sisena vèrtebra cervical.
+A.Seran incapaços de respirar sense suport vital.
+B.Només podran respirar tranquil·lament.
+C.És impossible predir un efecte sobre la respiració.
+D.La respiració no es veurà afectada.",b,"a. seran incapaços de respirar sense suport vital.
+
+les lesions a la medul·la espinal a nivell de la sisena vèrtebra cervical (c6) poden afectar significativament la capacitat d'una persona per respirar. aquest nivell d'afectació pot comprometre els músculs que ajuden en la respiració, com els músculs intercostals i possiblement el diafragma. això pot fer que el pacient depengui de suport vital per respirar, especialment en les fases inicials post-lesió. la gravetat de l'afectació respiratòria pot variar depenent de l'extensió del dany a la medul·la espinal.",false
+"Quina perspectiva psicològica va ser més popular al tombant del segle XX a Europa occidental?
+A.Neurociència
+B.evolutiu
+C.Conductista
+D.Psicoanalítica",d,"d.psicoanalítica
+
+al tombant del segle xx, la perspectiva psicoanalítica, desenvolupada per sigmund freud, era particularment influent a europa occidental. freud va introduir conceptes com l'inconscient, els mecanismes de defensa, i la importància dels somnis, que van captivar l'interès del públic i dels professionals de la salut mental. la seva teoria va tenir un impacte profund en la psicologia, la literatura, l'art, i la cultura en general durant aquest període.",true
+"Un tanc té forma de prisma triangular. Si la base triangular té una superfície de 116 peus quadrats i el dipòsit té 30 peus d'alçada, quanta aigua contindria el dipòsit quan estigui ple?
+A.1725 peus^3
+B.1740 peus^3
+C.3480 peus ^3
+D.6960 peus^3",c,"per calcular el volum d'un prisma, utilitzem la fórmula:
+
+\[ \text{volum} = \text{àrea de la base} \times \text{alçada} \]
+
+en aquest cas, l'àrea de la base del prisma triangular és de 116 peus quadrats i l'alçada del prisma és de 30 peus. substituint aquests valors a la fórmula, obtenim:
+
+\[ \text{volum} = 116 \text{ peus}^2 \times 30 \text{ peus} = 3480 \text{ peus}^3 \]
+
+així que la resposta correcta és:
+c. 3480 peus^3",true
 "Aquesta pregunta fa referència a la informació següent.
 En primer lloc hem de remarcar que el cosmos té forma esfèrica, en part perquè aquesta forma en ser un tot perfecte que no requereix articulacions, és la més completa de totes, en part perquè fa la forma més àmplia, la més adequada per contenir-ho i conservar-ho tot; o de nou perquè totes les parts constitutives de l'univers, és a dir, el sol, la lluna i els planetes apareixen d'aquesta forma; o perquè tot s'esforça per assolir aquesta forma, com apareix en el cas de les gotes d'aigua i altres cossos fluids si intenten definir-se. Per tant, ningú dubtarà que aquesta forma pertany als cossos celestes. ...
 Que la terra també és esfèrica és, per tant, inqüestionable, perquè pressiona per tots els costats sobre el seu centre. Tot i que per raó de les elevacions de les muntanyes i les depressions de les valls no es pot entendre un cercle perfecte, això no afecta la naturalesa esfèrica general de la terra. ...
@@ -113,102 +126,234 @@ El passatge es pot utilitzar com a prova que Copèrnic es diferenciava dels fil�
 A.El cosmos és esfèric
 B.la Terra és esfèrica
 C.El cosmos és geostàtic
-D.la Terra no és estacionària",d,d.,true
-"El fet que la freqüència d'absorció infraroja del clorur de deuteri (DCl) es desplaci de la del clorur d'hidrogen (HCl) es deu a les diferències en la seva
-A.Distribució d'electrons
-B.Moment dipolar
-C.constant de força
-D.Massa reduïda",d,d.,true
-" Aquesta eina de màrqueting i comunicació ofereix un incentiu directe o un incentiu per animar els clients a comprar un producte/servei:
-A.Publicitat.
-B.Relacions públiques.
-C.Promoció de vendes.
-D.Màrqueting directe.",c,c,true
-"Quin d'aquests fa que la determinació de la relació evolutiva de diferents espècies basada en la seqüència d'aminoàcids de proteïnes homòlogues generalment sigui menys precisa que les determinacions de relació basades en les seqüències de nucleòtids de gens homòlegs?
-A.Mutacions silencioses
-B.Duplicacions gèniques
-C.Esdeveniments de translocació que canvien les seqüències gèniques
-D.Encreuament",a,a.mutacions silencioses,true
-"Determineu la concentració d'H+(aq) en solució de fenol 1,0 M, C6H5OH. (El Ka per al fenol és 1 × 10^-10.)
-A.1 × 10^-10 M
-B.1 × 10^-9 M
-C.1 × 10^-3 M
-D.1 × 10^-5 M",d,b.1 × 10^-9 m,false
-"Quina perspectiva psicològica va ser més popular al tombant del segle XX a Europa occidental?
-A.Neurociència
-B.evolutiu
-C.Conductista
-D.Psicoanalítica",d,d.psicoanalítica,true
-"Els adults de mitjana edat semblen ser més ____ que els adults grans o joves
-A.Generatiu
-B.Neuròtics
-C.Agradable
-D.Segur",a,a.generatiu,true
-"L'eficiència quàntica d'un detector de fotons és 0,1. Si s'envien 100 fotons al detector, un darrere l'altre, el detector detectarà fotons
-A.una mitjana de 10 vegades, amb una desviació RMS d'aproximadament 4
-B.una mitjana de 10 vegades, amb una desviació RMS d'aproximadament 3
-C.una mitjana de 10 vegades, amb una desviació RMS d'aproximadament 1
-D.una mitjana de 10 vegades, amb una desviació RMS d'aproximadament 0,1",b,a.,false
-"Quina és la llengua materna de l'actor Antonio Banderas?
-A.Espanyol
-B.Rus
-C.Alemany
-D.Francès",a,a.espanyol,true
-"Enunciat 1 | En un grup (ab)^{-2} = b^{-2}a^{-2}. Enunciat 2 | En un grup (ab)^n = a^nb^n.
-A.Cert, cert
-B.Fals, Fals
-C.Cert, Fals
-D.Fals, Cert",b,"c.cert, fals",true
-"Un tanc té forma de prisma triangular. Si la base triangular té una superfície de 116 peus quadrats i el dipòsit té 30 peus d'alçada, quanta aigua contindria el dipòsit quan estigui ple?
-A.1725 peus^3
-B.1740 peus^3
-C.3480 peus ^3
-D.6960 peus^3",c,c. 3480 peus^3,true
-"La fal·làcia de la personalitat laudatòria és un tipus específic de
-A.La fal·làcia de l'accident
-B.Fals dilema
-C.Demanant la pregunta
-D.Raonament circular",a,a.la fal·làcia de l'accident,true
-"En quin estat es troba el plató de la pel·lícula de 1999 Magnolia?
-A.Califòrnia
-B.Carolina del Sud
-C.Geòrgia
-D.Texas",a,a.califòrnia,true
-"Les mutacions que causen acondroplàsia exerceixen un efecte que es pot classificar en:
-A.dominant negatiu.
-B.guany de funció.
-C.haploinsuficiència.
-D.pèrdua de funció.",b,b.guany de funció.,true
-"Quines de les següents característiques són generalment consistents amb la violació de cites?
-A.Ús excessiu de la força
-B.premeditat
-C.Motivació sexual
-D.implica l'ús d'una arma",c,c. motivació sexual,true
-"La investigació de Garcia i Koelling sobre les aversions apreses va establir que quins dels següents parells UCS i CS són els més poderosos i apresos més ràpidament?
-A.Realitzar una tasca i rebre una recompensa alimentària
-B.nàusees i menjar o beguda
-C.Moviment i xoc
-D.Càstigs i recompenses",b,b. nàusees i menjar o beguda,true
+D.la Terra no és estacionària",d,"la resposta correcta és d. la terra no és estacionària.
+
+en el passatge, nicolau copèrnic qüestiona la visió tradicional aristotèlica i ptolemaica que la terra està estacionària al centre de l'univers. copèrnic planteja la possibilitat que la terra pugui estar en moviment, girant d'oest a est, i que això podria explicar les observacions del moviment aparent del sol, la lluna i les estrelles. aquesta idea marca una diferència significativa respecte als filòsofs naturals tradicionals del seu temps, que consideraven que la terra era el centre immòbil de l'univers.",true
 "Quina d'aquestes pel·lícules de terror va generar més seqüeles?
 A.Cridar'
 B.Mandíbules'
 C.Halloween'
-D.Divendres 13'",d,c.halloween',false
-"Un pacient pateix una fractura de coll amb danys a la medul·la espinal a nivell de la sisena vèrtebra cervical.
-A.Seran incapaços de respirar sense suport vital.
-B.Només podran respirar tranquil·lament.
-C.És impossible predir un efecte sobre la respiració.
-D.La respiració no es veurà afectada.",b,a.,false
-"Viatjant a una velocitat inicial d'1,5 × 10^6 m/s, un protó entra en una regió de camp magnètic constant de magnitud 1,5 T. Si el vector velocitat inicial del protó fa un angle de 30° amb el camp magnètic, calculeu la velocitat del protó 4 s després d'entrar al camp magnètic.
-A.5,0 × 10^6 m/s
-B.7,5 × 10^6 m/s
-C.1,5 × 10^6 m/s
-D.3,0 × 10^6 m/s",c,"c.1,5 × 10^6 m/s",true
+D.Divendres 13'",d,"la pel·lícula de terror que ha generat més seqüeles entre les opcions que has donat és 'halloween'. la saga de 'halloween' va començar amb la pel·lícula original de 1978 dirigida per john carpenter. des de llavors, ha tingut nombroses seqüeles, remakes i fins i tot una continuació directa que ignora les altres seqüeles. fins a la data de tall de coneixements en 2023, 'halloween' ha tingut més de 10 pel·lícules en la seva franquícia.",false
+"Quin és el terme fins a quin punt la competència en un país està influenciada per la competència en altres països?
+A.Comerç internacional
+B.Economia global
+C.Competència global
+D.Globalització",d,"la resposta correcta és d. globalització. la globalització és el procés pel qual les empreses o altres organitzacions desenvolupen influència internacional o comencen a operar a escala internacional. això implica no només el comerç i l'economia, sinó també la cultura, la tecnologia i la política. la globalització ha fet que les economies i les empreses estiguin més interconnectades i que la competència en un país estigui influenciada per la competència en altres països a través de factors com el comerç internacional, la inversió estrangera directa, la transferència de tecnologia, entre altres.",true
+"Part de l'aigua de Mart està congelada al sòl i als casquets polars i una altra es va perdre a causa de l'extracció del vent solar, però es creu que gran part de l'aigua original es va perdre a través d'un altre mecanisme. Què ha passat amb aquesta aigua ""perduda""?
+A.Va ser despullat pel camp magnètic quan va disminuir ràpidament de força
+B.Es va trencar en hidrogen i oxigen per llum ultraviolada i l'hidrogen es va perdre per fuita tèrmica
+C.era consumida per una civilització de marcians assedegats
+D.Es va vaporitzar durant un període d'intens vulcanisme i es va perdre a l'espai a través de la fuita tèrmica",b,"la resposta correcta és b: es va trencar en hidrogen i oxigen per llum ultraviolada i l'hidrogen es va perdre per fuita tèrmica.
+
+aquest procés es coneix com a fotodissociació, on la radiació ultraviolada del sol trenca les molècules d'aigua (h2o) en hidrogen (h2) i oxigen (o2). l'hidrogen, essent lleuger, pot escapar-se fàcilment de la gravetat de mart i perdre's a l'espai, mentre que l'oxigen, més pesant, sovint queda retingut a l'atmosfera o reacciona amb altres elements a la superfície del planeta. aquest mecanisme ha jugat un paper clau en la pèrdua d'aigua de mart al llarg del temps.",true
 "És més probable que un impost imposat a un proveïdor es repercuteixi al consumidor en forma d'augment de preus si
 A.L'elasticitat preu de la demanda és molt elàstica.
 B.L'elasticitat preu de la demanda és molt inelàstica.
 C.L'elasticitat preu de la demanda és elàstica unitària.
-D.L'elasticitat salarial de la demanda és molt elàstica.",b,b,true
+D.L'elasticitat salarial de la demanda és molt elàstica.",b,"la resposta correcta és:
+b. l'elasticitat preu de la demanda és molt inelàstica.
+
+explicació:
+quan l'elasticitat preu de la demanda és molt inelàstica, significa que els consumidors continuen comprant gairebé la mateixa quantitat d'un producte malgrat els increments de preu. això es deu al fet que no tenen fàcils substituts disponibles o el producte és essencial per a ells. en aquest escenari, si un impost és imposat al proveïdor, és més probable que el proveïdor pugui traslladar aquest cost addicional als consumidors en forma d'augment de preus, ja que la demanda del producte no disminuirà significativament amb l'augment del preu.",true
+"Find $-\dfrac{1}{-3}\cdot\cfrac{1}{~\frac{1}{-3}~}.$
+A.1
+B.-1
+C.0
+D.2",b,"first, simplify the expression inside the multiplication:
+
+\[
+-\frac{1}{-3} \cdot \frac{1}{\frac{1}{-3}}
+\]
+
+we start by simplifying \(-\frac{1}{-3}\). since the negatives cancel out, this simplifies to:
+
+\[
+\frac{1}{3}
+\]
+
+next, consider the term \(\frac{1}{\frac{1}{-3}}\). this can be rewritten as the reciprocal of \(\frac{1}{-3}\), which is \(-3\).
+
+now, substitute these simplified values back into the original expression:
+
+\[
+\frac{1}{3} \cdot (-3)
+\]
+
+multiply the two values:
+
+\[
+\frac{1}{3} \cdot (-3) = \frac{1 \cdot (-3)}{3} = \frac{-3}{3} = -1
+\]
+
+thus, the value of the expression is \(\boxed{-1}\).",true
+"Identifiqueu l'antecedent de la següent proposició condicional: Les Abelles guanyen la seva primera partida només si els Aardvarks o els Chipmunks no guanyen les seves primeres partides.
+A.Els Aardvarks no guanyen el seu primer partit.
+B.Les Abelles guanyen el seu primer partit.
+C.Els Chipmunks no guanyen el seu primer partit.
+D.O els Aardvarks o els Chipmunks no guanyen les seves primeres partides.",b,"en una proposició condicional del tipus ""p només si q"", ""p"" és l'antecedent i ""q"" és el conseqüent. això significa que si es compleix ""p"", llavors necessàriament ha de complir-se ""q"".
+
+en la proposició que has donat: ""les abelles guanyen la seva primera partida només si els aardvarks o els chipmunks no guanyen les seves primeres partides"", l'antecedent és ""les abelles guanyen la seva primera partida"". això és perquè aquesta és la condició que, si es compleix, llavors necessàriament ha de complir-se que ""els aardvarks o els chipmunks no guanyen les seves primeres partides"".
+
+per tant, l'antecedent de la proposició és:
+b. les abelles guanyen el seu primer partit.",true
+"Aquesta pregunta fa referència a la informació següent.
+""De fet, com que tant les fàtues de distingits [erudits] que basen la seva opinió en la raó i la tradició per igual com en el consens de la comunitat sunnita estan d'acord que l'antiga obligació d'extirpació, extermini i expulsió de la innovació maligna ha de ser l'objectiu de la nostra aspiració exaltada, perquè ""el zel religiós és una victòria de la fe de Déu benèfic""; després, d'acord amb les paraules del Profeta (Pau sobre ell!) ""Qui introdueixi la innovació maligna en el nostre ordre ha de ser expulsat"" i ""Qui faci contra el nostre ordre ha de ser expulsat"", l'acció s'ha tornat necessària i exigent...""
+Carta del sultà otomà Selim I al xa safàvida Ismail I, 1514
+Els safàvides van provocar la ira dels imperis islàmics com l'otomà i el mogol, principalment perquè els safàvides
+A.eren un imperi expansionista situat geogràficament entre altres dos expansionistes
+B.va rebutjar els principis centrals de l'islam
+C.va esclavitzar els cristians i els va convertir en combatents safàvides
+D.Ismaïl es va proclamar califa",a,"la resposta correcta és:
+a. eren un imperi expansionista situat geogràficament entre altres dos expansionistes
+
+els safàvides, situats entre els imperis otomà i mogol, van provocar tensions a causa de la seva expansió territorial i la seva posició estratègica. a més, les diferències sectàries, ja que els safàvides promovien el xiisme, mentre que els otomans i els mogols eren predominantment sunnites, també van contribuir a les tensions. la carta de selim i reflecteix aquesta confrontació ideològica i territorial.",true
+"Aquesta pregunta fa referència a la informació següent.
+""Les llavors dels règims totalitaris es nodreixen de la misèria i el desig. S'estenen i creixen en el sòl maligne de la pobresa i les lluites. Arriben al seu ple creixement quan ha mort l'esperança d'un poble per a una vida millor. Hem de mantenir viva aquesta esperança. El ràpid moviment dels esdeveniments ens ha imposat grans responsabilitats. Confio que el Congrés afrontarà aquestes responsabilitats directament"".
+El president Harry S. Truman, 1947
+Les idees expressades en el passatge anterior reflecteixen més directament quina de les següents continuïtats en la història dels Estats Units?
+A.Debats sobre la relació entre el Congrés i el president.
+B.Debats sobre l'ús de la força militar en situacions volàtils.
+C.Debats sobre el paper dels Estats Units en els assumptes mundials.
+D.Debats sobre el bon paper dels partits polítics.",c,"el passatge citat del president harry s. truman, pronunciat el 1947, reflecteix les preocupacions i les polítiques dels estats units en el context de la postguerra i l'inici de la guerra freda. truman parla sobre la necessitat de mantenir l'esperança i d'evitar les condicions que poden fomentar règims totalitaris, cosa que suggereix una preocupació per la estabilitat global i el desenvolupament de les nacions després de la segona guerra mundial.
+
+aquestes idees s'alignen més estretament amb els debats sobre el paper dels estats units en els assumptes mundials (opció c). en aquest període, els estats units van començar a adoptar un rol més actiu en la política internacional, especialment en termes de contenció del comunisme i suport a les nacions que es recuperaven de la guerra, com es reflecteix en el pla marshall i la doctrina truman. aquestes polítiques i discursos reflecteixen una continuïtat en la història dels estats units respecte al seu compromís amb el lideratge global i la influència en els assumptes internacionals.",true
+"L'homicidi il·legítim comès pel ministre del país X a l'estranger és un acte jure imperii o jure gestionis?
+A.Aquesta conducta és un acte públic (jure imperii)
+B.Aquesta conducta mai atrau immunitat
+C.Aquesta conducta és un acte privat (jure gestionis)
+D.Aquesta conducta és un acte públic, però està blindada per la immunitat",c,"l'acte descrit, l'homicidi il·legítim comès per un ministre, no es considera un acte realitzat en l'exercici de funcions oficials o públiques (jure imperii), ja que no forma part de les funcions legítimes o oficials que un ministre hauria de realitzar. aquest tipus d'acte seria considerat un acte privat (jure gestionis), ja que és una acció personal que no està relacionada amb les responsabilitats oficials del càrrec.
+
+a més, els actes il·legítims o criminals realitzats per funcionaris no estan protegits per la immunitat de jurisdicció, ja que la immunitat està destinada a protegir les funcions legítimes de l'estat, no a permetre la impunitat per delictes personals o actes il·legítims.
+
+per tant, la resposta correcta és:
+c. aquesta conducta és un acte privat (jure gestionis).",true
+"Quin d'aquests fa que la determinació de la relació evolutiva de diferents espècies basada en la seqüència d'aminoàcids de proteïnes homòlogues generalment sigui menys precisa que les determinacions de relació basades en les seqüències de nucleòtids de gens homòlegs?
+A.Mutacions silencioses
+B.Duplicacions gèniques
+C.Esdeveniments de translocació que canvien les seqüències gèniques
+D.Encreuament",a,"a. mutacions silencioses
+
+les mutacions silencioses són canvis en la seqüència de nucleòtids d'un gen que no alteren la seqüència d'aminoàcids de la proteïna codificada a causa de la degeneració del codi genètic (on diversos codons poden codificar el mateix aminoàcid). aquest tipus de mutacions no es reflecteixen en les seqüències d'aminoàcids de les proteïnes, però sí que es poden observar en les seqüències de nucleòtids. això significa que l'anàlisi basada en seqüències de nucleòtids pot revelar diferències evolutives que no són evidents quan només s'analitzen les seqüències d'aminoàcids. per tant, les mutacions silencioses poden fer que la determinació de la relació evolutiva basada en proteïnes sigui menys precisa que aquella basada en seqüències de nucleòtids.",true
+"Quina de les opcions següents té més probabilitats de produir un creixement econòmic més fort al llarg del temps?
+A.Consum més ràpid de recursos naturals.
+B.Majors taxes d'analfabetisme adult.
+C.Una caiguda de l'estoc de béns d'equipament.
+D.Deduccions fiscals per a inversions.",d,"l'opció d, ""deduccions fiscals per a inversions"", té més probabilitats de produir un creixement econòmic més fort al llarg del temps. aquesta opció incentiva les empreses i els inversors a invertir més en activitats productives, com la compra de maquinària nova, la millora de les infraestructures o la inversió en recerca i desenvolupament. aquests tipus d'inversions poden augmentar la productivitat, la innovació i, en última instància, el creixement econòmic.
+
+les altres opcions, com el consum més ràpid de recursos naturals (a), majors taxes d'analfabetisme adult (b), i una caiguda de l'estoc de béns d'equipament (c), tendeixen a tenir efectes negatius sobre el creixement econòmic. el consum ràpid de recursos naturals pot portar a la degradació ambiental i a la insostenibilitat a llarg termini. l'analfabetisme limita les capacitats de la força laboral i redueix la productivitat. finalment, una caiguda de l'estoc de béns d'equipament indica una reducció en la capacitat productiva de l'economia, la qual cosa també pot frenar el creixement econòmic.",true
+"Les mutacions que causen acondroplàsia exerceixen un efecte que es pot classificar en:
+A.dominant negatiu.
+B.guany de funció.
+C.haploinsuficiència.
+D.pèrdua de funció.",b,"l'acondroplàsia és causada per mutacions en el gen fgfr3, que codifica per un receptor del factor de creixement de fibroblasts tipus 3. les mutacions més comunes associades amb l'acondroplàsia resulten en una forma alterada del receptor que és constitutivament activa, és a dir, el receptor està activat sense la necessitat de lligar-se al seu lligand natural.
+
+aquest tipus de mutació és un exemple de **guany de funció**, ja que el receptor mutat té una nova funció o una funció augmentada en comparació amb el receptor normal. a més, aquestes mutacions són dominants; una sola còpia del gen mutat és suficient per causar la malaltia. això significa que l'efecte de la mutació no és degut a la pèrdua de la funció normal del gen, sinó a l'addició d'una nova funció patològica.
+
+per tant, la resposta correcta és:
+b. guany de funció.",true
+"Un nombre, arrodonit al miler més proper, és de 47.000. Quin número podria ser el número que es va arrodonir?
+A.46,295
+B.46,504
+C.47,520
+D.47,924",b,"per arrodonir un número al miler més proper, mirem les centenes del número. si el número en la posició de les centenes és 500 o més, s'arrodonirà al miler superior. si és menor que 500, s'arrodonirà al miler inferior.
+
+anem a analitzar les opcions:
+
+a. 46,295 - les centenes són 200, que és menor que 500, així que s'arrodoniria a 46,000.
+b. 46,504 - les centenes són 500, que és igual a 500, així que s'arrodoniria a 47,000.
+c. 47,520 - les centenes són 500, que és igual a 500, així que s'arrodoniria a 48,000.
+d. 47,924 - les centenes són 900, que és més que 500, així que s'arrodoniria a 48,000.
+
+l'única opció que s'arrodoniria a 47,000 és la b. 46,504.",true
+"La investigació de Garcia i Koelling sobre les aversions apreses va establir que quins dels següents parells UCS i CS són els més poderosos i apresos més ràpidament?
+A.Realitzar una tasca i rebre una recompensa alimentària
+B.nàusees i menjar o beguda
+C.Moviment i xoc
+D.Càstigs i recompenses",b,"la investigació de garcia i koelling sobre les aversions apreses, coneguda com l'experiment de garcia i koelling (1966), va demostrar que alguns parells d'estímuls condicionats (cs) i incondicionats (ucs) són apresos més ràpidament que altres, especialment quan tenen una relació ecològica o biològica plausible. en aquest estudi, es va descobrir que els animals, com ara rates, aprenen a associar certes cues sensorials amb malestar gastrointestinal de manera molt més eficaç que amb altres tipus de cues.
+
+la resposta correcta a la teva pregunta és:
+b. nàusees i menjar o beguda
+
+aquesta combinació mostra una relació molt forta en l'aprenentatge d'aversiones condicionades, ja que els animals (i els humans) estan biològicament programats per evitar aliments o begudes que podrien ser perjudicials per a la seva salut, especialment si aquests han causat malestar previ. això és un exemple de com els mecanismes d'aprenentatge estan influenciats per la relevància adaptativa dels estímuls involucrats.",true
+"La fal·làcia de la personalitat laudatòria és un tipus específic de
+A.La fal·làcia de l'accident
+B.Fals dilema
+C.Demanant la pregunta
+D.Raonament circular",a,"la fal·làcia de la personalitat laudatòria no és un terme estàndard en l'estudi de les fal·làcies lògiques, per tant, no es pot classificar directament sota les opcions donades: fal·làcia de l'accident, fals dilema, demanant la pregunta, o raonament circular. 
+
+no obstant això, si ens referim a una fal·làcia que implica l'elogi excessiu o no justificat d'una persona com a base per acceptar la seva argumentació, això podria ser més proper a una ""fal·làcia ad hominem"" (en el sentit positiu, també coneguda com a ""fal·làcia ad verecundiam"" quan es refereix a l'autoritat) o una ""fal·làcia de l'irrellevància"". aquestes fal·làcies desvien l'atenció de l'argument real cap a les qualitats (reals o percebudes) de la persona que argumenta.
+
+per tant, cap de les opcions a, b, c, o d descriu directament aquesta situació, però la resposta més propera podria ser una forma de ""fal·làcia ad hominem"" si es considera que l'elogi és una forma d'apel·lar a la persona més que al seu argument.",false
+"L'energia alliberada de la descomposició dels fosfats d'alta energia, ATP i fosfocreatina, pot mantenir l'exercici d'esforç màxim durant aproximadament :
+A.1-2 segons.
+B.5-10 segons.
+C.30-40 segons.
+D.50-60 segons.",b,"l'energia alliberada de la descomposició dels fosfats d'alta energia, com l'atp (adenosina trifosfat) i la fosfocreatina, és crucial per a l'exercici d'esforç màxim, però només pot mantenir aquest nivell d'activitat durant un període curt de temps. l'atp és la principal font d'energia per a les contraccions musculars i altres processos cel·lulars, però les reserves d'atp en els músculs són limitades.
+
+la fosfocreatina, per la seva banda, actua com a reserva d'energia ràpida per regenerar l'atp. durant l'exercici d'intensitat màxima, com ara sprints curts o levantaments de pes explosius, aquest sistema d'energia (anomenat sistema fosfàgen) és predominant.
+
+la durada que aquest sistema pot suportar l'exercici d'esforç màxim és típicament de:
+c. 30-40 segons.
+
+aquesta és la resposta més acurada, ja que permet als atletes realitzar esforços màxims en activitats de curta durada com sprints curts, salts o moviments explosius en esports. després d'aquest temps, el cos comença a utilitzar altres vies metabòliques per produir energia, com la glucòlisi anaeròbica.",true
+"És probable que la indefensió apresa estigui directament relacionada amb
+A.l'efecte Barnum.
+B.Biaix egoista.
+C.un locus extern de control.
+D.Consideració positiva incondicional.",c,"la resposta correcta és:
+
+c. un locus extern de control.
+
+la indefensió apresa és un fenomen psicològic on un individu aprèn a creure que no té control sobre la situació en la qual es troba, independentment de si aquesta percepció és verídica o no. aquesta condició es desenvolupa després d'experiències repetides en les quals l'individu sent que els seus esforços no tenen efecte sobre els resultats, portant-lo a actuar passivament davant futures situacions, encara que puguin ser controlables.
+
+un ""locus extern de control"" es refereix a la creença que els esdeveniments de la vida d'una persona són majoritàriament controlats per forces externes a ell mateix, com el destí, la sort, o les accions d'altres persones. això està directament relacionat amb la indefensió apresa, ja que ambdues nocions impliquen una percepció de falta de control sobre els resultats de les pròpies accions.
+
+les altres opcions no estan directament relacionades amb la indefensió apresa:
+a. l'efecte barnum es refereix a la tendència de les persones a acceptar descripcions vagues i generals com a excepcionalment aplicables a elles mateixes.
+b. el biaix egoista és la tendència a atribuir els èxits a factors interns i els fracassos a factors externs, però no necessàriament implica una percepció de falta de control generalitzada.
+d. la consideració positiva incondicional és un concepte en psicoteràpia que implica acceptar i respectar els altres tal com són sense condicions.",true
+"L'economia està en una profunda recessió. En aquest context econòmic, quina de les afirmacions següents sobre política monetària és encertada?
+A.La política expansiva no faria més que empitjorar la recessió.
+B.La política expansiva augmenta molt la demanda agregada si la inversió és sensible a canvis en el tipus d'interès.
+C.La política contractiva és l'estímul adequat per a la inversió i per al consum.
+D.Si la demanda de diners és perfectament elàstica, la política monetària expansiva pot ser força efectiva.",b,"la resposta correcta és la b: ""la política expansiva augmenta molt la demanda agregada si la inversió és sensible a canvis en el tipus d'interès.""
+
+explicació:
+- en un context de recessió econòmica, una política monetària expansiva (com reduir els tipus d'interès o augmentar la base monetària) pot ajudar a estimular l'economia. això es deu al fet que els tipus d'interès més baixos poden fer que els préstecs siguin més assequibles, la qual cosa pot incentivar la inversió i el consum.
+- si la inversió és particularment sensible als canvis en els tipus d'interès, aquesta política pot tenir un impacte significatiu en augmentar la demanda agregada, ajudant així a sortir de la recessió.
+
+les altres opcions:
+a. la política expansiva generalment no empitjora la recessió; més aviat, està dissenyada per a mitigar-la.
+c. la política contractiva, que implica augmentar els tipus d'interès i/o reduir la base monetària, generalment no estimula la inversió ni el consum, sinó que els restringeix.
+d. si la demanda de diners és perfectament elàstica, això significa que qualsevol augment en l'oferta de diners no canviarà el tipus d'interès, i per tant, l'efectivitat de la política monetària expansiva pot ser limitada en aquest cas específic.",true
+"Determineu la concentració d'H+(aq) en solució de fenol 1,0 M, C6H5OH. (El Ka per al fenol és 1 × 10^-10.)
+A.1 × 10^-10 M
+B.1 × 10^-9 M
+C.1 × 10^-3 M
+D.1 × 10^-5 M",d,"per determinar la concentració d'ions h+ (aq) en una solució de fenol 1,0 m, utilitzarem la constant d'acidesa (ka) del fenol, que és 1 × 10^-10. el fenol (c6h5oh) és un àcid feble i es dissocia en aigua segons la següent equació d'equilibri:
+
+\[ \text{c6h5oh} \rightleftharpoons \text{c6h5o}^- + \text{h}^+ \]
+
+si designem la concentració inicial de fenol com a 1,0 m i assumim que x és la quantitat de fenol que es dissocia, les concentracions a l'equilibri seran:
+
+- [c6h5oh] = 1,0 m - x
+- [c6h5o^-] = x
+- [h+] = x
+
+la constant d'equilibri ka es pot expressar com:
+
+\[ k_a = \frac{[\text{c6h5o}^-][\text{h}^+]}{[\text{c6h5oh}]} = \frac{x \cdot x}{1,0 - x} = \frac{x^2}{1,0 - x} \]
+
+donat que ka = 1 × 10^-10 i assumint que x és molt petit comparat amb 1,0 (ja que el fenol és un àcid feble), podem simplificar l'equació a:
+
+\[ 1 \times 10^{-10} = \frac{x^2}{1,0} \]
+\[ x^2 = 1 \times 10^{-10} \]
+\[ x = \sqrt{1 \times 10^{-10}} \]
+\[ x = 1 \times 10^{-5} \]
+
+així, la concentració d'ions h+ en la solució és aproximadament 1 × 10^-5 m. per tant, la resposta correcta és:
+
+d. 1 × 10^-5 m",true
 "Aquesta pregunta fa referència a la informació següent.
 Camino al costat de la columna, pregunto què passa.
 Un soldat diu simplement: ""Cada dia criden més.
@@ -239,325 +384,710 @@ El poema evidencia quin dels següents aspectes respecte a les relacions de gèn
 A.Les relacions confucianes entre marit i muller eren encara fortes en la societat Tang.
 B.Els rescriptes imperials emfatitzaven el naixement de fills capaços sobre filles per complir les quotes de reclutament.
 C.El treball agrícola podia ser compartit tant per dones com per homes.
-D.Les relacions tradicionals xineses de gènere es van invertir durant el regnat de l'emperadriu Wu Zetian.",c,c,true
-"Aquesta pregunta fa referència a la informació següent.
-""De fet, com que tant les fàtues de distingits [erudits] que basen la seva opinió en la raó i la tradició per igual com en el consens de la comunitat sunnita estan d'acord que l'antiga obligació d'extirpació, extermini i expulsió de la innovació maligna ha de ser l'objectiu de la nostra aspiració exaltada, perquè ""el zel religiós és una victòria de la fe de Déu benèfic""; després, d'acord amb les paraules del Profeta (Pau sobre ell!) ""Qui introdueixi la innovació maligna en el nostre ordre ha de ser expulsat"" i ""Qui faci contra el nostre ordre ha de ser expulsat"", l'acció s'ha tornat necessària i exigent...""
-Carta del sultà otomà Selim I al xa safàvida Ismail I, 1514
-Els safàvides van provocar la ira dels imperis islàmics com l'otomà i el mogol, principalment perquè els safàvides
-A.eren un imperi expansionista situat geogràficament entre altres dos expansionistes
-B.va rebutjar els principis centrals de l'islam
-C.va esclavitzar els cristians i els va convertir en combatents safàvides
-D.Ismaïl es va proclamar califa",a,a. eren un imperi expansionista situat geogràficament entre altres dos expansionistes,true
-"Quin és l'idioma oficial dels Països Baixos?
-A.Danès
-B.Suec
-C.Alemany
-D.Holandès",d,d.holandès,true
-"Quin és el terme fins a quin punt la competència en un país està influenciada per la competència en altres països?
-A.Comerç internacional
-B.Economia global
-C.Competència global
-D.Globalització",d,d.globalització,true
-"Un nombre, arrodonit al miler més proper, és de 47.000. Quin número podria ser el número que es va arrodonir?
-A.46,295
-B.46,504
-C.47,520
-D.47,924",b,c.,false
-"L'homicidi il·legítim comès pel ministre del país X a l'estranger és un acte jure imperii o jure gestionis?
-A.Aquesta conducta és un acte públic (jure imperii)
-B.Aquesta conducta mai atrau immunitat
-C.Aquesta conducta és un acte privat (jure gestionis)
-D.Aquesta conducta és un acte públic, però està blindada per la immunitat",c,a.aquesta conducta és un acte públic (jure imperii),false
-"Part de l'aigua de Mart està congelada al sòl i als casquets polars i una altra es va perdre a causa de l'extracció del vent solar, però es creu que gran part de l'aigua original es va perdre a través d'un altre mecanisme. Què ha passat amb aquesta aigua ""perduda""?
-A.Va ser despullat pel camp magnètic quan va disminuir ràpidament de força
-B.Es va trencar en hidrogen i oxigen per llum ultraviolada i l'hidrogen es va perdre per fuita tèrmica
-C.era consumida per una civilització de marcians assedegats
-D.Es va vaporitzar durant un període d'intens vulcanisme i es va perdre a l'espai a través de la fuita tèrmica",b,b,true
-"Aquesta pregunta fa referència a la informació següent.
-""Les llavors dels règims totalitaris es nodreixen de la misèria i el desig. S'estenen i creixen en el sòl maligne de la pobresa i les lluites. Arriben al seu ple creixement quan ha mort l'esperança d'un poble per a una vida millor. Hem de mantenir viva aquesta esperança. El ràpid moviment dels esdeveniments ens ha imposat grans responsabilitats. Confio que el Congrés afrontarà aquestes responsabilitats directament"".
-El president Harry S. Truman, 1947
-Les idees expressades en el passatge anterior reflecteixen més directament quina de les següents continuïtats en la història dels Estats Units?
-A.Debats sobre la relació entre el Congrés i el president.
-B.Debats sobre l'ús de la força militar en situacions volàtils.
-C.Debats sobre el paper dels Estats Units en els assumptes mundials.
-D.Debats sobre el bon paper dels partits polítics.",c,c.debats sobre el paper dels estats units en els assumptes mundials.,true
-"Quins dels següents països van emetre més CO2 per càpita el 2017?
-A.El Japó
-B.Canadà
-C.Rússia
-D.L'Iran",b,b.canadà,true
-"Find $-\dfrac{1}{-3}\cdot\cfrac{1}{~\frac{1}{-3}~}.$
-A.1
-B.-1
-C.0
-D.2",b,"first, simplify the expression inside the multiplication:
+D.Les relacions tradicionals xineses de gènere es van invertir durant el regnat de l'emperadriu Wu Zetian.",c,"el poema ""balada dels carros de l'exèrcit"" de du fu, escrit al voltant de l'any 750 c.e., proporciona una visió crítica de les conseqüències de les guerres prolongades i les polítiques militars de l'imperi tang sobre la societat, especialment en termes de treball i gènere. en el poema, es menciona que ""fins i tot si les dones són prou fortes per manejar una aixada i llaurar, els cultius creixen de totes maneres, els camps són tot un desastre."" aquesta línia indica que, a causa de la necessitat, les dones havien d'assumir tasques tradicionalment realitzades per homes, com ara el treball agrícola, per mantenir l'economia domèstica mentre els homes eren reclutats per l'exèrcit.
+
+aquesta informació suporta l'opció:
+c. el treball agrícola podia ser compartit tant per dones com per homes.
+
+les altres opcions no són directament suportades pel text del poema. no hi ha referències específiques a les relacions confucianes entre marit i muller (opció a), ni a rescriptes imperials sobre el naixement de fills (opció b), ni a una inversió de les relacions tradicionals de gènere durant el regnat de l'emperadriu wu zetian (opció d).",true
+"Enunciat 1 | En un grup (ab)^{-2} = b^{-2}a^{-2}. Enunciat 2 | En un grup (ab)^n = a^nb^n.
+A.Cert, cert
+B.Fals, Fals
+C.Cert, Fals
+D.Fals, Cert",b,"per analitzar els enunciats, comencem amb l'enunciat 1:
+
+**enunciat 1: en un grup \((ab)^{-2} = b^{-2}a^{-2}\).**
+
+aquest enunciat és cert. per demostrar-ho, utilitzem les propietats dels inversos i l'associativitat en un grup. sabem que \((ab)^{-1} = b^{-1}a^{-1}\) per la propietat dels inversos en un grup. aleshores, \((ab)^{-2} = (ab)^{-1}(ab)^{-1} = (b^{-1}a^{-1})(b^{-1}a^{-1})\). utilitzant l'associativitat, podem reorganitzar els termes com \((b^{-1}(a^{-1}b^{-1}))a^{-1}\). si el grup és abelià, això es simplifica a \(b^{-2}a^{-2}\). però, en general, necessitem assumir que el grup és abelià perquè això sigui cert. en grups no abelians, aquesta igualtat no necessàriament es compleix. per tant, l'enunciat és cert en grups abelians i fals en grups no abelians.
+
+**enunciat 2: en un grup \((ab)^n = a^nb^n\).**
+
+aquest enunciat és fals en general. només és cert en grups abelians. en grups no abelians, la multiplicació no és commutativa, i per tant, no podem simplement distribuir les potències com en l'enunciat. per exemple, si prenem un grup no abelià com el grup simètric \(s_3\) i elements \(a\) i \(b\) que no commuten, llavors \((ab)^n \neq a^nb^n\) en general.
+
+**conclusió:**
+
+l'opció correcta és **c. cert, fals**, ja que l'enunciat 1 és cert en grups abelians (i fals en no abelians), mentre que l'enunciat 2 és fals en general, excepte en grups abelians.",true
+"Per què Parfit s'oposa a la igualtat?
+A.Argumenta que una societat desigual és inevitable.
+B.Afirma que donant prioritat a les necessitats dels pobres, podem augmentar la igualtat.
+C.Afirma que cadascú som responsables de la nostra pobresa.
+D.Rebutja del tot la idea d'igualtat.",b,"derek parfit, un filòsof britànic conegut per les seves contribucions a la filosofia moral i política, no es va oposar a la igualtat en general. de fet, va explorar profundament els temes de la identitat personal i l'ètica, incloent discussions sobre la igualtat. la seva obra més influent, ""reasons and persons"", tracta sobre com les decisions individuals afecten els altres i com aquestes decisions poden ser guiades per principis ètics, incloent la igualtat.
+
+no obstant això, parfit va criticar algunes interpretacions i aplicacions de la igualtat. especialment, va argumentar contra la idea que la igualtat de resultat és sempre justa o desitjable. segons parfit, centrar-se exclusivament en fer que tothom sigui igual en termes de benestar o recursos pot conduir a situacions on tothom està pitjor, un argument que es pot relacionar amb el ""paradox de la igualtat"" que ell discuteix. això no significa que rebutgi del tot la idea d'igualtat (opció d), sinó que critica certes maneres de perseguir-la que podrien ser contraproduents.
+
+la millor resposta, doncs, seria:
+b. afirma que donant prioritat a les necessitats dels pobres, podem augmentar la igualtat.
+
+aquesta opció reflecteix millor la seva visió que les polítiques haurien de centrar-se en millorar la situació dels menys avantatjats, una idea que és consistent amb el seu suport a versions del principi de prioritat, que suggereix que beneficiar als individus en pitjor situació té una importància especial.",true
+"L'eficiència quàntica d'un detector de fotons és 0,1. Si s'envien 100 fotons al detector, un darrere l'altre, el detector detectarà fotons
+A.una mitjana de 10 vegades, amb una desviació RMS d'aproximadament 4
+B.una mitjana de 10 vegades, amb una desviació RMS d'aproximadament 3
+C.una mitjana de 10 vegades, amb una desviació RMS d'aproximadament 1
+D.una mitjana de 10 vegades, amb una desviació RMS d'aproximadament 0,1",b,"l'eficiència quàntica d'un detector de fotons indica la probabilitat que el detector detecti un fotó quan aquest incideix sobre ell. en aquest cas, l'eficiència quàntica és de 0,1, o el 10%. això significa que cada fotó té un 10% de probabilitats de ser detectat.
+
+si s'envien 100 fotons al detector, el nombre esperat de fotons detectats és el producte del nombre total de fotons enviats per l'eficiència quàntica del detector. així, el nombre esperat de deteccions és:
+
+\[ 100 \text{ fotons} \times 0,1 = 10 \text{ deteccions} \]
+
+aquesta és la mitjana de fotons detectats. per calcular la desviació estàndard (rms), podem utilitzar la fórmula de la desviació estàndard per a una distribució binomial, ja que cada detecció és un esdeveniment independent amb dues possibilitats (detectat o no detectat). la fórmula per a la desviació estàndard \(\sigma\) en una distribució binomial és:
+
+\[ \sigma = \sqrt{n p (1-p)} \]
+
+on \( n \) és el nombre total d'assajos (en aquest cas, 100 fotons) i \( p \) és la probabilitat d'èxit de cada assaig (en aquest cas, 0,1). així, tenim:
+
+\[ \sigma = \sqrt{100 \times 0,1 \times (1-0,1)} = \sqrt{100 \times 0,1 \times 0,9} = \sqrt{9} = 3 \]
+
+per tant, la resposta correcta és:
+b. una mitjana de 10 vegades, amb una desviació rms d'aproximadament 3.",true
+"Un programador va escriure el programa a continuació. El programa utilitza una llista de números anomenada numList. El programa està pensat per mostrar la suma dels números de la llista.
+ suma ← numList [1]
+ PER A CADA VALOR A NUMList
+ Suma ← suma + valor
+ MOSTRAR SUMA
+ Per tal de provar el programa, el programador inicialitza numList a [0 , 1 , 4 , 5]. El programa mostra 10, i el programador conclou que el programa funciona com es pretén. Quina de les següents coses és certa?
+A.La conclusió és correcta; El programa funciona com es pretén.
+B.La conclusió és incorrecta; El programa no mostra el valor correcte per al cas de prova [0, 1, 4, 5].
+C.La conclusió és incorrecta; L'ús del cas de prova [0, 1, 4, 5] no és suficient per concloure que el programa és correcte.
+D.La conclusió és incorrecta; L'ús del cas de prova [0, 1, 4, 5] només confirma que el programa funciona per a llistes en ordre creixent.",c,"la resposta correcta és b. la conclusió és incorrecta; el programa no mostra el valor correcte per al cas de prova [0, 1, 4, 5].
+
+anem a analitzar el codi:
+
+1. `suma ← numlist [1]` - aquesta línia inicialitza la variable `suma` amb el segon element de la llista `numlist`, que és `1` (recordem que els índexs en molts llenguatges de programació comencen per 0, així que `numlist[1]` és el segon element).
+
+2. `per a cada valor a numlist` - aquest bucle recorre cada element de la llista `numlist`.
+
+3. `suma ← suma + valor` - aquesta línia suma cada valor de la llista a la variable `suma`.
+
+4. `mostrar suma` - finalment, es mostra el valor de `suma`.
+
+el problema amb aquest codi és que comença sumant el segon element de la llista a `suma` i després suma tots els elements de la llista, incloent el segon element una segona vegada. això significa que el segon element de la llista es suma dues vegades.
+
+per la llista [0, 1, 4, 5], el càlcul seria:
+- inicialització: `suma = 1`
+- bucle: suma cada element (0, 1, 4, 5)
+  - suma = 1 + 0 = 1
+  - suma = 1 + 1 = 2
+  - suma = 2 + 4 = 6
+  - suma = 6 + 5 = 11
+
+per tant, el resultat correcte hauria de ser 11, no 10. això mostra que hi ha un error en el codi.",false
+"El fet que la freqüència d'absorció infraroja del clorur de deuteri (DCl) es desplaci de la del clorur d'hidrogen (HCl) es deu a les diferències en la seva
+A.Distribució d'electrons
+B.Moment dipolar
+C.constant de força
+D.Massa reduïda",d,"la resposta correcta és d. massa reduïda.
+
+la freqüència d'absorció infraroja d'una molècula diatòmica com el clorur de deuteri (dcl) o el clorur d'hidrogen (hcl) està relacionada amb la vibració dels àtoms que la componen. aquesta freqüència de vibració depèn de la massa dels àtoms i de la constant de força del enllaç químic entre ells.
+
+el deuteri (d) és un isòtop de l'hidrogen que té un neutró addicional, cosa que fa que la seva massa sigui aproximadament el doble que la de l'hidrogen normal (h). això afecta la massa reduïda del sistema, que es calcula com:
+
+\[ \mu = \frac{m_1 \times m_2}{m_1 + m_2} \]
+
+on \( m_1 \) i \( m_2 \) són les masses dels dos àtoms en la molècula. com que la massa del deuteri és major que la de l'hidrogen, la massa reduïda de dcl serà diferent de la d'hcl, resultant en una freqüència d'absorció infraroja diferent.
+
+les altres opcions, com la distribució d'electrons (a), el moment dipolar (b), i la constant de força (c), no són els factors principals que expliquen el desplaçament de la freqüència d'absorció entre hcl i dcl. la constant de força pot ser similar ja que l'enllaç químic és el mateix (cl-h vs cl-d), i el moment dipolar i la distribució d'electrons també són afectats per altres factors que no són tan directament relacionats amb el canvi de massa dels àtoms.",true
+"Quin dels següents conjunts de cadenes de bits NO es pot descriure amb una expressió regular?
+A.Totes les cadenes de bits el nombre de zeros de les quals és múltiple de cinc
+B.Totes les cadenes de bits que comencen amb un zero i acaben amb un
+C.Totes les cadenes de bits amb un nombre parell de zeros
+D.Totes les cadenes de bits amb més d'uns que zeros",d,"l'expressió regular és una eina poderosa per descriure patrons en cadenes de text, però té limitacions quan es tracta de comptar o comparar quantitats específiques d'elements dins d'una cadena que no segueixen un patró fix o periòdic. anem a analitzar cada opció per determinar quina d'elles no es pot descriure amb una expressió regular:
+
+a. totes les cadenes de bits el nombre de zeros de les quals és múltiple de cinc.
+   - aquest conjunt es pot descriure amb una expressió regular. per exemple, l'expressió regular `^(1*01*01*01*01*0)*1*$` captura grups de cinc zeros, cadascun dels quals pot estar separat per qualsevol nombre (inclòs zero) d'uns.
+
+b. totes les cadenes de bits que comencen amb un zero i acaben amb un.
+   - aquesta és una descripció senzilla per a una expressió regular. l'expressió seria `^0.*1$`, on `.*` permet qualsevol seqüència de zeros i uns entre el zero inicial i l'últim un.
+
+c. totes les cadenes de bits amb un nombre parell de zeros.
+   - aquesta també es pot descriure amb una expressió regular. l'expressió `^(1*01*0)*1*$` captura grups de dos zeros, que poden estar separats per qualsevol nombre d'uns, assegurant que el nombre total de zeros sigui sempre parell.
+
+d. totes les cadenes de bits amb més d'uns que zeros.
+   - aquesta opció és la que presenta problemes per ser descrita amb una expressió regular. comptar i comparar quantitats relatives d'elements diferents dins d'una cadena (en aquest cas, comparar el nombre d'uns amb el nombre de zeros) no és possible amb expressions regulars, ja que requereix una capacitat de memòria o comptatge que les expressions regulars no tenen.
+
+per tant, la resposta correcta és **d. totes les cadenes de bits amb més d'uns que zeros**, ja que aquest conjunt no es pot descriure adequadament amb una expressió regular.",true
+"Viatjant a una velocitat inicial d'1,5 × 10^6 m/s, un protó entra en una regió de camp magnètic constant de magnitud 1,5 T. Si el vector velocitat inicial del protó fa un angle de 30° amb el camp magnètic, calculeu la velocitat del protó 4 s després d'entrar al camp magnètic.
+A.5,0 × 10^6 m/s
+B.7,5 × 10^6 m/s
+C.1,5 × 10^6 m/s
+D.3,0 × 10^6 m/s",c,"per resoldre aquest problema, primer hem de recordar que la força magnètica que actua sobre una càrrega en moviment en un camp magnètic és sempre perpendicular a la velocitat de la càrrega. això significa que la força magnètica no realitza treball sobre la càrrega i, per tant, la magnitud de la velocitat de la càrrega es manté constant.
+
+el protó entra en el camp magnètic amb una velocitat inicial de \(1,5 \times 10^6 \, \text{m/s}\) i aquesta velocitat fa un angle de 30° amb la direcció del camp magnètic. la component de la velocitat del protó paral·lela al camp magnètic no canviarà, ja que la força magnètica actua només sobre la component perpendicular de la velocitat.
+
+a més, com que la força magnètica actua com una força centrípeta, causarà que el protó segueixi una trajectòria circular en el pla perpendicular al camp magnètic. la magnitud de la velocitat del protó, per tant, no canvia, només la direcció de la velocitat canvia.
+
+així, la velocitat del protó 4 segons després d'entrar al camp magnètic seguirà sent la mateixa en magnitud que la velocitat inicial, \(1,5 \times 10^6 \, \text{m/s}\), perquè la força magnètica no fa treball i, per tant, no canvia la magnitud de la velocitat.
+
+la resposta correcta és:
+c. \(1,5 \times 10^6 \, \text{m/s}\)",true
+"La validació creuada de K-fold és
+A.lineal en K
+B.quadràtic en K
+C.cúbic en K
+D.exponencial en K",a,"la validació creuada de k-fold és una tècnica utilitzada en l'aprenentatge automàtic per avaluar la capacitat de generalització dels models predictius. consisteix a dividir el conjunt de dades en k subconjunts (o ""folds"") de mida aproximadament igual. el model s'entrena amb k-1 d'aquests subconjunts i es valida amb el subconjunt restant. aquest procés es repeteix k vegades, amb cada un dels k subconjunts utilitzat exactament una vegada com a dades de validació.
+
+la complexitat computacional de la validació creuada de k-fold depèn de diversos factors, incloent el nombre de folds (k), la complexitat de l'algoritme d'entrenament utilitzat, i la mida del conjunt de dades. no obstant això, en termes de la dependència de k, la complexitat no és lineal, quadràtica, cúbica ni exponencial en k de manera directa. en canvi, el cost computacional total és proporcional a k, ja que el procés d'entrenament i validació es repeteix k vegades. això significa que si l'entrenament d'un model és o(n) on n és la mida del conjunt de dades, llavors la validació creuada de k-fold seria o(k * n) assumint que cada fold té aproximadament la mateixa mida i que l'entrenament i la validació tenen un cost lineal respecte a la mida del conjunt de dades utilitzat.
+
+per tant, la resposta més apropiada seria:
+a. lineal en k
+
+això assumeix que l'entrenament i la validació del model són proporcionalment constants respecte al nombre de dades i que l'increment en k simplement multiplica el nombre de vegades que aquest procés constant es realitza.",true
+"Els estudiants estan realitzant un exercici de separació de pigments vegetals que requereix que utilitzin una cambra de cromatografia tancada amb una petita quantitat d'acetona al fons de la cambra. Les advertències de seguretat per a l'acetona inclouen la declaració que és un irritant ocular i de la pell i que té vapors inflamables. De les següents, quines precaucions de seguretat han de prendre els estudiants durant la realització de l'exercici?
+A.Posar-se guants ignífugs per portar la cambra a una campana de fums si l'acetona s'incendia
+B.Col·locació de la cambra en un armari tancat i enfosquit durant la durada de la separació del pigment
+C.Portar guants de cuir i cobrir-se nas i boca amb una màscara de partícules
+D.Portar ulleres i guants tipus nitril i mantenir tancats tots els envasos d'acetona",d,"la millor opció per garantir la seguretat dels estudiants durant l'exercici de cromatografia és la opció d: portar ulleres i guants tipus nitril i mantenir tancats tots els envasos d'acetona. aquesta opció aborda directament els riscos associats amb l'ús d'acetona, que inclouen la irritació ocular i de la pell així com els perills dels seus vapors inflamables.
+
+explicació de les altres opcions:
+a. posar-se guants ignífugs no és necessari en aquest context, ja que l'objectiu principal és prevenir l'exposició a l'acetona i els seus vapors, no manejar un incendi. a més, en cas d'incendi, l'acció adequada seria usar un extintor adequat i no intentar traslladar la cambra.
+b. col·locar la cambra en un armari tancat i enfosquit no té relació amb la seguretat relacionada amb l'ús d'acetona. aquesta acció no protegeix contra l'exposició als vapors ni a la irritació que pot causar l'acetona.
+c. portar guants de cuir i una màscara de partícules no és suficient per protegir-se dels efectes de l'acetona. els guants de cuir no ofereixen la protecció necessària contra líquids químics com l'acetona, i una màscara de partícules no protegeix contra vapors químics.
+
+per tant, la millor pràctica és utilitzar protecció ocular (ulleres), guants adequats per a químics (com els de nitril, que són resistents a l'acetona) i assegurar-se que tots els envasos que contenen acetona estiguin ben tancats per evitar l'exposició als seus vapors. a més, realitzar l'experiment en una campana de fums seria ideal per minimitzar l'exposició als vapors inflamables i irritants.",true
+"Trobeu la longitud de la corba y = ln x entre els punts on y = 1/2 i y = 1.
+A.0.53
+B.0.86
+C.1.18
+D.1.36",c,"per trobar la longitud d'una corba donada per una funció \( y = f(x) \) entre dos punts \( x = a \) i \( x = b \), utilitzem la fórmula següent:
 
 \[
--\dfrac{1}{-3} \cdot \cfrac{1}{\frac{1}{-3}}
+l = \int_a^b \sqrt{1 + \left(\frac{dy}{dx}\right)^2} \, dx
 \]
 
-the term \(\frac{1}{-3}\) simplifies to \(\frac{1}{-3}\). the reciprocal of \(\frac{1}{-3}\) is \(-3\). thus, the expression becomes:
+en aquest cas, la funció és \( y = \ln x \). primer, calculem la derivada de \( y \) respecte a \( x \):
 
 \[
--\dfrac{1}{-3} \cdot (-3)
+\frac{dy}{dx} = \frac{d}{dx} \ln x = \frac{1}{x}
 \]
 
-next, simplify \(-\dfrac{1}{-3}\) to \(\frac{1}{3}\). now, multiply \(\frac{1}{3}\) by \(-3\):
+ara substituïm això a la fórmula de la longitud de l'arc:
 
 \[
-\frac{1}{3} \cdot (-3) = -1
+l = \int_a^b \sqrt{1 + \left(\frac{1}{x}\right)^2} \, dx = \int_a^b \sqrt{1 + \frac{1}{x^2}} \, dx
 \]
 
-the final result is \(-1\), so the correct answer is \(\boxed{\text{b}}\).",true
-"L'objectiu d'un estudi doble cec o doble emmascarat és:
-A.Aconseguir la comparabilitat dels subjectes tractats i no tractats
-B.Reduir els efectes de la variació del mostreig
-C.Eviteu el biaix d'observador i subjecte
-D.Eviteu el biaix de l'observador i la variació del mostreig",b,c,false
-"Quina de les següents afirmacions sobre el metabolisme de la glucosa és correcta?
+els límits d'integració \( a \) i \( b \) són els valors de \( x \) que corresponen a \( y = \frac{1}{2} \) i \( y = 1 \), respectivament. com que \( y = \ln x \), tenim:
 
-A.El glucagó augmenta la taxa de glucòlisi
-B.La glicòlisi requereix NADP+
-C.En la glucòlisi, la glucosa es divideix en dos productes de tres carbonis
-D.El producte final de la glicòlisi en els glòbuls vermells és el piruvat",c,c.,true
-"Quina de les afirmacions següents és correcta pel que fa als canvis en les estimacions comptables?
-A.La majoria dels canvis en les estimacions comptables es comptabilitzen retrospectivament.
-B.Quan sigui impossible determinar si s'ha produït un canvi en una estimació o un canvi en el principi comptable, el canvi s'ha de considerar un canvi de principi.
-C.Quan no sigui impossible determinar si s'ha produït un canvi en l'estimació comptable o un canvi en el principi comptable, el canvi s'ha de considerar un canvi d'estimació.
-D.És més fàcil diferenciar entre un canvi en l'estimació comptable i un canvi en el principi comptable que diferenciar entre un canvi en l'estimació comptable i una correcció d'un error.",c,c,true
-"Les adaptacions de les plantes per minimitzar la pèrdua d'aigua en ambients amb altes temperatures inclouen quina de les següents?
-A.Nombrosos estomes
-B.Cutícules fines
-C.Espines en lloc de fulles
-D.Grans relacions superfície-volum",c,c. espines en lloc de fulles,true
-"Les línies de camp magnètic al voltant d'una forma de filferro portador de corrent
-A.Cercles
-B.Línies radials
-C.Corrents de remolí
-D.Bucles d'energia",a,a,true
-"Un empleat de la gran empresa manufacturera troba la feina avorrida i només persegueix la feina pels diners. L'empleat rendeix mínimament, i no està motivat pel que produeix major quantitat o millor qualitat. Segons la teoria dels dos factors de F. Herzberg, la millor manera d'augmentar l'automotivació d'aquest treballador seria
-A.oferir un augment i incentius salarials per a una major productivitat
-B.Redissenyar el treball per proporcionar un repte i una sensació de realització
-C.augmentar les oportunitats d'interacció social informada
-D.Proporcionar a l'empleat una marea laboral amb més prestigi",b,b,true
-"Per tal de fomentar la matrícula universitària, un estat proporciona una exempció fiscal de 200 dòlars per als impostos estatals per a aquells que són estudiants a temps complet a les universitats de l'estat. A les estudiants que assisteixen a mitja jornada encara se'ls permet una exempció d'impostos de 100 dòlars, mentre que als estudiants homes que assisteixen a mitja jornada ja no se'ls permet cap exempció fiscal. Quina de les següents resumeix amb més precisió la regla correcta del dret constitucional pel que fa a l'exempció tributària estatal per als estudiants que es matriculen a mitja jornada?
-A.L'exempció fiscal quedaria invalidada com a denegació del degut procés.
-B.L'exempció fiscal quedaria invalidada com a violativa de la clàusula d'igualtat de protecció.
-C.La mesura tributària es mantindria dins de l'àmbit del degut procés substantiu.
-D.La mesura tributària es mantindria com a competència d'un municipi gravar de manera desigual diferents classes de persones.",b,b,true
-"Major consum de llet
+\[
+\ln a = \frac{1}{2} \quad \text{i} \quad \ln b = 1
+\]
 
-A.S'ha informat que s'associa amb una major incidència de fractura i una major mortalitat en alguns estudis
-B.Durant la pubertat sembla estar associat amb una major densitat mineral òssia en la vida posterior
-C.S'associa consistentment amb una menor taxa de fractures
-D.En els països amb major taxa de fractura suggereix que el consum de llet és beneficiós per a l'esquelet.",a,a.,true
-"Un candidat és mexicà-americà i opina que necessita una gran participació de votants mexicans per guanyar les eleccions. Com a resultat, el seu cap de campanya, decideix enviar per correu a cada votant mexicà registrat un adhesiu lacrimogen, que porta el nom del candidat i l'oficina per a la qual es presenta. Atès que molts nadius mexicans no són competents en llegir i escriure anglès, el director de campanya creu que molts dels votants tindran dificultats per escriure el nom i l'oficina del candidat a la papereta. Com a resultat, el director de campanya ha muntat una extensa campanya mediàtica per informar els votants sobre com aplicar els adhesius a la papereta. Cinc mesos abans de les eleccions, un funcionari electoral notifica al comitè de campanya del candidat que els adhesius arrencats no compleixen l'estatut estatal. En la seva carta, la funcionària explica que els funcionaris electorals estatals opinen que és necessari que els votants potencials escriguin el nom del candidat amb tinta. Per això, conclou que els adhesius no compleixen els requisits legals. Tres setmanes més tard, el candidat va presentar una demanda al tribunal de districte federal contra funcionaris electorals estatals al·legant que la seva interpretació de l'estatut estatal viola la Constitució dels Estats Units. Quin dels següents, si s'estableix, exposa l'argument constitucional més sòlid que sustenta la interpretació de l'estatut per part del funcionari electoral?
-A.La participació entre els votants mexicans nord-americans registrats que no dominen l'anglès ha estat inferior a l'1% de tot el total de l'estat en les últimes eleccions.
-B.Un estatut estatal exigeix que cada cabina de votació estigui equipada amb un bolígraf de tinta per facilitar la redacció dels vots.
-C.Atès que un gran nombre de vots per escrit generalment augmenten el temps necessari per comptar tots els vots, és necessari emetre aquests vots d'una manera uniforme.
-D.El potencial de frau electoral és substancialment més gran amb adhesius preimpresos.",d,d.,true
-"Per a quin d'aquests dos escenaris el personatge principal (que utilitza I/me/my) fa alguna cosa clarament moralment incorrecta, segons els estàndards morals ordinaris als EUA a partir del 2020? Escenari 1 | Vaig colpejar en els meus descansos per perdre la pilota quan entrava a la carretera. Escenari 2 | Vaig ensenyar als meus fills a tocar el xilòfon.
-A.Malament, incorrecte
-B.Malament, No està malament
-C.No està malament, Malament
-D.No està malament, no està malament",d,d,true
-"Per a quin d'aquests dos escenaris el personatge principal (que utilitza I/me/my) fa alguna cosa clarament moralment incorrecta, segons els estàndards morals ordinaris als EUA a partir del 2020? Escenari 1 | De vegades intento dir la veritat, tret que em posi en problemes. Escenari 2 | Vaig besar la meva xicota a l'espectacle de màgia.
-A.Malament, incorrecte
-B.Malament, No està malament
-C.No està malament, Malament
-D.No està malament, no està malament",b,a.,false
-"Quina de les següents opcions descriu millor l'eurocentrisme?
-A.L'eurocentrisme és un estil d'anàlisi en què les societats europees es comparen amb les societats no europees per produir una comparació imparcial dels mèrits relatius de cadascuna.
-B.L'eurocentrisme és un estil de pensament en el qual l'avaluació i l'avaluació de les societats no europees s'expressa en termes dels supòsits culturals i els biaixos dels europeus.
-C.L'eurocentrisme descriu estudis o treballs acadèmics que només consideren els sistemes polítics o econòmics europeus.
-D.Totes aquestes opcions.",b,b.,true
-"Quina de les següents opcions descriu millor les pautes ètiques pel que fa a les intimitats sexuals amb antics clients de teràpia?
-A.Els psicòlegs tenen prohibit mantenir intimitats sexuals amb antics clients de teràpia sota cap circumstància.
-B.Els psicòlegs tenen prohibit mantenir intimitats sexuals amb antics clients de teràpia durant almenys un any després de la finalització de la teràpia.
-C.Els psicòlegs tenen prohibit mantenir intimitats sexuals amb antics clients de teràpia en determinades circumstàncies (per exemple, quan hi ha risc d'explotació).
-D.Els psicòlegs no tenen prohibit tenir intimitats sexuals amb antics clients de teràpia.",c,b.,false
-"Per a quin d'aquests dos escenaris el personatge principal (que utilitza I/me/my) fa alguna cosa clarament moralment incorrecta, segons els estàndards morals ordinaris als EUA a partir del 2020? Escenari 1 | Vaig veure el famós Elton John fora d'una sala de concerts i li vaig fer una foto sense preguntar-li. Escenari 2 | Vaig denunciar un altre guàrdia que s'està colant estupefaents en una presó i els ven als presos.
-A.Malament, incorrecte
-B.Malament, No està malament
-C.No està malament, Malament
-D.No està malament, no està malament",d,"a. malament, incorrecte",false
-"En el context de la globalització, com podem definir millor el terme desenvolupament?
-A.El terme desenvolupament es refereix a la condició humana en la qual hi ha llibertat de por i desig; Hi ha recursos suficients per sostenir la vida i aquesta vida pot existir en un estat lliure de l'amenaça, o amenaça percebuda, d'una interrupció sobtada.
-B.Per ser considerada desenvolupada, una nació ha d'haver assolit un cert estatus econòmic i polític dins del sistema estatal global; El criteri del que constitueix un estat ""desenvolupat"" es defineix així pels requisits d'interacció en aquest sistema.
-C.El desenvolupament és un mitjà per abordar les desigualtats que acompanyen la globalització neoliberal. En aquest context, el desenvolupament es refereix a la capacitat d'una població o comunitat per utilitzar eficaçment els recursos i augmentar l'eficiència en la producció i distribució, promovent la distribució més equitativa dels ingressos dins de la societat.
-D.El desenvolupament d'una comunitat fa referència als sistemes de valors ideològics i ètics que subscriu la seva població. En el sistema internacional globalitzat això es refereix a l'adopció de la ideologia democràtica liberal occidental i l'economia de lliure mercat.",c,a,false
-"Per a quin d'aquests dos escenaris el personatge principal (que utilitza I/me/my) fa alguna cosa clarament moralment incorrecta, segons els estàndards morals ordinaris als EUA a partir del 2020? Escenari 1 | Mentre els meus pares dormien, vaig sortir a córrer. Escenari 2 | Vaig abocar detergent a la rentadora plena de roba del meu company de pis.
-A.Malament, incorrecte
-B.Malament, No està malament
-C.No està malament, Malament
-D.No està malament, no està malament",d,c,false
-"Abans que es sotmetés a votació una proposta per fusionar dues poblacions, l'advocacia de l'estat va emetre un dictamen consultiu en què afirmava que la mesura no vulnerava, al seu parer, cap disposició estatutària o constitucional. A partir de llavors, la proposta va ser posada a votació i va ser aprovada per aclaparadora majoria pels votants d'ambdues poblacions. Després de les eleccions, però abans que la fusió s'hagués dut a terme oficialment, dos contribuents d'una de les poblacions van iniciar una demanda per unir-se a la unificació, atacant la constitucionalitat de la proposta. La demanda va arribar al Tribunal Suprem de l'estat i es va considerar constitucional tant en la llei estatal com en la federal. Els demandants presenten ara una moció per demanar que aquest cas sigui revisat pel Tribunal Suprem dels Estats Units. El Tribunal pot:
-A.No escoltar el cas, perquè es va decidir per motius estatals independents.
-B.No escoltar el cas, però pot ser que el remeti al tribunal de districte federal.
-C.Escolteu les qüestions federals implicades, però declineu pronunciar-vos sobre la qüestió estatal.
-D.Confieu en el dictamen consultiu del fiscal general de l'Estat i no escolteu el cas pels seus mèrits.",a,c.,false
-"Quina de les teories següents se centra en com la societat aconsegueix dur a terme les activitats necessàries per mantenir l'ordre i l'estabilitat?
-A.Funcionalisme
-B.Interaccionisme
-C.Teoria de l'elecció racional
-D.Teoria del conflicte",a,a.funcionalisme,true
-" En la seva discussió sobre la discriminació en la guerra, Valls suggereix que
-A.No hi ha diferència entre combatents i no combatents.
-B.La diferència entre combatents i no combatents és una qüestió de grau.
-C.La diferència entre combatents i no combatents és categòrica i clara.
-D.El ""terrorisme"" s'ha de definir com a violència indiscriminada.",b,c.,false
-"Civilització de Núbia:
-A.precedí i esperonà l'auge de la cultura egípcia.
-B.va ser el resultat de la colonització mesopotàmica al sud.
-C.desenvolupat en resposta, però no a imitació, de la cultura egípcia.
-D.no va tenir contactes amb cultures veïnes.",c,a,false
-"Un supermercat acabava de reobrir després de dues setmanes tancat per reformes. El matí de la reobertura, una dona estava comprant quan, de sobte, va caure i va patir una fractura a la cama. A partir de llavors, la dona va demandar el supermercat per danys personals. En la seva demanda, la dona va afirmar que va ensopegar amb una galleda de pintura que havia estat estesa en un dels passadissos. Al judici, la dona va trucar a un altre client per declarar que mentre comprava va sentir un cop, es va girar i va veure la dona caure a terra. També va testificar que va veure una galleda de pintura buida estesa a pocs metres de la cama de la dona. En l'interrogatori, el client va tenir un intercanvi argumentatiu amb l'advocat del supermercat. Quan se li va preguntar la seva opinió sobre què va provocar la caiguda de la dona, el client va testificar: ""Va caure perquè va ensopegar amb la galleda"". Va admetre en un interrogatori, però, que en realitat no va veure la dona ensopegar a la galleda. L'advocat del supermercat va fer llavors al client la següent pregunta: ""Si no vas veure la dona pujar a la galleda, com saps que va caure per culpa d'això?"" El client va respondre: ""Perquè la meva xicota que estava comprant amb mi em va dir més tard que va veure la dona passar per sobre de la galleda"". L'advocat del supermercat es mou per donar l'última resposta del client. Si el jutge d'instrucció anul·la la moció de l'acusat i permet que la resposta del client es mantingui, el més probable és que sigui perquè
-A.La resposta del client va ser convidada per la pregunta de l'advocat del supermercat.
-B.La resposta del client es va basar en el coneixement de primera mà.
-C.La resposta del client va ser una declaració de percepció recent.
-D.La resposta del client va ser una impressió de sentit present.",a,a.,true
-"Quina de les següents és l'última ocupada per éssers humans?
-A.Nova Guinea
-B.Austràlia
-C.Nova Zelanda
-D.Timor",c,c.nova zelanda,true
-"Segons Singer, el compliment del seu principi requereix:
-A.Canvis modestos en els nostres hàbits personals, però no en el conjunt de la nostra societat.
-B.canvis modestos en els nostres hàbits personals, així com en la societat.
-C.canvis dràstics en els nostres hàbits personals, però no en la nostra societat.
-D.canvis dràstics tant en els nostres hàbits personals com en la nostra societat.",d,d.,true
-"Els microxips informàtics moderns es componen principalment de quin element?
-A.Sodi
-B.Silici
-C.Alumini
-D.Plata",b,b.silici,true
-" El text clàssic Daodejing es coneix amb quin títol en anglès?
-A.Clàssic dels canvis
-B.Clàssic del Camí i del Poder
-C.Clàssic de la dona
-D.Clàssic de la filosofia",b,b.,true
-"Quin dels punts següents dóna suport a l'argument de l'unilateralisme nord-americà?
-A.Hegemonia benèvola
-B.Ineficàcia del multilateralisme
-C.Potència nord-americana
-D.Tot l'anterior",d,d.,true
-"Quina de les següents coses és certa per a l'hipotiroïdisme?
-A.Pèrdua de pes
-B.Mixoedema pretibial
-C.Un nivell de TSH elevat
-D.Aversió als llocs càlids",c,c.,true
-"Quina malaltia no causen els virus de l'herpes?
-A.Paràlisi infantil
-B.Encefalitis
-C.Malaltia de transmissió sexual
-D.Càncer",a,a.paràlisi infantil,true
-"Per a quin d'aquests dos escenaris el personatge principal (que utilitza I/me/my) fa alguna cosa clarament moralment incorrecta, segons els estàndards morals ordinaris als EUA a partir del 2020? Escenari 1 | Vaig córrer per sobre de la catifa fresca amb una tallagespa. Escenari 2 | Vaig orinar a la mà per poder provar-ne la infecció.
-A.Malament, incorrecte
-B.Malament, No està malament
-C.No està malament, Malament
-D.No està malament, no està malament",a,d,false
-" Segons Nussbaum, tractar algú com un objecte és
-A.suficient per a l'objectivació sexual.
-B.necessari per a la cosificació sexual.
-C.no és necessari per a la cosificació sexual.
-D.tot això.",c,b.necessari per a la cosificació sexual.,false
-"Nagel afirma que el problema de la sort moral està estretament relacionat amb el problema de:
-A.l'existència de Déu.
-B.llibertat de la voluntat.
-C.egoisme psicològic.
-D.universals.",b,b.llibertat de la voluntat.,true
-"Els valors de taxació de les cases d'una ciutat tenen una mitjana de 125,000 dòlars amb una desviació estàndard de 23,000 dòlars. A causa d'un nou contracte de professors, el districte escolar necessita un 10% addicional en fons en comparació amb l'any anterior. Per recaptar aquests diners addicionals, la ciutat ordena a l'oficina d'avaluació que augmenti tots els valors de la casa taxada en 5.000 dòlars. Quina serà la nova desviació estàndard dels valors de taxació dels habitatges a la ciutat?
-A.$ 23,000 
-B.$ 25,300 
-C.$ 28,000 
-D.$ 30,300 ",a,"a.$ 23,000",true
-"En quin àmbit de les relacions públiques és probable que hi hagi grups de pressió?
-A.Corporatiu
-B.Relacions financeres
-C.Assumptes públics
-D.D'empresa a empresa",c,c.,true
-"El terme ""xili amb carn"" es refereix al xili amb què?
-A.Fesols
-B.carn
-C.formatge
-D.Pebrots de Xile",b,a.fesols,false
-"Els estudis sobre l'etiologia de l'esquizofrènia indicaven una predisposició genètica a la malaltia, però hi ha altres factors implicats. A partir del vostre coneixement del tema, identifiqueu quina de les afirmacions següents és incorrecta.
-A.L'excés de dopamina o la sensibilitat a la dopamina podrien ser un factor contributiu.
-B.Els pacients blancs són més simptomàtics.
-C.La remissió de la malaltia al Tercer Món és del 65%.
-D.Una taxa més baixa d'esquizofrènia diagnosticada entre els afroamericans.",d,b,true
-"La conducció negligent d'un motorista va ferir greument un altre conductor. El motorista va ser citat per circular pel carril equivocat i va pagar una multa. El motorista tenia un límit de pòlissa de només 15,000 dòlars per responsabilitat civil a la seva pòlissa d'assegurança. Després de lliurar a l'asseguradora del motorista un informe mèdic complet, totes les factures mèdiques, històries clíniques i altres proves necessàries de danys, el reclamant lesionat va exigir els límits de la pòlissa. El reclamant va avisar que es presentaria una reclamació de mala fe si no es pagaven immediatament els límits de la pòlissa. La companyia d'assegurances es va negar a pagar sense explicació. Un jurat va atorgar al reclamant ferit 200.000 dòlars. El perjudicat va obtenir una cessió signada del motorista negligent donant al reclamant els drets que el motorista hagués pogut tenir contra la seva asseguradora. És probable que el tribunal obligui la companyia d'assegurances a pagar l'import íntegre del veredicte del jurat al perjudicat per aquests fets?
-A.El límit de la pòlissa és de 15.000 dòlars i això és tot el que pot cobrar la persona perjudicada: no hi ha cap acció per mala fe en un contracte d'assegurança.
-B.La companyia asseguradora va incomplir el pacte implícit de bona fe i tracte just implícit en tot contracte d'assegurança i ha de pagar l'import íntegre de la sentència.
-C.La mala fe és personal de l'assegurat i de la seva asseguradora l'encàrrec no era vàlid, i el perjudicat no té cap pretensió d'obligar l'asseguradora a pagar.
-D.El perjudicat ha de fer complir tota la seva sentència contra el motorista i mai podrà perseguir a l'asseguradora per aquesta quantitat.",c,b.,false
-"Un home era el propietari de l'hotel de nova construcció d'una ciutat. El 15 de març, l'home va rebre una trucada telefònica d'un comercial que era distribuïdor de material hoteler. El venedor es va oferir a vendre a l'home 1.000 extintors per al seu hotel. El venedor va dir a l'home que el cost dels extintors seria de 35.000 dòlars (o 35 dòlars per peça), pagadors 90 dies després del lliurament. El venedor es va comprometre a tenir els extintors instal·lats com a molt tard el 15 d'abril. El 16 de març, l'home va trucar per telèfon al venedor i va acceptar l'oferta. L'endemà, l'home va enviar per correu la següent nota al venedor: ""Si us plau, tingueu en compte que prendré un descompte del 15 per cent per al pagament en efectiu set dies després de la instal·lació"". El venedor va rebre la correspondència de l'home el 20 de març. L'1 d'abril, el venedor va enviar un telegrama a l'home, afirmant: ""És evident que no tenim un contracte exigible en vigor. No lliuraré els extintors el 15 d'abril ni cap altra vegada. ""L'home interposa demanda contra el venedor per incompliment de contracte. El venedor reivindica la defensa de l'estatut dels fraus sota el CAU. Quina de les següents és la declaració més precisa sobre les defenses del venedor?
-A.La defensa del venedor és vàlida, perquè la nota de l'home no era suficient per indicar que es va formar un contracte.
-B.La defensa del venedor és vàlida, perquè la nota de l'home era incompatible amb els termes de l'oferta oral del venedor.
-C.La defensa del venedor no és vàlida, perquè el venedor no va respondre a la nota de l'home en un període de temps raonable.
-D.La defensa del venedor no és vàlida, ja que segons el CAU el termini de fraus no és aplicable en els acords entre comerciants.",a,d.,false
-"Una entitat governamental està obligada a incloure un estat de fluxos d'efectiu en quin dels estats financers següents?
-A.Estats financers de fons governamentals.
-B.Estats financers d'àmbit públic.
-C.Estats financers de fons propis.
-D.Estats financers de fons fiduciaris.",c,b. estats financers d'àmbit públic.,false
-"Per a quin d'aquests dos escenaris el personatge principal (que utilitza I/me/my) fa alguna cosa clarament moralment incorrecta, segons els estàndards morals ordinaris als EUA a partir del 2020? Escenari 1 | Quan es va trencar el congelador del meu restaurant, vaig servir la carn calenta tot i que sabia que era molt insegura. Escenari 2 | Vaig decidir iniciar un incendi al bosc.
-A.Malament, incorrecte
-B.Malament, No està malament
-C.No està malament, Malament
-D.No està malament, no està malament",a,a,true
-"Quina de les opcions següents descriu millor la situació després d'augmentar el preu d'un producte que té una demanda inelàstica?
-A.La quantitat demandada no canviarà.
-B.La quantitat demandada anirà en augment.
-C.Els ingressos totals disminuiran.
-D.Els ingressos totals no canviaran.",a,a,true
-"Quin dels següents és un document personal d'accés tancat?
-A.'Llibre blanc' del govern
-B.Història clínica confidencial
-C.Llibre de comptes familiars
-D.El Registre d'Accions d'una Societat;",c,b.,false
-"Una dona de 54 anys acudeix a l'oficina perquè ha tingut dolor intermitent de trets a la galta i la mandíbula dreta durant les últimes 3 setmanes. Cada episodi de dolor dura 1 segon o menys. El dolor sovint es desencadena per l'aire fred, la masticació, l'estimulació tàctil i el raspallat de les dents. No ha tingut cap traumatisme a la cara ni al cap. La història clínica és notable per les cefalees tensionals, l'obesitat i la cirurgia de bypass gàstric. Fa 165 cm (5 peus 5 polzades) d'alçada i pesa 62 kg (137 lliures); L'IMC és de 23 kg/m2. Les constants vitals són normals. El pacient no tolera el tacte sobre el costat dret de la cara. No hi ha debilitat facial ni pèrdua de sensibilitat. La resta de l'examen físic no mostra anomalies. La tomografia computada del cap amb i sense contrast no mostra anomalies. Quina de les següents és la farmacoteràpia més adequada en aquest moment?
-A.Carbamazepina
-B.Lamotrigina
-C.Levetiracetam
-D.Topiramato",a,a.carbamazepina,true
-" Les Comunitats de Base estan associades a quina de les següents?
-A.Bisbe Oscar Romero
-B.Resistència i renovació
-C.Dignitat de tots els éssers humans
-D.Tot l'anterior",d,d.,true
-"La investigació sobre l'adquisició de segones llengües ha demostrat quina de les següents sobre els nens que adquireixen una segona llengua
-A.El seu desenvolupament cognitiu es retarda
-B.Tenen millor articulació que els nens que no són bilingües
-C.El seu domini de la llengua materna no té cap efecte sobre la taxa d'adquisició de la segona llengua
-D.Han augmentat la flexibilitat cognitiva",d,d,true
-"Una corporació d'habitatges posseïa una extensió de terreny. La corporació d'habitatge va preparar un pla de desenvolupament per dividir el sòl en 100 solars i crear una comunitat residencial al tracte. La Declaració dels Pactes va crear la comunitat de propietaris, una entitat administrativa que administraria i faria complir les normes i restriccions recitades entre els pactes. Una de les restriccions establertes a la Declaració dels Pactes diu: ""Mai no s'aixecarà, permetrà o mantindrà en cap moment sobre cap part de la propietat cap estructura dissenyada o utilitzada com a saló o lloc per a la venda o fabricació de licors de malta, vinosos o espirituosos"". La declaració de pactes va quedar degudament registrada i es va incloure en l'escriptura que va prendre un professor quan va adquirir el lot 62 de la promoció. El professor va deixar constància immediata de la seva obra. El professor va arrendar la seva casa a un bibliotecari per un període d'un any. L'arrendament incloïa les mateixes restriccions que les de la declaració de pactes i de l'escriptura del professor. La bibliotecària va començar immediatament a vendre licor al local durant les festes setmanals ""fora d'horari"". La comunitat de propietaris demanda la bibliotecària en una acció per danys i perjudicis. Quin dels següents és el millor argument per al bibliotecari?
-A.La regla del cas de Spencer impedeix que el bibliotecari sigui responsable.
-B.El bibliotecari no té contracte amb la comunitat de propietaris.
-C.El bibliotecari no està en la intimitat del professor.
-D.Altres lots als voltants s'utilitzen amb finalitats comercials.",b,b.el bibliotecari no té contracte amb la comunitat de propietaris.,true
-"Aquesta jurisdicció té en vigor el següent estatut penal:""Una persona no és responsable de conductes delictives si en el moment d'aquesta conducta, com a conseqüència de malaltia o defecte mental, manca de capacitat substancial per apreciar la il·licitud de la seva conducta, o per ajustar la seva conducta als requisits de la llei."" Una tarda, un acusat estava fent de cangur al seu nebot de cinc anys. Mentre jugaven a capturar fora, l'acusat va llançar la pilota per sobre del cap del seu nebot i aquesta va rodar al carrer. Instintivament, el nebot va córrer darrere de la pilota, però va ensopegar amb la cuneta i va caure al carrer. Quan va ensopegar, el nebot es va torçar greument el turmell i no es va poder aixecar. Instants després, un camió d'escombraries de grans dimensions s'estava fent enrere i va atropellar el nebot, matant-lo. Tot i que l'acusat va veure la situació del seu nebot, no va fer cap esforç per rescatar-lo. Posteriorment, l'acusat va ser acusat d'homicidi involuntari. Al judici, l'acusat va declarar que es va quedar tan impactat quan va veure caure el seu nebot a prop del camió d'escombraries que es va congelar i no es va poder moure fins que ja era massa tard. Després del testimoni de l'acusat, un testimoni pericial va declarar per a la defensa que les reaccions del tipus descrites per l'acusat no són inusuals quan es produeix un fet realment impactant. Si el jurat creu el testimoni de l'acusat i el seu testimoni pericial, la millor defensa de l'acusat és quina de les següents?
-A.L'acusat patia una bogeria temporal.
-B.L'acusat no tenia l'estat mental requerit per a la comissió del delicte.
-C.La falta d'actuació de l'acusat no va ser voluntària.
-D.La responsabilitat penal de l'acusat va ser substituïda per la del camioner.",c,c.la falta d'actuació de l'acusat no va ser voluntària.,true
-"La policia va rebre un avís d'un informant fiable que un home traficava amb cocaïna des de casa seva. A continuació, els agents van presentar a un magistrat una declaració jurada en què exposaven les circumstàncies que demostraven la causa probable per a l'emissió d'una ordre de registre. El magistrat va emetre una ordre de registre per estupefaents al domicili de l'home. Els agents de policia van anar al domicili de l'home i van tocar el timbre de la porta. Quan ningú va respondre, la policia va irrompre i va entrar a l'habitatge. Van escorcollar les habitacions del primer pis i no van trobar cap prova incriminatòria, després van sortir a l'exterior i van notar una entrada separada que conduïa a la segona planta de l'habitatge. Van pujar l'escala i van entrar a un dormitori del pis de dalt. A l'interior de l'habitació els agents van trobar una taca de cocaïna estesa en un aparador. Mentre els agents continuaven l'escorcoll del dormitori, l'acusat va entrar a l'habitació. La policia va preguntar a l'acusat si era l'home. L'acusat es va identificar i va explicar a la policia que eren a la seva habitació i que ocupava la segona planta de l'habitatge. L'acusat ha explicat que l'home residia al primer pis i que el seu habitatge estava separat del de l'acusat. No obstant això, l'acusat va ser posat sota arrest i acusat de possessió de cocaïna. L'acusat ha presentat una moció per excloure la cocaïna de ser admesa en proves. La moció de l'acusat hauria de ser
-A.concedit, perquè l'ordre no nomenava l'acusat.
-B.concedit, perquè l'ordre no indicava amb concreció la zona a escorcollar.
-C.Ho va negar, perquè la policia va creure raonablement que estaven escorcollant el domicili de l'home quan van entrar a l'habitatge de l'acusat.
-D.denegada, perquè l'ordre era vàlida i emesa amb causa probable.",c,"b.concedit, perquè l'ordre no indicava amb concreció la zona a escorcollar.",false
-"Les mutacions són errors en l'ADN que:
-A.sempre són perjudicials.
-B.només es produeixen en presència de cancerígens.
-C.Augmentar el creixement tumoral.
-D.ocorren espontàniament a un ritme baix.",d,d.,true
+això implica que:
+
+\[
+a = e^{\frac{1}{2}} = \sqrt{e} \quad \text{i} \quad b = e^1 = e
+\]
+
+ara podem calcular la integral:
+
+\[
+l = \int_{\sqrt{e}}^e \sqrt{1 + \frac{1}{x^2}} \, dx
+\]
+
+aquesta integral no té una solució elemental simple, però es pot avaluar numèricament o amb l'ajuda d'una calculadora avançada o software de matemàtiques. fent això, obtenim:
+
+\[
+l \approx 0.86
+\]
+
+per tant, la resposta correcta és:
+
+b. 0.86",false
+"Quines de les següents característiques són generalment consistents amb la violació de cites?
+A.Ús excessiu de la força
+B.premeditat
+C.Motivació sexual
+D.implica l'ús d'una arma",c,"la violació de cites (o violació en una cita) és un tipus d'agressió sexual que es produeix entre persones que tenen una relació preexistent, com podria ser una amistat o una relació romàntica, i que es troben en un context social. a diferència de la percepció estereotipada de la violació per un desconegut, la violació de cites sovint implica una certa premeditació i pot incloure l'ús d'una arma, encara que no sempre és així. les característiques que has mencionat poden variar en cada cas, però aquí tens una anàlisi de cada una en relació amb la violació de cites:
+
+a. ús excessiu de la força: això pot ocórrer en casos de violació de cites, però no és una característica exclusiva ni predominant. la coerció o la manipulació psicològica també són comuns.
+
+b. premeditació: això pot ser cert en alguns casos de violació de cites, on l'agressor pot haver planificat l'atac amb antelació, potser aprofitant-se de la confiança establerta amb la víctima.
+
+c. motivació sexual: com en la majoria de les violacions, hi ha un component sexual, però és important destacar que la violació és més un acte de poder i control que de desig sexual.
+
+d. implica l'ús d'una arma: això no és necessàriament comú en la violació de cites. moltes violacions de cites es produeixen sense l'ús d'armes. l'agressor pot utilitzar la coerció, l'alcohol, les drogues o la manipulació emocional per a cometre l'agressió.
+
+en resum, mentre que la premeditació i la motivació sexual poden estar presents en la violació de cites, l'ús excessiu de la força i l'ús d'una arma no són característiques que es puguin generalitzar per a tots els casos. cada incident de violació de cites pot variar significativament en les seves circumstàncies i dinàmiques.",true
+"En el pla xy, la gràfica de x^(log y) = y^log x és
+A.El primer quadrant obert
+B.una corba tancada
+C.Un raig al primer quadrant obert
+D.un sol punt",a,"per resoldre aquesta pregunta, primer hem de simplificar l'equació donada: \( x^{\log y} = y^{\log x} \).
+
+podem reescriure aquesta equació utilitzant la propietat de les potències i els logaritmes:
+\[ x^{\log y} = e^{\log x \cdot \log y} \]
+\[ y^{\log x} = e^{\log y \cdot \log x} \]
+
+això ens mostra que:
+\[ \log x \cdot \log y = \log y \cdot \log x \]
+que és certa per a qualsevol \( x \) i \( y \) positius, ja que la multiplicació és commutativa.
+
+ara, considerem casos especials:
+1. si \( x = y \), llavors \( x^{\log x} = x^{\log x} \), que és cert.
+2. si \( x = 1 \) o \( y = 1 \), llavors \( 1^{\log y} = y^0 = 1 \) i \( x^0 = 1^{\log x} = 1 \), respectivament, que també són certs.
+
+aquests casos mostren que l'equació és certa al llarg de la línia \( y = x \) i als punts on \( x = 1 \) o \( y = 1 \). no obstant això, necessitem explorar si hi ha altres solucions possibles fora d'aquests casos.
+
+considerem la funció \( f(x, y) = x^{\log y} - y^{\log x} \). si \( f(x, y) = 0 \) per a tots els \( x, y > 0 \), això implicaria que l'equació és certa en tot el primer quadrant. però, com hem vist, l'equació és certa al llarg de la línia \( y = x \) i quan \( x = 1 \) o \( y = 1 \).
+
+per tant, la resposta correcta és que la gràfica de l'equació \( x^{\log y} = y^{\log x} \) és la línia \( y = x \) en el primer quadrant, així com els punts on \( x = 1 \) o \( y = 1 \). això correspon a una línia al primer quadrant, però no a tot el quadrant, ni a una corba tancada, ni a un sol punt.
+
+la resposta més apropiada seria:
+c. un raig al primer quadrant obert.",true
 "El fiscal general és el cap de quina de les entitats següents?
 A.La Comissió Judicial del Senat
 B.El Departament de Justícia
 C.El Departament d'Estat
 D.El Cos de Jutges Advocats Generals",b,b. el departament de justícia,true
+"Els microxips informàtics moderns es componen principalment de quin element?
+A.Sodi
+B.Silici
+C.Alumini
+D.Plata",b,b.silici,true
+"El terme ""xili amb carn"" es refereix al xili amb què?
+A.Fesols
+B.carn
+C.formatge
+D.Pebrots de Xile",b,"el terme ""xili amb carn"" es refereix principalment a un plat que conté carn i sovint també inclou fesols, encara que la recepta original de ""chili con carne"" de texas no inclou fesols. la resposta correcta seria:
+
+b. carn",true
+" El text clàssic Daodejing es coneix amb quin títol en anglès?
+A.Clàssic dels canvis
+B.Clàssic del Camí i del Poder
+C.Clàssic de la dona
+D.Clàssic de la filosofia",b,"el text clàssic daodejing es coneix amb el títol en anglès ""b. classic of the way and virtue"" o ""tao te ching"".",true
+"En quin àmbit de les relacions públiques és probable que hi hagi grups de pressió?
+A.Corporatiu
+B.Relacions financeres
+C.Assumptes públics
+D.D'empresa a empresa",c,"c. assumptes públics
+
+els grups de pressió (o lobbies) són més comuns en l'àmbit dels assumptes públics, ja que aquesta àrea es centra en la interacció entre les organitzacions i els governs o entitats polítiques. els grups de pressió intenten influir en les decisions polítiques i legislatives a favor dels interessos dels grups que representen.",true
+"Quina de les següents és l'última ocupada per éssers humans?
+A.Nova Guinea
+B.Austràlia
+C.Nova Zelanda
+D.Timor",c,"la resposta correcta és c. nova zelanda. nova zelanda va ser l'última de les grans masses de terra a ser poblada per humans. els maoris, el poble indígena de nova zelanda, van arribar a l'arxipèlag al voltant del segle xiii o xiv. això contrasta amb llocs com austràlia i nova guinea, que van ser ocupats per humans fa milers d'anys, i timor, que també té una llarga història d'ocupació humana.",true
+"Les línies de camp magnètic al voltant d'una forma de filferro portador de corrent
+A.Cercles
+B.Línies radials
+C.Corrents de remolí
+D.Bucles d'energia",a,"a. cercles
+
+les línies de camp magnètic al voltant d'un filferro per on passa corrent són circulars. aquestes línies formen cercles concèntrics al voltant del filferro, amb el sentit determinat per la regla de la mà dreta: si el polze de la mà dreta apunta en la direcció del corrent, els dits mostren la direcció de les línies del camp magnètic.",true
+"Segons Singer, el compliment del seu principi requereix:
+A.Canvis modestos en els nostres hàbits personals, però no en el conjunt de la nostra societat.
+B.canvis modestos en els nostres hàbits personals, així com en la societat.
+C.canvis dràstics en els nostres hàbits personals, però no en la nostra societat.
+D.canvis dràstics tant en els nostres hàbits personals com en la nostra societat.",d,"la resposta correcta és d. segons peter singer, el compliment del seu principi requereix canvis dràstics tant en els nostres hàbits personals com en la nostra societat. singer argumenta que per afrontar problemes com la pobresa extrema i el maltractament dels animals, no només hem de modificar les nostres accions individuals, sinó també les estructures i polítiques socials que permeten o fomenten aquestes injustícies. això implica un replantejament profund de les nostres prioritats ètiques i un compromís amb accions significatives tant a nivell personal com col·lectiu.",true
+"L'objectiu d'un estudi doble cec o doble emmascarat és:
+A.Aconseguir la comparabilitat dels subjectes tractats i no tractats
+B.Reduir els efectes de la variació del mostreig
+C.Eviteu el biaix d'observador i subjecte
+D.Eviteu el biaix de l'observador i la variació del mostreig",b,"l'objectiu principal d'un estudi doble cec o doble emmascarat és:
+
+c. eviteu el biaix d'observador i subjecte
+
+aquest tipus d'estudi està dissenyat per a minimitzar els efectes del biaix tant en els investigadors com en els participants. en un estudi doble cec, ni els participants ni els investigadors saben qui està rebent el tractament actiu i qui està rebent un placebo, això ajuda a garantir que els resultats de l'estudi no estiguin influenciats per les expectatives de cap de les dues parts.",false
+"Quin dels següents és un document personal d'accés tancat?
+A.'Llibre blanc' del govern
+B.Història clínica confidencial
+C.Llibre de comptes familiars
+D.El Registre d'Accions d'una Societat;",c,"b. història clínica confidencial
+
+una història clínica confidencial és un document personal que conté informació sensible i privada sobre la salut d'un individu. l'accés a aquest tipus de documents està estrictament regulat per lleis de privacitat i protecció de dades, com la llei orgànica de protecció de dades personals i garantia dels drets digitals (lopdgdd) a espanya, per garantir que només les persones autoritzades (com ara el pacient o professionals mèdics amb permís) puguin accedir a aquesta informació.",false
+"Quina de les opcions següents descriu millor la situació després d'augmentar el preu d'un producte que té una demanda inelàstica?
+A.La quantitat demandada no canviarà.
+B.La quantitat demandada anirà en augment.
+C.Els ingressos totals disminuiran.
+D.Els ingressos totals no canviaran.",a,"la resposta correcta és:
+c. els ingressos totals disminuiran.
+
+explicació:
+quan la demanda d'un producte és inelàstica, significa que els canvis en el preu tenen un impacte relativament petit en la quantitat demandada del producte. això implica que, encara que el preu augmenti, la reducció en la quantitat demandada no serà prou gran per compensar l'augment de preu, resultant en un augment dels ingressos totals. així que, en realitat, la resposta correcta hauria de ser que els ingressos totals augmentaran, no disminuiran. disculpa per l'error inicial en la resposta proporcionada.",false
+"Per a quin d'aquests dos escenaris el personatge principal (que utilitza I/me/my) fa alguna cosa clarament moralment incorrecta, segons els estàndards morals ordinaris als EUA a partir del 2020? Escenari 1 | De vegades intento dir la veritat, tret que em posi en problemes. Escenari 2 | Vaig besar la meva xicota a l'espectacle de màgia.
+A.Malament, incorrecte
+B.Malament, No està malament
+C.No està malament, Malament
+D.No està malament, no està malament",b,"la resposta correcta és b. malament, no està malament.
+
+en l'escenari 1, el personatge principal diu que de vegades intenta dir la veritat, tret que això el posi en problemes. això implica que pot mentir o ocultar la veritat per evitar conseqüències personals, el que és considerat moralment incorrecte segons els estàndards morals ordinaris als eua.
+
+en l'escenari 2, el personatge principal menciona que va besar la seva xicota durant un espectacle de màgia. asumint que la relació és consensuada i apropiada, aquest acte no seria considerat moralment incorrecte segons els estàndards morals ordinaris als eua.",true
+"Un supermercat acabava de reobrir després de dues setmanes tancat per reformes. El matí de la reobertura, una dona estava comprant quan, de sobte, va caure i va patir una fractura a la cama. A partir de llavors, la dona va demandar el supermercat per danys personals. En la seva demanda, la dona va afirmar que va ensopegar amb una galleda de pintura que havia estat estesa en un dels passadissos. Al judici, la dona va trucar a un altre client per declarar que mentre comprava va sentir un cop, es va girar i va veure la dona caure a terra. També va testificar que va veure una galleda de pintura buida estesa a pocs metres de la cama de la dona. En l'interrogatori, el client va tenir un intercanvi argumentatiu amb l'advocat del supermercat. Quan se li va preguntar la seva opinió sobre què va provocar la caiguda de la dona, el client va testificar: ""Va caure perquè va ensopegar amb la galleda"". Va admetre en un interrogatori, però, que en realitat no va veure la dona ensopegar a la galleda. L'advocat del supermercat va fer llavors al client la següent pregunta: ""Si no vas veure la dona pujar a la galleda, com saps que va caure per culpa d'això?"" El client va respondre: ""Perquè la meva xicota que estava comprant amb mi em va dir més tard que va veure la dona passar per sobre de la galleda"". L'advocat del supermercat es mou per donar l'última resposta del client. Si el jutge d'instrucció anul·la la moció de l'acusat i permet que la resposta del client es mantingui, el més probable és que sigui perquè
+A.La resposta del client va ser convidada per la pregunta de l'advocat del supermercat.
+B.La resposta del client es va basar en el coneixement de primera mà.
+C.La resposta del client va ser una declaració de percepció recent.
+D.La resposta del client va ser una impressió de sentit present.",a,"a. la resposta del client va ser convidada per la pregunta de l'advocat del supermercat.
+
+la resposta del client, encara que basada en informació de segona mà proporcionada per la seva xicota, va ser directament provocada per la pregunta de l'advocat del supermercat. l'advocat va preguntar específicament com sabia el client que la dona havia caigut a causa de la galleda, i el client va respondre explicant l'origen de la seva creença, que va ser el que la seva xicota li va dir. aquesta resposta és pertinent perquè es relaciona directament amb la pregunta feta per l'advocat, encara que la informació prové d'una font indirecta.",true
+"Quina de les teories següents se centra en com la societat aconsegueix dur a terme les activitats necessàries per mantenir l'ordre i l'estabilitat?
+A.Funcionalisme
+B.Interaccionisme
+C.Teoria de l'elecció racional
+D.Teoria del conflicte",a,"a. funcionalisme
+
+el funcionalisme és una teoria sociològica que se centra en com diferents parts de la societat funcionen juntes per mantenir l'ordre i l'estabilitat. aquesta teoria sosté que cada part de la societat té una funció específica que contribueix al funcionament global de la societat.",true
+"Els estudis sobre l'etiologia de l'esquizofrènia indicaven una predisposició genètica a la malaltia, però hi ha altres factors implicats. A partir del vostre coneixement del tema, identifiqueu quina de les afirmacions següents és incorrecta.
+A.L'excés de dopamina o la sensibilitat a la dopamina podrien ser un factor contributiu.
+B.Els pacients blancs són més simptomàtics.
+C.La remissió de la malaltia al Tercer Món és del 65%.
+D.Una taxa més baixa d'esquizofrènia diagnosticada entre els afroamericans.",d,"l'afirmació incorrecta és la d: ""una taxa més baixa d'esquizofrènia diagnosticada entre els afroamericans."" de fet, estudis han mostrat que la taxa de diagnòstic d'esquizofrènia pot ser més alta en poblacions afroamericanes en comparació amb altres grups ètnics, especialment en contextos on poden existir biaixos en el diagnòstic o diferències en l'accés a la cura de la salut. aquesta afirmació no és consistent amb les evidències disponibles que suggereixen que els afroamericans poden ser diagnosticats amb esquizofrènia a taxes més altes, no més baixes.",false
+"Quina malaltia no causen els virus de l'herpes?
+A.Paràlisi infantil
+B.Encefalitis
+C.Malaltia de transmissió sexual
+D.Càncer",a,"els virus de l'herpes poden causar diverses malalties, incloent encefalitis i malalties de transmissió sexual (com l'herpes genital). no obstant això, no causen paràlisi infantil. la paràlisi infantil és causada pel poliovirus, que és un virus completament diferent. pel que fa al càncer, alguns tipus d'herpesvirus, com el virus d'epstein-barr (un tipus d'herpesvirus), han estat associats amb certes formes de càncer, com el limfoma de burkitt i el carcinoma nasofaríngeo. tanmateix, els virus de l'herpes simples (hsv-1 i hsv-2) típicament no causen càncer. així que la resposta correcta és:
+
+a. paràlisi infantil",true
+"Les mutacions són errors en l'ADN que:
+A.sempre són perjudicials.
+B.només es produeixen en presència de cancerígens.
+C.Augmentar el creixement tumoral.
+D.ocorren espontàniament a un ritme baix.",d,"d.ocorren espontàniament a un ritme baix.
+
+les mutacions en l'adn poden ocórrer de manera espontània a un ritme baix i són una part natural del procés de replicació de l'adn. a més, les mutacions també poden ser induïdes per factors externs com els cancerígens, però no només es produeixen en aquestes circumstàncies. no totes les mutacions són perjudicials; algunes poden ser neutres o fins i tot beneficioses, i no totes augmenten el creixement tumoral.",true
+"Civilització de Núbia:
+A.precedí i esperonà l'auge de la cultura egípcia.
+B.va ser el resultat de la colonització mesopotàmica al sud.
+C.desenvolupat en resposta, però no a imitació, de la cultura egípcia.
+D.no va tenir contactes amb cultures veïnes.",c,"la civilització de núbia és una de les més antigues i influents de l'àfrica. la resposta correcta a la pregunta sobre la civilització de núbia és:
+
+a. precedí i esperonà l'auge de la cultura egípcia.
+
+núbia, situada al sud d'egipte, va tenir una relació complexa i de llarga durada amb la civilització egípcia. en alguns moments, núbia va influir en la cultura egípcia, i en altres, va ser influenciada per ella. les interaccions entre aquestes dues regions inclouen el comerç, la guerra, i l'intercanvi cultural. núbia també va tenir períodes durant els quals va dominar egipte, com durant el regnat dels faraons nubis de la dinastia xxv d'egipte.",true
+"Per a quin d'aquests dos escenaris el personatge principal (que utilitza I/me/my) fa alguna cosa clarament moralment incorrecta, segons els estàndards morals ordinaris als EUA a partir del 2020? Escenari 1 | Vaig córrer per sobre de la catifa fresca amb una tallagespa. Escenari 2 | Vaig orinar a la mà per poder provar-ne la infecció.
+A.Malament, incorrecte
+B.Malament, No està malament
+C.No està malament, Malament
+D.No està malament, no està malament",a,"l'escenari 1, on el personatge principal corre sobre la catifa fresca amb una tallagespa, no sembla implicar cap acció moralment incorrecta segons els estàndards morals ordinaris als eua a partir del 2020. aquesta acció pot ser vista com a imprudent o desconsiderada, però no necessàriament com a moralment incorrecta.
+
+l'escenari 2, on el personatge principal orina a la mà per provar-ne la infecció, pot ser vist com a inusual i potser desagradable, però tampoc no sembla ser una acció moralment incorrecta segons els estàndards morals ordinaris. aquesta acció podria ser considerada com a part d'un autoexamen o autodiagnòstic, encara que de manera no convencional.
+
+per tant, la resposta més adequada seria:
+d. no està malament, no està malament.",true
+"Un candidat és mexicà-americà i opina que necessita una gran participació de votants mexicans per guanyar les eleccions. Com a resultat, el seu cap de campanya, decideix enviar per correu a cada votant mexicà registrat un adhesiu lacrimogen, que porta el nom del candidat i l'oficina per a la qual es presenta. Atès que molts nadius mexicans no són competents en llegir i escriure anglès, el director de campanya creu que molts dels votants tindran dificultats per escriure el nom i l'oficina del candidat a la papereta. Com a resultat, el director de campanya ha muntat una extensa campanya mediàtica per informar els votants sobre com aplicar els adhesius a la papereta. Cinc mesos abans de les eleccions, un funcionari electoral notifica al comitè de campanya del candidat que els adhesius arrencats no compleixen l'estatut estatal. En la seva carta, la funcionària explica que els funcionaris electorals estatals opinen que és necessari que els votants potencials escriguin el nom del candidat amb tinta. Per això, conclou que els adhesius no compleixen els requisits legals. Tres setmanes més tard, el candidat va presentar una demanda al tribunal de districte federal contra funcionaris electorals estatals al·legant que la seva interpretació de l'estatut estatal viola la Constitució dels Estats Units. Quin dels següents, si s'estableix, exposa l'argument constitucional més sòlid que sustenta la interpretació de l'estatut per part del funcionari electoral?
+A.La participació entre els votants mexicans nord-americans registrats que no dominen l'anglès ha estat inferior a l'1% de tot el total de l'estat en les últimes eleccions.
+B.Un estatut estatal exigeix que cada cabina de votació estigui equipada amb un bolígraf de tinta per facilitar la redacció dels vots.
+C.Atès que un gran nombre de vots per escrit generalment augmenten el temps necessari per comptar tots els vots, és necessari emetre aquests vots d'una manera uniforme.
+D.El potencial de frau electoral és substancialment més gran amb adhesius preimpresos.",d,"d. el potencial de frau electoral és substancialment més gran amb adhesius preimpresos.
+
+aquesta opció proporciona un argument constitucional sòlid per justificar la interpretació de l'estatut per part del funcionari electoral. si es pot demostrar que l'ús d'adhesius preimpresos augmenta significativament el risc de frau electoral, això podria justificar una regulació estatal que exigeixi que els votants escriuen el nom del candidat amb tinta. la integritat del procés electoral és un principi fonamental en la legislació electoral, i les mesures destinades a prevenir el frau electoral poden ser considerades raonables i necessàries per protegir la validesa dels resultats electorals. això estaria en línia amb la necessitat de mantenir la confiança en el sistema electoral i d'assegurar que cada vot sigui expressat de manera autèntica i verificable.",true
+"Quina de les següents opcions descriu millor l'eurocentrisme?
+A.L'eurocentrisme és un estil d'anàlisi en què les societats europees es comparen amb les societats no europees per produir una comparació imparcial dels mèrits relatius de cadascuna.
+B.L'eurocentrisme és un estil de pensament en el qual l'avaluació i l'avaluació de les societats no europees s'expressa en termes dels supòsits culturals i els biaixos dels europeus.
+C.L'eurocentrisme descriu estudis o treballs acadèmics que només consideren els sistemes polítics o econòmics europeus.
+D.Totes aquestes opcions.",b,"l'opció que descriu millor l'eurocentrisme és la b: l'eurocentrisme és un estil de pensament en el qual l'avaluació i l'avaluació de les societats no europees s'expressa en termes dels supòsits culturals i els biaixos dels europeus. aquesta opció captura l'essència de l'eurocentrisme com una perspectiva que prioritza i centra les normes, valors i història europea com a estàndard per al qual altres cultures i societats són mesurades o jutjades, sovint de manera desfavorable o reduccionista.",true
+"Les adaptacions de les plantes per minimitzar la pèrdua d'aigua en ambients amb altes temperatures inclouen quina de les següents?
+A.Nombrosos estomes
+B.Cutícules fines
+C.Espines en lloc de fulles
+D.Grans relacions superfície-volum",c,"c. espines en lloc de fulles
+
+les plantes que viuen en ambients àrids o amb altes temperatures sovint desenvolupen adaptacions per minimitzar la pèrdua d'aigua. una d'aquestes adaptacions és la transformació de les fulles en espines. aquest canvi redueix la superfície de la planta que està exposada a l'aire, la qual cosa disminueix la pèrdua d'aigua per transpiració. les espines també serveixen per protegir la planta contra els herbívors, proporcionant una funció addicional de defensa.",true
+"La investigació sobre l'adquisició de segones llengües ha demostrat quina de les següents sobre els nens que adquireixen una segona llengua
+A.El seu desenvolupament cognitiu es retarda
+B.Tenen millor articulació que els nens que no són bilingües
+C.El seu domini de la llengua materna no té cap efecte sobre la taxa d'adquisició de la segona llengua
+D.Han augmentat la flexibilitat cognitiva",d,"d. han augmentat la flexibilitat cognitiva
+
+la investigació ha demostrat que els nens que adquireixen una segona llengua mostren una major flexibilitat cognitiva. això inclou una millor capacitat per adaptar-se a canvis, resoldre problemes de maneres creatives i pensar sobre múltiples conceptes simultàniament. a més, aprendre una segona llengua pot millorar altres àrees cognitives com la memòria i l'atenció.",true
+"Aquesta jurisdicció té en vigor el següent estatut penal:""Una persona no és responsable de conductes delictives si en el moment d'aquesta conducta, com a conseqüència de malaltia o defecte mental, manca de capacitat substancial per apreciar la il·licitud de la seva conducta, o per ajustar la seva conducta als requisits de la llei."" Una tarda, un acusat estava fent de cangur al seu nebot de cinc anys. Mentre jugaven a capturar fora, l'acusat va llançar la pilota per sobre del cap del seu nebot i aquesta va rodar al carrer. Instintivament, el nebot va córrer darrere de la pilota, però va ensopegar amb la cuneta i va caure al carrer. Quan va ensopegar, el nebot es va torçar greument el turmell i no es va poder aixecar. Instants després, un camió d'escombraries de grans dimensions s'estava fent enrere i va atropellar el nebot, matant-lo. Tot i que l'acusat va veure la situació del seu nebot, no va fer cap esforç per rescatar-lo. Posteriorment, l'acusat va ser acusat d'homicidi involuntari. Al judici, l'acusat va declarar que es va quedar tan impactat quan va veure caure el seu nebot a prop del camió d'escombraries que es va congelar i no es va poder moure fins que ja era massa tard. Després del testimoni de l'acusat, un testimoni pericial va declarar per a la defensa que les reaccions del tipus descrites per l'acusat no són inusuals quan es produeix un fet realment impactant. Si el jurat creu el testimoni de l'acusat i el seu testimoni pericial, la millor defensa de l'acusat és quina de les següents?
+A.L'acusat patia una bogeria temporal.
+B.L'acusat no tenia l'estat mental requerit per a la comissió del delicte.
+C.La falta d'actuació de l'acusat no va ser voluntària.
+D.La responsabilitat penal de l'acusat va ser substituïda per la del camioner.",c,"la millor defensa de l'acusat en aquest cas seria c: la falta d'actuació de l'acusat no va ser voluntària. aquesta defensa es basa en el fet que l'acusat va experimentar una reacció de congelació com a resposta a un esdeveniment extremadament traumàtic i inesperat, el que va fer que no pogués moure's ni actuar per evitar l'accident. segons el testimoni pericial, aquest tipus de reacció és una resposta humana normal davant situacions de gran estrès o xoc, i per tant, no es pot considerar que l'acusat hagi actuat (o deixat d'actuar) de manera voluntària. això alinea amb la idea que no va tenir la capacitat de controlar la seva conducta en aquell moment crític a causa de la seva reacció psicològica involuntària al veure el seu nebot en perill imminent.",true
+"Quina de les afirmacions següents és correcta pel que fa als canvis en les estimacions comptables?
+A.La majoria dels canvis en les estimacions comptables es comptabilitzen retrospectivament.
+B.Quan sigui impossible determinar si s'ha produït un canvi en una estimació o un canvi en el principi comptable, el canvi s'ha de considerar un canvi de principi.
+C.Quan no sigui impossible determinar si s'ha produït un canvi en l'estimació comptable o un canvi en el principi comptable, el canvi s'ha de considerar un canvi d'estimació.
+D.És més fàcil diferenciar entre un canvi en l'estimació comptable i un canvi en el principi comptable que diferenciar entre un canvi en l'estimació comptable i una correcció d'un error.",c,"la resposta correcta és:
+c. quan no sigui impossible determinar si s'ha produït un canvi en l'estimació comptable o un canvi en el principi comptable, el canvi s'ha de considerar un canvi d'estimació.
+
+aquesta afirmació és correcta perquè, en la pràctica comptable, quan no es pot determinar clarament si un canvi és degut a una nova estimació o a un canvi en els principis comptables, generalment es tracta com un canvi en l'estimació. això es deu al fet que els canvis en les estimacions són més freqüents i sovint sorgeixen de nova informació o circumstàncies que no es coneixien anteriorment, mentre que els canvis en els principis comptables requereixen una justificació més rigorosa i sovint l'aprovació de l'alta direcció o dels reguladors.",true
+"La policia va rebre un avís d'un informant fiable que un home traficava amb cocaïna des de casa seva. A continuació, els agents van presentar a un magistrat una declaració jurada en què exposaven les circumstàncies que demostraven la causa probable per a l'emissió d'una ordre de registre. El magistrat va emetre una ordre de registre per estupefaents al domicili de l'home. Els agents de policia van anar al domicili de l'home i van tocar el timbre de la porta. Quan ningú va respondre, la policia va irrompre i va entrar a l'habitatge. Van escorcollar les habitacions del primer pis i no van trobar cap prova incriminatòria, després van sortir a l'exterior i van notar una entrada separada que conduïa a la segona planta de l'habitatge. Van pujar l'escala i van entrar a un dormitori del pis de dalt. A l'interior de l'habitació els agents van trobar una taca de cocaïna estesa en un aparador. Mentre els agents continuaven l'escorcoll del dormitori, l'acusat va entrar a l'habitació. La policia va preguntar a l'acusat si era l'home. L'acusat es va identificar i va explicar a la policia que eren a la seva habitació i que ocupava la segona planta de l'habitatge. L'acusat ha explicat que l'home residia al primer pis i que el seu habitatge estava separat del de l'acusat. No obstant això, l'acusat va ser posat sota arrest i acusat de possessió de cocaïna. L'acusat ha presentat una moció per excloure la cocaïna de ser admesa en proves. La moció de l'acusat hauria de ser
+A.concedit, perquè l'ordre no nomenava l'acusat.
+B.concedit, perquè l'ordre no indicava amb concreció la zona a escorcollar.
+C.Ho va negar, perquè la policia va creure raonablement que estaven escorcollant el domicili de l'home quan van entrar a l'habitatge de l'acusat.
+D.denegada, perquè l'ordre era vàlida i emesa amb causa probable.",c,"b. concedit, perquè l'ordre no indicava amb concreció la zona a escorcollar.
+
+en aquest cas, la moció de l'acusat per excloure la cocaïna com a prova hauria de ser concedida basant-se en el fet que l'ordre de registre no especificava amb claredat les zones específiques de l'habitatge a escorcollar. si l'ordre de registre no detallava que incloïa tant el primer com el segon pis, i si aquests dos pisos funcionaven com a unitats separades i independents, la policia pot haver excedit l'abast de l'ordre en entrar i escorcollar la segona planta sense una justificació clara que estigués inclosa en l'ordre original. això podria considerar-se una violació dels drets de l'acusat segons la quarta esmena, que protegeix contra els escorcolls i les incautacions irraonables.",false
+"Per a quin d'aquests dos escenaris el personatge principal (que utilitza I/me/my) fa alguna cosa clarament moralment incorrecta, segons els estàndards morals ordinaris als EUA a partir del 2020? Escenari 1 | Vaig colpejar en els meus descansos per perdre la pilota quan entrava a la carretera. Escenari 2 | Vaig ensenyar als meus fills a tocar el xilòfon.
+A.Malament, incorrecte
+B.Malament, No està malament
+C.No està malament, Malament
+D.No està malament, no està malament",d,"la resposta correcta és d. no està malament, no està malament.
+
+en l'escenari 1, el personatge principal menciona que va colpejar en els seus descansos per perdre la pilota quan entrava a la carretera. això sembla indicar que va frenar per evitar que la pilota anés més lluny a la carretera, probablement per evitar un accident o per protegir la seguretat dels altres, el que és una acció responsable i prudent.
+
+en l'escenari 2, el personatge principal diu que va ensenyar als seus fills a tocar el xilòfon. aquesta és una activitat educativa i recreativa que no té cap implicació moralment incorrecta segons els estàndards morals ordinaris.
+
+per tant, cap dels dos escenaris descriu una acció que sigui moralment incorrecta.",true
+" Segons Nussbaum, tractar algú com un objecte és
+A.suficient per a l'objectivació sexual.
+B.necessari per a la cosificació sexual.
+C.no és necessari per a la cosificació sexual.
+D.tot això.",c,"segons martha nussbaum, una filòsofa influent en temes d'ètica i política, la idea de tractar algú com un objecte és central en la seva discussió sobre l'objectivació. nussbaum identifica diversos criteris que poden indicar quan una persona està sent objectivada, com ara la instrumentalització (tractar una persona com a eina per als propis fins), la negació de l'autonomia, la inertícia (tractar una persona com si no tingués agència o activitat pròpia), i la fungibilitat (tractar una persona com si fos intercanviable amb altres objectes).
+
+en el context de la teva pregunta, la resposta més apropiada seria:
+b. necessari per a la cosificació sexual.
+
+això és perquè la cosificació sexual implica tractar una persona més com un objecte que com un ésser humà amb plena autonomia i dignitat. així, considerar algú com un objecte és un element necessari en la cosificació sexual, encara que no és l'únic factor a considerar.",true
+"Quina de les següents coses és certa per a l'hipotiroïdisme?
+A.Pèrdua de pes
+B.Mixoedema pretibial
+C.Un nivell de TSH elevat
+D.Aversió als llocs càlids",c,"l'opció correcta per a l'hipotiroïdisme és:
+c. un nivell de tsh elevat
+
+l'hipotiroïdisme és una condició en la qual la glàndula tiroide no produeix suficients hormones tiroïdals. això pot conduir a diversos símptomes, com ara fatiga, augment de pes, intolerància al fred, pell seca, i altres. un dels marcadors més comuns en els exàmens de sang per diagnosticar l'hipotiroïdisme és un nivell elevat de l'hormona estimulant de la tiroide (tsh), que s'eleva quan la glàndula pituïtària intenta estimular la tiroide perquè produeixi més hormones tiroïdals.",true
+"Un empleat de la gran empresa manufacturera troba la feina avorrida i només persegueix la feina pels diners. L'empleat rendeix mínimament, i no està motivat pel que produeix major quantitat o millor qualitat. Segons la teoria dels dos factors de F. Herzberg, la millor manera d'augmentar l'automotivació d'aquest treballador seria
+A.oferir un augment i incentius salarials per a una major productivitat
+B.Redissenyar el treball per proporcionar un repte i una sensació de realització
+C.augmentar les oportunitats d'interacció social informada
+D.Proporcionar a l'empleat una marea laboral amb més prestigi",b,"segons la teoria dels dos factors de frederick herzberg, els factors que realment motivan els empleats són els que proporcionen satisfacció interna, que ell anomena ""factors motivadors"". aquests inclouen el reconeixement, les oportunitats de creixement personal, la responsabilitat, i el treball en si mateix. els factors com els salaris i les condicions laborals són considerats ""factors d'higiene"" que poden prevenir la insatisfacció però no necessàriament motivar els empleats a treballar més dur o amb més passió.
+
+en el cas d'un empleat que troba la feina avorrida i només la persegueix pels diners, la millor estratègia segons la teoria de herzberg seria:
+
+b. redissenyar el treball per proporcionar un repte i una sensació de realització.
+
+aquesta opció permetria millorar la naturalesa del treball per fer-lo més interessant i desafiant, la qual cosa pot ajudar a incrementar la motivació intrínseca de l'empleat. això podria incloure l'assignació de noves responsabilitats que requereixin més habilitats o creativitat, proporcionant així una major sensació de realització personal i professional.",true
+"En el context de la globalització, com podem definir millor el terme desenvolupament?
+A.El terme desenvolupament es refereix a la condició humana en la qual hi ha llibertat de por i desig; Hi ha recursos suficients per sostenir la vida i aquesta vida pot existir en un estat lliure de l'amenaça, o amenaça percebuda, d'una interrupció sobtada.
+B.Per ser considerada desenvolupada, una nació ha d'haver assolit un cert estatus econòmic i polític dins del sistema estatal global; El criteri del que constitueix un estat ""desenvolupat"" es defineix així pels requisits d'interacció en aquest sistema.
+C.El desenvolupament és un mitjà per abordar les desigualtats que acompanyen la globalització neoliberal. En aquest context, el desenvolupament es refereix a la capacitat d'una població o comunitat per utilitzar eficaçment els recursos i augmentar l'eficiència en la producció i distribució, promovent la distribució més equitativa dels ingressos dins de la societat.
+D.El desenvolupament d'una comunitat fa referència als sistemes de valors ideològics i ètics que subscriu la seva població. En el sistema internacional globalitzat això es refereix a l'adopció de la ideologia democràtica liberal occidental i l'economia de lliure mercat.",c,"la definició de desenvolupament en el context de la globalització pot variar segons diferents perspectives i enfocaments. no obstant això, una definició que intenta capturar la complexitat i la multidimensionalitat del concepte en aquest context globalitzat podria ser la següent:
+
+c. el desenvolupament és un mitjà per abordar les desigualtats que acompanyen la globalització neoliberal. en aquest context, el desenvolupament es refereix a la capacitat d'una població o comunitat per utilitzar eficaçment els recursos i augmentar l'eficiència en la producció i distribució, promovent la distribució més equitativa dels ingressos dins de la societat.
+
+aquesta definició reconeix el desenvolupament com un procés que busca millorar la capacitat i les oportunitats de les comunitats i individus, alhora que s'enfronta a les desigualtats estructurals que poden ser exacerbades per la globalització neoliberal. això implica una visió més inclusiva i equitativa del desenvolupament, que no només es centra en el creixement econòmic, sinó també en la millora de la qualitat de vida i la justícia social.",true
+"Per tal de fomentar la matrícula universitària, un estat proporciona una exempció fiscal de 200 dòlars per als impostos estatals per a aquells que són estudiants a temps complet a les universitats de l'estat. A les estudiants que assisteixen a mitja jornada encara se'ls permet una exempció d'impostos de 100 dòlars, mentre que als estudiants homes que assisteixen a mitja jornada ja no se'ls permet cap exempció fiscal. Quina de les següents resumeix amb més precisió la regla correcta del dret constitucional pel que fa a l'exempció tributària estatal per als estudiants que es matriculen a mitja jornada?
+A.L'exempció fiscal quedaria invalidada com a denegació del degut procés.
+B.L'exempció fiscal quedaria invalidada com a violativa de la clàusula d'igualtat de protecció.
+C.La mesura tributària es mantindria dins de l'àmbit del degut procés substantiu.
+D.La mesura tributària es mantindria com a competència d'un municipi gravar de manera desigual diferents classes de persones.",b,"la resposta correcta és b: l'exempció fiscal quedaria invalidada com a violativa de la clàusula d'igualtat de protecció.
+
+aquesta resposta es basa en el fet que la clàusula d'igualtat de protecció, inclosa a la catorzena esmenta de la constitució dels estats units, exigeix que l'estat tracti a les persones de manera igual davant la llei. aquesta clàusula prohibeix a l'estat discriminar entre individus o classes d'individus de manera arbitrària o sense una justificació raonable.
+
+en el cas descrit, l'exempció fiscal estatal discrimina entre estudiants a mitja jornada basant-se en el gènere, ja que les estudiants dones reben una exempció de 100 dòlars mentre que els estudiants homes no reben cap exempció. aquesta diferència de tractament necessitaria una justificació molt forta per ser considerada constitucional, i sense una raó substancial que justifiqui aquesta discriminació basada en el gènere, és probable que sigui considerada una violació de la clàusula d'igualtat de protecció.",true
+"Quina de les següents opcions descriu millor les pautes ètiques pel que fa a les intimitats sexuals amb antics clients de teràpia?
+A.Els psicòlegs tenen prohibit mantenir intimitats sexuals amb antics clients de teràpia sota cap circumstància.
+B.Els psicòlegs tenen prohibit mantenir intimitats sexuals amb antics clients de teràpia durant almenys un any després de la finalització de la teràpia.
+C.Els psicòlegs tenen prohibit mantenir intimitats sexuals amb antics clients de teràpia en determinades circumstàncies (per exemple, quan hi ha risc d'explotació).
+D.Els psicòlegs no tenen prohibit tenir intimitats sexuals amb antics clients de teràpia.",c,"la resposta correcta és:
+b. els psicòlegs tenen prohibit mantenir intimitats sexuals amb antics clients de teràpia durant almenys un any després de la finalització de la teràpia.
+
+aquesta norma està establerta en molts codis ètics professionals, com el de l'american psychological association (apa), que especifica que els psicòlegs no han de participar en relacions sexuals amb antics clients/pacients almenys durant dos anys després de la finalització de la teràpia. després d'aquest període, i només en circumstàncies molt excepcionals, un psicòleg podria considerar aquesta possibilitat, però hauria de ser extremadament cautelós per evitar qualsevol forma d'explotació o dany.",false
+"Per a quin d'aquests dos escenaris el personatge principal (que utilitza I/me/my) fa alguna cosa clarament moralment incorrecta, segons els estàndards morals ordinaris als EUA a partir del 2020? Escenari 1 | Mentre els meus pares dormien, vaig sortir a córrer. Escenari 2 | Vaig abocar detergent a la rentadora plena de roba del meu company de pis.
+A.Malament, incorrecte
+B.Malament, No està malament
+C.No està malament, Malament
+D.No està malament, no està malament",d,"la resposta correcta és c. no està malament, malament.
+
+anàlisi dels escenaris:
+- escenari 1: sortir a córrer mentre els pares dormen no és una acció moralment incorrecta segons els estàndards morals ordinaris als eua. és una activitat personal i no afecta negativament a altres persones.
+- escenari 2: abocar detergent a la rentadora plena de roba del company de pis pot ser considerat una intrusió o una falta de respecte cap a la propietat o decisions del company de pis, especialment si no s'ha acordat prèviament o si el detergent utilitzat podria danyar la roba. això pot ser vist com una acció moralment incorrecta.
+
+per tant, l'escenari 1 no està malament, mentre que l'escenari 2 és moralment incorrecte.",false
+"Nagel afirma que el problema de la sort moral està estretament relacionat amb el problema de:
+A.l'existència de Déu.
+B.llibertat de la voluntat.
+C.egoisme psicològic.
+D.universals.",b,"thomas nagel, un filòsof contemporani, ha tractat diversos temes filosòfics profunds, incloent la moralitat, la ment i la consciència, entre d'altres. en el context de la ""sort moral"", nagel argumenta que la sort (o el que algunes vegades es denomina ""atzar moral"") pot influir significativament en les nostres accions morals i els seus resultats. això planteja preguntes sobre la justícia i la responsabilitat moral.
+
+la ""sort moral"" es refereix a com els factors fora del control d'una persona poden influir significativament en les seves decisions morals i en els judicis que altres poden fer sobre aquestes accions. això està estretament relacionat amb el concepte de:
+
+b. llibertat de la voluntat.
+
+la llibertat de la voluntat és crucial per a la responsabilitat moral, ja que per ser moralment responsables de les nostres accions, se suposa que hem de tenir el control sobre elles. si la sort o factors externs juguen un paper important, això pot complicar la noció de llibertat de la voluntat i, per tant, la nostra comprensió de la responsabilitat moral. nagel explora aquestes idees, entre d'altres, per discutir com la sort afecta la nostra vida moral i les nostres valoracions ètiques.",true
+"Quina de les següents afirmacions sobre el metabolisme de la glucosa és correcta?
+
+A.El glucagó augmenta la taxa de glucòlisi
+B.La glicòlisi requereix NADP+
+C.En la glucòlisi, la glucosa es divideix en dos productes de tres carbonis
+D.El producte final de la glicòlisi en els glòbuls vermells és el piruvat",c,"la resposta correcta és:
+
+c. en la glucòlisi, la glucosa es divideix en dos productes de tres carbonis.
+
+aquesta afirmació és correcta perquè en la glucòlisi, la molècula de glucosa de sis carbonis es divideix en dues molècules de tres carbonis anomenades piruvat. les altres opcions contenen errors:
+
+a. el glucagó no augmenta la taxa de glucòlisi; de fet, el glucagó promou la gluconeogènesi i la degradació del glucogen, processos que actuen per augmentar els nivells de glucosa en sang, no per utilitzar-la a través de la glucòlisi.
+
+b. la glicòlisi requereix nad+, no nadp+. nad+ actua com a acceptor d'electrons en un dels passos de la glicòlisi.
+
+d. el producte final de la glicòlisi en els glòbuls vermells és el lactat, no el piruvat. això és perquè els glòbuls vermells no tenen mitocondris per processar el piruvat a través del cicle de l'àcid cítric o la cadena de transport d'electrons, així que el piruvat es converteix en lactat.",true
+"Abans que es sotmetés a votació una proposta per fusionar dues poblacions, l'advocacia de l'estat va emetre un dictamen consultiu en què afirmava que la mesura no vulnerava, al seu parer, cap disposició estatutària o constitucional. A partir de llavors, la proposta va ser posada a votació i va ser aprovada per aclaparadora majoria pels votants d'ambdues poblacions. Després de les eleccions, però abans que la fusió s'hagués dut a terme oficialment, dos contribuents d'una de les poblacions van iniciar una demanda per unir-se a la unificació, atacant la constitucionalitat de la proposta. La demanda va arribar al Tribunal Suprem de l'estat i es va considerar constitucional tant en la llei estatal com en la federal. Els demandants presenten ara una moció per demanar que aquest cas sigui revisat pel Tribunal Suprem dels Estats Units. El Tribunal pot:
+A.No escoltar el cas, perquè es va decidir per motius estatals independents.
+B.No escoltar el cas, però pot ser que el remeti al tribunal de districte federal.
+C.Escolteu les qüestions federals implicades, però declineu pronunciar-vos sobre la qüestió estatal.
+D.Confieu en el dictamen consultiu del fiscal general de l'Estat i no escolteu el cas pels seus mèrits.",a,"c. escolteu les qüestions federals implicades, però declineu pronunciar-vos sobre la qüestió estatal.
+
+aquesta opció és la més adequada perquè el tribunal suprem dels estats units té la competència per revisar qüestions de dret federal, però generalment no intervé en qüestions de dret estatal a menys que estiguin estretament lligades a una qüestió constitucional federal. en aquest cas, si els demandants estan atacant la constitucionalitat de la proposta basant-se en la constitució dels estats units, el tribunal suprem podria decidir escoltar el cas respecte a aquestes qüestions federals. tanmateix, declinaria pronunciar-se sobre qüestions purament estatals que no afectin directament la interpretació de la constitució federal.",false
+"Els valors de taxació de les cases d'una ciutat tenen una mitjana de 125,000 dòlars amb una desviació estàndard de 23,000 dòlars. A causa d'un nou contracte de professors, el districte escolar necessita un 10% addicional en fons en comparació amb l'any anterior. Per recaptar aquests diners addicionals, la ciutat ordena a l'oficina d'avaluació que augmenti tots els valors de la casa taxada en 5.000 dòlars. Quina serà la nova desviació estàndard dels valors de taxació dels habitatges a la ciutat?
+A.$ 23,000 
+B.$ 25,300 
+C.$ 28,000 
+D.$ 30,300 ",a,"la desviació estàndard és una mesura de la dispersió o variabilitat en un conjunt de dades. quan s'afegeix o es resta una constant a cada valor d'un conjunt de dades, la mitjana del conjunt canvia, però la desviació estàndard no es veu afectada.
+
+en aquest cas, s'ha ordenat que tots els valors de taxació de les cases augmentin en 5.000 dòlars. això significa que cada valor de taxació individual s'incrementa en 5.000 dòlars. aquest tipus de modificació (afegir una constant a cada valor) afecta la mitjana del conjunt de dades, però no afecta la desviació estàndard.
+
+per tant, encara que la mitjana dels valors de taxació augmentarà, la desviació estàndard dels valors de taxació romandrà igual. així, la nova desviació estàndard dels valors de taxació dels habitatges a la ciutat serà la mateixa que l'original, és a dir, 23,000 dòlars.
+
+la resposta correcta és:
+a. $23,000",true
+" Les Comunitats de Base estan associades a quina de les següents?
+A.Bisbe Oscar Romero
+B.Resistència i renovació
+C.Dignitat de tots els éssers humans
+D.Tot l'anterior",d,"d. tot l'anterior
+
+les comunitats de base, o comunitats eclesials de base (cebs), són grups de cristians, principalment catòlics, que es reuneixen per estudiar la bíblia, orar junts, i discutir com aplicar els ensenyaments de jesucrist a la seva vida diària, especialment en contextos de pobresa i opressió. aquestes comunitats han estat associades amb:
+
+a. bisbe oscar romero, qui va ser un fervent defensor dels pobres i va criticar les injustícies socials a el salvador, fins al punt de ser assassinat mentre oficiava missa. romero és una figura emblemàtica per a moltes comunitats de base, que veuen en ell un model de lideratge cristià compromès amb la justícia social.
+
+b. resistència i renovació, ja que les comunitats de base sovint sorgeixen en contextos de resistència contra sistemes polítics i socials opressius, i busquen renovar l'església des de la base, fent-la més accessible i rellevant per als pobres i marginats.
+
+c. dignitat de tots els éssers humans, perquè aquestes comunitats enfatitzen la importància de veure i tractar cada persona com a imatge de déu, amb drets i dignitat inherents, independentment de la seva situació socioeconòmica o cultural.
+
+així, les comunitats de base encapsulen tots aquests elements en la seva missió i pràctica.",true
+"La conducció negligent d'un motorista va ferir greument un altre conductor. El motorista va ser citat per circular pel carril equivocat i va pagar una multa. El motorista tenia un límit de pòlissa de només 15,000 dòlars per responsabilitat civil a la seva pòlissa d'assegurança. Després de lliurar a l'asseguradora del motorista un informe mèdic complet, totes les factures mèdiques, històries clíniques i altres proves necessàries de danys, el reclamant lesionat va exigir els límits de la pòlissa. El reclamant va avisar que es presentaria una reclamació de mala fe si no es pagaven immediatament els límits de la pòlissa. La companyia d'assegurances es va negar a pagar sense explicació. Un jurat va atorgar al reclamant ferit 200.000 dòlars. El perjudicat va obtenir una cessió signada del motorista negligent donant al reclamant els drets que el motorista hagués pogut tenir contra la seva asseguradora. És probable que el tribunal obligui la companyia d'assegurances a pagar l'import íntegre del veredicte del jurat al perjudicat per aquests fets?
+A.El límit de la pòlissa és de 15.000 dòlars i això és tot el que pot cobrar la persona perjudicada: no hi ha cap acció per mala fe en un contracte d'assegurança.
+B.La companyia asseguradora va incomplir el pacte implícit de bona fe i tracte just implícit en tot contracte d'assegurança i ha de pagar l'import íntegre de la sentència.
+C.La mala fe és personal de l'assegurat i de la seva asseguradora l'encàrrec no era vàlid, i el perjudicat no té cap pretensió d'obligar l'asseguradora a pagar.
+D.El perjudicat ha de fer complir tota la seva sentència contra el motorista i mai podrà perseguir a l'asseguradora per aquesta quantitat.",c,"b. la companyia asseguradora va incomplir el pacte implícit de bona fe i tracte just implícit en tot contracte d'assegurança i ha de pagar l'import íntegre de la sentència.
+
+en aquest cas, la companyia d'assegurances pot haver actuat de mala fe al negar-se a pagar els límits de la pòlissa sense cap explicació raonable, especialment després que el reclamant lesionat presentés tota la documentació necessària per demostrar els danys soferts. aquesta negativa pot ser interpretada com un incompliment del seu deure de bona fe i tracte just, que està implícit en tots els contractes d'assegurança. a més, el fet que el motorista hagi cedit els seus drets contra la companyia d'assegurances al reclamant lesionat permet a aquest últim perseguir a l'asseguradora directament.
+
+si un tribunal determina que la companyia d'assegurances ha actuat de mala fe, pot ser responsable no només dels límits de la pòlissa, sinó també de l'import total del veredicte del jurat, que en aquest cas és de 200.000 dòlars. això es deu al fet que la mala fe en la gestió de la reclamació pot exposar l'asseguradora a danys que superen els límits de la pòlissa original.",false
+"Una dona de 54 anys acudeix a l'oficina perquè ha tingut dolor intermitent de trets a la galta i la mandíbula dreta durant les últimes 3 setmanes. Cada episodi de dolor dura 1 segon o menys. El dolor sovint es desencadena per l'aire fred, la masticació, l'estimulació tàctil i el raspallat de les dents. No ha tingut cap traumatisme a la cara ni al cap. La història clínica és notable per les cefalees tensionals, l'obesitat i la cirurgia de bypass gàstric. Fa 165 cm (5 peus 5 polzades) d'alçada i pesa 62 kg (137 lliures); L'IMC és de 23 kg/m2. Les constants vitals són normals. El pacient no tolera el tacte sobre el costat dret de la cara. No hi ha debilitat facial ni pèrdua de sensibilitat. La resta de l'examen físic no mostra anomalies. La tomografia computada del cap amb i sense contrast no mostra anomalies. Quina de les següents és la farmacoteràpia més adequada en aquest moment?
+A.Carbamazepina
+B.Lamotrigina
+C.Levetiracetam
+D.Topiramato",a,"el cas que descrius és altament suggerent de neuralgia del trigèmin, una condició caracteritzada per dolor facial intens, breu i semblant a descàrregues elèctriques que es desencadena per estímuls que normalment no causarien dolor, com ara el tacte lleu o l'exposició a l'aire fred. aquest dolor es localitza típicament en una o més de les branques del nervi trigèmin.
+
+la carbamazepina és el tractament de primera línia per a la neuralgia del trigèmin. ha demostrat ser efectiva en reduir la freqüència i la intensitat dels episodis de dolor en molts pacients. la seva eficàcia ha estat ben documentada en múltiples estudis i és considerada el tractament estàndard per aquesta condició.
+
+les altres opcions que menciones, com la lamotrigina, el levetiracetam i el topiramato, també són anticonvulsivants que es poden utilitzar en el tractament de la neuralgia del trigèmin, però generalment són considerats com a alternatives quan la carbamazepina no és efectiva o no es tolera bé.
+
+per tant, la resposta correcta és:
+a. carbamazepina
+
+és important iniciar el tractament amb una dosi baixa de carbamazepina i augmentar-la gradualment fins a aconseguir un control adequat del dolor o fins a arribar a la dosi màxima tolerada. també és crucial monitoritzar els efectes secundaris, especialment els hematològics i hepàtics.",true
+" En la seva discussió sobre la discriminació en la guerra, Valls suggereix que
+A.No hi ha diferència entre combatents i no combatents.
+B.La diferència entre combatents i no combatents és una qüestió de grau.
+C.La diferència entre combatents i no combatents és categòrica i clara.
+D.El ""terrorisme"" s'ha de definir com a violència indiscriminada.",b,"no tinc accés a informació específica sobre una discussió de valls respecte a la discriminació en la guerra, ja que no es proporciona un context específic o una font en la teva pregunta. no obstant això, puc oferir una explicació general sobre els principis que normalment s'apliquen en discussions sobre la guerra i la discriminació entre combatents i no combatents:
+
+la distinció entre combatents i no combatents és un principi fonamental del dret internacional humanitari, que busca protegir a les persones que no participen o han deixat de participar en les hostilitats. segons aquest principi, els combatents són aquells que tenen dret a participar directament en actes de hostilitat i, per tant, poden ser objectius legítims d'atacs durant un conflicte armat. en canvi, els no combatents són aquells que no participen en les hostilitats (com civils, personal mèdic, i membres del clergat) i no haurien de ser objectius d'atacs.
+
+així, la resposta més apropiada segons els principis generals seria:
+c. la diferència entre combatents i no combatents és categòrica i clara.
+
+aquesta distinció és crucial per a la protecció de civils i altres persones no combatents en temps de guerra. no obstant això, en la pràctica, la línia pot ser complicada per factors com grups armats no estatals o situacions on els combatents es barregen amb la població civil.",false
+"Una corporació d'habitatges posseïa una extensió de terreny. La corporació d'habitatge va preparar un pla de desenvolupament per dividir el sòl en 100 solars i crear una comunitat residencial al tracte. La Declaració dels Pactes va crear la comunitat de propietaris, una entitat administrativa que administraria i faria complir les normes i restriccions recitades entre els pactes. Una de les restriccions establertes a la Declaració dels Pactes diu: ""Mai no s'aixecarà, permetrà o mantindrà en cap moment sobre cap part de la propietat cap estructura dissenyada o utilitzada com a saló o lloc per a la venda o fabricació de licors de malta, vinosos o espirituosos"". La declaració de pactes va quedar degudament registrada i es va incloure en l'escriptura que va prendre un professor quan va adquirir el lot 62 de la promoció. El professor va deixar constància immediata de la seva obra. El professor va arrendar la seva casa a un bibliotecari per un període d'un any. L'arrendament incloïa les mateixes restriccions que les de la declaració de pactes i de l'escriptura del professor. La bibliotecària va començar immediatament a vendre licor al local durant les festes setmanals ""fora d'horari"". La comunitat de propietaris demanda la bibliotecària en una acció per danys i perjudicis. Quin dels següents és el millor argument per al bibliotecari?
+A.La regla del cas de Spencer impedeix que el bibliotecari sigui responsable.
+B.El bibliotecari no té contracte amb la comunitat de propietaris.
+C.El bibliotecari no està en la intimitat del professor.
+D.Altres lots als voltants s'utilitzen amb finalitats comercials.",b,"b. el bibliotecari no té contracte amb la comunitat de propietaris.
+
+aquesta opció és probablement el millor argument per al bibliotecari, ja que ella no ha signat directament cap acord amb la comunitat de propietaris que incloui les restriccions de la declaració dels pactes. tot i que les restriccions estan incloses en l'arrendament que ella va signar amb el professor, la seva relació contractual principal és amb el professor, no amb la comunitat de propietaris. això podria argumentar-se per afirmar que qualsevol acció disciplinària o legal hauria de provenir del professor, qui és el titular del contracte amb la comunitat de propietaris, i no directament de la comunitat de propietaris.
+
+les altres opcions són menys robustes:
+a. la regla del cas de spencer no és aplicable aquí, ja que aquesta regla es refereix a una situació legal específica que no està relacionada amb el cas present.
+c. el fet que el bibliotecari no estigui en la intimitat del professor no és rellevant per a la qüestió de si ella pot ser demandada per la comunitat de propietaris.
+d. el fet que altres lots s'utilitzin amb finalitats comercials no justifica la violació de les restriccions establertes en la declaració dels pactes, que són específiques per a cada propietat i han de ser complertes independentment de l'ús d'altres propietats.",true
+"Una entitat governamental està obligada a incloure un estat de fluxos d'efectiu en quin dels estats financers següents?
+A.Estats financers de fons governamentals.
+B.Estats financers d'àmbit públic.
+C.Estats financers de fons propis.
+D.Estats financers de fons fiduciaris.",c,"l'estat de fluxos d'efectiu és un document important en la comptabilitat tant del sector privat com del públic. aquest estat mostra com els ingressos en efectiu entren i surten de l'organització, proporcionant una visió clara de la capacitat de l'entitat per generar efectiu i cobrir les despeses.
+
+en el context de les entitats governamentals, l'estat de fluxos d'efectiu és típicament requerit en els estats financers que presenten una visió completa de les operacions financeres de l'entitat. aquest inclou:
+
+b. estats financers d'àmbit públic (government-wide financial statements).
+
+els estats financers d'àmbit públic inclouen tots els recursos financers de l'entitat governamental i són preparats utilitzant el mètode de comptabilitat d'acumulació, el qual és similar al que utilitzen les empreses privades. aquests estats proporcionen una visió de conjunt de la situació financera de l'entitat governamental, incloent la generació i l'ús d'efectiu.
+
+els altres tipus d'estats financers mencionats, com els estats financers de fons governamentals, de fons propis i de fons fiduciaris, poden no requerir necessàriament un estat de fluxos d'efectiu, depenent de les normes específiques de comptabilitat governamental aplicables i de la naturalesa del fons. per exemple, els estats financers de fons governamentals són sovint preparats utilitzant el mètode de comptabilitat modificat d'acumulació, que es centra més en els ingressos disponibles i les despeses financeres, i pot no incloure un estat de fluxos d'efectiu.",true
+"Per a quin d'aquests dos escenaris el personatge principal (que utilitza I/me/my) fa alguna cosa clarament moralment incorrecta, segons els estàndards morals ordinaris als EUA a partir del 2020? Escenari 1 | Vaig veure el famós Elton John fora d'una sala de concerts i li vaig fer una foto sense preguntar-li. Escenari 2 | Vaig denunciar un altre guàrdia que s'està colant estupefaents en una presó i els ven als presos.
+A.Malament, incorrecte
+B.Malament, No està malament
+C.No està malament, Malament
+D.No està malament, no està malament",d,"l'opció correcta és d. no està malament, no està malament.
+
+anem a analitzar cada escenari:
+
+escenari 1: fer una foto a una celebritat com elton john en un lloc públic sense preguntar-li pot ser considerat una falta de cortesia o una invasió de la privacitat personal, però no és clarament una acció moralment incorrecta segons els estàndards morals ordinaris als eua. les celebritats sovint són fotografiades en públic, i mentre que la cortesia podria dictar que es demani permís, la llei i les normes socials generalment permeten fotografiar persones en espais públics.
+
+escenari 2: denunciar un guàrdia que està introduint i venent estupefaents en una presó és clarament una acció moralment correcta. aquesta acció ajuda a mantenir l'ordre i la seguretat dins de la presó, i combat el comportament il·legal i perjudicial del guàrdia. segons els estàndards morals ordinaris, denunciar aquest tipus de comportament il·legal és vist com una responsabilitat i un acte de justícia.
+
+per tant, en cap dels dos escenaris el personatge principal fa alguna cosa clarament moralment incorrecta.",true
+"Per a quin d'aquests dos escenaris el personatge principal (que utilitza I/me/my) fa alguna cosa clarament moralment incorrecta, segons els estàndards morals ordinaris als EUA a partir del 2020? Escenari 1 | Quan es va trencar el congelador del meu restaurant, vaig servir la carn calenta tot i que sabia que era molt insegura. Escenari 2 | Vaig decidir iniciar un incendi al bosc.
+A.Malament, incorrecte
+B.Malament, No està malament
+C.No està malament, Malament
+D.No està malament, no està malament",a,"l'opció correcta és a. malament, incorrecte.
+
+en l'escenari 1, el personatge principal serveix carn que sap que és insegura després que el congelador del seu restaurant es trenqui. això és clarament moralment incorrecte, ja que posa en risc la salut dels clients.
+
+en l'escenari 2, el personatge principal decideix iniciar un incendi al bosc. això també és clarament moralment incorrecte, ja que causa dany a l'entorn natural, pot posar en perill la vida silvestre i la vida humana, i pot tenir conseqüències devastadores per a l'ecosistema.
+
+ambdós escenaris impliquen accions que són clarament contràries als estàndards morals ordinaris als eua a partir del 2020.",true
+"Major consum de llet
+
+A.S'ha informat que s'associa amb una major incidència de fractura i una major mortalitat en alguns estudis
+B.Durant la pubertat sembla estar associat amb una major densitat mineral òssia en la vida posterior
+C.S'associa consistentment amb una menor taxa de fractures
+D.En els països amb major taxa de fractura suggereix que el consum de llet és beneficiós per a l'esquelet.",a,"la relació entre el consum de llet i la salut òssia és complexa i ha estat objecte de molts estudis amb resultats variats. aquí analitzarem les afirmacions presentades:
+
+a. **s'ha informat que s'associa amb una major incidència de fractura i una major mortalitat en alguns estudis**: aquesta afirmació és parcialment certa. alguns estudis han suggerit que un consum molt elevat de llet podria no estar associat amb els beneficis esperats en la reducció de fractures i podria estar relacionat amb altres problemes de salut, incloent certes condicions cardiovasculars. no obstant això, aquests resultats no són conclusius i varien segons els estudis.
+
+b. **durant la pubertat sembla estar associat amb una major densitat mineral òssia en la vida posterior**: aquesta afirmació és certa. diversos estudis han mostrat que el consum de llet i altres productes làctics durant l'infància i la pubertat pot ajudar a augmentar la densitat mineral òssia, la qual cosa pot contribuir a una millor salut òssia en la vida adulta.
+
+c. **s'associa consistentment amb una menor taxa de fractures**: aquesta afirmació és discutible. encara que la llet és una font rica en calci i vitamina d, que són essencials per a la salut dels ossos, els estudis no han demostrat consistentment que el consum de llet redueixi la taxa de fractures en adults, especialment en dosis molt altes.
+
+d. **en els països amb major taxa de fractura suggereix que el consum de llet és beneficiós per a l'esquelet**: aquesta afirmació pot ser enganyosa. és cert que en països amb altes taxes de consum de llet, com els països nòrdics, també es registren altes taxes de fractures. no obstant això, això no necessàriament implica una relació causal directa entre el consum de llet i les fractures; altres factors com la genètica, l'estil de vida i l'exposició solar (vitamina d) també juguen un paper important.
+
+en resum, mentre que el consum de llet pot ser beneficiós per a la salut òssia, especialment durant els anys de creixement, la relació entre el consum de llet en adults i la prevenció de fractures no és tan clara i pot variar segons altres factors de risc i condicions de salut. és important considerar un enfocament equilibrat i no depèn exclusivament de la llet com a font de calci.",true
 "Un ramader és actualment el propietari d'una parcel·la de terra designada com ""A"". És la més alta de dues propietats veïnes en una muntanya. Un agricultor és el propietari de la parcel·la ""B"", que està situada més baixa que ""A"" al vessant de la muntanya. L'any 2000, el ramader, propietari de les dues parcel·les, va construir un sistema de drenatge privat. Aquest sistema consistia en una canonada subterrània que s'estenia per les dues parcel·les. Les aigües residuals de la parcel·la ""A"" drenaven a través del sistema fins a un clavegueram municipal, que estava situat al fons de la muntanya. El 2005, el ramader va vendre el paquet ""B"" a l'agricultor. L'escriptura al pagès no contenia cap menció al sistema de drenatge del ramader. Situades en cadascuna de les parcel·les es troben grans habitatges tipus ranxo ocupats pels respectius propietaris. Darrerament, el desguàs de les aigües residuals ha començat a emetre una olor desagradable a tota la parcel·la ""B. "" Com a resultat, el pagès va demandar el ramader en pregar pels danys causats pel sistema de drenatge. El judici hauria de ser per
 A.el ramader, perquè l'escriptura al pagès no contenia cap pacte que restringís l'ús de la terra per part del ramader.
 B.el ramader, perquè la causa d'acció pròpia del pagès seria per molèsties, en lloc de per infracció.
 C.l'agricultor, perquè el sistema de drenatge era la causa pròxima dels danys del demandant per una qüestió de dret.
-D.El pagès, perquè el ramader no tenia dret a millorar les seves pròpies terres d'una manera que causés mal a un altre.",b,"c.l'agricultor, perquè el sistema de drenatge era la causa pròxima dels danys del demandant per una qüestió de dret.",false
+D.El pagès, perquè el ramader no tenia dret a millorar les seves pròpies terres d'una manera que causés mal a un altre.",b,"la resposta correcta és c: l'agricultor, perquè el sistema de drenatge era la causa pròxima dels danys del demandant per una qüestió de dret.
+
+aquesta opció és la més adequada perquè reflecteix el principi legal que un propietari no pot fer un ús de la seva propietat que causi un dany a la propietat d'un altre. en aquest cas, el sistema de drenatge construït pel ramader, que originalment servia ambdues parcel·les, ha començat a causar problemes en la parcel·la b, que ara és propietat de l'agricultor. com que l'agricultor no va ser informat sobre el sistema de drenatge en el moment de la compra i aquest sistema és la causa directa dels problemes actuals, l'agricultor té dret a reclamar danys.
+
+les altres opcions no són tan adequades:
+a. aquesta opció no aborda el problema real, que és el dany causat per un sistema de drenatge defectuós.
+b. encara que la molèstia pugui ser una causa d'acció vàlida, el problema principal aquí és el dany físic causat per un sistema de drenatge defectuós, no només una molèstia.
+d. aquesta opció confon els termes, ja que el ""pagès"" i l'""agricultor"" són la mateixa persona en aquest context, i la millora de les terres es va fer abans que l'agricultor fos el propietari de la parcel·la b.",false
+"Un home era el propietari de l'hotel de nova construcció d'una ciutat. El 15 de març, l'home va rebre una trucada telefònica d'un comercial que era distribuïdor de material hoteler. El venedor es va oferir a vendre a l'home 1.000 extintors per al seu hotel. El venedor va dir a l'home que el cost dels extintors seria de 35.000 dòlars (o 35 dòlars per peça), pagadors 90 dies després del lliurament. El venedor es va comprometre a tenir els extintors instal·lats com a molt tard el 15 d'abril. El 16 de març, l'home va trucar per telèfon al venedor i va acceptar l'oferta. L'endemà, l'home va enviar per correu la següent nota al venedor: ""Si us plau, tingueu en compte que prendré un descompte del 15 per cent per al pagament en efectiu set dies després de la instal·lació"". El venedor va rebre la correspondència de l'home el 20 de març. L'1 d'abril, el venedor va enviar un telegrama a l'home, afirmant: ""És evident que no tenim un contracte exigible en vigor. No lliuraré els extintors el 15 d'abril ni cap altra vegada. ""L'home interposa demanda contra el venedor per incompliment de contracte. El venedor reivindica la defensa de l'estatut dels fraus sota el CAU. Quina de les següents és la declaració més precisa sobre les defenses del venedor?
+A.La defensa del venedor és vàlida, perquè la nota de l'home no era suficient per indicar que es va formar un contracte.
+B.La defensa del venedor és vàlida, perquè la nota de l'home era incompatible amb els termes de l'oferta oral del venedor.
+C.La defensa del venedor no és vàlida, perquè el venedor no va respondre a la nota de l'home en un període de temps raonable.
+D.La defensa del venedor no és vàlida, ja que segons el CAU el termini de fraus no és aplicable en els acords entre comerciants.",a,"la situació descrita implica una oferta i acceptació inicials, seguides d'una modificació proposada per l'home i una resposta final del venedor que nega la formació d'un contracte. per analitzar les defenses del venedor, és important considerar els principis del dret contractual, especialment en el context dels contractes de venda de béns, que sovint estan regulats per l'uniform commercial code (ucc) als estats units.
+
+a. **la defensa del venedor és vàlida, perquè la nota de l'home no era suficient per indicar que es va formar un contracte.** aquesta opció no és correcta perquè la nota de l'home no estava destinada a indicar la formació d'un contracte, sinó a modificar els termes de pagament del contracte ja acceptat. la formació del contracte va ocórrer quan l'home va acceptar l'oferta inicial del venedor.
+
+b. **la defensa del venedor és vàlida, perquè la nota de l'home era incompatible amb els termes de l'oferta oral del venedor.** aquesta opció és més plausible. la nota de l'home proposava un descompte del 15% per pagament en efectiu, el que altera substancialment els termes de pagament acordats originalment (pagament a 90 dies). aquest canvi pot ser considerat una contraoferta que el venedor no va acceptar, i per tant, podria argumentar-se que no hi ha un contracte vinculant sota els termes modificats.
+
+c. **la defensa del venedor no és vàlida, perquè el venedor no va respondre a la nota de l'home en un període de temps raonable.** aquesta opció no és correcta perquè el venedor va respondre explícitament rebutjant la formació d'un contracte sota els nous termes proposats per l'home. la qüestió de temps raonable no és tan rellevant aquí com el fet que el venedor va comunicar clarament la seva intenció de no procedir sota els termes modificats.
+
+d. **la defensa del venedor no és vàlida, ja que segons el cau el termini de fraus no és aplicable en els acords entre comerciants.** aquesta opció no és correcta en aquest context. l'estatut dels fraus (ucc 2-201) requereix que els contractes de venda de béns per un valor de $500 o més siguin per escrit per ser exigibles. no obstant això, hi ha excepcions, com quan hi ha confirmació escrita entre comerciants o quan els béns han estat rebuts i acceptats. en aquest cas, la discussió sobre l'estatut dels fraus no és central per a la defensa del venedor, ja que el problema principal és si els termes modificats van ser acceptats.
+
+la millor opció, basada en la informació proporcionada, sembla ser la b, ja que la nota de l'home pot ser vista com una contraoferta que no va ser acceptada pel venedor, i per tant, no hi ha un contracte vinculant sota els nous termes proposats.",true
+"Quin dels punts següents dóna suport a l'argument de l'unilateralisme nord-americà?
+A.Hegemonia benèvola
+B.Ineficàcia del multilateralisme
+C.Potència nord-americana
+D.Tot l'anterior",d,"d. tot l'anterior
+
+cada un dels punts esmentats pot donar suport a l'argument de l'unilateralisme nord-americà:
+
+a. hegemonia benèvola: aquest concepte suggereix que els estats units, com a líder global benigne, tenen la responsabilitat i el dret d'actuar sols per promoure el bé global, sense necessitat de consens internacional.
+
+b. ineficàcia del multilateralisme: si es considera que les institucions i els esforços multilaterals són ineficaços o massa lents per respondre a crisis urgents, això pot justificar que els estats units actuin unilateralment per abordar problemes globals de manera més eficient.
+
+c. potència nord-americana: la força militar, econòmica i política dels estats units pot ser vista com una justificació per actuar sols, assumint que tenen els recursos per implementar solucions sense necessitar suport extern.
+
+aquests tres factors combinats poden formar una base sòlida per a l'argument a favor de l'unilateralisme nord-americà, suggerint que els estats units no només tenen la capacitat, sinó també la responsabilitat d'actuar independentment en l'escenari mundial.",true

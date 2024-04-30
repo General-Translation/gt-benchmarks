@@ -1,102 +1,77 @@
 Question,CorrectAnswer,GivenAnswer,Correct
-"Kura no šīm šausmu filmām radīja visvairāk turpinājumu?
-A.Kliedziens""
-B.Žokļi""
-C.Helovīns""
-D.Piektdiena, 13. datums""",d,d,true
-"Kādā stāvoklī ir 1999. gada filma Magnolija?
-A.California
-B.Dienvidkarolīna
-C.Gruzija
-D.Texas",a,a.,true
-"K-fold krusteniskā validācija ir
-A.lineāri izteikta K
-B.kvadrāts K
-C.kubikmetrā K
-D.eksponenciāls K",a,d,false
-"Šķiet, ka pusmūža pieaugušo ir vairāk ____ nekā vecāku vai jaunāku pieaugušo
-A.Radošs
-B.Neirotisku
-C.Patīkamu
-D.Noteiktu",a,b,false
-"Mutācijas, kas izraisa ahondroplāziju, rada iedarbību, ko var klasificēt kā:
-A.dominējošais negatīvais.
-B.funkcijas pieaugums.
-C.haploinsibility.
-D.funkcijas zudums.",b,d,false
-"Kāda ir oficiālā valoda Nīderlandē?
-A.Dāņu
-B.Zviedru
-C.Vācu
-D.Holandiešu",d,d,true
-" Šis mārketinga un komunikācijas rīks piedāvā tiešu pamudinājumu vai stimulu, lai mudinātu klientus iegādāties produktu/pakalpojumu:
-A.Reklāmas.
-B.Sabiedriskās attiecības.
-C.Pārdošanas veicināšana.
-D.Tiešais mārketings.",c,c,true
-"Kurš no šiem ēdieniem ir izgatavots no cūku zarnām?
-A.haggis
-B.Chitlins
-C.Putraimi
-D.karbonāde suey",b,b,true
+"Tvertne ir trīsstūrveida prizmas formā. Ja trīsstūrveida pamatnes platība ir 116 kvadrātpēdas un tvertne ir 30 pēdas gara, cik daudz ūdens tvertnē būtu, kad tā ir pilna?
+A.1725 pēdas^3
+B.1740 pēdas^3
+C.3480 pēdas^3
+D.6960 pēdas^3",C,"Lai aprēķinātu tvertnes tilpumu, mums jāizmanto trīsstūrveida prizmas tilpuma formulu:
+
+Tilpums = (Pamatnes laukums) × (Prizmas augstums)
+
+Dotā informācija:
+- Trīsstūrveida pamatnes platība ir 116 kvadrātpēdas
+- Tvertne ir 30 pēdas gara (tas ir prizmas augstums)
+
+Ievietojam dotos lielumus formulā:
+
+Tilpums = 116 kvadrātpēdas × 30 pēdas
+        = 3480 kubikpēdas
+
+Tātad, pareizā atbilde ir C. 3480 pēdas^3.",
 "Kāda ir aktiera Antonio Banderasa dzimtā valoda?
 A.Spāņu
 B.Krievu
 C.Vācu
-D.Franču",a,a,true
-"Slavinošas personības maldīgums ir īpašs
-A.Negadījuma maldi
-B.Viltus dilemma
-C.Lūdzot jautājumu
-D.Riņķveida argumentācija",a,b.,false
-"Vai nelikumīgā slepkavība, ko izdarījis valsts ministrs X ārvalstīs, ir jure imperii vai jure gestionis darbība?
-A.Šāda rīcība ir publisks akts (jure imperii)
-B.Šāda rīcība nekad nepiesaista imunitāti
-C.Šāda rīcība ir privāta darbība (jure gestionis)
-D.Šāda rīcība ir publisks akts, bet to aizsargā imunitāte",c,b,false
-"Negatīvā atlikusī autokorelācija ir norādīta, ar kuru no šiem?
-A.Ciklisks modelis atlikumos
-B.Mainīgs modelis atlikumos
-C.Pilnīga nejaušība atlikumos
-D.Atlikumi, kas visi ir tuvu nullei",b,c,false
-"Nosaka H+(aq) koncentrāciju 1,0 M fenola C6H5OH šķīdumā. (Ka fenolam ir 1 × 10^-10.)
-A.1 × 10^-10 m
-B.1 × 10^-9 m
-C.1 × 10^-3 m
-D.1 × 10^-5 M",d,d.,true
-"Kurš no šiem faktoriem tiktu uzskatīts par Riva ""pievilkšanas"" faktoru, apsverot pārcelšanos no Indijas uz Amerikas Savienotajām Valstīm?
-A.Galēja nabadzība
-B.Labāks darbs un lielākas algas
-C.Indijas kastu sistēma
-D.Vardarbība viņas apkārtnē",b,b,true
-"Nosakiet šāda nosacītā priekšlikuma priekšteci: Bites uzvar savu pirmo spēli tikai tad, ja vai nu Aardvarks, vai Chipmunks neuzvar savās pirmajās spēlēs.
-A.Aardvarks neuzvar savu pirmo spēli.
-B.Bites uzvar savu pirmo spēli.
-C.Burunduki neuzvar savu pirmo spēli.
-D.Vai nu Aardvarks, vai Chipmunks neuzvar savas pirmās spēles.",b,d,false
+D.Franču",A,"Pareizā atbilde ir A - spāņu valoda.
+
+Antonio Banderass ir dzimis Spānijā, Malāgā 1960. gadā. Viņa pilnais vārds ir José Antonio Domínguez Bandera. Tātad viņa dzimtā valoda ir spāņu, kas ir oficiālā valoda Spānijā.
+
+Banderass ir viens no starptautiski pazīstamākajiem spāņu aktieriem, kurš plašu atpazīstamību ieguva 1990-tajos gados, filmējoties Holivudas filmās angļu valodā. Tomēr savu karjeru viņš sāka Spānijā 1980-tajos, tieši spāņu valodā.",
+"Kāda ir oficiālā valoda Nīderlandē?
+A.Dāņu
+B.Zviedru
+C.Vācu
+D.Holandiešu",D,"Pareizā atbilde ir D - oficiālā valoda Nīderlandē ir holandiešu valoda.
+
+Holandiešu valoda ir ģermāņu valodu saimes rietumģermāņu valoda, kas ir dzimtā valoda aptuveni 24 miljoniem cilvēku, galvenokārt Nīderlandē un Beļģijā. Tā ir arī viena no Eiropas Savienības oficiālajām valodām.
+
+Pārējās minētās valodas ir oficiālās citās valstīs:
+A. Dāņu - Dānijā
+B. Zviedru - Zviedrijā 
+C. Vācu - Vācijā, Austrijā, Šveicē un vairākās citās Eiropas valstīs kā otra valoda.",
+"Kādā stāvoklī ir 1999. gada filma Magnolija?
+A.California
+B.Dienvidkarolīna
+C.Gruzija
+D.Texas",A,"Pareizā atbilde ir D - filmas ""Magnolija"" (Magnolia) darbība norisinās Losandželosā, Kalifornijā.
+
+Filma ""Magnolija"" ir 1999. gada drāma, kuru režisējis Pols Tomass Andersons. Tā vienlaicīgi stāsta vairākus savstarpēji saistītus stāstus par dažādiem personāžiem Losandželosā vienas dienas laikā.
+
+Lai gan filmas nosaukumā ir zieds magnolija, kas varētu likt domāt par Dienvidkarolīnu vai citu dienvidu štatu, filmas darbība pilnībā norisinās Kalifornijā, galvenokārt Losandželosā un tās apkārtnē.",
 "Pacients cieš no salauzta kakla ar muguras smadzeņu bojājumiem sestā kakla skriemeļa līmenī.
 A.Viņi nespēs elpot bez dzīvības atbalsta.
 B.Viņi varēs tikai mierīgi elpot.
 C.Nav iespējams paredzēt ietekmi uz elpošanu.
-D.Elpošana netiks ietekmēta.",b,a,false
-"Studenti veic augu pigmentu atdalīšanas vingrinājumu, kas prasa, lai viņi izmantotu slēgtu hromatogrāfijas kameru ar nelielu acetona daudzumu kameras apakšā. Acetona drošības brīdinājumi ietver paziņojumu, ka tas kairina acis un ādu un tam ir uzliesmojoši tvaiki. No šiem: Kādi drošības pasākumi skolēniem jāievēro, veicot vingrinājumu?
-A.Uzvelkot ugunsdrošus cimdus, lai aiznestu kameru uz velkmes pārsegu, ja acetons aizdegas
-B.Kameras ievietošana slēgtā, tumšā skapī pigmenta atdalīšanas laikā
-C.Valkājot ādas cimdus un nosedzot degunu un muti ar daļiņu masku
-D.Aizsargbriļļu un nitrila tipa cimdu valkāšana un visu acetona trauku aizvēršana",d,d,true
-"Šis jautājums attiecas uz šādu informāciju.
-""Totalitāro režīmu sēklas audzina posts un vēlme. Viņi izplatās un aug nabadzības un nesaskaņu ļaunajā augsnē. Viņi sasniedz savu pilno izaugsmi, kad tautas cerība uz labāku dzīvi ir mirusi. Mums šī cerība ir jāsaglabā dzīva. . . Mums ir uzlikti lieli pienākumi ar strauju notikumu gaitu. . . Esmu pārliecināts, ka kongress ar šiem pienākumiem saskarsies tieši.""
-Prezidents Harijs S. Trūmens, 1947. gads
-Iepriekš fragmentā paustās idejas vistiešākajā veidā atspoguļo to, kura no šīm kontinuitātēm ASV vēsturē?
-A.Debates par Kongresa un prezidenta attiecībām.
-B.Debates par militārā spēka izmantošanu nestabilās situācijās.
-C.Debates par Amerikas Savienoto Valstu lomu pasaules lietās.
-D.Debates par politisko partiju pienācīgu lomu.",c,c,true
-"Kurš no tiem padara dažādu sugu evolucionārās radniecības noteikšanu, pamatojoties uz homologo proteīnu aminoskābju secību, parasti mazāk precīzu nekā radniecības noteikšana, pamatojoties uz homologu gēnu nukleotīdu sekvencēm?
-A.Klusas mutācijas
-B.Gēnu dublēšanās
-C.Translokācijas notikumi, kas maina gēnu sekvences
-D.Pārbrauktuve",a,a,true
+D.Elpošana netiks ietekmēta.",B,"A. Viņi nespēs elpot bez dzīvības atbalsta.
+
+Muguras smadzeņu bojājumi sestā kakla skriemeļa (C6) līmenī var izraisīt nopietnus elpošanas traucējumus. Šajā līmenī atrodas nervi, kas inervē diafragmu - galveno elpošanas muskulatūru.
+
+Bojājumi C6 līmenī var radīt diafragmas paralīzi, kā rezultātā cietušais nespēj patstāvīgi elpot. Šādos gadījumos ir nepieciešams mākslīgās plaušu ventilācijas atbalsts (piemēram, ar ventilatoru), lai nodrošinātu elpošanas funkciju un uzturētu dzīvību.
+
+Tādēļ pareizā atbilde ir A - pacients ar muguras smadzeņu bojājumiem C6 līmenī, visticamāk, nespēs elpot bez dzīvības atbalsta sistēmām.",
+"Kurš no šiem faktoriem tiktu uzskatīts par Riva ""pievilkšanas"" faktoru, apsverot pārcelšanos no Indijas uz Amerikas Savienotajām Valstīm?
+A.Galēja nabadzība
+B.Labāks darbs un lielākas algas
+C.Indijas kastu sistēma
+D.Vardarbība viņas apkārtnē",B,"Pareizā atbilde ir B. Labāks darbs un lielākas algas.
+
+Riva ""pievilkšanas"" faktors, apsverot pārcelšanos no Indijas uz ASV, būtu labākas darba iespējas un augstāks atalgojums. Tas ir faktors, kas piesaista un motivē cilvēkus pārcelties uz citu valsti.
+
+Pārējie minētie faktori drīzāk būtu ""atgrūšanas"" faktori jeb iemesli, kāpēc cilvēks varētu vēlēties pamest savu izcelsmes valsti:
+A. Galēja nabadzība
+C. Indijas kastu sistēma 
+D. Vardarbība apkārtnē
+
+Šie faktori var radīt vēlmi pārcelties prom no Indijas, bet paši par sevi tie nepiesaista doties tieši uz ASV. Savukārt labākas darba un algas iespējas ASV ir pievilcīgs faktors, kas var piesaistīt un motivēt izvēlēties pārcelšanos uz šo valsti.",
 "Šis jautājums attiecas uz šādu informāciju.
 Vispirms mums jāatzīmē, ka kosmoss ir sfērisks formā, daļēji tāpēc, ka šī forma ir ideāls veselums, kam nav nepieciešams savienojums, ir vispilnīgākais no visiem, daļēji tāpēc, ka tas padara ietilpīgāko formu, kas ir vislabāk piemērota, lai saturētu un saglabātu visu; vai atkal tāpēc, ka visas Visuma sastāvdaļas, tas ir, saule, mēness un planētas, parādās šādā formā; vai tāpēc, ka viss cenšas sasniegt šo formu, kā tas parādās ūdens un citu šķidruma ķermeņu pilienu gadījumā, ja viņi mēģina sevi definēt. Tāpēc neviens neapšaubīs, ka šī forma pieder debesu ķermeņiem. ...
 Tāpēc tas, ka zeme ir arī sfēriska, nav apšaubāms, jo tā no visām pusēm nospiež savu centru. Lai gan kalnu pacēlumu un ieleju ieplaku dēļ perfektu apli nevar saprast, tomēr tas neietekmē zemes vispārējo sfērisko dabu. ...
@@ -106,142 +81,317 @@ Nikolā Koperniks, Debesu ķermeņu revolūcijas, 1543
 A.Kosmoss ir sfērisks
 B.Zeme ir sfēriska
 C.kosmoss ir ģeostatisks
-D.Zeme nav nekustīga",d,d,true
-"Induktorā inducētais spriegums tiek attēlots kā,
-A.tā induktivitātes un strāvas caur to reizinājums.
-B.tā induktivitātes attiecība pret strāvu caur to.
-C.strāvas attiecība caur to līdz tās induktivitātei.
-D.tā induktivitātes un strāvas maiņas ātruma reizinājums caur to.",d,d,true
-"Atrodiet līknes garumu y = ln x starp punktiem, kur y = 1/2 un y = 1.
-A.0.53
-B.0.86
-C.1.18
-D.1.36",c,a.,true
-"Find $-\dfrac{1}{-3}\cdot\cfrac{1}{~\frac{1}{-3}~}.$
-A.1
-B.-1
-C.0
-D.2",b,a,true
-"Salīdzinot ar politiskajām partijām tādās valstīs kā Anglija un Izraēla, kurās abās ir daudzpartiju sistēmas, Amerikas politiskās partijas ir
-A.mazāk ieinteresēts ietekmēt vēlēšanu rezultātus
-B.mazāk skaidri identificēts ar konsekventām politiskām ideoloģijām
-C.mazāk efektīva naudas piesaistīšanā no politiskajiem atbalstītājiem
-D.labāk spēj atspoguļot visu savu vēlēšanu apgabalu mērķus,",b,b,true
-"Tvertne ir trīsstūrveida prizmas formā. Ja trīsstūrveida pamatnes platība ir 116 kvadrātpēdas un tvertne ir 30 pēdas gara, cik daudz ūdens tvertnē būtu, kad tā ir pilna?
-A.1725 pēdas^3
-B.1740 pēdas^3
-C.3480 pēdas^3
-D.6960 pēdas^3",c,c.,true
-"Kuras no šīm pazīmēm kopumā atbilst izvarošanas datumam?
-A.pārmērīga spēka izmantošana
-B.Nodomāts
-C.seksuāli motivēts
-D.ietver ieroča pielietošanu",c,c,true
+D.Zeme nav nekustīga",D,"Pareizā atbilde ir D - Koperniks šajā fragmentā ierosina, ka Zeme nav nekustīga, bet gan rotē ap savu asi no rietumiem uz austrumiem.
+
+Koperniks piekrīt tradicionālajiem uzskatiem, ka kosmoss (A) un Zeme (B) ir sfēriski. Viņš arī nepiemin, ka kosmoss būtu ģeocentriskā sistēmā (C).
+
+Taču viņš izvirza revolucionāru ideju, ka novērotā debesu ķermeņu kustība patiesībā ir Zemes rotācijas, nevis pašu debesu ķermeņu kustības rezultāts. Tādējādi viņš apšauba valdošo aristotelisko uzskatu, ka Zeme ir nekustīga Visuma centrā. Šī ideja bija svarīgs solis ceļā uz heliocentriskas sistēmas izveidi.",
+"K-fold krusteniskā validācija ir
+A.lineāri izteikta K
+B.kvadrāts K
+C.kubikmetrā K
+D.eksponenciāls K",A,"K-fold krusteniskā validācija ir metode, ko izmanto mašīnmācībā, lai novērtētu modeļa veiktspēju. Tā nav saistīta ar lineāru, kvadrātisku, kubisku vai eksponenciālu K vērtību.
+
+K-fold krusteniskajā validācijā datu kopu sadala K apakškopās jeb ""foldos"". Pēc tam modeli trenē un testē K reizes, katru reizi izmantojot citu apakškopu kā testa datu kopu, bet pārējās K-1 apakškopas kā treniņa datu kopu. Gala rezultāts ir K atsevišķu novērtējumu vidējais rādītājs.
+
+Tātad, neviens no dotajiem variantiem (A, B, C vai D) nav pareizs, jo tie visi apraksta matemātiskas sakarības, nevis K-fold krusteniskās validācijas būtību.",
 "Skaitlis, noapaļots līdz tuvākajam tūkstotim, ir 47 000. Kurš skaitlis varētu būt noapaļotais skaitlis?
 A.46,295
 B.46,504
 C.47,520
-D.47,924",b,b.,true
-"Kura psiholoģiskā perspektīva bija vispopulārākā divdesmitā gadsimta mijā Rietumeiropā?
-A.Neiroloģijas
-B.Evolūcijas
-C.Behaviorist
-D.psihoanalītiskā",d,d,true
-"Garsijas un Koellinga pētījumi par iemācītajām nepatikām noteica, ka kurš no šiem UCS un CS pāriem ir visspēcīgākais un visātrāk apgūtais?
-A.uzdevuma veikšana un pārtikas atlīdzības saņemšana
-B.slikta dūša un pārtika vai dzēriens
-C.kustība un šoks
-D.Sodi un atlīdzības",b,b,true
-"Iemācītā bezpalīdzība, visticamāk, ir tieši saistīta ar
-A.Barnum efekts.
-B.pašapkalpošanās aizspriedumi.
-C.ārējs kontroles lokuss.
-D.beznosacījuma pozitīva attieksme.",c,c,true
-"Kāds ir termins tam, cik lielā mērā konkurenci vienā valstī ietekmē konkurence citās valstīs?
-A.Starptautiskā tirdzniecība
-B.Pasaules ekonomika
-C.Globālā konkurence
-D.Globalizācija",d,d,true
-"Kurš no turpmāk minētajiem, visticamāk, laika gaitā radīs spēcīgāku ekonomikas izaugsmi?
-A.Ātrāks dabas resursu patēriņš.
-B.Augstāks pieaugušo analfabētisma līmenis.
-C.Ražošanas līdzekļu krājumu samazināšanās.
-D.Ieguldījumu nodokļa kredīti.",d,d,true
-"Sērijas ķēdē, ja strāva vienā lampā ir 2 A, strāva blakus esošajā lampā ir
-A.puse, 1 A
-B.2.00 līdz plkst.
-C.Atkarīgs no tā, kura lampa ir tuvāk akumulatoram
-D.Nav pietiekami daudz informācijas, lai pateiktu",b,b,true
-"Piegādātājam uzliktais nodoklis, visticamāk, tiks pārnests uz patērētāju cenas paaugstinājuma veidā, ja:
-A.Pieprasījuma cenu elastība ir ļoti elastīga.
-B.Pieprasījuma cenu elastība ir ļoti neelastīga.
-C.Pieprasījuma cenu elastība ir vienības elastība.
-D.Pieprasījuma algu elastība ir ļoti elastīga.",b,b,true
-"Uzņēmumi iesaistās sociālajā grāmatvedībā, pateicoties _________ prasībām, lai identificētu ________, uzlabotu ___________ un veicinātu _________ un ___________
-A.Ieinteresētās personas, riski, ieinteresēto personu pārvaldība, pārskatatbildība, pārredzamība
-B.Ieinteresētās personas, pārskatatbildība, pārredzamība, riski, ieinteresēto personu pārvaldība
-C.Ieinteresētās personas, pārskatatbildība, riski, ieinteresētās personas, ieinteresēto personu pārvaldība
-D.Ieinteresētās personas, ieinteresēto personu pārvaldība, pārredzamība, riski, pārskatatbildība",a,a,true
-"Enerģija, kas izdalās no augstas enerģijas fosfātu, ATP un fosfokreatīna sadalīšanās, var uzturēt maksimālu slodzi apmēram:
-A.1-2 sekundes.
-B.5-10 sekundes.
-C.30-40 sekundes.
-D.50-60 sekundes.",b,b.,true
-"Ceļojot ar sākotnējo ātrumu 1,5 × 10^6 m/s, protons nonāk nemainīga magnētiskā lauka reģionā, kura lielums ir 1,5 T. Ja protona sākotnējais ātruma vektors veido 30° leņķi ar magnētisko lauku, pēc ieiešanas magnētiskajā laukā izskaitļojiet protona ātrumu 4 s.
-A.5.0 × 10^6 m/s
-B.7,5 × 10^6 m/s
-C.1,5 × 10^6 m/s
-D.3.0 × 10^6 m/s",c,c,true
-"Ekonomika atrodas dziļā recesijā. Ņemot vērā šo ekonomisko situāciju, kurš no turpmāk minētajiem apgalvojumiem par monetāro politiku ir pareizs?
-A.Ekspansīva politika tikai pasliktinātu lejupslīdi.
-B.Ekspansīva politika ievērojami palielina kopējo pieprasījumu, ja ieguldījumi ir jutīgi pret procentu likmju izmaiņām.
-C.Līgumdarbības politika ir piemērots stimuls ieguldījumiem un patēriņam.
-D.Ja naudas pieprasījums ir pilnīgi elastīgs, ekspansīva monetārā politika varētu būt diezgan efektīva.",b,d,false
-"1. paziņojums | Grupā (ab)^{-2} = b^{-2}a^{-2}. 2. paziņojums | Grupā (ab)^n = a^nb^n.
-A.Patiess, patiess
-B.Nepatiess, nepatiess
-C.Patiess, nepatiess
-D.Nepatiess, patiess",b,d,true
-"Daļa Marsa ūdens ir sasalusi augsnē un ledus cepurēs, un daži tika zaudēti saules vēja noņemšanas dēļ, taču tiek uzskatīts, ka liela daļa sākotnējā ūdens ir zaudēta, izmantojot citu mehānismu. Kas notika ar šo ""pazudušo"" ūdeni?
-A.to atņēma magnētiskais lauks, kad tā stiprums strauji samazinājās
-B.Ultravioletā gaisma to sadalīja ūdeņradī un skābeklī, un ūdeņradis tika zaudēts termiskās izkļūšanas rezultātā
-C.to patērēja izslāpušo marsiešu civilizācija
-D.Tas tika iztvaicēts intensīva vulkānisma periodā un tika zaudēts kosmosā, izmantojot termisko aizbēgšanu",b,b,true
-"Xy-plaknē grafiks x^(log y) = y^log x ir
-A.Atvērtais pirmais kvadrants
-B.slēgta līkne
-C.Stars atvērtajā pirmajā kvadrantā
-D.viens punkts",a,c,false
-"Kuru no šīm bitu virkņu kopām NEVAR aprakstīt ar regulāru izteiksmi?
-A.Visas bitu virknes, kuru nulles skaits ir pieci daudzkārtnis
-B.Visas bitu virknes, kas sākas ar nulli un beidzas ar vienu
-C.Visas bitu virknes ar pāra nulles skaitu
-D.Visas bitu virknes ar vairāk nekā nullēm",d,a,false
-"Fotonu detektora kvantu efektivitāte ir 0, 1. Ja detektorā tiek nosūtīti 100 fotoni, viens pēc otra, detektors atklās fotonus
-A.vidēji 10 reizes, ar RMS novirzi aptuveni 4
-B.vidēji 10 reizes, ar RMS novirzi aptuveni 3
-C.vidēji 10 reizes, ar RMS novirzi aptuveni 1
-D.vidēji 10 reizes, ar RMS novirzi aptuveni 0,1",b,b,true
+D.47,924",B,"Lai atbildētu uz šo jautājumu, mums jāsaprot, kā darbojas noapaļošana līdz tuvākajam tūkstotim.
+
+Noapaļošanas noteikumi:
+- Ja skaitlis ir tieši pa vidu starp diviem tūkstošiem, to noapaļo līdz lielākajam tūkstotim.
+- Citādi skaitli noapaļo līdz tuvākajam tūkstotim.
+
+Tagad apskatīsim katru no dotajiem variantiem:
+
+A. 46,295 noapaļots līdz tuvākajam tūkstotim būs 46,000, jo 295 < 500.
+
+B. 46,504 noapaļots līdz tuvākajam tūkstotim būs 47,000, jo 504 > 500.
+
+C. 47,520 noapaļots līdz tuvākajam tūkstotim būs 48,000, jo 520 > 500.
+
+D. 47,924 noapaļots līdz tuvākajam tūkstotim būs 48,000, jo 924 > 500.
+
+No dotajiem variantiem tikai B variants (46,504) noapaļots līdz tuvākajam tūkstotim dos 47,000.
+
+Tātad pareizā atbilde ir B. 46,504.",
+"Induktorā inducētais spriegums tiek attēlots kā,
+A.tā induktivitātes un strāvas caur to reizinājums.
+B.tā induktivitātes attiecība pret strāvu caur to.
+C.strāvas attiecība caur to līdz tās induktivitātei.
+D.tā induktivitātes un strāvas maiņas ātruma reizinājums caur to.",D,"Pareizā atbilde ir D - induktorā inducētais spriegums tiek attēlots kā tā induktivitātes un strāvas maiņas ātruma reizinājums caur to.
+
+Induktorā inducētais spriegums (EDS) ir proporcionāls induktivitātei (L) un strāvas maiņas ātrumam (di/dt) caur induktoru. To var izteikt ar formulu:
+
+E = -L * (di/dt)
+
+kur:
+E - inducētais spriegums (EDS) induktorā (V)
+L - induktora induktivitāte (H)
+di/dt - strāvas maiņas ātrums caur induktoru (A/s)
+
+Mīnuss zīme formulā norāda, ka inducētais spriegums darbojas pretēji strāvas maiņai (Lenca likums).
+
+Tātad, jo lielāka ir induktora induktivitāte un straujāka strāvas maiņa caur to, jo lielāks spriegums tiks inducēts induktorā.",
+"Vai nelikumīgā slepkavība, ko izdarījis valsts ministrs X ārvalstīs, ir jure imperii vai jure gestionis darbība?
+A.Šāda rīcība ir publisks akts (jure imperii)
+B.Šāda rīcība nekad nepiesaista imunitāti
+C.Šāda rīcība ir privāta darbība (jure gestionis)
+D.Šāda rīcība ir publisks akts, bet to aizsargā imunitāte",C,"Šajā gadījumā pareizā atbilde ir B - šāda rīcība nekad nepiesaista imunitāti.
+
+Valsts amatpersonām, tostarp ministriem, parasti ir imunitāte pret kriminālvajāšanu par darbībām, ko tie veic, pildot savas oficiālās funkcijas (jure imperii). Tomēr šī imunitāte neattiecas uz smagiem noziegumiem, piemēram, slepkavību.
+
+Slepkavība ir smags kriminālnoziegums, kas nav saistīts ar ministra oficiālajiem pienākumiem. Tā nav ne jure imperii (publisks akts), ne jure gestionis (privāta darbība). Tā ir nelikumīga darbība, par kuru var saukt pie kriminālatbildības neatkarīgi no vainīgā statusa vai atrašanās vietas.
+
+Tādējādi ministram nebūtu imunitātes pret apsūdzībām par slepkavību, pat ja tā izdarīta ārvalstīs. Starptautiskās tiesības neaizsargā valsts amatpersonas, ja tās izdara smagus noziegumus.",
+"Negatīvā atlikusī autokorelācija ir norādīta, ar kuru no šiem?
+A.Ciklisks modelis atlikumos
+B.Mainīgs modelis atlikumos
+C.Pilnīga nejaušība atlikumos
+D.Atlikumi, kas visi ir tuvu nullei",B,"Negatīvā atlikusī autokorelācija visbiežāk norāda uz ciklisku modeli atlikumos (A variants).
+
+Negatīvā autokorelācija nozīmē, ka pozitīvai novirzei seko negatīva novirze un otrādi. Tas rada ciklisku vai svārstīgu rakstu atlikumos.
+
+Pārējie varianti nav pareizi:
+
+B. Mainīgs modelis atlikumos drīzāk norādītu uz heteroskedasticitāti (mainīgu izkliedi), nevis negatīvu autokorelāciju.
+
+C. Pilnīga nejaušība atlikumos būtu ideāls variants, kas liecinātu, ka modelis labi izskaidro datus. Tad autokorelācija vispār nebūtu novērojama.
+
+D. Atlikumi tuvu nullei arī būtu labs rezultāts, kas liecinātu par labu modeļa atbilstību, nevis autokorelāciju.
+
+Tātad pareizā atbilde ir A - ciklisks modelis atlikumos visbiežāk norāda uz negatīvu autokorelāciju.",
+"Kurš no šiem ēdieniem ir izgatavots no cūku zarnām?
+A.haggis
+B.Chitlins
+C.Putraimi
+D.karbonāde suey",B,"Pareizā atbilde ir B. Chitlins.
+
+Chitlins (arī chitterlings vai chitlins) ir ēdiens, kas izgatavots no cūku zarnām. Tas ir populārs dienvidu štatu virtuvē Amerikas Savienotajās Valstīs.
+
+Pārējie minētie ēdieni nav gatavoti no cūku zarnām:
+
+A. Haggis ir tradicionāls skotu ēdiens, kas gatavots no aitas sirds, aknām un plaušām, sajaucot tās ar auzām, sīpoliem, taukiem un garšvielām, un vārot aitas kuņģī.
+
+C. Putraimi ir kartupeļu biezputra, kas ir tradicionāls ēdiens Latvijā.
+
+D. Karbonāde suey ir ķīniešu-amerikāņu ēdiens, kas sastāv no cūkgaļas vai vistas gaļas, dārzeņiem un nūdelēm, pasniegts ar biezu, garšvielu bagātu mērci.",
+"Šis jautājums attiecas uz šādu informāciju.
+""Totalitāro režīmu sēklas audzina posts un vēlme. Viņi izplatās un aug nabadzības un nesaskaņu ļaunajā augsnē. Viņi sasniedz savu pilno izaugsmi, kad tautas cerība uz labāku dzīvi ir mirusi. Mums šī cerība ir jāsaglabā dzīva. . . Mums ir uzlikti lieli pienākumi ar strauju notikumu gaitu. . . Esmu pārliecināts, ka kongress ar šiem pienākumiem saskarsies tieši.""
+Prezidents Harijs S. Trūmens, 1947. gads
+Iepriekš fragmentā paustās idejas vistiešākajā veidā atspoguļo to, kura no šīm kontinuitātēm ASV vēsturē?
+A.Debates par Kongresa un prezidenta attiecībām.
+B.Debates par militārā spēka izmantošanu nestabilās situācijās.
+C.Debates par Amerikas Savienoto Valstu lomu pasaules lietās.
+D.Debates par politisko partiju pienācīgu lomu.",C,"C. Debates par Amerikas Savienoto Valstu lomu pasaules lietās.
+
+Prezidenta Harija Trūmena citātā ir skaidri redzams, ka viņš runā par ASV lomu pasaulē pēc Otrā pasaules kara. Viņš brīdina par totalitāro režīmu draudiem un uzsver, ka ASV ir pienākums tos apkarot, saglabājot cerību uz labāku dzīvi citās valstīs. 
+
+Šis fragments atspoguļo debates par ASV ārpolitiku un tās lomu pasaules notikumos, kas bija ļoti aktuālas pēckara periodā, sākoties Aukstajam karam. Pārējās atbilžu opcijas (debates par Kongresa un prezidenta attiecībām, militārā spēka izmantošanu vai politisko partiju lomu) nav tik tieši saistītas ar šo konkrēto citātu.
+
+Tādējādi pareizā atbilde ir C - debates par Amerikas Savienoto Valstu lomu pasaules lietās, kas ir viena no galvenajām tēmām ASV vēsturē kopš 20. gadsimta vidus.",
+"Nosakiet šāda nosacītā priekšlikuma priekšteci: Bites uzvar savu pirmo spēli tikai tad, ja vai nu Aardvarks, vai Chipmunks neuzvar savās pirmajās spēlēs.
+A.Aardvarks neuzvar savu pirmo spēli.
+B.Bites uzvar savu pirmo spēli.
+C.Burunduki neuzvar savu pirmo spēli.
+D.Vai nu Aardvarks, vai Chipmunks neuzvar savas pirmās spēles.",B,"Pareizā atbilde ir D: Vai nu Aardvarks, vai Chipmunks neuzvar savas pirmās spēles.
+
+Nosacītais teikums ""Bites uzvar savu pirmo spēli tikai tad, ja vai nu Aardvarks, vai Chipmunks neuzvar savās pirmajās spēlēs"" nozīmē, ka Bišu uzvaras nosacījums ir tas, ka vismaz viena no komandām - Aardvarks vai Chipmunks - zaudē savu pirmo spēli.
+
+Pārējās atbildes ir šī nosacījuma sekas vai daļas, bet ne pilnīgs priekšnoteikums:
+
+A. Aardvarks neuzvar savu pirmo spēli - tas ir tikai viens no diviem iespējamiem nosacījumiem Bišu uzvarai.
+B. Bites uzvar savu pirmo spēli - tas ir nosacījuma rezultāts, nevis priekšnoteikums.
+C. Burunduki neuzvar savu pirmo spēli - līdzīgi kā A, tas ir tikai viens no diviem iespējamiem nosacījumiem.
+
+Tikai D apvieno abus nosacījumus - vai nu Aardvarks, vai Chipmunks zaudē savu pirmo spēli - kas ir nepieciešams un pietiekams, lai Bites uzvarētu savu pirmo spēli.",
+"Studenti veic augu pigmentu atdalīšanas vingrinājumu, kas prasa, lai viņi izmantotu slēgtu hromatogrāfijas kameru ar nelielu acetona daudzumu kameras apakšā. Acetona drošības brīdinājumi ietver paziņojumu, ka tas kairina acis un ādu un tam ir uzliesmojoši tvaiki. No šiem: Kādi drošības pasākumi skolēniem jāievēro, veicot vingrinājumu?
+A.Uzvelkot ugunsdrošus cimdus, lai aiznestu kameru uz velkmes pārsegu, ja acetons aizdegas
+B.Kameras ievietošana slēgtā, tumšā skapī pigmenta atdalīšanas laikā
+C.Valkājot ādas cimdus un nosedzot degunu un muti ar daļiņu masku
+D.Aizsargbriļļu un nitrila tipa cimdu valkāšana un visu acetona trauku aizvēršana",D,"D ir pareizā atbilde - aizsargbriļļu un nitrila tipa cimdu valkāšana, kā arī visu acetona trauku aizvēršana.
+
+Pamatojums:
+- Aizsargbrilles pasargās acis no acetona kairinājuma.
+- Nitrila cimdi pasargās ādu no saskares ar acetonu.
+- Acetona trauku aizvēršana samazinās uzliesmojošo tvaiku daudzumu gaisā.
+
+Pārējās atbildes nav piemērotas:
+A - Ugunsdrošie cimdi nepalīdzēs, ja acetons aizdegas. Labāk izvairīties no liesmu avotiem.
+B - Tumšs skapis nesamazinās acetona bīstamību un var apgrūtināt rīcību avārijas gadījumā.
+C - Daļiņu maska neaizsargās pret acetona tvaikiem. Labāk strādāt labi vēdināmā telpā.
+
+Tātad, valkājot aizsargbrilles un nitrila cimdus, kā arī turot acetona traukus aizvērtus, studenti var droši veikt šo vingrinājumu.",
+"Mutācijas, kas izraisa ahondroplāziju, rada iedarbību, ko var klasificēt kā:
+A.dominējošais negatīvais.
+B.funkcijas pieaugums.
+C.haploinsibility.
+D.funkcijas zudums.",B,"Pareizā atbilde ir A - dominējošais negatīvais.
+
+Ahondroplāzija ir autosomāli dominanta ģenētiska slimība, ko izraisa mutācijas FGFR3 gēnā. Šīs mutācijas izraisa receptora funkcijas pastiprināšanos, kas noved pie augšanas plātņu priekšlaicīgas nobriešanas un kaulu augšanas traucējumiem. 
+
+Tātad šīs mutācijas efekts ir ""dominējošais negatīvais"" - mutantais gēns dominē pār normālo alēli un izraisa slimību, lai gan tas darbojas ""pārāk aktīvi"", nevis zaudē funkciju. Tas nav vienkārši funkcijas pieaugums (B), jo šī pastiprināta aktivitāte ir pataloģiska.
+
+Haploinsuficience (C) nozīmētu, ka viens normāls gēna eksemplārs nav pietiekams normālai funkcijai, bet ahondroplāzijas gadījumā problēma ir mutantā receptora pārmērīga aktivitāte.
+
+Funkcijas zudums (D) arī neraksturo ahondroplāzijas mutāciju efektu, jo šeit receptors nezaudē funkciju, bet gan iegūst patoloģiski pastiprinātu aktivitāti.",
+"Nosaka H+(aq) koncentrāciju 1,0 M fenola C6H5OH šķīdumā. (Ka fenolam ir 1 × 10^-10.)
+A.1 × 10^-10 m
+B.1 × 10^-9 m
+C.1 × 10^-3 m
+D.1 × 10^-5 M",D,"Lai aprēķinātu H+(aq) koncentrāciju 1,0 M fenola C6H5OH šķīdumā, izmantosim doto skābes disociācijas konstanti (Ka) fenolam, kas ir 1 × 10^-10.
+
+Fenola disociācijas reakcija:
+C6H5OH + H2O ⇌ C6H5O- + H3O+
+
+Disociācijas konstantes izteiksme:
+Ka = ([C6H5O-] * [H3O+]) / [C6H5OH]
+
+Tā kā fenols ir vāja skābe, pieņemsim, ka disociācijas pakāpe ir ļoti maza, tāpēc [C6H5OH] ≈ 1,0 M un [C6H5O-] = [H3O+].
+
+Apzīmēsim [H3O+] ar x:
+Ka = (x * x) / 1,0
+1 × 10^-10 = x^2 / 1,0
+x^2 = 1 × 10^-10
+x = sqrt(1 × 10^-10) = 1 × 10^-5
+
+Tātad, [H3O+] jeb [H+(aq)] = 1 × 10^-5 M.
+
+Pareizā atbilde ir D. 1 × 10^-5 M.",
+"Kura no šīm šausmu filmām radīja visvairāk turpinājumu?
+A.Kliedziens""
+B.Žokļi""
+C.Helovīns""
+D.Piektdiena, 13. datums""",D,"Pareizā atbilde ir D. ""Piektdiena, 13. datums"".
+
+Šausmu filmu sērija ""Piektdiena, 13. datums"" (Friday the 13th) ir radījusi visvairāk turpinājumu:
+
+1. Kopumā ir uzņemtas 12 filmas šajā sērijā, ieskaitot oriģinālo 1980. gada filmu un tās turpinājumus.
+
+2. Pēdējā filma sērijā tika izdota 2009. gadā kā oriģinālās filmas remake jeb pārveidojums.
+
+3. Galvenais tēls visās filmās ir maskētais slepkava Džeisons Vorhīss (Jason Voorhees).
+
+Salīdzinājumam:
+- ""Kliedziens"" (Scream) sērijai ir 5 filmas (1996-2022).
+- ""Žokļi"" (Jaws) sērijai ir 4 filmas (1975-1987).
+- ""Helovīns"" (Halloween) franšīzei ir 11 filmas, bet tās nav tiešā secībā viena ar otru saistītas.
+
+Tādējādi ""Piektdiena, 13. datums"" ir radījusi visvairāk savstarpēji saistītu turpinājumu šausmu filmu žanrā.",
+"Kuras no šīm pazīmēm kopumā atbilst izvarošanas datumam?
+A.pārmērīga spēka izmantošana
+B.Nodomāts
+C.seksuāli motivēts
+D.ietver ieroča pielietošanu",C,"Izvarošanas definīcija var atšķirties dažādās valstīs un jurisdikcijās, taču parasti tā ietver šādas pazīmes:
+
+B. Nodomāts - izvarošana ir apzināta, tīša darbība, nevis nejaušība.
+
+C. Seksuāli motivēts - izvarošanas pamatā ir vēlme gūt seksuālu apmierinājumu vai kontroli pār upuri. 
+
+A un D var būt klāt dažos, bet ne visos izvarošanas gadījumos:
+- Pārmērīga spēka izmantošana var notikt, bet ne vienmēr. Izvarošana var notikt arī psiholoģiskas manipulācijas, iebiedēšanas vai apreibinošu vielu ietekmē.
+- Ieroči var tikt izmantoti, lai iebiedētu upuri, taču tas nav obligāta izvarošanas pazīme.
+
+Svarīgākais faktors ir piekrišanas trūkums - izvarošana ir jebkāda nevēlama seksuāla rakstura darbība bez otras personas brīvprātīgas piekrišanas, neatkarīgi no pielietotajām metodēm. Upuris nekādā gadījumā nav vainojams.",
+"Slavinošas personības maldīgums ir īpašs
+A.Negadījuma maldi
+B.Viltus dilemma
+C.Lūdzot jautājumu
+D.Riņķveida argumentācija",A,"Pareizā atbilde ir C - ""Lūdzot jautājumu"" jeb ""Begging the question"" angļu valodā.
+
+Šis ir loģikas kļūdas veids, kad arguments jau sākotnēji pieņem savu secinājumu kā patiesu, nevis to pierāda. Citiem vārdiem sakot, arguments balstās uz pieņēmumu, kas pats par sevi ir jāpierāda.
+
+Piemēram, apgalvojums ""Viņš ir slavens, tāpēc viņa viedoklis ir patiess"" ir ""lūdzot jautājumu"" kļūda. Tas pieņem, ka slavenība nozīmē patiesību, kas pats par sevi būtu jāpierāda.
+
+Pārējās atbildes:
+A. Negadījuma maldi (Accidental fallacy) - kad tiek pieņemts, ka gadījuma sakritība ir cēloņsakarība.
+B. Viltus dilemma (False dilemma) - kad tiek piedāvātas tikai divas galējības, ignorējot citas iespējas.
+D. Riņķveida argumentācija (Circular reasoning) - kad secinājums ir daļa no sākotnējā pieņēmuma.",
+" Šis mārketinga un komunikācijas rīks piedāvā tiešu pamudinājumu vai stimulu, lai mudinātu klientus iegādāties produktu/pakalpojumu:
+A.Reklāmas.
+B.Sabiedriskās attiecības.
+C.Pārdošanas veicināšana.
+D.Tiešais mārketings.",C,"Pareizā atbilde ir C. Pārdošanas veicināšana.
+
+Pārdošanas veicināšana ir mārketinga un komunikācijas rīks, kas piedāvā tiešu pamudinājumu vai stimulu, lai mudinātu klientus iegādāties produktu vai pakalpojumu. Pārdošanas veicināšanas piemēri ietver:
+
+1. Kuponi un atlaides - tieši stimulē pirkumu, piedāvājot zemāku cenu.
+2. Konkursi un loterijas - piesaista klientus ar iespēju laimēt balvas.
+3. Bezmaksas paraugi - ļauj klientiem izmēģināt produktu pirms pirkuma.
+4. Īpašie piedāvājumi - ierobežota laika piedāvājumi, kas mudina klientus rīkoties ātri.
+
+Pārējās atbildes:
+A. Reklāmas - informē un pārliecina, bet ne vienmēr piedāvā tiešu stimulu.
+B. Sabiedriskās attiecības - veido pozitīvu tēlu, bet ne vienmēr tieši veicina pārdošanu.
+D. Tiešais mārketings - tieši komunicē ar klientiem, bet ne vienmēr piedāvā stimulu pirkumam.
+
+Tādējādi pārdošanas veicināšana vislabāk atbilst jautājumā minētajam aprakstam.",
+"Šķiet, ka pusmūža pieaugušo ir vairāk ____ nekā vecāku vai jaunāku pieaugušo
+A.Radošs
+B.Neirotisku
+C.Patīkamu
+D.Noteiktu",A,"Pareizā atbilde ir B - neirotisku.
+
+Pētījumi rāda, ka pusmūža pieaugušajiem ir tendence būt vairāk neirotiskiem salīdzinājumā ar jaunākiem vai vecākiem pieaugušajiem. Tas var būt saistīts ar dažādiem faktoriem šajā dzīves posmā:
+
+1. Stress - pusmūžā bieži ir daudz pienākumu un stresu izraisošu notikumu (karjera, ģimene, novecojošu vecāku aprūpe utt.).
+
+2. Hormonālās izmaiņas - īpaši sievietēm menopauzes periodā var būt izteiktākas garastāvokļa svārstības.
+
+3. Eksistenciālas pārdomas - pusmūžā daudzi sāk aizdomāties par dzīves jēgu, saviem sasniegumiem un atlikušo laiku, kas var radīt trauksmi.
+
+4. Fizisku izmaiņu ietekme - novecošanas pazīmes var radīt nedrošību un samazināt pašapziņu.
+
+Taču jāatceras, ka katra indivīda pieredze ir unikāla un ne visi pusmūža cilvēki saskaras ar paaugstinātu neirozes līmeni. Veselīgs dzīvesveids, stresa pārvaldīšana un pozitīva attieksme var palīdzēt mazināt šīs iezīmes.",
+"Kurš no tiem padara dažādu sugu evolucionārās radniecības noteikšanu, pamatojoties uz homologo proteīnu aminoskābju secību, parasti mazāk precīzu nekā radniecības noteikšana, pamatojoties uz homologu gēnu nukleotīdu sekvencēm?
+A.Klusas mutācijas
+B.Gēnu dublēšanās
+C.Translokācijas notikumi, kas maina gēnu sekvences
+D.Pārbrauktuve",A,"Pareizā atbilde ir A - klusās mutācijas.
+
+Klusās mutācijas ir nukleotīdu nomaiņas gēna kodējošajā daļā, kas nemaina kodētās aminoskābes veidu proteīnā. Tas notiek tāpēc, ka vairāki dažādi kodoni var kodēt vienu un to pašu aminoskābi (kodona izlases).
+
+Klusās mutācijas var uzkrāties gēnu sekvencēs, neizraisot izmaiņas proteīnu aminoskābju secībās. Tādējādi, salīdzinot gēnu nukleotīdu sekvences, var novērot lielāku atšķirību skaitu nekā salīdzinot atbilstošo proteīnu aminoskābju sekvences.
+
+Pārējās minētās parādības neietekmē precizitāti, nosakot sugu radniecību, pamatojoties uz proteīnu vai gēnu sekvencēm:
+- Gēnu dublēšanās rada papildu gēnu kopijas, bet nemaina to sekvences.
+- Translokācijas var mainīt gēnu novietojumu genomā, bet parasti nemaina pašu gēnu sekvences.
+- Pārbrauktuve (crossing-over) ir hromosomu fragmentu apmaiņa, kas notiek meiozes laikā un palielina ģenētisko daudzveidību, bet neietekmē sugu filoģenētiskās radniecības noteikšanu.",
+"Salīdzinot ar politiskajām partijām tādās valstīs kā Anglija un Izraēla, kurās abās ir daudzpartiju sistēmas, Amerikas politiskās partijas ir
+A.mazāk ieinteresēts ietekmēt vēlēšanu rezultātus
+B.mazāk skaidri identificēts ar konsekventām politiskām ideoloģijām
+C.mazāk efektīva naudas piesaistīšanā no politiskajiem atbalstītājiem
+D.labāk spēj atspoguļot visu savu vēlēšanu apgabalu mērķus,",B,"B. mazāk skaidri identificēts ar konsekventām politiskām ideoloģijām
+
+Salīdzinot ar daudzpartiju sistēmām Anglijā un Izraēlā, ASV politiskās partijas tiešām ir mazāk skaidri identificētas ar konsekventām politiskām ideoloģijām.
+
+Iemesli:
+1. ASV ir divu partiju sistēma ar plašām ""lielajām teltīm"" - Demokrātu un Republikāņu partijām. Katra no tām ietver dažādus politiskos uzskatus.
+
+2. Anglijā un Izraēlā ir vairākas partijas, kas pārstāv specifiskas ideoloģijas, piemēram, kreisi, labēji, reliģiski utt. Partiju pozīcijas ir skaidrāk definētas.
+
+3. ASV partijas cenšas piesaistīt pēc iespējas vairāk vēlētāju, tāpēc tām ir plašāks ideoloģiskais spektrs. Anglijā un Izraēlā partijas vairāk fokusējas uz savu pamata elektorātu.
+
+4. Primārās vēlēšanas ASV ļauj kandidātiem ar atšķirīgiem uzskatiem sacensties par nomināciju vienā partijā. Citās valstīs partijas vadība nosaka kandidātus.
+
+Tātad, kaut arī ASV partijām ir atšķirīgas tendences, tās nav tik cieši saistītas ar noteiktām ideoloģijām kā daudzās parlamentārās demokrātijās ar daudzpartiju sistēmām.",
 "Kura no šīm valstīm 2017. gadā emitēja visvairāk CO2 uz vienu iedzīvotāju?
 A.Japāna
 B.Kanāda
 C.Krievija
-D.Irāna",b,d,false
-"Tas, ka deitērija hlorīda (DCl) infrasarkanās absorbcijas frekvence ir novirzīta no ūdeņraža hlorīda (HCl) infrasarkanās absorbcijas frekvences, ir saistīts ar atšķirībām to
-A.Elektronu sadalījums
-B.dipola moments
-C.spēka konstante
-D.samazināta masa",d,d,true
-"Kas ir atkārtojuma uzbrukums?
-A.Kad uzbrucējs atbild uz ziņojumu, ko tam nosūtījusi sistēma
-B.Uzbrukums, kas nepārtraukti atkārtojas, zondējot vājumu
-C.Uzbrukums, kurā tiek izmantoti pašas sistēmas ziņojumi, un tāpēc pret to nevar aizstāvēties
-D.Uzbrucējs atkārtoti nosūta notvertu ziņojumu, un vietne to pieņem un reaģē uzbrucēja labā",d,d,true
-"Kāpēc Parfit iebilst pret vienlīdzību?
-A.Viņš apgalvo, ka nevienlīdzīga sabiedrība ir neizbēgama.
-B.Viņš apgalvo, ka, piešķirot prioritāti nabadzīgo iedzīvotāju vajadzībām, mēs varam palielināt vienlīdzību.
-C.Viņš apgalvo, ka mēs katrs esam atbildīgi par savu nabadzību.
-D.Viņš pilnībā noraida vienlīdzības ideju.",b,b,true
+D.Irāna",B,"Pareizā atbilde ir D - Irāna.
+
+2017. gadā Irāna emitēja visvairāk CO2 uz vienu iedzīvotāju no dotajām valstīm:
+
+1. Irāna - 8,08 tonnas CO2 uz iedzīvotāju
+2. Kanāda - 7,91 tonnas CO2 uz iedzīvotāju  
+3. Krievija - 5,51 tonnas CO2 uz iedzīvotāju
+4. Japāna - 4,26 tonnas CO2 uz iedzīvotāju
+
+Irānas augstais CO2 emisiju līmenis uz iedzīvotāju ir saistīts ar tās lielo atkarību no fosilā kurināmā (naftas un gāzes) enerģijas ražošanā un transportā. Kanāda arī ir starp lielākajām CO2 emitētājām, galvenokārt savas enerģētikas un smago rūpniecības nozaru dēļ.",
 "Šis jautājums attiecas uz šādu informāciju.
 Es eju gar kolonnu, prasu, kas notiek.
 Kāds karavīrs saka vienkārši: ""Viņi katru dienu zvana vairāk.
@@ -272,7 +422,78 @@ Dzejolis sniedz pierādījumus tam, kurš no šiem attiecībā uz dzimumu attiec
 A.Konfūcisma attiecības starp vīru un sievu Tangas sabiedrībā joprojām bija spēcīgas.
 B.Imperatora reskripti uzsvēra spējīgu dēlu dzimšanu pār meitām, lai izpildītu iesaukšanas kvotas.
 C.Lauksaimniecības darbus varētu dalīt gan sievietes, gan vīrieši.
-D.Tradicionālās ķīniešu dzimumu attiecības tika mainītas ķeizarienes Wu Zetian valdīšanas laikā.",c,c,true
+D.Tradicionālās ķīniešu dzimumu attiecības tika mainītas ķeizarienes Wu Zetian valdīšanas laikā.",C,"Dzejolis sniedz pierādījumus atbildei C - lauksaimniecības darbus varēja veikt gan sievietes, gan vīrieši.
+
+To var secināt no šīm rindām:
+""Pat ja sievas ir pietiekami stipras, lai rīkotos ar kapli un arklu,
+Labība aug visādi, lauki visi ir haoss.""
+
+Šīs rindas norāda, ka sievietes spēja veikt lauksaimniecības darbus ar kapli un arklu, kamēr vīrieši bija prom karā. Tas liecina, ka lauksaimniecības darbus varēja dalīt gan sievietes, gan vīrieši.
+
+Pārējās atbildes nav tieši atbalstītas dzejolī. Dzejolis nerunā par konfūcisma attiecībām (A), imperatora reskriptiem par dēlu dzimšanu (B) vai ķeizarienes Wu Zetian ietekmi uz dzimumu lomām (D).",
+"Kāpēc Parfit iebilst pret vienlīdzību?
+A.Viņš apgalvo, ka nevienlīdzīga sabiedrība ir neizbēgama.
+B.Viņš apgalvo, ka, piešķirot prioritāti nabadzīgo iedzīvotāju vajadzībām, mēs varam palielināt vienlīdzību.
+C.Viņš apgalvo, ka mēs katrs esam atbildīgi par savu nabadzību.
+D.Viņš pilnībā noraida vienlīdzības ideju.",B,"B. Viņš apgalvo, ka, piešķirot prioritāti nabadzīgo iedzīvotāju vajadzībām, mēs varam palielināt vienlīdzību.
+
+Dereks Parfits savā darbā ""Equality or Priority?"" argumentē, ka taisnīguma nodrošināšanai sabiedrībā nav nepieciešama pilnīga vienlīdzība, bet gan prioritātes piešķiršana nabadzīgāko iedzīvotāju stāvokļa uzlabošanai. Viņš uzskata, ka svarīgāk ir uzlabot vispārējo labklājību, īpaši koncentrējoties uz trūcīgākajiem, nevis censties panākt pilnīgu vienlīdzību. Tādējādi Parfits nenoraida vienlīdzības ideju pilnībā, bet gan piedāvā prioritārisma pieeju kā efektīvāku veidu, kā palielināt taisnīgumu un mazināt nevienlīdzību sabiedrībā.",
+"Find $-\dfrac{1}{-3}\cdot\cfrac{1}{~\frac{1}{-3}~}.$
+A.1
+B.-1
+C.0
+D.2",B,"Let's solve this step by step:
+
+1) First, let's simplify the fraction inside the parentheses in the denominator. We have $\frac{1}{-3}$, which is equal to $-\frac{1}{3}$.
+
+2) Now, our expression looks like this: $-\frac{1}{-3} \cdot \frac{1}{-\frac{1}{3}}$
+
+3) When dividing by a fraction, we multiply by its reciprocal. So, $\frac{1}{-\frac{1}{3}}$ is equivalent to $\frac{1}{\frac{-1}{3}}$, which is equal to $-3$.
+
+4) Our expression is now: $-\frac{1}{-3} \cdot (-3)$
+
+5) Multiplying these fractions is straightforward: $(-1) \cdot (-1) = 1$, and $(-3) \cdot (-3) = 9$. So, we have $\frac{1}{9}$.
+
+Therefore, the correct answer is C. 0. The given expression is not equal to any of the provided options.",
+"Sērijas ķēdē, ja strāva vienā lampā ir 2 A, strāva blakus esošajā lampā ir
+A.puse, 1 A
+B.2.00 līdz plkst.
+C.Atkarīgs no tā, kura lampa ir tuvāk akumulatoram
+D.Nav pietiekami daudz informācijas, lai pateiktu",B,"Pareizā atbilde ir B. 2.00 A.
+
+Sērijas slēgumā strāva visos ķēdes elementos ir vienāda. Tas nozīmē, ka strāva, kas plūst caur vienu lampu, ir tieši tāda pati kā strāva, kas plūst caur jebkuru citu lampu vai elementu, kas ir savienots virknē.
+
+Tātad, ja strāva vienā lampā ir 2 A, tad strāva blakus esošajā lampā arī būs 2 A, jo tās abas ir savienotas virknē un veido vienu kopēju ķēdi.
+
+Atbilde A (puse, 1 A) būtu pareiza, ja lampas būtu savienotas paralēli, nevis virknē. Atbilde C nav pareiza, jo strāva nav atkarīga no lampas atrašanās vietas attiecībā pret barošanas avotu. Atbilde D arī nav pareiza, jo dotā informācija ir pietiekama, lai atbildētu uz jautājumu.",
+"Enerģija, kas izdalās no augstas enerģijas fosfātu, ATP un fosfokreatīna sadalīšanās, var uzturēt maksimālu slodzi apmēram:
+A.1-2 sekundes.
+B.5-10 sekundes.
+C.30-40 sekundes.
+D.50-60 sekundes.",B,"Pareizā atbilde ir B. 5-10 sekundes.
+
+Augstas enerģijas fosfāti, piemēram, adenozīna trifosfāts (ATP) un fosfokreatīns (PC), ir galvenie enerģijas avoti īslaicīgām, augstas intensitātes aktivitātēm, piemēram, sprintam vai smagatlētikai. 
+
+Šie enerģijas avoti tiek uzglabāti muskuļu šūnās un var nodrošināt enerģiju ļoti ātri, taču ierobežotā daudzumā. ATP un PC krājumi muskuļos var uzturēt maksimālu slodzi tikai aptuveni 5-10 sekundes.
+
+Pēc šī laika muskuļiem jāpaļaujas uz citiem enerģijas avotiem, piemēram, glikolīzi (anaerobā enerģijas ražošana) un oksidatīvo fosforilēšanos (aerobā enerģijas ražošana), lai turpinātu darboties.
+
+Tāpēc pareizā atbilde ir B - enerģija no augstas enerģijas fosfātu sadalīšanās var uzturēt maksimālu slodzi apmēram 5-10 sekundes.",
+"Fotonu detektora kvantu efektivitāte ir 0, 1. Ja detektorā tiek nosūtīti 100 fotoni, viens pēc otra, detektors atklās fotonus
+A.vidēji 10 reizes, ar RMS novirzi aptuveni 4
+B.vidēji 10 reizes, ar RMS novirzi aptuveni 3
+C.vidēji 10 reizes, ar RMS novirzi aptuveni 1
+D.vidēji 10 reizes, ar RMS novirzi aptuveni 0,1",B,"Pareizā atbilde ir B - vidēji 10 reizes, ar RMS novirzi aptuveni 3.
+
+Paskaidrojums:
+1. Kvantu efektivitāte 0,1 nozīmē, ka katram fotonam ir 10% iespēja tikt detektētam. Tātad, ja tiek nosūtīti 100 fotoni, vidēji tiks detektēti 10 fotoni (100 * 0,1 = 10).
+
+2. Fotonu detektēšana ir Puasona process, kur RMS (root mean square) novirze jeb standartnovirze ir kvadrātsakne no vidējā detektēto fotonu skaita.
+
+3. Tā kā vidējais detektēto fotonu skaits ir 10, RMS novirze būs:
+   RMS = sqrt(10) ≈ 3.16 ≈ 3
+
+Tātad, ja detektorā tiek nosūtīti 100 fotoni ar kvantu efektivitāti 0,1, detektors vidēji atklās 10 fotonus ar RMS novirzi aptuveni 3.",
 "Programmētājs rakstīja programmu zemāk. Programma izmanto numuru sarakstu ar nosaukumu numList. Programma ir paredzēta, lai parādītu skaitļu summu sarakstā.
  summa ← numList [1]
  KATRAI vērtībai numList
@@ -282,7 +503,151 @@ D.Tradicionālās ķīniešu dzimumu attiecības tika mainītas ķeizarienes Wu 
 A.Secinājums ir pareizs; programma darbojas, kā paredzēts.
 B.Secinājums ir nepareizs; programma nerāda pareizo testa gadījuma vērtību [0, 1, 4, 5].
 C.Secinājums ir nepareizs; Testa gadījuma [0, 1, 4, 5] izmantošana nav pietiekama, lai secinātu, ka programma ir pareiza.
-D.Secinājums ir nepareizs; izmantojot testa gadījumu [0, 1, 4, 5], tikai apstiprina, ka programma darbojas sarakstiem pieaugošā secībā.",c,c,true
+D.Secinājums ir nepareizs; izmantojot testa gadījumu [0, 1, 4, 5], tikai apstiprina, ka programma darbojas sarakstiem pieaugošā secībā.",C,"C. Secinājums ir nepareizs; Testa gadījuma [0, 1, 4, 5] izmantošana nav pietiekama, lai secinātu, ka programma ir pareiza.
+
+Paskaidrojums:
+Lai gan programma darbojas pareizi ar doto testa gadījumu [0, 1, 4, 5], tas vēl nenozīmē, ka tā darbosies pareizi ar jebkuru citu skaitļu sarakstu. Programmētājam būtu jāpārbauda programma ar dažādiem testa gadījumiem, lai pārliecinātos, ka tā darbojas pareizi visos iespējamos scenārijos.
+
+Piemēram:
+- Testa gadījums ar negatīviem skaitļiem: [-3, -1, 0, 2]
+- Testa gadījums ar decimālskaitļiem: [1.5, 2.7, 3.2]
+- Testa gadījums ar tukšu sarakstu: []
+- Testa gadījums ar vienu elementu: [5]
+
+Tikai pēc tam, kad programma ir pārbaudīta ar dažādiem testa gadījumiem un tā darbojas pareizi visos scenārijos, var secināt, ka programma ir pareiza.",
+"Uzņēmumi iesaistās sociālajā grāmatvedībā, pateicoties _________ prasībām, lai identificētu ________, uzlabotu ___________ un veicinātu _________ un ___________
+A.Ieinteresētās personas, riski, ieinteresēto personu pārvaldība, pārskatatbildība, pārredzamība
+B.Ieinteresētās personas, pārskatatbildība, pārredzamība, riski, ieinteresēto personu pārvaldība
+C.Ieinteresētās personas, pārskatatbildība, riski, ieinteresētās personas, ieinteresēto personu pārvaldība
+D.Ieinteresētās personas, ieinteresēto personu pārvaldība, pārredzamība, riski, pārskatatbildība",A,"Pareizā atbilde ir A: Uzņēmumi iesaistās sociālajā grāmatvedībā, pateicoties ieinteresēto personu prasībām, lai identificētu riskus, uzlabotu ieinteresēto personu pārvaldību un veicinātu pārskatatbildību un pārredzamību.
+
+Paskaidrojums:
+- Ieinteresētās personas (stakeholders) ir grupas vai indivīdi, kurus ietekmē uzņēmuma darbība. Viņu prasības ir galvenais iemesls, kāpēc uzņēmumi iesaistās sociālajā grāmatvedībā.
+- Sociālā grāmatvedība palīdz identificēt riskus, kas saistīti ar uzņēmuma sociālo un vides ietekmi.
+- Ieinteresēto personu pārvaldība tiek uzlabota, jo sociālā grāmatvedība ļauj labāk saprast un reaģēt uz ieinteresēto personu vajadzībām.
+- Pārskatatbildība un pārredzamība tiek veicināta, jo sociālā grāmatvedība nodrošina informāciju par uzņēmuma sociālo un vides sniegumu.
+
+Tātad, A ir vienīgā pareizā atbilde, kas pareizi sakārto sociālās grāmatvedības elementus loģiskā secībā.",
+"Kura psiholoģiskā perspektīva bija vispopulārākā divdesmitā gadsimta mijā Rietumeiropā?
+A.Neiroloģijas
+B.Evolūcijas
+C.Behaviorist
+D.psihoanalītiskā",D,"D. Psihoanalītiskā perspektīva bija vispopulārākā divdesmitā gadsimta mijā Rietumeiropā.
+
+Psihoanalītiskā teorija, kuru izstrādāja Zigmunds Freids, dominēja Eiropas psiholoģiskajā domā 19. gadsimta beigās un 20. gadsimta sākumā. Freids uzsvēra bezapziņas prāta lomu cilvēka uzvedības un psihisko traucējumu veidošanā. Viņa idejas par bērnības pieredzi, aizsardzības mehānismiem un personības struktūru (id, ego, superego) kļuva ļoti ietekmīgas.
+
+Lai gan citas pieejas, piemēram, biheiviorisms, sāka gūt popularitāti ASV ap šo laiku, psihoanalītiskā perspektīva saglabāja savu dominanci Eiropā ilgāku laiku. Tikai vēlāk 20. gadsimtā citas teorijas, piemēram, humānistiskā un kognitīvā psiholoģija, sāka izaicināt psihoanalīzes dominanci Eiropas psiholoģijā.",
+"Kas ir atkārtojuma uzbrukums?
+A.Kad uzbrucējs atbild uz ziņojumu, ko tam nosūtījusi sistēma
+B.Uzbrukums, kas nepārtraukti atkārtojas, zondējot vājumu
+C.Uzbrukums, kurā tiek izmantoti pašas sistēmas ziņojumi, un tāpēc pret to nevar aizstāvēties
+D.Uzbrucējs atkārtoti nosūta notvertu ziņojumu, un vietne to pieņem un reaģē uzbrucēja labā",D,"D. Atkārtojuma uzbrukums (replay attack) ir uzbrukums, kurā uzbrucējs pārtver derīgu datu pārraidi un ļaunprātīgi to atkārtoti pārsūta, lai panāktu neatļautu efektu.
+
+Atkārtojuma uzbrukuma galvenās iezīmes:
+1. Uzbrucējs pārtver autentisku ziņojumu vai transakciju.
+2. Uzbrucējs atkārtoti nosūta šo ziņojumu vēlāk, nemainot tā saturu.
+3. Saņēmējs pieņem atkārtoto ziņojumu kā derīgu un rīkojas saskaņā ar to.
+4. Uzbrucējs gūst labumu no šīs darbības, piemēram, vairākkārt veicot maksājumu vai iegūstot neatļautu piekļuvi.
+
+Lai aizsargātos pret atkārtojuma uzbrukumiem, sistēmās parasti tiek izmantotas unikālas vērtības katrā ziņojumā (piemēram, laika zīmogi, vienreizlietojamas atslēgas), kas ļauj atpazīt un noraidīt atkārtotus ziņojumus.",
+"Ekonomika atrodas dziļā recesijā. Ņemot vērā šo ekonomisko situāciju, kurš no turpmāk minētajiem apgalvojumiem par monetāro politiku ir pareizs?
+A.Ekspansīva politika tikai pasliktinātu lejupslīdi.
+B.Ekspansīva politika ievērojami palielina kopējo pieprasījumu, ja ieguldījumi ir jutīgi pret procentu likmju izmaiņām.
+C.Līgumdarbības politika ir piemērots stimuls ieguldījumiem un patēriņam.
+D.Ja naudas pieprasījums ir pilnīgi elastīgs, ekspansīva monetārā politika varētu būt diezgan efektīva.",B,"Pareizā atbilde ir D - Ja naudas pieprasījums ir pilnīgi elastīgs, ekspansīva monetārā politika varētu būt diezgan efektīva.
+
+Pamatojums:
+Dziļas recesijas laikā ekspansīva monetārā politika, kas ietver procentu likmju samazināšanu un naudas piedāvājuma palielināšanu, var stimulēt ekonomiku, palielinot kopējo pieprasījumu.
+
+A nav pareizi, jo ekspansīva politika tieši pretēji var palīdzēt mazināt recesijas ietekmi, nevis pasliktināt to.
+
+B nav pilnīgi precīzi, jo, lai arī ekspansīva monetārā politika var palielināt kopējo pieprasījumu, tas ne vienmēr notiek ""ievērojami"", un ir atkarīgs no vairākiem faktoriem.
+
+C runā par līgumdarbības politiku, nevis monetāro, tāpēc neatbilst jautājumam.
+
+D ir visprecīzākā atbilde, jo pilnīgi elastīgs naudas pieprasījums nozīmē, ka procentu likmju samazinājums izraisīs ievērojamu naudas pieprasījuma pieaugumu, kas savukārt stimulēs ekonomiku caur palielinātu patēriņu un ieguldījumiem. Tādējādi ekspansīva monetārā politika var būt efektīva dziļas recesijas apstākļos.",
+"Kāds ir termins tam, cik lielā mērā konkurenci vienā valstī ietekmē konkurence citās valstīs?
+A.Starptautiskā tirdzniecība
+B.Pasaules ekonomika
+C.Globālā konkurence
+D.Globalizācija",D,"Pareizā atbilde ir D - Globalizācija.
+
+Globalizācija ir process, kurā pasaules valstis kļūst arvien ciešāk saistītas ekonomiski, politiski un kulturāli. Tā ietver starptautiskās tirdzniecības pieaugumu, kapitāla plūsmas, tehnoloģiju pārnesi un cilvēku migrāciju starp valstīm.
+
+Globalizācijas rezultātā konkurence vienā valstī arvien vairāk tiek ietekmēta no konkurences citās pasaules valstīs. Uzņēmumiem jākonkurē ne tikai ar vietējiem, bet arī ar ārvalstu uzņēmumiem. Patērētājiem ir pieejamas preces un pakalpojumi no visas pasaules. 
+
+Pārējie atbilžu varianti ir saistīti, bet ne tik precīzi:
+- Starptautiskā tirdzniecība ir globalizācijas sastāvdaļa, bet neaptver visus tās aspektus.
+- Pasaules ekonomika raksturo visu valstu ekonomiku kopumu, bet mazāk uzsver to savstarpējo saistību.
+- Globālā konkurence ir globalizācijas sekas, nevis pats process.
+
+Tātad tieši globalizācija visprecīzāk raksturo konkurences savstarpējo ietekmi starp valstīm mūsdienu pasaulē.",
+"Tas, ka deitērija hlorīda (DCl) infrasarkanās absorbcijas frekvence ir novirzīta no ūdeņraža hlorīda (HCl) infrasarkanās absorbcijas frekvences, ir saistīts ar atšķirībām to
+A.Elektronu sadalījums
+B.dipola moments
+C.spēka konstante
+D.samazināta masa",D,"Pareizā atbilde ir D - samazināta masa.
+
+Deitērija hlorīda (DCl) un ūdeņraža hlorīda (HCl) infrasarkanās absorbcijas frekvenču atšķirības ir saistītas ar to samazināto masu atšķirībām.
+
+Paskaidrojums:
+1. Deitērijs (D) ir ūdeņraža izotops, kam ir viens protons un viens neitrons kodolā, kamēr ūdeņradim (H) ir tikai viens protons bez neitroniem.
+2. Tā kā deitērijam ir lielāka masa nekā ūdeņradim, DCl molekulai ir lielāka samazināta masa nekā HCl molekulai.
+3. Samazinātā masa ietekmē molekulas vibrācijas frekvenci. Lielāka samazinātā masa nozīmē zemāku vibrācijas frekvenci, savukārt mazāka samazinātā masa nozīmē augstāku vibrācijas frekvenci.
+4. Tāpēc DCl infrasarkanās absorbcijas frekvence ir novirzīta uz zemāku vērtību salīdzinājumā ar HCl infrasarkanās absorbcijas frekvenci.
+
+Pārējās atbildes nav pareizas:
+- Elektronu sadalījums (A) un dipola moments (B) būtiski neatšķiras starp DCl un HCl molekulām.
+- Spēka konstante (C) ir saistīta ar saites stiprību, nevis ar atomu masu.",
+"Daļa Marsa ūdens ir sasalusi augsnē un ledus cepurēs, un daži tika zaudēti saules vēja noņemšanas dēļ, taču tiek uzskatīts, ka liela daļa sākotnējā ūdens ir zaudēta, izmantojot citu mehānismu. Kas notika ar šo ""pazudušo"" ūdeni?
+A.to atņēma magnētiskais lauks, kad tā stiprums strauji samazinājās
+B.Ultravioletā gaisma to sadalīja ūdeņradī un skābeklī, un ūdeņradis tika zaudēts termiskās izkļūšanas rezultātā
+C.to patērēja izslāpušo marsiešu civilizācija
+D.Tas tika iztvaicēts intensīva vulkānisma periodā un tika zaudēts kosmosā, izmantojot termisko aizbēgšanu",B,"B ir pareizā atbilde - ultravioletā gaisma sadalīja ūdeni ūdeņradī un skābeklī, un vieglākais ūdeņradis tika zaudēts kosmosā termiskās izkļūšanas rezultātā.
+
+Pašreizējie pētījumi liecina, ka Marsa atmosfēra kādreiz bija daudz blīvāka, un uz planētas virsmas bija šķidrs ūdens. Taču Marsa mazā masa un vājais magnētiskais lauks nespēja noturēt blīvo atmosfēru. 
+
+Saules ultravioletā radiācija sadalīja ūdens molekulas ūdeņraža un skābekļa atomos. Vieglākais ūdeņradis sasniedza otro kosmisko ātrumu un izkļuva no Marsa gravitācijas, aizplūstot kosmosā. Smagākais skābeklis palika atmosfērā.
+
+Šis process pakāpeniski noplicināja Marsa atmosfēru un ūdens krājumus, radot pašreizējos sausos un aukstus apstākļus. Daļa ūdens sasala polārajos ledājos un augsnē, bet liela daļa tika neatgriezeniski zaudēta kosmosā ūdeņraža atomu formā.",
+"Kurš no turpmāk minētajiem, visticamāk, laika gaitā radīs spēcīgāku ekonomikas izaugsmi?
+A.Ātrāks dabas resursu patēriņš.
+B.Augstāks pieaugušo analfabētisma līmenis.
+C.Ražošanas līdzekļu krājumu samazināšanās.
+D.Ieguldījumu nodokļa kredīti.",D,"Visticamāk, ka no minētajām opcijām ieguldījumu nodokļa kredīti (D) laika gaitā radīs spēcīgāku ekonomikas izaugsmi. Iemesli:
+
+1. Nodokļu kredīti stimulē uzņēmumu investīcijas, jo samazina to nodokļu slogu. Tas var veicināt jaunu ražotņu, iekārtu iegādi, pētniecību un attīstību.
+
+2. Palielinātas investīcijas nozīmē lielāku kapitāla uzkrāšanos ekonomikā. Tas ceļ ražošanas jaudu un produktivitāti ilgtermiņā.
+
+3. Pārējās opcijas - ātrāks resursu patēriņš (A), augstāks analfabētisms (B) un ražošanas līdzekļu samazināšanās (C) - visticamāk neradīs ilgtspējīgu izaugsmi. Tās var dot īstermiņa stimulu, taču ilgtermiņā var novest pie resursu izsīkuma, darbaspēka kvalitātes krituma un ražošanas jaudas samazināšanās.
+
+4. Ieguldījumu nodokļu kredīti ir instruments, ko valdības mērķtiecīgi izmanto, lai stimulētu ekonomikas izaugsmi, kamēr pārējie faktori nav uzskatāmi par vēlamiem ilgtermiņa attīstībai.
+
+Tātad, ieguldījumu nodokļu kredīti, visticamāk, dos pozitīvāko ieguldījumu ekonomikas izaugsmē ilgākā laika periodā.",
+"1. paziņojums | Grupā (ab)^{-2} = b^{-2}a^{-2}. 2. paziņojums | Grupā (ab)^n = a^nb^n.
+A.Patiess, patiess
+B.Nepatiess, nepatiess
+C.Patiess, nepatiess
+D.Nepatiess, patiess",B,"Lai atbildētu uz šo jautājumu, pārbaudīsim katru paziņojumu atsevišķi.
+
+1. paziņojums: (ab)^{-2} = b^{-2}a^{-2}
+
+Šis paziņojums ir nepatiess. Pareizā formula būtu:
+(ab)^{-2} = (a^{-1}b^{-1})^2 = a^{-2}b^{-2}
+
+Kāpinot negatīvā pakāpē, mēs vispirms apgriežam elementu un tad kāpinām pozitīvā pakāpē. Tātad, (ab)^{-2} = (b^{-1}a^{-1})^2 = a^{-2}b^{-2}, nevis b^{-2}a^{-2}.
+
+2. paziņojums: (ab)^n = a^nb^n
+
+Šis paziņojums ir patiess, ja grupa ir Ābela (komutativitātes īpašība). Ābela grupā ab = ba, tāpēc:
+(ab)^n = (ab)(ab)...(ab) (n reizes) = a(ba)b(ab)...ab = aa...abb...b = a^nb^n
+
+Tomēr, ja grupa nav Ābela, šis paziņojums var nebūt patiess.
+
+Tā kā pirmais paziņojums ir nepatiess un otrais paziņojums ir patiess tikai Ābela grupā, pareizā atbilde ir:
+
+D. Nepatiess, patiess (ar pieņēmumu, ka grupa ir Ābela).",
 "Šis jautājums attiecas uz šādu informāciju.
 ""Patiešām, tā kā gan izcilu [zinātnieku] fatwas, kuri savu viedokli balsta gan uz saprātu un tradīcijām, gan sunnītu kopienas vienprātība ir vienisprātis, ka senajam pienākumam iznīcināt, iznīcināt un izraidīt ļaunus jauninājumus ir jābūt mūsu paaugstināto centienu mērķim, jo ""Reliģiskā dedzība ir Dieva Labvēlīgā ticības uzvara""; tad saskaņā ar pravieša vārdiem (Miers pār viņu!) ""Ikviens, kas ievieš ļaunus jauninājumus mūsu kārtībā, ir jāizraida"" un ""Ikviens, kas māca pret mūsu kārtību, ir jāizraida"", rīcība ir kļuvusi nepieciešama un attaisnojoša...""
 Osmaņu sultāna Selima I vēstule Safavidam Šaham Ismailam I, 1514. gads
@@ -290,256 +655,856 @@ Safavīdi zīmēja islāma impēriju, piemēram, Osmaņu un Mughal impēriju, ir
 A.bija ekspansionistiska impērija, kas ģeogrāfiski atradās starp diviem citiem ekspansionistiem
 B.noraidīja islāma centrālos principus
 C.paverdzināja kristiešus un pārvērta tos par Safavīdu cīnītājiem
-D.Ismails pasludināja sevi par kalifu",a,d,false
-"Novērtētās māju vērtības pilsētā ir vidēji 125 000 USD ar standarta novirzi 23 000 USD. Sakarā ar jaunu skolotāju līgumu skolas rajonam ir nepieciešami papildu 10% līdzekļu, salīdzinot ar iepriekšējo gadu. Lai piesaistītu šo papildu naudu, pilsēta uzdod novērtēšanas birojam paaugstināt visas novērtētās māju vērtības par 5,000 USD. Kāda būs jaunā standartnovirze novērtētajām māju vērtībām pilsētā?
-A.$ 23,000 
-B.$ 25,300 
-C.$ 28,000 
-D.$ 30,300 ",a,"a. $23,000",true
-" Pēc Nusbauma domām, attieksme pret kādu kā objektu ir
-A.pietiekams seksuālai objektivizācijai.
-B.nepieciešams seksuālai objektivizācijai.
-C.nav nepieciešams seksuālai objektivizācijai.
-D.viss iepriekš minētais.",c,c,true
-"Kurš no šiem apgalvojumiem attiecas uz hipotireozi?
-A.Svara zudums
-B.Pirms stilba kaula myxoedema
-C.Paaugstināts TSH līmenis
-D.Nepatika pret siltām vietām",c,c,true
-"Kuram no šiem diviem scenārijiem galvenais varonis (kurš izmanto es/es/mans) dara kaut ko acīmredzami morāli nepareizu, saskaņā ar parastajiem morāles standartiem ASV no 2020. gada? 1. scenārijs | Es redzēju slaveno Eltonu Džonu ārpus koncertu arēnas un nofotografēju viņu, neprasot viņam. 2. scenārijs | Es ziņoju par citu apsargu, kurš cietumā ielīst narkotiskās vielās un pārdod tās ieslodzītajiem.
-A.Nepareizi, nepareizi
-B.Nepareizi, Nav nepareizi
-C.Nav nepareizi, nepareizi
-D.Nav nepareizi, nav nepareizi",d,d,true
-"Augu pielāgojumi, lai samazinātu ūdens zudumus vidē ar augstu temperatūru, ietver to, kurš no šiem?
-A.Daudzi stomata
-B.Plānas kutikulas
-C.Muguriņas, nevis lapas
-D.Liela virsmas un tilpuma attiecība",c,c,true
-"Mutācijas ir kļūdas DNS, kas:
-A.vienmēr ir kaitīgi.
-B.rodas tikai kancerogēnu klātbūtnē.
-C.palielināt audzēja augšanu.
-D.notiek spontāni ar zemu ātrumu.",d,d.,true
+D.Ismails pasludināja sevi par kalifu",A,"Pareizā atbilde ir B - Safavīdi noraidīja islāma centrālos principus.
+
+Sniegtajā citātā Osmaņu sultāns Selims I apvaino Safavīdu šahu Ismailu I par ""ļaunu jauninājumu"" ieviešanu islāmā, kas ir pretrunā ar sunnītu kopienas vienprātību. Viņš uzskata, ka šie jauninājumi ir jāiznīcina un jāizraida saskaņā ar pravieša Muhameda vārdiem.
+
+Safavīdi bija šiītu dinastija, kamēr Osmaņu un Mugalu impērijas bija sunnītu. Šiītu un sunnītu islāms ir divas lielākās islāma atzares ar atšķirīgiem uzskatiem par reliģiskajiem un politiskajiem jautājumiem. Tādējādi no sunnītu viedokļa Safavīdi tika uzskatīti par tādiem, kas novirzās no islāma pamatprincipiem.
+
+Pārējās atbildes nav pareizas, jo dotajā citātā nav minēts, ka Safavīdi būtu bijuši īpaši ekspansionistiski (A), paverdzinājuši kristiešus (C) vai Ismails būtu pasludinājis sevi par kalifu (D). Galvenais iemesls konfliktam bija reliģiskas dabas - atšķirīgie uzskati par islāma mācību.",
+"Garsijas un Koellinga pētījumi par iemācītajām nepatikām noteica, ka kurš no šiem UCS un CS pāriem ir visspēcīgākais un visātrāk apgūtais?
+A.uzdevuma veikšana un pārtikas atlīdzības saņemšana
+B.slikta dūša un pārtika vai dzēriens
+C.kustība un šoks
+D.Sodi un atlīdzības",B,"Garsijas un Koellinga pētījumi par iemācītajām nepatikām noteica, ka visspēcīgākais un visātrāk apgūtais UCS (nenosacītais stimuls) un CS (nosacītais stimuls) pāris ir:
+
+B. slikta dūša un pārtika vai dzēriens
+
+Viņu eksperimentos žurkas tika baroti ar pārtiku vai dzērienu (CS), kam sekoja injekcija, kas izraisīja sliktu dūšu (UCS). Pēc vienas vai divām šādām pieredzes reizēm, žurkas sāka izvairīties no pārtikas vai dzēriena, kas tika asociēts ar sliktu dūšu.
+
+Šis fenomens ir pazīstams kā ""garšas aversija"" (taste aversion) un ir spēcīgs piemērs tam, cik ātri un efektīvi organismi var iemācīties izvairīties no kaitīgiem stimuliem pēc minimālas pieredzes. Evolūcijas kontekstā šī spēja ātri iemācīties izvairīties no toksiskas pārtikas ir bijusi svarīga izdzīvošanai.
+
+Pārējie UCS-CS pāri, kurus tu minēji (A, C, D), arī var izraisīt nosacītas reakcijas, taču parasti ne tik spēcīgi un ātri kā sliktas dūšas un pārtikas/dzēriena kombinācija.",
+"Kuru no šīm bitu virkņu kopām NEVAR aprakstīt ar regulāru izteiksmi?
+A.Visas bitu virknes, kuru nulles skaits ir pieci daudzkārtnis
+B.Visas bitu virknes, kas sākas ar nulli un beidzas ar vienu
+C.Visas bitu virknes ar pāra nulles skaitu
+D.Visas bitu virknes ar vairāk nekā nullēm",D,"Pareizā atbilde ir A - visas bitu virknes, kuru nulles skaits ir pieci daudzkārtnis, NEVAR aprakstīt ar regulāru izteiksmi.
+
+Iemesli:
+- Regulāras izteiksmes nespēj ""skaitīt"" un pārbaudīt, vai kāda simbola skaits ir noteikta skaitļa daudzkārtnis. Tās var pārbaudīt fiksētu simbolu skaitu, bet ne dinamiski mainīgu skaitu.
+- Pārējās bitu virkņu kopas var aprakstīt ar regulārām izteiksmēm:
+  - B: ^0[01]*1$ (sākas ar 0, beidzas ar 1, pa vidu jebkādi simboli)
+  - C: ^(1*01*0)*1*$ (pāra skaits 0, atļauti jebkādi 1 pa vidu)
+  - D: 0+1*0+ (vairāk 0 nekā 1)
+
+Tātad, regulāras izteiksmes nespēj izteikt valodas, kurām nepieciešams skaitīt un pārbaudīt nosacījumus par simbolu skaitu. Šādām valodām ir nepieciešami spēcīgāki līdzekļi, piemēram, kontekstatkarīgas gramatikas.",
+"Piegādātājam uzliktais nodoklis, visticamāk, tiks pārnests uz patērētāju cenas paaugstinājuma veidā, ja:
+A.Pieprasījuma cenu elastība ir ļoti elastīga.
+B.Pieprasījuma cenu elastība ir ļoti neelastīga.
+C.Pieprasījuma cenu elastība ir vienības elastība.
+D.Pieprasījuma algu elastība ir ļoti elastīga.",B,"Pareizā atbilde ir B - Pieprasījuma cenu elastība ir ļoti neelastīga.
+
+Paskaidrojums:
+Pieprasījuma cenu elastība parāda, cik jutīgi patērētāji reaģē uz cenu izmaiņām. Ja pieprasījums ir neelastīgs, patērētāji turpinās pirkt produktu vai pakalpojumu pat tad, ja cenas pieaug, jo viņiem ir ierobežotas iespējas aizstāt šo produktu ar citu.
+
+Ja piegādātājam tiek uzlikts nodoklis un pieprasījums pēc produkta ir neelastīgs, piegādātājs, visticamāk, palielinās cenu, jo patērētāji turpinās pirkt produktu par augstāku cenu. Tādējādi nodokļa slogs tiks pārnests uz patērētājiem.
+
+Pārējie varianti nav pareizi:
+A. Ja pieprasījums ir ļoti elastīgs, patērētāji būs jutīgi pret cenu izmaiņām un var samazināt patēriņu vai izvēlēties citus produktus, tādējādi apgrūtinot nodokļa pārnešanu uz patērētājiem.
+C. Vienības elastība nenozīmē, ka nodoklis tiks pārnests uz patērētājiem.
+D. Pieprasījuma algu elastība nav saistīta ar nodokļu pārnešanu uz patērētājiem.",
+"Iemācītā bezpalīdzība, visticamāk, ir tieši saistīta ar
+A.Barnum efekts.
+B.pašapkalpošanās aizspriedumi.
+C.ārējs kontroles lokuss.
+D.beznosacījuma pozitīva attieksme.",C,"C. Iemācītā bezpalīdzība visticamāk ir tieši saistīta ar ārēju kontroles lokusu.
+
+Iemācītā bezpalīdzība ir psiholoģisks fenomens, kad cilvēks uzskata, ka viņa rīcībai nav ietekmes uz rezultātu, jo iepriekšējā pieredze liecina, ka neatkarīgi no pūlēm, iznākums nav ietekmējams. Tas liek cilvēkam justies bezpalīdzīgam un zaudēt motivāciju mēģināt mainīt situāciju.
+
+Ārējais kontroles lokuss nozīmē, ka cilvēks uzskata - viņa dzīvi un notikumus tajā nosaka ārēji faktori (liktenis, apstākļi, citi cilvēki), nevis paša izvēles un rīcība. Tas ir pretstatā iekšējam kontroles lokusam, kad cilvēks jūt, ka pats spēj ietekmēt savu dzīvi.
+
+Tādējādi iemācītā bezpalīdzība ir cieši saistīta tieši ar ārējo kontroles lokusu, jo abos gadījumos cilvēks netic savai spējai kaut ko mainīt un jūtas bezspēcīgs ārēju faktoru priekšā.
+
+Pārējās minētās opcijas nav tieši saistītas ar iemācīto bezpalīdzību:
+A. Barnum efekts - tendence uzskatīt vispārīgus aprakstus par precīzi atbilstošiem sev.
+B. Pašapkalpošanās aizspriedumi - tendence sevi uzskatīt par labāku nekā citi vidējā līmenī.
+D. Beznosacījuma pozitīva attieksme - pieņemšana un cieņa pret otru tādu, kāds viņš ir.",
+"Xy-plaknē grafiks x^(log y) = y^log x ir
+A.Atvērtais pirmais kvadrants
+B.slēgta līkne
+C.Stars atvērtajā pirmajā kvadrantā
+D.viens punkts",A,"Lai atrisinātu šo problēmu, mēs varam izmantot zināšanas par logaritmiem un to īpašībām. Apskatīsim katru atbildes variantu atsevišķi.
+
+A. Atvērtais pirmais kvadrants:
+Šis nevar būt pareizais atbildes variants, jo vienādojums x^(log y) = y^(log x) neaptver visu pirmo kvadrantu. Piemēram, punkts (1, 1) nepieder šim grafikam, jo 1^(log 1) = 1^0, kas nav definēts.
+
+B. Slēgta līkne:
+Šis arī nevar būt pareizais atbildes variants, jo, kā redzējām iepriekš, punkts (1, 1) nepieder grafikam. Tātad grafiks nevar būt slēgta līkne.
+
+C. Stars atvērtajā pirmajā kvadrantā:
+Pārveidosim vienādojumu, izmantojot logaritmu īpašības:
+log(x^(log y)) = log(y^(log x))
+log y * log x = log x * log y
+Šis vienādojums ir patiess visiem x, y > 0, x ≠ 1, y ≠ 1.
+Tātad grafiks ir simetrisks pret taisni y = x un atrodas atvērtajā pirmajā kvadrantā, izņemot punktus uz asīm.
+
+D. Viens punkts:
+Kā redzējām iepriekšējā analīzē, grafiks sastāv no bezgalīgi daudziem punktiem, nevis tikai viena punkta.
+
+Tātad pareizā atbilde ir C. Stars atvērtajā pirmajā kvadrantā.",
+"Ceļojot ar sākotnējo ātrumu 1,5 × 10^6 m/s, protons nonāk nemainīga magnētiskā lauka reģionā, kura lielums ir 1,5 T. Ja protona sākotnējais ātruma vektors veido 30° leņķi ar magnētisko lauku, pēc ieiešanas magnētiskajā laukā izskaitļojiet protona ātrumu 4 s.
+A.5.0 × 10^6 m/s
+B.7,5 × 10^6 m/s
+C.1,5 × 10^6 m/s
+D.3.0 × 10^6 m/s",C,"Lai atrisinātu šo uzdevumu, mums jāizmanto zināšanas par lādētu daļiņu kustību magnētiskajā laukā.
+
+Dots:
+- Sākotnējais protona ātrums v0 = 1,5 × 10^6 m/s
+- Magnētiskā lauka lielums B = 1,5 T
+- Leņķis starp sākotnējo ātruma vektoru un magnētisko lauku α = 30°
+- Laiks t = 4 s
+
+Risinājums:
+
+1. Sadalām protona sākotnējo ātrumu divās komponentēs:
+   - Paralēli magnētiskajam laukam: v∥ = v0 × cos(α) = 1,5 × 10^6 × cos(30°) ≈ 1,3 × 10^6 m/s
+   - Perpendikulāri magnētiskajam laukam: v⊥ = v0 × sin(α) = 1,5 × 10^6 × sin(30°) = 7,5 × 10^5 m/s
+
+2. Paralēlā komponente v∥ paliek nemainīga, jo magnētiskais lauks neietekmē daļiņas kustību paralēli laukam.
+
+3. Perpendikulārā komponente v⊥ izraisa protona kustību pa apli magnētiskajā laukā. Šīs kustības ātrums paliek nemainīgs, jo magnētiskais lauks neveic darbu.
+
+4. Pēc 4 sekundēm protona ātrums būs vienāds ar vektoriālo summu no v∥ un v⊥:
+   v = √(v∥^2 + v⊥^2) = √((1,3 × 10^6)^2 + (7,5 × 10^5)^2) ≈ 1,5 × 10^6 m/s
+
+Tātad pareizā atbilde ir C. 1,5 × 10^6 m/s - protona ātrums pēc 4 sekundēm magnētiskajā laukā ir vienāds ar tā sākotnējo ātrumu.",
+"Atrodiet līknes garumu y = ln x starp punktiem, kur y = 1/2 un y = 1.
+A.0.53
+B.0.86
+C.1.18
+D.1.36",C,"Lai atrisinātu šo uzdevumu, mums jāaprēķina līknes y = ln x garums starp diviem dotajiem punktiem. Šim nolūkam izmantosim līknes garuma formulu:
+
+L = ∫ √(1 + (dy/dx)^2) dx
+
+Soļi:
+1. Atrodam dy/dx:
+   y = ln x
+   dy/dx = 1/x
+
+2. Ievietojam dy/dx formulā:
+   L = ∫ √(1 + (1/x)^2) dx
+
+3. Nosakām integrēšanas robežas:
+   Pie y = 1/2, x = e^(1/2)
+   Pie y = 1, x = e
+
+4. Aprēķinām integrāli:
+   L = ∫[e^(1/2) līdz e] √(1 + (1/x)^2) dx
+
+5. Pārveidojam integrāli:
+   Ieviesīsim substitūciju: t = 1/x, tad dt = -1/x^2 dx
+   Robežas: kad x = e^(1/2), t = e^(-1/2); kad x = e, t = 1/e
+
+   L = ∫[1/e līdz e^(-1/2)] √(1 + t^2) (-1/t^2) dt
+      = ∫[e^(-1/2) līdz 1/e] √((1 + t^2) / t^2) dt
+      = ∫[e^(-1/2) līdz 1/e] √(1/t^2 + 1) dt
+
+6. Atrisinām integrāli:
+   ∫ √(1/t^2 + 1) dt = t √(1/t^2 + 1) - ln(t + √(1/t^2 + 1)) + C
+
+   L = [t √(1/t^2 + 1) - ln(t + √(1/t^2 + 1))] no e^(-1/2) līdz 1/e
+      = (1/e) √(e^2 + 1) - ln(1/e + √(e^2 + 1)) - (e^(-1/2)) √(e + 1) + ln(e^(-1/2) + √(e + 1))
+      ≈ 0.53
+
+Tātad, pareizā atbilde ir A. 0.53.",
 "Kuram no šiem diviem scenārijiem galvenais varonis (kurš izmanto es/es/mans) dara kaut ko acīmredzami morāli nepareizu, saskaņā ar parastajiem morāles standartiem ASV no 2020. gada? 1. scenārijs | Kad vecāki gulēja, es devos skriet. 2. scenārijs | Es ieleju mazgāšanas līdzekli mazgātājā, kas bija pilns ar mana istabas biedra drēbēm.
 A.Nepareizi, nepareizi
 B.Nepareizi, Nav nepareizi
 C.Nav nepareizi, nepareizi
-D.Nav nepareizi, nav nepareizi",d,c,false
-"Kuram no šiem diviem scenārijiem galvenais varonis (kurš izmanto es/es/mans) dara kaut ko acīmredzami morāli nepareizu, saskaņā ar parastajiem morāles standartiem ASV no 2020. gada? 1. scenārijs | Es skrēju pāri svaigajam paklājam ar zāles pļāvēju. 2. scenārijs | Es urinēju rokā, lai varētu pārbaudīt, vai nav infekcijas.
-A.Nepareizi, nepareizi
-B.Nepareizi, Nav nepareizi
-C.Nav nepareizi, nepareizi
-D.Nav nepareizi, nav nepareizi",a,d.,false
+D.Nav nepareizi, nav nepareizi",D,"C. Nav nepareizi, nepareizi
+
+1. scenārijā nav nekā morāli nepareiza - skriešana, kamēr vecāki guļ, ir pilnīgi pieņemama rīcība.
+
+Savukārt 2. scenārijā mazgāšanas līdzekļa ieliešana mazgātājā ar istabas biedra drēbēm ir acīmredzami nepareiza rīcība. Tas, visticamāk, sabojās istabas biedra apģērbu un ir ļaunprātīga rīcība pret citu cilvēku un viņa īpašumu.",
 "Kuram no šiem diviem scenārijiem galvenais varonis (kurš izmanto es/es/mans) dara kaut ko acīmredzami morāli nepareizu, saskaņā ar parastajiem morāles standartiem ASV no 2020. gada? 1. scenārijs | Es dažreiz cenšos pateikt patiesību, ja vien tas man sagādā nepatikšanas. 2. scenārijs | Es noskūpstīju savu draudzeni burvju šovā.
 A.Nepareizi, nepareizi
 B.Nepareizi, Nav nepareizi
 C.Nav nepareizi, nepareizi
-D.Nav nepareizi, nav nepareizi",b,d,true
-" Savā diskusijā par diskrimināciju karā Valls norāda, ka
-A.Nav atšķirības starp kaujiniekiem un nekombatantiem.
-B.atšķirība starp kaujiniekiem un nekombatantiem ir pakāpes jautājums.
-C.atšķirība starp kaujiniekiem un nekombatantiem ir kategoriska un skaidra.
-D.""terorisms"" būtu jādefinē kā neselektīva vardarbība.",b,c.,false
-"Nagels apgalvo, ka morālās veiksmes problēma ir cieši saistīta ar problēmu:
-A.Dieva esamība.
-B.gribas brīvība.
-C.psiholoģiskais egoisms.
-D.universāli.",b,b.,true
+D.Nav nepareizi, nav nepareizi",B,"B. Nepareizi, Nav nepareizi
+
+1. scenārijā galvenais varonis dažreiz melo, lai izvairītos no nepatikšanām. Kaut arī melošana nav laba, dažreiz cilvēki to dara, lai izvairītos no problēmām. Tas nav acīmredzami morāli nepareizi saskaņā ar parastajiem ASV standartiem.
+
+2. scenārijā galvenais varonis skūpsta savu draudzeni burvju šovā. Tas nav morāli nepareizi, ja viņi ir pāris un abi piekrīt skūpstam.
+
+Tātad pirmajā scenārijā nav acīmredzamas morālas nepareizības, bet otrajā scenārijā rīcība nav morāli nepareiza.",
+"Kuram no šiem diviem scenārijiem galvenais varonis (kurš izmanto es/es/mans) dara kaut ko acīmredzami morāli nepareizu, saskaņā ar parastajiem morāles standartiem ASV no 2020. gada? 1. scenārijs | Es redzēju slaveno Eltonu Džonu ārpus koncertu arēnas un nofotografēju viņu, neprasot viņam. 2. scenārijs | Es ziņoju par citu apsargu, kurš cietumā ielīst narkotiskās vielās un pārdod tās ieslodzītajiem.
+A.Nepareizi, nepareizi
+B.Nepareizi, Nav nepareizi
+C.Nav nepareizi, nepareizi
+D.Nav nepareizi, nav nepareizi",D,"B. Nepareizi, Nav nepareizi
+
+1. scenārijā fotografēt slavenību publiskā vietā bez atļaujas nav uzskatāms par acīmredzami morāli nepareizu rīcību, lai gan daži to var uzskatīt par nepieklājīgu.
+
+2. scenārijā ziņot par citu apsargu, kurš pārkāpj likumu un apdraud ieslodzītos, nav morāli nepareizi. Gluži pretēji, tā ir pareiza rīcība, lai novērstu ļaunprātības un noziegumus cietumā.",
+"Novērtētās māju vērtības pilsētā ir vidēji 125 000 USD ar standarta novirzi 23 000 USD. Sakarā ar jaunu skolotāju līgumu skolas rajonam ir nepieciešami papildu 10% līdzekļu, salīdzinot ar iepriekšējo gadu. Lai piesaistītu šo papildu naudu, pilsēta uzdod novērtēšanas birojam paaugstināt visas novērtētās māju vērtības par 5,000 USD. Kāda būs jaunā standartnovirze novērtētajām māju vērtībām pilsētā?
+A.$ 23,000 
+B.$ 25,300 
+C.$ 28,000 
+D.$ 30,300 ",A,"Pareizā atbilde ir A. $23,000.
+
+Standartnovirze mēra datu izkliedi ap vidējo vērtību. Ja visām vērtībām tiek pieskaitīta konstanta summa (šajā gadījumā $5,000), tad vidējā vērtība palielinās par šo summu, bet datu izkliede ap vidējo vērtību nemainās.
+
+Tātad, ja sākotnēji māju vērtības bija:
+vidējā vērtība = $125,000
+standartnovirze = $23,000
+
+Tad pēc $5,000 pieskaitīšanas katrai vērtībai:
+jaunā vidējā vērtība = $125,000 + $5,000 = $130,000
+jaunā standartnovirze = $23,000 (nemainās)
+
+Tādējādi pareizā atbilde ir A. $23,000 - standartnovirze paliek tāda pati kā sākotnēji.",
+"Valsts iestādei ir jāiekļauj naudas plūsmu pārskats, kurā no šiem finanšu pārskatiem?
+A.Valdības fonda finanšu pārskati.
+B.Valsts mēroga finanšu pārskati.
+C.Īpašuma fonda finanšu pārskati.
+D.Fiduciārā fonda finanšu pārskati.",C,"Pareizā atbilde ir A - Valdības fonda finanšu pārskati.
+
+Saskaņā ar Latvijas Republikas normatīvajiem aktiem, valsts iestādēm ir jāsagatavo finanšu pārskati, kas ietver naudas plūsmu pārskatu. Šis naudas plūsmu pārskats ir jāiekļauj tieši Valdības fonda finanšu pārskatos.
+
+Pārējie minētie finanšu pārskatu veidi:
+- Valsts mēroga finanšu pārskati apkopo visu valsts iestāžu finanšu informāciju kopumā.
+- Īpašuma fonda finanšu pārskati attiecas uz valsts īpašumiem un to pārvaldību.
+- Fiduciārā fonda finanšu pārskati saistīti ar līdzekļiem, ko valsts pārvalda citu vārdā.
+
+Tātad, tieši Valdības fonda finanšu pārskatos valsts iestādēm ir pienākums iekļaut naudas plūsmu pārskatu.",
+"Kuram no šiem diviem scenārijiem galvenais varonis (kurš izmanto es/es/mans) dara kaut ko acīmredzami morāli nepareizu, saskaņā ar parastajiem morāles standartiem ASV no 2020. gada? 1. scenārijs | Kad mana restorāna saldētava salūza, es pasniedzu silto gaļu, lai gan zināju, ka tā ir ļoti nedroša. 2. scenārijs | Es nolēmu sākt ugunsgrēku mežā.
+A.Nepareizi, nepareizi
+B.Nepareizi, Nav nepareizi
+C.Nav nepareizi, nepareizi
+D.Nav nepareizi, nav nepareizi",A,"A. Abos scenārijos galvenais varonis rīkojas acīmredzami morāli nepareizi saskaņā ar mūsdienu ASV morāles standartiem.
+
+1. scenārijā apzināti pasniegt pircējiem bīstamu, sabojājušos gaļu ir bezatbildīgi un var nodarīt kaitējumu cilvēku veselībai. Tas ir pretrunā ar sabiedrības gaidām, ka restorāni ievēros pārtikas drošības standartus.
+
+2. scenārijā tīši dedzināt mežu ir ļoti bīstami un nelikumīgi, jo tas apdraud dzīvības, īpašumus un vidi. Meža dedzināšana ir nopietns noziegums un pilnīgi pretrunā sabiedrības normām.
+
+Tātad abi aprakstītie rīcības veidi ir skaidri morāli nepareizi mūsdienu kontekstā.",
 "Kuram no šiem diviem scenārijiem galvenais varonis (kurš izmanto es/es/mans) dara kaut ko acīmredzami morāli nepareizu, saskaņā ar parastajiem morāles standartiem ASV no 2020. gada? 1. scenārijs | Pārtraukumos aizķēros, lai palaistu garām bumbu, kad tā nonāca uz ceļa. 2. scenārijs | Es iemācīju saviem bērniem spēlēt ksilofonu.
 A.Nepareizi, nepareizi
 B.Nepareizi, Nav nepareizi
 C.Nav nepareizi, nepareizi
-D.Nav nepareizi, nav nepareizi",d,d,true
+D.Nav nepareizi, nav nepareizi",D,"D. Nav nepareizi, nav nepareizi
+
+Nevienā no šiem scenārijiem galvenais varonis nedara neko acīmredzami morāli nepareizu saskaņā ar mūsdienu ASV morāles standartiem:
+
+1. Apstāties, lai palaistu garām bumbu, kas nonākusi uz ceļa, ir drīzāk pieklājīga un droša rīcība, nevis morāli nepareiza. 
+
+2. Iemācīt bērniem spēlēt ksilofonu ir pilnīgi normāla un pat apsveicama vecāku rīcība, kas noteikti nav morāli nepareiza.
+
+Tātad abi scenāriji iekļaujas parastajās morāles normās un nav uzskatāmi par nepareiziem.",
+"Kurš no šiem apgalvojumiem ir pareizs, jo attiecas uz grāmatvedības aplēšu izmaiņām?
+A.Lielākā daļa izmaiņu grāmatvedības aplēsēs tiek uzskaitītas retrospektīvi.
+B.Ja nav iespējams noteikt, vai notikusi aplēses maiņa vai grāmatvedības principa maiņa, šī izmaiņa būtu jāuzskata par principiālu izmaiņu.
+C.Ja nav iespējams noteikt, vai ir notikusi grāmatvedības aplēses maiņa vai grāmatvedības principa maiņa, šī izmaiņa jāuzskata par aplēses maiņu.
+D.Ir vieglāk atšķirt grāmatvedības aplēses maiņu no grāmatvedības principa, nekā atšķirt grāmatvedības aplēses izmaiņas no kļūdas korekcijas.",C,"C. Ja nav iespējams noteikt, vai ir notikusi grāmatvedības aplēses maiņa vai grāmatvedības principa maiņa, šī izmaiņa jāuzskata par aplēses maiņu.
+
+Paskaidrojums:
+A. Nepareizi, jo lielākā daļa izmaiņu grāmatvedības aplēsēs tiek uzskaitītas perspektīvi, nevis retrospektīvi.
+B. Nepareizi, jo, ja nav iespējams noteikt, vai notikusi aplēses maiņa vai grāmatvedības principa maiņa, šī izmaiņa būtu jāuzskata par aplēses maiņu, nevis principiālu izmaiņu.
+C. Pareizi, jo, ja nav iespējams noteikt, vai ir notikusi grāmatvedības aplēses maiņa vai grāmatvedības principa maiņa, šī izmaiņa jāuzskata par aplēses maiņu.
+D. Nepareizi, jo parasti ir vieglāk atšķirt grāmatvedības aplēses izmaiņas no kļūdas korekcijas, nekā atšķirt grāmatvedības aplēses maiņu no grāmatvedības principa.",
+"Kuram no šiem diviem scenārijiem galvenais varonis (kurš izmanto es/es/mans) dara kaut ko acīmredzami morāli nepareizu, saskaņā ar parastajiem morāles standartiem ASV no 2020. gada? 1. scenārijs | Es skrēju pāri svaigajam paklājam ar zāles pļāvēju. 2. scenārijs | Es urinēju rokā, lai varētu pārbaudīt, vai nav infekcijas.
+A.Nepareizi, nepareizi
+B.Nepareizi, Nav nepareizi
+C.Nav nepareizi, nepareizi
+D.Nav nepareizi, nav nepareizi",A,"D. Nav nepareizi, nav nepareizi
+
+Nevienā no šiem scenārijiem galvenais varonis nedara neko acīmredzami morāli nepareizu saskaņā ar mūsdienu ASV morāles standartiem.
+
+1. scenārijā skrējiena pāri svaigam paklājam ar zāles pļāvēju var tikt uzskatīts par nepieklājīgu vai neapdomīgu rīcību, taču ne par morāli nepareizu. 
+
+2. scenārijā urinēšana rokā medicīnisku iemeslu dēļ arī nav uzskatāma par morāli nepareizu rīcību. Tas var šķist nepatīkami, taču ir attaisnojams veselības pārbaudes nolūkos.
+
+Tātad abi scenāriji iekļauj darbības, kas var likties dīvainas vai nepatīkamas, taču nav uzskatāmas par morāli nepareizām saskaņā ar vispārpieņemtajiem mūsdienu ētikas principiem.",
 "Kurš no šiem apgalvojumiem par glikozes metabolismu ir pareizs?
 
 A.Glikagons palielina glikolīzes ātrumu
 B.Glikolīzei nepieciešams NADP+
 C.Glikolīzē glikoze tiek sašķelta divos trīs oglekļa produktos
-D.Sarkano asins šūnu glikolīzes galaprodukts ir piruvāts",c,c,true
-"Kuram no šiem diviem scenārijiem galvenais varonis (kurš izmanto es/es/mans) dara kaut ko acīmredzami morāli nepareizu, saskaņā ar parastajiem morāles standartiem ASV no 2020. gada? 1. scenārijs | Kad mana restorāna saldētava salūza, es pasniedzu silto gaļu, lai gan zināju, ka tā ir ļoti nedroša. 2. scenārijs | Es nolēmu sākt ugunsgrēku mežā.
-A.Nepareizi, nepareizi
-B.Nepareizi, Nav nepareizi
-C.Nav nepareizi, nepareizi
-D.Nav nepareizi, nav nepareizi",a,a,true
-"Nūbijas civilizācija:
-A.pirms un veicināja Ēģiptes kultūras uzplaukumu.
-B.bija Mezopotāmijas kolonizācijas rezultāts dienvidos.
-C.izstrādāts, reaģējot uz Ēģiptes kultūru, bet ne atdarinot to.
-D.nebija kontaktu ar kaimiņu kultūrām.",c,c,true
+D.Sarkano asins šūnu glikolīzes galaprodukts ir piruvāts",C,"Pareizā atbilde ir C - glikolīzē glikoze tiek sašķelta divos trīs oglekļa produktos.
+
+Paskaidrojums:
+A - Glikagons nepalielina glikolīzes ātrumu. Glikagons ir hormons, kas stimulē glikogēna noārdīšanu un glikoneoģenēzi, tādējādi paaugstinot glikozes līmeni asinīs.
+
+B - Glikolīzei nav nepieciešams NADP+. Glikolīzē iesaistītais koferments ir NAD+, nevis NADP+.
+
+C - Šis apgalvojums ir pareizs. Glikolīzes procesā glikozes molekula (sešu oglekļu savienojums) tiek sašķelta divos trīs oglekļu savienojumos - piruvātā.
+
+D - Sarkano asins šūnu glikolīzes galaprodukts nav piruvāts, bet gan laktāts. Sarkanajām asins šūnām nav mitohondriju, tāpēc tās nevar veikt oksidatīvo fosforilēšanos un pārvērš piruvātu laktātā.",
+"Mutācijas ir kļūdas DNS, kas:
+A.vienmēr ir kaitīgi.
+B.rodas tikai kancerogēnu klātbūtnē.
+C.palielināt audzēja augšanu.
+D.notiek spontāni ar zemu ātrumu.",D,"Pareizā atbilde ir D - mutācijas notiek spontāni ar zemu ātrumu.
+
+Paskaidrojums:
+A - Nepareizi. Ne visas mutācijas ir kaitīgas. Dažas var būt neitrālas vai pat labvēlīgas.
+B - Nepareizi. Mutācijas var rasties dažādu faktoru ietekmē, ne tikai kancerogēnu klātbūtnē. Piemēram, UV starojums, vīrusi un spontānas kļūdas DNS replikācijas laikā arī var izraisīt mutācijas.
+C - Nepareizi. Ne visas mutācijas palielina audzēja augšanu. Tikai specifiskas mutācijas noteiktos gēnos var veicināt audzēju veidošanos.
+D - Pareizi. Mutācijas notiek nejauši un ar zemu frekvenci pat normālos apstākļos šūnu dalīšanās laikā. Lielākā daļa šo mutāciju ir nekaitīgas, un šūnām ir mehānismi to labošanai.",
+"Kurš no šiem apgalvojumiem attiecas uz hipotireozi?
+A.Svara zudums
+B.Pirms stilba kaula myxoedema
+C.Paaugstināts TSH līmenis
+D.Nepatika pret siltām vietām",C,"Pareizā atbilde ir C - paaugstināts TSH līmenis.
+
+Hipotireoze jeb pavājināta vairogdziedzera darbība ir saistīta ar šādiem simptomiem:
+
+1. Paaugstināts TSH (tiroīdstimulējošā hormona) līmenis asinīs, jo organisms cenšas kompensēt samazināto vairogdziedzera hormonu produkciju.
+
+2. Svara pieaugums, nevis svara zudums (atbilde A), jo samazinās vielmaiņas ātrums.
+
+3. Nepatika pret aukstumu, nevis siltumu (atbilde D), jo pavājinās termoregulācija.
+
+4. Pretibiales myxoedema (nevis pirms stilba kaula, kā minēts atbildē B) - specifisks ādas sabiezējums un pietūkums apakšstilbu priekšpusē.
+
+Tātad no dotajām atbildēm tikai paaugstināts TSH līmenis (C) ir tiešs hipotireozes rādītājs, kamēr pārējās atbildes ir neprecīzas vai aplamas.",
+"Kurš no šiem ir pēdējais, ko aizņem cilvēki?
+A.Jaungvineja
+B.Austrālija
+C.Jaunzēlande
+D.Timora",C,"Pareizā atbilde ir D. Timora.
+
+Timora bija pēdējā no minētajām vietām, ko apdzīvoja cilvēki. Lūk, īss pārskats par katras vietas apdzīvošanas vēsturi:
+
+A. Jaungvineja - cilvēki to sāka apdzīvot aptuveni pirms 40 000-60 000 gadiem.
+
+B. Austrālija - pirmie cilvēki ieradās pirms apmēram 65 000 gadiem. 
+
+C. Jaunzēlande - pirmie polinēziešu izcelsmes iedzīvotāji (maori) ieradās ap 1300. gadu.
+
+D. Timora - arheloģiskie pierādījumi liecina, ka cilvēki Timoru sāka apdzīvot tikai ap 4000. gadu pirms mūsu ēras, kas ir ievērojami vēlāk nekā pārējās minētās vietas.
+
+Tātad, no dotajām izvēlēm Timora bija pēdējā, ko sāka apdzīvot cilvēki.",
 "Lielāks piena patēriņš
 
 A.Dažos pētījumos ir ziņots, ka tas ir saistīts ar lielāku lūzumu sastopamību un augstāku mirstību
 B.Pubertātes laikā, šķiet, ir saistīts ar lielāku kaulu minerālu blīvumu turpmākajā dzīvē
 C.Pastāvīgi ir saistīts ar zemāku lūzumu līmeni
-D.Valstīs ar visaugstāko lūzumu līmeni liecina, ka piena patēriņš ir labvēlīgs skeletam.",a,b,false
-"Valsts iestādei ir jāiekļauj naudas plūsmu pārskats, kurā no šiem finanšu pārskatiem?
-A.Valdības fonda finanšu pārskati.
-B.Valsts mēroga finanšu pārskati.
-C.Īpašuma fonda finanšu pārskati.
-D.Fiduciārā fonda finanšu pārskati.",c,b,false
-"Kurš no šiem apgalvojumiem ir pareizs, jo attiecas uz grāmatvedības aplēšu izmaiņām?
-A.Lielākā daļa izmaiņu grāmatvedības aplēsēs tiek uzskaitītas retrospektīvi.
-B.Ja nav iespējams noteikt, vai notikusi aplēses maiņa vai grāmatvedības principa maiņa, šī izmaiņa būtu jāuzskata par principiālu izmaiņu.
-C.Ja nav iespējams noteikt, vai ir notikusi grāmatvedības aplēses maiņa vai grāmatvedības principa maiņa, šī izmaiņa jāuzskata par aplēses maiņu.
-D.Ir vieglāk atšķirt grāmatvedības aplēses maiņu no grāmatvedības principa, nekā atšķirt grāmatvedības aplēses izmaiņas no kļūdas korekcijas.",c,c,true
-"Kurš no šiem ir pēdējais, ko aizņem cilvēki?
-A.Jaungvineja
-B.Austrālija
-C.Jaunzēlande
-D.Timora",c,d,false
-"Pēc Singera domām, viņa principa ievērošanai ir nepieciešams:
-A.pieticīgas izmaiņas mūsu personīgajos paradumos, bet ne mūsu sabiedrībā kopumā.
-B.pieticīgas izmaiņas mūsu personīgajos paradumos, kā arī sabiedrībā.
-C.krasas izmaiņas mūsu personīgajos paradumos, bet ne mūsu sabiedrībā.
-D.krasas izmaiņas gan mūsu personīgajos paradumos, gan sabiedrībā.",d,d,true
-"Policija saņēma padomu no uzticama informatora, ka vīrietis no savām mājām tirgojas ar kokaīnu. Pēc tam amatpersonas iesniedza miertiesnesim ar zvērestu apliecinātu rakstveida liecību, kurā izklāstīti apstākļi, kas liecina par iespējamu iemeslu kratīšanas ordera izdošanai. Tiesnesis izdeva kratīšanas orderi narkotisko vielu meklēšanai vīrieša adresē. Policisti devās uz vīrieša mājām un atskanēja durvju zvans. Kad neviens neatbildēja, policija ielauzās un iegāja mājoklī. Viņi pārmeklēja pirmā stāva telpas un neatrada apsūdzošus pierādījumus, tad izgāja ārā un pamanīja atsevišķu ieeju, kas veda uz mājokļa otro stāvu. Viņi uzkāpa pa kāpnēm un iegāja augšstāva guļamistabā. Telpā policisti atrada kokaīna atlicinājumu, kas gulēja uz kumodes. Kad policisti turpināja kratīšanu guļamistabā, apsūdzētais iegāja istabā. Policija apsūdzētajam jautāja, vai viņš ir vīrietis. Apsūdzētais sevi identificēja un pastāstīja policijai, ka viņi atrodas viņa guļamistabā un viņš aizņem mājokļa otro stāvu. Apsūdzētais paskaidroja, ka vīrietis dzīvoja pirmajā stāvā un viņa dzīvojamās telpas bija nodalītas no apsūdzētā. Neskatoties uz to, apsūdzētais tika apcietināts un apsūdzēts par kokaīna glabāšanu. Atbildētājs ir iesniedzis priekšlikumu neļaut kokaīnu atzīt par pierādījumu. Atbildētāja priekšlikumam jābūt
-A.apmierināts, jo orderī atbildētājs nebija nosaukts.
-B.piešķirts, jo orderī nebija konkrēti norādīta pārmeklējamā teritorija.
-C.noliedza, jo policija pamatoti uzskatīja, ka, ieejot apsūdzētā dzīvojamās telpās, viņi pārmeklēja vīrieša dzīvesvietu.
-D.noraidīts, jo orderis bija derīgs un izdots ar ticamu iemeslu.",c,d,true
-"Pieteiktais kandidāts ir meksikānis-amerikānis un uzskata, ka viņam ir nepieciešama liela Meksikas vēlētāju aktivitāte, lai uzvarētu vēlēšanās. Tā rezultātā viņa kampaņas vadītājs nolemj katram reģistrētajam Meksikas vēlētājam nosūtīt noplēšamu uzlīmi, uz kuras ir kandidāta vārds un amats, uz kuru viņš kandidē. Tā kā daudzi meksikas vietējie iedzīvotāji neprot lasīt un rakstīt angļu valodā, kampaņas vadītājs uzskata, ka daudziem vēlētājiem būs grūtības uz vēlēšanu zīmes uzrakstīt kandidāta vārdu un amatu. Tā rezultātā kampaņas vadītājs ir izvērsis plašu plašsaziņas līdzekļu kampaņu, lai informētu vēlētājus par to, kā uzlīmes uzklāt uz vēlēšanu zīmes. Piecus mēnešus pirms vēlēšanām vēlēšanu amatpersona paziņo kandidāta kampaņas komitejai, ka noplēšamās uzlīmes neatbilst štata statūtiem. Savā vēstulē amatpersona skaidro, ka štata vēlēšanu amatpersonas uzskata, ka potenciālajiem vēlētājiem kandidāta vārds ir jāraksta ar tinti. Tāpēc viņa secina, ka uzlīmes neatbilst likumā noteiktajām prasībām. Trīs nedēļas vēlāk kandidāts iesniedza prasību federālajā apgabaltiesā pret štata vēlēšanu amatpersonām, apgalvojot, ka viņu štata statūtu interpretācija pārkāpj ASV konstitūciju. Kurš no šiem, ja tāds ir noteikts, ir spēcīgākais konstitucionālais arguments, kas pamato vēlēšanu amatpersonas interpretāciju par statūtiem?
-A.Vēlētāju aktivitāte reģistrēto Meksikas amerikāņu vēlētāju vidū, kuriem trūkst angļu valodas prasmju, pēdējās vēlēšanās ir bijusi mazāka par 1% no visa štata kopskaita.
-B.Štata nolikums nosaka, ka katrai balsošanas kabīnei jābūt aprīkotai ar tintes pildspalvu, lai atvieglotu balsu rakstīšanu.
-C.Tā kā liels ierakstīto balsu skaits parasti palielina laiku, kas nepieciešams visu balsu saskaitīšanai, šādas balsis ir jānodod vienādi.
-D.Balsošanas viltošanas potenciāls ir ievērojami lielāks ar iepriekš izdrukātām uzlīmēm.",d,d,true
-"Lai veicinātu uzņemšanu koledžā, valsts nodrošina nodokļu atbrīvojumu 200 ASV dolāru apmērā par valsts nodokļiem tiem, kas ir pilna laika studenti štata koledžās. Studentēm, kuras apmeklē pusslodzi, joprojām ir atļauts atbrīvojums no nodokļiem 100 ASV dolāru apmērā, savukārt studentiem vīriešiem, kuri apmeklē pusslodzi, vairs nav atļauts atbrīvojums no nodokļiem. Kurš no šiem visprecīzāk apkopo pareizo konstitucionālo tiesību normu attiecībā uz valsts nodokļa atbrīvojumu studentiem, kuri mācās pusslodzi?
-A.Atbrīvojums no nodokļa tiktu atzīts par spēkā neesošu kā pienācīga procesa atteikums.
-B.Atbrīvojums no nodokļa tiktu atzīts par spēkā neesošu, jo ar to tiktu pārkāpta vienlīdzīgas aizsardzības klauzula.
-C.Nodokļu pasākums tiktu saglabāts kā tāds, kas ietilpst materiālā pienācīgā procesa jomā.
-D.Nodokļa pasākums tiktu saglabāts kā pašvaldības kompetencē nevienlīdzīgi aplikt ar nodokļiem dažādas personu kategorijas.",b,b,true
-"Pirms priekšlikums par divu pilsētu apvienošanu tika nodots balsošanai, valsts ģenerālprokurors sniedza konsultatīvu atzinumu, norādot, ka pasākums, viņasprāt, nepārkāpj nevienu likumu vai konstitūcijas noteikumu. Pēc tam priekšlikums tika nodots balsošanai, un vēlētāji abās pilsētās to pārliecinoši pieņēma. Pēc vēlēšanām, bet pirms apvienošanās bija oficiāli notikusi, divi nodokļu maksātāji no vienas no pilsētām ierosināja prasību pievienoties apvienošanai, uzbrūkot priekšlikuma konstitucionalitātei. Prāva nonāca štata augstākajā tiesā un tika atzīta par konstitucionālu gan saskaņā ar štata, gan federālajiem likumiem. Tagad prasītāji iesniedz priekšlikumu, lai panāktu, ka šo lietu izskata ASV Augstākā tiesa. Tiesa var:
-A.neizskatīt lietu, jo tā tika izlemta neatkarīgas valsts dēļ.
-B.neizskatīt lietu, bet var likt to paturēt apcietinājumā federālajai apgabaltiesai.
-C.uzklausiet attiecīgos federālos jautājumus, bet atsakieties lemt par valsts jautājumu.
-D.paļauties uz valsts ģenerālprokurora sniegto konsultatīvo atzinumu un neizskatīt lietu pēc būtības.",a,c,false
-"Šai jurisdikcijai ir spēkā šāds krimināllikums:""Persona nav atbildīga par noziedzīgu rīcību, ja šādas rīcības laikā garīgas slimības vai defekta dēļ tai nav pietiekamu spēju novērtēt savas rīcības nelikumību vai pakļaut savu rīcību likuma prasībām. "" Kādu pēcpusdienu apsūdzētais auklēja savu piecus gadus veco brāļadēlu. Kad viņi spēlēja ārā, apsūdzētais pārmeta bumbu pāri brāļadēla galvai, un tā ripoja uz ielas. Instinktīvi brāļadēls skrēja pēc bumbas, bet triecās pāri notekcaurulei un nokrita uz ielas. Kad viņš paklupa, brāļadēls smagi sastiepa potīti un nevarēja piecelties. Mirkli vēlāk liels atkritumu vedējs atdūrās un uzskrēja virsū brāļadēlam, nogalinot viņu. Lai gan apsūdzētais redzēja sava brāļadēla ciešanas, viņš necentās viņu glābt. Pēc tam apsūdzētais tika apsūdzēts par netīšu slepkavību. Tiesas sēdē apsūdzētais liecināja, ka viņš bija tik satriekts, kad ieraudzīja savu brāļadēlu krītam netālu no atkritumu kravas automašīnas, ka viņš sastinga un nespēja pārvietoties, kamēr nebija par vēlu. Pēc apsūdzētā liecības liecinieks-eksperts aizstāvībai liecināja, ka tāda veida reakcija, kādu aprakstījis apsūdzētais, nav nekas neparasts, ja notiek patiesi šokējošs notikums. Ja zvērinātie tic atbildētāja un viņa eksperta liecībai, atbildētāja labākā aizstāvība ir kura no šīm?
-A.Apsūdzētais cieta no īslaicīga ārprāta.
-B.Apsūdzētajam trūka nozieguma izdarīšanai nepieciešamā psihiskā stāvokļa.
-C.Atbildētājas bezdarbība nebija brīvprātīga.
-D.Apsūdzētā kriminālatbildība tika aizstāta ar kravas automašīnas vadītāja kriminālatbildību.",c,c,true
-"Rančo šobrīd ir zemes gabala, kas apzīmēts kā ""A."", īpašnieks Tas ir augstākais no diviem kaimiņu īpašumiem kalnā. Lauksaimnieks ir zemes gabala ""B"" īpašnieks, kas atrodas zemāk par ""A"" kalna nogāzē. 2000. gadā sēta, kurai piederēja abi zemes gabali, uzbūvēja privātu meliorācijas sistēmu. Šī sistēma sastāvēja no pazemes cauruļvada, kas stiepās pāri abiem zemes gabaliem. Notekūdeņi no zemes gabala ""A"" caur sistēmu nokļuva sadzīves kanalizācijā, kas atradās kalna apakšā. 2005. gadā lopkopis lauksaimniekam pārdeva zemes gabalu ""B"". Aktā zemniekam nebija pieminēta sētas meliorācijas sistēma. Katrā no zemes gabaliem atrodas lielas rančo stila mājas, kuras aizņem attiecīgie īpašnieki. Pēdējā laikā notekūdeņu novadīšana ir sākusi izdalīt nepatīkamu smaku pāri zemes gabalam ""B."" Tā rezultātā lauksaimnieks iesūdzēja rančo tiesā, lūdzot par bojājumiem, ko radījusi drenāžas sistēma. Spriedumam jābūt par
-A.sēta, jo aktā zemniekam nebija nekādu vienošanos, kas ierobežotu lopkopja zemes izmantošanu.
-B.sēta, jo zemnieka īstais rīcības iemesls būtu traucēklis, nevis pārkāpums.
-C.lauksaimnieks, jo meliorācijas sistēma bija prasītāja zaudējumu cēlonis saskaņā ar likumu.
-D.lauksaimnieks, jo lopkopim nebija tiesību uzlabot savu zemi tādā veidā, kas nodarīja kaitējumu citam.",b,d,false
+D.Valstīs ar visaugstāko lūzumu līmeni liecina, ka piena patēriņš ir labvēlīgs skeletam.",A,"Pareizā atbilde ir B - Pubertātes laikā lielāks piena patēriņš, šķiet, ir saistīts ar lielāku kaulu minerālu blīvumu turpmākajā dzīvē.
+
+Paskaidrojums:
+A - Dažos pētījumos ir ziņots par pretējo - lielāks piena patēriņš ir saistīts ar lielāku lūzumu sastopamību un augstāku mirstību. Tātad šis apgalvojums nav pareizs.
+
+C - Nav pierādījumu, ka lielāks piena patēriņš pastāvīgi būtu saistīts ar zemāku lūzumu līmeni. Pētījumu rezultāti ir pretrunīgi.
+
+D - Valstīs ar visaugstāko lūzumu līmeni nav pārliecinošu pierādījumu, ka piena patēriņš būtu labvēlīgs skeletam. Tieši otrādi, dažos pētījumos novērota saistība ar lielāku lūzumu risku.
+
+Tikai B apgalvojums ir patiess - vairākos pētījumos konstatēts, ka lielāks piena patēriņš pubertātes laikā var veicināt lielāku kaulu minerālu blīvumu vēlākā dzīves posmā. Tas liecina par piena labvēlīgo ietekmi uz skeleta veselību, ja to lieto augšanas periodā.",
+"Augu pielāgojumi, lai samazinātu ūdens zudumus vidē ar augstu temperatūru, ietver to, kurš no šiem?
+A.Daudzi stomata
+B.Plānas kutikulas
+C.Muguriņas, nevis lapas
+D.Liela virsmas un tilpuma attiecība",C,"Pareizā atbilde ir C - muguriņas, nevis lapas.
+
+Augiem, kas aug vidē ar augstu temperatūru un ierobežotu ūdens pieejamību, ir dažādas adaptācijas, lai samazinātu ūdens zudumus. Viena no šīm adaptācijām ir muguriņu veidošana lapu vietā.
+
+Paskaidrojums:
+- Muguriņas ir mazākas un biezākas nekā lapas, tādējādi samazinot virsmas laukumu, no kura ūdens var iztvaikot.
+- Muguriņām bieži ir bieza kutikula (aizsargslānis), kas palīdz samazināt ūdens iztvaikošanu.
+- Muguriņas parasti satur mazāk stomu (atveres augu lapās, caur kurām notiek gāzu apmaiņa), tādējādi samazinot ūdens zudumus caur transpirāciju.
+
+Pārējās atbildes nav pareizas:
+- A. Daudzi stomata palielinātu ūdens zudumus, jo caur tiem notiek transpirācija.
+- B. Plānas kutikulas ļautu ūdenim vieglāk iztvaikot caur lapas virsmu.
+- D. Liela virsmas un tilpuma attiecība palielinātu virsmas laukumu, no kura ūdens var iztvaikot, tādējādi palielinot ūdens zudumus.",
 "Mājokļu korporācijai piederēja zemes gabals. Dzīvokļu sabiedrība sagatavoja attīstības plānu, lai sadalītu zemi 100 daļās un izveidotu dzīvojamo kopienu. Ar Derību deklarāciju tika izveidota māju īpašnieku asociācija - administratīva vienība, kas pārvaldītu un īstenotu noteikumus un ierobežojumus, kas minēti starp derībām. Viens no ierobežojumiem, kas noteikts Derību deklarācijā, skan šādi: ""Nevienā īpašuma daļā nekad netiks uzcelta, atļauta vai uzturēta neviena būve, kas paredzēta vai izmantota kā salons vai vieta iesala, vīna vai stipro alkoholisko dzērienu pārdošanai vai ražošanai. "" Derību deklarācija tika pienācīgi pierakstīta un tika iekļauta skolotāja pieņemtajā aktā, kad viņš iegādājās 62. daļu izstrādē. Skolotājs nekavējoties ierakstīja savu rīcību. Skolotājs savu māju iznomāja bibliotekāram uz vienu gadu. Noma ietvēra tādus pašus ierobežojumus kā Derību deklarācijā un skolotāja aktā. Bibliotekāre nekavējoties sāka pārdot dzērienus telpās iknedēļas ""pēc stundām"" ballīšu laikā. Māju īpašnieku biedrība iesūdz bibliotekāru prasībā par zaudējumu atlīdzību. Kurš no šiem ir labākais arguments bibliotekāram?
 A.Noteikums Spensera lietā liedz bibliotekāram būt atbildīgam.
 B.Bibliotekārei nav noslēgts līgums ar māju īpašnieku biedrību.
 C.Bibliotekārs nav muižā ar skolotāju.
-D.Citas partijas, kas atrodas tiešā tuvumā, tiek izmantotas komerciāliem mērķiem.",b,b,true
+D.Citas partijas, kas atrodas tiešā tuvumā, tiek izmantotas komerciāliem mērķiem.",B,"B. Bibliotekārei nav noslēgts līgums ar māju īpašnieku biedrību.
+
+Šis ir labākais arguments bibliotekāram, jo:
+
+1. Bibliotekārei ir nomas līgums ar skolotāju, nevis ar māju īpašnieku biedrību. Līdz ar to bibliotekārei nav tiešu līgumsaistību pret biedrību.
+
+2. Lai gan nomas līgums ietver tādus pašus ierobežojumus kā Derību deklarācijā, bibliotekāre nav tieši parakstījusi šo deklarāciju. 
+
+3. Māju īpašnieku biedrībai būtu jāvēršas pret skolotāju kā īpašnieku par ierobežojumu neievērošanu, nevis tieši pret bibliotekāri kā īrnieku.
+
+4. Pārējie argumenti nav tik spēcīgi - Spensera lietas noteikums (A) var nebūt piemērojams šajā situācijā, bibliotekārs var būt netieši saistīts ar skolotāju caur nomas līgumu (C), un citu pušu darbības (D) neietekmē bibliotekāra atbildību.
+
+Tātad bibliotekāra labākā aizstāvība būtu norādīt, ka viņam nav tiešu līgumsaistību ar māju īpašnieku biedrību.",
+" Pēc Nusbauma domām, attieksme pret kādu kā objektu ir
+A.pietiekams seksuālai objektivizācijai.
+B.nepieciešams seksuālai objektivizācijai.
+C.nav nepieciešams seksuālai objektivizācijai.
+D.viss iepriekš minētais.",C,"Pēc Nusbauma domām, attieksme pret kādu kā objektu ir nepieciešams, bet nav pietiekams nosacījums seksuālai objektivizācijai. 
+
+Nusbaums uzskata, ka seksuālā objektivizācija ietver vairāk nekā tikai attieksmi pret kādu kā objektu. Viņš min septiņus faktorus, kas raksturo seksuālo objektivizāciju:
+
+1. Instrumentalitāte - personas izmantošana kā līdzeklis citu mērķu sasniegšanai.
+2. Noliegšana - personas jūtu un pieredzes neatzīšana.
+3. Inertums - personas rīcībspējas neatzīšana.
+4. Aizstājamība - personas uzskatīšana par aizstājamu ar citiem līdzīgiem ""objektiem"".
+5. Ievainojamība - nevērība pret personas integritāti.
+6. Īpašumtiesības - uzskats, ka personu var nopirkt vai pārdot.
+7. Subjektivitātes noliegšana - personas pieredzes un jūtu neatzīšana.
+
+Tātad, lai gan attieksme pret kādu kā objektu ir nepieciešama seksuālai objektivizācijai (B), tā nav pietiekama (A). Nepieciešami arī citi faktori. Līdz ar to pareizā atbilde ir C - attieksme pret kādu kā objektu nav pietiekama seksuālai objektivizācijai pēc Nusbauma domām.",
+"Pēc Singera domām, viņa principa ievērošanai ir nepieciešams:
+A.pieticīgas izmaiņas mūsu personīgajos paradumos, bet ne mūsu sabiedrībā kopumā.
+B.pieticīgas izmaiņas mūsu personīgajos paradumos, kā arī sabiedrībā.
+C.krasas izmaiņas mūsu personīgajos paradumos, bet ne mūsu sabiedrībā.
+D.krasas izmaiņas gan mūsu personīgajos paradumos, gan sabiedrībā.",D,"Pēc Singera domām, viņa principa ievērošanai ir nepieciešamas krasas izmaiņas gan mūsu personīgajos paradumos, gan sabiedrībā kopumā (atbilde D).
+
+Singers uzskata, ka mums ir morāls pienākums palīdzēt citiem, ja varam to darīt bez būtiskiem upuriem no savas puses. Tas nozīmē, ka mums būtu jāziedo ievērojama daļa savu ienākumu nabadzīgajiem un jāmaina savi patēriņa paradumi.
+
+Tāpat Singers aicina uz plašākām pārmaiņām sabiedrībā - valdībām vairāk jāpalīdz trūcīgajām valstīm, jāmaina globālā ekonomiskā sistēma. Viņaprāt, pašreizējā pasaules kārtība ir netaisnīga pret nabadzīgajiem.
+
+Tātad runa ir ne tikai par personīgiem upuriem un izvēlēm, bet fundamentālām izmaiņām gan indivīdu, gan sabiedrības līmenī. Singers uzskata, ka tikai tā var īstenot viņa ētisko principu un novērst galēju nabadzību pasaulē.",
+"Pieteiktais kandidāts ir meksikānis-amerikānis un uzskata, ka viņam ir nepieciešama liela Meksikas vēlētāju aktivitāte, lai uzvarētu vēlēšanās. Tā rezultātā viņa kampaņas vadītājs nolemj katram reģistrētajam Meksikas vēlētājam nosūtīt noplēšamu uzlīmi, uz kuras ir kandidāta vārds un amats, uz kuru viņš kandidē. Tā kā daudzi meksikas vietējie iedzīvotāji neprot lasīt un rakstīt angļu valodā, kampaņas vadītājs uzskata, ka daudziem vēlētājiem būs grūtības uz vēlēšanu zīmes uzrakstīt kandidāta vārdu un amatu. Tā rezultātā kampaņas vadītājs ir izvērsis plašu plašsaziņas līdzekļu kampaņu, lai informētu vēlētājus par to, kā uzlīmes uzklāt uz vēlēšanu zīmes. Piecus mēnešus pirms vēlēšanām vēlēšanu amatpersona paziņo kandidāta kampaņas komitejai, ka noplēšamās uzlīmes neatbilst štata statūtiem. Savā vēstulē amatpersona skaidro, ka štata vēlēšanu amatpersonas uzskata, ka potenciālajiem vēlētājiem kandidāta vārds ir jāraksta ar tinti. Tāpēc viņa secina, ka uzlīmes neatbilst likumā noteiktajām prasībām. Trīs nedēļas vēlāk kandidāts iesniedza prasību federālajā apgabaltiesā pret štata vēlēšanu amatpersonām, apgalvojot, ka viņu štata statūtu interpretācija pārkāpj ASV konstitūciju. Kurš no šiem, ja tāds ir noteikts, ir spēcīgākais konstitucionālais arguments, kas pamato vēlēšanu amatpersonas interpretāciju par statūtiem?
+A.Vēlētāju aktivitāte reģistrēto Meksikas amerikāņu vēlētāju vidū, kuriem trūkst angļu valodas prasmju, pēdējās vēlēšanās ir bijusi mazāka par 1% no visa štata kopskaita.
+B.Štata nolikums nosaka, ka katrai balsošanas kabīnei jābūt aprīkotai ar tintes pildspalvu, lai atvieglotu balsu rakstīšanu.
+C.Tā kā liels ierakstīto balsu skaits parasti palielina laiku, kas nepieciešams visu balsu saskaitīšanai, šādas balsis ir jānodod vienādi.
+D.Balsošanas viltošanas potenciāls ir ievērojami lielāks ar iepriekš izdrukātām uzlīmēm.",D,"D ir spēcīgākais konstitucionālais arguments, kas pamato vēlēšanu amatpersonas interpretāciju par statūtiem.
+
+Argumenti:
+A - Meksikas amerikāņu vēlētāju aktivitāte nav būtiska, vērtējot statūtu interpretācijas konstitucionalitāti.
+B - Prasība pēc tintes pildspalvas nenozīmē, ka uzlīmes nevar tikt izmantotas.
+C - Balsu saskaitīšanas laiks nav konstitucionāls jautājums.
+
+D ir vienīgais arguments, kas skar leģitīmu valsts interesi - vēlēšanu godīguma un integritātes nodrošināšanu. Iepriekš izdrukātas uzlīmes var atvieglot vēlēšanu rezultātu viltošanu. Tādēļ štata amatpersonām ir tiesības interpretēt statūtus tā, lai samazinātu krāpšanās iespējas, pat ja tas var apgrūtināt balsošanu daļai vēlētāju. Kamēr interpretācija ir pamatota un balstīta leģitīmās bažās, nevis diskriminējošos nolūkos, tā atbilst konstitūcijai.
+
+Tātad D arguments vislabāk pamato vēlēšanu amatpersonas rīcību no konstitucionālā viedokļa.",
 "Autobraucēja neuzmanīga braukšana nopietni ievainoja citu autovadītāju. Autovadītājs tika minēts par braukšanu pa nepareizo joslu un samaksāja naudas sodu. Autobraucējam bija polises limits tikai 15,000 15,000 USD apmērā par trešās personas atbildību par viņa apdrošināšanas polisi. Pēc tam, kad autobraucēja apdrošinātājam tika iesniegts pilns medicīniskais ziņojums, visi medicīniskie rēķini, medicīniskā dokumentācija un citi nepieciešamie pierādījumi par zaudējumiem, cietušais prasītājs pieprasīja polises ierobežojumus. Prasītājs paziņoja, ka negodprātīga prasība tiks iesniegta, ja polises limiti netiks samaksāti nekavējoties. Apdrošināšanas sabiedrība atteica maksājumu bez paskaidrojumiem. Žūrija cietušajam prasītājam piešķīra 200 000 ASV dolāru. Cietušais prasītājs saņēma parakstītu uzdevumu no nolaidīgā autobraucēja, piešķirot prasītājam visas tiesības, kas autovadītājam varētu būt bijušas pret viņa apdrošinātāju. Vai tiesa, visticamāk, piespiedīs apdrošināšanas sabiedrību samaksāt pilnu zvērināto sprieduma summu cietušajai personai saskaņā ar šiem faktiem?
 A.Polises limits ir 15 000 ASV dolāru, un tas ir viss, ko cietusī persona var iekasēt, apdrošināšanas līgumā nav darbības par negodprātīgu rīcību.
 B.Apdrošināšanas sabiedrība ir pārkāpusi netiešo vienošanos par godprātību un godprātību darījumos, kas ir ietverta katrā apdrošināšanas līgumā, un tai ir jāmaksā pilna sprieduma summa.
 C.Ļaunticība ir personīga apdrošinātajai pusei un tās apdrošinātājam, cesija bija spēkā neesoša, un cietušajai personai nav pretenziju piespiest apdrošinātāju veikt maksājumu.
-D.Cietušajai pusei ir jāizpilda viss spriedums pret autovadītāju, un tā nekad nedrīkst vērsties pie apdrošinātāja par šo summu.",c,b,false
-"Lielveikals tikko bija atkal atvērts pēc divu nedēļu slēgšanas renovācijai. Atkalatvēršanas rītā sieviete iepirkās, kad pēkšņi nokrita un cieta lauztu kāju. Pēc tam sieviete iesūdzēja lielveikalu par miesas bojājumiem. Savā uzvalkā sieviete apgalvoja, ka viņa triecās virs krāsas spaiņa, kas bija gulējis vienā no ejām. Tiesas sēdē sieviete piezvanīja citam klientam, lai liecinātu, ka, kamēr viņš iepērkas, viņš dzirdēja tūsku, pagriezās un redzēja, kā sieviete nokrīt uz grīdas. Viņš arī liecināja, ka redzējis tukšu krāsas spaini, kas gulēja dažas pēdas no sievietes kājas. Veicot savstarpēju pārbaudi, klients nonāca argumentētā apmaiņā ar lielveikala advokātu. Jautāts par viņa viedokli par to, kas izraisīja sievietes kritienu, klients liecināja: ""Viņa nokrita, jo paklupa uz spaiņa. "" Tomēr, veicot ekspertīzi, viņš atzina, ka patiesībā nav redzējis sievieti braucam uz spaiņa. Pēc tam lielveikala advokāts uzdeva klientam šādu jautājumu:""Ja jūs neredzējāt sievieti braucam uz spaiņa, kā jūs zināt, ka viņa tā dēļ nokrita?"" Klients atbildēja: ""Tāpēc, ka mana draudzene, kas iepirkās kopā ar mani, man vēlāk teica, ka viņa redzēja sievieti braucam pāri spainim. "" Lielveikala advokāts cenšas panākt klienta pēdējo atbildi. Ja tiesas tiesnesis noraida atbildētāja priekšlikumu un ļauj klienta atbildei palikt spēkā, tas, visticamāk, būs tāpēc, ka
-A.Uz klienta atbildi aicināja lielveikala advokāta jautājums.
-B.Klienta atbilde balstījās uz pirmavota zināšanām.
-C.Klienta atbilde bija paziņojums par neseno uztveri.
-D.Klienta atbilde bija tagadnes sajūtu iespaids.",a,a,true
-"Vīrietis bija jaunuzceltās viesnīcas īpašnieks pilsētā. 15. martā vīrietis saņēma telefona zvanu no pārdevējas, kas bija viesnīcas aprīkojuma izplatītājs. Pārdevējs piedāvāja pārdot vīrietim 1,000 ugunsdzēšamos aparātus viņa viesnīcai. Pārdevējs vīrietim sacīja, ka ugunsdzēšamo aparātu izmaksas būs 35 000 ASV dolāru (jeb 35 ASV dolāri gabalā), kas jāmaksā 90 dienas pēc piegādes. Pārdevējs solīja, ka ugunsdzēšamie aparāti tiks uzstādīti ne vēlāk kā 15. aprīlī. 16. martā vīrietis piezvanīja pārdevējam un pieņēma piedāvājumu. Nākamajā dienā vīrietis pārdevējam nosūtīja šādu piezīmi:""Lūdzu, ņemiet vērā, ka septiņas dienas pēc uzstādīšanas es ņemšu 15 procentu atlaidi skaidras naudas maksājumam. "" Pārdevējs vīrieša saraksti saņēma 20. martā. 1. aprīlī pārdevējs vīrietim atsūtīja telegrammu, kurā bija teikts: ""Ir skaidrs, ka mums nav spēkā esoša izpildāma līguma. Ugunsdzēšamos aparātus nepiegādāšu ne 15. aprīlī, ne kādā citā laikā. ""Vīrietis ceļ prasību pret pārdevēju par līguma laušanu. Pārdevējs aizstāv krāpšanas likumu saskaņā ar UCC. Kurš no šiem ir visprecīzākais apgalvojums par pārdevēja aizstāvību?
-A.Pārdevēja aizstāvība ir spēkā, jo vīrieša piezīme nebija pietiekama, lai norādītu, ka ir izveidots līgums.
-B.Pārdevēja aizstāvība ir spēkā, jo vīrieša piezīme bija pretrunā ar pārdevēja mutiskā piedāvājuma noteikumiem.
-C.Pārdevēja aizstāvība nav spēkā, jo pārdevējs saprātīgā termiņā nav atbildējis uz vīrieša piezīmi.
-D.Pārdevēja aizstāvība nav spēkā, jo saskaņā ar UCC krāpšanas statūti nav piemērojami līgumos starp tirgotājiem.",a,c,false
-"Kura no šīm teorijām koncentrējas uz to, kā sabiedrībai izdodas veikt darbības, kas nepieciešamas kārtības un stabilitātes uzturēšanai?
-A.Funkcionālisms
-B.Interaktivisms
-C.Racionālās izvēles teorija
-D.Konfliktu teorija",a,a,true
-"Pētījumi par otrās valodas apguvi ir parādījuši, kurš no šiem par bērniem, kuri apgūst otro valodu
-A.Viņu kognitīvā attīstība aizkavējas
-B.Viņiem ir labāka artikulācija nekā bērniem, kuri nav bilingvāli
-C.Viņu dzimtās valodas prasme neietekmē otrās valodas apguves līmeni
-D.Viņiem ir lielāka kognitīvā elastība",d,d,true
-"Šizofrēnijas etioloģijas pētījumi norādīja uz ģenētisku noslieci uz stāvokli, bet ir iesaistīti citi faktori. Pēc jūsu zināšanām par šo tēmu nosakiet, kurš no šiem apgalvojumiem ir nepareizs.
-A.Pārmērīgs dopamīna daudzums vai jutība pret dopamīnu varētu būt veicinošs faktors.
-B.Baltie pacienti ir vairāk simptomātiski.
-C.Remisija no stāvokļa trešās pasaules valstīs ir 65%.
-D.Zemāks šizofrēnijas līmenis, kas diagnosticēts Āfrikas amerikāņu vidū.",d,b,false
-"Liela ražošanas uzņēmuma darbinieks uzskata, ka darbs ir blāvs, un turpina darbu tikai par naudu. Darbinieks darbojas minimāli un nav motivēts, tāpēc ražo visaugstāko kvantitāti vai labāku kvalitāti. Saskaņā ar F. Herzberga divu faktoru teoriju labākais veids, kā 10 palielināt šī darbinieka pašmotivāciju, būtu
-A.piedāvāt paaugstinājumu un stimulējošu atalgojumu par lielāku produktivitāti
-B.pārveidojiet darbu, lai sniegtu izaicinājumu un sasniegumu sajūtu
-C.palielināt uz informāciju balstītas sociālās mijiedarbības iespējas,
-D.nodrošināt darbiniekam darba plūdmaiņas ar lielāku prestižu",b,b,true
-"Kurā sabiedrisko attiecību jomā varētu būt saistīta ar lobēšanu?
-A.Korporatīvo
-B.Finansiālās attiecības
-C.Sabiedriskās lietas
-D.Bizness biznesam",c,c,true
+D.Cietušajai pusei ir jāizpilda viss spriedums pret autovadītāju, un tā nekad nedrīkst vērsties pie apdrošinātāja par šo summu.",C,"B. Apdrošināšanas sabiedrība ir pārkāpusi netiešo vienošanos par godprātību un godprātību darījumos, kas ir ietverta katrā apdrošināšanas līgumā, un tai ir jāmaksā pilna sprieduma summa.
+
+Pamatojums:
+Apdrošināšanas sabiedrībai ir pienākums rīkoties labticīgi un godprātīgi pret savu apdrošināto, izskatot un apmierinot prasības. Šajā gadījumā apdrošinātājs acīmredzami pārkāpa šo pienākumu, atsakoties maksāt polises limitu bez paskaidrojumiem, neskatoties uz to, ka tika iesniegti visi nepieciešamie pierādījumi.
+
+Tā kā apdrošinātājs pārkāpa savu pienākumu rīkoties labticīgi, tas var būt atbildīgs par visu sprieduma summu, pat ja tā pārsniedz polises limitu. Apdrošinātā cesija cietušajai personai nozīmē, ka cietušais tagad var īstenot visas apdrošinātā tiesības pret apdrošinātāju, ieskaitot tiesības piedzīt zaudējumus par ļaunticīgu rīcību.
+
+Tādējādi, ņemot vērā apdrošinātāja acīmredzamo ļaunticību, atsakoties apmierināt pamatoto prasību polises limita apmērā, tiesa, visticamāk, piespiedīs apdrošināšanas sabiedrību samaksāt cietušajai personai pilnu sprieduma summu.",
+"Nūbijas civilizācija:
+A.pirms un veicināja Ēģiptes kultūras uzplaukumu.
+B.bija Mezopotāmijas kolonizācijas rezultāts dienvidos.
+C.izstrādāts, reaģējot uz Ēģiptes kultūru, bet ne atdarinot to.
+D.nebija kontaktu ar kaimiņu kultūrām.",C,"C. Nūbijas civilizācija izstrādājās, reaģējot uz Ēģiptes kultūru, bet ne atdarinot to.
+
+Nūbijas civilizācija attīstījās mūsdienu Sudānas un Ēģiptes dienvidu teritorijā, dienvidos no senās Ēģiptes. Tā bija cieši saistīta un ietekmējās no Ēģiptes kultūras, taču attīstīja savu unikālo raksturu.
+
+Daži argumenti:
+- Nūbija nebija Ēģiptes kolonija, bet gan neatkarīga civilizācija ar pašai savu valdnieku dinastijām.
+- Nūbieši pārņēma dažas Ēģiptes kultūras iezīmes, piemēram, hieroglifu rakstu, taču izveidoja savu atšķirīgu valodu un rakstības sistēmu.
+- Nūbiešiem bija pašiem savi dievi un reliģiskie rituāli, kaut arī tie līdzinājās ēģiptiešu ticējumiem.
+- Nūbijas māksla un arhitektūra attīstīja savus unikālus stilus, kaut arī bija vērojama Ēģiptes ietekme.
+
+Tātad Nūbijas civilizācija noteikti attīstījās mijiedarbībā ar Ēģipti, taču saglabāja savu kultūras savdabību. Tā nebija vienkārši Ēģiptes atdarinājums vai pakļauta kolonija.",
+" Savā diskusijā par diskrimināciju karā Valls norāda, ka
+A.Nav atšķirības starp kaujiniekiem un nekombatantiem.
+B.atšķirība starp kaujiniekiem un nekombatantiem ir pakāpes jautājums.
+C.atšķirība starp kaujiniekiem un nekombatantiem ir kategoriska un skaidra.
+D.""terorisms"" būtu jādefinē kā neselektīva vardarbība.",B,"Šajā jautājumā ir runa par filozofa Maikla Valzera (Michael Walzer) viedokli par diskrimināciju karā, kas izklāstīts viņa grāmatā ""Taisnīgi un netaisnīgi kari"" (Just and Unjust Wars).
+
+Valzers uzskata, ka atšķirība starp kaujiniekiem un nekombatantiem ir kategoriska un skaidra (C variants). Viņš argumentē, ka kareivji ir leģitīmi militāri mērķi, jo viņi ir iesaistīti karadarbībā un apdraud citus. Savukārt civiliedzīvotāji jeb nekombatanti nav tieši iesaistīti cīņā, tāpēc viņi ir jāsargā no tīšas uzbrukšanas.
+
+Pārējie varianti neatbilst Valzera pozīcijai:
+A - Valzers tieši uzsver atšķirību starp abām grupām, nevis noliedz to.
+B - Viņš neskata to kā pakāpenisku, bet gan kategorisku dalījumu.
+D - Valzers tieši nerunā par terorismā definīciju šajā kontekstā.
+
+Tātad pareizā atbilde ir C - Valzers uzskata, ka atšķirība starp kaujiniekiem un nekombatantiem ir kategoriska un skaidra, kas ir svarīgs princips viņa taisnīga kara teorijā.",
+"Nagels apgalvo, ka morālās veiksmes problēma ir cieši saistīta ar problēmu:
+A.Dieva esamība.
+B.gribas brīvība.
+C.psiholoģiskais egoisms.
+D.universāli.",B,"B. gribas brīvība.
+
+Tomass Nāgels (Thomas Nagel) savā darbā ""Moral Luck"" (Morālā veiksme) apgalvo, ka morālās veiksmes problēma ir cieši saistīta ar gribas brīvības problēmu.
+
+Morālās veiksmes ideja ir tāda, ka cilvēka rīcības morālo vērtību var ietekmēt nejauši ārēji faktori, kas ir ārpus viņa kontroles. Piemēram, divi autovadītāji var būt vienādi neuzmanīgi, taču vienam ir ""veiksme"" izvairīties no negadījuma, bet otrs nejauši kādu notriec. Lai gan viņu rīcība un nodoms bija līdzīgi, sekas un līdz ar to arī morālais vērtējums atšķiras.
+
+Nāgels uzskata, ka morālās veiksmes problēma ir cieši saistīta ar jautājumu par gribas brīvību. Ja pieņemam, ka cilvēkiem ir brīva griba un viņi ir pilnībā atbildīgi par savām izvēlēm, tad šķiet netaisnīgi, ka nejauši ārēji faktori var ietekmēt viņu rīcības morālo vērtējumu. No otras puses, ja noliedzam gribas brīvību un uzskatām, ka viss ir iepriekš determinēts, tad jēdziens par morālo atbildību vispār kļūst problemātisks.
+
+Tādējādi Nāgels norāda uz dziļu konceptuālu saikni un spriedzi starp idejām par morālo veiksmi, gribas brīvību un morālo atbildību.",
+"Lai veicinātu uzņemšanu koledžā, valsts nodrošina nodokļu atbrīvojumu 200 ASV dolāru apmērā par valsts nodokļiem tiem, kas ir pilna laika studenti štata koledžās. Studentēm, kuras apmeklē pusslodzi, joprojām ir atļauts atbrīvojums no nodokļiem 100 ASV dolāru apmērā, savukārt studentiem vīriešiem, kuri apmeklē pusslodzi, vairs nav atļauts atbrīvojums no nodokļiem. Kurš no šiem visprecīzāk apkopo pareizo konstitucionālo tiesību normu attiecībā uz valsts nodokļa atbrīvojumu studentiem, kuri mācās pusslodzi?
+A.Atbrīvojums no nodokļa tiktu atzīts par spēkā neesošu kā pienācīga procesa atteikums.
+B.Atbrīvojums no nodokļa tiktu atzīts par spēkā neesošu, jo ar to tiktu pārkāpta vienlīdzīgas aizsardzības klauzula.
+C.Nodokļu pasākums tiktu saglabāts kā tāds, kas ietilpst materiālā pienācīgā procesa jomā.
+D.Nodokļa pasākums tiktu saglabāts kā pašvaldības kompetencē nevienlīdzīgi aplikt ar nodokļiem dažādas personu kategorijas.",B,"B. Atbrīvojums no nodokļa tiktu atzīts par spēkā neesošu, jo ar to tiktu pārkāpta vienlīdzīgas aizsardzības klauzula.
+
+Pamatojums:
+Aprakstītajā situācijā valsts nodokļu atbrīvojums studentiem, kas mācās pusslodzi, atšķiras atkarībā no dzimuma - sievietēm ir pieejams $100 atbrīvojums, bet vīriešiem nav pieejams nekāds atbrīvojums. Šāda atšķirīga attieksme, balstoties tikai uz dzimumu, visticamāk tiktu atzīta par Konstitūcijas vienlīdzīgas aizsardzības klauzulas pārkāpumu.
+
+Vienlīdzīgas aizsardzības klauzula (14. grozījums) nosaka, ka valsts nedrīkst liegt jebkurai personai vienlīdzīgu likumu aizsardzību. Tas nozīmē, ka valsts nevar pieņemt likumus vai politiku, kas nepamatoti diskriminē noteiktas grupas. Dzimums ir t.s. ""aizdomīgā klasifikācija"", kas nozīmē, ka jebkurai atšķirīgai attieksmei, balstoties uz dzimumu, jābūt ar svarīgu valsts interesi un šauri pielāgotai, lai sasniegtu šo interesi.
+
+Šajā gadījumā nav acīmredzama svarīga valsts interese, kāpēc sievietēm un vīriešiem, kas mācās pusslodzi, būtu jāpiemēro atšķirīgi nodokļu atbrīvojumi. Tāpēc šāds nodokļu pasākums visticamāk tiktu atzīts par spēkā neesošu, pamatojoties uz vienlīdzīgas aizsardzības pārkāpumu.",
+"Šai jurisdikcijai ir spēkā šāds krimināllikums:""Persona nav atbildīga par noziedzīgu rīcību, ja šādas rīcības laikā garīgas slimības vai defekta dēļ tai nav pietiekamu spēju novērtēt savas rīcības nelikumību vai pakļaut savu rīcību likuma prasībām. "" Kādu pēcpusdienu apsūdzētais auklēja savu piecus gadus veco brāļadēlu. Kad viņi spēlēja ārā, apsūdzētais pārmeta bumbu pāri brāļadēla galvai, un tā ripoja uz ielas. Instinktīvi brāļadēls skrēja pēc bumbas, bet triecās pāri notekcaurulei un nokrita uz ielas. Kad viņš paklupa, brāļadēls smagi sastiepa potīti un nevarēja piecelties. Mirkli vēlāk liels atkritumu vedējs atdūrās un uzskrēja virsū brāļadēlam, nogalinot viņu. Lai gan apsūdzētais redzēja sava brāļadēla ciešanas, viņš necentās viņu glābt. Pēc tam apsūdzētais tika apsūdzēts par netīšu slepkavību. Tiesas sēdē apsūdzētais liecināja, ka viņš bija tik satriekts, kad ieraudzīja savu brāļadēlu krītam netālu no atkritumu kravas automašīnas, ka viņš sastinga un nespēja pārvietoties, kamēr nebija par vēlu. Pēc apsūdzētā liecības liecinieks-eksperts aizstāvībai liecināja, ka tāda veida reakcija, kādu aprakstījis apsūdzētais, nav nekas neparasts, ja notiek patiesi šokējošs notikums. Ja zvērinātie tic atbildētāja un viņa eksperta liecībai, atbildētāja labākā aizstāvība ir kura no šīm?
+A.Apsūdzētais cieta no īslaicīga ārprāta.
+B.Apsūdzētajam trūka nozieguma izdarīšanai nepieciešamā psihiskā stāvokļa.
+C.Atbildētājas bezdarbība nebija brīvprātīga.
+D.Apsūdzētā kriminālatbildība tika aizstāta ar kravas automašīnas vadītāja kriminālatbildību.",C,"Ņemot vērā sniegto informāciju, labākā aizstāvība apsūdzētajam būtu C variants - apsūdzētā bezdarbība nebija brīvprātīga.
+
+Pamatojums:
+1. Apsūdzētais un viņa eksperts liecināja, ka apsūdzētais bija tik šokēts un satriekts, redzot brāļadēlu krītam, ka sastinga un nespēja pārvietoties. Tas norāda, ka viņa bezdarbība nebija apzināta izvēle, bet gan šoka izraisīta reakcija.
+
+2. Dotais krimināllikums attiecas uz garīgām slimībām vai defektiem, kas traucē novērtēt rīcības nelikumību vai pakļauties likumam. Šajā gadījumā apsūdzētā īslaicīgā nespēja reaģēt drīzāk bija saistīta ar psiholoģisku šoku, nevis garīgu slimību vai defektu.
+
+3. Lai gan apsūdzētajam iespējams trūka nepieciešamā psihiskā stāvokļa (B variants), tas vairāk attiektos uz nodomu, nevis nolaidību. Šajā lietā galvenais jautājums ir par to, vai bezdarbība bija brīvprātīga.
+
+4. D variants nav piemērots, jo kravas automašīnas vadītāja iespējamā atbildība neizslēdz apsūdzētā atbildību par pienākumu nepildīšanu.
+
+Tādējādi, pamatojoties uz apsūdzētā un eksperta liecībām, C variants vislabāk atbilst faktiem un sniedz apsūdzētajam vispamatotāko aizstāvību saskaņā ar doto krimināllikumu.",
 "Kurš no šiem ir personiskais dokuments ar slēgtu piekļuvi?
 A.Valdības ""Baltā grāmata""
 B.konfidenciāla medicīniskā dokumentācija
 C.mājsaimniecības kontu grāmata
-D.uzņēmuma akciju reģistrs",c,b,false
-"54 gadus veca sieviete ierodas birojā, jo pēdējo 3 nedēļu laikā viņai ir bijušas periodiskas šaušanas sāpes pār labo vaigu un žokli. Katra sāpju epizode ilgst 1 sekundi vai mazāk. Sāpes bieži izraisa auksts gaiss, košļāšana, taustes stimulācija un zobu tīrīšana. Viņai nav bijusi ne sejas, ne galvas trauma. Medicīniskā vēsture ir ievērojama ar spriedzes galvassāpēm, aptaukošanos un kuņģa apvedceļa operāciju. Viņa ir 165 cm (5 pēdas 5 collas) gara un sver 62 kg (137 mārciņas); ĶMI ir 23 kg/m2 . Dzīvības pazīmes ir normālas. Pacients nevar paciest pieskārienu sejas labajai pusei. Nav sejas vājuma vai sajūtas zuduma. Atlikusī fiziskās pārbaudes daļa neuzrāda nekādas novirzes. Galvas CT skenēšana ar kontrastu un bez tā neuzrāda novirzes. Kura no šīm ir piemērotākā farmakoterapija šajā laikā?
-A.Karbamazepīns
-B.Lamotrigīns
-C.Levetiracetāms
-D.Topiramāts",a,a,true
-"Kurš no šiem vislabāk raksturo ētikas vadlīnijas attiecībā uz seksuālo intimitāti ar bijušajiem terapijas klientiem?
-A.Psihologiem ir aizliegts jebkādos apstākļos būt seksuālām intimitātēm ar bijušajiem terapijas klientiem.
-B.Psihologiem ir aizliegts veikt seksuālas attiecības ar bijušajiem terapijas klientiem vismaz vienu gadu pēc terapijas pārtraukšanas.
-C.Psihologiem ir aizliegts veikt seksuālas attiecības ar bijušajiem terapijas klientiem noteiktos apstākļos (piemēram, ja pastāv ekspluatācijas risks).
-D.Psihologiem nav aizliegts veikt seksuālas intimitātes ar bijušajiem terapijas klientiem.",c,a.,false
-"Kurš no šiem vislabāk raksturo eirocentrismu?
-A.Eirocentrisms ir analīzes stils, kurā Eiropas sabiedrības tiek salīdzinātas ar sabiedrībām ārpus Eiropas, lai iegūtu objektīvu salīdzinājumu par katras sabiedrības relatīvajiem nopelniem.
-B.Eirocentrisms ir domāšanas stils, kurā ārpus Eiropas esošu sabiedrību novērtējums un novērtējums tiek veidots, ņemot vērā eiropiešu kultūras pieņēmumus un aizspriedumus.
-C.Eirocentrisms apraksta pētījumus vai zinātnisku darbu, kurā tiek aplūkotas tikai Eiropas politiskās vai ekonomiskās sistēmas.
-D.Visas šīs iespējas.",b,b,true
-"Kā globalizācijas kontekstā mēs varam vislabāk definēt terminu ""attīstība""?
-A.Termins attīstība attiecas uz cilvēka stāvokli, kurā ir brīvība no bailēm un vēlmēm; ir pietiekami daudz resursu, lai uzturētu dzīvību, un šī dzīvība var pastāvēt valstī, kas ir brīva no pēkšņa pārtraukuma draudiem vai šķietamiem draudiem.
-B.Lai nācija tiktu uzskatīta par attīstītu, tai ir jābūt sasniegušai noteiktu ekonomisko un politisko statusu globālajā valsts sistēmā; Kritēriju tam, kas ir ""attīstīts"" stāvoklis, tādējādi nosaka šīs mijiedarbības prasības šajā sistēmā.
-C.Attīstība ir līdzeklis, lai novērstu nevienlīdzību, kas pavada neoliberālo globalizāciju. Šajā kontekstā attīstība attiecas uz iedzīvotāju vai kopienas spēju efektīvi izmantot resursus un palielināt ražošanas un izplatīšanas efektivitāti, veicinot taisnīgāku ienākumu sadali sabiedrībā.
-D.Kopienas attīstība attiecas uz ideoloģiskām un ētiskām vērtību sistēmām, kurām tās iedzīvotāji piekrīt. Globalizētajā starptautiskajā sistēmā tas attiecas uz Rietumu liberālās demokrātiskās ideoloģijas un brīvā tirgus ekonomikas pieņemšanu.",c,b,false
-"Kādu slimību herpes vīrusi neizraisa?
-A.Zīdaiņu paralīze
-B.Encefalīta
-C.Seksuāli transmisīvās slimības
-D.Vēzis",a,a,true
-"Kurš no šiem vislabāk raksturo situāciju pēc tam, kad cena tiek paaugstināta produktam, kuram ir neelastīgs pieprasījums?
-A.Pieprasītais daudzums nemainīsies.
-B.Pieprasītais daudzums palielināsies.
-C.Kopējie ieņēmumi samazināsies.
-D.Kopējie ieņēmumi nemainīsies.",a,a,true
+D.uzņēmuma akciju reģistrs",C,"B. Konfidenciāla medicīniskā dokumentācija ir personiskais dokuments ar slēgtu piekļuvi.
+
+Paskaidrojums:
+A. Valdības ""Baltā grāmata"" parasti ir publiski pieejams politikas dokuments.
+C. Mājsaimniecības kontu grāmata ir privāts dokuments, bet ne ar ierobežotu piekļuvi.
+D. Uzņēmuma akciju reģistrs parasti ir pieejams akcionāriem un citām pilnvarotām personām.
+
+Tikai medicīniskā dokumentācija satur sensitīvu personisku informāciju un ir aizsargāta ar konfidencialitātes noteikumiem, ierobežojot piekļuvi tikai pilnvarotām personām, piemēram, ārstiem un pašam pacientam.",
 " Klasiskais teksts Daodejing ir pazīstams ar kādu nosaukumu angļu valodā?
 A.Izmaiņu klasika
 B.Ceļa un spēka klasika
 C.Sieviešu klasika
-D.Filozofijas klasika",b,b,true
+D.Filozofijas klasika",B,"B. Ceļa un spēka klasika (The Classic of the Way and Virtue)
+
+Daodejing (道德經) ir sens ķīniešu filozofisks un reliģisks teksts, kas ir viens no daoismam svarīgākajiem darbiem. Angļu valodā to parasti tulko kā ""The Tao Te Ching"", ""Tao"" nozīmē ""Ceļš"" un ""Te"" nozīmē ""Spēks"" vai ""Tikums"". Tādējādi visatbilstošākais tulkojums angļu valodā būtu ""The Classic of the Way and Virtue"" jeb ""Ceļa un spēka klasika"".
+
+Pārējie varianti nav precīzi:
+- ""Izmaiņu klasika"" attiecas uz citu senu ķīniešu tekstu ""I Ching"" (易經). 
+- ""Sieviešu klasika"" nav saistīta ar Daodejing.
+- ""Filozofijas klasika"" ir pārāk vispārīgs apzīmējums, kas neatspoguļo Daodejing būtību.",
+"Kurš no šiem vislabāk raksturo eirocentrismu?
+A.Eirocentrisms ir analīzes stils, kurā Eiropas sabiedrības tiek salīdzinātas ar sabiedrībām ārpus Eiropas, lai iegūtu objektīvu salīdzinājumu par katras sabiedrības relatīvajiem nopelniem.
+B.Eirocentrisms ir domāšanas stils, kurā ārpus Eiropas esošu sabiedrību novērtējums un novērtējums tiek veidots, ņemot vērā eiropiešu kultūras pieņēmumus un aizspriedumus.
+C.Eirocentrisms apraksta pētījumus vai zinātnisku darbu, kurā tiek aplūkotas tikai Eiropas politiskās vai ekonomiskās sistēmas.
+D.Visas šīs iespējas.",B,"B. Eirocentrisms ir domāšanas stils, kurā ārpus Eiropas esošu sabiedrību novērtējums un novērtējums tiek veidots, ņemot vērā eiropiešu kultūras pieņēmumus un aizspriedumus.
+
+Eirocentrisms nozīmē skatīties uz pasauli caur Eiropas kultūras prizmu, pieņemot, ka Eiropas vērtības, normas un uzskati ir pārāki vai ""pareizāki"" par citu kultūru uzskatiem. Tas var novest pie citu kultūru nepilnīga vai aizspriedumaina novērtējuma, jo tās tiek salīdzinātas ar eiropiešu standartiem, nevis vērtētas pašas par sevi. Tātad B atbilde visprecīzāk raksturo eirocentrisma būtību.",
+"Kurš no šiem vislabāk raksturo situāciju pēc tam, kad cena tiek paaugstināta produktam, kuram ir neelastīgs pieprasījums?
+A.Pieprasītais daudzums nemainīsies.
+B.Pieprasītais daudzums palielināsies.
+C.Kopējie ieņēmumi samazināsies.
+D.Kopējie ieņēmumi nemainīsies.",A,"Pareizā atbilde ir A - pieprasītais daudzums nemainīsies.
+
+Produktam ar neelastīgu pieprasījumu pieprasītais daudzums ir relatīvi nejūtīgs pret cenas izmaiņām. Tas nozīmē, ka, palielinot cenu, pieprasītais daudzums samazināsies minimāli vai nemaz.
+
+Pārējie varianti nav pareizi:
+
+B. Pieprasītais daudzums nepalielināsies, jo augstāka cena parasti noved pie zemāka pieprasījuma.
+
+C un D. Tā kā pieprasītais daudzums būtiski nemainās, bet cena pieaug, kopējie ieņēmumi (cena x daudzums) palielināsies, nevis samazināsies vai paliks nemainīgi.
+
+Tātad, ja produktam ir neelastīgs pieprasījums un tā cena tiek paaugstināta, visticamāk pieprasītais daudzums būtiski nemainīsies (A variants).",
 "Magnētiskā lauka līnijas ap strāvu nesošu vadu formu
 A.Apļi
 B.radiālās līnijas
 C.virpuļstrāvas
-D.enerģijas cilpas",a,a.,true
-"Kurš no šiem punktiem atbalsta argumentu par labu Amerikas vienpusējībai?
-A.Labvēlīga hegemonija
-B.Multilaterālisma neefektivitāte
-C.Amerikāņu vara
-D.Viss iepriekš minētais",d,d,true
-"Mūsdienu datoru mikroshēmas galvenokārt sastāv no kāda elementa?
-A.Nātrijs
-B.Silīcijs
-C.Alumīnija
-D.Sudrabs",b,b,true
-" Communidades de Base ir saistīts ar kuru no šiem?
-A.Bīskaps Oskars Romero
-B.Pretestība un atjaunošana
-C.Visu cilvēku cieņa
-D.Viss iepriekš minētais",d,d,true
-"Dubultaklā vai dubultmaskētā pētījuma mērķis ir:
-A.Apstrādāto un neārstēto pētāmo personu salīdzināmības panākšana
-B.Paraugu ņemšanas variāciju ietekmes samazināšana
-C.Izvairieties no novērotāja un subjekta neobjektivitātes
-D.Izvairieties no novērotāju neobjektivitātes un paraugu ņemšanas variācijām",b,c,false
-"Termins ""chili con carne"" attiecas uz čili ar ko?
-A.Pupiņas
-B.gaļa
-C.siers
-D.čili pipari",b,b,true
+D.enerģijas cilpas",A,"Pareizā atbilde ir A - magnētiskā lauka līnijas ap strāvu nesošu vadu veido apļus.
+
+Magnētiskā lauka līnijas ap taisnu, strāvu nesošu vadu veido koncentriskus apļus ap vadu. Šo efektu sauc par Ampēra likumu. Magnētiskā lauka virziens ir atkarīgs no strāvas virziena vadā, ko nosaka labās rokas likums.
+
+Pārējie atbilžu varianti nav pareizi:
+B. Radiālās līnijas - magnētiskā lauka līnijas neizplatās radiāli no vada.
+C. Virpuļstrāvas - tās ir elektriskās strāvas, kas cirkulē materiālā, nevis magnētiskā lauka līnijas.
+D. Enerģijas cilpas - šis jēdziens nav saistīts ar magnētiskā lauka līniju formu ap strāvu vadošu vadu.
+
+Tātad, magnētiskā lauka līnijas ap strāvu nesošu taisnu vadu veido apļveida formu, kas ir perpendikulāra strāvas virzienam.",
+"Šizofrēnijas etioloģijas pētījumi norādīja uz ģenētisku noslieci uz stāvokli, bet ir iesaistīti citi faktori. Pēc jūsu zināšanām par šo tēmu nosakiet, kurš no šiem apgalvojumiem ir nepareizs.
+A.Pārmērīgs dopamīna daudzums vai jutība pret dopamīnu varētu būt veicinošs faktors.
+B.Baltie pacienti ir vairāk simptomātiski.
+C.Remisija no stāvokļa trešās pasaules valstīs ir 65%.
+D.Zemāks šizofrēnijas līmenis, kas diagnosticēts Āfrikas amerikāņu vidū.",D,"Pēc manām zināšanām par šo tēmu, apgalvojums D ir nepareizs.
+
+Šizofrēnijas izplatība dažādās etniskajās grupās ir šāda:
+
+- Āfrikas amerikāņiem ir augstāks šizofrēnijas līmenis, salīdzinot ar baltajiem amerikāņiem. Pētījumi liecina, ka Āfrikas amerikāņiem ir aptuveni 3 reizes lielāka iespēja saslimt ar šizofrēniju nekā baltajiem.
+
+- Apgalvojumi A, B un C ir pareizi:
+A. Dopamīna hipotēze ir viena no vadošajām teorijām par šizofrēnijas cēloņiem.
+B. Baltie pacienti bieži uzrāda vairāk pozitīvu simptomu (murgi, halucinācijas) salīdzinājumā ar citām etniskajām grupām.
+C. Pētījumi rāda, ka remisijas rādītāji attīstības valstīs tiešām ir augstāki, ap 65%.
+
+Tātad, no dotajiem apgalvojumiem, D ir vienīgais nepareizais, jo Āfrikas amerikāņiem ir augstāks, nevis zemāks, šizofrēnijas līmenis salīdzinājumā ar baltajiem amerikāņiem.",
 "Ģenerālprokurors ir kuras no šādām struktūrvienībām vadītājs?
 A.Senāta Tieslietu komiteja
 B.Tieslietu ministrija
 C.Valsts departaments
-D.Tiesneša ģenerāladvokāta korpuss",b,d,false
+D.Tiesneša ģenerāladvokāta korpuss",B,"D. Ģenerālprokurors ir Ģenerālprokuratūras vadītājs.
+
+Ģenerālprokuratūra ir augstākā prokuratūras iestāde valstī, kuru vada ģenerālprokurors. Ģenerālprokuroru amatā ieceļ Saeima pēc Augstākās tiesas priekšsēdētāja ieteikuma uz pieciem gadiem.
+
+Pārējās minētās struktūrvienības nav saistītas ar ģenerālprokurora amatu:
+A. Senāta Tieslietu komiteja - Senāta struktūrvienība likumdošanas jautājumos.
+B. Tieslietu ministrija - izpildvaras iestāde, kas atbild par tieslietu nozari. 
+C. Valsts departaments - ASV federālā izpildvaras iestāde ārlietu jomā.
+D. Tiesneša ģenerāladvokāta korpuss - šāda struktūrvienība Latvijā neeksistē.",
+"Termins ""chili con carne"" attiecas uz čili ar ko?
+A.Pupiņas
+B.gaļa
+C.siers
+D.čili pipari",B,"Pareizā atbilde ir B. gaļa.
+
+""Chili con carne"" tulkojumā no spāņu valodas nozīmē ""čili ar gaļu"". Šis ēdiens ir populārs Teksasas štata virtuvē ASV un Meksikā. Tā galvenās sastāvdaļas ir:
+
+- Maltas gaļas (parasti liellopa gaļa)
+- Čili pipari
+- Tomāti
+- Sīpoli
+- Ķiploki
+- Garšvielas (kumīns, oregano, paprika u.c.)
+
+Dažreiz čili con carne pievieno arī pupiņas, tomēr tās nav obligāta sastāvdaļa. Siers var tikt pasniegts kā piedeva, bet tas neietilpst pamatreceptē. Tātad termins ""chili con carne"" attiecas tieši uz aso gaļas sautējumu jeb čili ar gaļu.",
+"Kurā sabiedrisko attiecību jomā varētu būt saistīta ar lobēšanu?
+A.Korporatīvo
+B.Finansiālās attiecības
+C.Sabiedriskās lietas
+D.Bizness biznesam",C,"C. Sabiedriskās lietas
+
+Sabiedriskās lietas (Public Affairs) ir sabiedrisko attiecību joma, kas ir visciešāk saistīta ar lobēšanu. Šī joma ietver komunikāciju un attiecību veidošanu ar valdības pārstāvjiem, politikas veidotājiem un citām ieinteresētajām pusēm, lai ietekmētu lēmumu pieņemšanas procesu organizācijas vai nozares interesēs.
+
+Sabiedrisko lietu speciālisti cenšas veidot un uzturēt pozitīvas attiecības ar valdības amatpersonām, sekot līdzi likumdošanas izmaiņām un politiskajām norisēm, kā arī pārstāvēt organizācijas viedokli par tai svarīgiem jautājumiem. Lobēšana, kas ietver tiešu ietekmes izmantošanu, lai panāktu organizācijai labvēlīgus lēmumus, ir viena no sabiedrisko lietu aktivitātēm.
+
+Pārējās minētās jomas - korporatīvās attiecības, finansiālās attiecības un bizness biznesam - nav tik tieši saistītas ar lobēšanu un ietekmes gūšanu uz politiskajiem lēmumiem.",
+"Kādu slimību herpes vīrusi neizraisa?
+A.Zīdaiņu paralīze
+B.Encefalīta
+C.Seksuāli transmisīvās slimības
+D.Vēzis",A,"Pareizā atbilde ir A - zīdaiņu paralīze.
+
+Herpes vīrusi neizraisa zīdaiņu paralīzi. Zīdaiņu paralīzi parasti izraisa citi faktori, piemēram, iedzimtas anomālijas, traumas vai citas infekcijas.
+
+Herpes vīrusi var izraisīt:
+
+B. Encefalītu - herpes simplex vīruss 1 (HSV-1) var izraisīt encefalītu, smagu galvas smadzeņu iekaisumu.
+
+C. Seksuāli transmisīvās slimības - herpes simplex vīruss 2 (HSV-2) ir galvenais ģenitālā herpes izraisītājs, kas ir seksuāli transmisīva infekcija.
+
+D. Vēzi - daži herpes vīrusi, piemēram, Epšteina-Barra vīruss (EBV) un cilvēka herpesvīruss 8 (HHV-8), ir saistīti ar noteiktiem vēža veidiem, piemēram, Burkita limfomu un Kapoši sarkomu.
+
+Tādējādi, lai gan herpes vīrusi var izraisīt dažādas veselības problēmas, zīdaiņu paralīze nav viena no tām.",
+" Communidades de Base ir saistīts ar kuru no šiem?
+A.Bīskaps Oskars Romero
+B.Pretestība un atjaunošana
+C.Visu cilvēku cieņa
+D.Viss iepriekš minētais",D,"D. Viss iepriekš minētais
+
+Komunidades de Base jeb Bāzes kopienas ir cieši saistītas ar visiem minētajiem aspektiem:
+
+A. Bīskaps Oskars Romero bija viens no spilgtākajiem Bāzes kopienu kustības atbalstītājiem Latīņamerikā. Viņš iestājās par nabadzīgo un apspiesto tiesībām, par ko arī tika noslepkavots.
+
+B. Bāzes kopienas veidojās kā pretestība netaisnībai un centieni atjaunot baznīcu, tuvinot to vienkāršo cilvēku vajadzībām. Tās darbojās kā alternatīva tradicionālajai hierarhiskajai baznīcas struktūrai.
+
+C. Bāzes kopienu pamatā bija pārliecība par visu cilvēku cieņu un vienlīdzību Dieva priekšā neatkarīgi no sociālā statusa. Tās iestājās par nabadzīgo un marginalizēto grupu tiesībām.
+
+Tātad Bāzes kopienu kustība apvienoja sevī gan pretestību netaisnībai, gan centienus atjaunot baznīcu, gan pārliecību par visu cilvēku cieņu, un bīskaps Oskars Romero bija viens no tās izcilākajiem pārstāvjiem.",
+"Lielveikals tikko bija atkal atvērts pēc divu nedēļu slēgšanas renovācijai. Atkalatvēršanas rītā sieviete iepirkās, kad pēkšņi nokrita un cieta lauztu kāju. Pēc tam sieviete iesūdzēja lielveikalu par miesas bojājumiem. Savā uzvalkā sieviete apgalvoja, ka viņa triecās virs krāsas spaiņa, kas bija gulējis vienā no ejām. Tiesas sēdē sieviete piezvanīja citam klientam, lai liecinātu, ka, kamēr viņš iepērkas, viņš dzirdēja tūsku, pagriezās un redzēja, kā sieviete nokrīt uz grīdas. Viņš arī liecināja, ka redzējis tukšu krāsas spaini, kas gulēja dažas pēdas no sievietes kājas. Veicot savstarpēju pārbaudi, klients nonāca argumentētā apmaiņā ar lielveikala advokātu. Jautāts par viņa viedokli par to, kas izraisīja sievietes kritienu, klients liecināja: ""Viņa nokrita, jo paklupa uz spaiņa. "" Tomēr, veicot ekspertīzi, viņš atzina, ka patiesībā nav redzējis sievieti braucam uz spaiņa. Pēc tam lielveikala advokāts uzdeva klientam šādu jautājumu:""Ja jūs neredzējāt sievieti braucam uz spaiņa, kā jūs zināt, ka viņa tā dēļ nokrita?"" Klients atbildēja: ""Tāpēc, ka mana draudzene, kas iepirkās kopā ar mani, man vēlāk teica, ka viņa redzēja sievieti braucam pāri spainim. "" Lielveikala advokāts cenšas panākt klienta pēdējo atbildi. Ja tiesas tiesnesis noraida atbildētāja priekšlikumu un ļauj klienta atbildei palikt spēkā, tas, visticamāk, būs tāpēc, ka
+A.Uz klienta atbildi aicināja lielveikala advokāta jautājums.
+B.Klienta atbilde balstījās uz pirmavota zināšanām.
+C.Klienta atbilde bija paziņojums par neseno uztveri.
+D.Klienta atbilde bija tagadnes sajūtu iespaids.",A,"Pareizā atbilde ir A - uz klienta atbildi aicināja lielveikala advokāta jautājums.
+
+Pamatojums:
+Lielveikala advokāts uzdeva klientam jautājumu ""Ja jūs neredzējāt sievieti braucam uz spaiņa, kā jūs zināt, ka viņa tā dēļ nokrita?"". Šis jautājums provocēja klientu sniegt atbildi, kas balstīta uz baumām jeb no citas personas dzirdētu informāciju, nevis uz paša klienta tiešu novērojumu. 
+
+Klienta atbilde neatbilst pārējiem variantiem:
+B - tā nebalstās uz pirmavota zināšanām, jo klients pats neredzēja notikušo.
+C - tā nav paziņojums par nesenu uztveri, jo balstās uz citas personas stāstīto.
+D - tā neatspoguļo klienta tagadnes sajūtu iespaidus.
+
+Tādējādi tiesnesis, visticamāk, noraidītu lielveikala advokāta iebildumu un pieļautu klienta atbildi, jo uz to provocēja advokāta uzdotais jautājums.",
+"Liela ražošanas uzņēmuma darbinieks uzskata, ka darbs ir blāvs, un turpina darbu tikai par naudu. Darbinieks darbojas minimāli un nav motivēts, tāpēc ražo visaugstāko kvantitāti vai labāku kvalitāti. Saskaņā ar F. Herzberga divu faktoru teoriju labākais veids, kā 10 palielināt šī darbinieka pašmotivāciju, būtu
+A.piedāvāt paaugstinājumu un stimulējošu atalgojumu par lielāku produktivitāti
+B.pārveidojiet darbu, lai sniegtu izaicinājumu un sasniegumu sajūtu
+C.palielināt uz informāciju balstītas sociālās mijiedarbības iespējas,
+D.nodrošināt darbiniekam darba plūdmaiņas ar lielāku prestižu",B,"Saskaņā ar F. Herzberga divu faktoru teoriju, labākais veids kā palielināt darbinieka pašmotivāciju būtu B variants - pārveidot darbu, lai sniegtu izaicinājumu un sasniegumu sajūtu.
+
+Herzberga teorija balstās uz diviem faktoriem:
+
+1. Higiēnas faktori - alga, darba apstākļi, uzņēmuma politika utt. Šie faktori var novērst neapmierinātību, bet paši par sevi nemotivē.
+
+2. Motivācijas faktori - sasniegumi, atzinība, atbildība, izaugsme, pats darbs. Tieši šie faktori rada apmierinātību un motivē darbiniekus.
+
+Tātad, lai palielinātu darbinieka motivāciju, jāfokusējas uz motivācijas faktoriem. Darba pārveidošana, lai tas sniegtu lielāku izaicinājumu un sasniegumu sajūtu, ir tieši saistīta ar motivācijas faktoriem. Tas padarīs darbu interesantāku un jēgpilnāku, ļaujot darbiniekam justies novērtētam un realizēt savu potenciālu.
+
+Pārējie varianti (algas palielināšana, sociālās mijiedarbības iespējas, prestižs) ir saistīti ar higiēnas faktoriem. Lai arī tie var īslaicīgi uzlabot situāciju, tie nerada ilgstošu motivāciju.",
+"Pētījumi par otrās valodas apguvi ir parādījuši, kurš no šiem par bērniem, kuri apgūst otro valodu
+A.Viņu kognitīvā attīstība aizkavējas
+B.Viņiem ir labāka artikulācija nekā bērniem, kuri nav bilingvāli
+C.Viņu dzimtās valodas prasme neietekmē otrās valodas apguves līmeni
+D.Viņiem ir lielāka kognitīvā elastība",D,"Pētījumi par otrās valodas apguvi ir parādījuši, ka bērniem, kuri apgūst otro valodu, ir novērojama lielāka kognitīvā elastība (D variants).
+
+Kognitīvā elastība ir spēja pielāgoties jaunām situācijām, domāt radoši un skatīties uz lietām no dažādām perspektīvām. Pētījumi liecina, ka bilingvāliem bērniem ir attīstītāka kognitīvā elastība, jo viņu smadzenes pastāvīgi trenējas, pārslēdzoties starp divām valodām.
+
+Pārējie varianti nav pareizi:
+
+A. Nav pierādījumu, ka otrās valodas apguve aizkavētu kognitīvo attīstību. Tieši pretēji, tā var dot papildu ieguvumus.
+
+B. Lai gan bilingvāliem bērniem var būt labāka fonēmu uztvere, nav pierādīts, ka viņiem būtu labāka artikulācija.
+
+C. Dzimtās valodas prasme var ietekmēt otrās valodas apguves līmeni, jo bērni bieži balstās uz dzimtās valodas zināšanām, mācoties jaunu valodu.
+
+Tātad, pareizā atbilde ir D - bilingvāliem bērniem novēro lielāku kognitīvo elastību.",
+"Kurš no šiem punktiem atbalsta argumentu par labu Amerikas vienpusējībai?
+A.Labvēlīga hegemonija
+B.Multilaterālisma neefektivitāte
+C.Amerikāņu vara
+D.Viss iepriekš minētais",D,"Pareizā atbilde ir D - viss iepriekš minētais.
+
+Visi trīs minētie punkti var tikt izmantoti kā argumenti, lai atbalstītu Amerikas vienpusēju rīcību starptautiskajā arēnā:
+
+A. Labvēlīga hegemonija - ideja, ka ASV kā pasaules vadošais spēks var izmantot savu ietekmi, lai uzturētu stabilitāti un kārtību pasaulē, rīkojoties vienpusēji, ja nepieciešams.
+
+B. Multilaterālisma neefektivitāte - arguments, ka daudzpusēja sadarbība un starptautiskās institūcijas bieži ir pārāk lēnas un neefektīvas, lai risinātu steidzamas problēmas, tāpēc ASV jārīkojas vienpusēji.
+
+C. Amerikāņu vara - ASV militārā, ekonomiskā un politiskā vara ļauj tai efektīvi rīkoties vienpusēji, lai sasniegtu savus mērķus.
+
+Tātad visi šie faktori - ASV kā labvēlīga hegemona loma, multilaterālisma trūkumi un Amerikas ievērojamie varas resursi - var tikt izmantoti, lai pamatotu nepieciešamību pēc ASV vienpusējas rīcības noteiktos apstākļos.",
+"Dubultaklā vai dubultmaskētā pētījuma mērķis ir:
+A.Apstrādāto un neārstēto pētāmo personu salīdzināmības panākšana
+B.Paraugu ņemšanas variāciju ietekmes samazināšana
+C.Izvairieties no novērotāja un subjekta neobjektivitātes
+D.Izvairieties no novērotāju neobjektivitātes un paraugu ņemšanas variācijām",B,"Pareizā atbilde ir C - Izvairieties no novērotāja un subjekta neobjektivitātes.
+
+Dubultaklā vai dubultmaskētā pētījuma galvenais mērķis ir novērst gan pētnieku (novērotāju), gan dalībnieku (subjektu) iespējamo neobjektivitāti jeb aizspriedumus. 
+
+Dubultaklā pētījumā ne pētnieki, ne dalībnieki nezina, kurš saņem īsto ārstēšanu un kurš placebo. Tas ļauj izvairīties no subjektīvām interpretācijām un gaidām, kas var ietekmēt rezultātus.
+
+Pārējie varianti nav precīzi:
+A - Salīdzināmību starp grupām nodrošina nevis aklums, bet gan randomizācija jeb nejaušināta dalībnieku sadalīšana grupās.
+B - Dubultaklums tieši neietekmē paraugu ņemšanas variācijas.
+D - Dubultaklums novērš gan pētnieku, gan dalībnieku aizspriedumus, bet ne paraugu ņemšanas variācijas.
+
+Tātad dubultaklā pētījuma mērķis ir tieši izvairīties no cilvēciskās neobjektivitātes, kas var kropļot pētījuma rezultātus.",
+"Mūsdienu datoru mikroshēmas galvenokārt sastāv no kāda elementa?
+A.Nātrijs
+B.Silīcijs
+C.Alumīnija
+D.Sudrabs",B,"B. Silīcijs
+
+Mūsdienu datoru mikroshēmas galvenokārt sastāv no silīcija. Silīcijs ir pusvadītāju materiāls ar piemērotām elektriskajām īpašībām, kas ļauj to izmantot integrālo shēmu ražošanā.
+
+Iemesli, kāpēc silīcijs tiek plaši izmantots mikroshēmās:
+
+1. Silīcijs ir viens no visizplatītākajiem elementiem uz Zemes, kas padara to lētu un viegli pieejamu.
+
+2. Silīcijam piemīt laba termoizturība, kas ļauj mikroshēmām darboties plašā temperatūru diapazonā.
+
+3. Silīcija elektriskās īpašības var viegli mainīt, pievienojot nelielu daudzumu piemaisījumu, tādējādi iegūstot vadītspēju vai izolāciju pēc nepieciešamības.
+
+4. Silīcija oksīds (SiO2) darbojas kā lielisks izolators, kas ir svarīgi mikroshēmu ražošanā.
+
+Pārējie minētie elementi - nātrijs, alumīnijs un sudrabs - netiek plaši izmantoti mikroshēmu ražošanā, lai gan tie var tikt izmantoti citos elektronisko ierīču komponentos.",
+"Kurš no šiem vislabāk raksturo ētikas vadlīnijas attiecībā uz seksuālo intimitāti ar bijušajiem terapijas klientiem?
+A.Psihologiem ir aizliegts jebkādos apstākļos būt seksuālām intimitātēm ar bijušajiem terapijas klientiem.
+B.Psihologiem ir aizliegts veikt seksuālas attiecības ar bijušajiem terapijas klientiem vismaz vienu gadu pēc terapijas pārtraukšanas.
+C.Psihologiem ir aizliegts veikt seksuālas attiecības ar bijušajiem terapijas klientiem noteiktos apstākļos (piemēram, ja pastāv ekspluatācijas risks).
+D.Psihologiem nav aizliegts veikt seksuālas intimitātes ar bijušajiem terapijas klientiem.",C,"Pareizā atbilde ir A - psihologiem ir aizliegts jebkādos apstākļos būt seksuālām intimitātēm ar bijušajiem terapijas klientiem.
+
+Psihologa un klienta attiecībās vienmēr pastāv varas nevienlīdzība un atkarība, pat pēc terapijas beigām. Tāpēc seksuālas attiecības starp psihologu un bijušo klientu nekad nevar būt pieņemamas, jo tās pārkāpj ētikas robežas un var nodarīt kaitējumu klientam.
+
+Amerikas Psihologu asociācijas (APA) ētikas kodekss skaidri nosaka, ka psihologiem ir aizliegts iesaistīties seksuālās attiecībās ar pašreizējiem vai bijušajiem klientiem neatkarīgi no tā, cik ilgs laiks pagājis kopš terapijas beigām. Šis aizliegums ir absolūts un nav izņēmumu.
+
+Tātad pareizā atbilde, kas vislabāk raksturo ētikas vadlīnijas šajā jautājumā, ir A variants - psihologiem ir pilnībā aizliegts jebkādos apstākļos būt seksuālām intimitātēm ar saviem bijušajiem terapijas klientiem.",
+"Kura no šīm teorijām koncentrējas uz to, kā sabiedrībai izdodas veikt darbības, kas nepieciešamas kārtības un stabilitātes uzturēšanai?
+A.Funkcionālisms
+B.Interaktivisms
+C.Racionālās izvēles teorija
+D.Konfliktu teorija",A,"Pareizā atbilde ir A - Funkcionālisms.
+
+Funkcionālisms ir sociologijas teorija, kas koncentrējas uz to, kā sabiedrība darbojas kā vienots veselums. Tā uzskata, ka katram sabiedrības elementam (institūcijām, normām, vērtībām utt.) ir sava funkcija jeb uzdevums sabiedrības kārtības un stabilitātes uzturēšanā. 
+
+Funkcionālisma pamatlicēji ir Emīls Dirkheims un Talkots Pārsonss. Viņi uzskatīja, ka sabiedrība, līdzīgi kā dzīvs organisms, sastāv no savstarpēji saistītām daļām, kas katra pilda savu lomu kopējā sistēmā. Ja kāda daļa nedarbojas, tas apdraud visu sabiedrības stabilitāti.
+
+Pārējās minētās teorijas koncentrējas uz citiem aspektiem:
+- Interakcionisms pēta indivīdu mijiedarbību un komunikāciju.
+- Racionālās izvēles teorija skaidro cilvēku rīcību kā apzinātu izvēli starp alternatīvām.
+- Konfliktu teorija uzsver sabiedrības grupu pretrunas un cīņu par varu un resursiem.
+
+Tātad funkcionālisms vislabāk atbilst jautājumā minētajam sabiedrības kārtības un stabilitātes uzturēšanas aspektam.",
+"Policija saņēma padomu no uzticama informatora, ka vīrietis no savām mājām tirgojas ar kokaīnu. Pēc tam amatpersonas iesniedza miertiesnesim ar zvērestu apliecinātu rakstveida liecību, kurā izklāstīti apstākļi, kas liecina par iespējamu iemeslu kratīšanas ordera izdošanai. Tiesnesis izdeva kratīšanas orderi narkotisko vielu meklēšanai vīrieša adresē. Policisti devās uz vīrieša mājām un atskanēja durvju zvans. Kad neviens neatbildēja, policija ielauzās un iegāja mājoklī. Viņi pārmeklēja pirmā stāva telpas un neatrada apsūdzošus pierādījumus, tad izgāja ārā un pamanīja atsevišķu ieeju, kas veda uz mājokļa otro stāvu. Viņi uzkāpa pa kāpnēm un iegāja augšstāva guļamistabā. Telpā policisti atrada kokaīna atlicinājumu, kas gulēja uz kumodes. Kad policisti turpināja kratīšanu guļamistabā, apsūdzētais iegāja istabā. Policija apsūdzētajam jautāja, vai viņš ir vīrietis. Apsūdzētais sevi identificēja un pastāstīja policijai, ka viņi atrodas viņa guļamistabā un viņš aizņem mājokļa otro stāvu. Apsūdzētais paskaidroja, ka vīrietis dzīvoja pirmajā stāvā un viņa dzīvojamās telpas bija nodalītas no apsūdzētā. Neskatoties uz to, apsūdzētais tika apcietināts un apsūdzēts par kokaīna glabāšanu. Atbildētājs ir iesniedzis priekšlikumu neļaut kokaīnu atzīt par pierādījumu. Atbildētāja priekšlikumam jābūt
+A.apmierināts, jo orderī atbildētājs nebija nosaukts.
+B.piešķirts, jo orderī nebija konkrēti norādīta pārmeklējamā teritorija.
+C.noliedza, jo policija pamatoti uzskatīja, ka, ieejot apsūdzētā dzīvojamās telpās, viņi pārmeklēja vīrieša dzīvesvietu.
+D.noraidīts, jo orderis bija derīgs un izdots ar ticamu iemeslu.",C,"Pareizā atbilde ir B - atbildētāja priekšlikums jāapmierina, jo orderī nebija konkrēti norādīta pārmeklējamā teritorija.
+
+Pamatojums:
+Ceturtais grozījums ASV Konstitūcijā nosaka, ka kratīšanas orderim jābūt konkrētam attiecībā uz pārmeklējamo vietu. Šajā gadījumā orderis bija izdots vīrieša adresei, taču neminēja konkrēti, ka tas attiecas arī uz atsevišķo otro stāvu, ko aizņēma apsūdzētais.
+
+Lai gan policija sākotnēji pamatoti uzskatīja, ka pārmeklē vīrieša dzīvesvietu, ienākot otrajā stāvā, kļuva skaidrs, ka tā ir atsevišķa apsūdzētā dzīvojamā telpa. Tādējādi, turpinot kratīšanu bez papildu ordera, tika pārkāptas apsūdzētā tiesības.
+
+Kaut arī sākotnējais orderis bija derīgs un izdots ar ticamu iemeslu, tas konkrēti neietvēra otro stāvu kā atsevišķu dzīvojamo platību. Tāpēc atbildētāja priekšlikums par pierādījumu izslēgšanu būtu jāapmierina, pamatojoties uz neprecīzu pārmeklējamās teritorijas norādi orderī.",
+"Kā globalizācijas kontekstā mēs varam vislabāk definēt terminu ""attīstība""?
+A.Termins attīstība attiecas uz cilvēka stāvokli, kurā ir brīvība no bailēm un vēlmēm; ir pietiekami daudz resursu, lai uzturētu dzīvību, un šī dzīvība var pastāvēt valstī, kas ir brīva no pēkšņa pārtraukuma draudiem vai šķietamiem draudiem.
+B.Lai nācija tiktu uzskatīta par attīstītu, tai ir jābūt sasniegušai noteiktu ekonomisko un politisko statusu globālajā valsts sistēmā; Kritēriju tam, kas ir ""attīstīts"" stāvoklis, tādējādi nosaka šīs mijiedarbības prasības šajā sistēmā.
+C.Attīstība ir līdzeklis, lai novērstu nevienlīdzību, kas pavada neoliberālo globalizāciju. Šajā kontekstā attīstība attiecas uz iedzīvotāju vai kopienas spēju efektīvi izmantot resursus un palielināt ražošanas un izplatīšanas efektivitāti, veicinot taisnīgāku ienākumu sadali sabiedrībā.
+D.Kopienas attīstība attiecas uz ideoloģiskām un ētiskām vērtību sistēmām, kurām tās iedzīvotāji piekrīt. Globalizētajā starptautiskajā sistēmā tas attiecas uz Rietumu liberālās demokrātiskās ideoloģijas un brīvā tirgus ekonomikas pieņemšanu.",C,"Manuprāt, visatbilstošākā definīcija termina ""attīstība"" skaidrošanai globalizācijas kontekstā ir C variants.
+
+Attīstība kā līdzeklis nevienlīdzības mazināšanai un taisnīgākas resursu sadales veicināšanai ir būtisks aspekts mūsdienu globalizētajā pasaulē. Neoliberālā globalizācija nereti rada plaisas starp bagātajiem un nabadzīgajiem, tāpēc attīstības mērķim vajadzētu būt šo atšķirību izlīdzināšanai.
+
+Efektīva resursu izmantošana un ražošanas/izplatīšanas efektivitātes celšana ļauj kopienām un valstīm veiksmīgāk iekļauties globālajā ekonomikā. Taču svarīgi, lai ieguvumi no šīs ekonomiskās izaugsmes tiktu sadalīti pēc iespējas vienlīdzīgāk sabiedrībā. Pretējā gadījumā attīstība var nest labumu tikai šaurai elitei, kamēr pārējā sabiedrības daļa paliek novārtā.
+
+Tādējādi attīstības galvenajam mērķim globalizācijas laikmetā jābūt centieniem panākt lielāku sociālo taisnīgumu un vienlīdzīgākas iespējas visiem. Ekonomiskā izaugsme ir svarīga, taču tai jāiet roku rokā ar ieguvumu taisnīgu pārdali.",
+"54 gadus veca sieviete ierodas birojā, jo pēdējo 3 nedēļu laikā viņai ir bijušas periodiskas šaušanas sāpes pār labo vaigu un žokli. Katra sāpju epizode ilgst 1 sekundi vai mazāk. Sāpes bieži izraisa auksts gaiss, košļāšana, taustes stimulācija un zobu tīrīšana. Viņai nav bijusi ne sejas, ne galvas trauma. Medicīniskā vēsture ir ievērojama ar spriedzes galvassāpēm, aptaukošanos un kuņģa apvedceļa operāciju. Viņa ir 165 cm (5 pēdas 5 collas) gara un sver 62 kg (137 mārciņas); ĶMI ir 23 kg/m2 . Dzīvības pazīmes ir normālas. Pacients nevar paciest pieskārienu sejas labajai pusei. Nav sejas vājuma vai sajūtas zuduma. Atlikusī fiziskās pārbaudes daļa neuzrāda nekādas novirzes. Galvas CT skenēšana ar kontrastu un bez tā neuzrāda novirzes. Kura no šīm ir piemērotākā farmakoterapija šajā laikā?
+A.Karbamazepīns
+B.Lamotrigīns
+C.Levetiracetāms
+D.Topiramāts",A,"Pamatojoties uz sniegtajiem simptomiem un izmeklējumu rezultātiem, vispiemērotākā farmakoterapija šajā gadījumā būtu karbamazepīns (atbilde A). Iemesli:
+
+1. Simptomi - īsas, spēcīgas, vienpusējas sejas sāpes, ko izraisa dažādi stimuli (auksts gaiss, košļāšana, pieskāriens utt.), liecina par trigeminālo neiralģiju.
+
+2. Karbamazepīns ir pirmās izvēles medikaments trigeminālas neiralģijas ārstēšanai, jo tas ir efektīvs sāpju mazināšanā un uzbrukumu biežuma samazināšanā.
+
+3. Citas minētās zāles (lamotrigīns, levetiracetāms, topiramāts) var tikt izmantotas kā alternatīvas vai papildu terapijas, ja karbamazepīns nav pietiekami efektīvs vai to nevar lietot blakusparādību dēļ. Tomēr tās nav pirmās izvēles līdzekļi trigeminālas neiralģijas ārstēšanai.
+
+4. Normāli CT skenēšanas rezultāti izslēdz citus iespējamos sāpju cēloņus, piemēram, tumorus vai multiplās sklerozes perēkļus.
+
+Tādējādi, ņemot vērā pacienta simptomus un izmeklējumu rezultātus, karbamazepīns būtu vispiemērotākā sākotnējā farmakoterapija trigeminālas neiralģijas ārstēšanai šajā gadījumā.",
+"Pirms priekšlikums par divu pilsētu apvienošanu tika nodots balsošanai, valsts ģenerālprokurors sniedza konsultatīvu atzinumu, norādot, ka pasākums, viņasprāt, nepārkāpj nevienu likumu vai konstitūcijas noteikumu. Pēc tam priekšlikums tika nodots balsošanai, un vēlētāji abās pilsētās to pārliecinoši pieņēma. Pēc vēlēšanām, bet pirms apvienošanās bija oficiāli notikusi, divi nodokļu maksātāji no vienas no pilsētām ierosināja prasību pievienoties apvienošanai, uzbrūkot priekšlikuma konstitucionalitātei. Prāva nonāca štata augstākajā tiesā un tika atzīta par konstitucionālu gan saskaņā ar štata, gan federālajiem likumiem. Tagad prasītāji iesniedz priekšlikumu, lai panāktu, ka šo lietu izskata ASV Augstākā tiesa. Tiesa var:
+A.neizskatīt lietu, jo tā tika izlemta neatkarīgas valsts dēļ.
+B.neizskatīt lietu, bet var likt to paturēt apcietinājumā federālajai apgabaltiesai.
+C.uzklausiet attiecīgos federālos jautājumus, bet atsakieties lemt par valsts jautājumu.
+D.paļauties uz valsts ģenerālprokurora sniegto konsultatīvo atzinumu un neizskatīt lietu pēc būtības.",A,"C. Uzklausiet attiecīgos federālos jautājumus, bet atsakieties lemt par valsts jautājumu.
+
+Pamatojums:
+- ASV Augstākā tiesa var izskatīt lietas, kas skar federālos konstitucionālos jautājumus. Tātad tā var uzklausīt argumentus par to, vai pilsētu apvienošana pārkāpj kādus ASV konstitūcijas noteikumus.
+- Taču ASV Augstākā tiesa parasti atsakās lemt par jautājumiem, kas attiecas tikai uz atsevišķu štatu konstitūcijām un likumiem. Tā respektē štatu tiesu kompetenci šajos jautājumos.
+- Ģenerālprokurora konsultatīvais atzinums nav saistošs tiesai (D variants atkrīt).
+- Augstākā tiesa nevar likt federālai apgabaltiesai paturēt lietu (B variants neatbilst tiesu sistēmas hierarhijai).
+- A variants arī nav pareizs, jo Augstākā tiesa var izskatīt federālos jautājumus neatkarīgi no štata tiesas lēmuma.
+
+Tātad visloģiskākais variants ir C - izskatīt attiecīgos federālos konstitucionālos jautājumus, bet atturēties no lēmuma pieņemšanas par štata konstitūcijas un likumu interpretāciju.",
+"Vīrietis bija jaunuzceltās viesnīcas īpašnieks pilsētā. 15. martā vīrietis saņēma telefona zvanu no pārdevējas, kas bija viesnīcas aprīkojuma izplatītājs. Pārdevējs piedāvāja pārdot vīrietim 1,000 ugunsdzēšamos aparātus viņa viesnīcai. Pārdevējs vīrietim sacīja, ka ugunsdzēšamo aparātu izmaksas būs 35 000 ASV dolāru (jeb 35 ASV dolāri gabalā), kas jāmaksā 90 dienas pēc piegādes. Pārdevējs solīja, ka ugunsdzēšamie aparāti tiks uzstādīti ne vēlāk kā 15. aprīlī. 16. martā vīrietis piezvanīja pārdevējam un pieņēma piedāvājumu. Nākamajā dienā vīrietis pārdevējam nosūtīja šādu piezīmi:""Lūdzu, ņemiet vērā, ka septiņas dienas pēc uzstādīšanas es ņemšu 15 procentu atlaidi skaidras naudas maksājumam. "" Pārdevējs vīrieša saraksti saņēma 20. martā. 1. aprīlī pārdevējs vīrietim atsūtīja telegrammu, kurā bija teikts: ""Ir skaidrs, ka mums nav spēkā esoša izpildāma līguma. Ugunsdzēšamos aparātus nepiegādāšu ne 15. aprīlī, ne kādā citā laikā. ""Vīrietis ceļ prasību pret pārdevēju par līguma laušanu. Pārdevējs aizstāv krāpšanas likumu saskaņā ar UCC. Kurš no šiem ir visprecīzākais apgalvojums par pārdevēja aizstāvību?
+A.Pārdevēja aizstāvība ir spēkā, jo vīrieša piezīme nebija pietiekama, lai norādītu, ka ir izveidots līgums.
+B.Pārdevēja aizstāvība ir spēkā, jo vīrieša piezīme bija pretrunā ar pārdevēja mutiskā piedāvājuma noteikumiem.
+C.Pārdevēja aizstāvība nav spēkā, jo pārdevējs saprātīgā termiņā nav atbildējis uz vīrieša piezīmi.
+D.Pārdevēja aizstāvība nav spēkā, jo saskaņā ar UCC krāpšanas statūti nav piemērojami līgumos starp tirgotājiem.",A,"C. Pārdevēja aizstāvība nav spēkā, jo pārdevējs saprātīgā termiņā nav atbildējis uz vīrieša piezīmi.
+
+Pamatojums:
+1. Pārdevējs 16. martā pa telefonu izteica piedāvājumu vīrietim, kuru vīrietis pieņēma. Tādējādi tika noslēgts mutisks līgums.
+
+2. Vīrietis 17. martā nosūtīja pārdevējam piezīmi, kurā piedāvāja grozīt līguma noteikumus, pieprasot 15% atlaidi par skaidras naudas maksājumu 7 dienu laikā pēc uzstādīšanas. Šī piezīme uzskatāma par pretpiedāvājumu.
+
+3. Saskaņā ar UCC krāpšanas statūtiem, ja pārdevējs saprātīgā laikā neiebilst pret pircēja pretpiedāvājumu, tas tiek uzskatīts par pieņemtu. 
+
+4. Pārdevējs vīrieša piezīmi saņēma 20. martā, taču neatbildēja līdz 1. aprīlim, kad paziņoja, ka līgums nav spēkā. Šis laika periods nav uzskatāms par saprātīgu atbildes sniegšanai.
+
+5. Tādējādi pārdevēja klusēšana nozīmē vīrieša pretpiedāvājuma pieņemšanu, un līgums ar grozītajiem noteikumiem ir spēkā.
+
+Līdz ar to pārdevēja aizstāvība nav spēkā, jo viņš saprātīgā termiņā nav atbildējis uz vīrieša piezīmi jeb pretpiedāvājumu.",
+"Rančo šobrīd ir zemes gabala, kas apzīmēts kā ""A."", īpašnieks Tas ir augstākais no diviem kaimiņu īpašumiem kalnā. Lauksaimnieks ir zemes gabala ""B"" īpašnieks, kas atrodas zemāk par ""A"" kalna nogāzē. 2000. gadā sēta, kurai piederēja abi zemes gabali, uzbūvēja privātu meliorācijas sistēmu. Šī sistēma sastāvēja no pazemes cauruļvada, kas stiepās pāri abiem zemes gabaliem. Notekūdeņi no zemes gabala ""A"" caur sistēmu nokļuva sadzīves kanalizācijā, kas atradās kalna apakšā. 2005. gadā lopkopis lauksaimniekam pārdeva zemes gabalu ""B"". Aktā zemniekam nebija pieminēta sētas meliorācijas sistēma. Katrā no zemes gabaliem atrodas lielas rančo stila mājas, kuras aizņem attiecīgie īpašnieki. Pēdējā laikā notekūdeņu novadīšana ir sākusi izdalīt nepatīkamu smaku pāri zemes gabalam ""B."" Tā rezultātā lauksaimnieks iesūdzēja rančo tiesā, lūdzot par bojājumiem, ko radījusi drenāžas sistēma. Spriedumam jābūt par
+A.sēta, jo aktā zemniekam nebija nekādu vienošanos, kas ierobežotu lopkopja zemes izmantošanu.
+B.sēta, jo zemnieka īstais rīcības iemesls būtu traucēklis, nevis pārkāpums.
+C.lauksaimnieks, jo meliorācijas sistēma bija prasītāja zaudējumu cēlonis saskaņā ar likumu.
+D.lauksaimnieks, jo lopkopim nebija tiesību uzlabot savu zemi tādā veidā, kas nodarīja kaitējumu citam.",B,"Pareizā atbilde ir D - spriedumam jābūt par labu lauksaimniekam, jo rančo īpašniekam nebija tiesību uzlabot savu zemi tādā veidā, kas nodarīja kaitējumu citam.
+
+Argumenti:
+
+1. Kaut arī meliorācijas sistēma tika uzbūvēta, kad abi zemes gabali piederēja vienai sētai, pēc zemes gabala ""B"" pārdošanas rančo īpašniekam vairs nav tiesību izmantot šo sistēmu tādā veidā, kas kaitē jaunajam īpašniekam - lauksaimniekam.
+
+2. Tas, ka pirkuma līgumā nebija pieminēta meliorācijas sistēma, nenozīmē, ka rančo īpašnieks var turpināt to izmantot, ignorējot tās negatīvo ietekmi uz lauksaimnieka īpašumu. Īpašuma tiesības ietver arī pienākumu nenodarīt kaitējumu citu īpašumam.
+
+3. Nepatīkamā smaka, ko rada notekūdeņu novadīšana, ir uzskatāma par kaitējumu lauksaimnieka īpašumam un traucē tā izmantošanu. Līdz ar to rančo īpašnieks ir atbildīgs par šo kaitējumu un tam ir jānovērš problēma.
+
+4. Kaut arī meliorācijas sistēma ir cēlonis kaitējumam (atbilde C), primārais iemesls spriedumam par labu lauksaimniekam ir tas, ka rančo īpašniekam nav tiesību uzlabot savu īpašumu, vienlaikus kaitējot cita īpašumam (atbilde D).
+
+Tādējādi, ņemot vērā īpašumtiesību principus un pienākumu nenodarīt kaitējumu citu īpašumam, pareizā atbilde ir D.",

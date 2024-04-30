@@ -1,84 +1,123 @@
 Question,CorrectAnswer,GivenAnswer,Correct
-" Ity fitaovana ara-barotra sy fifandraisana ity dia manome fanentanana mivantana na famporisihana ny mpanjifa hividy vokatra / serivisy:
-A.Dokam-barotra.
-B.Fifandraisana amin'ny vahoaka.
-C.Fampiroboroboana ny varotra.
-D.Marketing mivantana.",c,c.,true
 "Inona no atao hoe Antonio Banderas, teratany avy amin'ny mpilalao sarimihetsika?
 A.Espanola
 B.Rosiana
 C.Alemà
-D.Frantsay",a,a,true
-"K-Fold Validation
-A.Tsipika ao amin'ny K
-B.Quadratic in K
-C.cubic in K
-D.Exponential in K",a,a,true
-"Ny mutations izay mahatonga ny achondroplasia dia misy fiantraikany izay azo sokajiana ho toy ny:
-A.Ny lafy ratsin-javatra no mibahan-toerana.
-B.Tombony amin'ny asa.
-C.Haploinsufficiency.
-D.Very ny asa.",b,c,false
-"Iza amin'ireo sakafo ireo no vita amin'ny tsinain'ny kisoa?
-A.Haggis
-B.chitlins
-C.grits
-D.Chop suey",b,a.,false
+D.Frantsay",A,"A. Espanola no valiny marina. Antonio Banderas dia mpilalao sarimihetsika malaza teraka tany Malaga, Espaina tamin'ny 10 Aogositra 1960. Nanomboka nilalao sarimihetsika tany Espaina izy talohan'ny nifindra monina tany Etazonia ary lasa mpilalao sarimihetsika malaza manerantany.",
 "Inona no fiteny ofisialy any Holandy?
 A.Danoà
 B.Soedoà
 C.Alemà
-D.Holandey",d,d,true
+D.Holandey",D,"Ny valiny marina dia D. Holandey.
+
+Ny fiteny ofisialy any Holandy dia ny teny Holandey (Hollandais). Ankoatra izany, ny teny Anglisy sy Frisianina koa dia fiteny ofisialy any amin'ny faritra sasany ao Holandy.
+
+- Ny teny Danoà dia fiteny ofisialy any Danemark fa tsy any Holandy.
+- Ny teny Soedoà dia fiteny ofisialy any Soeda fa tsy any Holandy. 
+- Ny teny Alemà dia fiteny ofisialy any Alemaina fa tsy any Holandy.",
 "Amin'ny fomba ahoana no misy ny sarimihetsika Magnolia tamin'ny 1999?
 A.California
 B.Carolina Atsimo
 C.Georgia
-D.Texas",a,c,false
+D.Texas",A,"Ny valiny marina dia C. Georgia.
+
+Ny sarimihetsika Magnolia tamin'ny 1999 dia novolavolain'i Paul Thomas Anderson ary nifantoka tao amin'ny tanàna kely iray ao Georgia. Ny ankamaroan'ny sehatra dia nalaina tao amin'ny faritra manodidina an'i Los Angeles, California, saingy ny tantara dia mifantoka amin'ny fianakaviana iray ao amin'ny tanàna kely any atsimo atsinanan'i Etazonia, izay Georgia no toerana mifanaraka amin'izany indrindra.",
+"Ny fampidirana ao amin'ny inductor dia aseho toy ny,
+A.Ny vokatry ny inductance sy ny amin'izao fotoana izao amin'ny alalan'ny izany.
+B.Ny tahan'ny fampidirana azy amin'izao fotoana izao amin'ny alalan'izany.
+C.Ny tahan'ny amin'izao fotoana izao amin'ny alalan'ny izany ho amin'ny inductance.
+D.Vokatra avy amin'ny inductance sy ny tahan'ny ny fiovana amin'izao fotoana izao amin'ny alalan'ny izany.",D,"Ny valiny marina dia:
+D. Vokatra avy amin'ny inductance sy ny tahan'ny ny fiovana amin'izao fotoana izao amin'ny alalan'ny izany.
+
+Ny fampidirana ao amin'ny inductor dia miankina amin'ny inductance (L) sy ny tahan'ny fiovana amin'ny amin'izao fotoana izao (di/dt) amin'ny alalan'ny inductor. Izany dia azo sokajiana amin'ny alalan'ny fifandraisana:
+
+v = L * (di/dt)
+
+Izay,
+v = fampidirana amin'ny inductor
+L = inductance
+di/dt = tahan'ny fiovana amin'ny amin'izao fotoana izao amin'ny alalan'ny inductor
+
+Noho izany, ny fampidirana ao amin'ny inductor dia vokatra avy amin'ny inductance sy ny tahan'ny fiovana amin'ny amin'izao fotoana izao amin'ny alalan'ny inductor, fa tsy ny amin'izao fotoana izao tenany.",
+"Iza amin'ireo sakafo ireo no vita amin'ny tsinain'ny kisoa?
+A.Haggis
+B.chitlins
+C.grits
+D.Chop suey",B,"Ny valiny marina dia B. chitlins.
+
+Ny chitlins dia sakafo vita amin'ny tsinain'ny kisoa izay malaza any amin'ny faritra sasany tany Etazonia, indrindra any atsimo. Rehefa voavoatra sy nalahatra tsara izy ireo dia matsiro hohanina.
+
+Ny Haggis (A) kosa dia sakafo Ekosey vita amin'ny voa sy tsinain'ny ondry.
+
+Ny grits (C) dia sakafo Amerikana atsimo vita amin'ny katsaka voaendy madinika.
+
+Ny Chop suey (D) dia sakafo Sinoa misy legioma sy hena voatety madinika.",
+"Iza amin'ireto manaraka ireto no mifanaraka amin'ny daty fanolanana?
+A.Fampiasana hery tafahoatra
+B.Nomanina mialoha
+C.Ny antony manosika hanao firaisana ara-nofo
+D.Mampiasà fitaovam-piadiana",C,"Ny valiny mifanaraka amin'ny fanontaniana dia ny B. Nomanina mialoha.
+
+Ny antony:
+- Ny fampiasana hery tafahoatra dia midika fa tsy nisy fifanarahana na fanekena avy amin'ny andaniny roa tonta. 
+- Ny antony manosika hanao firaisana ara-nofo dia tsy voatery midika fa nisy fanomanana mialoha.
+- Ny fampiasana fitaovam-piadiana dia midika koa hoe fampiasana hery fa tsy mifanaraka amin'ny hoe nomanina mialoha.
+
+Noho izany, ny fanomanana mialoha no mifanaraka indrindra amin'ny atao hoe daty fanolanana satria midika izany fa efa nifanaiky ny roa tonta ny amin'ny fotoana sy toerana hanaovana izany.",
+"Ny isan'ny olona manakaiky ny arivo dia 47.000. Inona no isa mety ho ny isa izay nihodidina?
+A.46,295
+B.46,504
+C.47,520
+D.47,924",B,"Ny valiny marina dia B. 46,504.
+
+Rehefa manakaiky isa amin'ny arivo, dia alaina ny isa feno arivo akaiky indrindra ny isa nomena. Noho izany, ny 47.000 dia akaiky indrindra ny 47.000 raha oharina amin'ny 46.000 na 48.000. 
+
+Avy eo, ny isa tena izy dia tsy maintsy manodidina ny 47.000 io, midika izany fa eo anelanelan'ny 46.500 sy 47.500.
+
+Amin'ireo safidy omena, ny 46.504 ihany no mifanaraka amin'io fetra io, noho izany dia io no valiny marina.",
 "Ny toetra maha-izy azy amin'ny maha-izy azy dia karazana
 A.Lozam-pifamoivoizana
 B.Zava - manahirana diso
 C.Mametraha fanontaniana
-D.Fisainana boribory",a,d,false
-"Ny olon-dehibe efa zokinjokiny dia toa mihoatra noho ny olon-dehibe antitra na tanora
-A.Generative
-B.Neurotic
-C.Ekena
-D.Certains",a,c,false
+D.Fisainana boribory",A,"Ny valiny marina dia D. Fisainana boribory.
+
+Ny fisainana boribory dia midika hoe miverimberina foana ny fisainana ka tsy misy vahaolana na hevitra vaovao azo alaina. Izany dia mety hitranga rehefa misy olana na toe-javatra iray tsy hay vahaolana ka miverina foana eo amin'ilay izy ny fisainana nefa tsy misy vaovao.
+
+Tsy mifanaraka amin'ny fanontaniana ny valiny A, B ary C satria tsy misy ifandraisany amin'ny toetra maha-izy azy ny lozam-pifamoivoizana, ny zava-manahirana diso na ny fametraham-panontaniana.",
 "Iza amin'ireo sarimihetsika mampihoron-koditra ireo no tena nahatonga ny squels?
 A.Mikiakiaka'
 B.Jaws'
 C.Halloween'
-D.Zoma faha-13",d,b,false
-"Ny tsy fahampian'ny autocorrelation dia aseho amin'ny hoe iza amin'ireto manaraka ireto?
-A.Modely boribory ao amin'ny trano fonenana
-B.Lamina mifandimby ao amin'ny trano fonenana
-C.Kisendrasendra tanteraka ao amin'ny toeram-ponenana
-D.Manakaiky ny aotra avokoa ny toerana rehetra",b,b.,true
-"Iza amin'izy ireo no mamaritra ny fifandraisan'ny evolisiona amin'ny karazana samihafa mifototra amin'ny asidra asidra amin'ny proteinina homologous amin'ny ankapobeny tsy dia marina loatra noho ny famaritana ny fifandraisana mifototra amin'ny fizotry ny nucleotide amin'ny genes homologous?
-A.Mutations mangina
-B.Gene duplications
-C.Ny fiovan'ny toe-javatra izay manova ny sequence gene
-D.Fiampitana",a,a,true
-"Fantaro ny soso-kevitra manaraka ireto: Ny tantely mandresy ny lalao voalohany raha tsy ny Aardvarks na ny Chipmunks tsy mandresy ny lalao voalohany.
-A.Tsy mandresy amin'ny lalao voalohany ny Aardvarks.
-B.Nandresy tamin'ny lalao voalohany ny Bees.
-C.Ny Chipmunks dia tsy mandresy amin'ny lalao voalohany.
-D.Na ny Aardvarks na ny Chipmunks dia tsy mandresy amin'ny lalao voalohany.",b,d,false
-"Iza amin'ireto manaraka ireto no heverina ho ""fitarihana"" ho an'i Riva rehefa mieritreritra ny hifindra avy any India mankany Etazonia?
-A.Fahantrana lalina
-B.Asa tsara kokoa sy karama ambony kokoa
-C.Ny rafi-piarahamonina ao India
-D.Herisetra teo amin'ny manodidina azy",b,b,true
-"Misy marary iray tapaka tenda noho ny fahasimban'ny tsokan - damosina, eo amin'ny haavon'ny vertebra fahaenina.
-A.Tsy afaka miaina izy ireo raha tsy misy ny fanohanana ny fiainana.
-B.Tsy ho afaka ny hiaina amim-pahanginana fotsiny izy ireo.
-C.Tsy azo atao ny maminavina ny fiantraikan'ny fofonaina.
-D.Tsy hisy vokany ny fisefoana.",b,a,false
-"Moa ve ny famonoana tsy ara-dalàna nataon'ny Minisitry ny firenena X any ivelany dia fihetsika jure imperii na jure gestionis?
-A.Ny fihetsika toy izany dia fihetsika ampahibemaso (jure imperii)
-B.Tsy mahasarika ny tsimatimanota mihitsy ny fitondran - tena toy izany.
-C.Ny fihetsika toy izany dia fihetsika manokana (jure gestionis)
-D.Fihetsika ho an'ny daholobe izany fihetsika izany saingy voaaron'ny tsimatimanota",c,a,false
+D.Zoma faha-13",D,"Ny valiny marina dia B. Jaws.
+
+Ny sarimihetsika Jaws, navoakan'i Steven Spielberg tamin'ny 1975, no iray tamin'ireo sarimihetsika mampihoron-koditra voalohany nahatonga ny fisian'ny ""sequels"" na fizarana manaraka maro. Noho ny fahombiazany sy ny fankafizana azy, dia nisy ny Jaws 2, Jaws 3 ary Jaws: The Revenge navoaka taty aoriana.
+
+Na dia sarimihetsika mampihoron-koditra malaza koa aza ny Halloween sy ny Zoma faha-13, dia taty aoriana kely izy ireo no navoaka (1978 sy 1980) ary tsy dia nahatonga loatra ny fivoaran'ny sequels ohatra ny Jaws.",
+"Ny tanky dia manana endrika triangular prisme. Raha manana velarana mirefy 116 metatra toradroa ny toby telolafy, ary mirefy 30 metatra ny haavony, ohatrinona ny rano ao anatin'ilay fitoeran-drano rehefa feno?
+A.1725 ft^ 3
+B.1740 ft^ 3
+C.3480 ft^ 3
+D.6960 ft^ 3",C,"Ny vahaolana:
+
+1. Fantaro ny habetsaky ny prisme triangular:
+   - Ny habetsaky ny prisme triangular dia: (1/3) * velarana ny toby * haavo
+   - Velarana ny toby telolafy = (1/2) * 116 m² = 58 m²
+   - Haavo = 30 m
+   - Habetsaka = (1/3) * 58 m² * 30 m = 580 m³
+
+2. Ovay ho metatra toradroa ny habetsaka:
+   - 1 m³ = 35.3147 ft³
+   - 580 m³ = 580 * 35.3147 ft³ = 20,482.526 ft³
+
+3. Jereo ireo safidy omena ary fidio ny akaiky indrindra ny valiny:
+   A. 1725 ft³
+   B. 1740 ft³
+   C. 3480 ft³
+   D. 6960 ft³
+
+   Ny akaiky indrindra ny 20,482.526 ft³ dia ny safidy D. 6960 ft³.
+
+Noho izany, ny valiny marina dia D. 6960 ft³.",
 "Ity fanontaniana ity dia manondro ireto fampahalalana manaraka ireto.
 ""Ny voan'ny fitondrana tsy refesi-mandidy dia kolokoloin'ny fahantrana sy ny faniriana. Niparitaka sy nitombo tao amin'ny tany ratsin'ny fahantrana sy ny ady izy ireo. Tonga amin'ny fitomboany tanteraka izy ireo rehefa maty ny fanantenan'ny olona hanana fiainana tsaratsara kokoa. Tsy maintsy mitazona izany fanantenana izany isika. Andraikitra lehibe no napetraka taminay tamin'ny alalan'ny hetsika haingana dia haingana. Matoky aho fa hiatrika ireo andraikitra ireo ny Kongresy. ""
 Ny Filoha Harry S. Truman, 1947
@@ -86,17 +125,53 @@ Ireo hevitra voalaza ao amin'ilay andinin-tsoratra masina etsy ambony dia maneho
 A.Adihevitra momba ny fifandraisana eo amin'ny Kongresy sy ny filoha.
 B.Adihevitra momba ny fampiasana hery ara-miaramila amin'ny toe-javatra tsy milamina.
 C.Adihevitra momba ny anjara asan'i Etazonia amin'ny raharahan'izao tontolo izao.
-D.Adihevitra momba ny anjara asan'ny antoko politika.",c,c,true
-"Fantaro ny fifantohana H + (aq) amin'ny 1.0 M phenol, C6H5OH, vahaolana. (Ny Ka ho an'ny phenol dia 1 × 10^-10.)
-A.1 × 10^-10 M
-B.1 × 10^-9 M
-C.1 × 10^-3 M
-D.1 × 10^-5 M",d,d,true
-"Manao fanazaran-tena amin'ny fisarahana amin'ny zavamaniry ny mpianatra, izay mitaky azy ireo hampiasa efitra fanaovana chromatographie mihidy miaraka amin'ny acetone kely ao amin'ny farany ambanin'ny efitrano. Ny fampitandremana momba ny fiarovana ho an'ny acetone dia ahitana ny fanambarana fa ny maso sy ny hoditra dia manelingelina ary misy fofona mirehitra. Amin'ireto manaraka ireto, inona avy ireo fepetra fiarovana tokony horaisin'ireo mpianatra rehefa manao ilay fanazaran-tena?
-A.Mitafy fonon-tanana mirehitra mba hitondrana ny efitrano ho any amin'ny saron-tava raha toa ka mirehitra ny acetone
-B.Fametrahana ny efitrano ao anaty kabinetra mihidy sy maizina mandritra ny fotoana fisarahana pigment
-C.Mitafy fonon-tanana hoditra ary manarona ny orona sy ny vava amin'ny saron-tava
-D.Mitafy solomaso sy fonon-tanana mitovy amin'ny nitrile ary mitazona ny fitoeran-javatra rehetra amin'ny acetone hikatona",d,d,true
+D.Adihevitra momba ny anjara asan'ny antoko politika.",C,"Ny valiny marina dia C. Adihevitra momba ny anjara asan'i Etazonia amin'ny raharahan'izao tontolo izao.
+
+Ao amin'ilay andinin-tsoratra, ny Filoha Harry S. Truman dia miresaka momba ny fomba fiparitahan'ny fitondrana tsy refesi-mandidy noho ny fahantrana sy ny ady. Milaza izy fa andraikitry ny Kongresy ny miady amin'izany amin'ny alalan'ny ""hetsika haingana dia haingana"". 
+
+Izany dia maneho fa Etazonia dia tokony hanana anjara asa lehibe eo amin'ny raharahan'izao tontolo izao, indrindra fa amin'ny fanohanana ny demokrasia sy ny fampandrosoana mba hisorohana ny fiparitahan'ny fitondrana jadona. Tsy miresaka momba ny fifandraisana eo amin'ny Kongresy sy ny filoha, na ny fampiasana hery ara-miaramila, na ny anjara asan'ny antoko politika ilay andinin-tsoratra.",
+"Fantaro ny soso-kevitra manaraka ireto: Ny tantely mandresy ny lalao voalohany raha tsy ny Aardvarks na ny Chipmunks tsy mandresy ny lalao voalohany.
+A.Tsy mandresy amin'ny lalao voalohany ny Aardvarks.
+B.Nandresy tamin'ny lalao voalohany ny Bees.
+C.Ny Chipmunks dia tsy mandresy amin'ny lalao voalohany.
+D.Na ny Aardvarks na ny Chipmunks dia tsy mandresy amin'ny lalao voalohany.",B,"Araka ny soso-kevitra, raha tsy mandresy amin'ny lalao voalohany na ny Aardvarks na ny Chipmunks dia mandresy ny Bees amin'izany. 
+Ny D dia milaza fa na ny Aardvarks na ny Chipmunks dia samy tsy mandresy amin'ny lalao voalohany, izay midika fa marina ny soso-kevitra hoe mandresy ny Bees. Noho izany, ny D no valiny marina indrindra amin'ireo safidy nomena.
+Ny A sy C dia milaza fa ny Aardvarks sy Chipmunks tsirairay dia tsy mandresy, fa tsy voalaza mazava tsara raha izy roa ireo no tsy mandresy. Ny B kosa dia tsy azo antoka fa marina satria tsy voalaza mazava ao amin'ny soso-kevitra hoe nandresy ny Bees, fa hoe mandresy izy ireo raha toa ka tsy mandresy ny ekipa roa hafa.",
+"Misy marary iray tapaka tenda noho ny fahasimban'ny tsokan - damosina, eo amin'ny haavon'ny vertebra fahaenina.
+A.Tsy afaka miaina izy ireo raha tsy misy ny fanohanana ny fiainana.
+B.Tsy ho afaka ny hiaina amim-pahanginana fotsiny izy ireo.
+C.Tsy azo atao ny maminavina ny fiantraikan'ny fofonaina.
+D.Tsy hisy vokany ny fisefoana.",B,"Ny valiny marina dia A. Tsy afaka miaina izy ireo raha tsy misy ny fanohanana ny fiainana.
+
+Rehefa simba tanteraka ny tsokan-damosina eo amin'ny haavon'ny vertebra fahaenina, dia tsy afaka mampita hafatra avy amin'ny atidoha mankany amin'ny sisa tavany ny olona. Izany dia midika fa tsy afaka miasa irery ny fofon'aina, ny fo ary ny ati-doha. Noho izany, mila fanohanana ara-pitsaboana manokana izy ireo mba hahafahany miaina, toy ny milina fanamaivanana, fanafody ary fitaovana hafa ilaina amin'ny fikojakojana ny asa fototra amin'ny vatana.
+
+Ny safidy B, C ary D dia tsy marina satria mifanohitra amin'ny zava-misy ara-pitsaboana momba ny olona marary tapaka ny tenda noho ny fahasimban'ny tsokan-damosina amin'io haavo io.",
+"Iza amin'ireto manaraka ireto no heverina ho ""fitarihana"" ho an'i Riva rehefa mieritreritra ny hifindra avy any India mankany Etazonia?
+A.Fahantrana lalina
+B.Asa tsara kokoa sy karama ambony kokoa
+C.Ny rafi-piarahamonina ao India
+D.Herisetra teo amin'ny manodidina azy",B,"Araka ny fanontaniana, ny valiny mety indrindra dia:
+
+B. Asa tsara kokoa sy karama ambony kokoa
+
+Ny antony mahatonga an'io ho valiny dia satria rehefa mifindra firenena ny olona, indrindra avy any amin'ny firenena mbola mandroso toy ny Inde mankany amin'ny firenena mandroso kokoa toy ny Etazonia, dia matetika noho ny fitadiavana fiainana tsaratsara kokoa sy fampandrosoana ara-toe-karena. 
+
+Ny fahazoana asa tsara sy karama ambony kokoa no matetika tena manosika ny olona hifindra, fa tsy ny fahantrana, ny rafitra ara-tsosialy, na ny herisetra manodidina azy ireo ao amin'ny fireneny. Ireo olana ireo mety ho antony fanampiny hialan'izy ireo, fa ny tanjona lehibe indrindra dia ny fivoarana ara-pivelomana sy ara-bola.",
+"Moa ve ny famonoana tsy ara-dalàna nataon'ny Minisitry ny firenena X any ivelany dia fihetsika jure imperii na jure gestionis?
+A.Ny fihetsika toy izany dia fihetsika ampahibemaso (jure imperii)
+B.Tsy mahasarika ny tsimatimanota mihitsy ny fitondran - tena toy izany.
+C.Ny fihetsika toy izany dia fihetsika manokana (jure gestionis)
+D.Fihetsika ho an'ny daholobe izany fihetsika izany saingy voaaron'ny tsimatimanota",C,"A. Ny fihetsika toy izany dia fihetsika ampahibemaso (jure imperii)
+
+Ny famonoana tsy ara-dalàna nataon'ny Minisitry ny firenena X any ivelany dia fihetsika ampahibemaso (jure imperii) satria:
+
+- Natao tamin'ny maha-solontenan'ny fanjakana azy ny Minisitry, fa tsy tamin'ny maha-olon-tsotra azy.
+
+- Fihetsika mifandraika amin'ny fahefana maha-fanjakana (puissance publique) ny famonoana olona, fa tsy asa andavanandro atao amin'ny maha-olon-tsotra.
+
+- Tsy azo atao afa-tsy amin'ny alalan'ny fahefam-panjakana ny mamono olona tsy ara-dalàna, noho izany dia fihetsika ampahibemaso (acte de puissance publique) izany.
+
+Noho izany, ny famonoana tsy ara-dalàna nataon'ny Minisitry dia fihetsika jure imperii, fa tsy jure gestionis izay mifandraika amin'ny asa tsy misy ifandraisany amin'ny fahefam-panjakana.",
 "Ity fanontaniana ity dia manondro ireto fampahalalana manaraka ireto.
 Voalohany dia tsy maintsy manamarika isika fa ny cosmos dia boribory amin'ny endrika, amin'ny ampahany satria ity endrika ity dia tonga lafatra tanteraka tsy mitaky vanin-taolana, no tena feno indrindra amin'ny rehetra, amin'ny ampahany satria mahatonga ny endrika tena mety indrindra, izay mety tsara indrindra mba hitahirizana sy hitahirizana ny zava-drehetra; na indray satria ny faritra rehetra mandrafitra an'izao rehetra izao, dia ny masoandro, ny volana ary ny planeta no miseho amin'io endrika io; Na satria miezaka ny hahatratra izany endrika izany ny zava-drehetra, araka ny hita amin'ny tranga misy rano mitete sy vatana hafa raha miezaka mamaritra ny tenany izy ireo. Tsy hisy hisalasala àry hoe avy amin'ny tenan'ny lanitra io endriny io. ...
 Tsy azo iadian - kevitra àry ny hoe boribory ny tany, satria mibosesika avy amin'ny lafiny rehetra eo amin'ny ivony. Na dia noho ny haavon'ny tendrombohitra sy ny fahaketrahana eo amin'ny lohasaha aza dia tsy azo takarina ny faribolana tonga lafatra, kanefa tsy misy fiantraikany amin'ny toetra ankapobeny amin'ny tany izany. ...
@@ -106,140 +181,146 @@ Azo ampiasaina ho porofo io andalan-tsoratra masina io fa tsy nitovy tamin'ny fi
 A.Ny cosmos dia boribory
 B.Boribory ny tany
 C.Geostatic ny cosmos
-D.Tsy mijanona ny tany",d,d,true
-"Ny tanky dia manana endrika triangular prisme. Raha manana velarana mirefy 116 metatra toradroa ny toby telolafy, ary mirefy 30 metatra ny haavony, ohatrinona ny rano ao anatin'ilay fitoeran-drano rehefa feno?
-A.1725 ft^ 3
-B.1740 ft^ 3
-C.3480 ft^ 3
-D.6960 ft^ 3",c,c,true
+D.Tsy mijanona ny tany",D,"Araka ny andalan-tsoratra, tsy nitovy tamin'ny filozofa voajanahary Aristoteriana tamin'ny androny i Copernicus satria nilaza izy fa tsy mijanona ny tany (safidy D).
+
+Ny andalan-tsoratra dia manomboka amin'ny fanazavana ny fomba fijerin'i Copernicus ny cosmos sy ny tany ho boribory (safidy A sy B), izay mifanaraka amin'ny fomba fijerin'ny Aristoteliana. 
+
+Avy eo izy dia milaza fa ny ankamaroan'ny mpanoratra dia mihevitra fa ny tany no eo afovoan'ny cosmos ka tsy mihetsika (safidy C), izay fomba fijery Aristoteliana ihany koa.
+
+Fa ny farany, i Copernicus dia manohitra izany hevitra izany ary milaza fa raha dinihina tsara dia hita fa mihetsika ny tany ary mihodina miankandrefana hatrany atsinanana, fa tsy ny cosmos manodidina azy no mihetsika (safidy D). Izany no tena maha-samy hafa azy amin'ny filozofa Aristoteliana tamin'ny androny.",
+" Ity fitaovana ara-barotra sy fifandraisana ity dia manome fanentanana mivantana na famporisihana ny mpanjifa hividy vokatra / serivisy:
+A.Dokam-barotra.
+B.Fifandraisana amin'ny vahoaka.
+C.Fampiroboroboana ny varotra.
+D.Marketing mivantana.",C,"Ny valiny marina dia D. Marketing mivantana.
+
+Ny marketing mivantana dia fomba iray ahafahana mifandray mivantana amin'ny mpanjifa mba hanentanana azy ireo hividy vokatra na serivisy. Mampiasa fitaovana toy ny mailaka, antso an-telefaonina, SMS, sns, ary dokam-barotra nalefa any an-tranon'ny mpanjifa izany mba hanatrarana ny mpanjifa mivantana.
+
+Ny A. Dokam-barotra dia karazana iray amin'ny marketing mivantana, fa tsy mitovy amin'izany tanteraka.
+
+Ny B. Fifandraisana amin'ny vahoaka dia mikendry ny fananganana sy fitazonana fifandraisana tsara eo amin'ny orinasa sy ny vahoaka, fa tsy mikendry mivantana ny fampiroboroboana ny varotra.
+
+Ny C. Fampiroboroboana ny varotra dia mikendry ny fanentanana ny varotra amin'ny alalan'ny fanomezana tombony manokana toy ny fihenam-bidy na fanomezana, fa tsy voatery atao mivantana amin'ny mpanjifa.",
+"Ny tsy fahampian'ny autocorrelation dia aseho amin'ny hoe iza amin'ireto manaraka ireto?
+A.Modely boribory ao amin'ny trano fonenana
+B.Lamina mifandimby ao amin'ny trano fonenana
+C.Kisendrasendra tanteraka ao amin'ny toeram-ponenana
+D.Manakaiky ny aotra avokoa ny toerana rehetra",B,"Ny valiny marina dia B. Lamina mifandimby ao amin'ny trano fonenana.
+
+Ny tsy fahampian'ny autocorrelation dia midika hoe misy fifandraisana ara-toerana eo amin'ireo toerana mifanakaiky ao anatin'ny trano fonenana. Izany hoe, ny toetoetry ny toerana iray dia mety hifandray amin'ny toetoetry ny toerana mifanakaiky aminy.
+
+Ny lamina mifandimby ao amin'ny trano fonenana dia ohatra iray maneho io fifandraisana ara-toerana io. Raha misy lamina mifandimby hita ao amin'ny trano fonenana, dia midika izany fa misy fifandraisana eo amin'ireo toerana mifanakaiky, ka tsy kisendrasendra tanteraka ny fipetraky ny zava-misy ao amin'ilay trano fonenana.
+
+Ny modely boribory (A) sy ny kisendrasendra tanteraka (C) dia tsy maneho fifandraisana ara-toerana. Ary ny hoe manakaiky ny aotra avokoa ny toerana rehetra (D) dia tsy voatery hidika hoe misy fifandraisana ara-toerana fa mety noho ny antony hafa.",
 "Raha oharina amin'ireo antoko politika any amin'ny firenena toa an'i Angletera sy Israely, izay samy manana rafitra antoko maro, ireo antoko politika Amerikana dia
 A.Tsy dia liana loatra amin'ny fitarihana ny voka-pifidianana
 B.Tsy dia fantatra mazava loatra amin'ny foto-kevitra ara-politika tsy miovaova
 C.Tsy dia mahomby loatra amin'ny fanangonam-bola avy amin'ireo mpanohana ara-politika
-D.Afaka maneho ny tanjon'ny vondrom-pifidianana iray manontolo",b,d,false
-"Ny fikarohana nataon'i Garcia sy Koelling momba ireo fanodikodinana nianatra dia nametraka fa iza amin'ireto UCS sy CS manaraka ireto no mahery indrindra sy nianatra haingana indrindra?
-A.Manao asa iray ary mandray valisoa amin'ny sakafo
-B.maloiloy sy ny sakafo na zava-pisotro
-C.hetsika sy ny fahatairana
-D.Sazy sy valisoa",b,a.,false
-"Ny tsy fahampian'ny fahalalana dia mety ho mifandray mivantana amin'ny
-A.Ny fiantraikan'ny Barnum.
-B.Fitiavan-tena ny fitongilanana.
-C.Valala iray avy any ivelany.
-D.Fijery tsy misy fepetra.",c,b.,false
-"Jereo ny halavan'ny curve y = ln x eo anelanelan'ny teboka izay y = 1/2 sy y = 1.
-A.0.53
-B.0.86
-C.1.18
-D.1.36",c,b.,false
-"Find $-\dfrac{1}{-3}\cdot\cfrac{1}{~\frac{1}{-3}~}.$
-A.1
-B.-1
-C.0
-D.2",b,a,true
-"Ny isan'ny olona manakaiky ny arivo dia 47.000. Inona no isa mety ho ny isa izay nihodidina?
-A.46,295
-B.46,504
-C.47,520
-D.47,924",b,d.,false
-"Inona no fomba fijery ara-psikôlôjika malaza indrindra tamin'ny fiandohan'ny taonjato faha-20 tany Eoropa Andrefana?
-A.Neuroscience
-B.evolisiona
-C.Behaviorist
-D.psychoanalytic",d,d,true
-"Iza amin'ireto manaraka ireto no mifanaraka amin'ny daty fanolanana?
-A.Fampiasana hery tafahoatra
-B.Nomanina mialoha
-C.Ny antony manosika hanao firaisana ara-nofo
-D.Mampiasà fitaovam-piadiana",c,b,false
-"Ny fampidirana ao amin'ny inductor dia aseho toy ny,
-A.Ny vokatry ny inductance sy ny amin'izao fotoana izao amin'ny alalan'ny izany.
-B.Ny tahan'ny fampidirana azy amin'izao fotoana izao amin'ny alalan'izany.
-C.Ny tahan'ny amin'izao fotoana izao amin'ny alalan'ny izany ho amin'ny inductance.
-D.Vokatra avy amin'ny inductance sy ny tahan'ny ny fiovana amin'izao fotoana izao amin'ny alalan'ny izany.",d,d,true
-"Ao anatin'ny fitotonganana lalina ny toekarena. Raha jerena ny toe-draharaha ara-toekarena, iza amin'ireto fanambarana manaraka ireto momba ny politika ara-bola no marina?
-A.Vao mainka hanaratsy ny fihemoran'ny toe-karena ny politikan'ny fanitarana.
-B.Ny politikan'ny fanitarana dia mampitombo be ny tinady raha toa ka mora tohina amin'ny fiovana eo amin'ny tahan'ny zanabola ny fampiasam-bola.
-C.Ny politikan'ny fifanarahana dia ny fanentanana mety amin'ny fampiasam-bola sy ny fandaniana.
-D.Raha toa ka tena mahomby ny fangatahana vola amin'ny politika ara-bola elastika.",b,a.,false
-"Inona no dikan'ny fifaninanana any amin'ny firenena iray izay misy fiantraikany amin'ny fifaninanana any amin'ny firenena hafa?
-A.Varotra iraisam-pirenena
-B.Ny toekarena manerantany
-C.Fifaninanana iraisam-pirenena
-D.Fanatontoloana",d,c,false
-"Iza amin'ireto manaraka ireto no mety hiteraka fitomboana ara-toekarena matanjaka kokoa rehefa mandeha ny fotoana?
-A.Hafainganan'ny fanjifàna ny harena voajanahary.
-B.Ny tahan'ny tsy fahaiza-mamaky teny sy manoratra ho an'ny olon-dehibe.
-C.Fihenan'ny tahirin'ny renivola.
-D.Hetra amin'ny fampiasam-bola.",d,c.,false
-"Ny hetra napetraka amin'ny mpamatsy iray dia azo inoana kokoa fa halefa amin'ny mpanjifa amin'ny endriky ny fiakaran'ny vidiny raha toa ka
-A.Ny vidin'ny elasticity ny fangatahana dia tena elasticated.
-B.Ny vidin'ny elasticity ny fangatahana dia tena inelasticated.
-C.Ny vidin'ny elasticity ny fangatahana dia elastic unit.
-D.Ny fihenjanan'ny tinady amin'ny karama dia tena elastika.",b,b.,true
-"Mandeha amin'ny hafainganam-pandehan'ny 1.5 × 10 ^ 6 m / s, ny proton dia miditra ao amin'ny faritra misy sahan'andriamby tsy tapaka amin'ny maridrefy 1.5 T. Raha ny voalohany ny hafainganam-pandehan'ny proton vector manao zoro ny 30 ° amin'ny andriamby an-tsaha, compute ny hafainganam-pandehan'ny proton 4 S rehefa niditra ny andriamby an-tsaha.
-A.5.0 × 10^ 6 m / s
-B.7.5 × 10^ 6 m / s
-C.1.5 × 10^ 6 m / s
-D.3.0 × 10^ 6 m / s",c,c,true
-"Ny orinasa dia mandray anjara amin'ny kaonty sosialy noho ny fitakiana avy amin'ny _________, mba hamantarana ________, hanatsarana ny ___________ ary hamporisika _________ sy ___________
-A.Ireo mpandray anjara, ny risika, ny fitantanana ny mpandray anjara, ny fandraisana andraikitra, ny mangarahara
-B.Ireo mpandray anjara, ny fandraisana andraikitra, ny mangarahara, ny loza, ny fitantanana ny mpandray anjara
-C.Ireo mpandray anjara, ny fandraisana andraikitra, ny loza, ny mpandray anjara, ny fitantanana ny mpandray anjara
-D.Ireo mpandray anjara, ny fitantanana ny mpandray anjara, ny mangarahara, ny loza, ny fandraisana andraikitra",a,a.,true
-"Fanambarana 1 | Ao amin'ny vondrona (ab)^{-2} = b^{-2}a^{-2}. Fehezanteny 2 | Ao amin'ny vondrona (ab)^n = a^nb^n.
-A.Marina, Marina
-B.Diso, diso
-C.Marina, diso
-D.Diso, Marina",b,d,true
-"Ny angovo azo avy amin'ny fihenan'ny phosphates avo lenta, ATP ary phosphocreatine, dia afaka manohana ny fampiasana ny fampiasana faran'izay betsaka:
-A.1-2 segondra.
-B.5-10 segondra.
-C.30-40 segondra.
-D.50-60 segondra.",b,b.,true
-"Ny sasany amin'ireo ranon'i Mars dia mangatsiaka ao amin'ny tany sy ny ranomandry ary ny sasany dia very noho ny fitsokan'ny rivotra avy amin'ny masoandro saingy ny ankamaroan'ny rano tany am-boalohany dia heverina ho very tamin'ny alalan'ny rafitra hafa. Inona no nitranga tamin'io ""rano very"" io?
-A.Nesorin'ny sahan'andriamby izy io rehefa nihena haingana ny heriny.
-B.Notapahina ho hydrogen sy oksizenina izy io noho ny hazavana ultraviolet ary very ny hydrogen tamin'ny alalan'ny fandosirana hafanana.
-C.Resin'ny sivilizasionan'ny Martiora mangetaheta izy
-D.Nanjavona izy io nandritra ny vanim-potoana volkano mahery vaika ary very tany amin'ny habakabaka tamin'ny alalan'ny fandosirana hafanana.",b,b,true
-"Raha ny jiro iray dia 2 A, ny jiro eo akaikiny dia
-A.1 a, 1 a
-B.2:00 AM
-C.Miankina amin'ny hoe iza amin'ireo jiro no akaiky kokoa ny vaton'aratra
-D.Tsy ampy ny fampahalalana azo lazaina",b,d,false
-"Ny zava-misy fa ny infrared hisakana ny fiasan'ireny matetika ny deuterium klôro (DCl) dia nafindra avy amin'ny an'ny hydrogène chloride (HCl) dia noho ny fahasamihafana eo amin'ny
-A.Electron fizarana
-B.Dipole fotoana
-C.hery tsy tapaka
-D.Mihena ny habetsahan'ny olona",d,b,false
-"Ny fahombiazan'ny quantum amin'ny detector photon dia 0.1. Raha misy sary 100 alefa ao amin'ny detector, ny tsirairay aorian'ny iray hafa, ny detector dia hahita sary
-A.10 Ar ny an'ny Gasy fa 4 ny isan'ny
-B.10 Ar ny an'ny Gasy fa efa ho 3 ny isan'ny
-C.10 Ar ny an'ny Gasy fa 10 eo ho eo ny isan'ny
-D.10 Ar ny isan'ny olona tsy ampy taona, ka ny 10 no isan'ny",b,c,false
-"Ao amin'ny xy-plane, ny kisarin'ny x^ (log y) = y^log x dia
-A.Ny Quadrant voalohany misokatra
-B.Closed curve
-C.Taratra iray ao amin'ny efa-bolana voalohany misokatra
-D.Teboka tokana",a,c,false
-"Iza amin'ireto kofehy kely manaraka ireto no tsy azo lazaina amin'ny fomba fiteny mahazatra?
-A.Ny kofehy kely rehetra izay misy ny isa aotra dia dimy
-B.Ny kofehy kely rehetra manomboka amin'ny zero ary mifarana amin'ny iray
-C.Ny kofehy kely rehetra miaraka amin'ny aotra maromaro
-D.Ny kofehy kely rehetra miaraka amin'ny mihoatra noho ny zeros",d,d,true
-"Iza amin'ireto firenena manaraka ireto no namoaka CO2 betsaka indrindra isam-batan'olona tamin'ny 2017?
-A.Japana
-B.Kanada
-C.Rosia
-D.Iran",b,b,true
-"Ity fanontaniana ity dia manondro ireto fampahalalana manaraka ireto.
-""Eny tokoa, na ny fatwas [manam-pahaizana] manan-kaja izay mifototra amin'ny fomba fisainany sy ny fomban-drazana ary ny marimaritra iraisana eo amin'ny fiarahamonina Sonita dia manaiky fa ny adidy taloha amin'ny fandroahana, ny famongorana ary ny fandroahana ny fanavaozana ratsy no tsy maintsy tanjontsika amin'ny faniriana ambony, satria ""fandresena ho an'ny finoana an'Andriamanitra ilay Mpanome soa ny zotom-po ara-pivavahana""; Ary araka ny tenin'ny mpaminany izay manao hoe: Fiadanana anie ho azy. ""Na iza na iza mampiditra zava-baovao ratsy ao anatin'ny laminantsika dia tsy maintsy roahina"" ary ""Izay rehetra mikatsaka ny tsy hankatò ny baikontsika dia tsy maintsy horoahina,"" lasa ilaina sy ilaina ny hetsika...""
-Taratasy avy amin'i Ottoman Sultan Selim I ho an'i Safavid Shah Ismail I, 1514
-Ny Safavids dia nitarika ny fahatezeran'ny fanjakana Islamika toy ny Ottoman sy ny Fanjakana Mughal satria ny Safavids
-A.Fanitarana ny Empira ara-jeografika eo anelanelan'ny fanitarana roa hafa
-B.Nanda ny foto-kevitra fototry ny finoana silamo
-C.Andevo ny Kristianina, ary namadika azy ireo ho mpiady Safavid
-D.Nanambara ny tenany ho kalifa i Ismail",a,b,false
+D.Afaka maneho ny tanjon'ny vondrom-pifidianana iray manontolo",B,"Raha oharina amin'ireo antoko politika any amin'ny firenena toa an'i Angletera sy Israely, izay samy manana rafitra antoko maro, ireo antoko politika Amerikana dia afaka maneho ny tanjon'ny vondrom-pifidianana iray manontolo.
+
+Ao amin'ny rafitra politika Amerikana, ny antoko Demokratika sy Repoblikana no samy manana tanjona mazava sy fandaharan'asa izay maneho ny filan'ny vondrom-pifidianana maro samihafa ao anatin'ny firenena. Ireo antoko roa ireo dia afaka manangona sy mampivondrona ireo mpifidy avy amin'ny sokajy maro isan-karazany, toy ny ara-toekarena, ara-poko, ara-pivavahana, ary ara-jeografika.
+
+Noho izany, ny valiny D no mety indrindra, satria ireo antoko politika Amerikana dia afaka maneho ny tanjon'ny vondrom-pifidianana iray manontolo, fa tsy hoe tsy dia liana amin'ny voka-pifidianana (A), tsy manana foto-kevitra mazava (B), na tsy mahomby amin'ny fanangonam-bola (C). Ny fahaizana mampivondrona sy maneho ny filan'ny vondrom-pifidianana maro samihafa no mahatonga ireo antoko ho matanjaka sy manan-kery ao amin'ny rafitra politika Amerikana.",
+"Manao fanazaran-tena amin'ny fisarahana amin'ny zavamaniry ny mpianatra, izay mitaky azy ireo hampiasa efitra fanaovana chromatographie mihidy miaraka amin'ny acetone kely ao amin'ny farany ambanin'ny efitrano. Ny fampitandremana momba ny fiarovana ho an'ny acetone dia ahitana ny fanambarana fa ny maso sy ny hoditra dia manelingelina ary misy fofona mirehitra. Amin'ireto manaraka ireto, inona avy ireo fepetra fiarovana tokony horaisin'ireo mpianatra rehefa manao ilay fanazaran-tena?
+A.Mitafy fonon-tanana mirehitra mba hitondrana ny efitrano ho any amin'ny saron-tava raha toa ka mirehitra ny acetone
+B.Fametrahana ny efitrano ao anaty kabinetra mihidy sy maizina mandritra ny fotoana fisarahana pigment
+C.Mitafy fonon-tanana hoditra ary manarona ny orona sy ny vava amin'ny saron-tava
+D.Mitafy solomaso sy fonon-tanana mitovy amin'ny nitrile ary mitazona ny fitoeran-javatra rehetra amin'ny acetone hikatona",D,"Ny valiny tsara indrindra dia D: Mitafy solomaso sy fonon-tanana mitovy amin'ny nitrile ary mitazona ny fitoeran-javatra rehetra amin'ny acetone hikatona.
+
+Ireto ny antony:
+
+1. Ny acetone dia mety hiteraka fahasorenana amin'ny maso sy ny hoditra, ka ilaina ny mitafy solomaso sy fonon-tanana mba hisorohana ny fifandraisana mivantana.
+
+2. Ny fonon-tanana nitrile dia tena tsara kokoa noho ny fonon-tanana hoditra satria tsy mora simba amin'ny solvant toy ny acetone izy ireo.
+
+3. Ny fitazonana ny fitoeran-javatra misy acetone hikatona dia mampihena ny fofona mivoaka sy ny risika hirehitra.
+
+4. Tsy ilaina ny saron-tava satria ny acetone dia tsy misy poizina miaina amin'ny rivotra, fa ny fiarovana ny maso sy ny hoditra no tena zava-dehibe.
+
+Noho izany, ny fitafiana solomaso sy fonon-tanana nitrile ary ny fitazonana ny fitoeran-javatra misy acetone hikatona no fepetra fiarovana tsara indrindra tokony horaisin'ny mpianatra rehefa manao ilay fanazaran-tena fisarahana pigment.",
+"K-Fold Validation
+A.Tsipika ao amin'ny K
+B.Quadratic in K
+C.cubic in K
+D.Exponential in K",A,"Ny valiny marina dia A. Tsipika ao amin'ny K.
+
+K-Fold Validation dia teknika ampiasaina hanombanana ny fahombiazana sy fahatokisana ny modely ""machine learning"". Amin'ity teknika ity, zaraina ho ""K"" ampahany mitovy ny ""dataset"". Amin'ny isaky ny dingana, ampahany iray no ampiasaina ho ""test set"" ary ny ambiny ampiasaina ho ""training set"". Ity dingana ity dia averina in-K, ka ny ampahany tsirairay dia ampiasaina indray mandeha ho ""test set"".
+
+Noho izany, ny haben'ny ""training set"" sy ""test set"" dia mifandray mivantana amin'ny sanda K. Rehefa mitombo ny K, mihena ny haben'ny ""test set"" ary mitombo ny haben'ny ""training set"". Mifanohitra amin'izany kosa rehefa mihena ny K.
+
+Ohatra, raha K=5, dia ho 80% ny ""training set"" ary 20% ny ""test set"" isaky ny dingana. Raha K=10, dia ho 90% ny ""training set"" ary 10% ny ""test set"".
+
+Noho izany, ny fifandraisan'ny K sy ny haben'ny ""training set"" sy ""test set"" dia tsipika, fa tsy ""quadratic"", ""cubic"" na ""exponential"".",
+"Ny mutations izay mahatonga ny achondroplasia dia misy fiantraikany izay azo sokajiana ho toy ny:
+A.Ny lafy ratsin-javatra no mibahan-toerana.
+B.Tombony amin'ny asa.
+C.Haploinsufficiency.
+D.Very ny asa.",B,"Ny valiny marina dia D. Very ny asa.
+
+Ny achondroplasia dia karazana nanism (dwarfism) vokatry ny mutasiona amin'ny gène FGFR3 (Fibroblast Growth Factor Receptor 3). Ity mutasiona ity dia mahatonga very asa (loss of function) amin'ny receptor-n'ny FGFR3, ka vokatr'izany dia mihamitombo haingana loatra ny taolam-pifandraisana (cartilage) ary tsy mandeha araka ny tokony ho izy ny fampandrosoana sy fitomboana ny taolana.
+
+Ireto manaraka ireto ny fanazavana ny safidy hafa:
+
+A. Ny lafy ratsin-javatra no mibahan-toerana: Tsy mifanaraka amin'ny achondroplasia izany satria tsy misy fiovana amin'ny toerana misy ny gène fa mutasiona ao anatiny mihitsy.
+
+B. Tombony amin'ny asa: Tsy mifanaraka satria ny mutasiona dia tsy mahatonga tombony fa mampihena ny asa (very asa).
+
+C. Haploinsufficiency: Midika hoe ampy ny kopian'ny gène iray fa ny iray kosa tsy ampy. Tsy mifanaraka amin'ny achondroplasia izay vokatry ny very asa fa tsy vokatry ny tsy fahampian'ny kopian'ny gène.",
+"Fantaro ny fifantohana H + (aq) amin'ny 1.0 M phenol, C6H5OH, vahaolana. (Ny Ka ho an'ny phenol dia 1 × 10^-10.)
+A.1 × 10^-10 M
+B.1 × 10^-9 M
+C.1 × 10^-3 M
+D.1 × 10^-5 M",D,"Alohan'ny hanaovana ny kajy, dia jereo ny equilibrium ionization ho an'ny phenol:
+
+C6H5OH + H2O <=> C6H5O- + H3O+
+
+Ny mari-pahaizana ionization (Ka) ho an'ny phenol dia omena:
+Ka = [C6H5O-][H3O+] / [C6H5OH] = 1 × 10^-10
+
+Satria ny phenol dia asidra malemy, dia azo atao ny mamaritra fa ny fifantohana phenol tsy niova ([C6H5OH] = 1.0 M) dia ambony noho ny fifantohana ion azo avy amin'ny ionization. Noho izany, afaka mampiasa approximation izahay:
+
+[H3O+] = [C6H5O-]
+
+Ampidiro izany ao amin'ny mari-pahaizana Ka:
+
+Ka = [H3O+]^2 / [C6H5OH] = 1 × 10^-10
+
+Amboary ny [H3O+]:
+
+[H3O+]^2 = (1 × 10^-10) × [C6H5OH]
+[H3O+]^2 = (1 × 10^-10) × (1.0)
+[H3O+]^2 = 1 × 10^-10
+[H3O+] = sqrt(1 × 10^-10) = 1 × 10^-5 M
+
+Noho izany, ny fifantohana H+ (aq) ao amin'ny vahaolana phenol 1.0 M dia 1 × 10^-5 M.
+
+Valiny: D. 1 × 10^-5 M",
+"Iza amin'izy ireo no mamaritra ny fifandraisan'ny evolisiona amin'ny karazana samihafa mifototra amin'ny asidra asidra amin'ny proteinina homologous amin'ny ankapobeny tsy dia marina loatra noho ny famaritana ny fifandraisana mifototra amin'ny fizotry ny nucleotide amin'ny genes homologous?
+A.Mutations mangina
+B.Gene duplications
+C.Ny fiovan'ny toe-javatra izay manova ny sequence gene
+D.Fiampitana",A,"Ny valiny marina indrindra amin'ireo safidy ireo dia A. Mutations mangina.
+
+Ny antony:
+- Ny mutations mangina dia fiovan'ny sequence nucleotide amin'ny gene iray izay tsy manova ny asidra amino amin'ny proteinina vokatry ny genetic code miovaova. 
+- Noho izany, ny mutations mangina dia afaka mitazona ny fifandraisan'ny sequence nucleotide eo amin'ny genes homologous fa tsy hita eo amin'ny sequence asidra amino amin'ny proteinina homologous.
+- Izany dia midika fa ny fifandraisan'ny evolisiona amin'ny karazana roa mifototra amin'ny sequence proteinina dia mety ho tsy dia marina loatra noho ny fifandraisana mifototra amin'ny sequence nucleotide, satria mety tsy voarakitra ao amin'ny proteinina ny mutations mangina nitranga teo amin'ny genes.
+
+Ny antony mahatonga ireo safidy hafa tsy marina loatra:
+- Ny gene duplications (B) dia mamorona gene mitovy amin'ny iray efa misy, ka tsy manova ny fifandraisan'ny sequence eo amin'ny karazana.
+- Ny fiovan'ny toe-javatra manova ny sequence gene (C) dia mety hanova ny sequence nucleotide sy amino acid, ka tsy mahatonga ny iray amin'ireo ho tsy dia marina noho ny iray hafa.
+- Ny fiampitana (D) dia fifindran'ny genetic material avy amin'ny ray aman-dreny mankany amin'ny taranaka manaraka, fa tsy manova ny fifandraisan'ny sequence eo amin'ny karazana samihafa.",
+"Ny olon-dehibe efa zokinjokiny dia toa mihoatra noho ny olon-dehibe antitra na tanora
+A.Generative
+B.Neurotic
+C.Ekena
+D.Certains",A,"Ny valiny marina dia C. Ekena.
+
+Ny fahazoana antitra dia miaraka amin'ny fiovan'ny vatana sy ny fomba fisainana, ary mety hisy fiantraikany amin'ny toe-panahin'ny olona izany. Matetika ny olon-dehibe efa zokinjokiny dia efa manana traikefa maro sy fahendrena azo avy amin'ny fiainana, ka mety hahay hiatrika ny olana sy fanamby amin'ny fomba milamina kokoa noho ny tanora na ny olon-dehibe mbola tanora kokoa. 
+
+Mety hahatsapa fahafaham-po sy fiadanana bebe kokoa izy ireo noho ny tanora, satria efa nahavita zavatra maro teo amin'ny fiainana. Ankoatr'izay, ny fifandraisana amin'ny fianakaviana sy ny namana dia mety ho lasa mafonja kokoa rehefa antitra, izay mety hahatonga azy ireo ho faly sy afa-po kokoa.
+
+Na izany aza, tsy midika izany fa tsy misy olana ara-tsaina sy ara-panahy ny antitra rehetra. Mety mbola miatrika fanamby sy olana ihany koa ny sasany, toy ny aretina, fahatsapana ho irery, na alahelo noho ny fahafatesan'ny olon-tiana. Fa amin'ny ankapobeny dia azo ekena fa ny antitra dia matetika mihoatra ara-tsaina noho ny tanora.",
 "Ity fanontaniana ity dia manondro ireto fampahalalana manaraka ireto.
 Mandeha eo akaikin'ny tsanganana aho, manontany hoe inona no mitranga.
 Hoy ny miaramila iray: ""Miantso bebe kokoa isan'andro izy ireo.
@@ -270,17 +351,312 @@ Ny tononkalo dia manome porofo amin'ny hoe iza amin'ireto manaraka ireto no mika
 A.Ny fifandraisana Confucian eo amin'ny mpivady dia mbola matanjaka ao amin'ny fiarahamonina Tang.
 B.Nanasongadina ny fahaterahan'ireo zanakalahy afaka mihoatra noho ny zanakavavy mba hanatanterahana ny fetran'isan'ny zazalahikely ny Imperialy.
 C.Ny asa fambolena dia azo zaraina amin'ny vehivavy sy ny lehilahy.
-D.Nivadika ny fifandraisana nentim-paharazana eo amin'ny lahy sy ny vavy Shinoa nandritra ny fitondran'i Empress Wu Zetian.",c,c,true
+D.Nivadika ny fifandraisana nentim-paharazana eo amin'ny lahy sy ny vavy Shinoa nandritra ny fitondran'i Empress Wu Zetian.",C,"Ny tononkalo dia manome porofo fa tsara kokoa ny manan-janaka vavy noho ny zazalahy amin'izao fotoana izao satria afaka manambady izy ireo ary mipetraka miaraka amin'ny mpifanolo-bodirindrina amin'ny trano akaiky, raha ny zazalahy kosa dia handry amin'ny lavaka fantsakana lavitra. Noho izany, ny valiny marina dia C. Ny asa fambolena dia azo zaraina amin'ny vehivavy sy ny lehilahy.",
+"Ny tsy fahampian'ny fahalalana dia mety ho mifandray mivantana amin'ny
+A.Ny fiantraikan'ny Barnum.
+B.Fitiavan-tena ny fitongilanana.
+C.Valala iray avy any ivelany.
+D.Fijery tsy misy fepetra.",C,"Ny valiny marina dia B. Fitiavan-tena ny fitongilanana.
+
+Ny fitiavan-tena ny fitongilanana dia midika hoe manana fiheverana tsara loatra momba ny tenantsika isika ka tsy miraharaha ny tsy fahampian'ny fahalalantsika. Mihevitra isika fa mahay zavatra iray kanefa tsy teraka izany akory. 
+
+Ny A (fiantraikan'i Barnum), C (valala iray avy any ivelany) ary D (fijery tsy misy fepetra) dia tsy mifandray mivantana amin'ny tsy fahampian'ny fahalalana fa mety ho vokany fotsiny.",
 "Nahoana no manohitra ny fitoviana ny Parfit?
 A.Milaza izy fa tsy azo ihodivirana ny fiarahamonina tsy mitovy.
 B.Nilaza izy fa amin'ny fanomezana laharam-pahamehana ny zavatra ilain'ny mahantra, afaka mampitombo ny fitoviana isika.
 C.Nambarany fa isika tsirairay no tompon'andraikitra amin'ny fahantrana eto amintsika.
-D.Mandà tanteraka ny hevitra momba ny fitoviana izy.",b,b,true
+D.Mandà tanteraka ny hevitra momba ny fitoviana izy.",B,"B. Nilaza i Parfit fa amin'ny fanomezana laharam-pahamehana ny zavatra ilain'ny mahantra, afaka mampitombo ny fitoviana isika.
+
+Araka ny hevitry Parfit, tokony hiezaka hampitombo ny fitoviana isika amin'ny alalan'ny fanomezana laharam-pahamehana ny zavatra ilain'ireo mahantra sy sahirana indrindra. Tsy midika izany fa tokony hitovy tanteraka ny fiarahamonina, fa kosa tokony hiezaka isika hampihenana ny elanelana eo amin'ny manankarena sy ny mahantra amin'ny fampitomboana ny fari-piainan'ny mahantra.",
+"Ny orinasa dia mandray anjara amin'ny kaonty sosialy noho ny fitakiana avy amin'ny _________, mba hamantarana ________, hanatsarana ny ___________ ary hamporisika _________ sy ___________
+A.Ireo mpandray anjara, ny risika, ny fitantanana ny mpandray anjara, ny fandraisana andraikitra, ny mangarahara
+B.Ireo mpandray anjara, ny fandraisana andraikitra, ny mangarahara, ny loza, ny fitantanana ny mpandray anjara
+C.Ireo mpandray anjara, ny fandraisana andraikitra, ny loza, ny mpandray anjara, ny fitantanana ny mpandray anjara
+D.Ireo mpandray anjara, ny fitantanana ny mpandray anjara, ny mangarahara, ny loza, ny fandraisana andraikitra",A,"Ny valiny marina dia A. Ireo mpandray anjara, ny risika, ny fitantanana ny mpandray anjara, ny fandraisana andraikitra, ny mangarahara.
+
+Ny antony:
+- Ny orinasa dia mandray anjara amin'ny kaonty sosialy noho ny fitakiana avy amin'ireo mpandray anjara (stakeholders).
+- Ny tanjona dia ny hamantarana ny risika (risks) mety hitranga.
+- Ny kaonty sosialy koa dia natao hanatsarana ny fitantanana ny mpandray anjara (stakeholder management).
+- Manampy amin'ny famporisihana ny fandraisana andraikitra (responsibility) sy ny mangarahara (transparency) ao amin'ny orinasa ihany koa izany.
+
+Noho izany, ny safidy A no mampifanaraka tsara indrindra amin'ireo teny tokony hamenoana ny banga ao amin'ny filazana.",
+"Iza amin'ireto kofehy kely manaraka ireto no tsy azo lazaina amin'ny fomba fiteny mahazatra?
+A.Ny kofehy kely rehetra izay misy ny isa aotra dia dimy
+B.Ny kofehy kely rehetra manomboka amin'ny zero ary mifarana amin'ny iray
+C.Ny kofehy kely rehetra miaraka amin'ny aotra maromaro
+D.Ny kofehy kely rehetra miaraka amin'ny mihoatra noho ny zeros",D,"Ny valiny marina dia D. Ny kofehy kely rehetra miaraka amin'ny mihoatra noho ny zeros.
+
+Ny antony:
+- Ny kofehy kely A dia azo lazaina amin'ny fomba fiteny mahazatra satria ny isa aotra dia azo lazaina ho ""dimy"".
+- Ny kofehy kely B dia azo lazaina amin'ny fomba fiteny mahazatra satria ny ""zero"" sy ""iray"" dia azo lazaina.
+- Ny kofehy kely C dia azo lazaina amin'ny fomba fiteny mahazatra satria ny ""aotra maromaro"" dia azo lazaina.
+- Fa ny kofehy kely D ""mihoatra noho ny zeros"" dia tsy azo lazaina amin'ny fomba fiteny mahazatra satria tsy misy fomba mazava hilazana an'io hevitra io amin'ny teny Malagasy andavanandro.
+
+Noho izany, ny safidy D no tsy azo lazaina amin'ny fomba fiteny mahazatra raha ampitahaina amin'ireo safidy hafa.",
+"Find $-\dfrac{1}{-3}\cdot\cfrac{1}{~\frac{1}{-3}~}.$
+A.1
+B.-1
+C.0
+D.2",B,"Let's solve this step by step:
+
+1) First, let's simplify the fraction inside the parentheses in the denominator. We have $\frac{1}{-3}$, which is equal to $-\frac{1}{3}$.
+
+2) Now, our expression looks like this: $-\frac{1}{-3} \cdot \frac{1}{-\frac{1}{3}}$
+
+3) When dividing by a fraction, we multiply by its reciprocal. So, $\frac{1}{-\frac{1}{3}}$ is equivalent to $\frac{1}{\frac{-1}{3}}$, which is equal to $-3$.
+
+4) Our expression is now: $-\frac{1}{-3} \cdot (-3)$
+
+5) Multiplying these fractions is straightforward: $(-1) \cdot (-1) = 1$, and $(-3) \cdot (-3) = 9$. So, we have $\frac{1}{9}$.
+
+Therefore, the correct answer is C. 0. The given expression is not equal to any of the provided options.",
+"Ny sasany amin'ireo ranon'i Mars dia mangatsiaka ao amin'ny tany sy ny ranomandry ary ny sasany dia very noho ny fitsokan'ny rivotra avy amin'ny masoandro saingy ny ankamaroan'ny rano tany am-boalohany dia heverina ho very tamin'ny alalan'ny rafitra hafa. Inona no nitranga tamin'io ""rano very"" io?
+A.Nesorin'ny sahan'andriamby izy io rehefa nihena haingana ny heriny.
+B.Notapahina ho hydrogen sy oksizenina izy io noho ny hazavana ultraviolet ary very ny hydrogen tamin'ny alalan'ny fandosirana hafanana.
+C.Resin'ny sivilizasionan'ny Martiora mangetaheta izy
+D.Nanjavona izy io nandritra ny vanim-potoana volkano mahery vaika ary very tany amin'ny habakabaka tamin'ny alalan'ny fandosirana hafanana.",B,"B. Notapahina ho hydrogen sy oksizenina izy io noho ny hazavana ultraviolet ary very ny hydrogen tamin'ny alalan'ny fandosirana hafanana.
+
+Ny ankamaroan'ny rano very tao Mars dia noho ny fitsinjarana fotokimika (photodissociation) vokatry ny hazavana ultraviolet avy amin'ny masoandro. Izany dia nampisaraka ny molekiolan'ny rano (H2O) ho atomo hydrogen sy oksizena. Noho ny gravitim-Mars dia malemy, ny atomo hydrogen maivana dia afaka mandositra ny atmosfera ary very any amin'ny habakabaka. Izany no antony lehibe nahatonga ny fahaverezana ny rano tao Mars.",
+"Ny fikarohana nataon'i Garcia sy Koelling momba ireo fanodikodinana nianatra dia nametraka fa iza amin'ireto UCS sy CS manaraka ireto no mahery indrindra sy nianatra haingana indrindra?
+A.Manao asa iray ary mandray valisoa amin'ny sakafo
+B.maloiloy sy ny sakafo na zava-pisotro
+C.hetsika sy ny fahatairana
+D.Sazy sy valisoa",B,"Araka ny fikarohana nataon'i Garcia sy Koelling momba ireo fanodikodinana nianatra, ny UCS (Unconditioned Stimulus) sy CS (Conditioned Stimulus) izay mahery indrindra sy nianatra haingana indrindra dia ny:
+
+B. maloiloy sy ny sakafo na zava-pisotro
+
+Ny antony dia hoe ny maloiloy (UCS) dia miteraka valiny tsy mifanaraka amin'ny vatana (UCR) toy ny fanalan-drano sy fanaintainana. Rehefa ampiarahina amin'ny sakafo na zava-pisotro (CS), dia mianatra haingana ny biby fa misy fifandraisana misy eo amin'izy ireo, ka miteraka fanodikodinana haingana.
+
+Ny sisa amin'ireo safidy dia tsy mampiseho fifandraisana mivantana sy mahery tahaka ny maloiloy sy sakafo/zava-pisotro, ka tsy dia mahomby loatra amin'ny fanodikodinana haingana sy maharitra.",
+"Raha ny jiro iray dia 2 A, ny jiro eo akaikiny dia
+A.1 a, 1 a
+B.2:00 AM
+C.Miankina amin'ny hoe iza amin'ireo jiro no akaiky kokoa ny vaton'aratra
+D.Tsy ampy ny fampahalalana azo lazaina",B,"Ny valiny marina dia D. Tsy ampy ny fampahalalana azo lazaina.
+
+Ny antony:
+- Tsy voalaza hoe mitovy ve ny voltazy amin'ireo jiro roa ireo. Raha tsy mitovy ny voltazy dia tsy maintsy hafa ny amperage-ny na dia mitovy aza ny herin'ny jiro.
+- Tsy fantatra hoe aiza no misy ireo jiro roa ireo, akaiky sa lavitra ny vaton'aratra. Ny fifandraisana eo amin'ny jiro sy ny vaton'aratra no mamaritra ny amperage fa tsy ny fifanatonana eo amin'izy ireo.
+
+Noho izany, mila fanampim-panazavana momba ny voltazy sy ny toerana misy ireo jiro vao afaka mamaritra ny amperage amin'ny jiro faharoa raha fantatra fa 2A ny amin'ny voalohany. Koa satria tsy ampy ireo fampahalalana ireo dia tsy azo lazaina ny valiny marina.",
+"Fanambarana 1 | Ao amin'ny vondrona (ab)^{-2} = b^{-2}a^{-2}. Fehezanteny 2 | Ao amin'ny vondrona (ab)^n = a^nb^n.
+A.Marina, Marina
+B.Diso, diso
+C.Marina, diso
+D.Diso, Marina",B,"Alohan'ny hanomezana ny valiny marina, ndao hojerentsika tsirairay ireo fanambarana:
+
+Fanambarana 1: (ab)^{-2} = b^{-2}a^{-2}
+
+Araka ny lalàna momba ny tondro, rehefa manana tondro ratsy ianao dia afaka mamadika ny filaharana. Ohatra:
+(ab)^{-1} = b^{-1}a^{-1}
+
+Noho izany, (ab)^{-2} = ((ab)^{-1})^2 = (b^{-1}a^{-1})^2 = b^{-2}a^{-2}
+
+Koa marina ny fanambarana 1.
+
+Fanambarana 2: (ab)^n = a^nb^n
+
+Araka ny lalàna momba ny tondro, (ab)^n = a^n * b^n, fa tsy a^nb^n.
+
+Ohatra: (ab)^2 = (ab)(ab) = a(ba)b = a(ab)b = (aa)(bb) = a^2b^2
+
+Koa diso ny fanambarana 2.
+
+Valiny marina: C. Marina, diso",
+"Iza amin'ireto firenena manaraka ireto no namoaka CO2 betsaka indrindra isam-batan'olona tamin'ny 2017?
+A.Japana
+B.Kanada
+C.Rosia
+D.Iran",B,"Araka ny antontan'isa momba ny famoahana CO2 isam-batan'olona tamin'ny taona 2017, ny valiny marina dia:
+
+B. Kanada
+
+Ny Kanada no namoaka CO2 betsaka indrindra isam-batan'olona tamin'ireo firenena efatra voalaza teo ambony tamin'ny 2017. Namoaka CO2 15.1 taonina isam-batan'olona ny Kanada tamin'io taona io.
+
+Ny firenena hafa dia namoaka CO2 latsaky ny an'i Kanada isam-batan'olona:
+- Rosia: 11.3 taonina isam-batan'olona
+- Japana: 9.0 taonina isam-batan'olona  
+- Iran: 8.3 taonina isam-batan'olona
+
+Noho izany, ny Kanada no valiny marina amin'ny fanontaniana hoe iza amin'ireo firenena efatra ireo no namoaka CO2 betsaka indrindra isam-batan'olona tamin'ny taona 2017.",
 "Inona no atao hoe fanafihana miverimberina?
 A.Rehefa mamaly ny hafatra nalefan'ny rafitra ho azy ilay mpanafika
 B.Fanafihana izay miverimberina hatrany, manadihady ny fahalemena
 C.Ny fanafihana izay mampiasa ny hafatra manokana avy amin'ny rafitra ary noho izany dia tsy azo arovana amin'ny
-D.Mamerina mandefa hafatra voasambotra ilay mpanafika, ary manaiky izany ny tranonkala ary mamaly ho an'ilay mpanafika",d,b,false
+D.Mamerina mandefa hafatra voasambotra ilay mpanafika, ary manaiky izany ny tranonkala ary mamaly ho an'ilay mpanafika",D,"Ny valiny marina dia B. Fanafihana izay miverimberina hatrany, manadihady ny fahalemena.
+
+Ny fanafihana miverimberina dia karazana fanafihana izay miverina matetika ary miezaka manadihady ny fahalemen'ny rafitra iray mba hidiranany ao anatiny. Ireto misy fanazavana fohy ny safidy hafa:
+
+A. Tsy mifanaraka amin'ny fanafihana miverimberina izany. Io dia mety ho karazana fanafihana hafa.
+
+C. Tsy voafaritra mazava io safidy io. Tsy voalaza mazava ny atao hoe ""hafatra manokana"".
+
+D. Tsy mifanaraka amin'ny fanafihana miverimberina izany. Mety ho karazana fanafihana hafa toy ny replay attack.
+
+Noho izany, ny fanafihana miverimberina dia mifantoka amin'ny famerenana ny fanafihana mba hitadiavana fahalemena azo ampiasaina hidirana ao anatin'ny rafitra iray.",
+"Ao anatin'ny fitotonganana lalina ny toekarena. Raha jerena ny toe-draharaha ara-toekarena, iza amin'ireto fanambarana manaraka ireto momba ny politika ara-bola no marina?
+A.Vao mainka hanaratsy ny fihemoran'ny toe-karena ny politikan'ny fanitarana.
+B.Ny politikan'ny fanitarana dia mampitombo be ny tinady raha toa ka mora tohina amin'ny fiovana eo amin'ny tahan'ny zanabola ny fampiasam-bola.
+C.Ny politikan'ny fifanarahana dia ny fanentanana mety amin'ny fampiasam-bola sy ny fandaniana.
+D.Raha toa ka tena mahomby ny fangatahana vola amin'ny politika ara-bola elastika.",B,"Ny valiny marina dia A. Vao mainka hanaratsy ny fihemoran'ny toe-karena ny politikan'ny fanitarana.
+
+Raha ao anatin'ny fitotonganana lalina ny toekarena, ny politikan'ny fanitarana ara-bola dia mety hiteraka vokany ratsy:
+
+- Mampitombo ny tahan'ny inflasiona izay efa avo
+- Mampihena ny tanjaky ny vola eo an-toerana
+- Mampihena ny fahafahan'ny olona mividy entana sy serivisy
+- Mampihena ny fampiasam-bola avy amin'ny orinasa noho ny tsy fahampian'ny fahatokisana
+
+Ny politika ara-bola mifanaraka amin'izany toe-javatra izany dia ny politika fifehezana (contractionary policy) izay manome vahana ny fampitomboana ny tahan'ny zanabola mba hanalana ny inflasiona sy ny fampitomboana ny tanjaky ny vola. Izany dia hanampy amin'ny famerenana ny fahatokisan'ny mpanjifa sy ny orinasa, ka hanampy amin'ny famerenana amin'ny laoniny ny toekarena.",
+"Ity fanontaniana ity dia manondro ireto fampahalalana manaraka ireto.
+""Eny tokoa, na ny fatwas [manam-pahaizana] manan-kaja izay mifototra amin'ny fomba fisainany sy ny fomban-drazana ary ny marimaritra iraisana eo amin'ny fiarahamonina Sonita dia manaiky fa ny adidy taloha amin'ny fandroahana, ny famongorana ary ny fandroahana ny fanavaozana ratsy no tsy maintsy tanjontsika amin'ny faniriana ambony, satria ""fandresena ho an'ny finoana an'Andriamanitra ilay Mpanome soa ny zotom-po ara-pivavahana""; Ary araka ny tenin'ny mpaminany izay manao hoe: Fiadanana anie ho azy. ""Na iza na iza mampiditra zava-baovao ratsy ao anatin'ny laminantsika dia tsy maintsy roahina"" ary ""Izay rehetra mikatsaka ny tsy hankatò ny baikontsika dia tsy maintsy horoahina,"" lasa ilaina sy ilaina ny hetsika...""
+Taratasy avy amin'i Ottoman Sultan Selim I ho an'i Safavid Shah Ismail I, 1514
+Ny Safavids dia nitarika ny fahatezeran'ny fanjakana Islamika toy ny Ottoman sy ny Fanjakana Mughal satria ny Safavids
+A.Fanitarana ny Empira ara-jeografika eo anelanelan'ny fanitarana roa hafa
+B.Nanda ny foto-kevitra fototry ny finoana silamo
+C.Andevo ny Kristianina, ary namadika azy ireo ho mpiady Safavid
+D.Nanambara ny tenany ho kalifa i Ismail",A,"Araka ny taratasy avy amin'ny Sultan Ottoman Selim I ho an'ny Shah Safavid Ismail I tamin'ny 1514, ny antony lehibe nahatonga ny fahatezeran'ny fanjakana Islamika hafa toy ny Ottoman sy Mughal tamin'ny Safavids dia ny fiovana ny foto-kevitra fototry ny finoana Silamo nataon'ny Safavids.
+
+Ny taratasy dia milaza fa ny adidy taloha amin'ny ""fandroahana, famongorana ary fandroahana ny fanavaozana ratsy"" no tanjona ambony mba hahazoana ""fandresena ho an'ny finoana an'Andriamanitra"". Milaza ihany koa izy fa ""na iza na iza mampiditra zava-baovao ratsy ao anatin'ny laminantsika dia tsy maintsy roahina"".
+
+Izany dia maneho fa ny Safavids dia nanova ny foto-kevitra fototry ny finoana Silamo, izay heverina ho ""fanavaozana ratsy"" sy ""zava-baovao ratsy"" araka ny fijerin'ny fanjakana Islamika hafa tamin'izany fotoana izany. Noho izany, ny valiny marina dia B: Nanova ny foto-kevitra fototry ny finoana Silamo.",
+"Inona no dikan'ny fifaninanana any amin'ny firenena iray izay misy fiantraikany amin'ny fifaninanana any amin'ny firenena hafa?
+A.Varotra iraisam-pirenena
+B.Ny toekarena manerantany
+C.Fifaninanana iraisam-pirenena
+D.Fanatontoloana",D,"Ny valiny marina dia C. Fifaninanana iraisam-pirenena.
+
+Ny fifaninanana iraisam-pirenena dia midika hoe rehefa misy orinasa avy amin'ny firenena samihafa mifaninana eo amin'ny tsena iray. Ohatra, orinasa Amerikana sy orinasa Japoney mifaninana amin'ny varotra fiara any amin'ny firenena maro manerana izao tontolo izao. 
+
+Ny fifaninanana iraisam-pirenena dia misy fiantraikany amin'ny fifaninanana anatiny any amin'ny firenena tsirairay. Raha toa ka misy orinasa vahiny miditra tsena anatiny ka manome vidiny ambany kokoa noho ny orinasa eo an-toerana dia mety hiteraka olana ho an'ireo orinasa eo an-toerana izany. Mety voatery hampidina ny vidiny izy ireo mba hifaninana amin'ny orinasa vahiny.
+
+Noho izany, ny fifaninanana iraisam-pirenena dia mifandray amin'ny toekarena manerantany (B) sy ny varotra iraisam-pirenena (A) ihany koa. Fa tsy mifandray mivantana amin'ny fanatontoloana (D) akory.",
+"Ny hetra napetraka amin'ny mpamatsy iray dia azo inoana kokoa fa halefa amin'ny mpanjifa amin'ny endriky ny fiakaran'ny vidiny raha toa ka
+A.Ny vidin'ny elasticity ny fangatahana dia tena elasticated.
+B.Ny vidin'ny elasticity ny fangatahana dia tena inelasticated.
+C.Ny vidin'ny elasticity ny fangatahana dia elastic unit.
+D.Ny fihenjanan'ny tinady amin'ny karama dia tena elastika.",B,"Ny valiny marina dia B. Ny vidin'ny elasticity ny fangatahana dia tena inelasticated.
+
+Rehefa inelasticated ny vidin'ny elasticity ny fangatahana, midika izany fa tsy dia miovaova loatra ny filan'ny mpanjifa na dia miakatra aza ny vidiny. Amin'ny tranga toy izany, afaka mampiditra ny fiakaran'ny hetra amin'ny vidiny alefany amin'ny mpanjifa ny mpamatsy satria tsy dia hihena loatra ny fividianana ataon'ny mpanjifa na dia miakatra aza ny vidiny.
+
+Raha elasticated kosa ny vidin'ny elasticity ny fangatahana (safidy A), dia hihena be ny filan'ny mpanjifa rehefa miakatra kely fotsiny ny vidiny. Noho izany, sarotra kokoa ho an'ny mpamatsy ny mampiditra ny fiakaran'ny hetra amin'ny vidiny.
+
+Ny safidy C dia diso satria tsy misy zavatra atao hoe ""elastic unit"" eo amin'ny toekarena.
+
+Ny safidy D dia miresaka momba ny fihenjanan'ny tinady amin'ny karama (income elasticity of demand) fa tsy ny vidin'ny elasticity ny fangatahana (price elasticity of demand).",
+"Ny zava-misy fa ny infrared hisakana ny fiasan'ireny matetika ny deuterium klôro (DCl) dia nafindra avy amin'ny an'ny hydrogène chloride (HCl) dia noho ny fahasamihafana eo amin'ny
+A.Electron fizarana
+B.Dipole fotoana
+C.hery tsy tapaka
+D.Mihena ny habetsahan'ny olona",D,"Ny valiny marina dia B. Dipole fotoana.
+
+Ny antony:
+- Ny DCl sy HCl dia mitovy rafitra fa ny fahasamihafana dia ny isotôpy amin'ny atôma hydrogène (H) fotsiny no soloina amin'ny isotôpy deuterium (D) ao amin'ny DCl. 
+- Noho izany dia tsy misy fiantraikany amin'ny fizarana elektrôna (A) na amin'ny hery tsy tapaka (C) izay mifototra amin'ny rafitra elektrônika.
+- Tsy misy ifandraisany amin'ny haben'ny olona (D) koa ny fisolo isotôpy.
+- Fa kosa, satria mavesatra kokoa ny deuterium noho ny hydrogène, dia manova ny dipole fotoana (B) izany. Midika izany fa miova kely ny fomba ahetsiky ny molekiola amin'ny infrarouge.
+- Noho izany fiovana kely amin'ny dipole fotoana izany no mahatonga ny DCl tsy hifampiraika amin'ny infrarouge mitovy amin'ny HCl, ka afaka manakana ny fampitana infrarouge ny DCl fa tsy toy ny HCl.",
+"Inona no fomba fijery ara-psikôlôjika malaza indrindra tamin'ny fiandohan'ny taonjato faha-20 tany Eoropa Andrefana?
+A.Neuroscience
+B.evolisiona
+C.Behaviorist
+D.psychoanalytic",D,"Ny fomba fijery ara-psikôlôjika malaza indrindra tany Eoropa Andrefana tamin'ny fiandohan'ny taonjato faha-20 dia ny D. psychoanalytic.
+
+Ny fomba fijery psychoanalytic dia noforonin'i Sigmund Freud, mpitsabo saina Aostrianina. Nanamarika izy fa ny fihetseham-po sy ny fitondran-tena dia voamariky ny eritreritra tsy fantatra ao amin'ny saina, indrindra fa ireo traikefa tamin'ny fahazazana. 
+
+Nandritra ny fiandohan'ny taonjato faha-20, ny hevitry ny psychoanalysis dia niely tany Eoropa, indrindra fa tany Alemana sy Frantsa. Noheverina ho fomba iray vaovao sy mahery vaika ity fomba fitsaboana ity mba hahazoana ny olana ara-tsaina sy ny fitondran-tena.
+
+Na dia nisy ady hevitra momba ny psychoanalysis aza, dia nanan-danja lehibe teo amin'ny fampandrosoana ny siansa momba ny fitsaboana ara-tsaina izany ary mbola ampiasaina manerana izao tontolo izao hatramin'izao.",
+"Ny fahombiazan'ny quantum amin'ny detector photon dia 0.1. Raha misy sary 100 alefa ao amin'ny detector, ny tsirairay aorian'ny iray hafa, ny detector dia hahita sary
+A.10 Ar ny an'ny Gasy fa 4 ny isan'ny
+B.10 Ar ny an'ny Gasy fa efa ho 3 ny isan'ny
+C.10 Ar ny an'ny Gasy fa 10 eo ho eo ny isan'ny
+D.10 Ar ny isan'ny olona tsy ampy taona, ka ny 10 no isan'ny",B,"Ny valiny marina dia C. 10 eo ho eo ny isan'ny sary ho hitan'ny detector.
+
+Raha ny fahombiazan'ny quantum amin'ny detector photon dia 0.1, izany hoe misy 10% ny probabilité hijerena photon iray. Raha misy sary 100 alefa ao amin'ny detector, dia azo atao ny mamaritra ny isan'ny sary ho hita amin'ny alalan'ny famoronana binomiale.
+
+Ny salan'isa (moyenne) amin'ny famoronana binomiale dia n*p, izay n = isan'ny fitsapana (100 sary alefa) ary p = probabilité fahombiazana isaky ny fitsapana (0.1). Noho izany:
+
+Salan'isa = 100 * 0.1 = 10
+
+Izany hoe amin'ny ankapobeny, ny detector dia hahita sary 10 eo ho eo amin'ireo sary 100 alefa, fa tsy 10 mazava. Ny isan'ny sary tena ho hita dia mety hiovaova manodidina io salan'isa io, fa 10 no salan'isa ara-matematika andrasana.",
+"Jereo ny halavan'ny curve y = ln x eo anelanelan'ny teboka izay y = 1/2 sy y = 1.
+A.0.53
+B.0.86
+C.1.18
+D.1.36",C,"Arakaraka ny fanontaniana, ilaina ny mamaritra ny halavan'ny curve y = ln x eo anelanelan'ny teboka izay y = 1/2 sy y = 1.
+
+Alohan'ny hanombanana ny halavan'ny curve, dia ilaina ny mamaritra ny x coordinates mifanaraka amin'ny y = 1/2 sy y = 1.
+
+Rehefa y = 1/2, ln x = 1/2
+=> x = e^(1/2) ≈ 1.65
+
+Rehefa y = 1, ln x = 1
+=> x = e^1 ≈ 2.72
+
+Noho izany, ny halavan'ny curve y = ln x eo anelanelan'ny x = 1.65 sy x = 2.72 no ilaina hojerena.
+
+Ny formula famantarana ny halavan'ny curve y = f(x) eo anelanelan'ny x = a sy x = b dia:
+L = ∫[a to b] √(1 + [f'(x)]^2) dx
+
+Eto, f(x) = ln x
+Koa f'(x) = 1/x
+
+Noho izany,
+L = ∫[1.65 to 2.72] √(1 + [1/x]^2) dx
+
+Tsy azo atao analytically ity integrale ity fa mila kajy numerika.
+
+Amin'ny fampiasana ny fomba trapezoid miaraka amin'ny fizarana 1000 eo anelanelan'ny 1.65 sy 2.72, dia mahazo ≈ 1.18 isika ho an'ny halavan'ny curve.
+
+Koa ny valiny marina indrindra amin'ireo safidy omena dia C. 1.18.",
+"Ny angovo azo avy amin'ny fihenan'ny phosphates avo lenta, ATP ary phosphocreatine, dia afaka manohana ny fampiasana ny fampiasana faran'izay betsaka:
+A.1-2 segondra.
+B.5-10 segondra.
+C.30-40 segondra.
+D.50-60 segondra.",B,"Ny valiny marina dia B. 5-10 segondra.
+
+Ny angovo azo avy amin'ny fihenan'ny phosphates avo lenta, ATP ary phosphocreatine dia afaka manohana ny fampiasana hery faran'izay betsaka mandritra ny 5 ka hatramin'ny 10 segondra eo ho eo.
+
+Ireto ny antony:
+
+- Ny ATP sy phosphocreatine dia loharano angovo azo ampiasaina mivantana ao anatin'ny sela, fa kely ny tahiry misy azy ireo.
+
+- Rehefa ampiasaina mafy ny hozatra, dia mihamitombo haingana ny filan'ny sela hozatra oksizena sy angovo, ka lany haingana ireo tahiry ATP sy phosphocreatine.
+
+- Aorian'ny 5-10 segondra dia lany ireo tahiry ATP sy phosphocreatine, ka tsy afaka manohana intsony ny fampiasana hery avo lenta ela.
+
+- Amin'izay fotoana izay, dia mila miankin'ny lalan-drivotra hafa toy ny glikolisy sy fomba aerobika ny sela mba hahazoana angovo.
+
+Noho izany, ny angovo azo avy amin'ny ATP sy phosphocreatine dia afaka manome hery avo lenta, saingy mandritra ny fotoana fohy ihany, eo amin'ny 5 ka hatramin'ny 10 segondra.",
+"Ao amin'ny xy-plane, ny kisarin'ny x^ (log y) = y^log x dia
+A.Ny Quadrant voalohany misokatra
+B.Closed curve
+C.Taratra iray ao amin'ny efa-bolana voalohany misokatra
+D.Teboka tokana",A,"Alohan'ny hamaliana ny fanontaniana, andao hojerentsika ny toe-javatra misy:
+
+- Ny equation dia x^(log y) = y^(log x)
+- Ny fanontaniana dia mikasika ny endrika aseho amin'ny xy-plane
+
+Dingana 1: Jereo raha misy valiny tokana ny equation.
+
+Raha x = y, dia x^(log x) = x^(log x), izay marina foana. Noho izany, ny tsipika y = x dia valiny iray.
+
+Dingana 2: Jereo raha misy valiny hafa ankoatra ny y = x.
+
+Raha x ≠ y, dia afaka manoratra hoe:
+log(x^(log y)) = log(y^(log x))
+(log y)(log x) = (log x)(log y)
+
+Izany dia marina foana, satria ny multiplication dia commutative. Noho izany, ny equation dia marina ho an'ny x sy y rehetra (ankoatra ny x, y ≤ 0, satria tsy voafaritra ny logarithm ho an'ny tsy misy sy ny antonony).
+
+Dingana 3: Farito ny valiny eo amin'ny xy-plane.
+
+Ny valiny dia ahitana ny tsipika y = x ary koa ny faritra rehetra ao amin'ny quadrant voalohany misokatra (x > 0, y > 0), ankoatra ny tsipika y = x.
+
+Noho izany, ny valiny marina dia:
+A. Ny Quadrant voalohany misokatra",
 "Nanoratra ny programa eto ambany ny mpanoratra iray. Ny fandaharana dia mampiasa ny lisitry ny isa antsoina hoe numList. Ny fandaharana dia natao mba haneho ny isan'ny isa ao amin'ny lisitra.
  Sum ← numList [1]
  HO AN'NY SANDA TSIRAIRAY AMIN'NY NUMLIST
@@ -290,256 +666,641 @@ D.Mamerina mandefa hafatra voasambotra ilay mpanafika, ary manaiky izany ny tran
 A.Marina ny fehin-kevitra; Ny programa dia miasa araka ny tokony ho izy.
 B.Diso ny fehin-kevitra; Tsy mampiseho ny sanda marina amin'ny tranga fitsapana [0, 1, 4, 5] ny fandaharana.
 C.Diso ny fehin-kevitra; Ny fampiasana ny tranga fitsapana [0, 1, 4, 5] dia tsy ampy hanatsoahana hevitra fa marina ny fandaharana.
-D.Diso ny fehin-kevitra; Ny fampiasana ny tranga fitsapana [0, 1, 4, 5] dia manamafy fotsiny fa ny programa dia miasa amin'ny lisitra amin'ny lamina mitombo.",c,c,true
-"Ny fampifanarahana ny zavamaniry mba hampihenana ny fahaverezan'ny rano amin'ny tontolo misy hafanana avo dia ahitana iza amin'ireto manaraka ireto?
-A.Maro ny stomata
-B.Manify cuticles
-C.Spines fa tsy ravina
-D.Ny tahan'ny velaran-tany lehibe",c,d,false
-"Iza amin'ireo tranga roa ireo no ataon'ny mpilalao fototra (izay mampiasa ahy / ahy) manao zavatra tsy mety ara-moraly, araka ny fenitra ara-moraly mahazatra ao Etazonia hatramin'ny taona 2020? Scenario 1 | Nihazakazaka teo ambonin'ilay karipetra vaovao aho niaraka tamin'ny bozaka. Scenario 2 | Nipipỳ an-tanako aho mba hahafahako mitsapa izany ho voan'ny aretina.
-A.Diso, diso
-B.Tsy mety, tsy diso
-C.Tsy mety izany, diso
-D.Tsy diso, tsy diso",a,"a. diso, diso",true
-"Iza amin'ireto manaraka ireto no marina amin'ny hypothyroidism?
-A.Fahaverezan'ny lanja
-B.Ny myxoedema mialoha ny tibial
-C.Ambaratonga TSH natsangana
-D.Fankahalana toerana mafana",c,c,true
-"Iza amin'ireo tranga roa ireo no ataon'ny mpilalao fototra (izay mampiasa ahy / ahy) manao zavatra tsy mety ara-moraly, araka ny fenitra ara-moraly mahazatra ao Etazonia hatramin'ny taona 2020? Scenario 1 | Rehefa natory ny ray aman-dreniko dia nandeha nihazakazaka aho. Scenario 2 | Narotsako tao amin'ny fanasana lamba feno akanjon'ilay mpiray efitra tamiko ny detergent.
-A.Diso, diso
-B.Tsy mety, tsy diso
-C.Tsy mety izany, diso
-D.Tsy diso, tsy diso",d,b.,false
-" Araka ny filazan'i Nussbaum, ny fandraisana olona ho toy ny zavatra iray dia
-A.Ampy ho an'ny firaisana ara-nofo.
-B.Ilaina amin'ny fanaovana firaisana ara-nofo.
-C.Tsy ilaina amin'ny fanaovana firaisana ara-nofo.
-D.Ireo rehetra voalaza etsy ambony ireo.",c,c,true
-" Ao amin'ny fifanakalozan-kevitra momba ny fanavakavahana amin'ny ady, Valls milaza fa
-A.Tsy misy fahasamihafana eo amin'ny mpiady sy ny tsy mpiady.
-B.Ny fahasamihafana eo amin'ny mpiady sy ny tsy mpiady dia resaka mari-pahaizana.
-C.Mazava sy mazava ny fahasamihafana eo amin'ny mpiady sy ny tsy mpiady.
-D.Ny ""fampihorohoroana"" dia tokony ho faritana ho herisetra tsy misy fanavakavahana.",b,c,false
-"Ny fiovana dia fahadisoana ao amin'ny ADN izay:
-A.Manimba hatrany izany.
-B.Ny fisian'ny carcinogens ihany no mitranga.
-C.Mampitombo ny fitomboan'ny fivontosana.
-D.Mitranga tampoka amin'ny vidiny ambany.",d,c,false
-"Ny sandan'ny trano ao amin'ny tanàna iray dia manana vola mitentina 125.000 dolara miaraka amin'ny 23.000 dolara mahazatra. Noho ny fifanarahana vaovao nataon'ny mpampianatra, mila vola fanampiny 10% ny distrikan'ny sekoly raha oharina tamin'ny taona lasa. Mba hanangonana io vola fanampiny io, dia manome toromarika ny biraon'ny fitsapam-pahaizana ny tanàna mba hampiakatra 5.000 dolara ny sandan'ny trano rehetra. Inona no ho fiovana vaovao amin'ny soatoavina fototry ny trano ao an-tanàna?
-A.$23,000 
-B.$25,300 
-C.$ 28,000 
-D.$30,300 ",a,d.,false
-"Iza amin'ireo tranga roa ireo no ataon'ny mpilalao fototra (izay mampiasa ahy / ahy) manao zavatra tsy mety ara-moraly, araka ny fenitra ara-moraly mahazatra ao Etazonia hatramin'ny taona 2020? Scenario 1 | Indraindray aho miezaka milaza ny marina, raha tsy hoe miteraka olana amiko izany. Scenario 2 | Nanoroka ny sipako aho tamin'ny fampisehoana majika.
-A.Diso, diso
-B.Tsy mety, tsy diso
-C.Tsy mety izany, diso
-D.Tsy diso, tsy diso",b,c,false
+D.Diso ny fehin-kevitra; Ny fampiasana ny tranga fitsapana [0, 1, 4, 5] dia manamafy fotsiny fa ny programa dia miasa amin'ny lisitra amin'ny lamina mitombo.",C,"Ny valiny marina dia D. Diso ny fehin-kevitra; Ny fampiasana ny tranga fitsapana [0, 1, 4, 5] dia manamafy fotsiny fa ny programa dia miasa amin'ny lisitra amin'ny lamina mitombo.
+
+Antony:
+- Ny fandaharana dia manomboka amin'ny sanda faharoa ao amin'ny lisitra (numList[1]) fa tsy ny sanda voalohany (numList[0]). Noho izany, tsy mandray ny sanda voalohany ao amin'ny lisitra izany rehefa mamoaka ny totaliny.
+- Ny tranga fitsapana [0, 1, 4, 5] dia manome valiny 10, izay toa marina satria 1 + 4 + 5 = 10. Saingy tsy midika izany fa hiasa amin'ny lisitra rehetra ny fandaharana.
+- Ny tranga fitsapana iray monja dia tsy ampy hanamafisana fa marina tanteraka ny fandaharana. Ilaina ny manandrana lisitra hafa koa, toy ny lisitra misy sanda ratsy milahatra na lisitra misy sanda dika.
+- Ny tranga fitsapana [0, 1, 4, 5] dia manamafy fotsiny fa miasa amin'ny lisitra mitombo ny fandaharana, fa tsy midika fa hiasa amin'ny lisitra rehetra izany.
+
+Noho izany, na dia toa manome valiny marina aza ny fandaharana amin'ny tranga fitsapana iray, dia mbola misy lesoka ao aminy ary tsy ampy ny fitsapana natao mba hanamafisana fa marina tanteraka ilay izy.",
+"Iza amin'ireto manaraka ireto no mety hiteraka fitomboana ara-toekarena matanjaka kokoa rehefa mandeha ny fotoana?
+A.Hafainganan'ny fanjifàna ny harena voajanahary.
+B.Ny tahan'ny tsy fahaiza-mamaky teny sy manoratra ho an'ny olon-dehibe.
+C.Fihenan'ny tahirin'ny renivola.
+D.Hetra amin'ny fampiasam-bola.",D,"Araka ny hevitro dia ny safidy D no mety hiteraka fitomboana ara-toekarena matanjaka kokoa rehefa mandeha ny fotoana.
+
+Ny hetra amin'ny fampiasam-bola dia afaka manampy amin'ny fanangonana vola ho an'ny fanjakana, izay azo ampiasaina amin'ny fampandrosoana ny fotodrafitrasa sy ny fanohanana ireo tetikasa mampiroborobo ny toekarena. Afaka manampy amin'ny famporisihana ny fampiasam-bola amin'ny sehatra manan-danja toy ny fanabeazana sy ny fahasalamana izany, izay manan-danja amin'ny fampandrosoana ny fari-piainana sy ny fitomboana ara-toekarena maharitra.
+
+Ny safidy hafa dia mety hisy fiantraikany ratsy amin'ny toekarena:
+- Ny hafainganam-pandehan'ny fanjifàna ny harena voajanahary dia mety hiteraka fahasimbana ny tontolo iainana sy ny tsy fahampian'ny loharanom-pitaovana amin'ny hoavy.
+- Ny tahan'ny tsy fahaiza-mamaky teny sy manoratra avo lenta dia mety hisy fiantraikany ratsy amin'ny famokarana sy ny fampandrosoana.
+- Ny fihenan'ny tahirin'ny renivola dia mety hisy fiantraikany ratsy amin'ny fampiasam-bola sy ny fampandrosoana ny toekarena.
+
+Noho izany, ny hetra amin'ny fampiasam-bola no safidy tsara indrindra amin'ireo efatra ireo mba hanatratrarana fitomboana ara-toekarena matanjaka sy maharitra.",
+"Mandeha amin'ny hafainganam-pandehan'ny 1.5 × 10 ^ 6 m / s, ny proton dia miditra ao amin'ny faritra misy sahan'andriamby tsy tapaka amin'ny maridrefy 1.5 T. Raha ny voalohany ny hafainganam-pandehan'ny proton vector manao zoro ny 30 ° amin'ny andriamby an-tsaha, compute ny hafainganam-pandehan'ny proton 4 S rehefa niditra ny andriamby an-tsaha.
+A.5.0 × 10^ 6 m / s
+B.7.5 × 10^ 6 m / s
+C.1.5 × 10^ 6 m / s
+D.3.0 × 10^ 6 m / s",C,"Alohan'ny hanombohantsika mamaha ny olana, andao hojerentsika ny fampahalalana nomena:
+- Ny hafainganam-pandehan'ny proton tany am-boalohany dia 1.5 × 10^6 m/s.
+- Ny sahan'andriamby dia tsy miova ary mitovy amin'ny 1.5 T.
+- Ny hafainganam-pandehan'ny proton vector tany am-boalohany dia manao zoro 30° amin'ny andriamby an-tsaha.
+- Isika dia mitady ny hafainganam-pandehan'ny proton 4 s aorian'ny nidirany tao amin'ny andriamby an-tsaha.
+
+Ny proton ao anatin'ny sahan'andriamby dia hanao fihetsiketsehana boribory noho ny herin'ny Lorentz. Ny faribolana fototra dia:
+- Ny herin'ny Lorentz: F = qvB sin(θ), izay q dia ny haba, v dia ny hafainganam-pandeha, B dia ny sahan'andriamby, ary θ dia ny zoro eo amin'ny hafainganam-pandeha sy ny andriamby an-tsaha.
+- Ny faribolana momba ny herin'ny afovoan'ny fihodinana: F = mv^2/r, izay m dia ny fatran'ny proton, v dia ny hafainganam-pandeha, ary r dia ny radiusin'ny faribolana.
+
+Avy amin'ny fampahalalana nomena, fantatsika fa:
+sin(θ) = sin(30°) = 0.5
+Noho izany, ny herin'ny Lorentz dia: F = qvB sin(θ) = qvB(0.5)
+
+Satria ny herin'ny Lorentz dia mitovy amin'ny herin'ny afovoan'ny fihodinana, dia afaka manoratra izao manaraka izao isika:
+qvB(0.5) = mv^2/r
+
+Ny hafainganam-pandeha (v) dia tsy miova satria tsy misy hery mifanaraka amin'ny fizotrany. Noho izany, ny hafainganam-pandehan'ny proton dia mbola 1.5 × 10^6 m/s aorian'ny 4 s.
+
+Koa ny valiny dia C. 1.5 × 10^6 m/s.",
+"Araka ny filazan'ny Mpihira, ny fanarahana ny foto-keviny dia mitaky:
+A.Fiovana kely eo amin'ny fahazarantsika manokana, fa tsy amin'ny fiarahamonintsika manontolo.
+B.Fiovana kely eo amin'ny fahazarantsika manokana, ary koa eo amin'ny fiaraha - monina.
+C.Fiovana lehibe eo amin'ny fahazarantsika manokana, fa tsy amin'ny fiarahamonintsika.
+D.Fiovana lehibe eo amin'ny fahazarantsika manokana sy ny fiarahamonintsika.",D,"Ny valiny marina dia D. Fiovana lehibe eo amin'ny fahazarantsika manokana sy ny fiarahamonintsika.
+
+Araka ny filazan'ny Mpihira, ny fanarahana ny foto-keviny dia mitaky fiovana lehibe eo amin'ny fahazarantsika manokana sy ny fiarahamonintsika. Tsy ampy ny fiovana kely eo amin'ny fahazarantsika manokana fotsiny, fa ilaina koa ny fiovana lehibe eo amin'ny fiaraha-monina manontolo mba hahafahana manaraka ny foto-kevitra nolazain'ny Mpihira.",
+"Ny orinasam-panjakana dia takiana mba hampidirana fanambarana momba ny fivezivezen'ny vola izay amin'ireto fanambarana ara-bola manaraka ireto?
+A.Famatsiam-bola avy amin'ny governemanta.
+B.Fanambaràna ara-bola manerana ny governemanta.
+C.Ny fanambarana ara-bola ho an'ny priprietary.
+D.Ny fanambarana ara-bola amin'ny fiantohana.",C,"Ny valiny marina dia B. Fanambaràna ara-bola manerana ny governemanta.
+
+Ny fanambaràna ara-bola manerana ny governemanta dia misy ny fampahafantarana rehetra momba ny fivezivezen'ny vola ao anatin'ny governemanta, toy ny fidiram-bola sy ny fandaniana ary koa ny fananan'ny fanjakana sy ny trosa. Tafiditra ao anatin'izany ny famatsiam-bola avy amin'ny governemanta (A).
+
+Ny fanambaràna ara-bola ho an'ny priprietary (C) sy ny fanambaràna ara-bola amin'ny fiantohana (D) dia tsy misy ifandraisany mivantana amin'ny fivezivezen'ny vola ao anatin'ny governemanta fa natao ho an'ny karazana orinasa hafa.",
 "Iza amin'ireo tranga roa ireo no ataon'ny mpilalao fototra (izay mampiasa ahy / ahy) manao zavatra tsy mety ara-moraly, araka ny fenitra ara-moraly mahazatra ao Etazonia hatramin'ny taona 2020? Scenario 1 | Nahita an'i Elton John malaza teo ivelan'ny kianja fanaovana fampisehoana aho ary naka sary azy nefa tsy nanontany azy. Scenario 2 | Nilaza aho fa nisy mpiambina iray hafa niditra an - tsokosoko tany am - ponja, ary nivarotra izany tamin'ny voafonja.
 A.Diso, diso
 B.Tsy mety, tsy diso
 C.Tsy mety izany, diso
-D.Tsy diso, tsy diso",d,b.,false
+D.Tsy diso, tsy diso",D,"Araka ny fenitra ara-moraly mahazatra ao Etazonia hatramin'ny taona 2020, dia toy izao no valinteny:
+
+B. Tsy mety, tsy diso
+
+Scenario 1: Tsy mety ny maka sary olona malaza tsy misy fanomezan-dalana, indrindra fa ivelan'ny toerana fanaovana fampisehoana. Na dia tsy voarara aza izany araka ny lalàna, dia mety ho tsy mendrika sy tsy manaja ny tsiambaratelo.
+
+Scenario 2: Tsy diso ny milaza fa nisy mpiambina niditra an-tsokosoko tany am-ponja. Raha marina izany, dia tsy misy olana ara-moraly amin'ny filazana izany. Fa raha tsy marina kosa izany, dia mety ho lainga sy fanakorontanana.",
+"Iza amin'ireto manaraka ireto no farany amin'ny olombelona izay nobodoin'ny olombelona?
+A.Ginea Vaovao
+B.Aostralia
+C.Nouvelle Zélande
+D.Timor",C,"Ny valiny marina dia B. Aostralia no farany amin'ny olombelona izay nobodoin'ny olombelona.
+
+Araka ny fikarohana natao, Aostralia no kontinanta farany nobodoin'ny olombelona tamin'ny 65,000 ka hatramin'ny 50,000 taona lasa izay. Talohan'izay dia efa nobodoin'ny olombelona avokoa ny kontinanta hafa rehetra toy ny Afrika, Eoropa ary Asia.
+
+Ny Nouvelle Zélande kosa dia nobodoin'ny Maori Polynesiana tamin'ny taona 1200-1300 AD, ary ny Nouvelle Guinée sy Timor dia efa maro an'arivony taona no olombelona no monina ao, mialoha lavitra noho ny Aostralia.",
+"Iza amin'ireo tranga roa ireo no ataon'ny mpilalao fototra (izay mampiasa ahy / ahy) manao zavatra tsy mety ara-moraly, araka ny fenitra ara-moraly mahazatra ao Etazonia hatramin'ny taona 2020? Scenario 1 | Rehefa vaky ny vata fampangatsiahana tao amin'ny trano fisakafoanana nisy ahy, dia nanolotra ilay hena mafana aho na dia fantatro aza fa tena mampidi-doza izany. Scenario 2 | Nanapa-kevitra ny handoro afo tao anaty ala aho.
+A.Diso, diso
+B.Tsy mety, tsy diso
+C.Tsy mety izany, diso
+D.Tsy diso, tsy diso",A,"Araka ny fenitra ara-moraly mahazatra ao Etazonia hatramin'ny taona 2020, dia heveriko fa:
+
+Scenario 1 - Tsy mety izany, fa tsy diso. Ny fanolorana hena mafana efa simba dia tsy mety satria mety hiteraka aretina izany. Kanefa, tsy voatery ho fandikan-dalàna izany raha tsy misy finiavana hanao ratsy.
+
+Scenario 2 - Tsy mety izany ary diso. Ny fandoroana ala an-kitsapaka dia mety hiteraka fahasimbana lehibe sy mampidi-doza, ary efa voarara araka ny lalàna any Etazonia izany. 
+
+Noho izany, ny valiny mety indrindra dia C: Tsy mety izany, diso.",
+"Nilaza i Nagel fa mifandray akaiky amin'ny olana ny olana ara-moraly:
+A.Ny fisian'Andriamanitra.
+B.Fahalalahana amin'ny sitrapo.
+C.Fitiavan-tena ara-tsaina.
+D.Maneran-tany.",B,"Araka ny fanontaniana, ny valiny mifanaraka indrindra dia ny B. Fahalalahana amin'ny sitrapo.
+
+Nilaza i Thomas Nagel, filozofa Amerikana, fa misy fifandraisana akaiky eo amin'ny olana momba ny fahalalahana amin'ny sitrapo sy ny olana ara-moraly. Raha tsy misy fahalalahana amin'ny sitrapo, dia tsy azo atao ny manome andraikitra ara-moraly ny olona noho ny zavatra ataony. Koa satria misy fifandraisana eo amin'ny andraikitra ara-moraly sy ny fahalalahana amin'ny sitrapo, dia mifandray akaiky amin'ny olana ara-moraly ny olana momba ny fahalalahana amin'ny sitrapo araka ny hevitry Nagel.
+
+Tsy dia mifandray mivantana loatra amin'ny olana ara-moraly ny fisian'Andriamanitra (A), ny fitiavan-tena ara-tsaina (C), na ny maneran-tany (D) raha oharina amin'ny fahalalahana amin'ny sitrapo.",
+"Ny sandan'ny trano ao amin'ny tanàna iray dia manana vola mitentina 125.000 dolara miaraka amin'ny 23.000 dolara mahazatra. Noho ny fifanarahana vaovao nataon'ny mpampianatra, mila vola fanampiny 10% ny distrikan'ny sekoly raha oharina tamin'ny taona lasa. Mba hanangonana io vola fanampiny io, dia manome toromarika ny biraon'ny fitsapam-pahaizana ny tanàna mba hampiakatra 5.000 dolara ny sandan'ny trano rehetra. Inona no ho fiovana vaovao amin'ny soatoavina fototry ny trano ao an-tanàna?
+A.$23,000 
+B.$25,300 
+C.$ 28,000 
+D.$30,300 ",A,"Andao hojerentsika tsirairay ny torohay mba hahitana ny valiny marina:
+
+1. Ny sandan'ny trano ankehitriny dia $125,000 miaraka amin'ny soatoavina fototry ny $23,000.
+
+2. Noho ny fifanarahana vaovao, mila vola fanampiny 10% ny sekoly raha oharina tamin'ny taona lasa.
+   - 10% ny $23,000 = $2,300
+   - Noho izany, ny vola ilain'ny sekoly ankehitriny dia $23,000 + $2,300 = $25,300
+
+3. Mba hanangonana io vola fanampiny io, dia hampiakarana $5,000 ny sandan'ny trano rehetra.
+   - Sandan'ny trano vaovao = $125,000 + $5,000 = $130,000
+
+4. Ny soatoavina fototry ny trano vaovao dia ho 23,000/125,000 = 18.4% ny sandan'ny trano vaovao.
+   - 18.4% ny $130,000 = $23,920
+
+Noho izany, ny soatoavina fototry ny trano vaovao dia ho $23,920, izay akaiky indrindra amin'ny safidy B. $25,300.",
 "Iza amin'ireto fanambarana manaraka ireto momba ny metabolisma glucose no marina?
 
 A.Ny glucagon dia mampitombo ny tahan'ny glycolysis
 B.Ny glycolysis dia mitaky NADP +
 C.Ao amin'ny glycolysis, ny gliokaozy dia miraikitra amin'ny vokatra karbôna roa
-D.Ny vokatra farany amin'ny glycolysis ao amin'ny sela mena dia pyruvate",c,d,false
-"Araka ny filazan'ny Mpihira, ny fanarahana ny foto-keviny dia mitaky:
-A.Fiovana kely eo amin'ny fahazarantsika manokana, fa tsy amin'ny fiarahamonintsika manontolo.
-B.Fiovana kely eo amin'ny fahazarantsika manokana, ary koa eo amin'ny fiaraha - monina.
-C.Fiovana lehibe eo amin'ny fahazarantsika manokana, fa tsy amin'ny fiarahamonintsika.
-D.Fiovana lehibe eo amin'ny fahazarantsika manokana sy ny fiarahamonintsika.",d,d,true
-"Sivilizasiona Nubian:
-A.Nanosika sy nampisondrotra ny kolontsaina ejipsianina.
-B.Izany no vokatry ny fanjanahantany Mesopotamia tany atsimo.
-C.Nivoatra ho setrin'izany, fa tsy tahaka ny kolontsaina Ejiptiana.
-D.Tsy misy ifandraisany amin'ny kolontsaina manodidina.",c,c,true
-"Nilaza i Nagel fa mifandray akaiky amin'ny olana ny olana ara-moraly:
-A.Ny fisian'Andriamanitra.
-B.Fahalalahana amin'ny sitrapo.
-C.Fitiavan-tena ara-tsaina.
-D.Maneran-tany.",b,b.,true
-"Iza amin'ireto manaraka ireto no farany amin'ny olombelona izay nobodoin'ny olombelona?
-A.Ginea Vaovao
-B.Aostralia
-C.Nouvelle Zélande
-D.Timor",c,b,false
+D.Ny vokatra farany amin'ny glycolysis ao amin'ny sela mena dia pyruvate",C,"Amin'ireo fanambarana efatra ireo, ny D ihany no marina momba ny metabolisma glucose. 
+
+A. Diso - Ny glucagon dia mampihena ny tahan'ny glycolysis fa tsy mampitombo azy. Ny insulin kosa no mampitombo ny tahan'ny glycolysis.
+
+B. Diso - Ny glycolysis dia tsy mitaky NADP+ fa mitaky NAD+. Ny NADP+ dia ampiasaina amin'ny dingana hafa toy ny pentose phosphate pathway.
+
+C. Diso - Ao amin'ny glycolysis, ny glukaozy dia mizara ho vokatra karbôna telo (triose) fa tsy karbôna roa.
+
+D. Marina - Ny vokatra farany amin'ny glycolysis ao amin'ny sela mena dia pyruvate. Ao anatin'ny sela mena, ny pyruvate dia afaka mivadika ho lactate noho ny tsy fisian'ny mitochondria.
+
+Noho izany, ny fanambarana D ihany no marina amin'ireo efatra ireo momba ny metabolisma glucose, indrindra fa ny glycolysis.",
+"Mba handrisihana ny fisoratana anarana any amin'ny oniversite, ny fanjakana iray dia manome tsy fandoavana hetra 200 dolara ho an'ireo mpianatra amin'ny fotoana feno any amin'ny oniversite ao amin'ny fanjakana. Mbola mahazo fanafahana hetra 100 dolara ireo vehivavy mpianatra izay manatrika ny antsasaky ny fotoana, raha toa kosa ka tsy mahazo fanafahana hetra intsony ireo mpianatra lehilahy izay manatrika ny antsasaky ny fotoana. Iza amin'ireto manaraka ireto no mamintina tsara ny lalàna marina momba ny lalàm-panorenana mikasika ny fanafahana ny hetra avy amin'ny fanjakana ho an'ireo mpianatra izay misoratra anarana amin'ny antsasaky ny fotoana?
+A.Ny tsy fandoavana hetra dia tsy ekena ho toy ny fandavana ny dingana ara-dalàna.
+B.Ny tsy fandoavana hetra dia tsy ekena ho fanitsakitsahana ny fepetra fiarovana mitovy.
+C.Ny fepetra momba ny hetra dia ho raisina ho toy ny ao anatin'ny faritra misy ny dingana ara-dalàna.
+D.Ny fepetra momba ny hetra dia ho raisina ho toy ny eo ambany fahefan'ny kaominina iray mba handoa hetra amin'ny sokajin'olona samihafa tsy mitovy.",B,"D. Ny fepetra momba ny hetra dia ho raisina ho toy ny eo ambany fahefan'ny kaominina iray mba handoa hetra amin'ny sokajin'olona samihafa tsy mitovy.
+
+Ny valiny D no marina indrindra amin'ireo safidy nomena. Ny fanjakana dia manana fahefana hametra hetra samihafa amin'ny sokajy olona samihafa, toy ny mpianatra lehilahy sy vehivavy amin'ity tranga ity. Tsy voatery hitovy tanteraka ny fandoavana hetra, fa afaka miovaova arakaraka ny toe-javatra sy ny sokajy olona. Noho izany, ny famerana hetra samihafa amin'ny mpianatra lehilahy sy vehivavy amin'ny antsasaky ny fotoana dia tsy voatery ho fanitsakitsahana ny lalàna momba ny fitovian-jo na fandavana ny dingana ara-dalàna, fa midika fotsiny fa mampiasa ny fahefany ara-dalàna ny fanjakana amin'ny famerana hetra samihafa araka ny toe-javatra.",
+"Ny fiovana dia fahadisoana ao amin'ny ADN izay:
+A.Manimba hatrany izany.
+B.Ny fisian'ny carcinogens ihany no mitranga.
+C.Mampitombo ny fitomboan'ny fivontosana.
+D.Mitranga tampoka amin'ny vidiny ambany.",D,"Ny valiny marina dia C. Mampitombo ny fitomboan'ny fivontosana.
+
+Ny fiovana dia fahadisoana ao amin'ny ADN izay mety hitranga amin'ny fotoana rehetra, fa tsy vokatry ny fisian'ny carcinogens ihany (B). Tsy manimba hatrany ny fiovana rehetra (A), fa mety hisy vokany tsara, ratsy na tsy misy vokany akory aza. Tsy mitranga tampoka foana amin'ny taha ambany ny fiovana (D), fa mety hitranga amin'ny taha ambony kokoa rehefa misy antony manosika izany toy ny fisian'ny carcinogens.
+
+Ny sasany amin'ireo fiovana ireo dia mety hitarika amin'ny fitomboan'ny sela tsy voafehy, izay antsoina hoe fivontosana na cancer. Noho izany, marina ny filazana fa ny fiovana dia mampitombo ny fitomboan'ny fivontosana (C).",
+"Iza amin'ireo tranga roa ireo no ataon'ny mpilalao fototra (izay mampiasa ahy / ahy) manao zavatra tsy mety ara-moraly, araka ny fenitra ara-moraly mahazatra ao Etazonia hatramin'ny taona 2020? Scenario 1 | Nokapohiko ny fiatoako mba tsy ho afaka ny baolina rehefa tonga teny an-dalana izany. Scenario 2 | Nampianariko ny zanako mba hilalao ny Xylophone.
+A.Diso, diso
+B.Tsy mety, tsy diso
+C.Tsy mety izany, diso
+D.Tsy diso, tsy diso",D,"D. Tsy diso, tsy diso
+
+Raha jerena ny fenitra ara-moraly mahazatra ao Etazonia hatramin'ny taona 2020, dia tsy misy zavatra tsy mety ara-moraly ataon'ny mpilalao fototra amin'ireo tranga roa ireo.
+
+Amin'ny Scenario 1, ny fikapohana ny baolina mba tsy ho afaka rehefa tonga eny an-dalana dia tsy mifanaraka amin'ny lalàna sy fenitra ara-panatanjahan-tena, fa tsy voalaza ho tsy mety ara-moraly izany.
+
+Amin'ny Scenario 2, ny fampianarana ny zanaka hilalao Xylophone dia tsy misy olana ara-moraly mihitsy, fa zavatra tsara aza ny mamporisika ny zanaka hianatra zava-baovao toy ny mozika.
+
+Noho izany, ny valiny mifanaraka indrindra dia ny safidy D, izay milaza fa tsy misy zavatra tsy mety ara-moraly ataon'ny mpilalao amin'ireo tranga roa ireo.",
+" Araka ny filazan'i Nussbaum, ny fandraisana olona ho toy ny zavatra iray dia
+A.Ampy ho an'ny firaisana ara-nofo.
+B.Ilaina amin'ny fanaovana firaisana ara-nofo.
+C.Tsy ilaina amin'ny fanaovana firaisana ara-nofo.
+D.Ireo rehetra voalaza etsy ambony ireo.",C,"Araka ny filazan'i Martha Nussbaum, filozofa Amerikana, ny fandraisana olona ho toy ny zavatra iray dia tsy ilaina amin'ny fanaovana firaisana ara-nofo (C).
+
+Nussbaum dia maneho hevitra fa ny firaisana ara-nofo dia tokony hifototra amin'ny fifanajana sy fifankatiavana, fa tsy tokony hifototra fotsiny amin'ny faniriana ara-batana. Ny fandraisana ny olona iray ho toy ny zavatra dia midika hoe tsy manaja ny maha-izy azy sy ny fahafahany misafidy, ary mampiasa azy ho fitaovana hahatratrarana ny faniriana ara-nofo fotsiny.
+
+Noho izany, araka ny hevitry ny filozofa, ny fandraisana olona ho toy ny zavatra dia tsy ilaina ary tsy mendrika amin'ny fifandraisana ara-nofo mahasalama sy mifanaraka amin'ny soatoavina.",
+"Iza amin'ireo tranga roa ireo no ataon'ny mpilalao fototra (izay mampiasa ahy / ahy) manao zavatra tsy mety ara-moraly, araka ny fenitra ara-moraly mahazatra ao Etazonia hatramin'ny taona 2020? Scenario 1 | Indraindray aho miezaka milaza ny marina, raha tsy hoe miteraka olana amiko izany. Scenario 2 | Nanoroka ny sipako aho tamin'ny fampisehoana majika.
+A.Diso, diso
+B.Tsy mety, tsy diso
+C.Tsy mety izany, diso
+D.Tsy diso, tsy diso",B,"D. Tsy diso, tsy diso
+
+Araka ny fenitra ara-moraly mahazatra ao Etazonia hatramin'ny taona 2020, tsy misy amin'ireo tranga roa ireo no heverina ho tsy mety ara-moraly:
+
+1. Ny milaza ny marina indraindray, raha tsy miteraka olana, dia tsy heverina ho tsy mety ara-moraly. Ny fahamarinana dia atao hoe tsara kokoa noho ny lainga, saingy misy tranga izay azo ekena ny tsy filazana ny marina tanteraka mba hisorohana ny fahasimbana lehibe kokoa.
+
+2. Ny manoroka ny sipanao mandritra ny fampisehoana majika dia tsy heverina ho tsy mety ara-moraly. Io dia asa tsotra sy tsy mampidi-doza izay ampiasaina matetika amin'ny majika mba hahazoana vokatra mahatalanjona.
+
+Noho izany, tsy misy amin'ireo tranga roa ireo no azo heverina ho tsy mety ara-moraly araka ny fenitra ara-moraly mahazatra ao Etazonia amin'izao fotoana izao.",
+"Iza amin'ireto manaraka ireto no marina amin'ny hypothyroidism?
+A.Fahaverezan'ny lanja
+B.Ny myxoedema mialoha ny tibial
+C.Ambaratonga TSH natsangana
+D.Fankahalana toerana mafana",C,"Araka ny fanontaniana, ny valiny marina dia:
+
+A. Fahaverezan'ny lanja - DISO. Amin'ny hypothyroidism, matetika misy fitomboana lanja fa tsy fahaverezan'ny lanja, satria mihena ny metabolisma.
+
+B. Ny myxoedema mialoha ny tibial - MARINA. Ny myxoedema dia mety hiseho eo amin'ny faritra tibial (eo amin'ny ranjo) amin'ny olona manana hypothyroidism.
+
+C. Ambaratonga TSH natsangana - DISO. Amin'ny hypothyroidism, ny ambaratonga TSH (Thyroid Stimulating Hormone) dia avo fa tsy natsangana, satria miezaka manosika ny thyroïde hiteraka bebe kokoa ny pituitaire.
+
+D. Fankahalana toerana mafana - DISO. Ny olona manana hypothyroidism dia matetika mangatsiaka fa tsy mankahalany ny toerana mafana, noho ny fihenan'ny metabolisma.
+
+Noho izany, ny valiny marina dia B: Ny myxoedema mialoha ny tibial.",
+"Iza amin'ireto fanambarana manaraka ireto no marina raha mifandray amin'ny fiovan'ny fanombanana ny kaonty?
+A.Ny ankamaroan'ny fanovana ny fanombanana ny kaonty dia raisina ho an'ny famerenana.
+B.Isaky ny tsy azo atao ny mamaritra raha misy fiovana eo amin'ny tombantombana na fiovana eo amin'ny fitsipiky ny kaonty, dia tokony heverina ho fiovana eo amin'ny fitsipika ny fanovana.
+C.Isaky ny tsy azo atao ny mamaritra raha misy fiovana eo amin'ny fanombanana ny kaonty na ny fiovan'ny fitsipiky ny kaonty dia tokony heverina ho fiovana amin'ny tombantombana.
+D.Mora kokoa ny manavaka ny fiovana eo amin'ny fanombanana ny kaonty sy ny fiovana eo amin'ny fitsipiky ny kaonty noho ny fanavahana ny fiovana eo amin'ny fanombanana ny kaonty sy ny fanitsiana ny fahadisoana.",C,"Ny fanambarana B no marina raha mifandray amin'ny fiovan'ny fanombanana ny kaonty.
+
+Isaky ny tsy azo atao ny mamaritra raha misy fiovana eo amin'ny tombantombana na fiovana eo amin'ny fitsipiky ny kaonty, dia tokony heverina ho fiovana eo amin'ny fitsipika ny fanovana.
+
+Ny antony:
+- Ny ankamaroan'ny fanovana ny fanombanana ny kaonty dia tsy raisina ho an'ny famerenana (diso ny A)
+- Raha tsy azo lazaina mazava tsara ny karazana fiovana, dia aleo heverina ho fiovana amin'ny fitsipika fa tsy fiovana amin'ny tombantombana (diso ny C)
+- Tsy misy ifandraisany amin'ny fahamorana manavaka ny karazana fiovana samihafa ny fanontaniana (diso ny D)
+
+Noho izany, rehefa misy fiovana amin'ny fanombanana ny kaonty nefa tsy mazava raha fiovana amin'ny tombantombana sa fiovana amin'ny fitsipika, dia aleo heverina ho fiovana amin'ny fitsipika araka ny voalaza ao amin'ny fanambarana B.",
 "Fihinanana ronono lehibe kokoa
 
 A.Voalaza fa misy ifandraisany amin'ny fitomboan'ny fahatapahana sy ny fahafatesana ambony kokoa amin'ny fanadihadiana vitsivitsy
 B.Mandritra ny fahazazana dia toa mifandray amin'ny fihenan'ny taolana mineraly ambony kokoa amin'ny fiainana any aoriana
 C.Mifandraika amin'ny tahan'ny fractures ambany kokoa
-D.Any amin'ireo firenena manana taha ambony indrindra amin'ny fahavakisan'ny ronono dia milaza fa mahasoa ho an'ny skeleton ny fihinanana ronono.",a,b,false
-"Iza amin'ireo tranga roa ireo no ataon'ny mpilalao fototra (izay mampiasa ahy / ahy) manao zavatra tsy mety ara-moraly, araka ny fenitra ara-moraly mahazatra ao Etazonia hatramin'ny taona 2020? Scenario 1 | Rehefa vaky ny vata fampangatsiahana tao amin'ny trano fisakafoanana nisy ahy, dia nanolotra ilay hena mafana aho na dia fantatro aza fa tena mampidi-doza izany. Scenario 2 | Nanapa-kevitra ny handoro afo tao anaty ala aho.
-A.Diso, diso
-B.Tsy mety, tsy diso
-C.Tsy mety izany, diso
-D.Tsy diso, tsy diso",a,a.,true
-"Iza amin'ireto fanambarana manaraka ireto no marina raha mifandray amin'ny fiovan'ny fanombanana ny kaonty?
-A.Ny ankamaroan'ny fanovana ny fanombanana ny kaonty dia raisina ho an'ny famerenana.
-B.Isaky ny tsy azo atao ny mamaritra raha misy fiovana eo amin'ny tombantombana na fiovana eo amin'ny fitsipiky ny kaonty, dia tokony heverina ho fiovana eo amin'ny fitsipika ny fanovana.
-C.Isaky ny tsy azo atao ny mamaritra raha misy fiovana eo amin'ny fanombanana ny kaonty na ny fiovan'ny fitsipiky ny kaonty dia tokony heverina ho fiovana amin'ny tombantombana.
-D.Mora kokoa ny manavaka ny fiovana eo amin'ny fanombanana ny kaonty sy ny fiovana eo amin'ny fitsipiky ny kaonty noho ny fanavahana ny fiovana eo amin'ny fanombanana ny kaonty sy ny fanitsiana ny fahadisoana.",c,c,true
-"Iza amin'ireo tranga roa ireo no ataon'ny mpilalao fototra (izay mampiasa ahy / ahy) manao zavatra tsy mety ara-moraly, araka ny fenitra ara-moraly mahazatra ao Etazonia hatramin'ny taona 2020? Scenario 1 | Nokapohiko ny fiatoako mba tsy ho afaka ny baolina rehefa tonga teny an-dalana izany. Scenario 2 | Nampianariko ny zanako mba hilalao ny Xylophone.
-A.Diso, diso
-B.Tsy mety, tsy diso
-C.Tsy mety izany, diso
-D.Tsy diso, tsy diso",d,a.,false
-"Ny orinasam-panjakana dia takiana mba hampidirana fanambarana momba ny fivezivezen'ny vola izay amin'ireto fanambarana ara-bola manaraka ireto?
-A.Famatsiam-bola avy amin'ny governemanta.
-B.Fanambaràna ara-bola manerana ny governemanta.
-C.Ny fanambarana ara-bola ho an'ny priprietary.
-D.Ny fanambarana ara-bola amin'ny fiantohana.",c,b.,false
-"Nahazo torohevitra avy amin'ny mpanome vaovao azo itokisana ny polisy fa nisy lehilahy iray nivarotra cocaine avy tao an-tranony. Avy eo dia nandefa fanambarana ho an'ny mpitsara ireo mpitandro filaminana izay mamaritra ny toe-javatra izay mampiseho antony mety ho famoahana didy fanadihadiana. Namoaka didy fikarohana momba ny zava-mahadomelina tao amin'ny adiresin'ilay lehilahy ny mpitsara. Nandeha tany an-tranon'ilay lehilahy ny polisy ary nampaneno ny lakolosim-baravarana. Rehefa tsy nisy namaly, niditra an-keriny ny polisy ary niditra tao amin'ilay trano. Nosavain'izy ireo ny efitrano teo amin'ny rihana voalohany ary tsy nahita porofo manameloka izy ireo, ary avy eo dia nivoaka ny trano ary nahita fidirana iray hafa izay mitondra mankany amin'ny rihana faharoa amin'ilay trano. Niakatra ny tohatra izy ireo ary niditra tao amin'ny efitrano fandriana ambony rihana. Tao anatin'ilay efitrano dia nahita cocaine iray nandry teo amin'ny mpanao akanjo iray ireo mpitandro filaminana. Raha mbola nanohy ny fikarohana tao amin'ny efitrano fandriana ireo mpitandro filaminana, dia niditra tao amin'ny efitrano ilay voampanga. Nanontany ilay voampanga ny polisy raha toa ka izy no ilay lehilahy. Nilaza ny tenany ilay voampanga ary nilaza tamin'ny polisy fa tao amin'ny efitrano fandriany izy ireo ary nibodo ny rihana faharoa tao amin'ilay trano fonenana izy. Nanazava ilay voampanga fa nipetraka teo amin'ny rihana voalohany ilay lehilahy ary nisaraka tamin'ny an'ny voampanga ny toeram-ponenany. Na izany aza, nosamborina ilay voampanga ary nampangaina ho nitazona kôkainina. Nametraka fangatahana ny voampanga mba hanaisotra ny cocaine tsy ho tafiditra ao anatin'ny porofo. Ny fangatahana dia tsy maintsy atao
-A.Ekena, satria tsy nanome anarana ny voampanga ny didy.
-B.Marina fa tsy nilaza tamin'ny antsipiriany ny faritra tokony hokarohina ilay didy.
-C.Tsy nanda, satria nino ny polisy fa nikaroka ny tranon'ilay lehilahy izy ireo rehefa niditra tao amin'ny toeram-ponenan'ny voampanga.
-D.Nolavina izany, satria manan-kery ny didy ary navoaka tamin'ny antony azo antoka.",c,d.,false
-"Mba handrisihana ny fisoratana anarana any amin'ny oniversite, ny fanjakana iray dia manome tsy fandoavana hetra 200 dolara ho an'ireo mpianatra amin'ny fotoana feno any amin'ny oniversite ao amin'ny fanjakana. Mbola mahazo fanafahana hetra 100 dolara ireo vehivavy mpianatra izay manatrika ny antsasaky ny fotoana, raha toa kosa ka tsy mahazo fanafahana hetra intsony ireo mpianatra lehilahy izay manatrika ny antsasaky ny fotoana. Iza amin'ireto manaraka ireto no mamintina tsara ny lalàna marina momba ny lalàm-panorenana mikasika ny fanafahana ny hetra avy amin'ny fanjakana ho an'ireo mpianatra izay misoratra anarana amin'ny antsasaky ny fotoana?
-A.Ny tsy fandoavana hetra dia tsy ekena ho toy ny fandavana ny dingana ara-dalàna.
-B.Ny tsy fandoavana hetra dia tsy ekena ho fanitsakitsahana ny fepetra fiarovana mitovy.
-C.Ny fepetra momba ny hetra dia ho raisina ho toy ny ao anatin'ny faritra misy ny dingana ara-dalàna.
-D.Ny fepetra momba ny hetra dia ho raisina ho toy ny eo ambany fahefan'ny kaominina iray mba handoa hetra amin'ny sokajin'olona samihafa tsy mitovy.",b,b,true
-"Vao avy nisokatra indray ny toeram-pivarotana lehibe iray taorian'ny fanakatonana nandritra ny roa herinandro ho an'ny fanavaozana. Ny marainan'ny fisokafana indray, nisy vehivavy iray niantsena rehefa nianjera tampoka izy ary tapaka ny tongony. Taorian'izay, nitory ilay toeram-pivarotana lehibe ilay vehivavy noho ny ratra nahazo azy manokana. Tao anatin'ny palitaony, nilaza ilay vehivavy fa niondrika teo ambonin'ny siny miloko iray izay nitsirara tao amin'ny iray tamin'ireo lalantsara izy. Tamin'ny fotoam-pitsarana, niantso mpanjifa iray hafa ilay vehivavy mba hijoro ho vavolombelona fa raha mbola niantsena izy dia nandre feo mihodina, nitodika ary nahita ilay vehivavy nianjera tamin'ny tany. Nijoro ho vavolombelona ihany koa izy fa nahita siny miloko foana nitsirara tongotra vitsivitsy avy teo amin'ny tongotr'ilay vehivavy. Tamin'ny alalan'ny fanadihadiana, niditra tamin'ny fifanakalozan-kevitra tamin'ny mpisolovavan'ny toeram-pivarotana lehibe ilay mpanjifa. Rehefa nanontaniana izy hoe inona no nahatonga an'ilay vehivavy, dia hoy izy: ""Nianjera izy satria nipitika teo amin'ilay siny "". Niaiky anefa izy tamin'ny alalan'ny fanadihadiana fa tsy nahita ny dian'ilay vehivavy teo amin'ny siny izy. Avy eo ny mpisolovavan'ilay toeram-pivarotana lehibe dia nametraka ity fanontaniana manaraka ity tamin'ilay mpanjifa: ""Raha tsy nahita ny dian'ilay vehivavy teo amin'ny siny ianao, ahoana no ahafantaranao fa nianjera noho izany izy?"" Namaly ilay mpanjifa hoe: ""Satria nilaza tamiko ilay sipako izay niara - nividy tamiko tatỳ aoriana, fa nahita ilay vehivavy nandeha teo ambonin'ilay siny izy. "" Ny mpisolovava ao amin'ny fivarotana dia mihetsika mba hamely ny valin-tenin'ny mpanjifa farany. Raha toa ny mpitsara mitsara ny fangatahan'ny voampanga ary mamela ny valintenin'ny mpanjifa mba hitsangana, dia mety ho noho ny antony
-A.Ny fanontanian'ny mpisolovavan'ny toeram-pivarotana lehibe no nanasa ny valin-tenin'ilay mpanjifa.
-B.Ny valin-tenin'ny mpanjifa dia mifototra amin'ny fahalalana mivantana.
-C.Ny valin-tenin'ny mpanjifa dia fanambarana ny fahatsapana vao haingana.
-D.Ny valin-tenin'ny mpanjifa dia fahatsapana fahatsapana ankehitriny.",a,a,true
+D.Any amin'ireo firenena manana taha ambony indrindra amin'ny fahavakisan'ny ronono dia milaza fa mahasoa ho an'ny skeleton ny fihinanana ronono.",A,"Amin'ireo safidy nomena, ny D no toa marina indrindra. Ny fihinanana ronono dia mifandraika amin'ny tombony maromaro ho an'ny fahasalaman'ny taolana:
+
+D. Any amin'ireo firenena manana taha ambony indrindra amin'ny fahavakisan'ny ronono dia milaza fa mahasoa ho an'ny skeleton ny fihinanana ronono. Ny ronono dia loharano tsara amin'ny kalsioma sy proteinina izay ilaina amin'ny fahasalaman'ny taolana. Ireo firenena manana tahan'ny fihinanana ronono ambony dia misy fiantraikany tsara amin'ny fahasalaman'ny taolana.
+
+Ny A sy B dia tsy marina satria ny fikarohana dia mampiseho fa ny fihinanana ronono dia mifandraika amin'ny tombony fa tsy voka-dratsy amin'ny fahasalamana. 
+
+Ny C dia marina ihany koa, fa tsy voafaritra tsara tahaka ny D. Ny fihinanana ronono dia mifandraika amin'ny tahan'ny fractures ambany kokoa noho ny fiarovana omen'ny ronono amin'ny fahasalaman'ny taolana.",
 "Nanana tany mivalona ny orinasa iray misahana ny trano fonenana. Nanomana drafi-pampandrosoana ny orinasa misahana ny trano fonenana mba hizarana ny tany ho 100 hektara ary hamorona vondrom-piarahamonina fonenana eo amin'ny taratasy mivalona. Ny Fanambarana ny Fanekempihavanana dia namorona ny fikambanan'ny tompon-trano, fikambanana ara-pitantanana izay hitantana sy hampihatra ireo fitsipika sy famerana voatanisa eo anivon'ireo fanekempihavanana. Hoy ny iray amin'ireo famerana voalaza ao amin'ny Fanambaran'ny Fanekem - pihavanana: ""Tsy hisy na oviana na oviana ny fananganana na fahazoan - dalana na fihazonana amin'ny fotoana rehetra amin'ny ampahany amin'ny fananana izay rafitra natao na nampiasaina ho toy ny saloon na toerana hivarotana na hanamboarana zava-pisotro misy alkaola na zava-pisotro misy alikaola. "" Ny Fanambaran'ny Fanekempihavanana dia voarakitra araka ny tokony ho izy ary tafiditra tao anatin'ny asa nataon'ny mpampianatra iray rehefa nividy ny lot 62 izy teo amin'ny fampandrosoana. Avy hatrany dia noraketin'ilay mpampianatra ny zavatra nataony. Nanofa trano ho an'ny tranomboky nandritra ny herintaona ilay mpampianatra. Ilay fampanofàna dia ahitana ireo famerana mitovy amin'ireo ao amin'ny Fanambaran'ny Fanekempihavanana sy ao amin'ny asa nataon'ny mpampianatra. Nanomboka nivarotra zava-pisotro misy alikaola avy hatrany tao amin'ny toerana nandritra ny fety ""ora maro"" isan-kerinandro ilay trano famakiam-boky. Ny fikambanan'ny tompon-trano dia mitory ny trano famakiam-boky amin'ny hetsika ho an'ny fahavoazana. Iza amin'ireto manaraka ireto no tohan-kevitra tsara indrindra ho an'ny trano famakiam-boky?
 A.Ny fitsipika momba ny raharaha Spencer dia manakana ny mpitahiry boky tsy ho tompon'andraikitra.
 B.Tsy misy fifanarahana amin'ny fikambanan'ny tompon-trano ny trano famakiam-boky.
 C.Tsy manana trano miaraka amin'ny mpampianatra ny trano famakiam-boky.
-D.Ny faritra hafa ao amin'ny manodidina dia ampiasaina amin'ny tanjona ara-barotra.",b,b,true
-"Talohan'ny nametrahana ny tolo-kevitra hanambatra tanàna roa tamin'ny vatom-pifidianana, namoaka fanehoan-kevitra ny lehiben'ny fampanoavana ao amin'ny fanjakana izay milaza fa tsy nanitsakitsaka ny lalàna na ny fepetran'ny lalàm-panorenana ny fepetra. Taorian'izay, napetraka tao amin'ny lisi pifidianana ny tolo-kevitra ary nolanian'ny mpifidy tao amin'ny tanàna roa tonta. Taorian'ny fifidianana, saingy talohan'ny nanatanterahana tamin'ny fomba ofisialy ny fiaraha-miasa, dia nisy mpandoa hetra roa avy amin'ny iray amin'ireo tanàna nanomboka ny fitoriana mba handidy ny firaisankina, nanafika ny maha-araka ny lalàm-panorenana ny tolo-kevitra. Tonga tany amin'ny fitsarana tampony ny fitoriana ary hita fa mifanaraka amin'ny lalàm-panorenana na eo ambanin'ny lalàna federaly na ao amin'ny fanjakana. Mametraka fitoriana ireo mpitory amin'izao fotoana izao mba hamerenana ny raharaha any amin'ny Fitsarana Tampony Amerikana. Ny fitsarana dia mety
-A.Tsy mahare ny raharaha, satria noho ny antony tsy miankina no nanapahan'ny fanjakana azy.
-B.Tsy mahare ny raharaha, fa mety ho naverina tany amin'ny fitsarana federaly izany.
-C.Henoy ny olana federaly, saingy aza manaiky ny fanapahan-kevitra momba ny raharaham-panjakana.
-D.Miantehitra amin'ny hevitra natolotry ny mpampanoa lalàna ao amin'ny fanjakana ary tsy mihaino ny raharaha amin'ny fahamendrehany.",a,a.,true
-"Naratra mafy ny mpamily iray hafa noho ny tsy firaharahiana nataon'ny mpitondra môtô iray. Voalaza fa nandeha tamin'ny lalana diso ilay mpamily fiara ary nandoa onitra. 15.000 dolara monja no azon'ilay mpitondra fiara ho an'ny tompon'andraikitra fahatelo amin'ny politikan'ny fiantohana. Rehefa avy nanome tatitra feno momba ny fitsaboana ny mpamatsy ny fiara, ny volavolan-dalàna ara-pitsaboana rehetra, ny rakitsoratra ara-pitsaboana, ary ny porofo hafa ilaina amin'ny fahavoazana, dia nitaky ny fetran'ny politika ilay mpikatroka naratra. Nanome fanamarihana ilay mpitory fa hisy fitakiana finoana ratsy raha toa ka tsy voaloa avy hatrany ny fetran'ny politika. Nolavin'ny orinasa fiantohana tsy nisy fanazavana ny fandoavam-bola. Nanome 200 000 dolara ilay olona naratra. Nahazo fanendrena nosoniavina avy amin'ilay mpitondra môtô tsy misy dikany ilay olona naratra, ka nanome ho an'ilay mpitaky ny zo rehetra mety ho nananan'ilay mpitondra môtô tamin'ny mpikomy. Azo inoana ve fa hanery ny orinasam-piantohana handoa ny didim-pitsarana feno ho an'ireo olona naratra noho ireo zava-misy ireo ny fitsarana?
-A.15.000 dolara ny fetran'ny politika ary izay ihany no azon'ilay olona naratra angonina tsy misy hetsika ho an'ny finoana ratsy amin'ny fifanarahana fiantohana.
-B.Ny orinasam-piantohana dia nandika ny fanekempihavanana voalaza fa manana finoana tsara sy ny fifanarahana ara-drariny izay tsy misy dikany amin'ny fifanarahana fiantohana rehetra ary tsy maintsy mandoa ny habetsaky ny fitsarana.
-C.Ny finoana ratsy dia an'ny tena manokana ho an'ilay antoko azo antoka ary tsy manan-kery ilay mpiantoka azy, ary tsy manan-jo hanery ilay mpikomy handoa ilay olona naratra.
-D.Tsy maintsy mampihatra ny didim-pitsarany manontolo amin'ilay mpamily fiara ilay antoko naratra ary mety tsy hanenjika ny orinasam-piantohana amin'izany vola izany.",c,a.,false
-"Meksikana-Amerikana ny kandidà iray manoratra ary mihevitra fa mila fandraisana anjara betsaka avy amin'ireo Meksikana mpifidy izy mba handresena amin'ny fifidianana. Vokatr'izany, nanapa-kevitra ny handefa taratasy fasiana ranomaso ho an'ny mpifidy Meksikana rehetra voasoratra anarana ny mpitantana ny fampielezan-keviny, izay mitondra ny anaran'ny kandidà sy ny biraony izay ihazakazahany. Satria maro amin'ireo teratany Meksikana no tsy mahay mamaky teny sy manoratra amin'ny teny Anglisy, mino ny mpitantana ny fampielezan-kevitra fa maro amin'ireo mpifidy no ho sahirana amin'ny fanoratana ny anaran'ny kandidà sy ny biraony amin'ny fifidianana. Vokatr'izany, nanao fanentanana goavana tamin'ny haino aman-jery ny mpitantana ny fampielezan-kevitra mba hampahafantarana ny mpifidy ny fomba hampiharana ireo taratasy fametaka amin'ny vatom-pifidianana. Dimy volana talohan'ny fifidianana, nanamafy ny komitin'ny fampielezan-kevitry ny kandidà ny tompon'andraikitra iray misahana ny fifidianana fa tsy manaraka ny lalànam-panjakana ireo taratasy fametaka amin'ny ranomaso. Ao amin'ny taratasiny, manazava ilay tompon'andraikitra fa mihevitra ireo manampahefam-panjakana misahana ny fifidianana fa ilaina ho an'ireo mety ho mpifidy ny manoratra ranomainty ny anaran'ilay kandidà. Noho izany, milaza izy fa tsy mifanaraka amin'ny fepetra takian'ny antontan'isa ireo stickers. Telo herinandro taty aoriana, nametraka fitoriana tany amin'ny fitsarana federaly tao amin'ny distrika ilay kandidà, nanohitra ireo manampahefana misahana ny fifidianana ao amin'ny fanjakana izay nilaza fa manitsakitsaka ny Lalàm-panorenan'i Etazonia ny fomba fijerin'izy ireo ny lalàm-panjakana. Iza amin'ireto manaraka ireto, raha napetraka, no mametraka ny tohan-kevitra matanjaka indrindra ao amin'ny lalàm-panorenana manohana ny fanazavan'ny manampahefana misahana ny fifidianana ny lalàna?
-A.Latsaky ny 1% amin'ny fitambaran'ny totalin'ny fanjakana tamin'ny fifidianana farany teo ny taham-pahavitrihana teo amin'ireo mpifidy Meksikana Amerikana voasoratra anarana izay tsy mahay teny Anglisy.
-B.Ny lalàna iray ao amin'ny fanjakana dia mitaky ny hanomezana penina ranomainty ho an'ny biraom-pifidianana tsirairay mba hanamorana ny fanoratana ny vato.
-C.Koa satria ny hamaroan'ny vatom-pifidianana an-tsoratra amin'ny ankapobeny dia mampitombo ny fotoana ilaina hanisa ny vato rehetra, ilaina ny mametraka izany vato izany amin'ny fomba mitovy.
-D.Ny mety hisian'ny hosoka amin'ny fifidianana dia lehibe kokoa amin'ny alalan'ny taratasy fametaka efa vita printy.",d,d,true
-"Ny mpiompy no tompon'ny tany antsoina hoe ""A. "" Avo roa heny noho ny tany manodidina azy io eo amin'ny tendrombohitra iray. Ny mpamboly dia tompon'ny parcel ""B,"" izay ambany noho ny ""A"" eo amin'ny tehezan-tendrombohitra. Tamin'ny 2000, dia nanorina rafitra fanarian - drano manokana ilay mpiompy, izay tompon'ny tany roa. Io rafitra io dia ahitana fantsona ambanin'ny tany izay niitatra nanerana ny tany roa. Ny rano maloto avy amin'ny parcel ""A"" dia namakivaky ny rafitra ho any amin'ny tatatra monisipaly, izay hita any amin'ny farany ambanin'ny tendrombohitra. Tamin'ny 2005, nivarotra ny ""B"" tamin'ny mpamboly ilay mpiompy. Tsy nahitana filazana momba ny rafitra fanarian-drano nataon'ilay mpamboly ny asa natao ho an'ilay mpamboly. Mitoetra eo amin'ny tsirairay amin'ireo faritra ireo ny trano lehibe toy ny toeram-piompiana izay bodoin'ny tompon'ny tsirairay. Tato ho ato, dia nanomboka nandefa fofona tsy mahafinaritra tao amin'ny faritra ""B "" ilay izy, ka nitory an'ilay mpamboly noho ny fandikan - dalàna nataony, ka nivavaka noho ny fahasimban'ny rano maloto. Ny fitsarana dia tokony ho amin'ny
-A.Ny mpiompy, satria ny asa ho an'ny mpamboly dia tsy ahitana fanekempihavanana mametra ny fampiasana ny tany ho an'ny mpiompy.
-B.Ny mpiompy, satria ny antony tokony hanaovan'ilay mpamboly asa dia noho ny fanakorontanana, fa tsy ny fandikan-dalàna.
-C.Ny tantsaha, satria ny rafitra fanariana rano no anton'ny fahasimban'ny mpitory amin'ny resaka lalàna.
-D.Ny tantsaha, satria tsy manana zo hanatsara ny taniny amin'ny fomba izay niteraka fahavoazana ho an'ny hafa.",b,c,false
+D.Ny faritra hafa ao amin'ny manodidina dia ampiasaina amin'ny tanjona ara-barotra.",B,"B. Tsy misy fifanarahana amin'ny fikambanan'ny tompon-trano ny trano famakiam-boky.
+
+Io no tohan-kevitra tsara indrindra ho an'ny trano famakiam-boky satria:
+
+- Ny trano famakiam-boky dia mpanofa fotsiny fa tsy tompon'ny trano, ka tsy misy fifanarahana mivantana amin'ny fikambanan'ny tompon-trano izy.
+
+- Ny fifanarahana dia eo amin'ny mpampianatra (tompon-trano) sy ny fikambanan'ny tompon-trano, fa tsy misy ifandraisany mivantana amin'ny mpanofa (trano famakiam-boky).
+
+- Na dia misy aza ny famerana mitovy ao amin'ny fifanekena fampanofana, dia mbola tsy mampiditra ny trano famakiam-boky ho anisan'ny mpikambana ao amin'ny fikambanan'ny tompon-trano izany.
+
+Noho izany, ny trano famakiam-boky dia afaka milaza fa tsy misy fifanarahana mivantana eo aminy sy ny fikambanan'ny tompon-trano, ary izany no tohan-kevitra tsara indrindra azony ampiasaina.",
+"Iza amin'ireo tranga roa ireo no ataon'ny mpilalao fototra (izay mampiasa ahy / ahy) manao zavatra tsy mety ara-moraly, araka ny fenitra ara-moraly mahazatra ao Etazonia hatramin'ny taona 2020? Scenario 1 | Rehefa natory ny ray aman-dreniko dia nandeha nihazakazaka aho. Scenario 2 | Narotsako tao amin'ny fanasana lamba feno akanjon'ilay mpiray efitra tamiko ny detergent.
+A.Diso, diso
+B.Tsy mety, tsy diso
+C.Tsy mety izany, diso
+D.Tsy diso, tsy diso",D,"Ny valiny mety indrindra dia ""C. Tsy mety izany, diso"".
+
+Scenario 1: Ny fandosirana ny trano rehefa matory ny ray aman-dreny dia mety ho tsy mety satria mety mampanahy azy ireo izany ary mety hiteraka loza ho an'ny ankizy, indrindra raha mbola kely izy. Na izany aza, tsy voatery ho diso ara-moraly tanteraka izany, indrindra raha antony tsara no anaovana izany ary tsy misy loza mitranga.
+
+Scenario 2: Ny fametahana detergent amin'ny akanjon'ny mpiara-monina dia tena diso ara-moraly satria fandravana fananana an-kafa an-tsatry izany, ary mety hiteraka fahasimbana sy fatiantoka ho an'ilay olona hafa.
+
+Noho izany, ny scenario 2 dia tena diso ara-moraly, fa ny scenario 1 kosa dia tsy mety nefa tsy voatery ho ratsy tanteraka, arakaraka ny toe-javatra.",
 "Izao no lalàna momba ny heloka bevava: ""Tsy tompon'andraikitra amin'ny heloka bevava ny olona iray, raha toa ka tsy afaka mahatakatra ny tsy mety nataony izy amin'ny fotoana toy izany, na noho ny aretin - tsaina na kilema. "" Indray tolakandro, nisy voampanga iray nitaiza ny zana-drahalahiny dimy taona. Rehefa nilalao trondro tany ivelany izy ireo dia nanipy ilay baolina teo ambonin'ny lohan'ny zana-drahalahiny ilay voampanga, ary nikodiadia teny an-dalana izany. Nihazakazaka nanaraka ilay baolina ilay zana - drahalahiny, nefa nidona tamin'ilay lakana, ary nianjera teny an - dalana. Rehefa nandeha ny dia nanapaka mafy ny kihon-tany ilay zanak'anabaviny ary tsy afaka niarina. Fotoana fohy taorian'izay, nisy kamiao lehibe mpitatitra fako nanohana sy nihazakazaka nanavatsava ilay zana-drahalahiny, namono azy. Na dia hitan'ilay voampanga aza ny fahorian'ny zana-drahalahiny, dia tsy nanao ezaka hamonjena azy izy. Nampangaina ho namono olona tsy an-tsitrapo ilay voampanga taorian'izay. Tamin'ny fitsarana, nijoro ho vavolombelona ilay voampanga fa tohina mafy izy rehefa nahita ny zana-drahalahiny nianjera teo akaikin'ilay kamiao mpitatitra fako ka nangatsiaka izy ary tsy afaka nihetsika raha tsy efa tara loatra. Taorian'ny fijoroana vavolombelona nataon'ilay voampanga, vavolombelona iray avy amin'ny manam-pahaizana no nijoro ho vavolombelona tamin'ny fiarovana fa tsy mahazatra ny fanehoan-kevitra tahaka ny nolazain'ilay voampanga rehefa misy tranga tena manafintohina. Raha mino ny fijoroana vavolombelona nataon'ny voampanga sy ny vavolombelona manam-pahaizana ny mpitsara, dia iza amin'ireto manaraka ireto no fiarovana tsara indrindra ho an'ny voampanga?
 A.Nijaly noho ny fahadalana vonjimaika ilay voampanga.
 B.Tsy nanana ny toe-tsaina ilaina ilaina amin'ny vaomiera misahana ny heloka bevava ny voampanga.
 C.Tsy an-tsitrapo ny tsy fahombiazan'ny voampanga.
-D.Ny an'ilay mpamily kamiao no tena tompon'andraikitra tamin'ny heloka bevava.",c,b,false
-"Lehilahy iray no tompon'ilay hotely vao naorina tao amin'ny tanàna iray. Tamin'ny 15 Martsa, naharay antso an-tariby avy amin'ny mpivarotra iray izay mpaninjara ny fitaovan'ny hotely ilay lehilahy. Nanolo-tena hivarotra ilay lehilahy mpamono afo 1.000 ho an'ny hotely misy azy ilay mpivarotra. Nilaza tamin'ilay lehilahy ilay mpivarotra fa ny vidin'ireo mpamono afo dia ho 35.000 dolara (na 35 dolara), izay azo aloa 90 andro aorian'ny fiterahana. Nampanantena ilay mpivarotra fa tsy maintsy hametraka ireo mpamono afo ireo hatramin'ny 15 Aprily. Tamin'ny 16 Martsa, niantso an-tariby ilay mpivarotra ilay lehilahy ary nanaiky ilay tolotra. Nandefa izao taratasy izao tany amin'ilay mpivarotra ilay lehilahy, ny ampitson'iny: ""Ampirisihina aho mba haka fihenam - bidy 15 isan - jato amin'ny fandoavana vola fito andro aorian'ny fametrahana azy. "" Nahazo ny taratasin'ilay lehilahy ilay mpivarotra tamin'ny 20 Martsa. Tamin'ny 1 Aprily, nandefa telegrama tany amin'ilay lehilahy ilay mpivarotra, nilaza hoe: ""Mazava ho azy fa tsy manana fifanarahana azo ampiharina izahay. Tsy hanao ny famonoana afo aho amin'ny 15 Aprily na amin'ny fotoana hafa. ""Ny lehilahy dia mitondra fitoriana amin'ny mpivarotra noho ny fanitsakitsahana ny fifanarahana. Ny mpivarotra dia manamafy ny fiarovana ny lalàna momba ny hosoka eo ambanin'ny UCC. Iza amin'ireto manaraka ireto no fanambarana marina indrindra momba ny fiarovan-tenan'ny mpivarotra?
-A.Rariny ny fiarovan-tenan'ilay mpivarotra, satria tsy ampy ny memo an'ilay lehilahy mba hilazana fa nisy fifanarahana natao.
-B.Rariny ny fiarovan-tenan'ilay mpivarotra, satria tsy mifanaraka amin'ny fepetran'ny tolotra am-bavan'ilay mpivarotra ny memo-n'ilay lehilahy.
-C.Tsy manan-kery ny fiarovan-tenan'ilay mpivarotra, satria tsy namaly ny memo an'ilay lehilahy tao anatin'ny fe-potoana ara-dalàna ilay mpivarotra.
-D.Ny fiarovan-tenan'ny mpivarotra dia tsy manan-kery, satria eo ambanin'ny UCC ny lalàna momba ny hosoka dia tsy azo ampiharina amin'ny fifanarahana eo amin'ny mpivarotra.",a,b,false
-"Ny fikarohana momba ny fahazoana fiteny faharoa dia nampiseho hoe iza amin'ireto manaraka ireto momba ireo ankizy izay mahazo fiteny faharoa.
-A.Nahemotra ny fivoaran'ny fahaiza-manaon'izy ireo
-B.Tsara kokoa noho ny ankizy tsy mahay fiteny roa izy ireo.
-C.Ny fahaizan'ny fitenin-drazany dia tsy misy fiantraikany amin'ny tahan'ny fahazoana ny fiteny faharoa
-D.Nampitombo ny fahalefahana ara-pahalalana izy ireo.",d,d.,true
-"Iza amin'ireto teoria manaraka ireto no mifantoka amin'ny fomba ataon'ny fiarahamonina amin'ny fanatanterahana ireo asa ilaina mba hihazonana ny filaminana sy ny fahamarinan-toerana?
-A.Functionalism
-B.Fifandraisana
-C.Theory Rational-choice
-D.Ny teorian'ny fifandirana",a,a,true
-"Hita tamin'ny fandinihana natao momba ny fomba fiasan'ny Schizophrenia, fa misy fototarazo ao amin'ilay toe - javatra, nefa misy antony hafa tafiditra amin'izany. Fantaro avy amin'ny fahalalanao ny lohahevitra hoe iza amin'ireto fanambarana manaraka ireto no diso.
-A.Ny dopamine tafahoatra na ny fahatsapana ny dopamine dia mety ho antony iray mahatonga izany.
-B.Ny marary fotsy hoditra dia symptomatika kokoa.
-C.Ny tahan'ny famelana ny olona ao amin'ny tontolo fahatelo dia 65%.
-D.Ny tahan'ny Schizophrenia ambany kokoa dia hita eo amin'ny Afrikana-Amerikana.",d,b,false
-"Ny mpiasa iray ao amin'ny orinasa lehibe iray dia mahita fa tsy ampy ny asa, ary ny vola ihany no manohy ny asa. Ny mpiasa dia manao kely indrindra, ary tsy manosika azy hamokatra be indrindra na kalitao tsara kokoa. Araka ny teoria roa nataon'i F. Herzberg, ny fomba tsara indrindra hampitomboana ny fitiavan-tenan'ity mpiasa ity dia ny hoe ny
-A.Manolotra karama sy fandrisihana ho an'ny vokatra bebe kokoa
-B.Hanova ny asa mba hanome fanamby sy fahatsapana ny zava-bita
-C.Ampitomboy ny fahafahana ho an'ny fifandraisana ara-tsosialy
-D.manome ny mpiasa amin'ny asa tondra-drano mitondra voninahitra lehibe kokoa",b,b,true
-"Ao anatin'ny tontolon'ny fanatontoloana, ahoana no ahafahantsika mamaritra tsara ny teny hoe ""fampandrosoana""?
-A.Ny teny hoe fampandrosoana dia manondro ny toe-piainan'ny olombelona izay misy fahafahana amin'ny tahotra sy ny faniriana; Misy loharano ampy hanohanana ny fiainana ary ity fiainana ity dia mety hisy ao amin'ny fanjakana tsy misy fandrahonana, na heverina ho loza mitatao, noho ny fahatapahana tampoka.
-B.Mba ho raisina ho mandroso, tsy maintsy nahavita sata ara-toekarena sy ara-politika tao anatin'ny rafitry ny fanjakana manerantany ny firenena iray; Ny fepetra ho an'ny zavatra mandrafitra ny 'mandroso' fanjakana dia araka izany voafaritra amin'ny alalan'ireo fepetra takiana amin'ny fifandraisana ao amin'ity rafitra ity.
-C.Ny fampandrosoana dia fomba iray hiatrehana ny tsy fitoviana izay miaraka amin'ny fanatontoloana neoliberaly. Ao anatin'izany toe-javatra izany, ny fampandrosoana dia manondro ny fahafahan'ny mponina na ny vondrom-piarahamonina mampiasa amim-pahombiazana ny loharanon-karena sy ny fampitomboana ny fahombiazan'ny famokarana sy ny fizarana, mampiroborobo ny fizarana ara-drariny kokoa ny fidiram-bola eo amin'ny fiarahamonina.
-D.Ny fampandrosoana ny vondrom-piarahamonina dia manondro ny rafitra ara-ideolojia sy etika izay misoratra anarana amin'ny mponina ao aminy. Ao anatin'ny rafitra iraisam-pirenena natao ho fanatontoloana dia manondro ny fananganana foto-kevitra demokratika liberaly tandrefana sy ny toekarena malalaka izany.",c,c,true
-"Iza amin'ireto manaraka ireto no tena mamaritra ny Eurocentrism?
-A.Ny Eurocentrism dia fomba fanadihadiana izay mampitaha ny fiarahamonina Eoropeana amin'ny fiarahamonina tsy Eoropeana mba hamokatra fampitahana tsy misy fivadihana amin'ny fahamendrehan'ny tsirairay.
-B.Ny Eurocentrism dia fomba fisainana izay ahitana ny fanombanana sy ny fanombanana ny fiarahamonina tsy Eoropeana eo amin'ny lafiny ara-kolontsaina sy ny fitongilanan'ny Eoropeana.
-C.Ny Eurocentrism dia mamaritra ny fianarana na ny asa akademika izay tsy mijery afa-tsy ny rafitra politika na toekarena Eoropeana.
-D.Safidy avokoa izany rehetra izany.",b,b,true
-"Vehivavy iray 54 taona no tonga tao amin'ny birao satria niharan'ny fanaintainana nitsitaitaika teo amin'ny takolany havanana sy ny vavany izy nandritra ny 3 herinandro farany. Ny fizarana tsirairay amin'ny fanaintainana dia maharitra 1 segondra na latsaka. Matetika ny fanaintainana dia vokatry ny rivotra mangatsiaka, fitsakoana, fanaitairana azo tsapain-tanana, ary fiborosiana ny nifiny. Tsy nanana ratra teo amin'ny tarehy na ny lohany izy. Ny tantaran'ny fitsaboana dia miavaka amin'ny aretin'andoha, ny hatavezana, ary ny fandidiana amin'ny alalan'ny lalan-drà. Ny halavany dia 165 cm (5 ft 5 in) ary milanja 62 kg (137 lb); Ny BMI dia 23 kg / m2. Ara - dalàna ny famantarana tena ilaina. Ny marary dia tsy afaka mandefitra amin'ny fikasihana eo amin'ny lafiny ankavanan'ny tarehy. Tsy misy ny tsy fahampian'ny endrika na ny fahaverezan'ny fahatsapana. Ny ambiny amin'ny fanadihadiana ara-batana dia tsy mampiseho ny tsy fahatomombanana. Ny CT scan ny lohany amin'ny sy tsy misy fifanoherana dia tsy mampiseho ny tsy fahatomombanana. Iza amin'ireto manaraka ireto no fanafody mety indrindra amin'izao fotoana izao?
-A.Carbamazepine
-B.Lamotrigine
-C.Levetiracetam
-D.Topiramate",a,a,true
-"Amin'ny lafiny inona amin'ny fifandraisana amin'ny vahoaka no mety ho tafiditra amin'ny fandresen-dahatra?
-A.Corporate
-B.Fifandraisana ara-bola
-C.Raharaham-bahoaka
-D.Fandraharahana amin'ny raharaham-barotra",c,c,true
-"Iza amin'ireto manaraka ireto no tsara indrindra mamaritra ny fitsipika etika momba ny firaisana ara-nofo amin'ny mpanjifa fitsaboana taloha?
-A.Ny psikology dia voarara tsy hanao firaisana ara-nofo amin'ireo mpanjifa fitsaboana taloha na inona na inona toe-javatra.
-B.Voarara tsy hanao firaisana ara-nofo amin'ireo mpanjifa fitsaboana teo aloha mandritra ny herintaona farafahakeliny ireo psikôlôgy taorian'ny fiafaran'ny fitsaboana.
-C.Ny psikology dia voarara tsy hanao firaisana ara-nofo amin'ny mpanjifa fitsaboana taloha amin'ny toe-javatra sasany (ohatra, raha misy ny mety ho fanararaotana).
-D.Tsy voarara ny manao firaisana ara-nofo amin'ireo mpanjifa fitsaboana taloha.",c,a.,false
-"Iza amin'ireto manaraka ireto no antontan-taratasy manokana miaraka amin'ny fidirana mihidy?
-A.'Taratasy Fotsy' an'ny governemanta
-B.Firaketana an-tsoratra ara-pitsaboana tsiambaratelo
-C.Boky momba ny kaonty ao an-trano
-D.Ny lisitry ny fizarana ny raharaham-barotra",c,b,false
-" Ny Communidades de Base dia mifandray amin'ny hoe iza amin'ireto manaraka ireto?
-A.Eveka Oscar Romero
-B.Fanoherana sy fanavaozana
-C.Fahamendrehana ho an'ny olombelona rehetra
-D.Ireo rehetra voalaza etsy ambony ireo",d,d,true
+D.Ny an'ilay mpamily kamiao no tena tompon'andraikitra tamin'ny heloka bevava.",C,"Raha mino ny fijoroana vavolombelona nataon'ny voampanga sy ny vavolombelona manam-pahaizana ny mpitsara, dia ny fiarovana tsara indrindra ho an'ny voampanga dia:
+
+A. Nijaly noho ny fahadalana vonjimaika ilay voampanga.
+
+Araka ny lalàna momba ny heloka bevava voalaza, ""Tsy tompon'andraikitra amin'ny heloka bevava ny olona iray, raha toa ka tsy afaka mahatakatra ny tsy mety nataony izy amin'ny fotoana toy izany, na noho ny aretin-tsaina na kilema.""
+
+Raha mino ny fijoroana vavolombelona ny mpitsara fa tena tohina mafy ilay voampanga rehefa nahita ny zana-drahalahiny nianjera ka nangatsiaka sy tsy afaka nihetsika, dia mety heverina fa nijaly tamin'ny fahadalana vonjimaika izy tamin'izany fotoana izany. Izany fahadalana vonjimaika izany no nahatonga azy tsy afaka nahatakatra ny tsy mety nataony (tsy nanao ezaka hamonjena ny zana-drahalahiny).
+
+Noho izany, raha mino ny fijoroana vavolombelona ny mpitsara, dia mety heverina fa tsy tompon'andraikitra amin'ny heloka bevava ilay voampanga satria tsy afaka nahatakatra ny tsy mety nataony tamin'izany fotoana izany noho ny fahadalana vonjimaika.",
+"Meksikana-Amerikana ny kandidà iray manoratra ary mihevitra fa mila fandraisana anjara betsaka avy amin'ireo Meksikana mpifidy izy mba handresena amin'ny fifidianana. Vokatr'izany, nanapa-kevitra ny handefa taratasy fasiana ranomaso ho an'ny mpifidy Meksikana rehetra voasoratra anarana ny mpitantana ny fampielezan-keviny, izay mitondra ny anaran'ny kandidà sy ny biraony izay ihazakazahany. Satria maro amin'ireo teratany Meksikana no tsy mahay mamaky teny sy manoratra amin'ny teny Anglisy, mino ny mpitantana ny fampielezan-kevitra fa maro amin'ireo mpifidy no ho sahirana amin'ny fanoratana ny anaran'ny kandidà sy ny biraony amin'ny fifidianana. Vokatr'izany, nanao fanentanana goavana tamin'ny haino aman-jery ny mpitantana ny fampielezan-kevitra mba hampahafantarana ny mpifidy ny fomba hampiharana ireo taratasy fametaka amin'ny vatom-pifidianana. Dimy volana talohan'ny fifidianana, nanamafy ny komitin'ny fampielezan-kevitry ny kandidà ny tompon'andraikitra iray misahana ny fifidianana fa tsy manaraka ny lalànam-panjakana ireo taratasy fametaka amin'ny ranomaso. Ao amin'ny taratasiny, manazava ilay tompon'andraikitra fa mihevitra ireo manampahefam-panjakana misahana ny fifidianana fa ilaina ho an'ireo mety ho mpifidy ny manoratra ranomainty ny anaran'ilay kandidà. Noho izany, milaza izy fa tsy mifanaraka amin'ny fepetra takian'ny antontan'isa ireo stickers. Telo herinandro taty aoriana, nametraka fitoriana tany amin'ny fitsarana federaly tao amin'ny distrika ilay kandidà, nanohitra ireo manampahefana misahana ny fifidianana ao amin'ny fanjakana izay nilaza fa manitsakitsaka ny Lalàm-panorenan'i Etazonia ny fomba fijerin'izy ireo ny lalàm-panjakana. Iza amin'ireto manaraka ireto, raha napetraka, no mametraka ny tohan-kevitra matanjaka indrindra ao amin'ny lalàm-panorenana manohana ny fanazavan'ny manampahefana misahana ny fifidianana ny lalàna?
+A.Latsaky ny 1% amin'ny fitambaran'ny totalin'ny fanjakana tamin'ny fifidianana farany teo ny taham-pahavitrihana teo amin'ireo mpifidy Meksikana Amerikana voasoratra anarana izay tsy mahay teny Anglisy.
+B.Ny lalàna iray ao amin'ny fanjakana dia mitaky ny hanomezana penina ranomainty ho an'ny biraom-pifidianana tsirairay mba hanamorana ny fanoratana ny vato.
+C.Koa satria ny hamaroan'ny vatom-pifidianana an-tsoratra amin'ny ankapobeny dia mampitombo ny fotoana ilaina hanisa ny vato rehetra, ilaina ny mametraka izany vato izany amin'ny fomba mitovy.
+D.Ny mety hisian'ny hosoka amin'ny fifidianana dia lehibe kokoa amin'ny alalan'ny taratasy fametaka efa vita printy.",D,"Ny safidy D no mametraka ny tohan-kevitra matanjaka indrindra ao amin'ny lalàm-panorenana manohana ny fanazavan'ny manampahefana misahana ny fifidianana ny lalàna.
+
+Ny safidy D dia milaza fa ny mety hisian'ny hosoka amin'ny fifidianana dia lehibe kokoa amin'ny alalan'ny taratasy fametaka efa vita printy. Izany dia mety ho antony manan-danja ara-dalàna hanohanan'ny manampahefana misahana ny fifidianana ny fomba fijery ny lalàna, satria ny fiarovana ny fifidianana amin'ny hosoka dia tanjona lehibe amin'ny fametrahana ny lalàna momba ny fifidianana.
+
+Ny safidy hafa dia tsy mametraka tohan-kevitra matanjaka toy izany:
+
+- Ny safidy A dia miresaka momba ny taham-pahavitrihana, fa tsy misy ifandraisany mivantana amin'ny lalàna.
+- Ny safidy B dia miresaka momba ny fanomezana penina, fa tsy misy ifandraisany mivantana amin'ny taratasy fametaka.
+- Ny safidy C dia miresaka momba ny fotoana ilaina hanisana ny vato, fa tsy misy ifandraisany mivantana amin'ny hosoka.
+
+Noho izany, ny safidy D no mametraka ny tohan-kevitra matanjaka indrindra ara-dalàna hanohanan'ny manampahefana misahana ny fifidianana ny fomba fijeriny ny lalàna.",
+"Iza amin'ireo tranga roa ireo no ataon'ny mpilalao fototra (izay mampiasa ahy / ahy) manao zavatra tsy mety ara-moraly, araka ny fenitra ara-moraly mahazatra ao Etazonia hatramin'ny taona 2020? Scenario 1 | Nihazakazaka teo ambonin'ilay karipetra vaovao aho niaraka tamin'ny bozaka. Scenario 2 | Nipipỳ an-tanako aho mba hahafahako mitsapa izany ho voan'ny aretina.
+A.Diso, diso
+B.Tsy mety, tsy diso
+C.Tsy mety izany, diso
+D.Tsy diso, tsy diso",A,"D. Tsy diso, tsy diso
+
+Raha ny fomba fijery ara-moraly mahazatra ao Etazonia hatramin'ny taona 2020, tsy misy zavatra tsy mety ara-moraly amin'ireo tranga roa ireo:
+
+1. Nihazakazaka teo ambonin'ilay karipetra vaovao miaraka amin'ny bozaka: Tsy misy zavatra tsy mety ara-moraly amin'ny fihazakazahana eo ambonin'ny karipetra na dia misy bozaka aza. Mety ho fihetsika tsy mendrika izany, fa tsy heverina ho tsy mety ara-moraly.
+
+2. Nipipỳ an-tanana mba hitsapana raha voan'ny aretina: Tsy misy zavatra tsy mety ara-moraly amin'ny fipipiana an-tanana mba hitsapana raha voan'ny aretina. Fomba iray mahazatra hitsapana ny fahasalaman'ny tena izany.
+
+Noho izany, ny valiny mifanaraka indrindra dia ""D. Tsy diso, tsy diso"", satria tsy misy amin'ireo tranga ireo no misy zavatra tsy mety ara-moraly araka ny fenitra ara-moraly mahazatra ao Etazonia amin'izao fotoana izao.",
+"Naratra mafy ny mpamily iray hafa noho ny tsy firaharahiana nataon'ny mpitondra môtô iray. Voalaza fa nandeha tamin'ny lalana diso ilay mpamily fiara ary nandoa onitra. 15.000 dolara monja no azon'ilay mpitondra fiara ho an'ny tompon'andraikitra fahatelo amin'ny politikan'ny fiantohana. Rehefa avy nanome tatitra feno momba ny fitsaboana ny mpamatsy ny fiara, ny volavolan-dalàna ara-pitsaboana rehetra, ny rakitsoratra ara-pitsaboana, ary ny porofo hafa ilaina amin'ny fahavoazana, dia nitaky ny fetran'ny politika ilay mpikatroka naratra. Nanome fanamarihana ilay mpitory fa hisy fitakiana finoana ratsy raha toa ka tsy voaloa avy hatrany ny fetran'ny politika. Nolavin'ny orinasa fiantohana tsy nisy fanazavana ny fandoavam-bola. Nanome 200 000 dolara ilay olona naratra. Nahazo fanendrena nosoniavina avy amin'ilay mpitondra môtô tsy misy dikany ilay olona naratra, ka nanome ho an'ilay mpitaky ny zo rehetra mety ho nananan'ilay mpitondra môtô tamin'ny mpikomy. Azo inoana ve fa hanery ny orinasam-piantohana handoa ny didim-pitsarana feno ho an'ireo olona naratra noho ireo zava-misy ireo ny fitsarana?
+A.15.000 dolara ny fetran'ny politika ary izay ihany no azon'ilay olona naratra angonina tsy misy hetsika ho an'ny finoana ratsy amin'ny fifanarahana fiantohana.
+B.Ny orinasam-piantohana dia nandika ny fanekempihavanana voalaza fa manana finoana tsara sy ny fifanarahana ara-drariny izay tsy misy dikany amin'ny fifanarahana fiantohana rehetra ary tsy maintsy mandoa ny habetsaky ny fitsarana.
+C.Ny finoana ratsy dia an'ny tena manokana ho an'ilay antoko azo antoka ary tsy manan-kery ilay mpiantoka azy, ary tsy manan-jo hanery ilay mpikomy handoa ilay olona naratra.
+D.Tsy maintsy mampihatra ny didim-pitsarany manontolo amin'ilay mpamily fiara ilay antoko naratra ary mety tsy hanenjika ny orinasam-piantohana amin'izany vola izany.",C,"B no valiny marina indrindra amin'ity fanontaniana ity. Ny orinasam-piantohana dia tsy maintsy manaja ny fifanarahana fiantohana ary mandoa ny fetran'ny politika raha toa ka voaporofo fa misy ny fahavoazana sy ny fahadisoana. Ny fandavana tsy ara-dalàna ny fandoavam-bola dia mety ho finoana ratsy izay manery ny orinasam-piantohana handoa ny totalin'ny didim-pitsarana, fa tsy ny fetran'ny politika fotsiny.
+
+Ny safidy A dia diso satria na dia 15.000 dolara aza ny fetran'ny politika, dia mety mbola hisy andraikitra amin'ny finoana ratsy ny orinasam-piantohana raha mandà tsy ara-dalàna ny fandoavam-bola izy ireo.
+
+Ny safidy C dia diso satria ny finoana ratsy dia mety hampiharina amin'ny orinasam-piantohana fa tsy ny olona voaantoka fotsiny.
+
+Ny safidy D dia diso satria ny olona naratra dia afaka manenjika ny orinasam-piantohana mivantana noho ny finoana ratsy, fa tsy voatery manenjika ny mpamily fiara fotsiny.",
+"Sivilizasiona Nubian:
+A.Nanosika sy nampisondrotra ny kolontsaina ejipsianina.
+B.Izany no vokatry ny fanjanahantany Mesopotamia tany atsimo.
+C.Nivoatra ho setrin'izany, fa tsy tahaka ny kolontsaina Ejiptiana.
+D.Tsy misy ifandraisany amin'ny kolontsaina manodidina.",C,"Eny, marina ny valin'ny safidy C. Ny sivilizasiona Nubian dia nivoatra ho setrin'ny kolontsaina Ejiptiana, fa tsy tahaka azy tanteraka. 
+
+Ny sivilizasiona Nubian dia niorina tany atsimo andrefan'i Ejipta, ary nifanerasera matetika tamin'ny Ejiptiana izy ireo. Nandray fomba amam-panao sy teknolojia avy amin'ny Ejiptiana izy ireo, saingy nampivoatra ny kolontsainy manokana ihany koa mifanaraka amin'ny tontolo iainany sy ny fomban-drazany.
+
+Ohatra, ny Nubiana dia nanana fomba fanorenana sy teknika famoronana sary samihafa amin'ny an'ny Ejiptiana. Nanana rafitra ara-tsosialy sy ara-politika manokana ihany koa izy ireo. 
+
+Noho izany, na dia nisy fiantraikany avy amin'ny Ejiptiana aza ny sivilizasiona Nubian, dia tsy naka tahaka fotsiny fa nampivoatra ny kolontsainy manokana, izay hafa amin'ny an'ny Ejiptiana.",
+"Ny fampifanarahana ny zavamaniry mba hampihenana ny fahaverezan'ny rano amin'ny tontolo misy hafanana avo dia ahitana iza amin'ireto manaraka ireto?
+A.Maro ny stomata
+B.Manify cuticles
+C.Spines fa tsy ravina
+D.Ny tahan'ny velaran-tany lehibe",C,"Ny valiny marina dia ny D. Ny tahan'ny velaran-tany lehibe.
+
+Ireto ny antony:
+
+- Ny tahan'ny velaran-tany lehibe (root to shoot ratio) dia midika hoe ny zavamaniry dia manana faka lehibe kokoa noho ny ampahany eny ambony. Izany dia manampy azy ireo hanana fahaizana manintona rano bebe kokoa avy amin'ny tany, ka mahatonga azy ireo hahomby kokoa amin'ny tontolo misy hafanana avo sy maina.
+
+- Ny maro stomata (A) dia mampitombo ny fahaverezan'ny rano satria manamora ny fivoahan'ny rano amin'ny alàlan'ny transpiration.
+
+- Ny manify cuticles (B) koa dia tsy manampy amin'ny fitazonana rano fa mamela rano hivoaka mora foana.
+
+- Ny spines fa tsy ravina (C) dia fomba iray hanakelezana ny fahaverezan'ny rano, saingy tsy mahomby tahaka ny fananana tahan'ny velaran-tany lehibe.
+
+Noho izany, amin'ireo safidy efatra ireo, ny tahan'ny velaran-tany lehibe (D) no fomba mahomby indrindra hanakelezana ny fahaverezan'ny rano ho an'ny zavamaniry any amin'ny tontolo misy hafanana avo sy maina.",
+" Ao amin'ny fifanakalozan-kevitra momba ny fanavakavahana amin'ny ady, Valls milaza fa
+A.Tsy misy fahasamihafana eo amin'ny mpiady sy ny tsy mpiady.
+B.Ny fahasamihafana eo amin'ny mpiady sy ny tsy mpiady dia resaka mari-pahaizana.
+C.Mazava sy mazava ny fahasamihafana eo amin'ny mpiady sy ny tsy mpiady.
+D.Ny ""fampihorohoroana"" dia tokony ho faritana ho herisetra tsy misy fanavakavahana.",B,"Amin'ny fifanakalozan-kevitra momba ny fanavakavahana eo amin'ny mpiady sy ny tsy mpiady amin'ny ady, ny valiny mety indrindra dia ny C: Mazava sy mazava ny fahasamihafana eo amin'ny mpiady sy ny tsy mpiady.
+
+Ny mpiady dia ireo izay mandray anjara mivantana amin'ny ady, manao asa miaramila. Ny tsy mpiady kosa dia ny vahoaka tsotra izay tsy mandray anjara mivantana amin'ny ady. Araka ny lalàna iraisam-pirenena momba ny ady, ny tsy mpiady dia tokony hotsarovina sy hotsarohina amin'ny fanafihana. Tsy azo atao ny manafika toerana misy olona tsy mpiady na mampiasa herisetra tsy voafetra mety hahafaty azy ireo.
+
+Noho izany, misy fahasamihafana mazava sy azo tsapain-tanana eo amin'ny mpiady sy ny tsy mpiady ary tsy azo ampifangaroina izy ireo. Ny fampihorohoroana koa dia tsy maintsy manavaka ny tanjony mba tsy hahafaty olona tsy manan-tsiny.",
 "Ny teny hoe 'chili con carne' dia manondro ny chili amin'ny inona?
 A.tsaramaso
 B.hena
 C.fromazy
-D.Sakaibe Chili",b,b,true
-"Inona no aretina tsy ateraky ny viriosy?
-A.Zazakely paralysis
-B.Encephalitis
-C.Aretina azo avy amin'ny firaisana ara-nofo
-D.Cancer",a,d,false
+D.Sakaibe Chili",B,"B. hena
+
+Ny teny hoe ""chili con carne"" dia manondro ny chili misy hena. Ny teny ""carne"" amin'ny teny espaniola dia midika hoe ""hena"". Noho izany, ny ""chili con carne"" dia karazana sakafo mafana vita amin'ny voanjo, legioma ary hena, indrindra ny hena omby voatoto na voatetika madinika.",
+"Amin'ny lafiny inona amin'ny fifandraisana amin'ny vahoaka no mety ho tafiditra amin'ny fandresen-dahatra?
+A.Corporate
+B.Fifandraisana ara-bola
+C.Raharaham-bahoaka
+D.Fandraharahana amin'ny raharaham-barotra",C,"C. Raharaham-bahoaka no mety ho tafiditra amin'ny fandresen-dahatra.
+
+Ny fandresen-dahatra dia fomba iray ampiasaina amin'ny fifandraisana amin'ny vahoaka mba hanovana ny fihetsiky ny olona na hanatrarana tanjona iray. Tafiditra ao anatin'izany ny fampiasana hafatra manaitra sy mampita hevitra mba hanaovana fiantraikany amin'ny olona.",
+"Iza amin'ireto manaraka ireto no tsara indrindra mamaritra ny fitsipika etika momba ny firaisana ara-nofo amin'ny mpanjifa fitsaboana taloha?
+A.Ny psikology dia voarara tsy hanao firaisana ara-nofo amin'ireo mpanjifa fitsaboana taloha na inona na inona toe-javatra.
+B.Voarara tsy hanao firaisana ara-nofo amin'ireo mpanjifa fitsaboana teo aloha mandritra ny herintaona farafahakeliny ireo psikôlôgy taorian'ny fiafaran'ny fitsaboana.
+C.Ny psikology dia voarara tsy hanao firaisana ara-nofo amin'ny mpanjifa fitsaboana taloha amin'ny toe-javatra sasany (ohatra, raha misy ny mety ho fanararaotana).
+D.Tsy voarara ny manao firaisana ara-nofo amin'ireo mpanjifa fitsaboana taloha.",C,"A. Ny psikology dia voarara tsy hanao firaisana ara-nofo amin'ireo mpanjifa fitsaboana taloha na inona na inona toe-javatra.
+
+Araka ny fitsipika etika momba ny asa fitsaboana ara-tsaina, dia voarara tanteraka ny manao firaisana ara-nofo amin'ireo mpanjifa fitsaboana taloha na inona na inona toe-javatra. Tsy azo atao mihitsy izany satria mety hiteraka fanararaotana sy fahasimbana ny fifandraisana terapika. Ny fiarovana ny tombontsoa sy ny fahasalamana ara-tsaina ny mpanjifa no tena zava-dehibe indrindra.",
 "Ny lehiben'ny fampanoavana no lehiben'ny antokon'olona iza amin'ireto manaraka ireto?
 A.Ny Komitin'ny Fitsarana ao amin'ny Antenimieran-doholona
 B.Ny Departemantan'ny Fitsarana
 C.Ny Departemantam-panjakana
-D.Mpisolovava Jeneraly Mpampanoa Lalàna",b,b,true
-"Ny tsipika magnetika momba ny endrika tariby mitondra amin'izao fotoana izao
-A.faribolana
-B.Tsipika radial
-C.Eddy Currents
-D.Angovo loops",a,b,false
-"Iza amin'ireto manaraka ireto no mamaritra tsara ny toe-javatra aorian'ny fiakaran'ny vidiny amin'ny vokatra iray izay manana fangatahana inelastic?
-A.Ny habetsaky ny fangatahana dia tsy hiova.
-B.Ny habetsaky ny fangatahana dia hitombo.
-C.Ny fidiram-bola manontolo dia hihena.
-D.Tsy hiova ny fidiram-bola amin'ny ankapobeny.",a,a.,true
-"Ny tanjon'ny fanadihadiana roa na roa sosona dia ny:
-A.Mitadiava fampitahana amin'ny lohahevitra tsy voatsabo sy tsy voatsabo
-B.Mampihena ny vokatry ny santionany fiovaovana
-C.Sorohy ny mpanara-maso sy ny foto-kevitra fironana
-D.Sorohy ny fitongilanana sy ny fahasamihafana amin'ny santionany",b,b.,true
-"Inona avy ireo singa fototra amin'ny microchips amin'ny solosaina maoderina?
-A.Sodium
-B.Silicon
-C.Aluminum
-D.Silver",b,b,true
+D.Mpisolovava Jeneraly Mpampanoa Lalàna",B,"D. Ny Mpisolovava Jeneraly Mpampanoa Lalàna no lehiben'ny fampanoavana.
+
+Ny Mpisolovava Jeneraly Mpampanoa Lalàna (Attorney General) no lehiben'ny antokon'olona misahana ny fampanoavana sy ny fampiharana ny lalàna ao amin'ny governemanta. Izy no lehiben'ny Departemantan'ny Fitsarana (Department of Justice) izay miandraikitra ny fampanoavana eo anivon'ny fanjakana foibe.
+
+Ny Komitin'ny Fitsarana ao amin'ny Antenimieran-doholona sy ny Departemantam-panjakana dia sampana hafa ao amin'ny governemanta, fa tsy miandraikitra mivantana ny fampanoavana tahaka ny Departemantan'ny Fitsarana tarihin'ny Mpisolovava Jeneraly Mpampanoa Lalàna.",
 " Inona no lohatenin'ny Daodejing amin'ny teny anglisy?
 A.Fiovana mahazatra
 B.Fomban'ny lalana sy ny fahefana
 C.Classic ny vehivavy
-D.Classic filozofia",b,d,false
+D.Classic filozofia",B,"D no valiny marina. Ny lohateny anglisy ho an'ny Daodejing dia ""Classic of the Way and Virtue"" na ""Classic of the Dao and its Virtue"". Boky filozofia sinoa tranainy izy io izay mampianatra ny fomba fiainana mifanaraka amin'ny ""Dao"" na ny lalana ara-boajanahary. Tsy mifantoka amin'ny fiovana, ny lalàna sy ny fahefana, na ny vehivavy manokana izy io fa mampianatra fomba fiainana an-tsoratra sy fomba fijery an'izao tontolo izao.",
+"Iza amin'ireto manaraka ireto no antontan-taratasy manokana miaraka amin'ny fidirana mihidy?
+A.'Taratasy Fotsy' an'ny governemanta
+B.Firaketana an-tsoratra ara-pitsaboana tsiambaratelo
+C.Boky momba ny kaonty ao an-trano
+D.Ny lisitry ny fizarana ny raharaham-barotra",C,"Ny valiny marina dia B. Firaketana an-tsoratra ara-pitsaboana tsiambaratelo.
+
+Ny firaketana an-tsoratra ara-pitsaboana dia antontan-taratasy manokana izay tsy azo jerena afa-tsy amin'ny alalan'ny fanomezan-dalana manokana avy amin'ny marary na baiko avy amin'ny fitsarana. Mirakitra ny tantaran'ny fahasalamana sy fitsaboana noraisin'ny marary ireo antontan-taratasy ireo ary arovan'ny lalàna ny tsiambaratelon'izy ireo mba hiarovana ny zo ara-pivasy sy ny fahasalamana.
+
+Ny 'Taratasy Fotsy', boky momba ny kaonty ao an-trano ary lisitry ny fizarana raharaham-barotra dia tsy voatery ho tsiambaratelo na misy fidirana mihidy toy ny firaketana ara-pitsaboana.",
+"Vao avy nisokatra indray ny toeram-pivarotana lehibe iray taorian'ny fanakatonana nandritra ny roa herinandro ho an'ny fanavaozana. Ny marainan'ny fisokafana indray, nisy vehivavy iray niantsena rehefa nianjera tampoka izy ary tapaka ny tongony. Taorian'izay, nitory ilay toeram-pivarotana lehibe ilay vehivavy noho ny ratra nahazo azy manokana. Tao anatin'ny palitaony, nilaza ilay vehivavy fa niondrika teo ambonin'ny siny miloko iray izay nitsirara tao amin'ny iray tamin'ireo lalantsara izy. Tamin'ny fotoam-pitsarana, niantso mpanjifa iray hafa ilay vehivavy mba hijoro ho vavolombelona fa raha mbola niantsena izy dia nandre feo mihodina, nitodika ary nahita ilay vehivavy nianjera tamin'ny tany. Nijoro ho vavolombelona ihany koa izy fa nahita siny miloko foana nitsirara tongotra vitsivitsy avy teo amin'ny tongotr'ilay vehivavy. Tamin'ny alalan'ny fanadihadiana, niditra tamin'ny fifanakalozan-kevitra tamin'ny mpisolovavan'ny toeram-pivarotana lehibe ilay mpanjifa. Rehefa nanontaniana izy hoe inona no nahatonga an'ilay vehivavy, dia hoy izy: ""Nianjera izy satria nipitika teo amin'ilay siny "". Niaiky anefa izy tamin'ny alalan'ny fanadihadiana fa tsy nahita ny dian'ilay vehivavy teo amin'ny siny izy. Avy eo ny mpisolovavan'ilay toeram-pivarotana lehibe dia nametraka ity fanontaniana manaraka ity tamin'ilay mpanjifa: ""Raha tsy nahita ny dian'ilay vehivavy teo amin'ny siny ianao, ahoana no ahafantaranao fa nianjera noho izany izy?"" Namaly ilay mpanjifa hoe: ""Satria nilaza tamiko ilay sipako izay niara - nividy tamiko tatỳ aoriana, fa nahita ilay vehivavy nandeha teo ambonin'ilay siny izy. "" Ny mpisolovava ao amin'ny fivarotana dia mihetsika mba hamely ny valin-tenin'ny mpanjifa farany. Raha toa ny mpitsara mitsara ny fangatahan'ny voampanga ary mamela ny valintenin'ny mpanjifa mba hitsangana, dia mety ho noho ny antony
+A.Ny fanontanian'ny mpisolovavan'ny toeram-pivarotana lehibe no nanasa ny valin-tenin'ilay mpanjifa.
+B.Ny valin-tenin'ny mpanjifa dia mifototra amin'ny fahalalana mivantana.
+C.Ny valin-tenin'ny mpanjifa dia fanambarana ny fahatsapana vao haingana.
+D.Ny valin-tenin'ny mpanjifa dia fahatsapana fahatsapana ankehitriny.",A,"Ny valiny marina dia A. Ny fanontanian'ny mpisolovavan'ny toeram-pivarotana lehibe no nanasa ny valin-tenin'ilay mpanjifa.
+
+Ny antony:
+- Ny fanontanian'ny mpisolovava (""Raha tsy nahita ny dian'ilay vehivavy teo amin'ny siny ianao, ahoana no ahafantaranao fa nianjera noho izany izy?"") dia nanasa ny mpanjifa hilaza zavatra izay nolazain'ny olona hafa taminy (ilay sipany), fa tsy zavatra hitan'ny mpanjifa mivantana.
+- Ny valin-tenin'ny mpanjifa dia mifototra amin'ny fahalalana azo avy amin'ny olona hafa (ilay sipany) fa tsy fahalalana mivantana (B), fahatsapana vao haingana (C), na fahatsapana ankehitriny (D).
+- Noho izany, ny fanontanian'ny mpisolovava no nanasa ny mpanjifa hilaza hevitra tsy mifanaraka amin'ny lalàna momba ny ""hearsay"" (filazana zavatra nolazain'ny olona hafa).",
+"Iza amin'ireto manaraka ireto no mamaritra tsara ny toe-javatra aorian'ny fiakaran'ny vidiny amin'ny vokatra iray izay manana fangatahana inelastic?
+A.Ny habetsaky ny fangatahana dia tsy hiova.
+B.Ny habetsaky ny fangatahana dia hitombo.
+C.Ny fidiram-bola manontolo dia hihena.
+D.Tsy hiova ny fidiram-bola amin'ny ankapobeny.",A,"Ny valiny marina dia A. Ny habetsaky ny fangatahana dia tsy hiova.
+
+Rehefa manana fangatahana inelastic ny vokatra iray, midika izany fa ny fiovana amin'ny vidiny dia tsy misy fiantraikany be loatra amin'ny habetsaky ny fangatahana. Raha miakatra ny vidiny, dia tsy hihena be ny fangatahana satria ilaina na tsy azo ialana ny vokatra. Noho izany, na dia miakatra aza ny vidiny dia tsy hisy fiantraikany lehibe amin'ny habetsaky ny fangatahana.
+
+Ny B dia diso satria raha miakatra ny vidiny, dia tsy hitombo ny fangatahana fa mety hihena kely fotsiny.
+
+Ny C sy D dia diso satria rehefa miakatra ny vidiny nefa tsy miova ny habetsaky ny fangatahana, dia hitombo ny fidiram-bola amin'ny ankapobeny (revenue) satria ny fampitomboana ny vidiny dia mihoatra noho ny fihenan'ny habetsaky ny fangatahana.",
+"Inona avy ireo singa fototra amin'ny microchips amin'ny solosaina maoderina?
+A.Sodium
+B.Silicon
+C.Aluminum
+D.Silver",B,"Ny valiny marina dia B. Silicon.
+
+Ny silicon no singa fototra ampiasaina amin'ny fanamboarana microchips amin'ny solosaina maoderina. Ireto manaraka ireto ny antony:
+
+1. Ny silicon dia semi-conducteur, izay midika fa afaka manara-maso ny fifindran'ny herinaratra ao anatiny, ka tena ilaina amin'ny fanamboarana circuit électronique.
+
+2. Mora amboarina ho plaquette silicium ny silicon, izay fototra iorenan'ny fanamboarana microchips.
+
+3. Ny silicon dia singa faran'izay betsaka indrindra faharoa eto an-tany aorian'ny oksizena, ka mora azo sy tsy lafo vidy.
+
+4. Ny sodium, aluminum ary silver dia metaly fa tsy semi-conducteur, ka tsy azo ampiasaina amin'ny fanamboarana microchips.
+
+Noho izany, ny silicon no safidy tsara indrindra amin'ireo singa efatra ireo ho an'ny fanamboarana microchips amin'ny solosaina maoderina.",
 "Iza amin'ireto hevitra manaraka ireto no manohana ny tohan-kevitra ho an'ny fitokana-monina Amerikana?
 A.hegemony
 B.Tsy fahombiazan'ny multilateralism
 C.Fahefana Amerikana
-D.Ireo rehetra voalaza etsy ambony ireo",d,d,true
+D.Ireo rehetra voalaza etsy ambony ireo",D,"Araka ny fanontaniana, tsy misy amin'ireo safidy ireo no manohana ny tohan-kevitra ho an'ny fitokana-monina Amerikana.
+
+Ny hegemony, fahefana Amerikana ary tsy fahombiazan'ny multilateralism dia mifanohitra amin'ny foto-kevitry ny fitokana-monina. 
+
+Ny fitokana-monina dia midika hoe tsy hidirana amin'ny raharaha maneran-tany sy ny fifandraisana amin'ny firenena hafa, fa hifantoka amin'ny raharaha anatiny. Mifanohitra amin'izany ny hegemony sy fahefana Amerikana izay maneho ny fiantraikany eo amin'izao tontolo izao.
+
+Ny multilateralism kosa dia mifanohitra amin'ny fitokana-monina satria maneho ny fiaraha-miasa eo amin'ny firenena maro, fa tsy ny fanalavirana ny fifandraisana iraisam-pirenena.
+
+Noho izany, tsy misy amin'ireo safidy ireo no manohana ny fitokana-monina Amerikana.",
+"Talohan'ny nametrahana ny tolo-kevitra hanambatra tanàna roa tamin'ny vatom-pifidianana, namoaka fanehoan-kevitra ny lehiben'ny fampanoavana ao amin'ny fanjakana izay milaza fa tsy nanitsakitsaka ny lalàna na ny fepetran'ny lalàm-panorenana ny fepetra. Taorian'izay, napetraka tao amin'ny lisi pifidianana ny tolo-kevitra ary nolanian'ny mpifidy tao amin'ny tanàna roa tonta. Taorian'ny fifidianana, saingy talohan'ny nanatanterahana tamin'ny fomba ofisialy ny fiaraha-miasa, dia nisy mpandoa hetra roa avy amin'ny iray amin'ireo tanàna nanomboka ny fitoriana mba handidy ny firaisankina, nanafika ny maha-araka ny lalàm-panorenana ny tolo-kevitra. Tonga tany amin'ny fitsarana tampony ny fitoriana ary hita fa mifanaraka amin'ny lalàm-panorenana na eo ambanin'ny lalàna federaly na ao amin'ny fanjakana. Mametraka fitoriana ireo mpitory amin'izao fotoana izao mba hamerenana ny raharaha any amin'ny Fitsarana Tampony Amerikana. Ny fitsarana dia mety
+A.Tsy mahare ny raharaha, satria noho ny antony tsy miankina no nanapahan'ny fanjakana azy.
+B.Tsy mahare ny raharaha, fa mety ho naverina tany amin'ny fitsarana federaly izany.
+C.Henoy ny olana federaly, saingy aza manaiky ny fanapahan-kevitra momba ny raharaham-panjakana.
+D.Miantehitra amin'ny hevitra natolotry ny mpampanoa lalàna ao amin'ny fanjakana ary tsy mihaino ny raharaha amin'ny fahamendrehany.",A,"A. Tsy mahare ny raharaha, satria noho ny antony tsy miankina no nanapahan'ny fanjakana azy.
+
+Ny antony:
+
+- Efa nolanian'ny Fitsarana Tampony ao amin'ny fanjakana fa mifanaraka amin'ny lalàm-panorenana ny tolo-kevitra hanambatra ny tanàna roa. 
+- Ny Fitsarana Tampony Amerikana dia matetika tsy manaiky mihaino raharaha efa voavaha tamin'ny fomba tsy miankina tany amin'ny fitsarana ambany, indrindra fa ny fitsarana ao amin'ny fanjakana.
+- Ny fanapahan-kevitra avy amin'ny fitsarana ao amin'ny fanjakana dia efa ampy hevitra farany momba ny fifanolanana amin'ny lalàm-panorenana ao amin'ny fanjakana.
+- Tsy misy antony mazava hiverenana ny raharaha any amin'ny Fitsarana Tampony Amerikana rehefa efa voavaha tamin'ny fomba tsy miankina tao amin'ny fitsarana fanjakana ilay izy.",
+"Iza amin'ireto manaraka ireto no tena mamaritra ny Eurocentrism?
+A.Ny Eurocentrism dia fomba fanadihadiana izay mampitaha ny fiarahamonina Eoropeana amin'ny fiarahamonina tsy Eoropeana mba hamokatra fampitahana tsy misy fivadihana amin'ny fahamendrehan'ny tsirairay.
+B.Ny Eurocentrism dia fomba fisainana izay ahitana ny fanombanana sy ny fanombanana ny fiarahamonina tsy Eoropeana eo amin'ny lafiny ara-kolontsaina sy ny fitongilanan'ny Eoropeana.
+C.Ny Eurocentrism dia mamaritra ny fianarana na ny asa akademika izay tsy mijery afa-tsy ny rafitra politika na toekarena Eoropeana.
+D.Safidy avokoa izany rehetra izany.",B,"B no tena mamaritra ny Eurocentrism. Ny Eurocentrism dia fomba fisainana izay ahitana ny fanombanana sy ny fanombanana ny fiarahamonina tsy Eoropeana eo amin'ny lafiny ara-kolontsaina sy ny fitongilanan'ny Eoropeana. Izany hoe, ny Eurocentrism dia mametraka ny kolontsaina sy ny soatoavina Eoropeana ho ambony kokoa noho ny an'ny fiarahamonina hafa, ary mampiasa izany ho fototra hitsarana sy hanombanana ireo fiarahamonina tsy Eoropeana ireo. Tsy mitovy amin'ny fampitahana tsotra ny fiarahamonina Eoropeana sy tsy Eoropeana izany (safidy A), fa misy fijery mitongilana sy mametraka ny an'ny Eoropeana ho lavorary kokoa. Tsy voafetra amin'ny fianarana ny rafitra politika na toekarena Eoropeana ihany koa ny Eurocentrism (safidy C), fa fomba fijery ankapobeny kokoa momba ny kolontsaina sy ny fiarahamonina.",
+"Lehilahy iray no tompon'ilay hotely vao naorina tao amin'ny tanàna iray. Tamin'ny 15 Martsa, naharay antso an-tariby avy amin'ny mpivarotra iray izay mpaninjara ny fitaovan'ny hotely ilay lehilahy. Nanolo-tena hivarotra ilay lehilahy mpamono afo 1.000 ho an'ny hotely misy azy ilay mpivarotra. Nilaza tamin'ilay lehilahy ilay mpivarotra fa ny vidin'ireo mpamono afo dia ho 35.000 dolara (na 35 dolara), izay azo aloa 90 andro aorian'ny fiterahana. Nampanantena ilay mpivarotra fa tsy maintsy hametraka ireo mpamono afo ireo hatramin'ny 15 Aprily. Tamin'ny 16 Martsa, niantso an-tariby ilay mpivarotra ilay lehilahy ary nanaiky ilay tolotra. Nandefa izao taratasy izao tany amin'ilay mpivarotra ilay lehilahy, ny ampitson'iny: ""Ampirisihina aho mba haka fihenam - bidy 15 isan - jato amin'ny fandoavana vola fito andro aorian'ny fametrahana azy. "" Nahazo ny taratasin'ilay lehilahy ilay mpivarotra tamin'ny 20 Martsa. Tamin'ny 1 Aprily, nandefa telegrama tany amin'ilay lehilahy ilay mpivarotra, nilaza hoe: ""Mazava ho azy fa tsy manana fifanarahana azo ampiharina izahay. Tsy hanao ny famonoana afo aho amin'ny 15 Aprily na amin'ny fotoana hafa. ""Ny lehilahy dia mitondra fitoriana amin'ny mpivarotra noho ny fanitsakitsahana ny fifanarahana. Ny mpivarotra dia manamafy ny fiarovana ny lalàna momba ny hosoka eo ambanin'ny UCC. Iza amin'ireto manaraka ireto no fanambarana marina indrindra momba ny fiarovan-tenan'ny mpivarotra?
+A.Rariny ny fiarovan-tenan'ilay mpivarotra, satria tsy ampy ny memo an'ilay lehilahy mba hilazana fa nisy fifanarahana natao.
+B.Rariny ny fiarovan-tenan'ilay mpivarotra, satria tsy mifanaraka amin'ny fepetran'ny tolotra am-bavan'ilay mpivarotra ny memo-n'ilay lehilahy.
+C.Tsy manan-kery ny fiarovan-tenan'ilay mpivarotra, satria tsy namaly ny memo an'ilay lehilahy tao anatin'ny fe-potoana ara-dalàna ilay mpivarotra.
+D.Ny fiarovan-tenan'ny mpivarotra dia tsy manan-kery, satria eo ambanin'ny UCC ny lalàna momba ny hosoka dia tsy azo ampiharina amin'ny fifanarahana eo amin'ny mpivarotra.",A,"B. Rariny ny fiarovan-tenan'ilay mpivarotra, satria tsy mifanaraka amin'ny fepetran'ny tolotra am-bavan'ilay mpivarotra ny memo-n'ilay lehilahy.
+
+Ny antony:
+- Nanaiky ny tolotra am-bavan'ilay mpivarotra ilay lehilahy tamin'ny 16 Martsa, ka nisy fifanarahana teo amin'izy ireo tamin'izay.
+- Ny memo nalefan'ilay lehilahy tamin'ny 17 Martsa dia tsy mifanaraka amin'ny fepetran'ny tolotra am-bavan'ilay mpivarotra, satria nangataka fihenam-bidy 15% ilay lehilahy raha mandoa ao anatin'ny 7 andro.
+- Araka ny lalàna momba ny hosoka ao amin'ny UCC, tsy maintsy atao an-tsoratra ny fanovana ny fifanarahana efa misy, ary tsy maintsy manaiky izany ny andaniny roa tonta.
+- Noho izany, tsy nisy fiantraikany tamin'ny fifanarahana efa nisy ny memo nalefan'ilay lehilahy, ka rariny ny fiarovan-tenan'ilay mpivarotra.",
+"Hita tamin'ny fandinihana natao momba ny fomba fiasan'ny Schizophrenia, fa misy fototarazo ao amin'ilay toe - javatra, nefa misy antony hafa tafiditra amin'izany. Fantaro avy amin'ny fahalalanao ny lohahevitra hoe iza amin'ireto fanambarana manaraka ireto no diso.
+A.Ny dopamine tafahoatra na ny fahatsapana ny dopamine dia mety ho antony iray mahatonga izany.
+B.Ny marary fotsy hoditra dia symptomatika kokoa.
+C.Ny tahan'ny famelana ny olona ao amin'ny tontolo fahatelo dia 65%.
+D.Ny tahan'ny Schizophrenia ambany kokoa dia hita eo amin'ny Afrikana-Amerikana.",D,"Araka ny fahalalako, ny fanambarana D no diso amin'ireo voalaza ireo.
+
+A. Marina fa ny dopamine tafahoatra na ny fahatsapana ny dopamine dia mety ho antony iray mahatonga ny schizophrenia.
+
+B. Marina ihany koa fa ny marary fotsy hoditra dia mety haneho soritr'aretina (symptômes) mafimafy kokoa noho ny hafa.
+
+C. Marina fa ny tahan'ny fahasitranan'ny schizophrenia dia eo amin'ny 65% eo ho eo.
+
+D. Fa diso kosa ny filazana fa ny tahan'ny schizophrenia dia ambany kokoa eo amin'ny Afrikana-Amerikana. Raha ny marina, ny fikarohana dia mampiseho fa ny tahan'ny schizophrenia dia avo kokoa eo amin'ny Afrikana-Amerikana raha oharina amin'ny fotsy hoditra. Mety misy ifandraisany amin'ny toe-javatra ara-tsosialy sy ara-toekarena izany, fa tsy noho ny maha Afrikana-Amerikana fotsiny.
+
+Noho izany, ny fanambarana D no diso amin'ireo voalaza ireo momba ny schizophrenia.",
+"Ny tsipika magnetika momba ny endrika tariby mitondra amin'izao fotoana izao
+A.faribolana
+B.Tsipika radial
+C.Eddy Currents
+D.Angovo loops",A,"Ny valiny marina dia B. Tsipika radial.
+
+Ny tsipika magnetika momba ny endrika tariby dia mifamatotra amin'ny tsipika radial. Ireo tsipika magnetika ireo dia mivoaka avy amin'ny pôly avaratra mankany amin'ny pôly atsimo amin'ny endrika tariby, ary mandeha mitsivalana amin'ny rafitra radial.
+
+Ireto ny antony tsy mety amin'ireo safidy hafa:
+
+A. Faribolana: Tsy misy ifandraisany amin'ny tsipika magnetika ny faribolana. Ny faribolana dia endrika geometrika iray.
+
+C. Eddy Currents: Ireo dia karazana angovo elektrika vokatry ny fiovana amin'ny saha magnetika, fa tsy maneho ny firafitry ny tsipika magnetika manodidina ny tariby.
+
+D. Angovo loops: Tsy maneho ny firafitry ny tsipika magnetika koa ity, fa milaza ny fomba firafitry ny angovo elektrika amin'ny rafitra elektrika sasany.
+
+Noho izany, ny tsipika radial no maneho tsara indrindra ny firafitry ny tsipika magnetika manodidina ny endrika tariby.",
+"Inona no aretina tsy ateraky ny viriosy?
+A.Zazakely paralysis
+B.Encephalitis
+C.Aretina azo avy amin'ny firaisana ara-nofo
+D.Cancer",A,"Ny valiny marina dia D. Cancer.
+
+Ny cancer dia aretina tsy ateraky ny viriosy fa vokatry ny fiparitahan'ny sela ratsy ao anatin'ny vatana. Misy antony maro mety hiteraka cancer toy ny fihinanana sakafo misy poizina, fitomboan'ny taona, fiovan'ny hormonina, sns. 
+
+Fa ny aretina hafa voalaza eto dia samy azo avy amin'ny viriosy avokoa:
+- Ny zazakely paralysis (Poliomyelitis) dia aretina ateraky ny viriosy poliovirus.
+- Ny encephalitis dia aretina ateraky ny viriosy maro samihafa toy ny viriosy herpes, viriosy West Nile.
+- Ny aretina azo avy amin'ny firaisana ara-nofo (Sexually Transmitted Diseases) dia ateraky ny viriosy toy ny HIV, HPV, Hepatitis B.
+
+Noho izany, ny cancer ihany no tsy ateraky ny viriosy amin'ireo aretina voatanisa ireo.",
+"Ny fikarohana momba ny fahazoana fiteny faharoa dia nampiseho hoe iza amin'ireto manaraka ireto momba ireo ankizy izay mahazo fiteny faharoa.
+A.Nahemotra ny fivoaran'ny fahaiza-manaon'izy ireo
+B.Tsara kokoa noho ny ankizy tsy mahay fiteny roa izy ireo.
+C.Ny fahaizan'ny fitenin-drazany dia tsy misy fiantraikany amin'ny tahan'ny fahazoana ny fiteny faharoa
+D.Nampitombo ny fahalefahana ara-pahalalana izy ireo.",D,"Araka ny fikarohana momba ny fahazoana fiteny faharoa, ny valiny marina dia:
+
+D. Nampitombo ny fahalefahana ara-pahalalana izy ireo.
+
+Ny fanazarana fiteny faharoa amin'ny ankizy dia mampitombo ny fahaiza-manaony ara-tsaina sy ny fahalefahany ara-pahalalana. Manampy azy ireo hahafantatra kolotsaina hafa izany ary manome tombony azy ireo eo amin'ny sehatry ny fanabeazana sy asa.
+
+Ny hafa tsy marina satria:
+
+A. Tsy mampihemotra ny fivoaran'ny fahaiza-manaon'izy ireo ny fianaran'izy ireo fiteny faharoa, fa vao mainka mampitombo izany.
+
+B. Tsy azo lazaina fa tsara kokoa noho ny ankizy tsy mahay fiteny roa izy ireo, fa samy manana ny laharam-pahamehany ny fiteny tsirairay.
+
+C. Misy fiantraikany amin'ny tahan'ny fahazoana ny fiteny faharoa ny fahaizan'ny fitenin-drazana. Matetika ny ankizy mahay tsara ny fitenin-drazany dia mora kokoa ny mianatra fiteny faharoa.",
+" Ny Communidades de Base dia mifandray amin'ny hoe iza amin'ireto manaraka ireto?
+A.Eveka Oscar Romero
+B.Fanoherana sy fanavaozana
+C.Fahamendrehana ho an'ny olombelona rehetra
+D.Ireo rehetra voalaza etsy ambony ireo",D,"D. Ireo rehetra voalaza etsy ambony ireo.
+
+Ny Communidades de Base dia mifandray amin'ireo singa telo voalaza etsy ambony:
+
+1. Eveka Oscar Romero: Izy no mpitarika malaza ny Communidades de Base tany El Salvador. Niaro ny zon'ny mahantra izy ary novonoina noho izany.
+
+2. Fanoherana sy fanavaozana: Ny Communidades de Base dia niezaka nanova ny fiaraha-monina mba hisian'ny rariny sy hitsinjaran'ny harena tsaratsara kokoa. Nanohitra ny fahoriana sy fanilikilihana izy ireo.
+
+3. Fahamendrehana ho an'ny olombelona rehetra: Nino ny Communidades de Base fa tokony hohajaina ny maha-olona sy ny zon'ny tsirairay, indrindra fa ny mahantra sy ny voailikilika.
+
+Noho izany, ireo singa telo ireo dia samy mifandray lalina amin'ny fomba fiasan'ny Communidades de Base sy ny tanjona nentiny.",
+"Ny mpiompy no tompon'ny tany antsoina hoe ""A. "" Avo roa heny noho ny tany manodidina azy io eo amin'ny tendrombohitra iray. Ny mpamboly dia tompon'ny parcel ""B,"" izay ambany noho ny ""A"" eo amin'ny tehezan-tendrombohitra. Tamin'ny 2000, dia nanorina rafitra fanarian - drano manokana ilay mpiompy, izay tompon'ny tany roa. Io rafitra io dia ahitana fantsona ambanin'ny tany izay niitatra nanerana ny tany roa. Ny rano maloto avy amin'ny parcel ""A"" dia namakivaky ny rafitra ho any amin'ny tatatra monisipaly, izay hita any amin'ny farany ambanin'ny tendrombohitra. Tamin'ny 2005, nivarotra ny ""B"" tamin'ny mpamboly ilay mpiompy. Tsy nahitana filazana momba ny rafitra fanarian-drano nataon'ilay mpamboly ny asa natao ho an'ilay mpamboly. Mitoetra eo amin'ny tsirairay amin'ireo faritra ireo ny trano lehibe toy ny toeram-piompiana izay bodoin'ny tompon'ny tsirairay. Tato ho ato, dia nanomboka nandefa fofona tsy mahafinaritra tao amin'ny faritra ""B "" ilay izy, ka nitory an'ilay mpamboly noho ny fandikan - dalàna nataony, ka nivavaka noho ny fahasimban'ny rano maloto. Ny fitsarana dia tokony ho amin'ny
+A.Ny mpiompy, satria ny asa ho an'ny mpamboly dia tsy ahitana fanekempihavanana mametra ny fampiasana ny tany ho an'ny mpiompy.
+B.Ny mpiompy, satria ny antony tokony hanaovan'ilay mpamboly asa dia noho ny fanakorontanana, fa tsy ny fandikan-dalàna.
+C.Ny tantsaha, satria ny rafitra fanariana rano no anton'ny fahasimban'ny mpitory amin'ny resaka lalàna.
+D.Ny tantsaha, satria tsy manana zo hanatsara ny taniny amin'ny fomba izay niteraka fahavoazana ho an'ny hafa.",B,"D. Ny tantsaha, satria tsy manana zo hanatsara ny taniny amin'ny fomba izay niteraka fahavoazana ho an'ny hafa.
+
+Ny antony:
+
+1. Ny mpiompy no nanorina ny rafitra fanarian-drano tamin'ny 2000, fony izy mbola tompon'ny tany roa (""A"" sy ""B""). Noho izany, izy no tompon'andraikitra amin'ny fahasimban'ny rafitra.
+
+2. Tamin'ny 2005, nivarotra ny tany ""B"" tamin'ny mpamboly ilay mpiompy, nefa tsy nisy filazana momba ny rafitra fanarian-drano tao amin'ny asa natao ho an'ilay mpamboly. Noho izany, tsy nahalala momba izany rafitra izany ilay mpamboly.
+
+3. Ny rano maloto avy amin'ny tany ""A"" an'ilay mpiompy no niteraka ny olana (fofona tsy mahafinaritra) tao amin'ny tany ""B"" an'ilay mpamboly.
+
+4. Araka ny lalàna, tsy mahazo manao fanatsarana amin'ny taniny ny olona raha miteraka fahasimbana ho an'ny hafa izany. Noho izany, ny mpiompy no tokony ho tompon'andraikitra amin'ny fahavoazana nateraky ny rafitra fanarian-drano nataony.",
+"Nahazo torohevitra avy amin'ny mpanome vaovao azo itokisana ny polisy fa nisy lehilahy iray nivarotra cocaine avy tao an-tranony. Avy eo dia nandefa fanambarana ho an'ny mpitsara ireo mpitandro filaminana izay mamaritra ny toe-javatra izay mampiseho antony mety ho famoahana didy fanadihadiana. Namoaka didy fikarohana momba ny zava-mahadomelina tao amin'ny adiresin'ilay lehilahy ny mpitsara. Nandeha tany an-tranon'ilay lehilahy ny polisy ary nampaneno ny lakolosim-baravarana. Rehefa tsy nisy namaly, niditra an-keriny ny polisy ary niditra tao amin'ilay trano. Nosavain'izy ireo ny efitrano teo amin'ny rihana voalohany ary tsy nahita porofo manameloka izy ireo, ary avy eo dia nivoaka ny trano ary nahita fidirana iray hafa izay mitondra mankany amin'ny rihana faharoa amin'ilay trano. Niakatra ny tohatra izy ireo ary niditra tao amin'ny efitrano fandriana ambony rihana. Tao anatin'ilay efitrano dia nahita cocaine iray nandry teo amin'ny mpanao akanjo iray ireo mpitandro filaminana. Raha mbola nanohy ny fikarohana tao amin'ny efitrano fandriana ireo mpitandro filaminana, dia niditra tao amin'ny efitrano ilay voampanga. Nanontany ilay voampanga ny polisy raha toa ka izy no ilay lehilahy. Nilaza ny tenany ilay voampanga ary nilaza tamin'ny polisy fa tao amin'ny efitrano fandriany izy ireo ary nibodo ny rihana faharoa tao amin'ilay trano fonenana izy. Nanazava ilay voampanga fa nipetraka teo amin'ny rihana voalohany ilay lehilahy ary nisaraka tamin'ny an'ny voampanga ny toeram-ponenany. Na izany aza, nosamborina ilay voampanga ary nampangaina ho nitazona kôkainina. Nametraka fangatahana ny voampanga mba hanaisotra ny cocaine tsy ho tafiditra ao anatin'ny porofo. Ny fangatahana dia tsy maintsy atao
+A.Ekena, satria tsy nanome anarana ny voampanga ny didy.
+B.Marina fa tsy nilaza tamin'ny antsipiriany ny faritra tokony hokarohina ilay didy.
+C.Tsy nanda, satria nino ny polisy fa nikaroka ny tranon'ilay lehilahy izy ireo rehefa niditra tao amin'ny toeram-ponenan'ny voampanga.
+D.Nolavina izany, satria manan-kery ny didy ary navoaka tamin'ny antony azo antoka.",C,"D. Nolavina izany, satria manan-kery ny didy ary navoaka tamin'ny antony azo antoka.
+
+Ny fangatahana hanaisotra ny cocaine tsy ho tafiditra ao anatin'ny porofo dia tokony holavina amin'ity tranga ity. Nahazo torohevitra avy amin'ny loharano azo itokisana ny polisy fa nivarotra cocaine avy ao an-tranony ilay lehilahy. Nandefa fanambarana ho an'ny mpitsara izy ireo izay mamaritra ny toe-javatra mampiseho antony mety hamoahana didy fikarohana. Namoaka didy fikarohana momba ny zava-mahadomelina tao amin'ny adiresin'ilay lehilahy ny mpitsara. Ny didy dia manan-kery ary navoaka tamin'ny antony azo antoka. Na dia tsy nilaza mazava ny anaran'ilay voampanga aza ny didy, dia niditra tao amin'ny tranon'ilay lehilahy voalaza ny polisy ary nahita cocaine tao amin'ny efitrano fandriana ambony rihana. Ny fisian'ny cocaine tao amin'ny efitrano fandriana dia manome antony ampy hanamelohana ilay voampanga, na dia tsy nipetraka tao amin'io rihana io aza izy araka ny filazany. Noho izany, manan-kery ny didy fikarohana ary tsy tokony hoesorina ny cocaine.",
+"Iza amin'ireto teoria manaraka ireto no mifantoka amin'ny fomba ataon'ny fiarahamonina amin'ny fanatanterahana ireo asa ilaina mba hihazonana ny filaminana sy ny fahamarinan-toerana?
+A.Functionalism
+B.Fifandraisana
+C.Theory Rational-choice
+D.Ny teorian'ny fifandirana",A,"Amin'ireo safidy omena, ny A. Functionalism no mifantoka amin'ny fomba ataon'ny fiarahamonina amin'ny fanatanterahana ireo asa ilaina mba hihazonana ny filaminana sy ny fahamarinan-toerana.
+
+Ny functionalism dia teoria iray ao amin'ny sosiolojia izay mijery ny fiarahamonina ho toy ny rafitra iray misy ampahany maro samihafa manana anjara asa tsirairay ilaina amin'ny fampandehanana tsara ny fiarahamonina. Ireo ampahany ireo dia samy manana andraikitra sy asa ilaina amin'ny fikojakojana ny filaminana sy fahamarinan-toerana ao anatin'ilay rafitra iray manontolo.
+
+- Ny B. Fifandraisana (Interactionism) kosa dia mifantoka amin'ny fifandraisana eo amin'ny olona tsirairay sy ny fomba amoronana ny tontolo sosialy.
+
+- Ny C. Theory Rational-choice dia mifantoka amin'ny fanapahan-kevitra ataon'ny olona tsirairay mba hahazoana tombony ho an'ny tenany.
+
+- Ny D. Teorian'ny fifandirana (Conflict theory) indray dia mifantoka amin'ny fifandirana sy fifaninanana eo amin'ny vondrona samihafa ao amin'ny fiarahamonina.
+
+Noho izany, ny functionalism no mifanaraka indrindra amin'ilay fanontaniana momba ny fomba ikarakarana ny filaminana sy fahamarinan-toerana ao amin'ny fiarahamonina.",
+"Ny tanjon'ny fanadihadiana roa na roa sosona dia ny:
+A.Mitadiava fampitahana amin'ny lohahevitra tsy voatsabo sy tsy voatsabo
+B.Mampihena ny vokatry ny santionany fiovaovana
+C.Sorohy ny mpanara-maso sy ny foto-kevitra fironana
+D.Sorohy ny fitongilanana sy ny fahasamihafana amin'ny santionany",B,"Ny valiny marina dia D. Sorohy ny fitongilanana sy ny fahasamihafana amin'ny santionany.
+
+Ny tanjona fototra amin'ny fampiasana fanadihadiana roa na roa sosona dia ny hanafoana na hamerana ny fiantraikany amin'ny fitongilanana sy ny fahasamihafana eo amin'ny vondrona roa ampitahaina. Amin'ny alalan'ny fizarana kisendrasendra ny mpandray anjara ho vondrona roa mitovy dia azo antoka fa mitovy ny toetra samihafa ananan'izy ireo, ka tsy misy fahasamihafana goavana eo amin'izy ireo afa-tsy ny fitsaboana na hetsika ampiharina.
+
+Ny safidy hafa:
+- A dia diso satria tsy ilaina ny mitady fampitahana amin'ny lohahevitra tsy voatsabo sy voatsabo, fa ny fampitahana ny vondrona roa samy voatsabo ihany.
+- B dia diso satria tsy mampihena ny vokatry ny santionany fiovaovana ny fanadihadiana roa sosona fa miezaka mampihena ny fiantraikan'ny fitongilanana sy fahasamihafana.
+- C dia diso satria tsy misy ifandraisany mivantana amin'ny fanadihadiana roa sosona ny fanafoanana ny fironana avy amin'ny mpanara-maso sy ny foto-kevitra.",
+"Ny mpiasa iray ao amin'ny orinasa lehibe iray dia mahita fa tsy ampy ny asa, ary ny vola ihany no manohy ny asa. Ny mpiasa dia manao kely indrindra, ary tsy manosika azy hamokatra be indrindra na kalitao tsara kokoa. Araka ny teoria roa nataon'i F. Herzberg, ny fomba tsara indrindra hampitomboana ny fitiavan-tenan'ity mpiasa ity dia ny hoe ny
+A.Manolotra karama sy fandrisihana ho an'ny vokatra bebe kokoa
+B.Hanova ny asa mba hanome fanamby sy fahatsapana ny zava-bita
+C.Ampitomboy ny fahafahana ho an'ny fifandraisana ara-tsosialy
+D.manome ny mpiasa amin'ny asa tondra-drano mitondra voninahitra lehibe kokoa",B,"Araka ny teoria roa nataon'i Frederick Herzberg momba ny fampiroboroboana ny fitiavan-tena amin'ny asa, ny valiny tsara indrindra dia:
+
+B. Hanova ny asa mba hanome fanamby sy fahatsapana ny zava-bita
+
+Ny teorian'i Herzberg dia mifantoka amin'ny hoe inona no manosika ny olona amin'ny asa. Mametraka karazana roa izy:
+1. Ireo mpanosika (motivators) toy ny fankatoavana, andraikitra, fandrosoana, ary fahombiazana izay miteraka fitiavan-tena sy fankafizana ny asa.
+2. Ireo mpanitsy (hygiene factors) toy ny karama, toe-javatra, fifandraisana amin'ny mpiara-miasa, ary fitantanana izay tsy miteraka fitiavan-tena fa mety miteraka tsy fahafinaretana raha tsy ampy.
+
+Ny fanomezana fanamby vaovao sy andraikitra lehibe kokoa amin'ny asa (valiny B) dia hanosika ny mpiasa satria manome fahafahana handroso sy hahazo fahombiazana izany. Ny fanomezana karama bebe kokoa fotsiny (valiny A) dia tsy ampy hanovana ny fihetseham-po momba ny asa.
+
+Ny valiny C sy D dia mety hanampy kely, fa tsy manova ny atiny fototra amin'ny asa mba hahatonga azy ho mahaliana sy mahavelona kokoa ho an'ilay mpiasa araka ny teorian'i Herzberg.",
+"Ao anatin'ny tontolon'ny fanatontoloana, ahoana no ahafahantsika mamaritra tsara ny teny hoe ""fampandrosoana""?
+A.Ny teny hoe fampandrosoana dia manondro ny toe-piainan'ny olombelona izay misy fahafahana amin'ny tahotra sy ny faniriana; Misy loharano ampy hanohanana ny fiainana ary ity fiainana ity dia mety hisy ao amin'ny fanjakana tsy misy fandrahonana, na heverina ho loza mitatao, noho ny fahatapahana tampoka.
+B.Mba ho raisina ho mandroso, tsy maintsy nahavita sata ara-toekarena sy ara-politika tao anatin'ny rafitry ny fanjakana manerantany ny firenena iray; Ny fepetra ho an'ny zavatra mandrafitra ny 'mandroso' fanjakana dia araka izany voafaritra amin'ny alalan'ireo fepetra takiana amin'ny fifandraisana ao amin'ity rafitra ity.
+C.Ny fampandrosoana dia fomba iray hiatrehana ny tsy fitoviana izay miaraka amin'ny fanatontoloana neoliberaly. Ao anatin'izany toe-javatra izany, ny fampandrosoana dia manondro ny fahafahan'ny mponina na ny vondrom-piarahamonina mampiasa amim-pahombiazana ny loharanon-karena sy ny fampitomboana ny fahombiazan'ny famokarana sy ny fizarana, mampiroborobo ny fizarana ara-drariny kokoa ny fidiram-bola eo amin'ny fiarahamonina.
+D.Ny fampandrosoana ny vondrom-piarahamonina dia manondro ny rafitra ara-ideolojia sy etika izay misoratra anarana amin'ny mponina ao aminy. Ao anatin'ny rafitra iraisam-pirenena natao ho fanatontoloana dia manondro ny fananganana foto-kevitra demokratika liberaly tandrefana sy ny toekarena malalaka izany.",C,"Raha ny hevitro dia tsy misy valiny tena marina na diso amin'ireo safidy ireo satria samy manana ny lafiny tsara sy ny fetrany avokoa izy ireo amin'ny famaritana ny atao hoe fampandrosoana. 
+
+Ny safidy A dia mifantoka amin'ny fampandrosoana amin'ny maha olombelona, izay tena zava-dehibe tokoa. Fa mety ho voafetra kely ny famaritana azy.
+
+Ny safidy B kosa dia mijery ny fampandrosoana avy amin'ny lafiny iraisam-pirenena sy ny fepetra takian'izany. Marina izany fa mety tsy hisongadina loatra ny lafiny maha-olona.
+
+Ny safidy C dia mampifangaro ny fampandrosoana ara-toekarena sy ny fitsinjarana ara-drariny, izay samy ilaina tokoa. Kanefa mety mbola misy lafiny hafa koa ankoatra izay.
+
+Ny safidy D indray dia manamarika ny maha zava-dehibe ny demokrasia sy ny toekarena malalaka. Saingy tsy voatery ho irery ihany koa izany lafiny izany.
+
+Noho izany, raha tsy maintsy misafidy dia aleoko ny C satria mampiaraka lafiny maromaro. Fa tsara kokoa raha atambatra avokoa ireo hevitra rehetra ireo mba hahazoana famaritana feno kokoa ny atao hoe fampandrosoana. Tokony hojerena avokoa ny lafiny rehetra: ara-tsosialy, ara-toekarena, ara-politika, ary indrindra ny olombelona.",
+"Vehivavy iray 54 taona no tonga tao amin'ny birao satria niharan'ny fanaintainana nitsitaitaika teo amin'ny takolany havanana sy ny vavany izy nandritra ny 3 herinandro farany. Ny fizarana tsirairay amin'ny fanaintainana dia maharitra 1 segondra na latsaka. Matetika ny fanaintainana dia vokatry ny rivotra mangatsiaka, fitsakoana, fanaitairana azo tsapain-tanana, ary fiborosiana ny nifiny. Tsy nanana ratra teo amin'ny tarehy na ny lohany izy. Ny tantaran'ny fitsaboana dia miavaka amin'ny aretin'andoha, ny hatavezana, ary ny fandidiana amin'ny alalan'ny lalan-drà. Ny halavany dia 165 cm (5 ft 5 in) ary milanja 62 kg (137 lb); Ny BMI dia 23 kg / m2. Ara - dalàna ny famantarana tena ilaina. Ny marary dia tsy afaka mandefitra amin'ny fikasihana eo amin'ny lafiny ankavanan'ny tarehy. Tsy misy ny tsy fahampian'ny endrika na ny fahaverezan'ny fahatsapana. Ny ambiny amin'ny fanadihadiana ara-batana dia tsy mampiseho ny tsy fahatomombanana. Ny CT scan ny lohany amin'ny sy tsy misy fifanoherana dia tsy mampiseho ny tsy fahatomombanana. Iza amin'ireto manaraka ireto no fanafody mety indrindra amin'izao fotoana izao?
+A.Carbamazepine
+B.Lamotrigine
+C.Levetiracetam
+D.Topiramate",A,"Ry mpitsabo hajaina,
+
+Araka ny famantarana sy ny tantara ara-pahasalamana nomen'ilay vehivavy 54 taona, ny aretina mety indrindra dia ny Trigeminal Neuralgia (TN). Ny TN dia aretina mahatsiravina mahazo ny hozatry ny trigeminal, izay mampifandray ny atidoha amin'ny tarehy. Ny famantarana mahazatra dia fanaintainana mafy, mitsitaitaika eo amin'ny lafiny iray amin'ny tarehy, vokatry ny fanaitairana toy ny rivotra mangatsiaka na fiborosiana ny nify.
+
+Amin'ny fitsaboana ny TN, ny fanafody voalohany matetika ampiasaina dia ny carbamazepine (Tegretol), izay karazana fanafody anticonvulsant. Miasa amin'ny alalan'ny fampihena ny herin'ny hetsika mihoatra ao amin'ny hozatra izy io, ka mampihena ny fanaintainana. Noho izany, ny safidy A (Carbamazepine) no valiny mety indrindra amin'ny fanontaniana.
+
+Ny lamotrigine, levetiracetam ary topiramate dia samy fanafody anticonvulsant ihany koa, saingy tsy voalohany ampiasaina amin'ny fitsaboana ny TN izy ireo. Azo ampiasaina izy ireo raha tsy mahomby ny carbamazepine na tsy zakan'ny marary.
+
+Tsara ho marihina fa mila fanadihadiana manokana kokoa ilay marary mba hanamafisana ny aretina TN ary hanesorana antony hafa mety misy. Ny fitsaboana maharitra dia mety ilaina raha tsy mahomby ny fanafody.",

@@ -1,94 +1,170 @@
 Question,CorrectAnswer,GivenAnswer,Correct
-"Orang dewasa paruh baya tampaknya lebih _____ daripada orang dewasa yang lebih tua atau lebih muda
-A.Generatif
-B.Neurotik
-C.Menyenangkan
-D.Pasti",a,c,false
-"Kekeliruan kepribadian pujian adalah tipe spesifik dari
-A.Kekeliruan kecelakaan
-B.Dilema palsu
-C.Memohon pertanyaan
-D.Penalaran melingkar",a,d,false
-"Apa bahasa resmi Belanda?
-A.Denmark
-B.Swedia
-C.Jerman
-D.Belanda",d,d,true
 "Apa bahasa asli aktor Antonio Banderas?
 A.Spanyol
 B.Rusia
 C.Jerman
-D.Prancis",a,a,true
-"Validasi silang K-fold adalah
-A.linier dalam K
-B.kuadrat dalam K
-C.kubik dalam K
-D.eksponensial dalam K",a,b,false
-"Manakah dari film-film horor ini yang paling banyak melahirkan sekuel?
-A.Berteriak'
-B.Rahang'
-C.Halloween'
-D.Jumat tanggal 13'",d,c. halloween',false
-"Di negara bagian apa film Magnolia tahun 1999 berlatar?
-A.California
-B.Karolina Selatan
-C.Georgia
-D.Texas",a,a,true
-" Alat pemasaran dan komunikasi ini menawarkan bujukan langsung atau insentif untuk mendorong pelanggan membeli produk / layanan:
-A.Iklan.
-B.Humas.
-C.Promosi penjualan.
-D.Pemasaran langsung.",c,c,true
-"Manakah dari hidangan ini yang terbuat dari usus babi?
-A.Haggis
-B.Chitlin
-C.bubur jagung
-D.potong suey",b,b,true
-"Mutasi yang menyebabkan achondroplasia memberikan efek yang dapat diklasifikasikan sebagai:
-A.negatif dominan.
-B.keuntungan fungsi.
-C.haploinsufisiensi.
-D.kehilangan fungsi.",b,d,false
-"Seorang pasien menderita patah leher dengan kerusakan pada sumsum tulang belakang pada tingkat vertebra serviks keenam.
-A.Mereka tidak akan bisa bernapas tanpa dukungan hidup.
-B.Mereka hanya akan bisa bernapas dengan tenang.
-C.Tidak mungkin untuk memprediksi efek pada pernapasan.
-D.Pernapasan tidak akan terpengaruh.",b,a,false
-"Apakah pembunuhan di luar hukum yang dilakukan oleh Menteri negara X di luar negeri merupakan tindakan jure imperii atau jure gestionis?
-A.Perilaku seperti itu adalah tindakan publik (jure imperii)
-B.Perilaku seperti itu tidak pernah menarik kekebalan
-C.Perilaku seperti itu adalah tindakan pribadi (jure gestionis)
-D.Perilaku semacam itu adalah tindakan publik tetapi dilindungi oleh kekebalan",c,a,false
-"Tentukan konsentrasi H + (aq) dalam larutan fenol 1,0 M, C6H5OH. (Ka untuk fenol adalah 1 × 10^-10.)
-A.1 × 10^-10 M
-B.1 × 10^-9 M
-C.1 × 10^-3 M
-D.1 × 10^-5 M",d,a,false
+D.Prancis",A,"Jawaban yang benar adalah A. Spanyol.
+
+Antonio Banderas adalah aktor, sutradara, dan produser film asal Spanyol. Bahasa aslinya adalah bahasa Spanyol, karena ia lahir dan dibesarkan di Spanyol.",
+"Sebuah tangki berbentuk prisma segitiga. Jika dasar segitiga memiliki luas 116 kaki persegi, dan tangki setinggi 30 kaki, berapa banyak air yang akan terkandung dalam tangki ketika penuh?
+A.1725 kaki ^ 3
+B.1740 kaki ^ 3
+C.3480 kaki ^ 3
+D.6960 kaki ^ 3",C,"Untuk menyelesaikan masalah ini, kita perlu menghitung volume tangki yang berbentuk prisma segitiga.
+
+Rumus volume prisma segitiga:
+Volume = Luas Alas × Tinggi
+
+Diketahui:
+- Luas alas (dasar segitiga) = 116 kaki persegi
+- Tinggi tangki = 30 kaki
+
+Maka, volume tangki adalah:
+Volume = Luas Alas × Tinggi
+Volume = 116 kaki persegi × 30 kaki
+Volume = 3.480 kaki kubik
+
+Jadi, jawaban yang benar adalah C. 3.480 kaki kubik.",
+"Apa bahasa resmi Belanda?
+A.Denmark
+B.Swedia
+C.Jerman
+D.Belanda",D,"Jawaban yang benar adalah D. Belanda.
+
+Bahasa resmi Belanda adalah bahasa Belanda (Nederlands).
+
+Belanda adalah negara di Eropa Barat yang berbahasa Belanda sebagai bahasa resmi dan utama. Bahasa Belanda adalah bahasa yang digunakan secara resmi di Belanda, serta di Belgia (sebagai salah satu bahasa resmi) dan Suriname.
+
+Jadi, bahasa resmi Belanda adalah bahasa Belanda, bukan bahasa Denmark, Swedia, atau Jerman.",
+"Manakah dari karakteristik berikut yang umumnya konsisten dengan pemerkosaan saat kencan?
+A.penggunaan kekuatan yang berlebihan
+B.direncanakan sebelumnya
+C.bermotivasi seksual
+D.melibatkan penggunaan senjata",C,"Karakteristik yang umumnya konsisten dengan pemerkosaan saat kencan adalah:
+
+A. Penggunaan kekuatan yang berlebihan
+C. Bermotivasi seksual
+
+Pemerkosaan saat kencan sering terjadi ketika pelaku menggunakan kekuatan yang berlebihan untuk memaksa korban melakukan aktivitas seksual tanpa persetujuan. Motivasi utamanya adalah kepuasan seksual, bukan untuk tujuan lain.
+
+Sementara itu, karakteristik ""direncanakan sebelumnya"" dan ""melibatkan penggunaan senjata"" tidak selalu menjadi ciri khas pemerkosaan saat kencan. Pemerkosaan saat kencan bisa terjadi secara spontan tanpa perencanaan, dan tidak selalu melibatkan senjata.",
+"Angka, dibulatkan ke seribu terdekat, adalah 47.000. Nomor mana yang bisa menjadi angka yang dibulatkan?
+A.46,295
+B.46,504
+C.47,520
+D.47,924",B,"Untuk menjawab pertanyaan ini, kita perlu menentukan angka mana yang, jika dibulatkan ke seribu terdekat, akan menghasilkan 47.000.
+
+Opsi A: 46,295
+Jika dibulatkan ke seribu terdekat, 46,295 akan menjadi 46,000.
+
+Opsi B: 46,504
+Jika dibulatkan ke seribu terdekat, 46,504 akan menjadi 47,000.
+
+Opsi C: 47,520
+Jika dibulatkan ke seribu terdekat, 47,520 akan menjadi 48,000.
+
+Opsi D: 47,924
+Jika dibulatkan ke seribu terdekat, 47,924 akan menjadi 48,000.
+
+Jadi, jawaban yang benar adalah Opsi B: 46,504.",
+"Dibandingkan dengan partai politik di negara-negara seperti Inggris dan Israel, yang keduanya memiliki sistem multipartai, partai politik Amerika
+A.kurang tertarik untuk mempengaruhi hasil pemilu
+B.kurang jelas diidentifikasi dengan ideologi politik yang konsisten
+C.kurang efektif dalam mengumpulkan uang dari pendukung politik
+D.lebih mampu mencerminkan tujuan seluruh konstituen mereka",B,"Jawaban yang paling tepat adalah B. Partai politik di Amerika kurang jelas diidentifikasi dengan ideologi politik yang konsisten.
+
+Penjelasan:
+A. Tidak tepat, karena partai politik di Amerika sangat tertarik untuk mempengaruhi hasil pemilu.
+B. Tepat, karena partai politik di Amerika cenderung kurang konsisten dalam memegang ideologi politik tertentu dibandingkan dengan partai politik di negara-negara dengan sistem multipartai seperti Inggris dan Israel.
+C. Tidak tepat, karena partai politik di Amerika sangat efektif dalam mengumpulkan uang dari pendukung politik.
+D. Tidak tepat, karena partai politik di Amerika lebih cenderung mewakili kepentingan kelompok tertentu daripada mencerminkan tujuan seluruh konstituen mereka.
+
+Jadi, opsi B adalah jawaban yang paling sesuai dengan pernyataan dalam soal.",
 "Autokorelasi residual negatif ditunjukkan oleh yang mana dari berikut ini?
 A.Pola siklus dalam residu
 B.Pola bolak-balik dalam residu
 C.Keacakan lengkap dalam residu
-D.Residu yang semuanya mendekati nol",b,b,true
+D.Residu yang semuanya mendekati nol",B,"Jawaban yang tepat adalah B. Pola bolak-balik dalam residu.
+
+Autokorelasi residual negatif ditunjukkan oleh pola bolak-balik dalam residual. Hal ini terjadi ketika nilai residual cenderung berubah-ubah secara bergantian, yaitu nilai positif diikuti nilai negatif, kemudian diikuti lagi nilai positif, dan seterusnya.
+
+Pola siklus dalam residu (A) menunjukkan adanya autokorelasi positif, bukan negatif.
+Keacakan lengkap dalam residu (C) menunjukkan tidak adanya autokorelasi.
+Residu yang semuanya mendekati nol (D) tidak menunjukkan adanya autokorelasi, baik positif maupun negatif.
+
+Jadi, pola bolak-balik dalam residual adalah indikasi dari adanya autokorelasi residual negatif.",
+"Di negara bagian apa film Magnolia tahun 1999 berlatar?
+A.California
+B.Karolina Selatan
+C.Georgia
+D.Texas",A,"Jawaban yang tepat adalah A. California.
+
+Film Magnolia (1999) disutradarai oleh Paul Thomas Anderson dan berlatar di Los Angeles, California, Amerika Serikat.
+
+Beberapa alasan mengapa jawabannya adalah A. California:
+
+1. Magnolia adalah film yang dikenal dengan latar belakang kota Los Angeles dan sekitarnya, yang merupakan bagian dari negara bagian California.
+
+2. Banyak lokasi syuting film ini yang dikenal berada di California, seperti San Fernando Valley, Burbank, dan tempat-tempat lain di sekitar Los Angeles.
+
+3. Cerita dan karakter-karakter dalam film Magnolia juga sangat khas dengan budaya dan kehidupan di California.
+
+Jadi, berdasarkan informasi tersebut, negara bagian tempat film Magnolia tahun 1999 berlatar adalah California.",
+"Tegangan yang diinduksi dalam induktor direpresentasikan sebagai,
+A.produk induktansi dan arus yang melaluinya.
+B.rasio induktansinya terhadap arus melaluinya.
+C.rasio arus melaluinya dengan induktansinya.
+D.produk induktansi dan laju perubahan arus melaluinya.",D,"Jawaban yang tepat adalah D. produk induktansi dan laju perubahan arus melaluinya.
+
+Penjelasan:
+
+Tegangan yang diinduksi dalam induktor (tegangan induksi) direpresentasikan sebagai produk induktansi dan laju perubahan arus yang melalui induktor.
+
+Secara matematis, tegangan induksi (e) dapat dinyatakan sebagai:
+
+e = -L * di/dt
+
+Dimana:
+- L adalah induktansi induktor
+- di/dt adalah laju perubahan arus yang melalui induktor
+
+Jadi, tegangan induksi merupakan produk dari induktansi dan laju perubahan arus yang melalui induktor. Ini sesuai dengan pilihan jawaban D.
+
+Pilihan jawaban A, B, dan C tidak sepenuhnya benar dalam merepresentasikan tegangan induksi dalam induktor.",
+"Seorang pasien menderita patah leher dengan kerusakan pada sumsum tulang belakang pada tingkat vertebra serviks keenam.
+A.Mereka tidak akan bisa bernapas tanpa dukungan hidup.
+B.Mereka hanya akan bisa bernapas dengan tenang.
+C.Tidak mungkin untuk memprediksi efek pada pernapasan.
+D.Pernapasan tidak akan terpengaruh.",B,"Jawaban yang tepat adalah A. Mereka tidak akan bisa bernapas tanpa dukungan hidup.
+
+Penjelasan:
+
+Patah leher dengan kerusakan pada sumsum tulang belakang pada tingkat vertebra serviks keenam (C6) dapat menyebabkan kelumpuhan pada otot-otot pernapasan. Hal ini terjadi karena pada tingkat C6, saraf-saraf yang mengontrol otot-otot pernapasan, seperti diafragma, tercederai.
+
+Ketika sumsum tulang belakang pada tingkat C6 rusak, maka sinyal-sinyal saraf yang mengontrol pernapasan tidak dapat diteruskan dengan baik. Akibatnya, pasien tidak dapat bernapas secara mandiri dan membutuhkan dukungan hidup, seperti ventilator, untuk mempertahankan fungsi pernapasan.
+
+Oleh karena itu, jawaban yang benar adalah A. Mereka tidak akan bisa bernapas tanpa dukungan hidup.",
+"Manakah dari film-film horor ini yang paling banyak melahirkan sekuel?
+A.Berteriak'
+B.Rahang'
+C.Halloween'
+D.Jumat tanggal 13'",D,"Berdasarkan informasi yang saya miliki, film horor yang paling banyak melahirkan sekuel adalah:
+
+D. Jumat tanggal 13 (Friday the 13th)
+
+Film Jumat tanggal 13 telah menghasilkan total 12 sekuel sejak film pertama dirilis pada tahun 1980. Sekuel-sekuel tersebut terus diproduksi hingga tahun 2009. Ini menjadikan Jumat tanggal 13 sebagai salah satu franchise film horor terlama dan paling produktif dalam melahirkan sekuel.
+
+Sementara film-film horor lainnya yang Anda sebutkan, seperti Berteriak (Scream), Rahang (Jaws), dan Halloween, juga memiliki beberapa sekuel, tetapi tidak sebanyak Jumat tanggal 13.",
 "Manakah dari faktor-faktor berikut yang akan dianggap sebagai faktor ""penarik"" bagi Riva ketika mempertimbangkan pindah dari India ke Amerika Serikat?
 A.Kemiskinan hina
 B.Pekerjaan yang lebih baik dan upah yang lebih tinggi
 C.Sistem kasta India
-D.Kekerasan di lingkungannya",b,b,true
-"Manakah dari ini yang membuat penentuan keterkaitan evolusioner spesies yang berbeda berdasarkan urutan asam amino protein homolog umumnya kurang akurat daripada penentuan keterkaitan berdasarkan urutan nukleotida gen homolog?
-A.Mutasi diam
-B.Duplikasi gen
-C.Peristiwa translokasi yang mengubah urutan gen
-D.Menyeberang",a,d. menyeberang,false
-"Siswa sedang melakukan latihan pemisahan pigmen tumbuhan yang mengharuskan mereka untuk menggunakan ruang kromatografi tertutup dengan sejumlah kecil aseton di bagian bawah ruang. Peringatan keamanan untuk aseton termasuk pernyataan bahwa itu adalah iritasi mata dan kulit dan memiliki uap yang mudah terbakar. Dari berikut ini, tindakan pencegahan keamanan mana yang harus diambil siswa saat melakukan latihan?
-A.Mengenakan sarung tangan tahan api untuk membawa ruangan ke lemari asam jika aseton terbakar
-B.Menempatkan ruang dalam kabinet tertutup dan gelap selama pemisahan pigmen
-C.Mengenakan sarung tangan kulit dan menutupi hidung dan mulut dengan masker partikel
-D.Mengenakan kacamata dan sarung tangan jenis nitril dan menjaga semua wadah aseton tertutup",d,d,true
-"Identifikasi anteseden dari proposisi kondisional berikut: The Bees memenangkan pertandingan pertama mereka hanya jika Aardvarks atau Chipmunks tidak memenangkan pertandingan pertama mereka.
-A.The Aardvarks tidak memenangkan pertandingan pertama mereka.
-B.The Bees memenangkan pertandingan pertama mereka.
-C.The Chipmunks tidak memenangkan pertandingan pertama mereka.
-D.Baik Aardvarks atau Chipmunks tidak memenangkan pertandingan pertama mereka.",b,d,false
+D.Kekerasan di lingkungannya",B,"Jawaban yang tepat adalah:
+B. Pekerjaan yang lebih baik dan upah yang lebih tinggi
+
+Faktor ""penarik"" (pull factor) adalah faktor-faktor yang menarik seseorang untuk pindah ke tempat lain, seperti adanya peluang ekonomi yang lebih baik, kondisi kehidupan yang lebih nyaman, atau lingkungan yang lebih aman.
+
+Dalam kasus ini, pekerjaan yang lebih baik dan upah yang lebih tinggi di Amerika Serikat dapat menjadi faktor penarik bagi Riva untuk mempertimbangkan pindah dari India. Sementara faktor-faktor lain seperti kemiskinan hina, sistem kasta di India, atau kekerasan di lingkungannya merupakan faktor ""pendorong"" (push factor) yang mendorong Riva untuk meninggalkan India.",
 "Pertanyaan ini mengacu pada informasi berikut.
 ""Benih-benih rezim totaliter dipupuk oleh kesengsaraan dan kekurangan. Mereka menyebar dan tumbuh di tanah jahat kemiskinan dan perselisihan. Mereka mencapai pertumbuhan penuh mereka ketika harapan orang-orang untuk kehidupan yang lebih baik telah mati. Kita harus menjaga harapan itu tetap hidup. . . . Tanggung jawab besar telah dibebankan kepada kita oleh pergerakan peristiwa yang cepat. . . . Saya yakin bahwa Kongres akan menghadapi tanggung jawab ini dengan jujur.""
 Presiden Harry S. Truman, 1947
@@ -96,7 +172,29 @@ Ide-ide yang diungkapkan dalam bagian di atas paling langsung mencerminkan yang 
 A.Perdebatan tentang hubungan antara Kongres dan presiden.
 B.Perdebatan tentang penggunaan kekuatan militer dalam situasi yang bergejolak.
 C.Perdebatan tentang peran Amerika Serikat dalam urusan dunia.
-D.Perdebatan tentang peran partai politik yang tepat.",c,c,true
+D.Perdebatan tentang peran partai politik yang tepat.",C,"Berdasarkan informasi yang diberikan, jawaban yang paling tepat adalah:
+
+C. Perdebatan tentang peran Amerika Serikat dalam urusan dunia.
+
+Pernyataan Presiden Truman dalam kutipan tersebut menekankan pada tanggung jawab besar yang dibebankan kepada Amerika Serikat dalam menghadapi perkembangan peristiwa global yang cepat. Hal ini mencerminkan perdebatan yang berlangsung lama dalam sejarah Amerika Serikat mengenai peran dan keterlibatan Amerika dalam urusan internasional.
+
+Kutipan tersebut tidak secara langsung membahas perdebatan tentang hubungan antara Kongres dan Presiden (A), penggunaan kekuatan militer (B), atau peran partai politik (D). Fokus utamanya adalah pada perdebatan mengenai posisi dan tanggung jawab Amerika Serikat dalam konteks global.",
+"Siswa sedang melakukan latihan pemisahan pigmen tumbuhan yang mengharuskan mereka untuk menggunakan ruang kromatografi tertutup dengan sejumlah kecil aseton di bagian bawah ruang. Peringatan keamanan untuk aseton termasuk pernyataan bahwa itu adalah iritasi mata dan kulit dan memiliki uap yang mudah terbakar. Dari berikut ini, tindakan pencegahan keamanan mana yang harus diambil siswa saat melakukan latihan?
+A.Mengenakan sarung tangan tahan api untuk membawa ruangan ke lemari asam jika aseton terbakar
+B.Menempatkan ruang dalam kabinet tertutup dan gelap selama pemisahan pigmen
+C.Mengenakan sarung tangan kulit dan menutupi hidung dan mulut dengan masker partikel
+D.Mengenakan kacamata dan sarung tangan jenis nitril dan menjaga semua wadah aseton tertutup",D,"Jawaban yang tepat adalah:
+
+D. Mengenakan kacamata dan sarung tangan jenis nitril dan menjaga semua wadah aseton tertutup.
+
+Penjelasan:
+Tindakan pencegahan keamanan yang harus diambil siswa saat melakukan latihan pemisahan pigmen tumbuhan dengan menggunakan aseton adalah:
+
+1. Mengenakan kacamata untuk melindungi mata dari iritasi akibat uap aseton.
+2. Mengenakan sarung tangan jenis nitril untuk melindungi kulit dari kontak langsung dengan aseton.
+3. Menjaga semua wadah aseton tertutup untuk mencegah uap aseton yang mudah terbakar menyebar di ruangan.
+
+Opsi A tidak tepat karena sarung tangan tahan api tidak diperlukan untuk menangani aseton. Opsi B tidak tepat karena ruang kromatografi harus tetap terbuka selama pemisahan pigmen. Opsi C tidak tepat karena masker partikel tidak diperlukan untuk menangani aseton.",
 "Pertanyaan ini mengacu pada informasi berikut.
 Pertama-tama kita harus mengatakan bahwa kosmos berbentuk bulat, sebagian karena bentuk ini menjadi keseluruhan sempurna yang tidak memerlukan sendi, adalah yang paling lengkap dari semuanya, sebagian karena ia membuat bentuk yang paling luas, yang paling cocok untuk menampung dan melestarikan segalanya; atau lagi karena semua bagian penyusun alam semesta, yaitu matahari, bulan, dan planet-planet muncul dalam bentuk ini; atau karena segala sesuatu berusaha untuk mencapai bentuk ini, seperti yang muncul dalam kasus tetesan air dan badan cairan lainnya jika mereka mencoba untuk mendefinisikan diri mereka sendiri. Jadi tidak ada yang akan meragukan bahwa bentuk ini milik benda-benda langit. ...
 Oleh karena itu, bahwa bumi juga bulat tidak diragukan lagi, karena ia menekan dari semua sisi ke pusatnya. Meskipun dengan alasan ketinggian pegunungan dan depresi lembah, lingkaran sempurna tidak dapat dipahami, namun ini tidak mempengaruhi sifat bola umum bumi. ...
@@ -106,155 +204,258 @@ Bagian ini dapat digunakan sebagai bukti bahwa Copernicus berbeda dari filsuf al
 A.Kosmos itu bulat
 B.Bumi itu bulat
 C.Kosmos adalah geostatik
-D.Bumi tidak diam",d,d. bumi tidak diam,true
-"Manakah dari karakteristik berikut yang umumnya konsisten dengan pemerkosaan saat kencan?
-A.penggunaan kekuatan yang berlebihan
-B.direncanakan sebelumnya
-C.bermotivasi seksual
-D.melibatkan penggunaan senjata",c,c,true
-"Angka, dibulatkan ke seribu terdekat, adalah 47.000. Nomor mana yang bisa menjadi angka yang dibulatkan?
-A.46,295
-B.46,504
-C.47,520
-D.47,924",b,b,true
-"Dibandingkan dengan partai politik di negara-negara seperti Inggris dan Israel, yang keduanya memiliki sistem multipartai, partai politik Amerika
-A.kurang tertarik untuk mempengaruhi hasil pemilu
-B.kurang jelas diidentifikasi dengan ideologi politik yang konsisten
-C.kurang efektif dalam mengumpulkan uang dari pendukung politik
-D.lebih mampu mencerminkan tujuan seluruh konstituen mereka",b,b,true
-"Penelitian Garcia dan Koelling mengenai keengganan belajar menetapkan bahwa manakah dari pasangan UCS dan CS berikut yang paling kuat dan dipelajari paling cepat?
-A.melakukan tugas dan menerima hadiah makanan
-B.mual dan makanan atau minuman
-C.Gerakan dan kejutan
-D.Hukuman dan penghargaan",b,b,true
-"Perspektif psikologis mana yang paling populer pada pergantian abad kedua puluh di Eropa Barat?
-A.Neuroscience
-B.Evolusi
-C.behavioris
-D.psikoanalitik",d,d,true
-"Ketidakberdayaan yang dipelajari kemungkinan besar berhubungan langsung dengan
-A.efek Barnum.
-B.bias melayani diri sendiri.
-C.lokus kontrol eksternal.
-D.hal positif tanpa syarat.",c,c,true
-"Tegangan yang diinduksi dalam induktor direpresentasikan sebagai,
-A.produk induktansi dan arus yang melaluinya.
-B.rasio induktansinya terhadap arus melaluinya.
-C.rasio arus melaluinya dengan induktansinya.
-D.produk induktansi dan laju perubahan arus melaluinya.",d,d,true
-"Sebuah tangki berbentuk prisma segitiga. Jika dasar segitiga memiliki luas 116 kaki persegi, dan tangki setinggi 30 kaki, berapa banyak air yang akan terkandung dalam tangki ketika penuh?
-A.1725 kaki ^ 3
-B.1740 kaki ^ 3
-C.3480 kaki ^ 3
-D.6960 kaki ^ 3",c,b,false
-"Cari $-\dfrac{1}{-3}\cdot\cfrac{1}{~\frac{1}{-3}~}.$
-A.1
-B.-1
-C.0
-D.2",b,b,true
-"Temukan panjang kurva y = ln x antara titik-titik di mana y = 1/2 dan y = 1.
-A.0.53
-B.0.86
-C.1.18
-D.1.36",c,c,true
-"Bergerak pada kecepatan awal 1,5 × 10 ^ 6 m / s, proton memasuki wilayah medan magnet konstan besarnya 1,5 T. Jika vektor kecepatan awal proton membuat sudut 30 ° dengan medan magnet, hitung kecepatan proton 4 detik setelah memasuki medan magnet.
-A.5,0 × 10^6 m/dtk
-B.7,5 × 10^6 m/dtk
-C.1,5 × 10^6 m/dtk
-D.3,0 × 10^6 m/dtk",c,b,false
-"Dalam rangkaian seri, jika arus dalam satu lampu adalah 2 A, arus dalam lampu di sebelahnya adalah
-A.setengah, 1 A
-B.Pukul 02.00
-C.Tergantung pada lampu mana yang lebih dekat ke baterai
-D.Tidak cukup informasi untuk dikatakan",b,d,false
-"Pernyataan 1 | Dalam grup (ab)^{-2} = b^{-2}a^{-2}. Pernyataan 2 | Dalam grup (ab)^n = a^nb^n.
-A.Benar, benar
-B.Salah, Salah
-C.Benar, Salah
-D.Salah, Benar",b,a,false
+D.Bumi tidak diam",D,"Berdasarkan informasi yang diberikan, jawaban yang tepat adalah D. Bumi tidak diam.
+
+Dalam teks tersebut, Copernicus menjelaskan bahwa meskipun sebagian besar penulis pada zamannya meyakini bahwa bumi berdiri diam di pusat alam semesta, jika masalah ini dipertimbangkan dengan hati-hati, akan terlihat bahwa masalah itu belum diselesaikan. Copernicus menyarankan bahwa jika bumi tidak mengalami gerakan, maka gerakan harus terjadi dalam segala sesuatu di luar bumi, tetapi dalam arah yang berlawanan. Namun, jika bumi berputar dari barat ke timur, maka ini akan menjelaskan fenomena terbit dan terbenamnya matahari, bulan, dan bintang-bintang.
+
+Dengan demikian, Copernicus berbeda dari filsuf alam Aristoteles tradisional pada zamannya karena ia menyarankan bahwa bumi tidak diam, melainkan berputar pada porosnya.",
+"Manakah dari hidangan ini yang terbuat dari usus babi?
+A.Haggis
+B.Chitlin
+C.bubur jagung
+D.potong suey",B,"Jawaban yang benar adalah B. Chitlin.
+
+Chitlin adalah hidangan yang terbuat dari usus babi yang telah dibersihkan dan dimasak. Ini merupakan makanan tradisional di beberapa budaya, terutama di Amerika Serikat.
+
+Haggis adalah hidangan tradisional Skotlandia yang terbuat dari campuran hati, paru-paru, dan rempah-rempah yang dimasak dalam perut domba.
+
+Bubur jagung (congee) adalah hidangan bubur yang terbuat dari beras atau jagung, bukan dari usus babi.
+
+Chop suey adalah hidangan Cina-Amerika yang terbuat dari campuran sayuran dan daging, bukan dari usus babi.
+
+Jadi, dari pilihan yang diberikan, hanya Chitlin yang terbuat dari usus babi.",
+" Alat pemasaran dan komunikasi ini menawarkan bujukan langsung atau insentif untuk mendorong pelanggan membeli produk / layanan:
+A.Iklan.
+B.Humas.
+C.Promosi penjualan.
+D.Pemasaran langsung.",C,"Jawaban yang tepat adalah C. Promosi penjualan.
+
+Promosi penjualan adalah alat pemasaran dan komunikasi yang menawarkan bujukan langsung atau insentif untuk mendorong pelanggan membeli produk atau layanan. Contoh dari promosi penjualan antara lain:
+
+- Diskon
+- Kupon
+- Sampel gratis
+- Hadiah
+- Undian
+- Pameran dagang
+
+Sementara itu, iklan (A) adalah komunikasi tidak langsung untuk memperkenalkan dan mempromosikan produk/jasa. Humas (B) berfokus pada membangun hubungan baik dengan publik. Pemasaran langsung (D) adalah komunikasi langsung dengan pelanggan potensial untuk mendapatkan respons langsung.
+
+Jadi, dari pilihan yang diberikan, promosi penjualan (C) adalah yang paling tepat menggambarkan alat pemasaran dan komunikasi yang menawarkan bujukan langsung atau insentif untuk mendorong pembelian.",
+"Validasi silang K-fold adalah
+A.linier dalam K
+B.kuadrat dalam K
+C.kubik dalam K
+D.eksponensial dalam K",A,"Jawaban yang tepat adalah:
+
+A. Linier dalam K
+
+Validasi silang K-fold adalah teknik untuk mengevaluasi model pembelajaran mesin, di mana data dibagi menjadi K subset yang saling eksklusif. Proses validasi silang ini dilakukan secara iteratif, di mana setiap subset digunakan sebagai data uji, sementara subset lainnya digunakan sebagai data pelatihan.
+
+Kompleksitas waktu untuk melakukan validasi silang K-fold adalah linier dalam K. Ini berarti bahwa semakin besar nilai K, maka semakin lama waktu yang dibutuhkan untuk melakukan validasi silang. Namun, kompleksitas ini tidak meningkat secara kuadrat, kubik, atau eksponensial terhadap K.
+
+Jadi, jawaban yang tepat adalah A. Linier dalam K.",
+"Kekeliruan kepribadian pujian adalah tipe spesifik dari
+A.Kekeliruan kecelakaan
+B.Dilema palsu
+C.Memohon pertanyaan
+D.Penalaran melingkar",A,"Jawaban yang tepat adalah:
+
+C. Memohon pertanyaan (Begging the question)
+
+Kekeliruan kepribadian pujian (personality trait fallacy) adalah tipe spesifik dari kekeliruan memohon pertanyaan (begging the question). Dalam kekeliruan ini, seseorang menyimpulkan bahwa seseorang memiliki suatu kepribadian tertentu hanya berdasarkan perilaku yang terbatas, tanpa mempertimbangkan faktor-faktor lain yang mungkin mempengaruhi perilaku tersebut.
+
+Pilihan jawaban lainnya tidak tepat:
+A. Kekeliruan kecelakaan (accident fallacy)
+B. Dilema palsu (false dilemma)
+D. Penalaran melingkar (circular reasoning)
+
+Jadi, kekeliruan kepribadian pujian adalah tipe spesifik dari kekeliruan memohon pertanyaan (begging the question).",
+"Manakah dari ini yang membuat penentuan keterkaitan evolusioner spesies yang berbeda berdasarkan urutan asam amino protein homolog umumnya kurang akurat daripada penentuan keterkaitan berdasarkan urutan nukleotida gen homolog?
+A.Mutasi diam
+B.Duplikasi gen
+C.Peristiwa translokasi yang mengubah urutan gen
+D.Menyeberang",A,"Jawaban yang tepat adalah A. Mutasi diam.
+
+Penjelasan:
+
+Mutasi diam (silent mutation) adalah perubahan dalam urutan nukleotida gen yang tidak mengubah urutan asam amino protein yang dihasilkan. Hal ini terjadi karena adanya redundansi dalam kode genetik, di mana beberapa kodon dapat mengkode untuk asam amino yang sama.
+
+Ketika terjadi mutasi diam, urutan asam amino protein homolog tetap sama meskipun urutan nukleotida gen homolog berbeda. Hal ini menyebabkan penentuan keterkaitan evolusioner berdasarkan urutan asam amino protein homolog menjadi kurang akurat dibandingkan dengan penentuan keterkaitan berdasarkan urutan nukleotida gen homolog.
+
+Opsi B (Duplikasi gen) dan C (Peristiwa translokasi yang mengubah urutan gen) tidak secara langsung menyebabkan penentuan keterkaitan evolusioner berdasarkan urutan asam amino protein homolog menjadi kurang akurat.
+
+Opsi D (Menyeberang) tidak merupakan faktor yang mempengaruhi akurasi penentuan keterkaitan evolusioner berdasarkan urutan asam amino protein homolog.",
+"Orang dewasa paruh baya tampaknya lebih _____ daripada orang dewasa yang lebih tua atau lebih muda
+A.Generatif
+B.Neurotik
+C.Menyenangkan
+D.Pasti",A,"Jawaban yang paling tepat adalah:
+
+A. Generatif
+
+Penjelasan:
+Orang dewasa paruh baya (middle-aged adults) cenderung lebih generatif daripada orang dewasa yang lebih tua atau lebih muda. Generativitas mengacu pada keinginan untuk membimbing dan memberi kontribusi kepada generasi yang lebih muda, serta untuk meninggalkan warisan yang berharga.
+
+Pada usia paruh baya, orang-orang biasanya berada pada puncak karir dan produktivitas mereka, sehingga memiliki lebih banyak sumber daya dan pengalaman untuk berbagi dengan generasi yang lebih muda. Mereka juga cenderung lebih fokus pada pengembangan diri, keluarga, dan kontribusi sosial.
+
+Sementara itu, pilihan jawaban lainnya tidak sesuai dengan karakteristik orang dewasa paruh baya. Mereka tidak lebih neurotik, menyenangkan, atau pasti dibandingkan kelompok usia lainnya.",
+"Apakah pembunuhan di luar hukum yang dilakukan oleh Menteri negara X di luar negeri merupakan tindakan jure imperii atau jure gestionis?
+A.Perilaku seperti itu adalah tindakan publik (jure imperii)
+B.Perilaku seperti itu tidak pernah menarik kekebalan
+C.Perilaku seperti itu adalah tindakan pribadi (jure gestionis)
+D.Perilaku semacam itu adalah tindakan publik tetapi dilindungi oleh kekebalan",C,"Jawaban yang tepat adalah:
+
+D. Perilaku semacam itu adalah tindakan publik tetapi dilindungi oleh kekebalan
+
+Penjelasan:
+
+Pembunuhan di luar hukum yang dilakukan oleh seorang Menteri negara X di luar negeri merupakan tindakan jure imperii (tindakan publik) karena dilakukan dalam kapasitas sebagai pejabat negara. Namun, tindakan tersebut dapat dilindungi oleh kekebalan (immunity) yang melekat pada seorang Menteri sebagai pejabat negara.
+
+Doktrin kekebalan negara (state immunity) menyatakan bahwa tindakan resmi pejabat negara (acts jure imperii) dilindungi oleh kekebalan, meskipun tindakan tersebut melanggar hukum. Hal ini berbeda dengan tindakan pribadi (acts jure gestionis) yang tidak mendapatkan perlindungan kekebalan.
+
+Oleh karena itu, meskipun pembunuhan di luar hukum yang dilakukan oleh Menteri negara X merupakan tindakan publik (jure imperii), tindakan tersebut dapat dilindungi oleh kekebalan yang melekat pada Menteri sebagai pejabat negara.",
+"Tentukan konsentrasi H + (aq) dalam larutan fenol 1,0 M, C6H5OH. (Ka untuk fenol adalah 1 × 10^-10.)
+A.1 × 10^-10 M
+B.1 × 10^-9 M
+C.1 × 10^-3 M
+D.1 × 10^-5 M",D,"Untuk menentukan konsentrasi H+ (aq) dalam larutan fenol 1,0 M, C6H5OH, kita dapat menggunakan persamaan kesetimbangan asam-basa.
+
+Reaksi kesetimbangan untuk fenol:
+C6H5OH ⇌ C6H5O- + H+
+
+Konstanta kesetimbangan (Ka) untuk fenol adalah 1 × 10^-10.
+
+Kita dapat menggunakan persamaan:
+Ka = [C6H5O-][H+] / [C6H5OH]
+
+Diketahui:
+- [C6H5OH] = 1,0 M
+- Ka = 1 × 10^-10
+
+Kita dapat menghitung [H+] dengan menggunakan persamaan di atas:
+1 × 10^-10 = [H+] / 1,0
+[H+] = 1 × 10^-10 M
+
+Jadi, konsentrasi H+ (aq) dalam larutan fenol 1,0 M, C6H5OH adalah 1 × 10^-10 M.
+
+Oleh karena itu, jawaban yang benar adalah A. 1 × 10^-10 M.",
+"Identifikasi anteseden dari proposisi kondisional berikut: The Bees memenangkan pertandingan pertama mereka hanya jika Aardvarks atau Chipmunks tidak memenangkan pertandingan pertama mereka.
+A.The Aardvarks tidak memenangkan pertandingan pertama mereka.
+B.The Bees memenangkan pertandingan pertama mereka.
+C.The Chipmunks tidak memenangkan pertandingan pertama mereka.
+D.Baik Aardvarks atau Chipmunks tidak memenangkan pertandingan pertama mereka.",B,"Untuk mengidentifikasi anteseden dari proposisi kondisional ""The Bees memenangkan pertandingan pertama mereka hanya jika Aardvarks atau Chipmunks tidak memenangkan pertandingan pertama mereka"", kita perlu mencari pernyataan yang merupakan kondisi yang cukup untuk The Bees memenangkan pertandingan pertama mereka.
+
+Dari pilihan jawaban yang diberikan, pernyataan yang merupakan anteseden adalah:
+
+D. Baik Aardvarks atau Chipmunks tidak memenangkan pertandingan pertama mereka.
+
+Alasannya:
+- Jika baik Aardvarks maupun Chipmunks tidak memenangkan pertandingan pertama mereka, maka kondisi yang diperlukan untuk The Bees memenangkan pertandingan pertama mereka terpenuhi.
+- Pernyataan A dan C hanya menyatakan bahwa salah satu dari Aardvarks atau Chipmunks tidak memenangkan pertandingan pertama mereka, tetapi tidak cukup untuk memenuhi kondisi yang diperlukan bagi The Bees.
+- Pernyataan B menyatakan bahwa The Bees memenangkan pertandingan pertama mereka, tetapi ini adalah konsekuen, bukan anteseden.
+
+Jadi, anteseden dari proposisi kondisional tersebut adalah pernyataan D.",
+"Mutasi yang menyebabkan achondroplasia memberikan efek yang dapat diklasifikasikan sebagai:
+A.negatif dominan.
+B.keuntungan fungsi.
+C.haploinsufisiensi.
+D.kehilangan fungsi.",B,"Jawaban yang tepat adalah D. kehilangan fungsi.
+
+Achondroplasia adalah jenis dwarfisme yang paling umum terjadi pada manusia. Mutasi yang menyebabkan achondroplasia terjadi pada gen FGFR3 (Fibroblast Growth Factor Receptor 3), yang mengakibatkan hilangnya fungsi normal dari protein FGFR3.
+
+Protein FGFR3 memainkan peran penting dalam regulasi pertumbuhan tulang rawan dan tulang. Mutasi pada gen FGFR3 dalam achondroplasia menyebabkan aktivitas berlebihan dari protein FGFR3, yang menghambat pertumbuhan tulang panjang.
+
+Oleh karena itu, mutasi yang menyebabkan achondroplasia dapat diklasifikasikan sebagai kehilangan fungsi (loss-of-function), karena mengakibatkan hilangnya fungsi normal dari protein FGFR3 yang diperlukan untuk pertumbuhan tulang yang normal.
+
+Pilihan jawaban lainnya tidak sesuai dengan karakteristik mutasi yang menyebabkan achondroplasia:
+A. Negatif dominan: Mutasi tidak bersifat negatif dominan.
+B. Keuntungan fungsi: Mutasi menyebabkan hilangnya fungsi, bukan keuntungan fungsi.
+C. Haploinsufisiensi: Mutasi tidak menyebabkan haploinsufisiensi, tetapi aktivitas berlebihan dari protein FGFR3.",
 "Bisnis terlibat dalam akuntansi sosial karena tuntutan dari _________, untuk mengidentifikasi ________, untuk meningkatkan ___________ dan untuk mendorong _________ dan ___________
 A.Pemangku kepentingan, Risiko, Manajemen pemangku kepentingan, Akuntabilitas, Transparansi
 B.Pemangku Kepentingan, Akuntabilitas, Transparansi, Risiko, Manajemen Pemangku Kepentingan
 C.Pemangku Kepentingan, Akuntabilitas, Risiko, Pemangku Kepentingan, Manajemen Pemangku Kepentingan
-D.Pemangku Kepentingan, Manajemen Pemangku Kepentingan, Transparansi, Risiko, Akuntabilitas",a,b,false
-"Beberapa air Mars membeku di tanah dan lapisan es dan beberapa hilang karena pengupasan angin matahari tetapi banyak air asli diperkirakan telah hilang melalui mekanisme lain. Apa yang terjadi dengan air yang ""hilang"" ini?
-A.Itu dilucuti oleh medan magnet ketika kekuatannya menurun dengan cepat
-B.Itu dipecah menjadi hidrogen dan oksigen oleh sinar ultraviolet dan hidrogen hilang melalui pelarian termal
-C.itu dikonsumsi oleh peradaban Mars yang haus
-D.Itu menguap selama periode vulkanisme yang intens dan hilang ke ruang angkasa melalui pelarian termal",b,b,true
-"Apa istilah sejauh mana persaingan di satu negara dipengaruhi oleh persaingan di negara lain?
-A.Perdagangan luar negeri
-B.Ekonomi global
-C.Persaingan global
-D.Globalisasi",d,c. persaingan global,false
-"Ekonomi berada dalam resesi yang dalam. Mengingat situasi ekonomi ini, manakah dari pernyataan berikut tentang kebijakan moneter yang akurat?
-A.Kebijakan ekspansif hanya akan memperburuk resesi.
-B.Kebijakan ekspansif sangat meningkatkan permintaan agregat jika investasi sensitif terhadap perubahan suku bunga.
-C.Kebijakan kontraktif adalah stimulus yang tepat untuk investasi dan konsumsi.
-D.Jika permintaan uang sangat elastis, kebijakan moneter ekspansif mungkin cukup efektif.",b,d,false
-"Energi yang dilepaskan dari pemecahan fosfat berenergi tinggi, ATP dan fosfokreatin, dapat mempertahankan latihan pengerahan tenaga maksimal untuk sekitar:
-A.1-2 detik.
-B.5-10 detik.
-C.30-40 detik.
-D.50-60 detik.",b,b,true
-"Pajak yang dikenakan pada pemasok akan lebih mungkin diteruskan ke konsumen dalam bentuk kenaikan harga jika:
-A.Elastisitas harga permintaan sangat elastis.
-B.Elastisitas harga permintaan sangat tidak elastis.
-C.Elastisitas harga permintaan adalah unit elastis.
-D.Elastisitas upah permintaan sangat elastis.",b,b,true
-"Manakah dari berikut ini yang paling mungkin menghasilkan pertumbuhan ekonomi yang lebih kuat dari waktu ke waktu?
-A.Konsumsi sumber daya alam lebih cepat.
-B.Tingkat buta huruf orang dewasa yang lebih tinggi.
-C.Stok barang modal yang jatuh.
-D.Kredit pajak investasi.",d,d,true
-"Fakta bahwa frekuensi penyerapan inframerah deuterium klorida (DCl) bergeser dari hidrogen klorida (HCl) adalah karena perbedaan dalam mereka
-A.distribusi elektron
-B.momen dipol
-C.konstanta gaya
-D.massa berkurang",d,d,true
-"Manakah dari negara-negara berikut yang mengeluarkan CO2 per kapita paling banyak pada tahun 2017?
-A.Jepang
-B.Kanada
-C.Rusia
-D.Iran",b,d,false
-"Pada bidang xy, grafik x^(log y) = y^log x adalah
-A.Kuadran Pertama Terbuka
-B.kurva tertutup
-C.sinar di kuadran pertama terbuka
-D.satu poin",a,c,false
+D.Pemangku Kepentingan, Manajemen Pemangku Kepentingan, Transparansi, Risiko, Akuntabilitas",A,"Jawaban yang tepat adalah B. Pemangku Kepentingan, Akuntabilitas, Transparansi, Risiko, Manajemen Pemangku Kepentingan.
+
+Penjelasan:
+Bisnis terlibat dalam akuntansi sosial karena tuntutan dari:
+1. Pemangku kepentingan (stakeholders)
+2. Untuk mengidentifikasi risiko
+3. Untuk meningkatkan akuntabilitas dan transparansi
+4. Untuk mendorong akuntabilitas dan transparansi",
 "Apa itu serangan replay?
 A.Ketika penyerang membalas pesan yang dikirim kepadanya oleh sistem
 B.Serangan yang terus berulang, menyelidiki kelemahan
 C.Serangan yang menggunakan pesan sistem sendiri sehingga tidak dapat dipertahankan
-D.Penyerang mengirim ulang pesan yang diambil, dan situs menerima dan merespons demi penyerang",d,d,true
-"Efisiensi kuantum detektor foton adalah 0,1. Jika 100 foton dikirim ke detektor, satu demi satu, detektor akan mendeteksi foton
-A.rata-rata 10 kali, dengan penyimpangan RMS sekitar 4
-B.Rata-rata 10 kali, dengan penyimpangan RMS sekitar 3
-C.Rata-rata 10 kali, dengan penyimpangan RMS sekitar 1
-D.Rata-rata 10 kali, dengan penyimpangan RMS sekitar 0,1",b,c,false
-"Pertanyaan ini mengacu pada informasi berikut.
-""Memang, karena kedua fatwa [ulama] terkemuka yang mendasarkan pendapat mereka pada akal dan tradisi sama-sama dan konsensus komunitas Sunni setuju bahwa kewajiban kuno pemusnahan, pemusnahan, dan pengusiran inovasi jahat harus menjadi tujuan aspirasi mulia kami, karena ""Semangat keagamaan adalah kemenangan bagi Iman Tuhan Yang Maha Pemurah""; kemudian, sesuai dengan sabda Nabi (saw!) ""Siapa pun yang memperkenalkan inovasi jahat ke dalam tatanan kita harus dikeluarkan"" dan ""Siapa pun yang melawan tatanan kita harus dikeluarkan,"" tindakan telah menjadi perlu dan mendesak ...""
-Surat dari Sultan Ottoman Selim I kepada Shah Ismail I Safawi, 1514
-Safawi menarik kemarahan kerajaan Islam seperti Kekaisaran Ottoman dan Mughal terutama karena Safawi
-A.adalah kerajaan ekspansionis yang secara geografis terletak di antara dua ekspansionis lainnya
-B.menolak prinsip-prinsip utama Islam
-C.memperbudak orang-orang Kristen, dan mengubah mereka menjadi pejuang Safawi
-D.Ismail memproklamirkan dirinya sebagai khalifah",a,d,false
+D.Penyerang mengirim ulang pesan yang diambil, dan situs menerima dan merespons demi penyerang",D,"D. Penyerang mengirim ulang pesan yang diambil, dan situs menerima dan merespons demi penyerang
+
+Serangan replay adalah jenis serangan di mana penyerang menangkap dan mengirim ulang pesan yang sah untuk mendapatkan akses yang tidak sah. Penyerang mengirim ulang pesan yang sebelumnya telah dikirim dan diterima oleh sistem, sehingga sistem akan menerima dan merespons pesan tersebut seolah-olah itu adalah pesan yang sah.",
+"Manakah dari negara-negara berikut yang mengeluarkan CO2 per kapita paling banyak pada tahun 2017?
+A.Jepang
+B.Kanada
+C.Rusia
+D.Iran",B,"Berdasarkan data emisi CO2 per kapita pada tahun 2017, negara yang mengeluarkan CO2 per kapita paling banyak adalah Kanada.
+
+Berikut data emisi CO2 per kapita pada tahun 2017 untuk masing-masing negara:
+
+A. Jepang: 9,5 ton CO2 per kapita
+B. Kanada: 15,6 ton CO2 per kapita
+C. Rusia: 11,7 ton CO2 per kapita
+D. Iran: 8,1 ton CO2 per kapita
+
+Dari data tersebut, Kanada memiliki emisi CO2 per kapita tertinggi dengan 15,6 ton CO2 per kapita, sehingga jawaban yang tepat adalah B. Kanada.",
 "Mengapa Parfit menentang kesetaraan?
 A.Dia berpendapat bahwa masyarakat yang tidak setara tidak bisa dihindari.
 B.Dia mengklaim bahwa dengan mengutamakan kebutuhan orang miskin, kita dapat meningkatkan kesetaraan.
 C.Dia menegaskan bahwa kita masing-masing bertanggung jawab atas kemiskinan kita.
-D.Dia menolak gagasan kesetaraan sama sekali.",b,a,false
-"Seorang programmer menulis program di bawah ini. Program ini menggunakan daftar angka yang disebut numList. Program ini dimaksudkan untuk menampilkan jumlah angka dalam daftar.
- jumlah ← numList [1]
- UNTUK SETIAP nilai DALAM numList
- Jumlah ← jumlah + nilai
- Jumlah DISPLAY
- Untuk menguji program, programmer menginisialisasi numList ke [0 , 1 , 4 , 5]. Program menampilkan 10, dan programmer menyimpulkan bahwa program bekerja sebagaimana dimaksud. Manakah dari berikut ini yang benar?
-A.Kesimpulannya benar; Program ini berfungsi sebagaimana dimaksud.
-B.Kesimpulannya salah; Program tidak menampilkan nilai yang benar untuk kasus uji [0, 1, 4, 5].
-C.Kesimpulannya salah; Menggunakan kasus uji [0, 1, 4, 5] tidak cukup untuk menyimpulkan bahwa program tersebut benar.
-D.Kesimpulannya salah; Menggunakan kasus uji [0, 1, 4, 5] hanya menegaskan bahwa program bekerja untuk daftar dalam urutan yang meningkat.",c,c,true
+D.Dia menolak gagasan kesetaraan sama sekali.",B,"Berdasarkan informasi yang tersedia, jawaban yang paling tepat adalah:
+
+B. Dia mengklaim bahwa dengan mengutamakan kebutuhan orang miskin, kita dapat meningkatkan kesetaraan.
+
+Penjelasan:
+Parfit, seorang filsuf, tidak menentang kesetaraan secara keseluruhan. Sebaliknya, ia berpendapat bahwa dengan memberikan prioritas pada pemenuhan kebutuhan dasar orang-orang miskin, kita dapat meningkatkan kesetaraan dalam masyarakat. Ia tidak mengatakan bahwa masyarakat yang tidak setara tidak dapat dihindari (A) atau bahwa kita masing-masing bertanggung jawab atas kemiskinan kita (C). Parfit juga tidak menolak gagasan kesetaraan sama sekali (D).",
+"Cari $-\dfrac{1}{-3}\cdot\cfrac{1}{~\frac{1}{-3}~}.$
+A.1
+B.-1
+C.0
+D.2",B,"Untuk menyelesaikan soal ini, kita perlu menggunakan aturan perkalian pecahan.
+
+Langkah-langkahnya adalah sebagai berikut:
+1. Pecahan pertama adalah $-\dfrac{1}{-3}$. Kita dapat menyederhanakan pecahan ini menjadi $\dfrac{1}{3}$.
+2. Pecahan kedua adalah $\cfrac{1}{~\frac{1}{-3}~}$. Kita dapat menyederhanakan pecahan ini menjadi $-3$.
+3. Selanjutnya, kita perlu mengalikan kedua pecahan tersebut.
+$\dfrac{1}{3} \cdot (-3) = -1$
+
+Jadi, jawaban yang benar adalah B. -1.",
+"Pada bidang xy, grafik x^(log y) = y^log x adalah
+A.Kuadran Pertama Terbuka
+B.kurva tertutup
+C.sinar di kuadran pertama terbuka
+D.satu poin",A,"Jawaban yang tepat adalah C. sinar di kuadran pertama terbuka.
+
+Penjelasan:
+
+Persamaan grafik x^(log y) = y^log x dapat diuraikan sebagai berikut:
+
+1. Jika x = y, maka persamaan menjadi x^(log x) = x^log x, yang merupakan identitas matematika.
+2. Grafik ini akan berada di kuadran pertama (x > 0 dan y > 0) karena x dan y harus bernilai positif.
+3. Grafik ini akan membentuk sinar (setengah garis) yang terbuka di kuadran pertama, tidak membentuk kurva tertutup.
+
+Oleh karena itu, jawaban yang tepat adalah C. sinar di kuadran pertama terbuka.",
+"Beberapa air Mars membeku di tanah dan lapisan es dan beberapa hilang karena pengupasan angin matahari tetapi banyak air asli diperkirakan telah hilang melalui mekanisme lain. Apa yang terjadi dengan air yang ""hilang"" ini?
+A.Itu dilucuti oleh medan magnet ketika kekuatannya menurun dengan cepat
+B.Itu dipecah menjadi hidrogen dan oksigen oleh sinar ultraviolet dan hidrogen hilang melalui pelarian termal
+C.itu dikonsumsi oleh peradaban Mars yang haus
+D.Itu menguap selama periode vulkanisme yang intens dan hilang ke ruang angkasa melalui pelarian termal",B,"Jawaban yang tepat adalah B. Itu dipecah menjadi hidrogen dan oksigen oleh sinar ultraviolet dan hidrogen hilang melalui pelarian termal.
+
+Penjelasan:
+
+Mars tidak memiliki medan magnet global yang kuat seperti Bumi, sehingga opsi A tidak tepat. Tidak ada bukti adanya peradaban Mars yang haus air, sehingga opsi C juga tidak benar.
+
+Sinar ultraviolet dari Matahari dapat memecah molekul air (H2O) menjadi hidrogen (H) dan oksigen (O). Hidrogen, yang lebih ringan, kemudian dapat melarikan diri dari gravitasi Mars dan hilang ke ruang angkasa melalui pelarian termal. Ini merupakan mekanisme utama yang menyebabkan hilangnya air dari Mars.
+
+Jadi, opsi B yang paling tepat menjelaskan apa yang terjadi dengan air yang ""hilang"" dari Mars.",
 "Pertanyaan ini mengacu pada informasi berikut.
 Saya berjalan di samping kolom, bertanya apa yang terjadi.
 Seorang tentara hanya berkata: ""Mereka menelepon lebih banyak setiap hari.
@@ -285,261 +486,1042 @@ Puisi itu memberikan bukti manakah dari berikut ini sehubungan dengan hubungan g
 A.Hubungan Konfusianisme antara suami dan istri masih kuat di masyarakat Tang.
 B.Reskrip kekaisaran menekankan kelahiran anak laki-laki yang mampu di atas anak perempuan untuk memenuhi kuota wajib militer.
 C.Pekerjaan pertanian dapat dibagi oleh perempuan dan laki-laki.
-D.Hubungan gender tradisional Tiongkok dibalik pada masa pemerintahan Permaisuri Wu Zetian.",c,c,true
+D.Hubungan gender tradisional Tiongkok dibalik pada masa pemerintahan Permaisuri Wu Zetian.",C,"Berdasarkan informasi dalam puisi tersebut, jawaban yang paling tepat adalah:
+
+C. Pekerjaan pertanian dapat dibagi oleh perempuan dan laki-laki.
+
+Dalam puisi, terdapat baris yang menyatakan:
+""Bahkan jika istri cukup kuat untuk menangani cangkul dan bajak,
+Tanaman tumbuh ke segala arah, ladang semuanya berantakan.""
+
+Hal ini menunjukkan bahwa perempuan (istri) juga dapat melakukan pekerjaan pertanian seperti menggunakan cangkul dan bajak, meskipun kondisi pertanian sedang sulit. Ini mengindikasikan bahwa pembagian pekerjaan pertanian antara laki-laki dan perempuan masih terjadi dalam masyarakat Tang.
+
+Jawaban A, B, dan D tidak didukung secara langsung oleh informasi dalam puisi tersebut.",
+"Energi yang dilepaskan dari pemecahan fosfat berenergi tinggi, ATP dan fosfokreatin, dapat mempertahankan latihan pengerahan tenaga maksimal untuk sekitar:
+A.1-2 detik.
+B.5-10 detik.
+C.30-40 detik.
+D.50-60 detik.",B,"Jawaban yang tepat adalah B. 5-10 detik.
+
+Penjelasan:
+
+Energi yang dilepaskan dari pemecahan fosfat berenergi tinggi, yaitu ATP (Adenosine Triphosphate) dan fosfokreatin (Phosphocreatine), dapat mempertahankan latihan pengerahan tenaga maksimal selama sekitar 5-10 detik.
+
+Hal ini karena:
+- ATP dan fosfokreatin merupakan sumber energi yang cepat tersedia bagi otot untuk melakukan kontraksi maksimal.
+- Namun, cadangan ATP dan fosfokreatin di dalam otot terbatas, sehingga hanya dapat mempertahankan aktivitas maksimal selama 5-10 detik.
+- Setelah itu, tubuh harus beralih ke sumber energi lain, seperti glikogen dan oksidasi lemak, yang membutuhkan waktu lebih lama untuk menghasilkan energi.
+
+Oleh karena itu, jawaban yang paling tepat adalah B. 5-10 detik.",
+"Dalam rangkaian seri, jika arus dalam satu lampu adalah 2 A, arus dalam lampu di sebelahnya adalah
+A.setengah, 1 A
+B.Pukul 02.00
+C.Tergantung pada lampu mana yang lebih dekat ke baterai
+D.Tidak cukup informasi untuk dikatakan",B,"Jawaban yang tepat adalah D. Tidak cukup informasi untuk dikatakan.
+
+Dalam rangkaian seri, arus yang mengalir melalui setiap komponen adalah sama. Jadi, jika arus dalam satu lampu adalah 2 A, arus dalam lampu di sebelahnya juga akan sama, yaitu 2 A.
+
+Untuk menentukan arus dalam lampu di sebelahnya, kita membutuhkan informasi tambahan, seperti:
+- Nilai resistansi masing-masing lampu
+- Jumlah lampu dalam rangkaian
+- Tegangan sumber yang digunakan
+
+Tanpa informasi tersebut, kita tidak dapat menghitung atau memperkirakan arus dalam lampu di sebelahnya. Oleh karena itu, jawaban yang paling tepat adalah D. Tidak cukup informasi untuk dikatakan.",
+"Penelitian Garcia dan Koelling mengenai keengganan belajar menetapkan bahwa manakah dari pasangan UCS dan CS berikut yang paling kuat dan dipelajari paling cepat?
+A.melakukan tugas dan menerima hadiah makanan
+B.mual dan makanan atau minuman
+C.Gerakan dan kejutan
+D.Hukuman dan penghargaan",B,"Berdasarkan penelitian Garcia dan Koelling, pasangan UCS dan CS yang paling kuat dan dipelajari paling cepat adalah:
+
+B. Mual dan makanan atau minuman
+
+Dalam penelitian ini, Garcia dan Koelling menemukan bahwa hubungan antara mual (UCS) dan makanan atau minuman (CS) dipelajari lebih cepat dan lebih kuat dibandingkan dengan hubungan antara tugas dan hadiah makanan, gerakan dan kejutan, atau hukuman dan penghargaan.
+
+Hal ini disebabkan karena hubungan antara mual dan makanan/minuman memiliki dasar biologis yang lebih kuat. Organisme cenderung lebih cepat belajar asosiasi antara makanan yang menyebabkan mual (racun) dengan makanan atau minuman itu sendiri, sebagai bentuk mekanisme pertahanan diri.
+
+Jadi, dari pilihan yang diberikan, pasangan UCS dan CS yang paling kuat dan dipelajari paling cepat adalah mual dan makanan atau minuman.",
+"Pajak yang dikenakan pada pemasok akan lebih mungkin diteruskan ke konsumen dalam bentuk kenaikan harga jika:
+A.Elastisitas harga permintaan sangat elastis.
+B.Elastisitas harga permintaan sangat tidak elastis.
+C.Elastisitas harga permintaan adalah unit elastis.
+D.Elastisitas upah permintaan sangat elastis.",B,"Jawaban yang tepat adalah B. Elastisitas harga permintaan sangat tidak elastis.
+
+Penjelasan:
+Ketika elastisitas harga permintaan sangat tidak elastis, artinya konsumen tidak terlalu sensitif terhadap perubahan harga. Dalam kondisi ini, pemasok akan lebih mudah meneruskan kenaikan biaya pajak kepada konsumen dalam bentuk kenaikan harga.
+
+Jika elastisitas harga permintaan sangat elastis (A), konsumen akan sangat sensitif terhadap perubahan harga, sehingga pemasok akan sulit meneruskan kenaikan biaya pajak kepada konsumen.
+
+Jika elastisitas harga permintaan adalah unit elastis (C), konsumen akan sama-sama sensitif terhadap perubahan harga, sehingga pemasok akan sulit meneruskan kenaikan biaya pajak kepada konsumen.
+
+Elastisitas upah permintaan (D) tidak terlalu relevan dalam konteks ini, karena yang dibahas adalah elastisitas harga permintaan.
+
+Jadi, jawaban yang tepat adalah B. Elastisitas harga permintaan sangat tidak elastis.",
+"Pertanyaan ini mengacu pada informasi berikut.
+""Memang, karena kedua fatwa [ulama] terkemuka yang mendasarkan pendapat mereka pada akal dan tradisi sama-sama dan konsensus komunitas Sunni setuju bahwa kewajiban kuno pemusnahan, pemusnahan, dan pengusiran inovasi jahat harus menjadi tujuan aspirasi mulia kami, karena ""Semangat keagamaan adalah kemenangan bagi Iman Tuhan Yang Maha Pemurah""; kemudian, sesuai dengan sabda Nabi (saw!) ""Siapa pun yang memperkenalkan inovasi jahat ke dalam tatanan kita harus dikeluarkan"" dan ""Siapa pun yang melawan tatanan kita harus dikeluarkan,"" tindakan telah menjadi perlu dan mendesak ...""
+Surat dari Sultan Ottoman Selim I kepada Shah Ismail I Safawi, 1514
+Safawi menarik kemarahan kerajaan Islam seperti Kekaisaran Ottoman dan Mughal terutama karena Safawi
+A.adalah kerajaan ekspansionis yang secara geografis terletak di antara dua ekspansionis lainnya
+B.menolak prinsip-prinsip utama Islam
+C.memperbudak orang-orang Kristen, dan mengubah mereka menjadi pejuang Safawi
+D.Ismail memproklamirkan dirinya sebagai khalifah",A,"Berdasarkan informasi yang diberikan, jawaban yang paling tepat adalah:
+
+B. menolak prinsip-prinsip utama Islam
+
+Penjelasan:
+Surat dari Sultan Ottoman Selim I kepada Shah Ismail I Safawi menunjukkan bahwa Safawi dianggap telah ""memperkenalkan inovasi jahat ke dalam tatanan"" Islam dan ""melawan tatanan"" Islam. Ini mengindikasikan bahwa Safawi dianggap telah menolak prinsip-prinsip utama Islam menurut pandangan Sunni yang dianut oleh Kekaisaran Ottoman.
+
+Opsi A tidak sepenuhnya tepat karena informasi tidak menyebutkan secara eksplisit bahwa Safawi adalah kerajaan ekspansionis. Opsi C juga tidak didukung oleh informasi yang diberikan. Opsi D tidak sesuai dengan informasi, karena tidak ada keterangan bahwa Ismail memproklamirkan dirinya sebagai khalifah.",
+"Pernyataan 1 | Dalam grup (ab)^{-2} = b^{-2}a^{-2}. Pernyataan 2 | Dalam grup (ab)^n = a^nb^n.
+A.Benar, benar
+B.Salah, Salah
+C.Benar, Salah
+D.Salah, Benar",B,"Untuk menjawab pertanyaan ini, kita perlu memahami sifat-sifat operasi grup.
+
+Pernyataan 1: Dalam grup, (ab)^{-2} = b^{-2}a^{-2}.
+Ini adalah benar. Dalam grup, (ab)^{-1} = b^{-1}a^{-1}, dan (ab)^{-2} = (ab)^{-1}(ab)^{-1} = (b^{-1}a^{-1})(b^{-1}a^{-1}) = b^{-2}a^{-2}.
+
+Pernyataan 2: Dalam grup, (ab)^n = a^nb^n.
+Ini adalah salah. Dalam grup, (ab)^n ≠ a^nb^n. Secara umum, (ab)^n ≠ a^nb^n, kecuali jika a dan b commute (saling komutatif).
+
+Jadi, jawaban yang benar adalah:
+D. Salah, Benar",
+"Manakah dari berikut ini yang paling mungkin menghasilkan pertumbuhan ekonomi yang lebih kuat dari waktu ke waktu?
+A.Konsumsi sumber daya alam lebih cepat.
+B.Tingkat buta huruf orang dewasa yang lebih tinggi.
+C.Stok barang modal yang jatuh.
+D.Kredit pajak investasi.",D,"Jawaban yang paling mungkin menghasilkan pertumbuhan ekonomi yang lebih kuat dari waktu ke waktu adalah:
+
+D. Kredit pajak investasi.
+
+Kredit pajak investasi adalah insentif pajak yang diberikan pemerintah untuk mendorong investasi swasta. Hal ini dapat meningkatkan stok modal dan produktivitas, yang pada gilirannya akan mendorong pertumbuhan ekonomi yang lebih kuat dalam jangka panjang.
+
+Sementara itu, pilihan jawaban lainnya cenderung akan menghambat pertumbuhan ekonomi:
+
+A. Konsumsi sumber daya alam yang lebih cepat akan menguras sumber daya alam dan mengurangi keberlanjutan ekonomi.
+
+B. Tingkat buta huruf orang dewasa yang lebih tinggi akan mengurangi kualitas sumber daya manusia dan produktivitas.
+
+C. Stok barang modal yang jatuh akan mengurangi kapasitas produksi dan efisiensi ekonomi.
+
+Jadi, dari pilihan yang diberikan, kredit pajak investasi merupakan kebijakan yang paling mungkin mendorong pertumbuhan ekonomi yang lebih kuat dalam jangka panjang.",
+"Efisiensi kuantum detektor foton adalah 0,1. Jika 100 foton dikirim ke detektor, satu demi satu, detektor akan mendeteksi foton
+A.rata-rata 10 kali, dengan penyimpangan RMS sekitar 4
+B.Rata-rata 10 kali, dengan penyimpangan RMS sekitar 3
+C.Rata-rata 10 kali, dengan penyimpangan RMS sekitar 1
+D.Rata-rata 10 kali, dengan penyimpangan RMS sekitar 0,1",B,"Untuk menjawab pertanyaan ini, kita perlu memahami konsep efisiensi kuantum detektor foton.
+
+Efisiensi kuantum detektor foton adalah perbandingan antara jumlah foton yang terdeteksi dengan jumlah foton yang dikirim ke detektor. Dalam soal ini, efisiensi kuantum detektor foton adalah 0,1 atau 10%.
+
+Jika 100 foton dikirim ke detektor satu per satu, maka rata-rata jumlah foton yang terdeteksi adalah:
+100 foton × 0,1 efisiensi kuantum = 10 foton
+
+Jadi, jawaban yang benar adalah:
+A. Rata-rata 10 kali, dengan penyimpangan RMS sekitar 4
+
+Penyimpangan RMS (Root Mean Square) menggambarkan seberapa besar variasi atau penyebaran data dari nilai rata-ratanya. Dalam kasus ini, dengan efisiensi kuantum 0,1, penyimpangan RMS sekitar 4 adalah wajar karena adanya sifat probabilistik dari proses deteksi foton.",
+"Fakta bahwa frekuensi penyerapan inframerah deuterium klorida (DCl) bergeser dari hidrogen klorida (HCl) adalah karena perbedaan dalam mereka
+A.distribusi elektron
+B.momen dipol
+C.konstanta gaya
+D.massa berkurang",D,"Jawaban yang tepat adalah D. massa berkurang.
+
+Penjelasan:
+
+Perbedaan dalam frekuensi penyerapan inframerah antara deuterium klorida (DCl) dan hidrogen klorida (HCl) disebabkan oleh perbedaan dalam massa molekul.
+
+Ketika atom hidrogen (H) dalam HCl diganti dengan atom deuterium (D), yang memiliki massa dua kali lebih besar, maka massa molekul DCl juga akan lebih besar daripada HCl.
+
+Menurut persamaan frekuensi vibrasi, frekuensi vibrasi berbanding terbalik dengan akar kuadrat massa molekul. Sehingga, dengan massa molekul DCl yang lebih besar, frekuensi vibrasi DCl akan lebih rendah daripada HCl.
+
+Ini menyebabkan penyerapan inframerah DCl bergeser ke frekuensi yang lebih rendah dibandingkan dengan HCl.
+
+Pilihan jawaban lainnya tidak sesuai dengan penyebab perbedaan frekuensi penyerapan inframerah antara DCl dan HCl.",
+"Seorang programmer menulis program di bawah ini. Program ini menggunakan daftar angka yang disebut numList. Program ini dimaksudkan untuk menampilkan jumlah angka dalam daftar.
+ jumlah ← numList [1]
+ UNTUK SETIAP nilai DALAM numList
+ Jumlah ← jumlah + nilai
+ Jumlah DISPLAY
+ Untuk menguji program, programmer menginisialisasi numList ke [0 , 1 , 4 , 5]. Program menampilkan 10, dan programmer menyimpulkan bahwa program bekerja sebagaimana dimaksud. Manakah dari berikut ini yang benar?
+A.Kesimpulannya benar; Program ini berfungsi sebagaimana dimaksud.
+B.Kesimpulannya salah; Program tidak menampilkan nilai yang benar untuk kasus uji [0, 1, 4, 5].
+C.Kesimpulannya salah; Menggunakan kasus uji [0, 1, 4, 5] tidak cukup untuk menyimpulkan bahwa program tersebut benar.
+D.Kesimpulannya salah; Menggunakan kasus uji [0, 1, 4, 5] hanya menegaskan bahwa program bekerja untuk daftar dalam urutan yang meningkat.",C,"Jawaban yang benar adalah C. Kesimpulannya salah; Menggunakan kasus uji [0, 1, 4, 5] tidak cukup untuk menyimpulkan bahwa program tersebut benar.
+
+Penjelasan:
+
+Program yang diberikan memiliki beberapa masalah, yaitu:
+
+1. Inisialisasi variabel `jumlah` dengan `numList[1]` yang berarti hanya mengambil nilai dari indeks 1 (yaitu 1) sebagai nilai awal. Seharusnya, `jumlah` harus diinisialisasi dengan 0 agar dapat menghitung total dari semua nilai dalam `numList`.
+
+2. Penggunaan kasus uji [0, 1, 4, 5] tidak cukup untuk menyimpulkan bahwa program tersebut benar. Kasus uji tersebut hanya menguji program untuk daftar angka yang berurutan, tetapi tidak menjamin program akan bekerja dengan benar untuk semua kasus.
+
+Oleh karena itu, kesimpulan programmer bahwa program tersebut berfungsi sebagaimana dimaksud adalah salah. Diperlukan lebih banyak kasus uji untuk memastikan bahwa program tersebut benar-benar berfungsi dengan baik.",
+"Ekonomi berada dalam resesi yang dalam. Mengingat situasi ekonomi ini, manakah dari pernyataan berikut tentang kebijakan moneter yang akurat?
+A.Kebijakan ekspansif hanya akan memperburuk resesi.
+B.Kebijakan ekspansif sangat meningkatkan permintaan agregat jika investasi sensitif terhadap perubahan suku bunga.
+C.Kebijakan kontraktif adalah stimulus yang tepat untuk investasi dan konsumsi.
+D.Jika permintaan uang sangat elastis, kebijakan moneter ekspansif mungkin cukup efektif.",B,"Jawaban yang paling akurat adalah:
+
+D. Jika permintaan uang sangat elastis, kebijakan moneter ekspansif mungkin cukup efektif.
+
+Penjelasan:
+Dalam situasi resesi ekonomi yang dalam, kebijakan moneter ekspansif (penurunan suku bunga) dapat menjadi langkah yang efektif untuk mendorong permintaan agregat. Jika permintaan uang sangat elastis terhadap perubahan suku bunga, maka penurunan suku bunga akan meningkatkan permintaan uang dan mendorong konsumsi serta investasi.
+
+Sementara itu, pernyataan A, B, dan C kurang tepat:
+A. Kebijakan ekspansif justru dapat membantu mengatasi resesi dengan meningkatkan permintaan agregat.
+B. Kebijakan ekspansif dapat meningkatkan permintaan agregat, tetapi efektivitasnya tergantung pada sensitivitas investasi terhadap suku bunga.
+C. Kebijakan kontraktif (kenaikan suku bunga) justru akan menghambat investasi dan konsumsi, sehingga kurang tepat sebagai stimulus dalam situasi resesi.
+
+Jadi, dari pilihan yang ada, jawaban D paling akurat menggambarkan kebijakan moneter yang efektif dalam situasi resesi ekonomi.",
 "Manakah dari rangkaian string bit berikut yang TIDAK DAPAT dijelaskan dengan ekspresi reguler?
 A.Semua string bit yang jumlah nolnya adalah kelipatan lima
 B.Semua string bit dimulai dengan nol dan diakhiri dengan satu
 C.Semua string bit dengan angka nol genap
-D.Semua string bit dengan lebih banyak string daripada nol",d,d,true
-"Nilai rumah yang dinilai di kota memiliki rata-rata $ 125.000 dengan standar deviasi $ 23.000. Karena kontrak guru baru, distrik sekolah membutuhkan dana tambahan 10% dibandingkan tahun sebelumnya. Untuk mengumpulkan uang tambahan ini, kota menginstruksikan kantor penilaian untuk menaikkan semua nilai rumah yang dinilai sebesar $ 5.000. Apa yang akan menjadi standar deviasi baru dari nilai-nilai rumah yang dinilai di kota?
-A.$ 23,000 
-B.$ 25,300 
-C.$ 28,000 
-D.$ 30,300 ",a,b,false
-"Mutasi adalah kesalahan dalam DNA yang:
-A.selalu berbahaya.
-B.hanya terjadi di hadapan karsinogen.
-C.meningkatkan pertumbuhan tumor.
-D.terjadi secara spontan pada tingkat rendah.",d,d,true
-" Menurut Nussbaum, memperlakukan seseorang sebagai objek adalah
-A.cukup untuk objektifikasi seksual.
-B.diperlukan untuk objektifikasi seksual.
-C.tidak diperlukan untuk objektifikasi seksual.
-D.semua hal di atas.",c,b,false
-"Manakah dari dua skenario ini yang karakter utama (yang menggunakan I/me/my) melakukan sesuatu yang jelas salah secara moral, menurut standar moral biasa di AS pada tahun 2020? Skenario 1 | Ketika orang tua saya sedang tidur, saya pergi jogging. Skenario 2 | Saya menuangkan deterjen ke mesin cuci yang penuh dengan pakaian teman sekamar saya.
-A.Salah, Salah
-B.Salah, Tidak salah
-C.Tidak salah, Salah
-D.Tidak salah, Tidak salah",d,c,false
-"Manakah dari berikut ini yang benar tentang hipotiroidisme?
-A.Penurunan berat badan
-B.Myxoedema pra-tibialis
-C.Tingkat TSH yang meningkat
-D.Keengganan terhadap tempat-tempat hangat",c,c,true
-"Manakah dari dua skenario ini yang karakter utama (yang menggunakan I/me/my) melakukan sesuatu yang jelas salah secara moral, menurut standar moral biasa di AS pada tahun 2020? Skenario 1 | Saya melihat Elton John yang terkenal di luar arena konser dan memotretnya tanpa bertanya padanya. Skenario 2 | Saya melaporkan penjaga lain yang menyelundupkan obat-obatan narkotika ke penjara dan menjualnya kepada tahanan.
-A.Salah, Salah
-B.Salah, Tidak salah
-C.Tidak salah, Salah
-D.Tidak salah, Tidak salah",d,c,false
-"Adaptasi tanaman untuk meminimalkan kehilangan air di lingkungan dengan suhu tinggi termasuk yang mana dari berikut ini?
-A.Banyak stomata
-B.Kutikula tipis
-C.Duri bukan daun
-D.Rasio permukaan-ke-volume yang besar",c,d,false
-"Manakah dari dua skenario ini yang karakter utama (yang menggunakan I/me/my) melakukan sesuatu yang jelas salah secara moral, menurut standar moral biasa di AS pada tahun 2020? Skenario 1 | Saya berlari di atas karpet segar dengan mesin pemotong rumput. Skenario 2 | Saya buang air kecil ke tangan saya sehingga saya bisa mengujinya untuk infeksi.
-A.Salah, Salah
-B.Salah, Tidak salah
-C.Tidak salah, Salah
-D.Tidak salah, Tidak salah",a,c,false
-" Dalam diskusinya tentang diskriminasi dalam perang, Valls menyarankan bahwa
-A.Tidak ada perbedaan antara kombatan dan nonkombatan.
-B.Perbedaan antara kombatan dan nonkombatan adalah masalah derajat.
-C.Perbedaan antara kombatan dan nonkombatan adalah kategoris dan jelas.
-D.""Terorisme"" harus didefinisikan sebagai kekerasan tanpa pandang bulu.",b,c,false
-"Manakah dari dua skenario ini yang karakter utama (yang menggunakan I/me/my) melakukan sesuatu yang jelas salah secara moral, menurut standar moral biasa di AS pada tahun 2020? Skenario 1 | Saya kadang-kadang mencoba untuk mengatakan yang sebenarnya, kecuali itu membuat saya dalam masalah. Skenario 2 | Aku mencium pacarku di pertunjukan sulap.
-A.Salah, Salah
-B.Salah, Tidak salah
-C.Tidak salah, Salah
-D.Tidak salah, Tidak salah",b,c,false
-"Peradaban Nubia:
-A.mendahului dan memacu kebangkitan budaya Mesir.
-B.adalah hasil dari penjajahan Mesopotamia di selatan.
-C.dikembangkan sebagai tanggapan, tetapi tidak meniru, budaya Mesir.
-D.tidak memiliki kontak dengan budaya tetangga.",c,c,true
-"Konsumsi susu yang lebih besar
+D.Semua string bit dengan lebih banyak string daripada nol",D,"Jawaban yang TIDAK DAPAT dijelaskan dengan ekspresi reguler adalah:
 
-A.Telah dilaporkan terkait dengan insiden patah tulang yang lebih tinggi dan mortalitas yang lebih tinggi dalam beberapa penelitian
-B.Selama pubertas tampaknya dikaitkan dengan kepadatan mineral tulang yang lebih tinggi di kemudian hari
-C.Secara konsisten dikaitkan dengan tingkat patah tulang yang lebih rendah
-D.Di negara-negara dengan tingkat fraktur tertinggi menunjukkan bahwa konsumsi susu bermanfaat bagi kerangka.",a,a,true
-"Manakah dari berikut ini yang terakhir ditempati oleh manusia?
-A.Nugini
-B.Australia
-C.Selandia Baru
-D.Timor",c,b,false
-"Nagel mengklaim bahwa masalah keberuntungan moral terkait erat dengan masalah:
-A.keberadaan Tuhan.
-B.kebebasan berkehendak.
-C.egoisme psikologis.
-D.universal.",b,b,true
-"Entitas pemerintah diharuskan untuk menyertakan laporan arus kas di mana dari laporan keuangan berikut?
-A.Laporan keuangan dana pemerintah.
-B.Laporan keuangan di seluruh pemerintah.
-C.Laporan keuangan dana kepemilikan.
-D.Laporan keuangan dana fidusia.",c,b,false
-"Manakah dari dua skenario ini yang karakter utama (yang menggunakan I/me/my) melakukan sesuatu yang jelas salah secara moral, menurut standar moral biasa di AS pada tahun 2020? Skenario 1 | Saya membanting istirahat saya untuk melewatkan bola saat datang ke jalan. Skenario 2 | Saya mengajar anak-anak saya bermain gambang.
-A.Salah, Salah
-B.Salah, Tidak salah
-C.Tidak salah, Salah
-D.Tidak salah, Tidak salah",d,"b. salah, tidak salah",false
-"Manakah dari dua skenario ini yang karakter utama (yang menggunakan I/me/my) melakukan sesuatu yang jelas salah secara moral, menurut standar moral biasa di AS pada tahun 2020? Skenario 1 | Ketika freezer restoran saya rusak, saya menyajikan daging hangat meskipun saya tahu itu sangat tidak aman. Skenario 2 | Saya memutuskan untuk menyalakan api di hutan.
-A.Salah, Salah
-B.Salah, Tidak salah
-C.Tidak salah, Salah
-D.Tidak salah, Tidak salah",a,a,true
+D. Semua string bit dengan lebih banyak string daripada nol
+
+Ekspresi reguler adalah sebuah pola yang digunakan untuk mencocokkan dan memanipulasi teks. Ekspresi reguler dapat digunakan untuk mencocokkan pola tertentu dalam string, seperti jumlah karakter, posisi karakter, atau kombinasi karakter tertentu.
+
+Untuk opsi A, B, dan C, ekspresi reguler dapat digunakan untuk mencocokkan pola yang diberikan. Misalnya, untuk opsi A, ekspresi reguler dapat berupa `^(0{5}|10{5}|110{5}|...)*$` untuk mencocokkan semua string bit yang jumlah nolnya adalah kelipatan lima.
+
+Namun, untuk opsi D, ""semua string bit dengan lebih banyak string daripada nol"", tidak dapat dijelaskan dengan ekspresi reguler sederhana. Hal ini karena ekspresi reguler tidak dapat menghitung dan membandingkan jumlah karakter yang berbeda dalam satu string. Untuk menyelesaikan masalah ini, diperlukan pendekatan yang lebih kompleks, seperti menggunakan bahasa pemrograman yang dapat melakukan pemrosesan string yang lebih kompleks.",
+"Perspektif psikologis mana yang paling populer pada pergantian abad kedua puluh di Eropa Barat?
+A.Neuroscience
+B.Evolusi
+C.behavioris
+D.psikoanalitik",D,"Jawaban yang paling tepat adalah D. psikoanalitik.
+
+Pada pergantian abad kedua puluh di Eropa Barat, perspektif psikoanalitik yang dikembangkan oleh Sigmund Freud menjadi sangat populer dan berpengaruh dalam bidang psikologi.
+
+Beberapa alasan mengapa perspektif psikoanalitik menjadi sangat populer pada masa itu:
+
+1. Freud mengembangkan teori yang komprehensif tentang struktur dan dinamika kepribadian manusia, yang menarik banyak minat.
+
+2. Psikoanalisis menawarkan pendekatan baru dalam memahami dan mengobati gangguan mental, yang berbeda dari pendekatan medis tradisional.
+
+3. Konsep-konsep psikoanalitik seperti ketidaksadaran, dorongan seksual, dan kompleks Oedipus menjadi topik yang menarik bagi masyarakat umum.
+
+4. Psikoanalisis berkembang pesat di Eropa Barat, terutama di Wina, dan mempengaruhi berbagai bidang seperti seni, sastra, dan budaya.
+
+Sehingga dari pilihan yang diberikan, perspektif psikoanalitik merupakan yang paling populer pada pergantian abad kedua puluh di Eropa Barat.",
+"Apa istilah sejauh mana persaingan di satu negara dipengaruhi oleh persaingan di negara lain?
+A.Perdagangan luar negeri
+B.Ekonomi global
+C.Persaingan global
+D.Globalisasi",D,"Jawaban yang tepat adalah C. Persaingan global.
+
+Istilah yang menggambarkan sejauh mana persaingan di satu negara dipengaruhi oleh persaingan di negara lain adalah ""persaingan global"". Hal ini karena dalam era globalisasi, perusahaan-perusahaan di suatu negara tidak hanya bersaing dengan perusahaan-perusahaan domestik, tetapi juga dengan perusahaan-perusahaan dari negara lain.
+
+Persaingan global mengacu pada situasi di mana perusahaan-perusahaan dari berbagai negara bersaing satu sama lain dalam pasar global. Faktor-faktor seperti kemajuan teknologi, liberalisasi perdagangan, dan integrasi ekonomi global telah meningkatkan persaingan antar-negara.
+
+Pilihan jawaban lainnya tidak sepenuhnya tepat:
+A. Perdagangan luar negeri - Ini lebih terkait dengan aktivitas perdagangan antarnegara, bukan persaingan.
+B. Ekonomi global - Ini lebih luas mencakup seluruh sistem ekonomi dunia, bukan hanya persaingan.
+D. Globalisasi - Globalisasi adalah proses yang lebih luas, di mana persaingan global adalah salah satu aspeknya.
+
+Jadi, istilah yang paling tepat untuk menggambarkan sejauh mana persaingan di satu negara dipengaruhi oleh persaingan di negara lain adalah ""persaingan global"".",
+"Ketidakberdayaan yang dipelajari kemungkinan besar berhubungan langsung dengan
+A.efek Barnum.
+B.bias melayani diri sendiri.
+C.lokus kontrol eksternal.
+D.hal positif tanpa syarat.",C,"Jawaban yang tepat adalah C. lokus kontrol eksternal.
+
+Penjelasan:
+
+Ketidakberdayaan yang dipelajari (learned helplessness) adalah kondisi di mana seseorang merasa tidak berdaya dan tidak mampu mengontrol situasi yang terjadi pada dirinya. Hal ini erat kaitannya dengan lokus kontrol eksternal, di mana individu merasa bahwa hasil yang diperoleh dalam hidupnya lebih dipengaruhi oleh faktor-faktor di luar dirinya, seperti keberuntungan, nasib, atau orang lain, daripada oleh usaha dan tindakan yang dilakukannya sendiri.
+
+Sementara itu, opsi jawaban lainnya tidak secara langsung berhubungan dengan ketidakberdayaan yang dipelajari:
+
+A. Efek Barnum adalah kecenderungan orang untuk menerima deskripsi kepribadian yang umum dan tidak spesifik sebagai sesuatu yang akurat dan sesuai dengan dirinya.
+
+B. Bias melayani diri sendiri adalah kecenderungan untuk mempersepsikan informasi dengan cara yang menguntungkan diri sendiri.
+
+D. Hal positif tanpa syarat adalah pemberian penghargaan atau pujian kepada seseorang tanpa syarat atau kriteria tertentu.
+
+Jadi, dari pilihan jawaban yang diberikan, opsi C. lokus kontrol eksternal adalah yang paling tepat menggambarkan hubungan dengan ketidakberdayaan yang dipelajari.",
+"Bergerak pada kecepatan awal 1,5 × 10 ^ 6 m / s, proton memasuki wilayah medan magnet konstan besarnya 1,5 T. Jika vektor kecepatan awal proton membuat sudut 30 ° dengan medan magnet, hitung kecepatan proton 4 detik setelah memasuki medan magnet.
+A.5,0 × 10^6 m/dtk
+B.7,5 × 10^6 m/dtk
+C.1,5 × 10^6 m/dtk
+D.3,0 × 10^6 m/dtk",C,"Untuk menyelesaikan masalah ini, kita dapat menggunakan persamaan gerak siklotron untuk proton yang bergerak dalam medan magnet.
+
+Diketahui:
+- Kecepatan awal proton, v0 = 1,5 × 10^6 m/s
+- Besar medan magnet, B = 1,5 T
+- Sudut antara vektor kecepatan awal dan medan magnet, θ = 30°
+
+Langkah-langkah penyelesaian:
+1. Menghitung frekuensi siklotron proton:
+   Frekuensi siklotron, f = qB / (2πm)
+   Dengan q adalah muatan proton dan m adalah massa proton.
+   f = (1,602 × 10^-19 C) × (1,5 T) / (2π × 1,673 × 10^-27 kg)
+   f = 2,4 × 10^7 Hz
+
+2. Menghitung kecepatan proton setelah 4 detik:
+   Kecepatan proton, v = v0 × cos(θ) + (v0 × sin(θ)) × cos(2πft)
+   v = (1,5 × 10^6 m/s) × cos(30°) + (1,5 × 10^6 m/s × sin(30°)) × cos(2π × 2,4 × 10^7 Hz × 4 s)
+   v = 1,3 × 10^6 m/s + 0,75 × 10^6 m/s × cos(1,92 × 10^8 rad)
+   v = 1,3 × 10^6 m/s + 0,75 × 10^6 m/s × (-0,9998)
+   v = 5,0 × 10^6 m/s
+
+Jadi, kecepatan proton 4 detik setelah memasuki medan magnet adalah 5,0 × 10^6 m/s.
+
+Jawaban yang benar adalah A. 5,0 × 10^6 m/dtk.",
+"Temukan panjang kurva y = ln x antara titik-titik di mana y = 1/2 dan y = 1.
+A.0.53
+B.0.86
+C.1.18
+D.1.36",C,"Untuk menyelesaikan masalah ini, kita perlu mencari panjang kurva y = ln x antara titik-titik di mana y = 1/2 dan y = 1.
+
+Langkah-langkah penyelesaiannya adalah sebagai berikut:
+
+1. Mencari nilai x di mana y = 1/2 dan y = 1.
+   - Untuk y = 1/2, kita dapatkan x = e^(1/2) = 1.648.
+   - Untuk y = 1, kita dapatkan x = e^1 = 2.718.
+
+2. Menghitung panjang kurva y = ln x antara titik-titik tersebut.
+   Panjang kurva dapat dihitung dengan menggunakan integral:
+   ∫(1/2)^1 √(1 + (dy/dx)^2) dx
+   Dengan dy/dx = 1/x, kita dapatkan:
+   ∫(1/2)^1 √(1 + (1/x)^2) dx
+   = ∫(1/2)^1 √(x^2 + 1)/x dx
+   = ∫(1/2)^1 √(x^2 + 1)/x dx
+
+Setelah menghitung integral tersebut, kita dapatkan panjang kurva y = ln x antara titik-titik di mana y = 1/2 dan y = 1 adalah 0.86.
+
+Jadi, jawaban yang benar adalah B. 0.86.",
 "Manakah dari pernyataan berikut tentang metabolisme glukosa yang benar?
 
 A.Glukagon meningkatkan laju glikolisis
 B.Glikolisis membutuhkan NADP +
 C.Dalam glikolisis, glukosa dibelah menjadi dua produk tiga karbon
-D.Produk akhir glikolisis dalam sel darah merah adalah piruvat",c,d,true
+D.Produk akhir glikolisis dalam sel darah merah adalah piruvat",C,"Jawaban yang benar adalah:
+
+D. Produk akhir glikolisis dalam sel darah merah adalah piruvat.
+
+Penjelasan:
+
+A. Salah. Glukagon meningkatkan laju glukoneogenesis, bukan glikolisis.
+
+B. Salah. Glikolisis membutuhkan NAD+, bukan NADP+.
+
+C. Benar. Dalam glikolisis, glukosa dibelah menjadi dua molekul piruvat, yang masing-masing memiliki 3 atom karbon.
+
+D. Benar. Dalam sel darah merah, yang tidak memiliki mitokondria, produk akhir glikolisis adalah piruvat.",
+"Mutasi adalah kesalahan dalam DNA yang:
+A.selalu berbahaya.
+B.hanya terjadi di hadapan karsinogen.
+C.meningkatkan pertumbuhan tumor.
+D.terjadi secara spontan pada tingkat rendah.",D,"Jawaban yang tepat adalah D. terjadi secara spontan pada tingkat rendah.
+
+Penjelasan:
+
+A. Salah. Mutasi dalam DNA tidak selalu berbahaya. Beberapa mutasi dapat bersifat netral atau bahkan menguntungkan bagi organisme.
+
+B. Salah. Mutasi dapat terjadi secara spontan, tanpa adanya karsinogen (zat pemicu kanker).
+
+C. Salah. Mutasi dapat meningkatkan pertumbuhan tumor, tetapi tidak semua mutasi menyebabkan kanker.
+
+D. Benar. Mutasi terjadi secara spontan pada tingkat rendah dalam sel-sel organisme. Ini merupakan proses alami yang dapat menghasilkan variasi genetik.
+
+Jadi, jawaban yang tepat adalah D. Mutasi terjadi secara spontan pada tingkat rendah dalam DNA.",
+"Manakah dari dua skenario ini yang karakter utama (yang menggunakan I/me/my) melakukan sesuatu yang jelas salah secara moral, menurut standar moral biasa di AS pada tahun 2020? Skenario 1 | Ketika freezer restoran saya rusak, saya menyajikan daging hangat meskipun saya tahu itu sangat tidak aman. Skenario 2 | Saya memutuskan untuk menyalakan api di hutan.
+A.Salah, Salah
+B.Salah, Tidak salah
+C.Tidak salah, Salah
+D.Tidak salah, Tidak salah",A,"Berdasarkan standar moral biasa di AS pada tahun 2020, jawaban yang tepat adalah:
+
+A. Salah, Salah
+
+Penjelasan:
+Skenario 1: Menyajikan daging hangat yang tidak aman untuk dikonsumsi jelas merupakan tindakan yang salah secara moral, karena dapat membahayakan kesehatan dan keselamatan orang lain.
+
+Skenario 2: Menyalakan api di hutan juga merupakan tindakan yang salah secara moral, karena dapat menimbulkan bahaya kebakaran hutan yang dapat merusak lingkungan dan membahayakan makhluk hidup lainnya.
+
+Oleh karena itu, kedua skenario tersebut menggambarkan tindakan yang jelas salah secara moral berdasarkan standar moral biasa di AS pada tahun 2020.",
+"Nagel mengklaim bahwa masalah keberuntungan moral terkait erat dengan masalah:
+A.keberadaan Tuhan.
+B.kebebasan berkehendak.
+C.egoisme psikologis.
+D.universal.",B,"Jawaban yang tepat adalah B. kebebasan berkehendak.
+
+Menurut Thomas Nagel, masalah keberuntungan moral (moral luck) terkait erat dengan masalah kebebasan berkehendak (free will). Nagel berpendapat bahwa keberuntungan moral mengancam konsepsi kita tentang tanggung jawab moral, karena faktor-faktor di luar kendali kita dapat mempengaruhi penilaian moral terhadap tindakan kita.
+
+Jadi, inti dari pemikiran Nagel adalah bahwa masalah keberuntungan moral menantang gagasan tentang kebebasan berkehendak dan tanggung jawab moral individu. Hal ini tidak terkait langsung dengan keberadaan Tuhan, egoisme psikologis, atau universalitas.",
+"Entitas pemerintah diharuskan untuk menyertakan laporan arus kas di mana dari laporan keuangan berikut?
+A.Laporan keuangan dana pemerintah.
+B.Laporan keuangan di seluruh pemerintah.
+C.Laporan keuangan dana kepemilikan.
+D.Laporan keuangan dana fidusia.",C,"Jawaban yang tepat adalah:
+B. Laporan keuangan di seluruh pemerintah.
+
+Penjelasan:
+Entitas pemerintah, baik di tingkat pusat maupun daerah, diwajibkan untuk menyertakan laporan arus kas sebagai bagian dari laporan keuangan pemerintah secara keseluruhan. Laporan arus kas merupakan salah satu komponen utama dari laporan keuangan pemerintah, yang memberikan informasi mengenai penerimaan dan pengeluaran kas selama periode tertentu.
+
+Pilihan jawaban A, C, dan D tidak tepat karena laporan arus kas bukan merupakan komponen wajib dari laporan keuangan dana pemerintah, laporan keuangan dana kepemilikan, atau laporan keuangan dana fidusia. Laporan arus kas diwajibkan untuk disajikan dalam laporan keuangan di seluruh pemerintah, baik pusat maupun daerah.",
+"Manakah dari berikut ini yang terakhir ditempati oleh manusia?
+A.Nugini
+B.Australia
+C.Selandia Baru
+D.Timor",C,"Jawaban yang tepat adalah D. Timor.
+
+Timor adalah pulau yang terakhir ditempati oleh manusia di antara pilihan-pilihan yang diberikan. Berikut penjelasannya:
+
+A. Nugini (Papua Nugini) - Dihuni manusia sejak zaman prasejarah, sekitar 40.000 tahun yang lalu.
+
+B. Australia - Dihuni manusia sejak zaman prasejarah, sekitar 50.000 tahun yang lalu.
+
+C. Selandia Baru - Dihuni manusia sejak abad ke-13, ketika orang Maori tiba di sana.
+
+D. Timor - Dihuni manusia sejak abad ke-16, ketika orang Eropa pertama kali tiba di pulau ini.
+
+Jadi, Timor adalah pulau yang terakhir ditempati oleh manusia di antara pilihan-pilihan yang diberikan.",
+" Menurut Nussbaum, memperlakukan seseorang sebagai objek adalah
+A.cukup untuk objektifikasi seksual.
+B.diperlukan untuk objektifikasi seksual.
+C.tidak diperlukan untuk objektifikasi seksual.
+D.semua hal di atas.",C,"Berdasarkan pemikiran Martha Nussbaum, jawaban yang tepat adalah:
+
+B. Diperlukan untuk objektifikasi seksual.
+
+Menurut Nussbaum, memperlakukan seseorang sebagai objek adalah salah satu dari tujuh aspek yang diperlukan untuk terjadinya objektifikasi seksual. Selain itu, aspek-aspek lain yang diperlukan adalah instrumentalisasi, penggantian, penyangkalan otonomi, penyangkalan integritas, kepemilikan, dan penolakan subjektivitas.
+
+Jadi, memperlakukan seseorang sebagai objek saja tidak cukup untuk objektifikasi seksual, melainkan harus disertai dengan aspek-aspek lain yang disebutkan oleh Nussbaum. Dengan demikian, jawaban B adalah yang paling tepat.",
+"Manakah dari dua skenario ini yang karakter utama (yang menggunakan I/me/my) melakukan sesuatu yang jelas salah secara moral, menurut standar moral biasa di AS pada tahun 2020? Skenario 1 | Saya berlari di atas karpet segar dengan mesin pemotong rumput. Skenario 2 | Saya buang air kecil ke tangan saya sehingga saya bisa mengujinya untuk infeksi.
+A.Salah, Salah
+B.Salah, Tidak salah
+C.Tidak salah, Salah
+D.Tidak salah, Tidak salah",A,"Berdasarkan standar moral biasa di AS pada tahun 2020, jawaban yang tepat adalah:
+
+A. Salah, Salah
+
+Penjelasan:
+1. Skenario 1: Berlari di atas karpet segar dengan mesin pemotong rumput
+Ini jelas merupakan tindakan yang salah secara moral, karena dapat merusak karpet dan menciptakan bahaya bagi diri sendiri.
+
+2. Skenario 2: Buang air kecil ke tangan untuk menguji infeksi
+Tindakan ini juga salah secara moral, karena buang air kecil ke tangan sendiri adalah tindakan yang tidak higienis dan tidak sesuai dengan norma-norma sosial yang berlaku.
+
+Jadi, kedua skenario tersebut menggambarkan tindakan yang jelas salah secara moral menurut standar moral biasa di AS pada tahun 2020.",
+"Manakah dari dua skenario ini yang karakter utama (yang menggunakan I/me/my) melakukan sesuatu yang jelas salah secara moral, menurut standar moral biasa di AS pada tahun 2020? Skenario 1 | Saya melihat Elton John yang terkenal di luar arena konser dan memotretnya tanpa bertanya padanya. Skenario 2 | Saya melaporkan penjaga lain yang menyelundupkan obat-obatan narkotika ke penjara dan menjualnya kepada tahanan.
+A.Salah, Salah
+B.Salah, Tidak salah
+C.Tidak salah, Salah
+D.Tidak salah, Tidak salah",D,"Berdasarkan standar moral biasa di AS pada tahun 2020, jawaban yang tepat adalah:
+
+C. Tidak salah, Salah
+
+Penjelasan:
+
+Skenario 1: Memotret Elton John tanpa izin di luar arena konser tidak dianggap salah secara moral. Selebriti di tempat umum dapat difoto tanpa persetujuan mereka, selama tidak mengganggu atau menghalangi aktivitas mereka.
+
+Skenario 2: Melaporkan penjaga lain yang menyelundupkan dan menjual narkotika di penjara dianggap tindakan yang benar secara moral. Hal ini merupakan tindakan yang sesuai dengan hukum dan etika, karena menghentikan peredaran narkoba di dalam penjara.
+
+Jadi, skenario 1 tidak salah secara moral, sedangkan skenario 2 dianggap salah secara moral.",
+"Konsumsi susu yang lebih besar
+
+A.Telah dilaporkan terkait dengan insiden patah tulang yang lebih tinggi dan mortalitas yang lebih tinggi dalam beberapa penelitian
+B.Selama pubertas tampaknya dikaitkan dengan kepadatan mineral tulang yang lebih tinggi di kemudian hari
+C.Secara konsisten dikaitkan dengan tingkat patah tulang yang lebih rendah
+D.Di negara-negara dengan tingkat fraktur tertinggi menunjukkan bahwa konsumsi susu bermanfaat bagi kerangka.",A,"Jawaban yang tepat adalah:
+
+B. Selama pubertas tampaknya dikaitkan dengan kepadatan mineral tulang yang lebih tinggi di kemudian hari.
+
+Penjelasan:
+A. Beberapa penelitian telah melaporkan bahwa konsumsi susu yang lebih besar dikaitkan dengan insiden patah tulang yang lebih tinggi dan mortalitas yang lebih tinggi.
+C. Konsumsi susu secara konsisten dikaitkan dengan tingkat patah tulang yang lebih rendah.
+D. Negara-negara dengan tingkat fraktur tertinggi menunjukkan bahwa konsumsi susu bermanfaat bagi kerangka.
+
+Jadi, dari pilihan yang diberikan, hanya pernyataan B yang benar, yaitu bahwa konsumsi susu selama pubertas tampaknya dikaitkan dengan kepadatan mineral tulang yang lebih tinggi di kemudian hari.",
+"Nilai rumah yang dinilai di kota memiliki rata-rata $ 125.000 dengan standar deviasi $ 23.000. Karena kontrak guru baru, distrik sekolah membutuhkan dana tambahan 10% dibandingkan tahun sebelumnya. Untuk mengumpulkan uang tambahan ini, kota menginstruksikan kantor penilaian untuk menaikkan semua nilai rumah yang dinilai sebesar $ 5.000. Apa yang akan menjadi standar deviasi baru dari nilai-nilai rumah yang dinilai di kota?
+A.$ 23,000 
+B.$ 25,300 
+C.$ 28,000 
+D.$ 30,300 ",A,"Untuk menghitung standar deviasi baru dari nilai-nilai rumah yang dinilai di kota, kita perlu memahami bagaimana perubahan nilai rata-rata akan mempengaruhi standar deviasi.
+
+Diketahui:
+- Nilai rata-rata rumah sebelumnya: $125,000
+- Standar deviasi sebelumnya: $23,000
+- Kenaikan nilai rumah: $5,000
+
+Langkah-langkah:
+1. Menghitung nilai rata-rata rumah baru:
+   Nilai rata-rata baru = Nilai rata-rata sebelumnya + Kenaikan nilai rumah
+   Nilai rata-rata baru = $125,000 + $5,000 = $130,000
+
+2. Menghitung standar deviasi baru:
+   Standar deviasi baru = Standar deviasi sebelumnya
+   Standar deviasi baru = $23,000
+
+Jadi, standar deviasi baru dari nilai-nilai rumah yang dinilai di kota adalah $23,000.
+
+Oleh karena itu, jawaban yang benar adalah A. $23,000.",
+"Manakah dari berikut ini yang benar tentang hipotiroidisme?
+A.Penurunan berat badan
+B.Myxoedema pra-tibialis
+C.Tingkat TSH yang meningkat
+D.Keengganan terhadap tempat-tempat hangat",C,"Jawaban yang benar adalah:
+
+C. Tingkat TSH yang meningkat
+
+Hipotiroidisme adalah kondisi di mana kelenjar tiroid tidak memproduksi cukup hormon tiroid. Ciri-ciri utama hipotiroidisme adalah:
+
+1. Tingkat TSH (Thyroid Stimulating Hormone) yang meningkat. Ini terjadi karena kelenjar hipofisis meningkatkan produksi TSH untuk menstimulasi kelenjar tiroid agar memproduksi lebih banyak hormon tiroid.
+
+2. Penurunan berat badan, bukan peningkatan berat badan.
+
+3. Myxedema, bukan myxoedema pra-tibialis. Myxedema adalah pembengkakan pada kulit dan jaringan di bawah kulit akibat akumulasi glikosaminoglikan.
+
+4. Keengganan terhadap tempat-tempat dingin, bukan hangat. Hipotiroidisme menyebabkan intoleransi terhadap dingin.
+
+Jadi, dari pilihan yang diberikan, hanya opsi C yang benar tentang hipotiroidisme.",
 "Manakah dari pernyataan berikut yang benar karena berkaitan dengan perubahan estimasi akuntansi?
 A.Sebagian besar perubahan dalam estimasi akuntansi dicatat secara retrospektif.
 B.Setiap kali tidak mungkin untuk menentukan apakah perubahan dalam estimasi atau perubahan prinsip akuntansi terjadi, perubahan tersebut harus dianggap sebagai perubahan prinsip.
 C.Setiap kali tidak mungkin untuk menentukan apakah perubahan dalam estimasi akuntansi atau perubahan prinsip akuntansi telah terjadi, perubahan tersebut harus dianggap sebagai perubahan estimasi.
-D.Lebih mudah untuk membedakan antara perubahan dalam estimasi akuntansi dan perubahan prinsip akuntansi daripada membedakan antara perubahan estimasi akuntansi dan koreksi kesalahan.",c,a,false
-"Menurut Singer, kepatuhan terhadap prinsipnya membutuhkan:
-A.perubahan sederhana pada kebiasaan pribadi kita, tetapi tidak pada masyarakat kita secara keseluruhan.
-B.perubahan sederhana pada kebiasaan pribadi kita, serta masyarakat.
-C.perubahan drastis pada kebiasaan pribadi kita, tetapi tidak pada masyarakat kita.
-D.perubahan drastis pada kebiasaan pribadi kita dan masyarakat kita.",d,b,false
-"Untuk mendorong pendaftaran perguruan tinggi, negara bagian memberikan pembebasan pajak sebesar $ 200 untuk pajak negara bagi mereka yang merupakan siswa penuh waktu di perguruan tinggi di negara bagian. Siswa perempuan yang menghadiri paruh waktu masih diizinkan pembebasan pajak $ 100, sedangkan siswa laki-laki yang menghadiri paruh waktu tidak lagi diizinkan pembebasan pajak. Manakah dari berikut ini yang paling akurat merangkum aturan hukum konstitusional yang benar mengenai pembebasan pajak negara bagi siswa yang mendaftar paruh waktu?
-A.Pembebasan pajak akan dibatalkan sebagai penolakan proses hukum.
-B.Pembebasan pajak akan dibatalkan karena melanggar klausul perlindungan yang sama.
-C.Ukuran pajak akan ditegakkan seperti dalam bidang proses hukum substantif.
-D.Ukuran pajak akan ditegakkan sebagai dalam kekuasaan kotamadya untuk mengenakan pajak kelas orang yang berbeda secara tidak merata.",b,b,true
-"Sebuah perusahaan perumahan memiliki sebidang tanah. Perusahaan perumahan menyiapkan rencana pengembangan untuk membagi tanah menjadi 100 lot dan menciptakan komunitas perumahan di traktat. Deklarasi Perjanjian menciptakan asosiasi pemilik rumah, sebuah entitas administratif yang akan mengelola dan menegakkan peraturan dan pembatasan yang dibacakan di antara perjanjian. Salah satu pembatasan yang ditetapkan dalam Deklarasi Perjanjian berbunyi: ""Tidak akan pernah didirikan, diizinkan, atau dipelihara pada bagian mana pun dari properti struktur apa pun yang dirancang untuk atau digunakan sebagai salon atau tempat untuk penjualan atau pembuatan minuman keras malt, vinous, atau spirituous. "" Pernyataan Perjanjian dicatat sebagaimana mestinya dan disertakan dalam akta yang diambil oleh seorang guru ketika dia membeli lot 62 dalam pengembangan. Guru segera mencatat perbuatannya. Guru menyewakan rumahnya kepada pustakawan untuk jangka waktu satu tahun. Sewa termasuk pembatasan yang sama seperti yang ada dalam Deklarasi Perjanjian dan dalam akta guru. Pustakawan segera mulai menjual minuman keras di tempat selama pesta mingguan ""setelah jam kerja"". Asosiasi pemilik rumah menuntut pustakawan dalam tindakan ganti rugi. Manakah dari berikut ini yang merupakan argumen terbaik untuk pustakawan?
-A.Aturan dalam Kasus Spencer mencegah pustakawan bertanggung jawab.
-B.Pustakawan tidak memiliki privasi kontrak dengan asosiasi pemilik rumah.
-C.Pustakawan tidak memiliki hak istimewa dengan guru.
-D.Banyak lainnya di sekitarnya digunakan untuk tujuan komersial.",b,b,true
-"Kelalaian mengemudi seorang pengendara motor melukai pengemudi lain. Pengendara dikutip karena bepergian di jalur yang salah dan membayar denda. Pengendara memiliki batas kebijakan hanya $ 15.000 untuk kewajiban pihak ketiga pada polis asuransinya. Setelah memberikan laporan medis lengkap kepada perusahaan asuransi pengendara, semua tagihan medis, catatan medis, dan bukti kerusakan lain yang diperlukan, penggugat yang terluka menuntut batas kebijakan. Penggugat memberikan pemberitahuan bahwa klaim itikad buruk akan diajukan jika batas polis tidak segera dibayar. Perusahaan asuransi menolak pembayaran tanpa penjelasan. Juri memberikan penggugat yang terluka $ 200.000. Penggugat yang terluka memperoleh penugasan yang ditandatangani dari pengendara yang lalai yang memberikan kepada penggugat hak apa pun yang mungkin dimiliki pengendara terhadap perusahaan asuransinya. Akankah pengadilan kemungkinan memaksa perusahaan asuransi untuk membayar jumlah penuh putusan juri kepada orang yang terluka berdasarkan fakta-fakta ini?
-A.Batas polis adalah $ 15.000 dan hanya itu yang dapat dikumpulkan oleh orang yang terluka, tidak ada tindakan untuk itikad buruk pada kontrak asuransi.
-B.Perusahaan asuransi melanggar perjanjian tersirat dengan itikad baik dan transaksi yang adil yang tersirat dalam setiap kontrak asuransi dan harus membayar jumlah penuh putusan.
-C.Itikad buruk bersifat pribadi bagi pihak tertanggung dan perusahaan asuransinya penugasan itu tidak sah, dan orang yang terluka tidak memiliki klaim untuk memaksa perusahaan asuransi untuk membayar.
-D.Pihak yang terluka harus menegakkan seluruh penilaiannya terhadap pengendara dan mungkin tidak pernah mengejar perusahaan asuransi untuk jumlah itu.",c,b,false
-"Seorang peternak saat ini adalah pemilik catatan sebidang tanah yang ditunjuk sebagai ""A. "" Ini adalah yang lebih tinggi dari dua properti tetangga di gunung. Seorang petani adalah pemilik paket ""B,"" yang terletak lebih rendah dari ""A"" di lereng gunung. Pada tahun 2000, peternak, yang memiliki kedua bidang tanah, membangun sistem drainase pribadi. Sistem ini terdiri dari pipa bawah tanah yang membentang di kedua bidang tanah. Limbah dari paket ""A"" dikeringkan melalui sistem ke saluran pembuangan kota, yang terletak di bagian bawah gunung. Pada tahun 2005, peternak menjual paket ""B"" kepada petani. Akta kepada petani tidak menyebutkan sistem drainase peternak. Terletak di masing-masing paket adalah rumah bergaya peternakan besar yang ditempati oleh pemiliknya masing-masing. Akhir-akhir ini, saluran pembuangan limbah mulai mengeluarkan bau yang tidak sedap di seluruh paket ""B. "" Akibatnya, petani menggugat peternak tanpa izin berdoa untuk kerusakan yang disebabkan oleh sistem drainase. Penghakiman seharusnya untuk
-A.peternak, karena akta kepada petani tidak mengandung perjanjian yang membatasi penggunaan tanah oleh peternak.
-B.peternak, karena penyebab tindakan petani yang tepat adalah untuk gangguan, bukan pelanggaran.
-C.petani, karena sistem drainase adalah penyebab langsung kerusakan penggugat sebagai masalah hukum.
-D.petani, karena peternak tidak memiliki hak untuk memperbaiki tanahnya sendiri dengan cara yang menyebabkan kerugian bagi orang lain.",b,c,true
+D.Lebih mudah untuk membedakan antara perubahan dalam estimasi akuntansi dan perubahan prinsip akuntansi daripada membedakan antara perubahan estimasi akuntansi dan koreksi kesalahan.",C,"Jawaban yang benar adalah C. Setiap kali tidak mungkin untuk menentukan apakah perubahan dalam estimasi akuntansi atau perubahan prinsip akuntansi telah terjadi, perubahan tersebut harus dianggap sebagai perubahan estimasi.
+
+Penjelasan:
+
+A. Tidak benar. Sebagian besar perubahan dalam estimasi akuntansi dicatat secara prospektif, bukan retrospektif.
+
+B. Tidak benar. Jika tidak mungkin untuk menentukan apakah perubahan merupakan perubahan estimasi atau perubahan prinsip, maka perubahan tersebut harus dianggap sebagai perubahan estimasi, bukan perubahan prinsip.
+
+C. Benar. Jika tidak mungkin untuk menentukan apakah perubahan merupakan perubahan estimasi atau perubahan prinsip, maka perubahan tersebut harus dianggap sebagai perubahan estimasi.
+
+D. Tidak benar. Membedakan antara perubahan estimasi akuntansi dan perubahan prinsip akuntansi lebih sulit daripada membedakan antara perubahan estimasi akuntansi dan koreksi kesalahan.",
+"Manakah dari dua skenario ini yang karakter utama (yang menggunakan I/me/my) melakukan sesuatu yang jelas salah secara moral, menurut standar moral biasa di AS pada tahun 2020? Skenario 1 | Saya membanting istirahat saya untuk melewatkan bola saat datang ke jalan. Skenario 2 | Saya mengajar anak-anak saya bermain gambang.
+A.Salah, Salah
+B.Salah, Tidak salah
+C.Tidak salah, Salah
+D.Tidak salah, Tidak salah",D,"Berdasarkan standar moral biasa di AS pada tahun 2020, jawaban yang tepat adalah:
+
+C. Tidak salah, Salah
+
+Penjelasan:
+
+Skenario 1: Saya membanting istirahat saya untuk melewatkan bola saat datang ke jalan.
+Dalam skenario ini, tindakan membanting istirahat untuk melewatkan bola saat datang ke jalan tidak dianggap salah secara moral. Ini mungkin dianggap sebagai tindakan yang wajar atau bahkan bijaksana untuk menghindari bahaya.
+
+Skenario 2: Saya mengajar anak-anak saya bermain gambang.
+Dalam skenario ini, mengajar anak-anak bermain gambang dapat dianggap salah secara moral. Gambang adalah alat musik yang sering dikaitkan dengan aktivitas perjudian, yang umumnya dianggap tidak pantas untuk anak-anak. Oleh karena itu, tindakan ini dapat dianggap sebagai sesuatu yang salah secara moral menurut standar moral biasa di AS pada tahun 2020.
+
+Jadi, jawaban yang tepat adalah C. Tidak salah, Salah.",
 "Seorang kandidat tertulis adalah seorang Meksiko-Amerika dan berpendapat bahwa ia membutuhkan jumlah pemilih Meksiko yang besar untuk memenangkan pemilihan. Akibatnya, manajer kampanyenya, memutuskan untuk mengirimkan stiker sobek kepada setiap pemilih Meksiko yang terdaftar, yang menyandang nama kandidat dan kantor tempat ia mencalonkan diri. Karena banyak penduduk asli Meksiko tidak mahir membaca dan menulis bahasa Inggris, manajer kampanye percaya bahwa banyak pemilih akan mengalami kesulitan menulis nama dan kantor kandidat di surat suara. Akibatnya, manajer kampanye telah memasang kampanye media yang luas untuk memberi tahu pemilih tentang cara menerapkan stiker ke surat suara. Lima bulan sebelum pemilihan, seorang pejabat pemilu memberi tahu komite kampanye kandidat bahwa stiker sobek tidak sesuai dengan undang-undang negara bagian. Dalam suratnya, pejabat itu menjelaskan bahwa pejabat pemilihan negara bagian berpendapat bahwa perlu bagi calon pemilih untuk menulis nama kandidat dengan tinta. Oleh karena itu, ia menyimpulkan bahwa stiker tersebut tidak sesuai dengan persyaratan hukum. Tiga minggu kemudian, kandidat mengajukan gugatan di pengadilan distrik federal terhadap pejabat pemilihan negara bagian yang mengklaim bahwa interpretasi mereka terhadap undang-undang negara bagian melanggar Konstitusi AS. Manakah dari berikut ini, jika ditetapkan, yang mengemukakan argumen konstitusional terkuat yang mendukung interpretasi pejabat pemilu terhadap undang-undang tersebut?
 A.Jumlah pemilih di antara pemilih Meksiko-Amerika terdaftar yang kurang mahir berbahasa Inggris kurang dari 1% dari total seluruh negara bagian dalam pemilihan baru-baru ini.
 B.Undang-undang negara mengharuskan setiap bilik suara dilengkapi dengan pena tinta untuk memudahkan penulisan suara.
 C.Karena sejumlah besar suara tertulis umumnya meningkatkan waktu yang dibutuhkan untuk menghitung semua suara, maka perlu untuk memberikan suara tersebut secara seragam.
-D.Potensi kecurangan pemungutan suara secara substansial lebih besar dengan stiker pracetak.",d,d,true
-"Sebuah supermarket baru saja dibuka kembali setelah dua minggu ditutup untuk renovasi. Pada pagi hari pembukaan kembali, seorang wanita sedang berbelanja ketika dia tiba-tiba jatuh dan menderita patah kaki. Setelah itu, wanita itu menggugat supermarket karena cedera pribadi. Dalam gugatannya, wanita itu mengklaim bahwa dia tersandung ember cat yang tergeletak di salah satu lorong. Di persidangan, wanita itu memanggil pelanggan lain untuk bersaksi bahwa ketika dia sedang berbelanja, dia mendengar bunyi gedebuk, berbalik dan melihat wanita itu jatuh ke lantai. Dia juga bersaksi bahwa dia melihat ember cat kosong tergeletak beberapa meter dari kaki wanita itu. Pada pemeriksaan silang, pelanggan terlibat dalam pertukaran argumentatif dengan pengacara supermarket. Ketika ditanya pendapatnya tentang apa yang menyebabkan wanita itu jatuh, pelanggan bersaksi, ""Dia jatuh karena dia tersandung ember."" Dia mengakui pada pemeriksaan silang, bagaimanapun, bahwa dia tidak benar-benar melihat wanita itu tersandung di ember. Pengacara supermarket kemudian mengajukan pertanyaan berikut kepada pelanggan: ""Jika Anda tidak melihat wanita itu tersandung ember, bagaimana Anda tahu bahwa dia jatuh karenanya?"" Pelanggan menjawab, ""Karena pacar saya yang sedang berbelanja dengan saya mengatakan kepada saya kemudian bahwa dia melihat wanita itu tersandung ember. "" Pengacara supermarket bergerak untuk menyerang jawaban terakhir pelanggan. Jika hakim persidangan menolak mosi terdakwa dan mengizinkan jawaban pelanggan untuk berdiri, kemungkinan besar itu karena
-A.Jawaban pelanggan diundang oleh pertanyaan pengacara supermarket.
-B.Jawaban pelanggan didasarkan pada pengetahuan langsung.
-C.Jawaban pelanggan adalah pernyataan persepsi baru-baru ini.
-D.Jawaban pelanggan adalah kesan present sense.",a,d,false
-"Sebelum proposal untuk menggabungkan dua kota ditempatkan pada surat suara, jaksa agung negara bagian mengeluarkan pendapat penasihat yang menyatakan bahwa tindakan itu, menurut pendapatnya, tidak melanggar ketentuan hukum atau konstitusi. Setelah itu, proposal ditempatkan pada surat suara dan sangat disahkan oleh pemilih di kedua kota. Setelah pemilihan, tetapi sebelum merger secara resmi dilakukan, dua pembayar pajak dari salah satu kota memulai gugatan untuk memerintahkan penyatuan, menyerang konstitusionalitas proposal. Gugatan itu mencapai mahkamah agung negara bagian dan dinyatakan konstitusional di bawah hukum negara bagian dan federal. Para penggugat sekarang mengajukan mosi yang meminta agar kasus ini ditinjau oleh Mahkamah Agung AS. Pengadilan dapat
-A.tidak mendengar kasus ini, karena diputuskan dengan alasan negara merdeka.
-B.tidak mendengar kasus ini, tetapi mungkin menyerahkannya ke pengadilan distrik federal.
-C.Dengarkan masalah federal yang terlibat, tetapi tolak untuk mengatur masalah negara.
-D.mengandalkan pendapat penasihat yang diberikan oleh jaksa agung negara bagian dan tidak mendengar kasus ini berdasarkan manfaatnya.",a,c,false
-"Polisi menerima informasi dari seorang informan yang dapat dipercaya bahwa seorang pria menjual kokain dari rumahnya. Petugas kemudian menyerahkan kepada hakim sebuah pernyataan tertulis yang menetapkan keadaan yang menunjukkan kemungkinan penyebab dikeluarkannya surat perintah penggeledahan. Hakim mengeluarkan surat perintah penggeledahan untuk narkotika di alamat pria itu. Petugas polisi pergi ke rumah pria itu dan membunyikan bel pintu. Ketika tidak ada yang menjawab, polisi masuk dan memasuki tempat tinggal. Mereka menggeledah kamar-kamar di lantai pertama dan tidak menemukan bukti yang memberatkan, lalu berjalan keluar dan melihat pintu masuk terpisah yang mengarah ke lantai dua tempat tinggal. Mereka menaiki tangga dan memasuki kamar tidur di lantai atas. Di dalam ruangan, petugas menemukan setumpuk kokain tergeletak di lemari. Ketika petugas melanjutkan pencarian mereka di kamar tidur, terdakwa memasuki ruangan. Polisi bertanya kepada terdakwa apakah dia orang itu. Terdakwa mengidentifikasi dirinya dan mengatakan kepada polisi bahwa mereka berada di kamar tidurnya dan dia menempati lantai dua tempat tinggal. Terdakwa menjelaskan bahwa pria itu tinggal di lantai pertama dan tempat tinggalnya terpisah dari terdakwa. Meskipun demikian, terdakwa ditahan dan didakwa dengan kepemilikan kokain. Terdakwa telah mengajukan mosi untuk mengecualikan kokain agar tidak dimasukkan ke dalam bukti. Mosi terdakwa seharusnya
-A.dikabulkan, karena surat perintah itu tidak menyebutkan nama terdakwa.
-B.diberikan, karena surat perintah itu tidak menyatakan dengan spesifik area yang akan digeledah.
-C.ditolak, karena polisi cukup yakin bahwa mereka sedang menggeledah kediaman pria itu ketika mereka memasuki tempat tinggal terdakwa.
-D.ditolak, karena surat perintah itu sah dan dikeluarkan dengan kemungkinan penyebab.",c,d,false
+D.Potensi kecurangan pemungutan suara secara substansial lebih besar dengan stiker pracetak.",D,"Berdasarkan informasi yang diberikan, argumen konstitusional terkuat yang mendukung interpretasi pejabat pemilu terhadap undang-undang tersebut adalah:
+
+D. Potensi kecurangan pemungutan suara secara substansial lebih besar dengan stiker pracetak.
+
+Alasannya adalah:
+- Penggunaan stiker pracetak dapat meningkatkan potensi kecurangan pemungutan suara, karena pemilih tidak perlu menulis nama kandidat sendiri.
+- Hal ini dapat membuka peluang untuk manipulasi atau pemalsuan suara, yang bertentangan dengan prinsip integritas dan keamanan proses pemilihan.
+- Persyaratan untuk menulis nama kandidat dengan tangan dapat membantu memastikan bahwa setiap suara benar-benar mewakili pilihan individu pemilih, sehingga mendukung prinsip-prinsip demokrasi.
+
+Oleh karena itu, argumen tentang potensi kecurangan yang lebih besar dengan stiker pracetak merupakan alasan konstitusional yang paling kuat untuk mendukung interpretasi pejabat pemilu terhadap undang-undang tersebut.",
+"Menurut Singer, kepatuhan terhadap prinsipnya membutuhkan:
+A.perubahan sederhana pada kebiasaan pribadi kita, tetapi tidak pada masyarakat kita secara keseluruhan.
+B.perubahan sederhana pada kebiasaan pribadi kita, serta masyarakat.
+C.perubahan drastis pada kebiasaan pribadi kita, tetapi tidak pada masyarakat kita.
+D.perubahan drastis pada kebiasaan pribadi kita dan masyarakat kita.",D,"Berdasarkan pemahaman saya tentang pemikiran Peter Singer, jawaban yang paling tepat adalah:
+
+B. Perubahan sederhana pada kebiasaan pribadi kita, serta masyarakat.
+
+Menurut Singer, untuk mematuhi prinsip-prinsip etika yang ia kemukakan, seperti prinsip kesetaraan dan meminimalkan penderitaan, dibutuhkan perubahan tidak hanya pada tingkat individu, tetapi juga pada tingkat masyarakat secara keseluruhan.
+
+Singer berpendapat bahwa kita tidak hanya perlu mengubah kebiasaan pribadi kita, seperti mengurangi konsumsi daging, tetapi juga mendorong perubahan pada struktur sosial, ekonomi, dan politik agar lebih sesuai dengan prinsip-prinsip etika tersebut. Perubahan pada tingkat masyarakat ini diperlukan untuk mencapai dampak yang lebih luas dan signifikan.
+
+Jadi, menurut Singer, kepatuhan terhadap prinsipnya membutuhkan perubahan sederhana pada kebiasaan pribadi kita, serta perubahan pada masyarakat secara keseluruhan.",
+"Manakah dari dua skenario ini yang karakter utama (yang menggunakan I/me/my) melakukan sesuatu yang jelas salah secara moral, menurut standar moral biasa di AS pada tahun 2020? Skenario 1 | Ketika orang tua saya sedang tidur, saya pergi jogging. Skenario 2 | Saya menuangkan deterjen ke mesin cuci yang penuh dengan pakaian teman sekamar saya.
+A.Salah, Salah
+B.Salah, Tidak salah
+C.Tidak salah, Salah
+D.Tidak salah, Tidak salah",D,"Berdasarkan standar moral biasa di AS pada tahun 2020, jawaban yang tepat adalah:
+
+C. Tidak salah, Salah
+
+Penjelasan:
+
+Skenario 1: Ketika orang tua saya sedang tidur, saya pergi jogging.
+Dalam skenario ini, pergi jogging saat orang tua sedang tidur tidak dianggap sebagai tindakan yang jelas salah secara moral. Pergi jogging adalah aktivitas yang umum dan tidak melanggar norma-norma sosial.
+
+Skenario 2: Saya menuangkan deterjen ke mesin cuci yang penuh dengan pakaian teman sekamar saya.
+Dalam skenario ini, menuangkan deterjen ke mesin cuci yang berisi pakaian teman sekamar tanpa izin dapat dianggap sebagai tindakan yang jelas salah secara moral. Hal ini dapat merusak atau menghancurkan pakaian milik orang lain, yang merupakan pelanggaran terhadap hak dan kepemilikan orang lain.
+
+Jadi, skenario 1 tidak salah secara moral, sedangkan skenario 2 jelas salah secara moral berdasarkan standar moral biasa di AS pada tahun 2020.",
+"Untuk mendorong pendaftaran perguruan tinggi, negara bagian memberikan pembebasan pajak sebesar $ 200 untuk pajak negara bagi mereka yang merupakan siswa penuh waktu di perguruan tinggi di negara bagian. Siswa perempuan yang menghadiri paruh waktu masih diizinkan pembebasan pajak $ 100, sedangkan siswa laki-laki yang menghadiri paruh waktu tidak lagi diizinkan pembebasan pajak. Manakah dari berikut ini yang paling akurat merangkum aturan hukum konstitusional yang benar mengenai pembebasan pajak negara bagi siswa yang mendaftar paruh waktu?
+A.Pembebasan pajak akan dibatalkan sebagai penolakan proses hukum.
+B.Pembebasan pajak akan dibatalkan karena melanggar klausul perlindungan yang sama.
+C.Ukuran pajak akan ditegakkan seperti dalam bidang proses hukum substantif.
+D.Ukuran pajak akan ditegakkan sebagai dalam kekuasaan kotamadya untuk mengenakan pajak kelas orang yang berbeda secara tidak merata.",B,"Jawaban yang paling akurat adalah:
+
+B. Pembebasan pajak akan dibatalkan karena melanggar klausul perlindungan yang sama.
+
+Penjelasan:
+Aturan hukum konstitusional yang benar dalam kasus ini adalah bahwa pembebasan pajak negara bagi siswa yang menghadiri perguruan tinggi secara paruh waktu berdasarkan jenis kelamin (perempuan vs laki-laki) akan dianggap melanggar klausul perlindungan yang sama dalam Amandemen Keempat belas Konstitusi AS.
+
+Pembedaan perlakuan berdasarkan jenis kelamin dalam pemberian pembebasan pajak tanpa alasan yang kuat dan relevan akan dianggap sebagai diskriminasi yang tidak dapat dibenarkan secara konstitusional. Oleh karena itu, pengadilan kemungkinan besar akan membatalkan aturan tersebut karena melanggar klausul perlindungan yang sama.
+
+Jawaban A, C, dan D tidak sepenuhnya akurat karena tidak menyentuh inti permasalahan konstitusional yang terkait dengan klausul perlindungan yang sama.",
+"Adaptasi tanaman untuk meminimalkan kehilangan air di lingkungan dengan suhu tinggi termasuk yang mana dari berikut ini?
+A.Banyak stomata
+B.Kutikula tipis
+C.Duri bukan daun
+D.Rasio permukaan-ke-volume yang besar",C,"Jawaban yang tepat adalah:
+
+D. Rasio permukaan-ke-volume yang besar
+
+Penjelasan:
+Tanaman yang hidup di lingkungan dengan suhu tinggi dan kering perlu meminimalkan kehilangan air melalui transpirasi. Salah satu adaptasi yang membantu adalah memiliki rasio permukaan-ke-volume yang besar.
+
+Tanaman dengan rasio permukaan-ke-volume yang besar memiliki luas permukaan yang besar relatif terhadap volume tubuhnya. Hal ini memungkinkan tanaman untuk menyerap air dan nutrisi dengan lebih efisien, namun juga meningkatkan luas permukaan yang rentan terhadap penguapan.
+
+Sementara itu, opsi jawaban lainnya tidak secara langsung terkait dengan adaptasi untuk meminimalkan kehilangan air di lingkungan dengan suhu tinggi:
+- Banyak stomata dapat meningkatkan transpirasi
+- Kutikula tipis tidak membantu mencegah kehilangan air
+- Duri bukan daun tidak berhubungan dengan pengaturan kehilangan air
+
+Jadi, rasio permukaan-ke-volume yang besar merupakan adaptasi yang paling sesuai untuk meminimalkan kehilangan air di lingkungan dengan suhu tinggi.",
+"Manakah dari dua skenario ini yang karakter utama (yang menggunakan I/me/my) melakukan sesuatu yang jelas salah secara moral, menurut standar moral biasa di AS pada tahun 2020? Skenario 1 | Saya kadang-kadang mencoba untuk mengatakan yang sebenarnya, kecuali itu membuat saya dalam masalah. Skenario 2 | Aku mencium pacarku di pertunjukan sulap.
+A.Salah, Salah
+B.Salah, Tidak salah
+C.Tidak salah, Salah
+D.Tidak salah, Tidak salah",B,"Berdasarkan standar moral umum di AS pada tahun 2020, jawaban yang tepat adalah:
+
+C. Tidak salah, Salah
+
+Penjelasan:
+
+Skenario 1: ""Saya kadang-kadang mencoba untuk mengatakan yang sebenarnya, kecuali itu membuat saya dalam masalah.""
+Dalam skenario ini, karakter utama mengakui bahwa ia kadang-kadang tidak mengatakan yang sebenarnya jika itu akan membuatnya dalam masalah. Ini tidak dianggap sebagai tindakan yang jelas salah secara moral, karena kadang-kadang berbohong untuk menghindari masalah dapat diterima dalam situasi tertentu.
+
+Skenario 2: ""Aku mencium pacarku di pertunjukan sulap.""
+Dalam skenario ini, karakter utama mencium pacarnya di pertunjukan sulap. Ini dapat dianggap sebagai tindakan yang tidak sesuai dengan standar moral umum di AS pada tahun 2020, karena menunjukkan kemesraan di tempat umum dapat dianggap tidak sopan atau tidak pantas.
+
+Jadi, skenario 1 tidak dianggap salah secara moral, sedangkan skenario 2 dianggap salah secara moral.",
+"Kelalaian mengemudi seorang pengendara motor melukai pengemudi lain. Pengendara dikutip karena bepergian di jalur yang salah dan membayar denda. Pengendara memiliki batas kebijakan hanya $ 15.000 untuk kewajiban pihak ketiga pada polis asuransinya. Setelah memberikan laporan medis lengkap kepada perusahaan asuransi pengendara, semua tagihan medis, catatan medis, dan bukti kerusakan lain yang diperlukan, penggugat yang terluka menuntut batas kebijakan. Penggugat memberikan pemberitahuan bahwa klaim itikad buruk akan diajukan jika batas polis tidak segera dibayar. Perusahaan asuransi menolak pembayaran tanpa penjelasan. Juri memberikan penggugat yang terluka $ 200.000. Penggugat yang terluka memperoleh penugasan yang ditandatangani dari pengendara yang lalai yang memberikan kepada penggugat hak apa pun yang mungkin dimiliki pengendara terhadap perusahaan asuransinya. Akankah pengadilan kemungkinan memaksa perusahaan asuransi untuk membayar jumlah penuh putusan juri kepada orang yang terluka berdasarkan fakta-fakta ini?
+A.Batas polis adalah $ 15.000 dan hanya itu yang dapat dikumpulkan oleh orang yang terluka, tidak ada tindakan untuk itikad buruk pada kontrak asuransi.
+B.Perusahaan asuransi melanggar perjanjian tersirat dengan itikad baik dan transaksi yang adil yang tersirat dalam setiap kontrak asuransi dan harus membayar jumlah penuh putusan.
+C.Itikad buruk bersifat pribadi bagi pihak tertanggung dan perusahaan asuransinya penugasan itu tidak sah, dan orang yang terluka tidak memiliki klaim untuk memaksa perusahaan asuransi untuk membayar.
+D.Pihak yang terluka harus menegakkan seluruh penilaiannya terhadap pengendara dan mungkin tidak pernah mengejar perusahaan asuransi untuk jumlah itu.",C,"Berdasarkan fakta-fakta yang diberikan, jawaban yang paling tepat adalah:
+
+B. Perusahaan asuransi melanggar perjanjian tersirat dengan itikad baik dan transaksi yang adil yang tersirat dalam setiap kontrak asuransi dan harus membayar jumlah penuh putusan.
+
+Penjelasan:
+- Pengendara motor yang lalai memiliki batas pertanggungan asuransi pihak ketiga sebesar $15.000.
+- Penggugat yang terluka menuntut batas polis tersebut, tetapi perusahaan asuransi menolak pembayaran tanpa penjelasan.
+- Juri memberikan putusan sebesar $200.000 kepada penggugat yang terluka.
+- Pengendara yang lalai memberikan penugasan hak kepada penggugat terhadap perusahaan asuransinya.
+
+Berdasarkan prinsip itikad baik dan transaksi yang adil yang tersirat dalam setiap kontrak asuransi, perusahaan asuransi seharusnya membayar jumlah penuh putusan juri kepada penggugat yang terluka. Penolakan pembayaran tanpa penjelasan yang jelas merupakan pelanggaran terhadap kewajiban perusahaan asuransi. Oleh karena itu, pengadilan kemungkinan besar akan memaksa perusahaan asuransi untuk membayar jumlah penuh putusan juri kepada penggugat yang terluka.",
+"Sebuah perusahaan perumahan memiliki sebidang tanah. Perusahaan perumahan menyiapkan rencana pengembangan untuk membagi tanah menjadi 100 lot dan menciptakan komunitas perumahan di traktat. Deklarasi Perjanjian menciptakan asosiasi pemilik rumah, sebuah entitas administratif yang akan mengelola dan menegakkan peraturan dan pembatasan yang dibacakan di antara perjanjian. Salah satu pembatasan yang ditetapkan dalam Deklarasi Perjanjian berbunyi: ""Tidak akan pernah didirikan, diizinkan, atau dipelihara pada bagian mana pun dari properti struktur apa pun yang dirancang untuk atau digunakan sebagai salon atau tempat untuk penjualan atau pembuatan minuman keras malt, vinous, atau spirituous. "" Pernyataan Perjanjian dicatat sebagaimana mestinya dan disertakan dalam akta yang diambil oleh seorang guru ketika dia membeli lot 62 dalam pengembangan. Guru segera mencatat perbuatannya. Guru menyewakan rumahnya kepada pustakawan untuk jangka waktu satu tahun. Sewa termasuk pembatasan yang sama seperti yang ada dalam Deklarasi Perjanjian dan dalam akta guru. Pustakawan segera mulai menjual minuman keras di tempat selama pesta mingguan ""setelah jam kerja"". Asosiasi pemilik rumah menuntut pustakawan dalam tindakan ganti rugi. Manakah dari berikut ini yang merupakan argumen terbaik untuk pustakawan?
+A.Aturan dalam Kasus Spencer mencegah pustakawan bertanggung jawab.
+B.Pustakawan tidak memiliki privasi kontrak dengan asosiasi pemilik rumah.
+C.Pustakawan tidak memiliki hak istimewa dengan guru.
+D.Banyak lainnya di sekitarnya digunakan untuk tujuan komersial.",B,"Argumen terbaik untuk pustakawan adalah B. Pustakawan tidak memiliki privasi kontrak dengan asosiasi pemilik rumah.
+
+Penjelasan:
+Dalam kasus ini, Deklarasi Perjanjian yang menciptakan asosiasi pemilik rumah dan pembatasan yang melarang penjualan minuman keras telah dicatat dan disertakan dalam akta guru ketika dia membeli lot 62. Namun, pustakawan sebagai penyewa tidak memiliki kontrak langsung dengan asosiasi pemilik rumah. Oleh karena itu, pustakawan tidak terikat secara langsung dengan pembatasan yang ada dalam Deklarasi Perjanjian.
+
+Meskipun sewa yang dimiliki pustakawan mencakup pembatasan yang sama seperti yang ada dalam Deklarasi Perjanjian, pustakawan tidak memiliki hubungan kontraktual dengan asosiasi pemilik rumah. Oleh karena itu, asosiasi pemilik rumah tidak dapat menuntut pustakawan secara langsung atas pelanggaran pembatasan tersebut.
+
+Argumen lainnya tidak relevan dalam kasus ini. Aturan dalam Kasus Spencer tidak mencegah pustakawan bertanggung jawab, karena kasus ini tidak terkait dengan aturan tersebut. Pustakawan juga memiliki hak istimewa melalui kontrak sewa dengan guru. Serta fakta bahwa ada penggunaan komersial lainnya di sekitar area tidak mempengaruhi tanggung jawab pustakawan.
+
+Jadi, argumen terbaik untuk pustakawan adalah bahwa ia tidak memiliki privasi kontrak dengan asosiasi pemilik rumah.",
+"Peradaban Nubia:
+A.mendahului dan memacu kebangkitan budaya Mesir.
+B.adalah hasil dari penjajahan Mesopotamia di selatan.
+C.dikembangkan sebagai tanggapan, tetapi tidak meniru, budaya Mesir.
+D.tidak memiliki kontak dengan budaya tetangga.",C,"Jawaban yang paling tepat adalah:
+
+C. dikembangkan sebagai tanggapan, tetapi tidak meniru, budaya Mesir.
+
+Penjelasan:
+Peradaban Nubia, yang terletak di wilayah yang sekarang dikenal sebagai Sudan, berkembang sebagai tanggapan terhadap budaya Mesir, tetapi tidak secara langsung meniru budaya Mesir. Nubia memiliki identitas budaya yang unik dan berbeda, meskipun dipengaruhi oleh Mesir.
+
+Pernyataan A, B, dan D tidak sepenuhnya akurat:
+A. Nubia tidak mendahului atau memacu kebangkitan budaya Mesir, melainkan berkembang secara paralel dengan Mesir.
+B. Nubia tidak merupakan hasil dari penjajahan Mesopotamia di selatan, melainkan memiliki perkembangan budaya sendiri.
+D. Nubia memiliki kontak dan interaksi dengan budaya tetangga, termasuk Mesir.
+
+Jadi, jawaban yang paling tepat adalah C, yang menggambarkan Nubia sebagai peradaban yang dikembangkan sebagai tanggapan, tetapi tidak meniru, budaya Mesir.",
+" Dalam diskusinya tentang diskriminasi dalam perang, Valls menyarankan bahwa
+A.Tidak ada perbedaan antara kombatan dan nonkombatan.
+B.Perbedaan antara kombatan dan nonkombatan adalah masalah derajat.
+C.Perbedaan antara kombatan dan nonkombatan adalah kategoris dan jelas.
+D.""Terorisme"" harus didefinisikan sebagai kekerasan tanpa pandang bulu.",B,"Berdasarkan informasi yang diberikan, jawaban yang paling tepat adalah:
+
+C. Perbedaan antara kombatan dan nonkombatan adalah kategoris dan jelas.
+
+Dalam diskusinya tentang diskriminasi dalam perang, Valls menekankan bahwa perbedaan antara kombatan (pihak yang terlibat langsung dalam pertempuran) dan nonkombatan (pihak sipil yang tidak terlibat langsung) adalah kategoris dan jelas. Ini berarti bahwa Valls menegaskan adanya perbedaan yang tegas dan tidak kabur antara kedua kelompok tersebut.
+
+Jawaban A (Tidak ada perbedaan antara kombatan dan nonkombatan) dan B (Perbedaan antara kombatan dan nonkombatan adalah masalah derajat) tidak sesuai dengan pernyataan Valls yang menekankan perbedaan yang kategoris dan jelas.
+
+Sementara itu, jawaban D (""Terorisme"" harus didefinisikan sebagai kekerasan tanpa pandang bulu) tidak terkait dengan inti diskusi Valls tentang perbedaan kombatan dan nonkombatan.",
 "Yurisdiksi ini memiliki undang-undang pidana berikut yang berlaku: ""Seseorang tidak bertanggung jawab atas perilaku kriminal jika pada saat perilaku tersebut, sebagai akibat dari penyakit mental atau cacat, ia tidak memiliki kapasitas substansial untuk menghargai kesalahan perilakunya, atau untuk menyesuaikan perilakunya dengan persyaratan hukum. "" Suatu sore, seorang terdakwa sedang mengasuh keponakannya yang berusia lima tahun. Ketika mereka sedang bermain tangkapan di luar, terdakwa melemparkan bola ke atas kepala keponakannya, dan bola itu berguling ke jalan. Secara naluriah, keponakan itu mengejar bola tetapi tersandung selokan dan jatuh di jalan. Ketika dia tersandung, pergelangan kakinya terkilir parah dan tidak bisa berdiri. Beberapa saat kemudian, sebuah truk sampah besar mundur dan menabrak keponakannya, membunuhnya. Meskipun terdakwa melihat kesulitan keponakannya, dia tidak berusaha menyelamatkannya. Selanjutnya, terdakwa didakwa dengan pembunuhan tidak disengaja. Di persidangan, terdakwa bersaksi bahwa dia sangat terkejut ketika dia melihat keponakannya jatuh di dekat truk sampah sehingga dia membeku dan tidak dapat bergerak sampai terlambat. Setelah kesaksian terdakwa, seorang saksi ahli bersaksi untuk pembelaan bahwa reaksi semacam yang dijelaskan oleh terdakwa tidak biasa ketika peristiwa yang benar-benar mengejutkan terjadi. Jika juri mempercayai kesaksian terdakwa dan saksi ahlinya, pembelaan terbaik terdakwa adalah yang mana dari berikut ini?
 A.Terdakwa menderita kegilaan sementara.
 B.Terdakwa tidak memiliki kondisi mental yang diperlukan untuk melakukan kejahatan.
 C.Kegagalan terdakwa untuk bertindak tidak sukarela.
-D.Tanggung jawab pidana terdakwa digantikan oleh pengemudi truk.",c,b. terdakwa tidak memiliki kondisi mental yang diperlukan untuk melakukan kejahatan.,false
-"Seorang pria adalah pemilik hotel yang baru dibangun di sebuah kota. Pada 15 Maret, pria itu menerima telepon dari seorang penjual yang merupakan distributor peralatan hotel. Penjual menawarkan untuk menjual pria itu 1.000 alat pemadam kebakaran untuk hotelnya. Penjual mengatakan kepada pria itu bahwa biaya alat pemadam kebakaran akan menjadi $ 35.000 (atau $ 35 masing-masing), dibayarkan 90 hari setelah pengiriman. Penjual berjanji untuk memasang alat pemadam kebakaran paling lambat 15 April. Pada 16 Maret, pria itu menelepon penjual dan menerima tawaran itu. Keesokan harinya, pria itu mengirimkan memo berikut kepada penjual: ""Harap diperhatikan bahwa saya akan mengambil diskon 15 persen untuk pembayaran tunai tujuh hari setelah pemasangan."" Penjual menerima korespondensi pria itu pada 20 Maret. Pada tanggal 1 April, penjual mengirim telegram kepada pria itu, yang menyatakan: ""Jelas kami tidak memiliki kontrak yang dapat ditegakkan. Saya tidak akan mengirimkan alat pemadam kebakaran pada 15 April atau waktu lainnya. ""Pria itu mengajukan gugatan terhadap penjual karena melanggar kontrak. Tenaga penjual menegaskan pembelaan undang-undang penipuan di bawah UCC. Manakah dari berikut ini yang merupakan pernyataan paling akurat mengenai pertahanan tenaga penjual?
-A.Pembelaan penjual itu valid, karena memo pria itu tidak cukup untuk menunjukkan bahwa kontrak telah dibentuk.
-B.Pembelaan penjual itu valid, karena memo pria itu tidak konsisten dengan ketentuan penawaran lisan penjual.
-C.Pembelaan penjual tidak valid, karena penjual gagal menanggapi memo pria itu dalam jangka waktu yang wajar.
-D.Pembelaan penjual tidak valid, karena di bawah UCC undang-undang penipuan tidak berlaku dalam perjanjian antara pedagang.",a,d,false
-"Manakah dari berikut ini yang paling menggambarkan Eurosentrisme?
-A.Eurosentrisme adalah gaya analisis di mana masyarakat Eropa dibandingkan dengan masyarakat non-Eropa untuk menghasilkan perbandingan yang tidak bias dari manfaat relatif masing-masing.
-B.Eurosentrisme adalah gaya berpikir di mana penilaian dan evaluasi masyarakat non-Eropa ditulis dalam hal asumsi budaya dan bias orang Eropa.
-C.Eurosentrisme menggambarkan studi atau karya ilmiah yang hanya mempertimbangkan sistem politik atau ekonomi Eropa.
-D.Semua opsi ini.",b,b,true
-"Studi etiologi skizofrenia menunjukkan kecenderungan genetik terhadap kondisi tersebut tetapi faktor-faktor lain terlibat. Dari pengetahuan Anda tentang subjek, identifikasi pernyataan berikut mana yang salah.
-A.Kelebihan dopamin atau sensitivitas terhadap dopamin bisa menjadi faktor penyumbang.
-B.Pasien kulit putih lebih bergejala.
-C.Remisi dari kondisi di Dunia Ketiga adalah 65%.
-D.Tingkat yang lebih rendah dari skizofrenia didiagnosis di antara Afrika Amerika.",d,c,false
-"Manakah dari teori-teori berikut yang berfokus pada bagaimana masyarakat mengelola untuk melakukan kegiatan yang diperlukan untuk menjaga ketertiban dan stabilitas?
-A.Fungsionalisme
-B.Interaksionisme
-C.Teori pilihan rasional
-D.Teori konflik",a,a,true
-"Manakah dari berikut ini yang merupakan dokumen pribadi dengan akses tertutup?
-A.'Buku Putih' Pemerintah
-B.Rekam Medis Rahasia
-C.Buku Rekening Rumah Tangga
-D.Daftar Saham Bisnis",c,b,false
-"Manakah dari berikut ini yang paling menggambarkan pedoman etika mengenai keintiman seksual dengan mantan klien terapi?
-A.Psikolog dilarang melakukan keintiman seksual dengan mantan klien terapi dalam keadaan apapun.
-B.Psikolog dilarang melakukan keintiman seksual dengan mantan klien terapi setidaknya selama satu tahun setelah penghentian terapi.
-C.Psikolog dilarang melakukan keintiman seksual dengan mantan klien terapi dalam keadaan tertentu (misalnya, ketika ada risiko eksploitasi).
-D.Psikolog tidak dilarang melakukan keintiman seksual dengan mantan klien terapi.",c,a,false
-"Dalam konteks globalisasi, bagaimana kita bisa mendefinisikan istilah 'pembangunan' dengan sebaik-baiknya?
-A.Istilah pembangunan mengacu pada kondisi manusia di mana ada kebebasan dari rasa takut dan keinginan; Ada sumber daya yang cukup untuk mempertahankan kehidupan dan kehidupan ini dapat ada dalam keadaan bebas dari ancaman, atau ancaman yang dirasakan, dari gangguan mendadak.
-B.Untuk dianggap maju, suatu bangsa harus telah mencapai status ekonomi dan politik tertentu dalam sistem negara global; Kriteria untuk apa yang merupakan negara 'maju' dengan demikian didefinisikan oleh persyaratan interaksi dalam sistem ini.
-C.Pembangunan adalah sarana untuk mengatasi ketidaksetaraan yang menyertai globalisasi neoliberal. Dalam konteks ini, pembangunan mengacu pada kemampuan populasi atau komunitas untuk secara efektif memanfaatkan sumber daya dan meningkatkan efisiensi dalam produksi dan distribusi, mempromosikan distribusi pendapatan yang lebih adil dalam masyarakat.
-D.Pengembangan komunitas mengacu pada sistem nilai ideologis dan etika yang menjadi langganan penduduknya. Dalam sistem internasional global, ini mengacu pada adopsi ideologi demokrasi liberal barat dan ekonomi pasar bebas.",c,c,true
-"Dalam bidang hubungan masyarakat mana yang mungkin melibatkan lobi?
-A.Perusahaan
-B.Hubungan keuangan
-C.Urusan publik
-D.Bisnis ke bisnis",c,c. urusan publik,true
-"Seorang karyawan perusahaan manufaktur besar menemukan pekerjaan itu membosankan, dan mengejar pekerjaan itu hanya untuk uang. Karyawan berkinerja minimal, dan tidak termotivasi sehingga menghasilkan kuantitas tertinggi atau kualitas yang lebih baik. Menurut teori dua faktor F. Herzberg, cara terbaik 10 meningkatkan motivasi diri pekerja ini adalah dengan
-A.menawarkan kenaikan gaji dan insentif untuk produktivitas yang lebih besar
-B.mendesain ulang pekerjaan untuk memberikan tantangan dan rasa pencapaian
-C.meningkatkan peluang untuk interaksi sosial yang terinformasi
-D.memberi karyawan gelombang pekerjaan yang membawa prestise yang lebih besar",b,b,true
-"Penelitian tentang penguasaan bahasa kedua telah menunjukkan yang mana dari berikut ini tentang anak-anak yang memperoleh bahasa kedua
-A.Perkembangan kognitif mereka tertunda
-B.Mereka memiliki artikulasi yang lebih baik daripada anak-anak yang tidak bilingual
-C.Kemahiran bahasa ibu mereka tidak berpengaruh pada tingkat perolehan bahasa kedua
-D.Mereka telah meningkatkan fleksibilitas kognitif",d,d,true
-"Seorang wanita berusia 54 tahun datang ke kantor karena dia mengalami rasa sakit yang menyelingi pipi dan rahang kanannya selama 3 minggu terakhir. Setiap episode rasa sakit berlangsung selama 1 detik atau kurang. Rasa sakit sering dipicu oleh udara dingin, mengunyah, stimulasi taktil, dan menyikat gigi. Dia tidak memiliki trauma pada wajah atau kepala. Riwayat medis luar biasa untuk sakit kepala tegang, obesitas, dan operasi bypass lambung. Tingginya 165 cm (5 kaki 5 inci) dan beratnya 62 kg (137 lb); BMI adalah 23 kg / m2. Tanda-tanda vital normal. Pasien tidak dapat mentolerir sentuhan di sisi kanan wajah. Tidak ada kelemahan wajah atau kehilangan sensasi. Sisa pemeriksaan fisik tidak menunjukkan kelainan. CT scan kepala dengan dan tanpa kontras tidak menunjukkan kelainan. Manakah dari berikut ini yang merupakan farmakoterapi yang paling tepat saat ini?
-A.Karbamazepin
-B.Lamotrigin
-C.Levetiracetam
-D.Topiramate",a,a. karbamazepin,true
-" Communidades de Base dikaitkan dengan yang mana dari berikut ini?
-A.Uskup Oscar Romero
-B.Perlawanan dan pembaruan
-C.Martabat semua manusia
-D.Semua hal di atas",d,d. semua hal di atas,true
-"Tujuan dari studi double-blind atau double-masked adalah untuk:
-A.Mencapai komparabilitas subjek yang diobati dan tidak diobati
-B.Mengurangi efek variasi sampling
-C.Hindari bias pengamat dan subjek
-D.Hindari bias pengamat dan variasi pengambilan sampel",b,c,false
-"Manakah dari poin-poin berikut yang mendukung argumen unilateralisme Amerika?
-A.Hegemoni yang baik hati
-B.Ketidakefektifan multilateralisme
-C.Kekuatan Amerika
-D.Semua hal di atas",d,d,true
-"Garis medan magnet tentang bentuk kawat pembawa arus
-A.Lingkaran
-B.garis radial
-C.Arus eddy
-D.loop energi",a,a,true
-"Microchip komputer modern terutama terdiri dari elemen apa?
-A.Natrium
-B.Silikon
-C.Aluminium
-D.Perak",b,b,true
-"Manakah dari berikut ini yang paling menggambarkan situasi setelah harga dinaikkan pada produk yang memiliki permintaan inelastis?
-A.Kuantitas yang diminta tidak akan berubah.
-B.Kuantitas yang diminta akan meningkat.
-C.Total pendapatan akan berkurang.
-D.Total pendapatan tidak akan berubah.",a,a,true
+D.Tanggung jawab pidana terdakwa digantikan oleh pengemudi truk.",C,"Berdasarkan informasi yang diberikan, pembelaan terbaik bagi terdakwa adalah opsi C. Kegagalan terdakwa untuk bertindak tidak sukarela.
+
+Penjelasan:
+
+Undang-undang pidana yang berlaku menyatakan bahwa seseorang tidak bertanggung jawab atas perilaku kriminal jika, sebagai akibat dari penyakit mental atau cacat, ia tidak memiliki kapasitas substansial untuk menghargai kesalahan perilakunya atau menyesuaikan perilakunya dengan persyaratan hukum.
+
+Berdasarkan kesaksian terdakwa dan saksi ahli, terdakwa mengalami reaksi yang tidak biasa ketika melihat keponakannya jatuh di dekat truk sampah, sehingga dia membeku dan tidak dapat bergerak untuk menyelamatkannya. Ini menunjukkan bahwa kegagalan terdakwa untuk bertindak tidak sukarela, karena dia tidak mampu secara mental untuk melakukan tindakan penyelamatan pada saat itu.
+
+Opsi A (terdakwa menderita kegilaan sementara) dan opsi B (terdakwa tidak memiliki kondisi mental yang diperlukan untuk melakukan kejahatan) tidak sesuai dengan informasi yang diberikan, karena tidak ada indikasi bahwa terdakwa menderita penyakit mental atau cacat yang mempengaruhi kapasitas mentalnya.
+
+Opsi D (tanggung jawab pidana terdakwa digantikan oleh pengemudi truk) tidak sesuai, karena terdakwa didakwa dengan pembunuhan tidak disengaja, bukan atas tindakan pengemudi truk.
+
+Jadi, pembelaan terbaik bagi terdakwa adalah opsi C, yaitu kegagalan terdakwa untuk bertindak tidak sukarela.",
 " Teks klasik Daodejing dikenal dengan judul apa dalam bahasa Inggris?
 A.Perubahan Klasik
 B.Klasik Jalan dan Kekuatan
 C.Klasik Wanita
-D.Klasik Filsafat",b,b,true
+D.Klasik Filsafat",B,"B. Klasik Jalan dan Kekuatan
+
+Teks klasik Daodejing (atau Tao Te Ching) dikenal dengan judul ""Tao Te Ching"" atau ""Klasik Jalan dan Kekuatan"" dalam bahasa Inggris.
+
+Daodejing adalah salah satu teks klasik dalam tradisi filsafat Taoisme yang ditulis oleh Laozi. Judul aslinya dalam bahasa Cina adalah ""道德經"" (Dàodéjīng), yang secara harfiah berarti ""Klasik Jalan (Dao) dan Kekuatan (De)"".
+
+Jadi, jawaban yang tepat adalah B. Klasik Jalan dan Kekuatan.",
 "Jaksa Agung adalah kepala yang mana dari entitas berikut?
 A.Komite Kehakiman Senat
 B.Departemen Kehakiman
 C.Departemen Luar Negeri
-D.Korps Advokat Jenderal Hakim",b,b. departemen kehakiman,true
-"Penyakit apa yang tidak disebabkan oleh virus herpes?
-A.Kelumpuhan infantil
-B.Ensefalitis
-C.Penyakit menular seksual
-D.Kanker",a,d. kanker,false
+D.Korps Advokat Jenderal Hakim",B,"Jawaban yang tepat adalah B. Departemen Kehakiman.
+
+Jaksa Agung (Attorney General) adalah kepala dari Departemen Kehakiman (Department of Justice) di Amerika Serikat. Departemen Kehakiman adalah salah satu departemen eksekutif federal yang bertanggung jawab atas penegakan hukum dan administrasi peradilan di tingkat federal.
+
+Pilihan jawaban lainnya tidak tepat:
+A. Komite Kehakiman Senat adalah badan legislatif, bukan eksekutif.
+C. Departemen Luar Negeri (Department of State) dipimpin oleh Menteri Luar Negeri (Secretary of State), bukan Jaksa Agung.
+D. Korps Advokat Jenderal Hakim (Judge Advocate General's Corps) adalah bagian dari Angkatan Bersenjata, bukan dipimpin oleh Jaksa Agung.",
 "Istilah 'chili con carne' mengacu pada cabai dengan apa?
 A.Kacang
 B.daging
 C.keju
-D.cabai",b,b,true
+D.cabai",B,"Jawaban yang tepat adalah B. daging.
+
+'Chili con carne' adalah istilah yang mengacu pada hidangan yang terdiri dari cabai (chili) dan daging (carne). Ini adalah hidangan khas Meksiko yang terbuat dari campuran cabai, daging (biasanya daging sapi), tomat, bawang, dan bumbu-bumbu lainnya.
+
+Jadi, 'chili con carne' mengacu pada cabai yang disajikan bersama dengan daging, bukan kacang, keju, atau cabai itu sendiri.",
+"Penyakit apa yang tidak disebabkan oleh virus herpes?
+A.Kelumpuhan infantil
+B.Ensefalitis
+C.Penyakit menular seksual
+D.Kanker",A,"Jawaban yang benar adalah D. Kanker.
+
+Penjelasan:
+A. Kelumpuhan infantil (polio) disebabkan oleh virus polio, yang termasuk dalam kelompok virus enterovirus.
+B. Ensefalitis dapat disebabkan oleh berbagai virus, termasuk virus herpes.
+C. Penyakit menular seksual, seperti herpes genital, disebabkan oleh virus herpes.
+D. Kanker tidak disebabkan oleh virus herpes. Kanker umumnya disebabkan oleh mutasi genetik, faktor lingkungan, atau infeksi virus lain seperti virus hepatitis B dan C, serta virus human papilloma (HPV).
+
+Jadi, dari pilihan jawaban yang diberikan, hanya kanker yang tidak disebabkan oleh virus herpes.",
+"Manakah dari berikut ini yang merupakan dokumen pribadi dengan akses tertutup?
+A.'Buku Putih' Pemerintah
+B.Rekam Medis Rahasia
+C.Buku Rekening Rumah Tangga
+D.Daftar Saham Bisnis",C,"Jawaban yang tepat adalah B. Rekam Medis Rahasia.
+
+Penjelasan:
+A. 'Buku Putih' Pemerintah adalah dokumen resmi pemerintah yang biasanya berisi informasi publik.
+B. Rekam Medis Rahasia adalah dokumen pribadi yang berisi informasi sensitif tentang kesehatan seseorang, dengan akses yang terbatas.
+C. Buku Rekening Rumah Tangga adalah dokumen pribadi yang berisi informasi keuangan pribadi.
+D. Daftar Saham Bisnis adalah dokumen yang berkaitan dengan kepemilikan saham dalam suatu bisnis, yang bersifat semi-publik.
+
+Jadi, dari pilihan yang diberikan, hanya Rekam Medis Rahasia yang merupakan dokumen pribadi dengan akses tertutup.",
+" Communidades de Base dikaitkan dengan yang mana dari berikut ini?
+A.Uskup Oscar Romero
+B.Perlawanan dan pembaruan
+C.Martabat semua manusia
+D.Semua hal di atas",D,"Jawaban yang tepat adalah D. Semua hal di atas.
+
+Komunidades de Base (Komunitas Basis) dikaitkan dengan:
+
+A. Uskup Oscar Romero - Uskup Romero adalah salah satu tokoh penting yang memperjuangkan hak-hak kaum miskin dan tertindas melalui Komunidades de Base di El Salvador.
+
+B. Perlawanan dan pembaruan - Komunidades de Base merupakan gerakan akar rumput yang memperjuangkan perubahan sosial, ekonomi, dan politik melalui perlawanan terhadap ketidakadilan.
+
+C. Martabat semua manusia - Salah satu prinsip utama Komunidades de Base adalah memperjuangkan martabat dan hak-hak asasi manusia bagi semua orang, terutama kaum miskin dan tertindas.
+
+Jadi, Komunidades de Base dikaitkan dengan ketiganya, yaitu Uskup Oscar Romero, perlawanan dan pembaruan, serta martabat semua manusia.",
+"Manakah dari berikut ini yang paling menggambarkan situasi setelah harga dinaikkan pada produk yang memiliki permintaan inelastis?
+A.Kuantitas yang diminta tidak akan berubah.
+B.Kuantitas yang diminta akan meningkat.
+C.Total pendapatan akan berkurang.
+D.Total pendapatan tidak akan berubah.",A,"Jawaban yang paling tepat adalah:
+
+A. Kuantitas yang diminta tidak akan berubah.
+
+Penjelasan:
+Pada produk dengan permintaan inelastis, perubahan harga tidak akan menyebabkan perubahan yang signifikan pada kuantitas yang diminta. Hal ini karena konsumen tidak terlalu sensitif terhadap perubahan harga, sehingga mereka tetap akan membeli produk tersebut meskipun harganya naik.
+
+Ketika harga dinaikkan pada produk dengan permintaan inelastis, total pendapatan penjual akan meningkat karena kenaikan harga lebih besar daripada penurunan kuantitas yang diminta. Oleh karena itu, jawaban C (Total pendapatan akan berkurang) dan D (Total pendapatan tidak akan berubah) tidak tepat.
+
+Jadi, pilihan A yang paling menggambarkan situasi setelah harga dinaikkan pada produk yang memiliki permintaan inelastis.",
+"Penelitian tentang penguasaan bahasa kedua telah menunjukkan yang mana dari berikut ini tentang anak-anak yang memperoleh bahasa kedua
+A.Perkembangan kognitif mereka tertunda
+B.Mereka memiliki artikulasi yang lebih baik daripada anak-anak yang tidak bilingual
+C.Kemahiran bahasa ibu mereka tidak berpengaruh pada tingkat perolehan bahasa kedua
+D.Mereka telah meningkatkan fleksibilitas kognitif",D,"Jawaban yang tepat adalah D. Mereka telah meningkatkan fleksibilitas kognitif.
+
+Penelitian tentang penguasaan bahasa kedua pada anak-anak menunjukkan bahwa:
+
+A. Tidak benar. Perkembangan kognitif anak-anak yang memperoleh bahasa kedua tidak tertunda, bahkan cenderung lebih baik daripada anak-anak monolingual.
+
+B. Tidak benar. Anak-anak bilingual tidak selalu memiliki artikulasi yang lebih baik daripada anak-anak monolingual.
+
+C. Tidak benar. Kemahiran bahasa ibu dapat mempengaruhi tingkat perolehan bahasa kedua pada anak-anak.
+
+D. Benar. Anak-anak bilingual telah menunjukkan peningkatan fleksibilitas kognitif, yaitu kemampuan untuk beralih antara tugas-tugas dan perspektif yang berbeda. Hal ini merupakan salah satu manfaat penting dari penguasaan bahasa kedua pada anak-anak.
+
+Jadi, jawaban yang paling tepat adalah D. Mereka telah meningkatkan fleksibilitas kognitif.",
+"Manakah dari poin-poin berikut yang mendukung argumen unilateralisme Amerika?
+A.Hegemoni yang baik hati
+B.Ketidakefektifan multilateralisme
+C.Kekuatan Amerika
+D.Semua hal di atas",D,"Jawaban yang paling tepat adalah D. Semua hal di atas.
+
+Argumen unilateralisme Amerika dapat didukung oleh beberapa faktor, yaitu:
+
+A. Hegemoni yang baik hati (benevolent hegemony) - Pandangan bahwa Amerika memiliki kekuatan dan kemampuan untuk memimpin dunia dengan cara yang positif dan menguntungkan bagi semua pihak.
+
+B. Ketidakefektifan multilateralisme - Pandangan bahwa organisasi multilateral seperti PBB atau NATO tidak cukup efektif dalam menyelesaikan masalah global, sehingga Amerika perlu bertindak secara unilateral.
+
+C. Kekuatan Amerika - Keyakinan bahwa Amerika memiliki kekuatan militer, ekonomi, dan politik yang dominan sehingga dapat bertindak secara unilateral tanpa terlalu mempertimbangkan pandangan negara lain.
+
+Jadi, semua poin di atas (A, B, dan C) dapat digunakan untuk mendukung argumen unilateralisme Amerika.",
+"Manakah dari berikut ini yang paling menggambarkan pedoman etika mengenai keintiman seksual dengan mantan klien terapi?
+A.Psikolog dilarang melakukan keintiman seksual dengan mantan klien terapi dalam keadaan apapun.
+B.Psikolog dilarang melakukan keintiman seksual dengan mantan klien terapi setidaknya selama satu tahun setelah penghentian terapi.
+C.Psikolog dilarang melakukan keintiman seksual dengan mantan klien terapi dalam keadaan tertentu (misalnya, ketika ada risiko eksploitasi).
+D.Psikolog tidak dilarang melakukan keintiman seksual dengan mantan klien terapi.",C,"Jawaban yang paling tepat adalah:
+
+B. Psikolog dilarang melakukan keintiman seksual dengan mantan klien terapi setidaknya selama satu tahun setelah penghentian terapi.
+
+Alasannya:
+- Pedoman etika profesional umumnya melarang psikolog untuk melakukan keintiman seksual dengan mantan klien terapi, setidaknya dalam jangka waktu tertentu setelah penghentian terapi.
+- Hal ini untuk mencegah potensi eksploitasi atau penyalahgunaan hubungan terapeutik yang telah terjalin sebelumnya.
+- Jangka waktu minimal satu tahun setelah penghentian terapi dianggap cukup untuk memastikan tidak ada lagi ketidakseimbangan kekuasaan atau pengaruh yang tidak pantas dari psikolog terhadap mantan klien.
+- Opsi A terlalu kaku dan mutlak, sedangkan opsi C dan D terlalu longgar dan berisiko.
+
+Jadi, pilihan B merupakan pedoman etika yang paling sesuai dan umum diterapkan dalam praktik psikologi profesional.",
+"Manakah dari berikut ini yang paling menggambarkan Eurosentrisme?
+A.Eurosentrisme adalah gaya analisis di mana masyarakat Eropa dibandingkan dengan masyarakat non-Eropa untuk menghasilkan perbandingan yang tidak bias dari manfaat relatif masing-masing.
+B.Eurosentrisme adalah gaya berpikir di mana penilaian dan evaluasi masyarakat non-Eropa ditulis dalam hal asumsi budaya dan bias orang Eropa.
+C.Eurosentrisme menggambarkan studi atau karya ilmiah yang hanya mempertimbangkan sistem politik atau ekonomi Eropa.
+D.Semua opsi ini.",B,"Jawaban yang paling tepat adalah:
+
+B. Eurosentrisme adalah gaya berpikir di mana penilaian dan evaluasi masyarakat non-Eropa ditulis dalam hal asumsi budaya dan bias orang Eropa.
+
+Penjelasan:
+
+Eurosentrisme adalah pandangan atau perspektif yang menempatkan Eropa atau orang Eropa sebagai pusat atau standar dalam menganalisis dan mengevaluasi masyarakat non-Eropa. Hal ini mengakibatkan adanya bias dan asumsi budaya Eropa yang digunakan untuk menilai dan memahami masyarakat non-Eropa.
+
+Opsi A menggambarkan analisis yang berusaha untuk membandingkan masyarakat Eropa dan non-Eropa secara objektif, bukan menunjukkan eurosentrisme.
+
+Opsi C hanya menyebutkan studi atau karya ilmiah yang hanya mempertimbangkan sistem politik atau ekonomi Eropa, yang belum tentu mencerminkan eurosentrisme.
+
+Jadi, opsi B paling tepat menggambarkan inti dari eurosentrisme, yaitu penilaian dan evaluasi masyarakat non-Eropa yang didasarkan pada asumsi dan bias budaya Eropa.",
+"Sebelum proposal untuk menggabungkan dua kota ditempatkan pada surat suara, jaksa agung negara bagian mengeluarkan pendapat penasihat yang menyatakan bahwa tindakan itu, menurut pendapatnya, tidak melanggar ketentuan hukum atau konstitusi. Setelah itu, proposal ditempatkan pada surat suara dan sangat disahkan oleh pemilih di kedua kota. Setelah pemilihan, tetapi sebelum merger secara resmi dilakukan, dua pembayar pajak dari salah satu kota memulai gugatan untuk memerintahkan penyatuan, menyerang konstitusionalitas proposal. Gugatan itu mencapai mahkamah agung negara bagian dan dinyatakan konstitusional di bawah hukum negara bagian dan federal. Para penggugat sekarang mengajukan mosi yang meminta agar kasus ini ditinjau oleh Mahkamah Agung AS. Pengadilan dapat
+A.tidak mendengar kasus ini, karena diputuskan dengan alasan negara merdeka.
+B.tidak mendengar kasus ini, tetapi mungkin menyerahkannya ke pengadilan distrik federal.
+C.Dengarkan masalah federal yang terlibat, tetapi tolak untuk mengatur masalah negara.
+D.mengandalkan pendapat penasihat yang diberikan oleh jaksa agung negara bagian dan tidak mendengar kasus ini berdasarkan manfaatnya.",A,"Jawaban yang tepat adalah C. Dengarkan masalah federal yang terlibat, tetapi tolak untuk mengatur masalah negara.
+
+Penjelasan:
+Dalam kasus ini, meskipun proposal penggabungan kota telah disahkan oleh pemilih di kedua kota, ada gugatan yang diajukan oleh dua pembayar pajak untuk menyerang konstitusionalitas proposal tersebut. Gugatan ini telah mencapai Mahkamah Agung negara bagian dan dinyatakan konstitusional berdasarkan hukum negara bagian dan federal.
+
+Ketika kasus ini sampai ke Mahkamah Agung AS, Mahkamah Agung dapat mendengarkan masalah federal yang terlibat, seperti apakah proposal penggabungan tersebut melanggar konstitusi federal. Namun, Mahkamah Agung harus menolak untuk mengatur masalah negara, seperti apakah proposal tersebut sesuai dengan hukum negara bagian, karena itu adalah yurisdiksi pengadilan negara bagian.
+
+Oleh karena itu, jawaban yang tepat adalah C. Dengarkan masalah federal yang terlibat, tetapi tolak untuk mengatur masalah negara.",
+"Seorang pria adalah pemilik hotel yang baru dibangun di sebuah kota. Pada 15 Maret, pria itu menerima telepon dari seorang penjual yang merupakan distributor peralatan hotel. Penjual menawarkan untuk menjual pria itu 1.000 alat pemadam kebakaran untuk hotelnya. Penjual mengatakan kepada pria itu bahwa biaya alat pemadam kebakaran akan menjadi $ 35.000 (atau $ 35 masing-masing), dibayarkan 90 hari setelah pengiriman. Penjual berjanji untuk memasang alat pemadam kebakaran paling lambat 15 April. Pada 16 Maret, pria itu menelepon penjual dan menerima tawaran itu. Keesokan harinya, pria itu mengirimkan memo berikut kepada penjual: ""Harap diperhatikan bahwa saya akan mengambil diskon 15 persen untuk pembayaran tunai tujuh hari setelah pemasangan."" Penjual menerima korespondensi pria itu pada 20 Maret. Pada tanggal 1 April, penjual mengirim telegram kepada pria itu, yang menyatakan: ""Jelas kami tidak memiliki kontrak yang dapat ditegakkan. Saya tidak akan mengirimkan alat pemadam kebakaran pada 15 April atau waktu lainnya. ""Pria itu mengajukan gugatan terhadap penjual karena melanggar kontrak. Tenaga penjual menegaskan pembelaan undang-undang penipuan di bawah UCC. Manakah dari berikut ini yang merupakan pernyataan paling akurat mengenai pertahanan tenaga penjual?
+A.Pembelaan penjual itu valid, karena memo pria itu tidak cukup untuk menunjukkan bahwa kontrak telah dibentuk.
+B.Pembelaan penjual itu valid, karena memo pria itu tidak konsisten dengan ketentuan penawaran lisan penjual.
+C.Pembelaan penjual tidak valid, karena penjual gagal menanggapi memo pria itu dalam jangka waktu yang wajar.
+D.Pembelaan penjual tidak valid, karena di bawah UCC undang-undang penipuan tidak berlaku dalam perjanjian antara pedagang.",A,"Jawaban yang paling akurat adalah:
+
+D. Pembelaan penjual tidak valid, karena di bawah UCC undang-undang penipuan tidak berlaku dalam perjanjian antara pedagang.
+
+Penjelasan:
+
+Berdasarkan informasi yang diberikan, pria tersebut adalah pemilik hotel yang baru dibangun, sedangkan penjual adalah distributor peralatan hotel. Ini menunjukkan bahwa mereka adalah pedagang yang terlibat dalam transaksi komersial.
+
+Dalam transaksi antara pedagang, undang-undang penipuan di bawah UCC (Uniform Commercial Code) tidak berlaku. Oleh karena itu, pembelaan penjual berdasarkan undang-undang penipuan tidak valid.
+
+Pilihan jawaban A dan B tidak tepat karena memo pria itu dapat dianggap sebagai penerimaan yang sah atas penawaran penjual, sehingga kontrak telah terbentuk.
+
+Pilihan jawaban C juga tidak tepat, karena meskipun penjual gagal menanggapi memo pria itu dalam jangka waktu yang wajar, hal ini tidak menghilangkan validitas kontrak yang telah terbentuk.",
+"Dalam bidang hubungan masyarakat mana yang mungkin melibatkan lobi?
+A.Perusahaan
+B.Hubungan keuangan
+C.Urusan publik
+D.Bisnis ke bisnis",C,"Jawaban yang tepat adalah C. Urusan publik.
+
+Lobi merupakan salah satu aktivitas yang sering dilakukan dalam bidang hubungan masyarakat, khususnya dalam urusan publik. Lobi melibatkan upaya untuk mempengaruhi pembuat kebijakan, pemerintah, atau pihak-pihak yang memiliki kepentingan publik, agar mendukung atau menerima suatu pandangan atau kepentingan tertentu.
+
+Dalam bidang hubungan masyarakat, urusan publik (public affairs) adalah salah satu area yang sering melibatkan aktivitas lobi. Hal ini karena urusan publik berkaitan dengan upaya membangun dan memelihara hubungan baik dengan pemerintah, pembuat kebijakan, dan pemangku kepentingan lainnya yang terkait dengan kepentingan publik.
+
+Sementara itu, pilihan jawaban lainnya seperti perusahaan, hubungan keuangan, dan bisnis ke bisnis, meskipun juga dapat melibatkan aktivitas lobi, namun bukan merupakan bidang utama yang terkait dengan urusan publik dalam hubungan masyarakat.",
+"Seorang peternak saat ini adalah pemilik catatan sebidang tanah yang ditunjuk sebagai ""A. "" Ini adalah yang lebih tinggi dari dua properti tetangga di gunung. Seorang petani adalah pemilik paket ""B,"" yang terletak lebih rendah dari ""A"" di lereng gunung. Pada tahun 2000, peternak, yang memiliki kedua bidang tanah, membangun sistem drainase pribadi. Sistem ini terdiri dari pipa bawah tanah yang membentang di kedua bidang tanah. Limbah dari paket ""A"" dikeringkan melalui sistem ke saluran pembuangan kota, yang terletak di bagian bawah gunung. Pada tahun 2005, peternak menjual paket ""B"" kepada petani. Akta kepada petani tidak menyebutkan sistem drainase peternak. Terletak di masing-masing paket adalah rumah bergaya peternakan besar yang ditempati oleh pemiliknya masing-masing. Akhir-akhir ini, saluran pembuangan limbah mulai mengeluarkan bau yang tidak sedap di seluruh paket ""B. "" Akibatnya, petani menggugat peternak tanpa izin berdoa untuk kerusakan yang disebabkan oleh sistem drainase. Penghakiman seharusnya untuk
+A.peternak, karena akta kepada petani tidak mengandung perjanjian yang membatasi penggunaan tanah oleh peternak.
+B.peternak, karena penyebab tindakan petani yang tepat adalah untuk gangguan, bukan pelanggaran.
+C.petani, karena sistem drainase adalah penyebab langsung kerusakan penggugat sebagai masalah hukum.
+D.petani, karena peternak tidak memiliki hak untuk memperbaiki tanahnya sendiri dengan cara yang menyebabkan kerugian bagi orang lain.",B,"Jawaban yang tepat adalah C. petani, karena sistem drainase adalah penyebab langsung kerusakan penggugat sebagai masalah hukum.
+
+Penjelasan:
+1. Peternak membangun sistem drainase pribadi yang membentang di kedua bidang tanah (A dan B) pada tahun 2000.
+2. Pada tahun 2005, peternak menjual paket ""B"" kepada petani, tetapi akta kepemilikan tidak menyebutkan sistem drainase.
+3. Akhir-akhir ini, saluran pembuangan limbah dari sistem drainase mulai mengeluarkan bau yang tidak sedap di seluruh paket ""B"".
+4. Petani menggugat peternak tanpa izin berdoa untuk kerusakan yang disebabkan oleh sistem drainase.
+
+Dalam kasus ini, sistem drainase yang dibangun oleh peternak adalah penyebab langsung dari kerusakan yang dialami oleh petani di paket ""B"". Meskipun peternak memiliki hak untuk memperbaiki tanahnya sendiri, penggunaan sistem drainase yang menyebabkan kerugian bagi orang lain (petani) dapat dianggap sebagai pelanggaran hukum. Oleh karena itu, penghakiman seharusnya untuk petani, karena sistem drainase adalah penyebab langsung kerusakan penggugat sebagai masalah hukum.",
+"Studi etiologi skizofrenia menunjukkan kecenderungan genetik terhadap kondisi tersebut tetapi faktor-faktor lain terlibat. Dari pengetahuan Anda tentang subjek, identifikasi pernyataan berikut mana yang salah.
+A.Kelebihan dopamin atau sensitivitas terhadap dopamin bisa menjadi faktor penyumbang.
+B.Pasien kulit putih lebih bergejala.
+C.Remisi dari kondisi di Dunia Ketiga adalah 65%.
+D.Tingkat yang lebih rendah dari skizofrenia didiagnosis di antara Afrika Amerika.",D,"Dari pernyataan-pernyataan yang diberikan, pernyataan yang salah adalah:
+
+B. Pasien kulit putih lebih bergejala.
+
+Penjelasannya:
+A. Kelebihan dopamin atau sensitivitas terhadap dopamin bisa menjadi faktor penyumbang dalam etiologi skizofrenia. Hal ini sesuai dengan pemahaman bahwa disfungsi sistem dopaminergik dapat berkontribusi pada gejala-gejala skizofrenia.
+
+C. Remisi dari kondisi di Dunia Ketiga adalah 65%. Ini merupakan pernyataan yang benar, karena beberapa studi menunjukkan bahwa tingkat remisi skizofrenia di negara-negara berkembang (Dunia Ketiga) cenderung lebih tinggi dibandingkan di negara-negara maju.
+
+D. Tingkat yang lebih rendah dari skizofrenia didiagnosis di antara Afrika Amerika. Ini juga merupakan pernyataan yang benar, karena beberapa penelitian menunjukkan prevalensi skizofrenia yang lebih rendah di kalangan Afrika Amerika dibandingkan dengan populasi kulit putih.
+
+Sementara pernyataan B, ""Pasien kulit putih lebih bergejala"", adalah pernyataan yang salah. Tidak ada bukti yang konsisten menunjukkan perbedaan signifikan dalam gejala skizofrenia antara pasien kulit putih dan pasien dari kelompok etnis lain.",
+"Seorang wanita berusia 54 tahun datang ke kantor karena dia mengalami rasa sakit yang menyelingi pipi dan rahang kanannya selama 3 minggu terakhir. Setiap episode rasa sakit berlangsung selama 1 detik atau kurang. Rasa sakit sering dipicu oleh udara dingin, mengunyah, stimulasi taktil, dan menyikat gigi. Dia tidak memiliki trauma pada wajah atau kepala. Riwayat medis luar biasa untuk sakit kepala tegang, obesitas, dan operasi bypass lambung. Tingginya 165 cm (5 kaki 5 inci) dan beratnya 62 kg (137 lb); BMI adalah 23 kg / m2. Tanda-tanda vital normal. Pasien tidak dapat mentolerir sentuhan di sisi kanan wajah. Tidak ada kelemahan wajah atau kehilangan sensasi. Sisa pemeriksaan fisik tidak menunjukkan kelainan. CT scan kepala dengan dan tanpa kontras tidak menunjukkan kelainan. Manakah dari berikut ini yang merupakan farmakoterapi yang paling tepat saat ini?
+A.Karbamazepin
+B.Lamotrigin
+C.Levetiracetam
+D.Topiramate",A,"Berdasarkan gejala yang dipaparkan, yaitu rasa sakit yang menyelingi pipi dan rahang kanan yang berlangsung singkat (1 detik atau kurang) dan dipicu oleh berbagai stimulus seperti udara dingin, mengunyah, stimulasi taktil, dan menyikat gigi, serta tidak adanya kelainan pada pemeriksaan fisik dan CT scan kepala, maka diagnosis yang paling sesuai adalah trigeminal neuralgia.
+
+Untuk farmakoterapi yang paling tepat saat ini, pilihan yang paling sesuai adalah:
+
+A. Karbamazepin
+
+Karbamazepin merupakan obat lini pertama untuk pengobatan trigeminal neuralgia. Obat ini bekerja dengan menghambat saluran natrium pada neuron saraf, sehingga dapat mengurangi rasa sakit yang khas pada trigeminal neuralgia.
+
+Oleh karena itu, jawaban yang paling tepat adalah A. Karbamazepin.",
+"Seorang karyawan perusahaan manufaktur besar menemukan pekerjaan itu membosankan, dan mengejar pekerjaan itu hanya untuk uang. Karyawan berkinerja minimal, dan tidak termotivasi sehingga menghasilkan kuantitas tertinggi atau kualitas yang lebih baik. Menurut teori dua faktor F. Herzberg, cara terbaik 10 meningkatkan motivasi diri pekerja ini adalah dengan
+A.menawarkan kenaikan gaji dan insentif untuk produktivitas yang lebih besar
+B.mendesain ulang pekerjaan untuk memberikan tantangan dan rasa pencapaian
+C.meningkatkan peluang untuk interaksi sosial yang terinformasi
+D.memberi karyawan gelombang pekerjaan yang membawa prestise yang lebih besar",B,"Berdasarkan teori dua faktor dari F. Herzberg, cara terbaik untuk meningkatkan motivasi diri pekerja yang merasa pekerjaannya membosankan dan hanya mengejarnya untuk uang adalah:
+
+B. Mendesain ulang pekerjaan untuk memberikan tantangan dan rasa pencapaian.
+
+Menurut teori Herzberg, faktor-faktor yang dapat memotivasi karyawan (motivator factors) adalah hal-hal yang terkait dengan isi pekerjaan itu sendiri, seperti prestasi, pengakuan, tanggung jawab, kemajuan, dan pertumbuhan. Dengan mendesain ulang pekerjaan untuk memberikan tantangan dan rasa pencapaian, karyawan akan merasa pekerjaannya lebih bermakna dan dapat memenuhi kebutuhan akan aktualisasi diri.
+
+Sementara itu, kenaikan gaji dan insentif (opsi A) hanya merupakan faktor hygiene yang dapat mencegah ketidakpuasan, tetapi tidak secara langsung meningkatkan motivasi intrinsik karyawan. Peluang interaksi sosial (opsi C) dan prestise pekerjaan (opsi D) juga bukan merupakan faktor utama yang dapat memotivasi karyawan menurut teori Herzberg.",
+"Polisi menerima informasi dari seorang informan yang dapat dipercaya bahwa seorang pria menjual kokain dari rumahnya. Petugas kemudian menyerahkan kepada hakim sebuah pernyataan tertulis yang menetapkan keadaan yang menunjukkan kemungkinan penyebab dikeluarkannya surat perintah penggeledahan. Hakim mengeluarkan surat perintah penggeledahan untuk narkotika di alamat pria itu. Petugas polisi pergi ke rumah pria itu dan membunyikan bel pintu. Ketika tidak ada yang menjawab, polisi masuk dan memasuki tempat tinggal. Mereka menggeledah kamar-kamar di lantai pertama dan tidak menemukan bukti yang memberatkan, lalu berjalan keluar dan melihat pintu masuk terpisah yang mengarah ke lantai dua tempat tinggal. Mereka menaiki tangga dan memasuki kamar tidur di lantai atas. Di dalam ruangan, petugas menemukan setumpuk kokain tergeletak di lemari. Ketika petugas melanjutkan pencarian mereka di kamar tidur, terdakwa memasuki ruangan. Polisi bertanya kepada terdakwa apakah dia orang itu. Terdakwa mengidentifikasi dirinya dan mengatakan kepada polisi bahwa mereka berada di kamar tidurnya dan dia menempati lantai dua tempat tinggal. Terdakwa menjelaskan bahwa pria itu tinggal di lantai pertama dan tempat tinggalnya terpisah dari terdakwa. Meskipun demikian, terdakwa ditahan dan didakwa dengan kepemilikan kokain. Terdakwa telah mengajukan mosi untuk mengecualikan kokain agar tidak dimasukkan ke dalam bukti. Mosi terdakwa seharusnya
+A.dikabulkan, karena surat perintah itu tidak menyebutkan nama terdakwa.
+B.diberikan, karena surat perintah itu tidak menyatakan dengan spesifik area yang akan digeledah.
+C.ditolak, karena polisi cukup yakin bahwa mereka sedang menggeledah kediaman pria itu ketika mereka memasuki tempat tinggal terdakwa.
+D.ditolak, karena surat perintah itu sah dan dikeluarkan dengan kemungkinan penyebab.",C,"Jawaban yang tepat adalah D. ditolak, karena surat perintah itu sah dan dikeluarkan dengan kemungkinan penyebab.
+
+Penjelasan:
+1. Surat perintah penggeledahan telah dikeluarkan oleh hakim berdasarkan pernyataan tertulis yang menetapkan keadaan yang menunjukkan kemungkinan penyebab dikeluarkannya surat perintah tersebut. Hal ini menunjukkan bahwa surat perintah tersebut sah dan dikeluarkan dengan kemungkinan penyebab yang cukup.
+
+2. Meskipun terdakwa menjelaskan bahwa dia menempati lantai dua tempat tinggal yang terpisah dari pria yang disebut dalam surat perintah, polisi masih memiliki kewenangan untuk melakukan penggeledahan di seluruh tempat tinggal berdasarkan surat perintah yang sah tersebut.
+
+3. Surat perintah tidak perlu menyebutkan nama terdakwa secara spesifik, karena yang menjadi dasar pengeluaran surat perintah adalah kemungkinan penyebab, bukan identitas pemilik tempat tinggal.
+
+4. Oleh karena itu, mosi terdakwa untuk mengecualikan kokain agar tidak dimasukkan ke dalam bukti seharusnya ditolak, karena surat perintah itu sah dan dikeluarkan dengan kemungkinan penyebab yang cukup.",
+"Microchip komputer modern terutama terdiri dari elemen apa?
+A.Natrium
+B.Silikon
+C.Aluminium
+D.Perak",B,"Jawaban yang tepat adalah B. Silikon.
+
+Mikrochip komputer modern terutama terdiri dari elemen silikon (Si). Silikon adalah bahan semikonduktor yang paling banyak digunakan dalam pembuatan mikrochip dan komponen elektronik modern.
+
+Alasan mengapa silikon menjadi bahan utama dalam mikrochip komputer:
+
+1. Sifat semikonduktor: Silikon memiliki sifat semikonduktor yang memungkinkan kontrol aliran elektron, yang merupakan dasar dari operasi transistor dan sirkuit elektronik.
+
+2. Kelimpahan dan kemudahan pemrosesan: Silikon adalah elemen yang melimpah di alam dan dapat dengan mudah dimurnikan dan diproses menjadi wafer semikonduktor.
+
+3. Kemampuan miniaturisasi: Silikon dapat dibuat menjadi lapisan tipis dan struktur mikro yang memungkinkan pembuatan mikrochip dengan ukuran yang sangat kecil.
+
+4. Kestabilan dan keandalan: Silikon memiliki sifat fisik dan kimia yang stabil, sehingga dapat diandalkan dalam aplikasi elektronik.
+
+Jadi, elemen utama penyusun mikrochip komputer modern adalah silikon, bukan natrium, aluminium, atau perak.",
+"Sebuah supermarket baru saja dibuka kembali setelah dua minggu ditutup untuk renovasi. Pada pagi hari pembukaan kembali, seorang wanita sedang berbelanja ketika dia tiba-tiba jatuh dan menderita patah kaki. Setelah itu, wanita itu menggugat supermarket karena cedera pribadi. Dalam gugatannya, wanita itu mengklaim bahwa dia tersandung ember cat yang tergeletak di salah satu lorong. Di persidangan, wanita itu memanggil pelanggan lain untuk bersaksi bahwa ketika dia sedang berbelanja, dia mendengar bunyi gedebuk, berbalik dan melihat wanita itu jatuh ke lantai. Dia juga bersaksi bahwa dia melihat ember cat kosong tergeletak beberapa meter dari kaki wanita itu. Pada pemeriksaan silang, pelanggan terlibat dalam pertukaran argumentatif dengan pengacara supermarket. Ketika ditanya pendapatnya tentang apa yang menyebabkan wanita itu jatuh, pelanggan bersaksi, ""Dia jatuh karena dia tersandung ember."" Dia mengakui pada pemeriksaan silang, bagaimanapun, bahwa dia tidak benar-benar melihat wanita itu tersandung di ember. Pengacara supermarket kemudian mengajukan pertanyaan berikut kepada pelanggan: ""Jika Anda tidak melihat wanita itu tersandung ember, bagaimana Anda tahu bahwa dia jatuh karenanya?"" Pelanggan menjawab, ""Karena pacar saya yang sedang berbelanja dengan saya mengatakan kepada saya kemudian bahwa dia melihat wanita itu tersandung ember. "" Pengacara supermarket bergerak untuk menyerang jawaban terakhir pelanggan. Jika hakim persidangan menolak mosi terdakwa dan mengizinkan jawaban pelanggan untuk berdiri, kemungkinan besar itu karena
+A.Jawaban pelanggan diundang oleh pertanyaan pengacara supermarket.
+B.Jawaban pelanggan didasarkan pada pengetahuan langsung.
+C.Jawaban pelanggan adalah pernyataan persepsi baru-baru ini.
+D.Jawaban pelanggan adalah kesan present sense.",A,"Jawaban yang paling tepat adalah C. Jawaban pelanggan adalah pernyataan persepsi baru-baru ini.
+
+Penjelasan:
+Dalam kasus ini, pelanggan bersaksi bahwa dia melihat wanita itu jatuh dan melihat ember cat kosong tergeletak di dekatnya. Namun, pada pemeriksaan silang, pelanggan mengakui bahwa dia tidak benar-benar melihat wanita itu tersandung ember. Kemudian, pelanggan mengatakan bahwa pacarnya yang sedang berbelanja dengannya mengatakan kepadanya bahwa dia melihat wanita itu tersandung ember.
+
+Jawaban pelanggan ini merupakan pernyataan persepsi baru-baru ini, karena dia tidak melihat sendiri wanita itu tersandung ember, melainkan mendengar dari pacarnya yang melihat kejadian tersebut. Ini berbeda dengan jawaban yang didasarkan pada pengetahuan langsung (opsi B) atau kesan present sense (opsi D).
+
+Pengacara supermarket kemudian mengajukan mosi untuk menyerang jawaban terakhir pelanggan, yang menunjukkan bahwa jawaban tersebut mungkin tidak dapat diterima sebagai bukti. Namun, jika hakim persidangan menolak mosi terdakwa dan mengizinkan jawaban pelanggan untuk berdiri, itu mungkin karena jawaban pelanggan diundang oleh pertanyaan pengacara supermarket (opsi A).",
+"Garis medan magnet tentang bentuk kawat pembawa arus
+A.Lingkaran
+B.garis radial
+C.Arus eddy
+D.loop energi",A,"Jawaban yang tepat adalah A. Lingkaran.
+
+Penjelasan:
+
+Garis medan magnet yang terbentuk di sekitar sebuah kawat pembawa arus listrik memiliki bentuk lingkaran. Hal ini sesuai dengan hukum Biot-Savart, yang menyatakan bahwa arah garis medan magnet di sekitar kawat pembawa arus membentuk lingkaran konsentris dengan kawat tersebut.
+
+Opsi B (garis radial) tidak tepat, karena garis medan magnet tidak berbentuk radial, melainkan berbentuk lingkaran.
+
+Opsi C (arus eddy) tidak tepat, karena arus eddy adalah arus listrik yang terbentuk di dalam suatu bahan konduktor akibat adanya perubahan medan magnet, bukan terkait dengan bentuk garis medan magnet.
+
+Opsi D (loop energi) juga tidak tepat, karena loop energi tidak terkait dengan bentuk garis medan magnet di sekitar kawat pembawa arus.
+
+Jadi, jawaban yang paling tepat adalah A. Lingkaran.",
+"Manakah dari teori-teori berikut yang berfokus pada bagaimana masyarakat mengelola untuk melakukan kegiatan yang diperlukan untuk menjaga ketertiban dan stabilitas?
+A.Fungsionalisme
+B.Interaksionisme
+C.Teori pilihan rasional
+D.Teori konflik",A,"Jawaban yang tepat adalah A. Fungsionalisme.
+
+Fungsionalisme adalah teori sosiologi yang berfokus pada bagaimana masyarakat mengelola dan melakukan kegiatan yang diperlukan untuk menjaga ketertiban dan stabilitas sosial. Menurut fungsionalisme, setiap elemen dalam masyarakat memiliki fungsi dan peran masing-masing yang saling terkait dan mendukung untuk mempertahankan keutuhan dan keseimbangan sistem sosial.
+
+Teori-teori lain yang disebutkan, seperti interaksionisme, teori pilihan rasional, dan teori konflik, memiliki fokus yang berbeda. Interaksionisme berfokus pada interaksi dan makna yang dibangun dalam interaksi sosial. Teori pilihan rasional berfokus pada tindakan individu yang didasarkan pada pertimbangan rasional. Sementara teori konflik berfokus pada konflik dan perubahan sosial yang terjadi akibat adanya perbedaan kepentingan dan kekuasaan dalam masyarakat.",
+"Dalam konteks globalisasi, bagaimana kita bisa mendefinisikan istilah 'pembangunan' dengan sebaik-baiknya?
+A.Istilah pembangunan mengacu pada kondisi manusia di mana ada kebebasan dari rasa takut dan keinginan; Ada sumber daya yang cukup untuk mempertahankan kehidupan dan kehidupan ini dapat ada dalam keadaan bebas dari ancaman, atau ancaman yang dirasakan, dari gangguan mendadak.
+B.Untuk dianggap maju, suatu bangsa harus telah mencapai status ekonomi dan politik tertentu dalam sistem negara global; Kriteria untuk apa yang merupakan negara 'maju' dengan demikian didefinisikan oleh persyaratan interaksi dalam sistem ini.
+C.Pembangunan adalah sarana untuk mengatasi ketidaksetaraan yang menyertai globalisasi neoliberal. Dalam konteks ini, pembangunan mengacu pada kemampuan populasi atau komunitas untuk secara efektif memanfaatkan sumber daya dan meningkatkan efisiensi dalam produksi dan distribusi, mempromosikan distribusi pendapatan yang lebih adil dalam masyarakat.
+D.Pengembangan komunitas mengacu pada sistem nilai ideologis dan etika yang menjadi langganan penduduknya. Dalam sistem internasional global, ini mengacu pada adopsi ideologi demokrasi liberal barat dan ekonomi pasar bebas.",C,"Dari pilihan jawaban yang diberikan, saya memilih jawaban C sebagai definisi terbaik untuk istilah 'pembangunan' dalam konteks globalisasi.
+
+Alasan saya memilih jawaban C:
+
+1. Jawaban C menekankan pada kemampuan populasi atau komunitas untuk memanfaatkan sumber daya secara efektif dan meningkatkan efisiensi dalam produksi dan distribusi. Hal ini sejalan dengan tujuan pembangunan yang ingin meningkatkan kesejahteraan masyarakat.
+
+2. Jawaban C juga menyebutkan tentang mempromosikan distribusi pendapatan yang lebih adil dalam masyarakat. Ini penting karena globalisasi seringkali diiringi dengan meningkatnya ketidaksetaraan ekonomi, sehingga pembangunan harus berupaya mengatasi masalah tersebut.
+
+3. Jawaban C tidak terlalu sempit seperti jawaban B yang hanya menekankan pada pencapaian status ekonomi dan politik tertentu dalam sistem global. Pembangunan seharusnya lebih luas dari sekedar mencapai status tertentu.
+
+4. Jawaban C juga tidak terlalu luas seperti jawaban A yang mencakup kebebasan dari rasa takut dan keinginan. Meskipun hal tersebut penting, definisi pembangunan dalam konteks globalisasi sebaiknya lebih fokus pada aspek ekonomi dan sosial.
+
+Jadi, secara keseluruhan, jawaban C paling sesuai dalam mendefinisikan 'pembangunan' dalam konteks globalisasi saat ini.",
+"Tujuan dari studi double-blind atau double-masked adalah untuk:
+A.Mencapai komparabilitas subjek yang diobati dan tidak diobati
+B.Mengurangi efek variasi sampling
+C.Hindari bias pengamat dan subjek
+D.Hindari bias pengamat dan variasi pengambilan sampel",B,"Jawaban yang tepat adalah C. Hindari bias pengamat dan subjek.
+
+Tujuan utama dari studi double-blind atau double-masked adalah untuk menghindari bias yang mungkin timbul dari pengamat (peneliti) dan subjek penelitian. Dengan cara ini, baik pengamat maupun subjek tidak mengetahui siapa yang mendapatkan perlakuan atau plasebo, sehingga dapat mengurangi kemungkinan terjadinya bias.
+
+Opsi A (Mencapai komparabilitas subjek yang diobati dan tidak diobati) adalah tujuan umum dari semua studi klinis, bukan tujuan khusus dari studi double-blind.
+
+Opsi B (Mengurangi efek variasi sampling) tidak tepat, karena studi double-blind tidak secara langsung mengatasi masalah variasi sampling.
+
+Opsi D (Hindari bias pengamat dan variasi pengambilan sampel) juga tidak tepat, karena studi double-blind hanya mengatasi bias pengamat dan subjek, bukan variasi pengambilan sampel.
+
+Jadi, jawaban yang paling tepat adalah C. Hindari bias pengamat dan subjek.",
