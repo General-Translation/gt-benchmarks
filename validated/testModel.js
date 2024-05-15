@@ -46,7 +46,7 @@ async function askQuestion(question) {
 async function processCSV(filePath, csvWriter) {
     let questions = [];
     let correctCount = 0;
-    const batchSize = 25;
+    const batchSize = 50;
     const delayTime = 1000;
 
     return new Promise((resolve, reject) => {
